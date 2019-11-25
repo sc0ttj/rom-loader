@@ -19,6 +19,8 @@ more!_
 
 Made for [Puppy Linux](http://puppylinux.com). Thanks to [zigbert](https://github.com/zigbert) and many others...
 
+Forum thread: http://murga-linux.com/puppy/viewtopic.php?t=92414
+
 ## Requirements
 
 ### Dependencies

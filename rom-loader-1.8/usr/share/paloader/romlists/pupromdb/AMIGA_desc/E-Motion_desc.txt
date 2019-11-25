@@ -1,0 +1,21 @@
+This strategic action puzzle game features original gameplay. You control a spacecraft situated on a globe which you can rotate and move around the screen. You must knock globes into others of the same colour, to rid the screen of all the globes. The screen has no borders, so globes can be pushed off the side of the screen, increasing your tactical range. Knocking globes of different colors into each other produces smaller pods which need to be picked up quickly, giving you energy, or they will turn into globes and you will have to get rid of them too. Many of the globes are linked to other globes (or the ship) via string, and the level layouts include barriers as obstacles (and ricochet points), making the Newtonian physics more complex.
+ 
+http://www.mobygames.com/game/amiga/game-of-harmony
+_________________________
+CHEATS:
+
+When the picture of Einstein appears the second time, type "MOONUNIT"
+and press 'RETURN'.  Now use the following keys during play:
+
+              'F1'______________________Forward a level.
+              'F2'_________________________Back a level.
+              'F3'___________________Forward ten levels.
+              'F4'______________________Back ten levels.
+
+There are five ways you can complete a level and gain a hidden bonus:
+
+    - Finish a level with the last digit of the timer as a three.
+    - Complete a level collecting exactly 4 pods.
+    - Completely fail a bonus level by doing everything wrong.
+    - Complete a screen without wrapping around the screen.
+    - Finish a level without rotating your ship right (clockwise).

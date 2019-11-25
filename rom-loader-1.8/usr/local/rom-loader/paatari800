@@ -1,0 +1,600 @@
+#!/bin/sh
+
+###### initial setup vars and cli interface #####
+{
+# enable joypad rom browsing
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#get settigns for this gui
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/paatari800rc
+# set some vars as defaults for paatari800 command line interface
+export FULLGUI=''
+export FSGUI=''
+export FULLSCREENGUI='';
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.bin$|\.a52$|\.atr$|\.zip$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_atari' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "paatari800 $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: paatari800 [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    		Start the rom loader GUI in fullscreen
+  -h    		Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+}
+
+######  load config file or defaults #####
+{
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	ATARI_SYSTEM="-atari"
+	BASIC=Default
+	MODE=Default
+	MAPRAM=Default
+	TURBO=Default
+	CART_REBOOT=Default
+	MOUSE=Default
+	MULTI_JOY=Default
+	FS=true
+	RES=Default
+	STRETCH=Default
+	FIT=Default
+	IMAGE_ASPECT=Default
+	SCANLINES=Default
+	VID_ACCEL=Default
+	OGL=true
+	OGLBILINEAR=true
+	SOUND=Default
+	JOY1=Default
+	JOY2=Default
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+}
+
+#####     F U N C T I O N S     ######
+{
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#paatari800 config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+
+	echo ATARI_SYSTEM="$ATARI_SYSTEM" >> $CONFIG
+	echo BASIC="$BASIC" >> $CONFIG
+	echo MODE="$MODE" >> $CONFIG
+	echo MAPRAM="$MAPRAM" >> $CONFIG
+	echo TURBO="$TURBO" >> $CONFIG
+	echo CART_REBOOT="$CART_REBOOT" >> $CONFIG
+	echo MOUSE="$MOUSE" >> $CONFIG
+	echo MULTI_JOY="$MULTI_JOY" >> $CONFIG
+	echo FS="$FS" >> $CONFIG
+	echo RES="$RES" >> $CONFIG
+	echo STRETCH="$STRETCH" >> $CONFIG
+	echo FIT="$FIT" >> $CONFIG
+	echo IMAGE_ASPECT="$IMAGE_ASPECT" >> $CONFIG
+	echo SCANLINES="$SCANLINES" >> $CONFIG
+	echo VID_ACCEL="$VID_ACCEL" >> $CONFIG
+	echo OGL="$OGL" >> $CONFIG
+	echo OGLBILINEAR="$OGLBILINEAR" >> $CONFIG
+	echo SOUND="$SOUND" >> $CONFIG
+	echo JOY1="$JOY1" >> $CONFIG
+	echo JOY2="$JOY2" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	
+	write_config #keep settings for next startup/next game, write to config file
+
+	C=""
+	
+	case $ATARI_SYSTEM in
+	Default) C="$C -atari -rambo" ;;
+	blank) C="$C" ;;
+	*) C="$C -$ATARI_SYSTEM" ;;
+	esac
+	
+	case $BASIC in
+	true) C="$C -basic" ;;
+	false) C="$C -nobasic" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $MODE in
+	ntsc) C="$C -ntsc" ;;
+	pal) C="$C -pal" ;;
+	*) C="$C" ;;
+	esac
+	
+	case $MAPRAM in
+	true) C="$C -mapram" ;;
+	false) C="$C -no-mapram" ;;
+	*) C="$C" ;;
+	esac
+	
+	case $TURBO in
+	true) C="$C -turbo" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $CART_REBOOT in
+	true) C="$C -cart-autoreboot" ;;
+	false) C="$C -no-cart-autoreboot" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $MOUSE in
+	Default) C="$C" ;;
+	*) C="$C -mouse $MOUSE" ;; 
+	esac
+	
+	case $MULTI_JOY in
+	true) C="$C -multijoy" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $FS in
+	true) C="$C -fullscreen" ;;
+	false) C="$C -windowed" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $RES in
+	320x200) C="$C -win-height 200 -win-width 320 -fs-height 200 -fs-width 320" ;;
+	320x240) C="$C -win-height 240 -win-width 320 -fs-height 240 -fs-width 320" ;;
+	512x384) C="$C -win-height 384 -win-width 512 -fs-height 384 -fs-width 512" ;;
+	600x400) C="$C -win-height 400 -win-width 600 -fs-height 400 -fs-width 600" ;;
+	600x480) C="$C -win-height 480 -win-width 600 -fs-height 480 -fs-width 600" ;;
+	640x480) C="$C -win-height 480 -win-width 640 -fs-height 480 -fs-width 640" ;;
+	800x600) C="$C -win-height 600 -win-width 800 -fs-height 600 -fs-width 800" ;;
+	960x600) C="$C -win-height 600 -win-width 960 -fs-height 600 -fs-width 960" ;;
+	960x720) C="$C -win-height 720 -win-width 960 -fs-height 720 -fs-width 960" ;;
+	1024x600) C="$C -win-height 600 -win-width 1024 -fs-height 600 -fs-width 1024" ;;
+	1024x768) C="$C -win-height 768 -win-width 1024 -fs-height 768 -fs-width 1024" ;;
+	2048x768) C="$C -win-height 768 -win-width 2048 -fs-height 768 -fs-width 2048" ;;
+	2048x1024) C="$C -win-height 1024 -win-width 2048 -fs-height 1024 -fs-width 2048" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $STRETCH in
+	Default) C="$C" ;; 
+	*) C="$C -stretch $STRETCH" ;;
+	esac
+	
+	case $FIT in
+	Default) C="$C" ;; 
+	*) C="$C -fit-screen $FIT" ;;
+	esac
+	
+	case $IMAGE_ASPECT in
+	Default) C="$C" ;; 
+	*) C="$C -image-aspect $IMAGE_ASPECT" ;;
+	esac
+	
+	case $SCANLINES in
+	Default) C="$C" ;; 
+	*) C="$C -scanlines $SCANLINES" ;;
+	esac
+	
+	case $VID_ACCEL in
+	true) C="$C -video-accel" ;;
+	false) C="$C -no-video-accel" ;;
+	*) C="$C" ;;
+	esac
+	
+	case $OGL in
+	true) C="$C -pbo" ;;
+	false) C="$C -no-pbo" ;;
+	*) C="$C" ;;
+	esac
+	
+	case $OGLBILINEAR in
+	true) C="$C -bilinear-filter" ;;
+	false) C="$C -no-bilinear-filter" ;;
+	*) C="$C" ;;
+	esac
+	
+	case $SOUND in
+	true) C="$C -sound" ;;
+	false) C="$C -nosound" ;;
+	*) C="$C" ;;
+	esac
+	
+	case $JOY1 in
+	Default) C="$C" ;; 
+	*) C="$C -joy1 $JOY1" ;;
+	esac
+	
+	case $JOY2 in
+	Default) C="$C" ;; 
+	*) C="$C -joy2 $JOY1" ;;
+	esac
+	
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile atari800 &>/dev/null
+	rejoystick2cc --load --profile atari800 &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+	 
+	 #this is the actual command
+	 cd "$DIR"
+	 mkdir -p /tmp/paloader
+	 echo "atari800 $C \"$DIR$CHOOSER\"" > /tmp/paloader/${SELF}_cmd
+	 . /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+}
+
+#####     P R O G R A M     ######
+{
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${ATARI_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+}
+
+###### build gui #####
+{
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+# check for BIOS
+if [ ! -e "/usr/lib/games/atari/atariosa.rom" -o ! -e "/usr/lib/games/atari/atariosb.rom" ];then
+	. /usr/local/rom-loader/func/func_get_bios
+	get_bios_atari
+fi
+
+#main gui
+S='<window title="Puppy Arcade - Multi Atari loader (atari800)" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+  <vbox>
+
+	<frame System options>
+		<hbox>
+			<text><label>Atari System:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the system you want to emulate. Choose Default to try and emulate all/any of them, which seems to play most games fine. You might get better performance or reliability by choosing the correct one though.">
+				<variable>ATARI_SYSTEM</variable>
+				'$ATARI_SYSTEM_ITEMS'
+			</combobox>
+			<text width-request="15"><label>""</label></text> 
+			<text><label>Enable BASIC:</label></text>
+			<combobox width-request="120" tooltip-text="Enable or disable BASIC">
+				<variable>BASIC</variable>
+				'$BASIC_ITEMS'
+			</combobox>
+		</hbox>
+
+		<hbox>
+			<text><label>MAPRAM:</label></text>
+			<combobox width-request="120" tooltip-text="Enable memory extension or addon.... or something!">
+				<variable>MAPRAM</variable>
+				'$MAPRAM_ITEMS'
+			</combobox>
+			<text width-request="15"><label>""</label></text> 
+			<text><label>Turbo Speed:</label></text>
+			<combobox width-request="120" tooltip-text="Enable much faster Turbo emulation speeds">
+				<variable>TURBO</variable>
+				'$TURBO_ITEMS'
+			</combobox>
+		</hbox>
+
+		<hbox>
+			<text><label>Reboot on Cart Change:</label></text>
+			<combobox width-request="120" tooltip-text="Reboot the emulated system when a new cartridge is inserted">
+				<variable>CART_REBOOT</variable>
+				'$CART_REBOOT_ITEMS'
+			</combobox>
+		</hbox>
+	</frame>
+  
+  	<frame Display options>
+
+		<hbox>
+
+			<checkbox tooltip-text="Enable fullscreen display">
+				<label>Enable fullscreen</label>
+				<variable>FS</variable>
+				<default>"'$FS'"</default>
+			</checkbox>
+			<text width-request="15"><label>""</label></text> 
+			<text><label>Resolution:</label></text>
+			<combobox width-request="120" tooltip-text="Choose your preferred screen resolution (fullscreen) or window size (windowed)">
+				<variable>RES</variable>
+				'$RES_SET'
+				'$RES_ITEMS'
+			</combobox>
+
+		</hbox>
+
+		<hbox>
+
+			<checkbox tooltip-text="Enable OpenGL for improved performance">
+				<label>OpenGL</label>
+				<variable>OGL</variable>
+				<default>"'$OGL'"</default>
+			</checkbox>
+			<text width-request="15"><label>""</label></text> 
+			<checkbox tooltip-text="Enable bilinear filters for smoother looking graphics">
+				<label>OpenGL Bilinear Filters</label>
+				<variable>OGLBILINEAR</variable>
+				<default>"'$OGLBILINEAR'"</default>
+			</checkbox>
+			<text width-request="15"><label>""</label></text> 
+
+		</hbox>
+
+		<hbox>
+			<text width-request="15"><label>""</label></text> 
+			<text><label>Hardware Accel:</label></text>
+			<combobox width-request="120" tooltip-text="Enable video hardware acceleration">
+				<variable>VID_ACCEL</variable>
+				'$VID_ACCEL_ITEMS'
+			</combobox>
+
+			<text width-request="15"><label>""</label></text> 
+			<text><label>Stretch:</label></text>
+			<combobox width-request="120" tooltip-text="Choose your preferred stretching option">
+				<variable>STRETCH</variable>
+				'$STRETCH_ITEMS'
+			</combobox>
+
+		</hbox>
+
+		<hbox>
+
+			<text><label>Aspect ratio:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the preferred aspect ratio">
+				<variable>IMAGE_ASPECT</variable>
+				'$IMAGE_ASPECT_ITEMS'
+			</combobox>
+
+			<text width-request="50"><label>""</label></text> 
+			<text><label>Fit:</label></text>
+			<combobox width-request="120" tooltip-text="Choose how you want the image to fit the screen or window">
+				<variable>FIT</variable>
+				'$FIT_ITEMS'
+			</combobox>
+
+		</hbox>
+
+		<hbox>
+
+			<text><label>Scanlines:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the amount of scanlines you want .. higher is more">
+				<variable>SCANLINES</variable>
+				'$SCANLINES_ITEMS'
+			</combobox>
+
+			<text width-request="30"><label>""</label></text> 
+			<text><label>Mode:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the preferred video output. PAL is Europe, NTSC is USA, Japan">
+				<variable>MODE</variable>
+				'$MODE_ITEMS'
+			</combobox>
+		</hbox>
+
+	</frame>
+
+	<frame Sound options>
+		<hbox>
+			<text><label>Sound:</label></text>
+			<combobox width-request="120" tooltip-text="Enable or disable sound">
+				<variable>SOUND</variable>
+				'$SOUND_ITEMS'
+			</combobox>
+		</hbox>
+	</frame>
+  
+	<frame Input options>
+		<hbox>
+			<text><label>Mouse:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the device that your mouse will emulate">
+				<variable>MOUSE</variable>
+				'$MOUSE_ITEMS'
+			</combobox>
+			<text width-request="15"><label>""</label></text> 
+			<text><label>Multi-Joy:</label></text>
+			<combobox width-request="120" tooltip-text="Enable Multi-Joy support.. recommended">
+				<variable>MULTI_JOY</variable>
+				'$MULTI_JOY_ITEMS'
+			</combobox>
+		</hbox>
+		<hbox>
+			<text><label>Joypad 1:</label></text>
+			<combobox width-request="120" tooltip-text="Choose your input device for player 1">
+				<variable>JOY1</variable>
+				'$JOY1_ITEMS'
+			</combobox>
+			<text width-request="20"><label>""</label></text> 
+			<text><label>Joypad2:</label></text>
+			<combobox width-request="120" tooltip-text="Choose your input device for player 2">
+				<variable>JOY2</variable>
+				'$JOY2_ITEMS'
+			</combobox>
+		</hbox>
+	</frame>
+  
+  
+  </vbox>
+## H E L P
+  <vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Atari800 Help:
+=======================
+
+Controls:
+
+The Atari800 emulator should enable your joypad 
+by default.. If not, heres the keyboard keys:
+
+Player 1
+Numpad arrows		Up, down, left, right
+Right Control			Fire
+
+Player 2
+W,A,S,D					Up, down, left, right
+Left Control				Fire
+
+F1			Main Menu (use it!)
+F9			Quit
+R			Soft Reset
+F5			Soft Reset
+Shft-F5	Hard Reset
+  
+"</default>
+	</edit>		
+  </vbox>
+
+ </notebook>
+
+## B U T T O N S
+
+	<hbox height-request="30">
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/share/doc/atari800/README /usr/share/doc/atari800/USAGE &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+}
+
+### run gui ####
+export paatari800="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p paatari800 $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset paatari800
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

@@ -1,0 +1,5 @@
+This is a hack of Adventures of Lolo 2. Just like Challenging Lolo, it features 54 new levels, palette changes, and a few graphics changed.
+
+Special thanks to bbitmaster's level editor for making all this possible and thanks to him for making the 4 new pro maps possible as well!
+
+http://www.romhacking.net/hacks/202/

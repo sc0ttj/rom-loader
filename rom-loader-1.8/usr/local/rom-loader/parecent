@@ -1,0 +1,368 @@
+#!/bin/sh
+
+#enable joypad navigation
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/parecentrc
+# set some vars as defaults
+export FULLGUI=''
+export FSGUI=''
+export FULLSCREENGUI='';
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="."  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="parecent"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="RECENT" #example: linux or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='recent' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "parecent $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: parecent [OPTION]
+
+Options
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR=$HOME #default browser dir
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#parecent config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	#get the system of the chosen rom
+	ROMSYSTEM="`cat /root/.paloader/parecent.txt | grep -F -i -m1 \"$CHOOSER\" | cut -f13 -d'|'`"
+	case ${ROMSYSTEM,,} in
+	atari*2600) ROMSYSTEM=atari2600 ;;
+	atari*st) ROMSYSTEM=atarist ;;
+	colecovision) ROMSYSTEM=coleco ;;
+	commodore*64) ROMSYSTEM=com ;;
+	ms*dos) ROMSYSTEM=dos ;;
+	gameboy*) ROMSYSTEM=gba ;;
+	game*gear) ROMSYSTEM=gamegear ;;
+	genesis) ROMSYSTEM=gen ;;
+	intellivision) ROMSYSTEM=intv ;;
+	linux) ROMSYSTEM=linux ;; 
+	neogeo*cd) ROMSYSTEM=neocd ;;
+	nintendo*entertainment*system) ROMSYSTEM=nes ;;
+	famicom) ROMSYSTEM=nes ;;
+	master*system) ROMSYSTEM=sms ;;
+	media*) ROMSYSTEM=media ;;
+	msx*) ROMSYSTEM=msx ;;
+	nintendo*64) ROMSYSTEM=n64 ;;
+	neogeo*pocket) ROMSYSTEM=ngp ;;
+	pc*engine) ROMSYSTEM=pce ;;
+	pc*fx) ROMSYSTEM=pcfx ;;
+	playstation) ROMSYSTEM=psx ;;
+	scumm*vm) ROMSYSTEM=scumm ;;
+	sega*32x) ROMSYSTEM=sega32x ;;
+	sega*cd) ROMSYSTEM=segacd ;;
+	*sega*net*) ROMSYSTEM=genesis ;;
+	virtual*boy) ROMSYSTEM=vb ;;
+	wonderswan*) ROMSYSTEM=wswan ;;
+	*zx*spectrum*) ROMSYSTEM=zxspec ;;
+	esac
+	
+	# get the romloader gui needed for that system
+	ROMGUI="`cat /root/.paloader/backend_to_gui.txt | grep -i -m1 ^$ROMSYSTEM | cut -f2 -d'|'`"
+	
+	echo ROMSYSTEM is $ROMSYSTEM
+	echo ROMGUI is $ROMGUI 
+
+	# include the rom $DIR of the given ROM ... it is *probably* contained within the rc file of the ROMGUI
+	ROMGUIRC="${ROMGUI}rc"
+	[ "`echo $ROMGUI | grep ^pamed`" != "" ] && ROMGUIRC=pamednafenrc
+	[ "`echo $ROMGUI | grep ^pafusion`" != "" ] && ROMGUIRC=pafusionrc
+	[ "$ROMGUI" = "pasega32x" ] && ROMGUIRC=pagenesisrc
+	[ "$ROMGUI" = "pasegacd" ] && ROMGUIRC=pagenesisrc
+	[ -f /root/.paloader/${ROMGUIRC} ] && . /root/.paloader/${ROMGUIRC}
+	
+	unclutter -idle 1 -jitter 6 -reset -root &
+	
+	#maybe pagenesis or pamednafen is has last played a rom if another system,
+	#so the rom dir will not match... so .. lets check all the rom dirs that are ever set by rom-loader
+	#when we find a valid romdir and rom path, use it, exit the loop
+	ROMDIR="$DIR"
+	if [ ! -f "$ROMDIR$CHOOSER" ];then
+		for SYSDIR in GBADIR GAMEGEARDIR LYNXDIR GENDIR NESDIR NGPDIR PCEDIR PCFXDIR SEGA32XDIR SEGACDDIR SMSDIR 
+		do
+			ROMDIR="`cat /root/.paloader/${ROMGUIRC} | grep -m1 \"$SYSDIR\" | cut -f2 -d'='`"
+			[ -f "$ROMDIR$CHOOSER" ] && break
+		done
+	fi
+
+	# the actual, final command
+	echo "$ROMGUI -rom \"$ROMDIR$CHOOSER\""  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	export SYSTEM=RECENT
+	
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+#define default directory in browser
+#echo "$DIR" > $WORKDIR/dir
+#ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+#browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid game in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+#if [ -f "$ROMFILE" ];then #if rom was given
+#	# set the required vars to locate the rom
+#	export DIR="`dirname \"$ROMFILE\"`/"
+#	export CHOOSER="`basename \"$ROMFILE\"`"
+#	# load up the rom
+#	execute
+#	kill_rejoystick
+#	exit
+#fi
+
+# get all arrays for combobox items
+#. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+#. /usr/local/rom-loader/func/func_build_chooser_gui
+#####  build chooser gui manually here
+
+#create source file if not exists
+[ ! -f /root/.paloader/parecent.txt ] && echo -n '' > /root/.paloader/parecent.txt
+
+# create the headers we need for the rom tree
+# if the $SYSTEM.txt file exists, we need lots of headers, cos we have lots of rom info
+if [ -f /root/.paloader/parecent.txt -a "$ROM_DATABASE" = true ];then
+	TREE_LABELS="Rom|Fav|Pl|Date|Genre|Region|Publisher|Developer|Cert.|Media|Input|Platform"
+else
+	TREE_LABELS="Rom"
+fi
+
+# if both box art and rom descriptions are disabled, remove the whole bottom panel from the gui
+if [ "$ROM_BOXART_ENABLE" = false -a "$ROM_DESCR_ENABLE" = false ];then
+	ROM_BOTTOM_PANEL=false
+else
+	ROM_BOTTOM_PANEL=true
+fi
+
+# if box art and descriptions are true, disable homogenous (centered) placement of boxart
+if [ "$ROM_BOXART_ENABLE" = true -a "$ROM_DESCR_ENABLE" = true ];then
+	ROM_BOTTOM_HOMOG=false
+else
+	ROM_BOTTOM_HOMOG=true
+fi
+
+case $ROM_HSCROLLBAR in
+true) HSCROLLBAR=1;; # enabled
+false) HSCROLLBAR=2;; # disabled
+*) HSCROLLBAR=2 ;;
+esac
+
+#set position of rom boxart and descriptions (top or bottom) ... 
+# the setting is actually ROM_LIST_POS ... but here, we move stuff (boxart and descrs) around it instead... 
+BOXART_DESC_TOP=''
+BOXART_DESC_BOTTOM=''
+BOXART_DESC_GUI='<hbox homogeneous="'$ROM_BOTTOM_HOMOG'" visible="'$ROM_BOTTOM_PANEL'">
+	<pixmap visible="'$ROM_BOXART_ENABLE'" allow_expand="false" auto_refresh="true">
+		<variable>BOXART</variable>
+		<width>280</width><height>200</height>
+		<input file>/root/.paloader/tmp/boxart.jpg</input>
+	</pixmap>
+	<edit name="romdescr" visible="'$ROM_DESCR_ENABLE'" indent="5" editable="false" can_focus="true" hscrollbar_policy="2" vscrollbar_policy="1">
+	   <height>200</height>
+	   <input file>'$WORKDIR'/info</input>
+	   <variable>INFO</variable>
+	</edit>
+</hbox>'
+#if romlist at 'top',			we move rom boxart and descriptions to bottom,
+# if romlist at 'bottom',	we move rom boxart and descriptions to top 
+case ${ROM_LIST_POS:-top} in
+	top) export BOXART_DESC_BOTTOM="$BOXART_DESC_GUI" ;;
+	bottom) export BOXART_DESC_TOP="$BOXART_DESC_GUI" ;;
+esac
+
+# for keeping line number in separate files per system in selected-line="$LAST_LINE" ...
+#export LAST_LINE="`cat /tmp/paloader/${SYSTEM}_lastrom`"
+#LAST_LINE="${LAST_LINE:-1}"
+#now build the actual file browsing, rom listing part of the current rom-laoder gui
+CHOOSER_GUI='<vbox>
+<hbox>
+   <entry auto_refresh="true" visible="false" can_focus="false"><variable>DIR</variable><input>cat '$WORKDIR'/dir</input></entry>
+   <button visible="false" can_default="true" has_default="false" use_stock="true" can_focus="false">
+	<label>Go</label>
+	<action>browser_go_to_dir</action>
+	<action>refresh:CHOOSER</action>
+	<action>refresh:DIR</action>
+   </button>
+</hbox>
+'$BOXART_DESC_TOP'
+<tree name="romtree" rules-hint="true" selected_row="0" headers_visible="true" auto_refresh="true" has_focus="true" 
+hover_selection="false" selection-mode="'${SEL_MODE:-1}'" column-sort-function="0|0|1|1" hscrollbar_policy="'${HSCROLLBAR:-2}'" vscrollbar_policy="1">
+   <label>'$TREE_LABELS'</label>
+   <height>'$HEIGHT_TREE'</height>
+   <variable>CHOOSER</variable>
+   <input icon_column="0">tac /root/.paloader/parecent.txt</input>
+   ## the cursor-changed signal will refresh INFO using joypad navigation of rom list
+   ##<action signal="button-release-event">export lineno=`cat "'$WORKDIR'/files" | grep -F -B2000 "${CHOOSER}" | wc -l`; echo $lineno > /tmp/paloader/${SYSTEM}_lastrom</action>
+   <action signal="cursor-changed">filecheck</action>
+   <action signal="cursor-changed">refresh:INFO</action>
+   <action signal="cursor-changed">refresh:BOXART</action>
+   <action>browser_change_dir</action> ## I M P O R T A N T
+   ## refreshing CHOOSER makes us lose the last selected ROM, but enables auto update of list info
+   <action>refresh:CHOOSER</action>   ## if we dont do this, the popup menu sometimes gets stuck in a loop!
+   <action>refresh:DIR</action>
+</tree>
+'$BOXART_DESC_BOTTOM'
+</vbox>'
+export CHOOSER_GUI
+
+#build gui
+S='
+<window title="Puppy Arcade - Recent ROMs loader" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## H E L P
+  <vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Recent Roms Help:
+		
+Here you can see all the most recently played ROMs.
+You can can also play them from here.
+
+NOTE!!   This list is experimental... 
+			  There may be bugs or errors.
+
+The file which contains the list is:
+	/root/.paloader/parecent.txt
+
+"</default>
+	</edit>		
+  </vbox>
+
+</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/share/doc/linux/readme.txt &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export parecent="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p parecent $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset parecent
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Rom-Loader
+Icon=/usr/share/pixmaps/arcade.png
+Comment=
+Exec=paloader -f -s
+Terminal=false
+Type=Application
+Categories=Game
+GenericName=rom-loader

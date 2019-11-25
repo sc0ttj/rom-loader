@@ -1,0 +1,13 @@
+Poor Roger Wilco. While our ace-janitor was taking a nap in the utility closet, the evil Sariens attacked the starship Arcada, murdered the rest of the crew, and stole the Star Generator. This is a tool that can turn a barren moon into a blazing sun, but I bet I the Sariens' intentions are a lot less noble. Now it's up to Roger to stop them. The future of the galaxy lies in his, rather clumsy, hands! But first you'll have to find a way for Roger to get off the Arcada before it explodes. You have fifteen minutes...
+
+Space Quest 1: Roger Wilco in the Sarien Encounter is a remake of the original release of Space Quest: The Sarien Encounter. It is a humorous adventure game. The new version has enhanced graphics, soundblaster support and uses the SCI game engine (point-and-click interface, icons along the top) rather than the AGI engine (mixed point-and-click with text parser). Some of the puzzles have also been changed.
+
+Trivia:
+
+The reference to King's Quest in which Roger Wilco would crash land into Daventry by pressing a button on the escape pod has been changed for the remake. You now crash into the outskirts of Nottingham Castle, as featured in Conquests of the Longbow: The Legend of Robin Hood. Furthermore, all references to King's Quest on dialogues have been removed.
+
+The remake of Space Quest 1 was available in four different packages! A 16 color version (supported EGA, MCGA, VGA and Tandy/PCjr with either DD 3.5" or HD 5.25" disks) and a 256 color version (supported MCGA and VGA with either HD 3.5" or HD 5.25" disks)
+
+As a parody of all the "instant replay" hype in the pro-sports world at the time, two of the funnier deaths in here feature a replay with commentary from the Two Guys, complete with pseudo-chalk markings on the screen.
+
+http://www.mobygames.com/game/space-quest-i-roger-wilco-in-the-sarien-encounter

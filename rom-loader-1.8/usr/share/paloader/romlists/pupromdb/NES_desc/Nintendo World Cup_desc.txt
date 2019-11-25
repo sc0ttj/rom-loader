@@ -1,0 +1,15 @@
+World Cup Soccer was produced by the same company that made River City Ransom (American Technos), licensed by Nintendo for a US release. The japanese name for this game is Nekketsu Koukou Dodgeball-bu Soccer-hen.
+
+http://www.nesguide.com/games/worldcupsoccer/
+This hack allows any of the thirteen teams in the game to be used in VS Match Mode with the proper graphics and statistics. In order to accomplish this, it expands the CHR-ROM portion of the ROM file to create space for the graphics of the team combinations not originally present. It replaces the team select screen from VS Match Mode with the one from Tournament Mode. It also changes the palette used when both players select the same team so that the second team does not use the palette of England. This is done for clarity in case both players elect to play as England.
+
+http://www.romhacking.net/hacks/414/
+Combo cart containing three Nintendo classics on one single cartridge. Super Mario Bros. stars "Jump Man" himself, Mario, along with his brother Luigi, and takes players through more than 30 colorful levels of varied theme and design, all of them packed with cute, stylized enemies like the goombas and a wide array of platforms and obstacles. Tetris is a faithful console adaptation of Pajitnov's insanely addictive puzzle game, and World Cup is a Technos developed soccer game.
+Super Spike V'Ball / Nintendo World Cup was a pack-in game included with the Nintendo Entertainment System Sports Set. The package included a standard NES console, four game controllers, and the Four Score Multiplayer Adapter. The cart included two games developed by Technos - 
+- Super Spike V'Ball, a two-on-two beach volleyball game where you played on a tournament, ending with the world championship. The game supported up to four players on one match at a time;
+
+- Nintendo World Cup, a soccer game where you (and a friend) chose to represent a team and played several matches until you won the World Cup. The game featured little to no rules, which means that you could hit your opponents as much as you want, without fear of the Ref getting in the way.
+
+Both games were compatible with the included Four Score NES multiplayer adapter.
+
+http://www.mobygames.com/game/nes/super-spike-vball-nintendo-world-cup

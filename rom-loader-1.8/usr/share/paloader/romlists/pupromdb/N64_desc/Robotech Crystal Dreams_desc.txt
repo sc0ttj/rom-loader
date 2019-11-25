@@ -1,0 +1,14 @@
+Robotech: Crystal Dreams was a canceled Robotech video game for the Nintendo 64. The developer, GameTek filed for Chapter 11 bankruptcy before the game could be completed, and was subsequently liquidated. The game was announced on May 1995 as one of the first titles going to be released at the launch of the Nintendo 64 under the working title, Robotech Academy but was eventually cancelled days after being shown at the 1998 E³ trade show. Antarctic Press produced a promotional comic book that was handed out at E³ and is now considered a collectors item.
+[edit] Game Play
+
+Crystal Dreams was primarily a space fighter simulation game, but between levels the player would return to base and be able to interact with a variety of other characters, the game also had a continuing war time line that the player could get reports of what was happening in various parts of space, and could help out by rushing to the aid of those that needed their help most.[1]
+[edit] Background
+
+The game was originally conceived as an ambitious title that involved rendering everything using models in real dimensions, with no background sprites making up the scenery. Planets and stars were all rendered in 3D and in perspective; this resulted in the entire rendered universe requiring six months of real time to traverse from one end to the other. The game was also going to include over 40 minutes of dialogue and featured open-ended gameplay, allowing the player to pick up missions and help the various organizations at his own discretion.
+
+Since work began on Crystal Dreams well before Nintendo finalised their console's hardware, Gametek were unsure on the amount of processing power the system would have and wanted to ensure they could have fast gameplay while having many enemies on screen at the same time. To ensure this, the team used very simple crystal models for the enemies and created a story based around them. Ultimately the low-resolution models were unnecessary, but the design and story had already been established.
+
+The resources and money required to produce a quality 3D title during this transitional period from 2D to 3D was not well understood and the project fell behind schedule. The game's original publisher pulled out, GameTek were unable to find another and did not have the capital to fund the project alone. The developers concede that their design was probably too ambitious, particularly from such a small company; Gametek had only three programmers. Despite this the developers hold the opinion that they only needed another six more months to bring the title to a beta stage before Gametek folded. Unfinished Nintendo 64 ROM images are available to download via the Crystal Dreams developers website.
+
+
+http://en.wikipedia.org/wiki/Robotech:_Crystal_Dreams

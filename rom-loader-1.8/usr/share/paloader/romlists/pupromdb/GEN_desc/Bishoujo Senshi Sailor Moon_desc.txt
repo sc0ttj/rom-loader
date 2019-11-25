@@ -1,0 +1,61 @@
+Sailor Moon, Bishoujo Senshi Sailor Moon) is a beat 'em up arcade game developed by Angel in 1993, and adapted to the SNES. It was translated into French in 1994. The Sega Mega Drive version was developed and published by Ma-Ba, although certain elements were recycled from the Super Famicom version.
+
+The game is set in the first series of Sailor Moon, and you control one or two of the five heroines (Guardian Senshi). Each Senshi has some sequences of blows , three aerial attacks (neutral, moving forward/backward, downward) and a special charge-up projectile.
+
+The game is divided into five stages:
+
+    - Latin Quarter (boss: Bakene)
+
+    - Amusement Park (boss: Muurido)
+
+    - Secret Machine (boss: Zoisite disguised as Sailor Moon)
+
+    - North Pole (boss: Kunzite)
+
+    - Dark Kingdom (boss: Prince Endymion and Queen Beryl)
+
+NOTE: If the game is played on Easy Mode, only Stages 1 and 2 are playable, and the ending only shows a stationary image of the Inner Senshi with Usagi as Princess Serenity from the ending scene although the music does not play at that point.
+
+The five heroines are:
+
+    - Sailor Moon alias Usagi Tsukino; her special attack is Moon Tiara Action
+
+    - Sailor Mercury alias Ami Mizuno; her special attack is Shabon Spray. She is faster than the other Senshi but has a shorter attack. She has a move where she can slam enemies into the ground, making the level shake.
+
+    - Sailor Mars alias Rei Hino; her default attack is the kick, which is stronger than her punch. Her special attack is Fire Soul.
+
+    - Sailor Jupiter alias Makoto Kino; her special attack is Supreme Thunder. She is stronger than any other Senshi and is the only one who jabs enemies with a fist, she does not flip anytime she jumps, and is the second Senshi that can slam enemies on the ground making the level rumble rapidly.
+
+    - Sailor Venus alias Minako Aino; the only Sailor Senshi who uses a weapon (a chain) in battle - her special attack is Crescent Beam. She is the most difficult Senshi to control, but her chain has a better reach than the other Senshi that are unarmed.
+
+The enemies are mostly the youma of the Dark Kingdom that appeared in the anime, but if more than one of the same kind appears at once, the others are coloured differently (a common device for this genre of games):
+
+    - Akan
+
+    - Crane Arashino Joe
+
+    - Garoben
+
+    - Jumeau
+
+    - Jiji
+
+    - Chiffon Puppet (unique to the game)
+
+    - Clown (unique to the game)
+
+    - Female magician (unique to the game)
+
+This game was translated into French in Europe, but was never imported to the United States. In the French translation, there were many errors:
+
+    ?If the player loses the game, "SIN" is displayed onscreen, rather than "FIN" ("GAME OVER").
+
+    - After each level, Tuxedo Mask appears to grade each Senshi's performance. If the player gets a "C", he says "MOYENE" (a non-existent word) rather than "MOYENNE" ("Average").
+
+    - Sailor Venus was renamed "Sailor Mathilde" on the screen where Tuxedo Mask grades each Senshi's performance.
+
+    - The final scene's dialogue has many incomplete sentences.
+
+The Mega Drive counterpart had most of the stages from the SNES game but a few were removed such as the time dimension but had a new stage where you ride an elevator and a roof stage and has different boss battles along with a hidden final boss, Queen Metallia if playing on Hard Mode. The Mega Drive counterpart did not conain any of the music from the SNES game, with the exception of the main theme song at the title screen, bosses also had their own song rather than sharing the same one. The game had different endings depending on which character you play as.
+
+http://en.wikipedia.org/wiki/Sailor_Moon_video_games

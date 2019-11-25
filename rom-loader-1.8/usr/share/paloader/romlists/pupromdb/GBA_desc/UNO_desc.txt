@@ -1,0 +1,26 @@
+The classic card game goes portable with this Game Boy Color Version of Uno!
+
+Play against a friend with the link cable, and play 2 different versions of the game with up to 4 players.
+
+Play to a specific point total and have special cards in the game.
+
+http://www.mobygames.com/game/gameboy-color/uno
+*
+********************************************** V **********************************************
+*
+1312b3f7,fab9d941,da300c6c
+V-Rally '99
+Platform: Gameboy Color
+Region: USA
+Media: Cartridge
+Controller: Gameboy Color
+Genre: Racing , Cars
+Release Year: 1999
+Developer: Infogrames
+Publisher: Infogrames
+@END
+The GameBoy version of the popular  V-Rally series, includes 4 licensed cars and 20 racing tracks from different countries with varying weather conditions (raining on the English track, snow in Sweden etc.), and two game modes: Arcade and Championship. In Arcade mode you race against the clock, and in Championship mode you race against other cars to get to the finish line first.
+
+You see the car from behind in the usual early racing game style, with symbols popping up to warn about turns and obstacles on the road.
+
+http://www.mobygames.com/game/v-rally-championship-edition

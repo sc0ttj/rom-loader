@@ -1,0 +1,23 @@
+Binary Asylum's final release puts you in control of a helicopter, and sets you 32 missions to complete. The level structures involve different military objectives, of protecting or destroying a particular area. The surprise is in the graphics - patchwork-quilt style landscapes and a remote view, reminiscent of Virus. The game offers joystick and mouse control options, as well as sections in which you must direct ships and planes. A range of weapons are offered, with resupply ships on the water to dock with.
+ 
+http://www.mobygames.com/game/amiga/zeewolf-2-wild-justice
+_________________________
+CHEATS:
+
+Level: Password
+
+6: OURGAN
+8: JMARGUS
+9: STAG
+11: KRAKEN
+14: STATION
+16: GBULL
+18: STATIPAUSE
+20: DOITNOW
+23: SHIPDECK
+25: GLOBOFF
+26: BEHAVE
+29: MAXFUEL
+30: PELPAY
+31: DOMINO
+32: STEERDART

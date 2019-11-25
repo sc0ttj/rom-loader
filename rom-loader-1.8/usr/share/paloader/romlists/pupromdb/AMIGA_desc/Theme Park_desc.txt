@@ -1,0 +1,45 @@
+Dominating the exciting world of Theme Park ownership is your goal in this strategy game from Bullfrog. The first task is to set up your rides within the available land, structuring convenient paths and queues and ideally leaving some space for bigger rides once they become available, and include some lakes and trees to increase the park's allure. Rides range from Teacups and Haunted Houses to the biggest most elaborate roller-coaster you can design, and water rides that loop around other rides.
+
+Shops must also be included, so that the visitors can buy food, drinks and souvenirs - the cunning player will combine salt, sugar and caffeine settings to maximize consumer interest. Staff must be hired to keep everything running smoothly, and they will only work for what they consider a fair rate of pay.
+
+You are competing against other Theme Parks, so don't let them get an advantage over you - monitor your success in attracting customers and financial viability closely using the supplied statistics pages. More important, ensure that research is adequately funded to produce new rides.
+
+It can be played in three modes - Sandbox level lets you concentrate on the park design elements, while Sim and Full add more strategic features.
+ 
+http://www.mobygames.com/game/amiga/theme-park
+_________________________
+CHEATS:
+
+Cheat mode (ECS version):
+Create a new park and enter the following information.
+Use any entry for the remaining values.
+
+Name: MARK LAMPORT
+Nickname: MARKL
+Level: SANDBOX
+Opponents: ALL
+Opp. Level: EASY
+Park name: Leave blank
+
+Hold [Left Shift], type zx, then release [Left
+Shift].  Then, hold [Left Alt] + [Left Amiga]
+and type zx to unlock everything except unlimited money.
+ Turn on [Caps Lock] then hold C to increase your
+money up to $999 million.
+
+Cheat mode (ACS version):
+Enter MIKE as a nickname and begin game play.
+Then, press one of the following keys to activate the corresponding
+cheat function. Note: Loading a saved game will negate using the
+extra money feature. Build up your money, save the game, then
+continue.
+
+Effect: Key
+
+All rides available: Z
+
+All amenities available: X
+
+All shops available: I
+
+$50,000 or $100,000: C

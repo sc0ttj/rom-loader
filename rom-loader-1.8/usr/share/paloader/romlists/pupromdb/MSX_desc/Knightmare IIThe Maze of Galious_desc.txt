@@ -1,0 +1,7 @@
+Knightmare II: The Maze of Galious is the sequel of another Konami game called Knightmare.
+
+Maze of Galious is a game where you have to kill thousands of enemies, collect items in order to obtain new powers, and defeat some really big guys at the end of each level. In Maze of Galious you are free to go everywhere you want from the beginning of the game, thus you have to choose very carefully the order in which you visit all the rooms in the huge map if you want to keep your character alive.
+
+The map is structured in a main map (called the Castle) and 10 submaps (called the Worlds). Initially you are in the Castle, and you have to find the keys that open the doors to go to each of the Worlds. To complete the game, you have to defeat the boss at the end of each one of the 10 worlds. You are free to revisit each world as often as you want, in order to see if you have missed something. To defeat all 10 beasts, you control two characters: Popolon and Aphrodite. Each one has special abilities, i.e. Popolon has a greater ability to jump and Aphrodite is able to dive.
+ 
+http://www.mobygames.com/game/msx/knightmare-ii-the-maze-of-galious

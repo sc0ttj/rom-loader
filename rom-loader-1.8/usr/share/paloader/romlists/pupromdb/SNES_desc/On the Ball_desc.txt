@@ -1,0 +1,18 @@
+The gameplay consists of moving a ball through a labyrinth by rotating the board itself around the ball.
+
+Tips:
+
+Passwords:
+GFXJF Change Ball
+ZLJPJ Change Gravity
+MHWYR Expert Mode
+BIRTH Field 2
+BUILD Field 3
+SMILE Field 4
+QWNQP Level Select
+HCCWD Master Mode
+NRRRP Sound Test
+WRJMH Special Mode
+ZNGGX Time Records
+
+http://en.wikipedia.org/wiki/Cameltry

@@ -1,0 +1,1414 @@
+2020 Super Baseball|NOID|0d77933e|x|0|1993|Sports/Baseball|region-unknown|SNK|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+3 Ninjas Kick Back|281|f2ee11f9|x|0|1994|Fighter|USA|Sony Imagesoft|Malibu Interactive|Not Rated|Cartridge|Gamepad|SNES
+7th Saga|282|b3abdde6|x|0|1993|Role Playing|Update Hacks|Enix America Inc.|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+90 Minutes European Prime Goal|303|1ad61bd0|x|0|1995|Sports/Soccer|Europe|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+A.S.P. Air Strike Patrol|305|05c0da54|x|0|1994|Flying|USA|Seta Corporation|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Aaahh!!! Real Monsters|NOID|27ff5ba1|x|0|1995|Platformer|USA|Viacom New Media|Realtime Associates|Not Rated|Cartridge|Gamepad|SNES
+ABC Monday Night Football|1332|e0dc8ad7|x|0|1993|Sports/Football|USA|Data East|Data East|Not Rated|Cartridge|Gamepad|SNES
+Acme Animation Factory|1528|0944a5c3|x|0|1994|Puzzle|USA|Sun Soft|Sunsoft|Not Rated|Cartridge|Gamepad|SNES
+Actraiser|1046|eac3358d|x|0|1991|Action|USA|Enix|Quintet|Not Rated|Cartridge|Gamepad|SNES
+Actraiser 2|1047|4901f718|x|0|1993|Platformer|USA|Enix|Quintet|Not Rated|Cartridge|Gamepad|SNES
+Addams Family Values|1531|98b07db8|x|0|1995|Adventure|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Addams Family|3668|2e8034ab|x|0|1992|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Addams Family Pugsley's Scavenger Hunt|3669|153a00a7|x|0|1992|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Adventures of Batman and Robin|1049|b3ef81f5|x|0|1994|Action|region-unknown|Konami|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Adventures of Dr. Franken|1050|cfab3bba|x|0|1993|Platformer|USA|DTMC|Motivetime Limited|Not Rated|Cartridge|Gamepad|SNES
+Adventures of Kid Kleets|3308|1664ae48|x|0|1994|Platformer|USA|Ocean|Krisalis Software Ltd.|Not Rated|Cartridge|Gamepad|SNES
+Adventures of Rocky and Bullwinkle and Friends|3671|dc8f5734|x|0|1993|Platformer|USA|THQ|Imagineering|Not Rated|Cartridge|Gamepad|SNES
+Adventures of Yogi Bear|3158|7448d45c|x|0|1994|Platformer|USA|Cybersoft|Empire Interactive|Not Rated|Cartridge|Gamepad|SNES
+Aero Fighters|203|f194d00a|x|0|1994|Shooter|USA|Mc O'River|Video System|Not Rated|Cartridge|Gamepad|SNES
+Aero the Acro-Bat|1527|919f23cb|x|0|1993|Platformer|USA|Sun Soft|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Aero the Acro-Bat 2|1530|8c05ed51|x|0|1994|Platformer|USA|Sun Soft|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Aerobiz|1534|54302a46|x|0|1993|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Aerobiz Supersonic|3159|efafab12|x|0|1993|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Air Cavalry|273|6b452801|x|0|1995|Action|USA|Cybersoft|Synergistic Software|Not Rated|Cartridge|Gamepad|SNES
+Al Unser Jr.'s Road to the Top|1605|d0550624|x|0|1994|Driving|USA|Software Toolworks|Radical Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Aladdin|2868|124d8e4d|x|0|1993|Platformer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Alien 3|2970|98e2ac15|x|0|1993|Platformer|USA|LJN Ltd.|Probe Software|Not Rated|Cartridge|Gamepad|SNES
+Alien vs Predator|NOID|1803cf20|x|0|1993|Fighter|region-unknown|Activision|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+American Gladiators|2761|76b151fd|x|0|1993|Sports|USA|GameTek|Imagitec Design Inc.|Not Rated|Cartridge|Gamepad|SNES
+American Tailn Fievel Goes West|NOID|eea38aed|x|0|1994|Platformer|region-unknown|Hudson|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Andre Agassi Tennis|3161|d1ae87be|x|0|1994|Sports/Tennis|USA|TecMagik|Radiance Software|Not Rated|Cartridge|Gamepad|SNES
+Animaniacs|274|cf0f14d2|x|0|1994|Platformer|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Arcade's Greatest Hits|NOID|471b12b0|x|0|1996|Miscellaneous|USA|Midway|Digital Eclipse Software|Not Rated|Cartridge|Gamepad|SNES
+Arcade's Greatest Hits The Atari Collection 1|1568|02394f36|x|0|1997|Miscellaneous|USA|Midway|Digital Eclipse Software|Not Rated|Cartridge|Gamepad|SNES
+Arcana|1707|c891b297|x|0|1992|Role Playing|USA|Hal|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Archer Maclean's Super Dropzone|NOID|e1ccce49|x|0|1995|Shooter|region-unknown|Psygnosis|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Ardy Lightfoot|275|51a5f489|x|0|1996|Platformer|USA|Titus Software|ASCII|Not Rated|Cartridge|Gamepad|SNES
+Arkanoid Doh It Again|1570|b50503a0|x|0|1997|Action|USA|Nintendo|Taito|Not Rated|Cartridge|Gamepad|SNES
+Art of Fighting|1571|9fa74067|x|0|1993|Fighter|USA|SNK|SNK|Not Rated|Cartridge|Gamepad|SNES
+Asterix and Obelix|1572|83af6152|x|0|1995|Platformer|region-unknown|Infogrames|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Asterix|3160|5ddedc28|x|0|1996|Platformer|Europe|Infogrames|Infogrames|Not Rated|Cartridge|Gamepad|SNES
+Axelay|1573|f812b533|x|0|1992|Shooter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+B.O.B.|2763|4f593c46|x|0|1993|Action|USA|Electronic Arts|Gray Matter|Not Rated|Cartridge|Gamepad|SNES
+Ballz 3D Fighting at Its Ballziest|NOID|1c058b7d|x|0|1995|Fighter|region-unknown|Accolade|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Barbie Super Model|3370|3b73610e|x|0|1993|Action|USA|Hi-Tech|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Barbie Vacation Adventure|3476|8ce1ba79|x|0|1994|Miscellaneous|USA|High Tech|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Barkley Shut Up and Jam!|1515|726b6c5a|x|0|1994|Sports/Basketball|USA|Accolade|Accolade|Not Rated|Cartridge|Gamepad|SNES
+Bass Masters Classic|3477|832a27c2|x|0|1995|Sports|USA|Malibu|Malibu Games|Not Rated|Cartridge|Gamepad|SNES
+Bass Masters Classic Pro Edition|3162|c5058634|x|0|1996|Sports|USA|Black Pearl|Black Pearl|Not Rated|Cartridge|Gamepad|SNES
+Bassin's Black Bass|3145|7dc5b7b3|x|0|1994|Sports|USA|Hot-B|Starfish Inc.|Not Rated|Cartridge|Gamepad|SNES
+Batman Forever|3146|d9b5e9cf|x|0|1995|Fighter|USA|Acclaim|Probe Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Batman Returns|1517|e87dfdf6|x|0|1993|Fighter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Battle Blaze|1708|d933bd8d|x|0|1993|Fighter|USA|Sammy Studios|American Sammy|Not Rated|Cartridge|Gamepad|SNES
+Battle Cars|1709|46043454|x|0|1993|Action|USA|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Battle Clash|276|59c00310|x|0|1992|Shooter|USA|Nintendo|Intelligent Systems|Not Rated|Cartridge|Super Scope|SNES
+Battle Grand Prix|1710|190ff436|x|0|1993|Driving|USA|Hudson Soft|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Battletoads and Double Dragon|2772|8b18ac01|x|0|1993|Platformer|region-unknown|Tradewest|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Battletoads in Battlemaniacs|1606|617ac925|x|0|1993|Fighter|USA|Tradewest|Rare|Not Rated|Cartridge|Gamepad|SNES
+Bazooka Blitzkrieg|1711|49c187f3|x|0|1992|Shooter|USA|Bandai|Bandai|Not Rated|Cartridge|Super Scope|SNES
+Beauty and the Beast|NOID|956e183c|x|0|1994|Platformer|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Beavis and Butt-head|3860|15cf4bd5|x|0|1994|Adventure|USA|Viacom New Media|Realtime Associates|Not Rated|Cartridge|Gamepad|SNES
+Bebe's Kids|1713|bda2e412|x|0|1994|Fighter|USA|Motown Games|Radical Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Beethoven the Ultimate Canine Caper!|NOID|beebafa2|x|0|1993|Platformer|region-unknown|Hi Tech Expressions|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Best of the Best Championship Karate|3482|7f6ed86e|x|0|1992|Sports|USA|Electro Brain|Loriciel|Not Rated|Cartridge|Gamepad|SNES
+Big Sky Trooper|1519|25c69316|x|0|1995|Action|USA|JVC Musical Industries, Inc.|LucasArts|Not Rated|Cartridge|Gamepad|SNES
+Biker Mice from Mars|1520|4e8b2ecb|x|0|1994|Driving|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Bill Laimbeer's Combat Basketball|1714|468d8cdd|x|0|1991|Sports/Basketball|USA|Hudson Soft|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Bill Walsh College Football|3483|25391c9f|x|0|1994|Sports/Football|USA|EA Sports|EA Sports|Not Rated|Cartridge|Gamepad|SNES
+BioMetal|1576|53d8410e|x|0|1993|Shooter|region-unknown|Activision|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Blackthorne|1521|856beab1|x|0|1995|Platformer|USA|Interplay|Blizzard Entertainment|Not Rated|Cartridge|Gamepad|SNES
+BlaZeon The Bio-Cyborg Challenge|1716|3b01d0a3|x|0|1992|Shooter|USA|Atlus|AI|Not Rated|Cartridge|Gamepad|SNES
+Blues Brothers|2788|82b97464|x|0|1993|Platformer|USA|Titus Software|Titus Software|Not Rated|Cartridge|Gamepad|SNES
+Bobby's World|3484|18bbee33|x|0|1994|Platformer|Prototype (USA)|Hi Tech Expressions|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Bonkers|1796|597aa981|x|0|1994|Platformer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Boogerman A Pick and Flick Adventure|1717|1899aaff|x|0|1995|Platformer|USA|Interplay|Interplay|Not Rated|Cartridge|Gamepad|SNES
+Boxing Legends of the Ring|17856|c0b632c0|x|0|1993|Sports/Boxing|USA|Electro Brain|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Brain Lord|1718|ac443d87|x|0|1994|Role Playing|USA|Enix|Enix|Not Rated|Cartridge|Gamepad|SNES
+Brainies|1587|718cb0df|x|0|1996|Puzzle|USA|Titus Software|Titus Software|Not Rated|Cartridge|Gamepad|SNES
+Bram Stoker's Dracula|3072|5cece690|x|0|1993|Platformer|USA|Sony Imagesoft|Psygnosis|Not Rated|Cartridge|Gamepad|SNES
+Brandish|1723|74f70a0b|x|0|1995|Role Playing|USA|Koei|Nihon Falcom|Not Rated|Cartridge|Gamepad|SNES
+Brawl Brothers|1523|e822065c|x|0|1993|Fighter|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Breakthru!|2523|e6c0b5da|x|0|1995|Puzzle|USA|Spectrum Holobyte|Artech Digital Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Breath of Fire|869|c788b696|x|0|1994|Role Playing|USA|SquareSoft|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Breath of Fire II|870|67cdacc5|x|0|1995|Role Playing|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Brett Hull Hockey '95|3163|9ebfe809|x|0|1995|Sports/Hockey|USA|Accolade|Team R|Not Rated|Cartridge|Gamepad|SNES
+Brett Hull Hockey|1591|fbe35998|x|0|1994|Sports/Hockey|USA|Accolade|Radical Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Bronkie the Bronchiasaurus|1719|1200f3cf|x|0|1995|Platformer|USA|Raya Systems|Lane Roathe|Not Rated|Cartridge|Gamepad|SNES
+Brunswick World Tournament of Champions|3164|52e4dc92|x|0|1997|Sports/Tennis|USA|Black Pearl|Tiertex|Not Rated|Cartridge|Gamepad|SNES
+Brutal Paws of Fury|1720|8fe49f80|x|0|1994|Fighter|USA|Cybersoft|Eurocom|Not Rated|Cartridge|Gamepad|SNES
+Bubsy II|1722|d0d172fa|x|0|1994|Platformer|USA|Accolade|Accolade|Not Rated|Cartridge|Gamepad|SNES
+Bubsy in Claws Encounters of the Furred Kind|2232|444a52c1|x|0|1993|Platformer|USA|Accolade|Accolade|Not Rated|Cartridge|Gamepad|SNES
+Bugs Bunny Rabbit Rampage|278|832c0cb6|x|0|1994|Platformer|region-unknown|SunSoft|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Bulls vs Blazers and the NBA Playoffs|1524|c2e91694|x|0|1992|Sports/Basketball|USA|EA Sports|Electronic Arts|Not Rated|Cartridge|Gamepad|SNES
+Bust-A-Move|2040|3266fd23|x|0|1995|Puzzle|USA|Taito|Taito|Not Rated|Cartridge|Gamepad|SNES
+Cacoma Knight in Bizyland|279|ba921443|x|0|1993|Action|USA|Seta Corporation|Seta|Not Rated|Cartridge|Gamepad|SNES
+Cal Ripken Jr. Baseball|1593|ce2eaa41|x|0|1992|Sports/Baseball|USA|Mindscape|Mindscape|Not Rated|Cartridge|Gamepad|SNES
+California Games II|2041|21392b00|x|0|1993|Sports|USA|DTMC|Silicon Sorcery|Not Rated|Cartridge|Gamepad|SNES
+Cannon Fodder|1594|f3b5cbb1|x|0|1994|Strategy|Europe|Virgin Interactive|Sensible Software|Not Rated|Cartridge|Gamepad|SNES
+Cannondale Cup|3195|b95fe0a0|x|0|1994|Sports|USA|American Softworks|Radical Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Capcom's MVP Football|3165|bd0a0c0e|x|0|1993|Sports/Football|USA|Capcom|Equilibrium|Not Rated|Cartridge|Gamepad|SNES
+Capcom's Soccer Shootout|3166|ee314ae5|x|0|1994|Sports/Soccer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Captain America and the Avengers|1551|456ab5c8|x|0|1993|Fighter|USA|Mindscape|Mindscape|Not Rated|Cartridge|Gamepad|SNES
+Captain Commando|1735|81db73c7|x|0|1995|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Captain Novolin|1552|9fd460a4|x|0|1992|Platformer|USA|Raya Systems|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Carrier Aces|1596|8bc5b8de|x|0|1995|Strategy|USA|Cybersoft|Synergistic Software|Not Rated|Cartridge|Gamepad|SNES
+Casper|2834|a3b745bc|x|0|1996|Action|USA|Natsume|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Castlevania Dracula X|1553|7c4887e1|x|0|1995|Platformer|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Champions World Class Soccer|1736|bcd59d08|x|0|1994|Sports/Soccer|USA|Flying Edge|Park Place Productions|Not Rated|Cartridge|Gamepad|SNES
+Championship Pool|3485|98ef8414|x|0|1993|Sports/Pool and Dart|USA|Mindscape|Bitmasters|Not Rated|Cartridge|Gamepad|SNES
+Championship Soccer '94|3755|6b953095|x|0|1994|Sports/Soccer|USA|Sony Imagesoft|Sensible Software|Not Rated|Cartridge|Gamepad|SNES
+Chavez|1554|a9d604ea|x|0|1994|Sports|Mexico|American Softworks|Malibu Interactive|Not Rated|Cartridge|Gamepad|SNES
+Chavez II|1555|86981887|x|0|1994|Sports|Mexico|American Softworks|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Chessmaster|3756|bc671e15|x|0|1991|Miscellaneous|USA|Mindscape|Mindscape|Not Rated|Cartridge|Gamepad|SNES
+Chester Cheetah Too Cool to Fool|3168|552bf16a|x|0|1992|Action|USA|Kaneko|Kaneko|Not Rated|Cartridge|Gamepad|SNES
+Chester Cheetah Wild Wild Quest|3169|557fe962|x|0|1994|Action|USA|Kaneko|Kaneko|Not Rated|Cartridge|Gamepad|SNES
+Choplifter III Rescue and Survive|NOID|1d2eae52|x|0|1994|Shooter|region-unknown|Victor Interactive Software|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Chrono Trigger|1255|2d206bf7|x|0|1995|Role Playing|USA|Squaresoft|Square|Not Rated|Cartridge|Gamepad|SNES
+Chuck Rock|1738|e237ec45|x|0|1992|Platformer|USA|Sony Imagesoft|Core Design|Not Rated|Cartridge|Gamepad|SNES
+Civilization|NOID|41fdba82|x|0|1994|Strategy|USA|Microprose|Microprose|Not Rated|Cartridge|Gamepad|SNES
+Clay Fighter|2851|c814e3c2|x|0|1993|Fighter|USA|Interplay|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Clay Fighter Tournament Edition|NOID|b360f7af|x|0|1994|Fighter|USA|Interplay|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Clay Fighter 2 Judgment Clay|2046|20b5c364|x|0|1994|Fighter|region-unknown|Interplay|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Claymates|1740|7ad5ccac|x|0|1993|Platformer|USA|Interplay|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Cliffhanger|2853|12f8a26c|x|0|1993|Fighter|USA|Sony Imagesoft|Sony Imagesoft|Not Rated|Cartridge|Gamepad|SNES
+Clue|1789|a4fbe827|x|0|1992|Miscellaneous|USA|Parker Bros.|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+College Football USA '97 the Road to New Orleans|NOID|a27940c1|x|0|1996|Sports|USA|Black Pearl|Black Pearl Software|Not Rated|Cartridge|Gamepad|SNES
+College Slam|3542|ce842c6d|x|0|1996|Sports/Basketball|USA|Acclaim|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Combatribes|1790|9304044a|x|0|1993|Action|USA|Technos|Technos Japan|Not Rated|Cartridge|Gamepad|SNES
+Congo's Caper|280|8a24fba8|x|0|1993|Action|USA|Data East|Data East|Not Rated|Cartridge|Gamepad|SNES
+Contra III The Alien Wars|122|84da7cfe|x|0|1992|Shooter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Cool Spot|3086|44e60e58|x|0|1993|Platformer|USA|Virgin Interactive|Virgin Games|Not Rated|Cartridge|Gamepad|SNES
+Cool World|2860|0730c37c|x|0|1992|Action|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Cutthroat Island|1743|19ea457b|x|0|1995|Action|USA|Acclaim|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Cyber Spin|1791|44018650|x|0|1992|Driving|USA|Takara|Takara|Not Rated|Cartridge|Gamepad|SNES
+Cybernator|1557|4dfa05b3|x|0|1993|Shooter|USA|Konami|NCS Masaya|Not Rated|Cartridge|Gamepad|SNES
+D-Force|1793|24230807|x|0|1991|Action|USA|Asmik Corporation of America|Asmik|Not Rated|Cartridge|Gamepad|SNES
+Daffy Duck The Marvin Missions|283|5f02a044|x|0|1993|Platformer|USA|Sun Soft|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Darius Twin|1744|c5341764|x|0|1991|Shooter|USA|Taito|Taito|Not Rated|Cartridge|Gamepad|SNES
+David Crane's Amazing Tennis|1745|caad18dc|x|0|1992|Sports/Tennis|USA|Absolute Entertainment|David Crane|Not Rated|Cartridge|Gamepad|SNES
+Daze Before Christmas|1746|59909eb5|x|0|1993|Platformer|Europe|SunSoft|Funcom|Not Rated|Cartridge|Gamepad|SNES
+Death and Return of Superman|1747|a567957c|x|0|1994|Fighter|USA|Sun Soft|Blizzard Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Demolition Man|1748|8afe2f91|x|0|1995|Platformer|USA|Acclaim|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Demon's Crest|1577|e8236ad2|x|0|1994|Platformer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Dennis the Menace|1749|8ee7faa5|x|0|1993|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Desert Strike Return to the Gulf|3550|4ce26787|x|0|1993|Shooter|USA|Electronic Arts|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Dig and Spike Volleyball|3552|954340f8|x|0|1993|Sports|region-unknown|Hudson|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Dino City|1752|94152717|x|0|1992|Platformer|USA|Irem|Irem|Not Rated|Cartridge|Gamepad|SNES
+Dino Dini's Soccer!|NOID|dbf4a8ab|x|0|1995|Sports|Europe|Virgin Interactive|Eurocom|Not Rated|Cartridge|Gamepad|SNES
+Dirt Racer|1754|0354f4b1|x|0|1994|Driving|Europe|Elite Systems Ltd.|MotiveTime|Not Rated|Cartridge|Gamepad|SNES
+Dirt Trax FX|1755|61a86c7f|x|0|1995|Driving|Europe|Acclaim|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Donkey Kong Country|131|0e204fbd|x|0|1994|Platformer|USA|Rare|Rare|Not Rated|Cartridge|Gamepad|SNES
+Donkey Kong Country|131|762af827|x|0|1994|Platformer|USA|Rare|Rare|Not Rated|Cartridge|Gamepad|SNES
+Donkey Kong Country 2 Diddy's Kong Quest|1525|4e2d90f4|x|0|1995|Platformer|USA|Rare|Rare|Not Rated|Cartridge|Gamepad|SNES
+Donkey Kong Country 3 Dixie Kong's Double Trouble!|NOID|448eec19|x|0|1996|Platformer|USA|Rare|Rare|Not Rated|Cartridge|Gamepad|SNES
+Doom|2880|09e85ea6|x|0|1996|Shooter|USA|Williams|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Doom Troopers|1580|1889feef|x|0|1995|Platformer|USA|Playmates|Adrenalin Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Doomsday Warrior|3173|ceeb7c32|x|0|1992|Fighter|USA|Renovation|Telenet|Not Rated|Cartridge|Gamepad|SNES
+Double Dragon V The Shadow Falls|1798|98a96ae8|x|0|1994|Fighter|USA|Tradewest|Leland Interactive Media|Not Rated|Cartridge|Gamepad|SNES
+Dragon The Bruce Lee Story|3197|407c5c24|x|0|1995|Platformer|USA|Acclaim|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Dragon View|1581|ab893412|x|0|1994|Role Playing|USA|Kemco|Infogrames|Not Rated|Cartridge|Gamepad|SNES
+Dragon's Lair|3196|24ffe7fd|x|0|1993|Platformer|USA|Data East|Motivetime Limited|Not Rated|Cartridge|Gamepad|SNES
+Drakkhen|1759|7dae5c2a|x|0|1991|Role Playing|USA|Infogrames|Infogrames|Not Rated|Cartridge|Gamepad|SNES
+Dream TV|1907|ab5a9e40|x|0|1993|Action|USA|Triffix|Triffix|Not Rated|Cartridge|Gamepad|SNES
+Duel Test Drive II|3759|ba093e24|x|0|1992|Driving|USA|Ballistic|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Dungeon Master|1582|0dfd9ceb|x|0|1993|Role Playing|USA|JVC Digital Studios|Software Heaven|Not Rated|Cartridge|Gamepad|SNES
+E.V.O. Search for Eden|1909|dd49911e|x|0|1993|Action|USA|Enix|Almanic|Not Rated|Cartridge|Gamepad|SNES
+Earth Defense Force|2667|ca8ff946|x|0|1991|Shooter|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Earthbound|1583|dc9bb451|x|0|1995|Role Playing|USA|Nintendo|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Earthworm Jim|997|3a4a47eb|x|0|1994|Platformer|USA|Playmates|Shiny Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Earthworm Jim 2|2896|393de197|x|0|1995|Platformer|USA|Playmates|Shiny Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Eek! The Cat|1910|216f2fc7|x|0|1994|Platformer|USA|Ocean|CTA Developments|Not Rated|Cartridge|Gamepad|SNES
+Elite Soccer|3562|62abaee1|x|0|1994|Sports/Soccer|USA|GameTek|Rage Software|Not Rated|Cartridge|Gamepad|SNES
+Emmitt Smith Football|3563|09c3c0ef|x|0|1995|Sports/Football|USA|JVC Digital Studios|Bitmasters|Not Rated|Cartridge|Gamepad|SNES
+Equinox|1911|96a4d1c0|x|0|1993|Adventure|USA|Epic Sony Record|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+ESPN Baseball Tonight|3198|8606d69b|x|0|1994|Sports/Baseball|USA|Sony Imagesoft|Park Place Productions|Not Rated|Cartridge|Gamepad|SNES
+ESPN National Hockey Night|3564|75058ede|x|0|1994|Sports/Hockey|USA|Sony Imagesoft|Sony Imagesoft|Not Rated|Cartridge|Gamepad|SNES
+ESPN Speedworld|NOID|c2cff05a|x|0|1994|Sports|USA|Sony Imagesoft|Sony Imagesoft|Not Rated|Cartridge|Gamepad|SNES
+ESPN Sunday Night NFL|3566|26849f90|x|0|1994|Sports/Football|USA|Sony Imagesoft|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Exertainment Mountain Bike Rally and Speed Racer|NOID|ee5e1906|x|0|1994|Driving|region-unknown|Life Fitness|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Exertainment Mountain Bike Rally|5616|e6ede101|x|0|1994|Driving|region-unknown|Life Fitness|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Extra Innings|3568|440a4250|x|0|1992|Sports/Baseball|USA|Sony Imagesoft|Sony Imagesoft|Not Rated|Cartridge|Gamepad|SNES
+Eye of the Beholder|284|20143571|x|0|1994|Role Playing|USA|Capcom|Westwood Associates|Not Rated|Cartridge|Gamepad|SNES
+F-Zero|10779|aa0e31de|x|0|1991|Driving|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+F1 Pole Position|3569|b3da1b1d|x|0|1993|Driving|USA|Ubisoft|Human Entertainment|Not Rated|Cartridge|Gamepad|SNES
+F1 Pole Position 2|3570|83fc0f0c|x|0|1993|Driving|Europe|Ubisoft|Human Entertainment|Not Rated|Cartridge|Gamepad|SNES
+F1 ROC Race of Champions|3602|2a069989|x|0|1992|Driving|USA|Seta Corporation|Seta|Not Rated|Cartridge|Gamepad|SNES
+F1 ROC II Race of Champions|3601|3447609e|x|0|1994|Driving|USA|Seta Corporation|Seta|Not Rated|Cartridge|Gamepad|SNES
+F1 World Championship Edition|NOID|7ba8fc78|x|0|1995|Driving|Europe|Acclaim|Domark|Not Rated|Cartridge|Gamepad|SNES
+Faceball 2000|3603|8d4df815|x|0|1992|Action|USA|Bullet Proof Software|Xanth Software|Not Rated|Cartridge|Gamepad|SNES
+Family Dog|3604|1b53c15a|x|0|1993|Platformer|USA|Malibu|Imagineering|Not Rated|Cartridge|Gamepad|SNES
+Family Feud|3605|0c664b71|x|0|1993|Quiz|USA|GameTek|Imagineering|Not Rated|Cartridge|Gamepad|SNES
+Fatal Fury|974|c67257d0|x|0|1993|Fighter|USA|Takara|SNK|Not Rated|Cartridge|Gamepad|SNES
+Fatal Fury 2|2863|a26ebfef|x|0|1994|Fighter|USA|Takuyo|SNK|Not Rated|Cartridge|Gamepad|SNES
+Fatal Fury Special|2858|93935bee|x|0|1995|Fighter|USA|Takuyo|Saurus|Not Rated|Cartridge|Gamepad|SNES
+FIFA 98 Road to World Cup|NOID|5e4f4856|x|0|1998|Sports/Soccer|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+FIFA International Soccer|3609|56296426|x|0|1994|Sports/Soccer|USA|Victor Interactive Software|Electronic Arts|Not Rated|Cartridge|Gamepad|SNES
+FIFA Soccer 96|3610|7566347d|x|0|1995|Sports/Soccer|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+FIFA Soccer 97 Gold Edition|NOID|9cdbb2f8|x|0|1996|Sports/Soccer|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Fighter's History|1912|3d17f6ea|x|0|1994|Fighter|USA|Data East|Data East|Not Rated|Cartridge|Gamepad|SNES
+Final Fantasy Mystic Quest|1602|2c52c792|x|0|1992|Role Playing|USA|SquareSoft|Square|Not Rated|Cartridge|Gamepad|SNES
+Final Fantasy II|1286|23084fcd|x|0|1991|Role Playing|USA|SquareSoft|Square|Not Rated|Cartridge|Gamepad|SNES
+Final Fantasy III|1536|c0fa0464|x|0|1994|Role Playing|USA|SquareSoft|Squaresoft|Not Rated|Cartridge|Gamepad|SNES
+Final Fight|1913|4cab21db|x|0|1991|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Final Fight 2|1763|8c37ff55|x|0|1993|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Final Fight 3|1914|a916e708|x|0|1995|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Final Fight Guy|3613|bc1ae3c2|x|0|1992|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Fire Striker|3618|e500c7ba|x|0|1994|Action|NOID|DTMC|Hect Fire Striker|Not Rated|Cartridge|Gamepad|e500c7ba
+Firemen|1764|def665af|x|0|1994|Adventure|Europe|Human Entertainment|Human Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Firepower 2000|3617|327416d4|x|0|1992|Action|USA|Sun Soft|Storm Sales|Not Rated|Cartridge|Gamepad|SNES
+First Samurai|1915|4f0a1e2a|x|0|1993|Action|USA|Kemco|KEMCO|Not Rated|Cartridge|Gamepad|SNES
+Flashback The Quest for Identity|3199|1e6aceba|x|0|1993|Platformer|USA|U.S. Gold|Delphine Studios|Not Rated|Cartridge|Gamepad|SNES
+Flintstones|NOID|3e7b51e0|x|0|1995|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Flintstones The Treasure of Sierra Madrock|3762|594f5cc6|x|0|1994|Platformer|USA|Taito|Taito|Not Rated|Cartridge|Gamepad|SNES
+Football Fury|3619|729a5524|x|0|1993|Sports/Football|USA|American Sammy|American Sammy|Not Rated|Cartridge|Gamepad|SNES
+Foreman For Real|3620|5fa4d051|x|0|1995|Sports/Boxing|USA|Acclaim|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Frank Thomas Big Hurt Baseball|NOID|21239dda|x|0|1995|Sports/Baseball|USA|Acclaim|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Frantic Flea|1765|ffa8d1ff|x|0|1996|Action|USA|GameTek|Haus Teknikka|Not Rated|Cartridge|Gamepad|SNES
+Frogger|3622|2488b8f2|x|0|1998|Action|USA|Majesco|Morning Star Multi|Not Rated|Cartridge|Gamepad|SNES
+Full Throttle All-American Racing|3625|2a4a53ca|x|0|1995|Driving|USA|Cybersoft|Gremlin Graphics Software|Not Rated|Cartridge|Gamepad|SNES
+Fun 'N Games|3626|5d6deac7|x|0|1994|Miscellaneous|USA|Tradewest|Leland Interactive Media|Not Rated|Cartridge|Gamepad|SNES
+Gemfire|3629|ee801a54|x|0|1992|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Genghis Khan II Clan of the Gray Wolf|3630|d7875512|x|0|1993|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+George Foreman's KO Boxing|3631|15194fc9|x|0|1992|Sports/Boxing|USA|Acclaim|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+Ghoul Patrol|1917|ea16b5a2|x|0|1994|Action|USA|JVC Musical Industries, Inc.|LucasArts|Not Rated|Cartridge|Gamepad|SNES
+Goal!|3763|935ea22c|x|0|1992|Sports/Soccer|USA|Jaleco|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Gods|3633|6779970f|x|0|1992|Platformer|USA|Mindscape|Bitmap Brothers|Not Rated|Cartridge|Gamepad|SNES
+Goof Troop|3200|4aafa462|x|0|1993|Action|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+GP-1|3635|14bbc357|x|0|1993|Driving|USA|Atlus|Atlus|Not Rated|Cartridge|Gamepad|SNES
+GP-1 Part II|3636|a9014e12|x|0|1995|Driving|USA|Atlus|Atlus|Not Rated|Cartridge|Gamepad|SNES
+Gradius III|1918|cd973979|x|0|1991|Shooter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Great Circus Mystery Starring Mickey and Minnie|2786|1903ea89|x|0|1994|Platformer|region-unknown|Capcom|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Great Waldo Search|3764|eb49f246|x|0|1993|Miscellaneous|USA|THQ|Radiance Software|Not Rated|Cartridge|Gamepad|SNES
+Gunforce Battle Fire Engulfed Terror Island|3637|6f5c5dc0|x|0|1992|Shooter|USA|Irem|Bits|Not Rated|Cartridge|Gamepad|SNES
+Hagane The Final Conflict|1919|8e0a7034|x|0|1994|Platformer|USA|Hudson|Red Entertainment|Not Rated|Cartridge|Gamepad|SNES
+HAL's Hole in One Golf|3765|58752baf|x|0|1991|Sports/Golf|USA|Hal|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Hammerlock Wrestling|3639|3d2352ea|x|0|1994|Sports/Wrestling|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+HardBall III|3640|f3589b15|x|0|1994|Sports|USA|Accolade|Accolade|Not Rated|Cartridge|Gamepad|SNES
+Harley's Humongous Adventure|1920|91e0c960|x|0|1993|Platformer|USA|Hi Tech Expressions|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Harvest Moon|1921|f829129e|x|0|1997|Strategy|USA|Natsume|Pack-In-Video|Not Rated|Cartridge|Gamepad|SNES
+Head-On Soccer|3766|60dc3634|x|0|1995|Sports/Soccer|USA|U.S. Gold|U.S. Gold|Not Rated|Cartridge|Gamepad|SNES
+Hebereke's Popoitto|NOID|0ce626ba|x|0|1995|Puzzle|Europe|SunSoft|Sunsoft|Not Rated|Cartridge|Gamepad|SNES
+Hebereke's Popoon|1922|7a313722|x|0|1994|Puzzle|Europe|SunSoft|Sunsoft|Not Rated|Cartridge|Gamepad|SNES
+Hit the Ice|3787|ec13477e|x|0|1993|Sports/Hockey|USA|Taito|Taito|Not Rated|Cartridge|Gamepad|SNES
+Home Alone|2843|07c494b1|x|0|1991|Action|USA|THQ|Altron|Not Rated|Cartridge|Gamepad|SNES
+Home Alone 2 Lost in New York|3788|d19165d9|x|0|1992|Action|USA|THQ|Imagineering|Not Rated|Cartridge|Gamepad|SNES
+Home Improvement|1923|fa698c31|x|0|1994|Platformer|USA|Absolute Entertainment|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Hook|3201|0c572ef0|x|0|1992|Platformer|USA|Sony Imagesoft|Ukiyotei|Not Rated|Cartridge|Gamepad|SNES
+Humans|3789|d2af01d4|x|0|1993|Puzzle|Europe|GameTek|Imagitec Design|Not Rated|Cartridge|Gamepad|SNES
+Hungry Dinosaurs|5519|5c4b2544|x|0|1995|Puzzle|Europe|Sun Soft|Magical Co., Ltd.|Not Rated|Cartridge|Gamepad|SNES
+Hunt For Red October|1324|c796e830|x|0|1993|Shooter|USA|Hi Tech Expressions|Riedel Software Productions|Not Rated|Cartridge|Gamepad|SNES
+Hurricanes|3790|42ff4f08|x|0|1994|Platformer|USA|U.S. Gold|Probe Software|Not Rated|Cartridge|Gamepad|SNES
+Hyper V-Ball|1983|7d179e21|x|0|1993|Sports|USA|Mc O'River|Video System|Not Rated|Cartridge|Gamepad|SNES
+HyperZone|1984|c95b4129|x|0|1991|Shooter|USA|Hal|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Ignition Factor|1985|ee441564|x|0|1995|Action|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Illusion of Gaia|1986|1c3848c0|x|0|1994|Role Playing|USA|Nintendo|Quintet|Not Rated|Cartridge|Gamepad|SNES
+Imperium|1987|2624f8bd|x|0|1992|Shooter|USA|Vic Tokai|Vic Tokai|Not Rated|Cartridge|Gamepad|SNES
+Incantation|3792|d0ff7e9f|x|0|1996|Platformer|USA|Titus Software|Titus Software|Not Rated|Cartridge|Gamepad|SNES
+Incredible Crash Dummies|3793|0b6209ba|x|0|1993|Platformer|USA|LJN Ltd.|Gray Matter|Not Rated|Cartridge|Gamepad|SNES
+Incredible Hulk|2783|36b5a429|x|0|1994|Platformer|USA|U.S. Gold|Probe Software|Not Rated|Cartridge|Gamepad|SNES
+Indiana Jones' Greatest Adventures|1989|70da6bb8|x|0|1994|Platformer|USA|JVC Digital Studios|Factor 5|Not Rated|Cartridge|Gamepad|SNES
+Inindo Way of the Ninja|1990|543f3327|x|0|1993|Role Playing|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Inspector Gadget|1991|4ce2b818|x|0|1993|Platformer|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+International Superstar Soccer|3794|6cd568a9|x|0|1994|Soccer/Sports|USA|Sony Imagesoft|Konami|Not Rated|Cartridge|Gamepad|SNES
+International Superstar Soccer|3794|49627238|x|0|1995|Sports/Soccer|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+International Superstar Soccer Deluxe|3795|0a20e602|x|0|1995|Sports/Soccer|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+International Tennis Tour|3796|ad3cd5e6|x|0|1993|Sports/Tennis|USA|Taito|Loriciel|Not Rated|Cartridge|Gamepad|SNES
+Irem Skins Game|3797|b95ddc44|x|0|1992|Sports/Golf|USA|Irem|Irem|Not Rated|Cartridge|Gamepad|SNES
+Itchy and Scratchy Game|2782|95b65dfe|x|0|1995|Action|region-unknown|Acclaim|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Izzy's Quest for the Olympic Rings|3798|e9bb68c7|x|0|1994|Platformer|USA|U.S. Gold|Alexandria|Not Rated|Cartridge|Gamepad|SNES
+J.R.R. Tolkien's The Lord of the Rings Volume 1|3215|cd2150c8|x|0|1994|Role Playing|region-unknown|Interplay|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Jack Nicklaus Golf|3799|9abc58e2|x|0|1991|Sports/Golf|USA|Tradewest|Tradewest|Not Rated|Cartridge|Gamepad|SNES
+James Bond Jr|NOID|69c2f850|x|0|1992|Platformer|USA|THQ|Gray Matter|Not Rated|Cartridge|Gamepad|SNES
+Jammit|3802|7bddd73f|x|0|1994|Sports/Basketball|USA|GTE Entertainment|GTE Vantage Inc.|Not Rated|Cartridge|Gamepad|SNES
+Jelly Boy|1770|f8c72a24|x|0|1991|Platformer|Europe|Ocean|Probe Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Jeopardy!|285|65bf3a7e|x|0|1992|Quiz|USA|GameTek|GameTek|Not Rated|Cartridge|Gamepad|SNES
+Jeopardy! Deluxe Edition|3803|6301060c|x|0|1993|Quiz|USA|GameTek|GameTek|Not Rated|Cartridge|Gamepad|SNES
+Jeopardy! Sports Edition|3804|bda7de29|x|0|1994|Quiz|USA|GameTek|GameTek|Not Rated|Cartridge|Gamepad|SNES
+Jetsons Invasion of the Planet Pirates|3805|3e3073ce|x|0|1994|Platformer|USA|Taito|Taito|Not Rated|Cartridge|Gamepad|SNES
+Jim Lee's WildC.A.T.S Covert Action Teams|3808|10c6f5ad|x|0|1995|Fighter|USA|Playmates|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+Jim Power the Lost Dimension in 3D|NOID|c469f8f0|x|0|1993|Action|USA|ElectroBrain|Loriciel|Not Rated|Cartridge|Gamepad|SNES
+Jimmy Connors Pro Tennis Tour|1995|913f1555|x|0|1994|Sports/Tennis|USA|Ubisoft|Blue Byte Software|Not Rated|Cartridge|Gamepad|SNES
+Jimmy Houston's Bass Tournament U.S.A.|3809|e7e488d5|x|0|1995|Sports|USA|American Sammy|Sammy|Not Rated|Cartridge|Gamepad|SNES
+Joe and Mac|17855|3a2b6167|x|0|1992|Platformer|region-unknown|Data East|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Joe and Mac 2 Lost in the Tropics|1996|0c3b4201|x|0|1994|Platformer|region-unknown|Data East|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+John Madden Football '93|3810|dc5a250b|x|0|1992|Sports/Football|USA|Electronic Arts|EA Canada|Not Rated|Cartridge|Gamepad|SNES
+John Madden Football|2839|796294c6|x|0|1991|Sports|USA|Electronic Arts|Park Place Productions|Not Rated|Cartridge|Gamepad|SNES
+Judge Dredd|287|0a3f0288|x|0|1995|Platformer|USA|Acclaim|Probe Software|Not Rated|Cartridge|Gamepad|SNES
+Jungle Book|NOID|3511efb3|x|0|1994|Platformer|USA|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Jungle Strike|3202|335487e5|x|0|1995|Shooter|USA|Electronic Arts|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Jurassic Park|3203|8bfde0b7|x|0|1993|Adventure|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Jurassic Park II the Chaos Continues|NOID|836ee990|x|0|1994|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Justice League Task Force|1998|31cf46d1|x|0|1995|Fighter|USA|Sun Soft|Blizzard Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Kablooey|NOID|b2592eae|x|0|1992|Puzzle|USA|Mirrorsoft|Mirrorsoft|Not Rated|Cartridge|Gamepad|SNES
+Kawasaki Caribbean Challenge|3819|37d8ac57|x|0|1993|Driving|USA|GameTek|Park Place Productions|Not Rated|Cartridge|Gamepad|SNES
+Kawasaki Superbike Challenge|3820|e8ed176e|x|0|1995|Driving|USA|Time Warner Interactive|Domark|Not Rated|Cartridge|Gamepad|SNES
+Ken Griffey Jr. Presents Major League Baseball|3821|8bf2b589|x|0|1994|Sports|USA|Nintendo|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Ken Griffey Jr.'s Winning Run|3822|e9b4bd73|x|0|1996|Sports|USA|Nintendo|Rare|Not Rated|Cartridge|Gamepad|SNES
+Kendo Rage|2000|d1048918|x|0|1993|Platformer|USA|Seta Corporation|Seta|Not Rated|Cartridge|Gamepad|SNES
+Kevin Keegan's Player Manager|1773|fce7bade|x|0|1993|Sports|Europe|Imagineer|Anco Games|Not Rated|Cartridge|Gamepad|SNES
+Kick Off|3823|a1306f3b|x|0|1993|Sports/Soccer|Europe|Imagineer|Anco Games|Not Rated|Cartridge|Gamepad|SNES
+Kick Off 3 European Challenge|3824|1ac7f523|x|0|1994|Sports/Soccer|Europe|Vic Tokai|Anco Games|Not Rated|Cartridge|Gamepad|SNES
+Kid Klown in Crazy Chase|3825|bd6c8ab1|x|0|1994|Action|USA|Kemco|KEMCO|Not Rated|Cartridge|Gamepad|SNES
+Killer Instinct|1254|09e9a04e|x|0|1995|Fighter|USA|Nintendo|Rare|Not Rated|Cartridge|Gamepad|SNES
+King Arthur and the Knights of Justice|3204|615a183b|x|0|1995|Action|region-unknown|Enix|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+King Arthur's World|3826|99bd1fe1|x|0|1993|Puzzle|USA|Jaleco|Argonaut Software|Not Rated|Cartridge|Gamepad|SNES
+King of Dragons|3205|dd505df7|x|0|1994|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+King of the Monsters|3827|c285c7ff|x|0|1992|Fighter|USA|Takara|Argonaut Software|Not Rated|Cartridge|Gamepad|SNES
+King of the Monsters 2|3206|0b677a37|x|0|1993|Fighter|USA|Takara|SNK|Not Rated|Cartridge|Gamepad|SNES
+Kirby Super Star|1315|89d0f7dc|x|0|1996|Platformer|USA|Nintendo|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Kirby's Avalanche|3207|21e658b8|x|0|1995|Puzzle|USA|Nintendo|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Kirby's Dream Course|1774|df8153d9|x|0|1994|Sports|USA|Nintendo|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Kirby's Dream Land 3|3208|ec8a48f6|x|0|1998|Platformer|USA|Nintendo|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Knights of the Round|1316|aaa82126|x|0|1994|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Krusty's Super Fun House|289|ac5116d9|x|0|1992|Puzzle|USA|Acclaim|Acclaim Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Kyle Petty's No Fear Racing|3828|aee90a85|x|0|1995|Driving|USA|Williams|Williams Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Lagoon|1776|d2554270|x|0|1991|Role Playing|Japan (Translated)|Kemco|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Lamborghini American Challenge|3829|d2fb701b|x|0|1993|Driving|USA|Titus Software|Titus Software|Not Rated|Cartridge|Gamepad|SNES
+Last Action Hero|3209|88017df9|x|0|1993|Fighter|USA|Sony Imagesoft|Bits Studios|Not Rated|Cartridge|Gamepad|SNES
+Lawnmower Man|3210|2736b607|x|0|1993|Platformer|USA|THQ|Storm Sales Curve|Not Rated|Cartridge|Gamepad|SNES
+Legend|3248|0a6dd870|x|0|1994|Fighter|USA|Seika Corp|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Legend of the Mystical Ninja|3211|82479d6a|x|0|1992|Adventure|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Legend of Zelda A Link to the Past|1318|777aac2f|x|0|1992|Adventure|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Lemmings|2832|51e3d566|x|0|1992|Puzzle|USA|SunSoft|Psygnosis|Not Rated|Cartridge|Gamepad|SNES
+Lemmings 2 The Tribes|2663|df7200c8|x|0|1994|Puzzle|USA|Psygnosis|Psygnosis|Not Rated|Cartridge|Gamepad|SNES
+Lester The Unlikely|3830|1a52fee5|x|0|1994|Action|USA|DTMC|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Lethal Enforcers|3831|5aff8cd5|x|0|1994|Shooter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Lethal Weapon|1777|a14c3dbc|x|0|1992|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Liberty or Death|3832|75e362a6|x|0|1994|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Lion King|3171|c8fbfaa8|x|0|1994|Platformer|USA|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Lock On|3212|84f7e078|x|0|1993|Flying|USA|Vic Tokai|Vic Tokai|Not Rated|Cartridge|Gamepad|SNES
+Looney Tunes B-Ball|3213|6d3bc96f|x|0|1995|Sports|USA|Sun Soft|Sunsoft|Not Rated|Cartridge|Gamepad|SNES
+Lost Vikings 2|3833|3aa01dbd|x|0|1997|Puzzle|region-unknown|Interplay|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Lost Vikings|3216|6838be08|x|0|1992|Puzzle|NOID|Interplay|Silicon Lost Vikings|Not Rated|Cartridge|Gamepad|6838be08
+Lucky Luke|1779|7e2c7143|x|0|1997|Platformer|Europe|Infogrames|Infogrames|Not Rated|Cartridge|Gamepad|SNES
+Lufia and The Fortress of Doom|2880|5e1aa1a6|x|0|1993|Role Playing|region-unknown|Taito|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Lufia II Rise of the Sinistrals|3218|20f2ac29|x|0|1995|Role Playing|USA|Natsume|Neverland Co., Ltd.|Not Rated|Cartridge|Gamepad|SNES
+Madden NFL '94|3219|8bed5914|x|0|1993|Sports/Football|USA|Electronic Arts|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Madden NFL 95|3834|021a3f69|x|0|1994|Sports/Football|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Madden NFL 96|290|51a1fe86|x|0|1995|Sports/Football|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Madden NFL 97|291|abcf026e|x|0|1996|Sports/Football|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Madden NFL 98|3835|cf10cc01|x|0|1997|Sports/Football|region-unknown|Black Pearl|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Magic Boy|3220|ab57a2f9|x|0|1996|Platformer|USA|JVC Musical Industries, Inc|Empire Software|Not Rated|Cartridge|Gamepad|SNES
+Magic Sword|3221|27325e4d|x|0|1993|Platformer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Magical Quest Starring Mickey Mouse|1724|10874c70|x|0|1992|Platformer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Manchester United Championship Soccer|3836|8d2596a7|x|0|1995|Sports/Soccer|Europe|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Mario is Missing!|2831|e51a3fcd|x|0|1993|Action|USA|Software Toolworks|The Software Toolworks|Not Rated|Cartridge|Gamepad|SNES
+Mario Paint|1781|38c9626c|x|0|1992|Miscellaneous|USA|Nintendo|Nintendo|Not Rated|Cartridge|Mouse|SNES
+Mario's Early Years! Fun with Letters|NOID|480b043a|x|0|1994|Miscellaneous|USA|Software Toolworks|The Software Toolworks|Not Rated|Cartridge|Gamepad|SNES
+Mario's Early Years! Fun with Numbers|3838|8c0c37f4|x|0|1994|Miscellaneous|USA|Software Toolworks|The Software Toolworks|Not Rated|Cartridge|Gamepad|SNES
+Mario's Early Years! Preschool Fun|NOID|85a6b2a8|x|0|1994|Miscellaneous|USA|Mindscape|The Software Toolworks|Not Rated|Cartridge|Gamepad|SNES
+Mario's Time Machine|3840|5e7397e0|x|0|1993|Miscellaneous|USA|Mindscape|Mindscape|Not Rated|Cartridge|Gamepad|SNES
+Mark Davis' The Fishing Master|3841|22a109b9|x|0|1996|Sports|USA|Natsume|Natsume|Not Rated|Cartridge|Gamepad|SNES
+Marko's Magic Football|3842|4824a630|x|0|1995|Sports|Europe|Acclaim|Domark|Not Rated|Cartridge|Gamepad|SNES
+Marvel Super Heroes War of the Gems|3225|00af56e8|x|0|1996|Platformer|USA|Capcom|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Mary Shelley's Frankenstein|3843|91415d1e|x|0|1994|Action|USA|Sony Imagesoft|Bits Corporation|Not Rated|Cartridge|Gamepad|SNES
+Mask|2068|e17626e2|x|0|1995|Platformer|USA|Black Pearl|KaZe|Not Rated|Cartridge|Gamepad|SNES
+Math Blaster Episode 1|3844|4c4e5f4a|x|0|1994|Miscellaneous|region-unknown|Davidson and Associates|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Maui Mallard in Cold Shadow|3845|2d3b9662|x|0|1996|Platformer|USA|Nintendo|Eurocom Entertainment Software|Not Rated|Cartridge|Gamepad|SNES
+Mecarobot Golf|3846|82ceee3a|x|0|1993|Sports/Golf|USA|Toho|Toho|Not Rated|Cartridge|Gamepad|SNES
+MechWarrior|3572|40b7a858|x|0|1993|Simulation|USA|Activision|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+Mechwarrior 3050|3847|c0acc92d|x|0|1995|Simulation|USA|Activision|Tiburon Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Mega lo Mania|NOID|e8042edf|x|0|1994|Strategy|region-unknown|Imagineer|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Mega Man 7|292|2d947536|x|0|1995|Platformer|region-unknown|Capcom|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Mega Man Soccer|2494|fa9ee2ce|x|0|1994|Sports/Soccer|region-unknown|Capcom|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Mega Man X|143|ded53c64|x|0|1994|Platformer|region-unknown|Capcom|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Mega Man X2|1015|947b0355|x|0|1995|Platformer|region-unknown|Capcom|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Mega Man X3|1016|fa0fe671|x|0|1996|Platformer|region-unknown|Capcom|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Metal Combat Falcon's Revenge|2668|c3131b49|x|0|1993|Shooter|USA|Nintendo|dev-unknown|Not Rated|Cartridge|Super Scope|SNES
+Metal Marines|3848|66787df6|x|0|1993|Strategy|USA|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Metal Morph|3573|0adaa9da|x|0|1994|Action|USA|FCI, Inc.|Origin Systems|Not Rated|Cartridge|Gamepad|SNES
+Metal Warriors|3849|f2ab92d4|x|0|1995|Action|USA|Konami|LucasArts|Not Rated|Cartridge|Gamepad|SNES
+Michael Andretti's IndyCar Challenge|NOID|0fdb210e|x|0|1994|Driving|USA|Bullet Proof Software|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Michael Jordan Chaos in the Windy City|5595|f57dba3b|x|0|1994|Platformer|USA|Electronic Arts|Electronic Arts|Not Rated|Cartridge|Gamepad|SNES
+Mickey Mania The Timeless Adventures of Mickey Mouse|3114|08806b5b|x|0|1995|Action|USA|Sony Imagesoft|Traveller's Tales|Not Rated|Cartridge|Gamepad|SNES
+Mickey's Playtown Adventure A Day Of Discovery!|5597|53524952|x|0|1994|Adventure|Prototype (USA)|Hi-Tech|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Mickey's Ultimate Challenge|1785|d6c60a84|x|0|1994|Action|USA|Hi Tech Expressions|Desingner Software|Not Rated|Cartridge|Gamepad|SNES
+Micro Machines|2830|364e68bb|x|0|1994|Driving|USA|Ocean|Codemasters|Not Rated|Cartridge|Gamepad|SNES
+Micro Machines 2 Turbo Tournament|5598|1619b619|x|0|1996|Driving|Europe|Ocean|Codemasters|Not Rated|Cartridge|Gamepad|SNES
+Might and Magic II Gates to Another World|5599|4062244b|x|0|1993|Role Playing|Europe|Sammy Studios|New World Computing|Not Rated|Cartridge|Gamepad|SNES
+Might and Magic III Isles of Terra|5611|8af25e7e|x|0|1995|Role Playing|USA|FCI, Inc.|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Mighty Max|3574|6fc3c105|x|0|1995|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Mighty Morphin Power Rangers|3226|a56eb77a|x|0|1995|Fighter|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Mighty Morphin Power Rangers The Fighting Edition|5612|460b0a60|x|0|1995|Fighter|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Mighty Morphin Power Rangers The Movie|3131|e3ef6201|x|0|1995|Fighter|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+MLBPA Baseball|3227|62a92e57|x|0|1994|Sports/Baseball|USA|EA Sports|High Score Productions|Not Rated|Cartridge|Gamepad|SNES
+Mohawk and Headphone Jack|NOID|0b207e7f|x|0|1996|Platformer|region-unknown|Black Pearl|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Monopoly|5614|88d54085|x|0|1992|Miscellaneous|USA|Parker Brothers|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Mortal Kombat|2826|def42945|x|0|1993|Fighter|USA|Acclaim|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Mortal Kombat 3|2825|4e6af725|x|0|1995|Fighter|USA|Williams|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Mortal Kombat II|2823|70bb5513|x|0|1994|Fighter|USA|Acclaim|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Mr. Do!|9247|1c1025e2|x|0|1995|Action|USA|Black Pearl|Imagineer|Not Rated|Cartridge|Gamepad|SNES
+Mr. Nutz|5617|a99bdd9a|x|0|1994|Platformer|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Ms. Pac-Man|5619|74d210d3|x|0|1996|Action|USA|Midway|Digital Eclipse Software|Not Rated|Cartridge|Gamepad|SNES
+Musya|5620|011907a4|x|0|1992|Adventure|USA|Seta Corporation|Seta|Not Rated|Cartridge|Gamepad|SNES
+Natsume Championship Wrestling|5622|d4dc20e1|x|0|1994|Sports/Wrestling|USA|Natsume|Natsume|Not Rated|Cartridge|Gamepad|SNES
+NBA All-Star Challenge|5623|a905a565|x|0|1993|Sports/Basketball|USA|LJN Ltd.|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+NBA Give 'N Go|5624|68c8b643|x|0|1995|Sports/Basketball|USA|KCEO|Konami|Not Rated|Cartridge|Gamepad|SNES
+NBA Hang Time|5625|262ce76b|x|0|1996|Sports/Basketball|USA|Midway|Williams Entertainment|Not Rated|Cartridge|Gamepad|SNES
+NBA Jam|2815|8f42cae7|x|0|1994|Sports/Basketball|USA|Acclaim|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+NBA Jam Tournament Edition|2813|1fbc1ddb|x|0|1995|Sports/Basketball|USA|Acclaim|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+NBA Live 95|293|1cd2393d|x|0|1994|Sports/Basketball|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+NBA Live 96|5626|042a6495|x|0|1995|Sports/Basketball|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+NBA Live 97|5627|5115b8e5|x|0|1996|Sports/Basketball|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+NBA Live 98|5628|514bfcb5|x|0|1998|Sports/Basketball|region-unknown|EA Sports|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+NBA Showdown|5629|65746f02|x|0|1993|Sports/Basketball|USA|EA Sports|Electronic Arts|Not Rated|Cartridge|Gamepad|SNES
+NCAA Basketball|5700|200370a2|x|0|1992|Sports/Basketball|USA|Nintendo|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+NCAA Final Four Basketball|5701|b07cfa91|x|0|1995|Sports/Basketball|USA|Mindscape|Bitmasters|Not Rated|Cartridge|Gamepad|SNES
+NCAA Football|5702|2641c12a|x|0|1993|Sports/Football|USA|Mindscape|The Software Toolworks|Not Rated|Cartridge|Gamepad|SNES
+New Horizons|NOID|3c3c63e6|x|0|1994|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Newman-Haas IndyCar featuring Nigel Mansell|NOID|a0f80c02|x|0|1994|Driving|region-unknown|Acclaim|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+NFL Football|5706|adb7731b|x|0|1993|Sports/Football|USA|Konami|Park Place Productions|Not Rated|Cartridge|Gamepad|SNES
+NFL Quarterback Club|5707|79f16421|x|0|1995|Sports/Football|USA|LJN Ltd.|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+NFL Quarterback Club 96|294|e557689f|x|0|1995|Sports/Football|region-unknown|Acclaim|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+NHL '94|3228|42212a77|x|0|1993|Sports/Hockey|USA|Electronic Arts|Electronic Arts|Not Rated|Cartridge|Gamepad|SNES
+NHL '95|5708|2e9b1463|x|0|1994|Sports/Hockey|USA|EA Sports|High Score Productions|Not Rated|Cartridge|Gamepad|SNES
+NHL '96|5709|b6c6e7f3|x|0|1995|Sports/Hockey|USA|EA Sports|High Score Productions|Not Rated|Cartridge|Gamepad|SNES
+NHL '97|5710|06badb74|x|0|1996|Sports/Hockey|USA|EA Sports|Black Pearl Software|Not Rated|Cartridge|Gamepad|SNES
+NHL '98|5711|03cad2d2|x|0|1997|Sports/Hockey|USA|EA Sports|THQ|Not Rated|Cartridge|Gamepad|SNES
+NHL Stanley Cup|3229|584ce502|x|0|1993|Sports/Hockey|USA|Nintendo|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+NHLPA Hockey '93|5712|c858eac4|x|0|1992|Sports/Hockey|USA|EA Sports|Electronic Arts|Not Rated|Cartridge|Gamepad|SNES
+Nickelodeon GUTS|5713|233fec8c|x|0|1994|Sports/Hockey|USA|Viacom New Media|Viacom New Media|Not Rated|Cartridge|Gamepad|SNES
+Nigel Mansell's World Championship Racing|3230|162252e2|x|0|1993|Driving|USA|GameTek|Gremlin Graphics Software|Not Rated|Cartridge|Gamepad|SNES
+Ninja Gaiden Trilogy|2094|066fe797|x|0|1995|Platformer|USA|Tecmo|Tecmo|Not Rated|Cartridge|Gamepad|SNES
+Ninja Warriors|3231|7537d8d7|x|0|1994|Fighter|region-unknown|Taito corporation|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+No Escape|5714|c1082880|x|0|1994|Action|USA|Sony Imagesoft|Bits Corporation|Not Rated|Cartridge|Gamepad|SNES
+Nobunaga's Ambition|5715|49da3583|x|0|1993|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Nobunaga's Ambition Lord of Darkness|3214|4d7b39cd|x|0|1994|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Nolan Ryan's Baseball|5716|1919baff|x|0|1992|Sports/Baseball|USA|Romstar|Romstar|Not Rated|Cartridge|Gamepad|SNES
+Nosferatu|5717|de762764|x|0|1995|Action|USA|Seta Corporation|Seta|Not Rated|Cartridge|Gamepad|SNES
+Obitus|5718|7c495b36|x|0|1994|Role Playing|USA|Bullet Proof Software|Psygnosis|Not Rated|Cartridge|Gamepad|SNES
+Ogre Battle The March of the Black Queen|3232|acfdb7b8|x|0|1993|Strategy|USA|Enix|Quest|Not Rated|Cartridge|Gamepad|SNES
+Olympic Summer Games|5719|6b882d11|x|0|1996|Sports|USA|Black Pearl|Black Pearl Software|Not Rated|Cartridge|Gamepad|SNES
+On the Ball|5720|50ad3fe8|x|0|1992|Action|USA|Taito|Taito|Not Rated|Cartridge|Gamepad|SNES
+Operation Europe Path to Victory 1939-45|5721|f84c2bb6|x|0|1994|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Operation Logic Bomb|3233|65bbe8b4|x|0|1993|Shooter|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Operation Starfi5h|NOID|9d3e313f|x|0|1994|Platformer|region-unknown|U.S. Gold|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Operation Thunderbolt|5722|3042b049|x|0|1994|Shooter|USA|Taito|Aisystem Tokyo|Not Rated|Cartridge|Gamepad|SNES
+Oscar|5723|cdf463c0|x|0|1996|Platformer|USA|Titus|Flair Software|Not Rated|Cartridge|Gamepad|SNES
+Out of This World|296|5f40a869|x|0|1992|Platformer|USA|Interplay|Delphine Software|Not Rated|Cartridge|Gamepad|SNES
+Out to Lunch|5769|3d0c8974|x|0|1993|Platformer|USA|Mindscape|Mindscape|Not Rated|Cartridge|Gamepad|SNES
+Outlander|5770|a978b36f|x|0|1993|Action|USA|Mindscape|Mindscape|Not Rated|Cartridge|Gamepad|SNES
+P.T.O. Pacific Theater of Operations|3239|e51bbac8|x|0|1993|Strategy|region-unknown|Koei|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+P.T.O. II Pacific Theater of Operations|5771|a614d268|x|0|1995|Strategy|region-unknown|Koei|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Pac-Attack|5772|191b1a19|x|0|1993|Puzzle|USA|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Pac-in-Time|5773|44375368|x|0|1995|Action|USA|Namco|Kalisto|Not Rated|Cartridge|Gamepad|SNES
+Pac-Man 2 The New Adventures|3234|9fc62bcc|x|0|1994|Action|USA|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Packy and Marlon|5774|bab26e9c|x|0|1995|Platformer|region-unknown|Raya Systems|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Pagemaster|6283|26c38eee|x|0|1994|Platformer|USA|Fox Interactive|Probe Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Paladin's Quest|2249|37fe8126|x|0|1993|Role Playing|USA|Enix|Asmik Ace Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Paperboy 2|2916|c85aa66a|x|0|1991|Action|USA|Mindscape|Tengen|Not Rated|Cartridge|Gamepad|SNES
+Parodius|NOID|6ffa308c|x|0|1992|Shooter|Japan|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Peace Keepers|2591|8071e5db|x|0|1994|Fighter|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+PGA European Tour|5775|914f2ea3|x|0|1996|Sports/Golf|USA|Black Pearl|Electronic Arts|Not Rated|Cartridge|Gamepad|SNES
+PGA Tour 96|5776|bc5df071|x|0|1995|Sports/Golf|region-unknown|Black Pearl|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+PGA Tour Golf|5777|b6566944|x|0|1993|Sports/Golf|USA|Electronic Arts|Polygames|Not Rated|Cartridge|Gamepad|SNES
+Phalanx The Enforce Fighter A-144|5778|dc90a8ab|x|0|1992|Shooter|USA|Kemco|KEMCO|Not Rated|Cartridge|Gamepad|SNES
+Phantom 2040|5779|35e8fb28|x|0|1995|Platformer|USA|Viacom New Media|Viacom New Media|Not Rated|Cartridge|Gamepad|SNES
+Pieces|2223|bb6c3c54|x|0|1994|Puzzle|USA|Atlus|Hori Electric|Not Rated|Cartridge|Gamepad|SNES
+Pilotwings|2418|266c44ed|x|0|1991|Flying|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Pinball Dreams|2069|81107ce2|x|0|1993|Pinball|USA|GameTek|Coconuts Japan|Not Rated|Cartridge|Gamepad|SNES
+Pinball Fantasies|5780|822ad378|x|0|1995|Pinball|USA|GameTek|21st Century Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Pink Goes to Hollywood|5781|8bae9438|x|0|1994|Platformer|USA|TecMagik|Altron|Not Rated|Cartridge|Gamepad|SNES
+Pinocchio|5782|00fad8fd|x|0|1996|Platformer|USA|Disney|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Pirates of Dark Water|6284|7ca0ca4d|x|0|1994|Fighter|USA|SunSoft|Sunsoft|Not Rated|Cartridge|Gamepad|SNES
+Pit-Fighter|NOID|9fab69fc|x|0|1992|Fighter|USA|THQ|THQ|Not Rated|Cartridge|Gamepad|SNES
+Pitfall The Mayan Adventure|2918|03e67d38|x|0|1994|Platformer|USA|Activision|Activision|Not Rated|Cartridge|Gamepad|SNES
+Plok!|5784|bbd678f6|x|0|1993|Action|USA|Tradewest|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Pocky and Rocky|5785|2b0e7ea3|x|0|1993|Shooter|region-unknown|Natsume|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Pocky and Rocky 2|11002|fc00bb1b|x|0|1994|Shooter|region-unknown|Natsume|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Pop'n Twinbee|2199|588a9707|x|0|1993|Shooter|Europe|Palcom|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Pop'n Twinbee Rainbow Bell Adventures|5786|91a03035|x|0|1994|Platformer|Europe|Konami|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Populous|3236|2df4aa0f|x|0|1991|Strategy|USA|Acclaim|Bullfrog Productions|Not Rated|Cartridge|Gamepad|SNES
+Populous II Trials of the Olympian Gods|3633|6c28cc39|x|0|1993|Strategy|Europe|Imagineer|Bullfrog Productions|Not Rated|Cartridge|Gamepad|SNES
+Porky Pig's Haunted Holiday|5788|f09e91a1|x|0|1995|Platformer|USA|Acclaim|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Power Drive|5789|0bfdca70|x|0|1995|Driving|Europe|U.S. Gold|U.S. Gold|Not Rated|Cartridge|Gamepad|SNES
+Power Instinct|5790|cb8a4f8e|x|0|1994|Fighter|USA|Atlus|Atlus|Not Rated|Cartridge|Gamepad|SNES
+Power Moves|3237|c2e094b5|x|0|1993|Fighter|USA|Kaneko|Kaneko|Not Rated|Cartridge|Gamepad|SNES
+Power Piggs of the Dark Age|5791|e945530d|x|0|1994|Platformer|USA|Titus|Titus Software|Not Rated|Cartridge|Gamepad|SNES
+Power Rangers Zeo Battle Racers|5821|389300cf|x|0|1996|Driving|USA|Bandai|Bandai|Not Rated|Cartridge|Gamepad|SNES
+PowerMonger|NOID|bc06f982|x|0|1993|Strategy|Europe|Imagineer|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Prehistorik Man|5793|cb4f87bb|x|0|1995|Platformer|USA|Titus|Titus Software|Not Rated|Cartridge|Gamepad|SNES
+Primal Rage|5794|3753e4b6|x|0|1995|Fighter|USA|Bitmasters|Bitmasters|Not Rated|Cartridge|Gamepad|SNES
+Prince of Persia|3238|891bb2bb|x|0|1992|Platformer|USA|Konami|NCS Masaya|Not Rated|Cartridge|Gamepad|SNES
+Prince of Persia 2 the Shadow and the Flame|NOID|50581d9d|x|0|1996|Platformer|region-unknown|Titus|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Pro Quarterback|1729|6910626d|x|0|1992|Sports/Football|USA|Tradewest|Tradewest|Not Rated|Cartridge|Gamepad|SNES
+Pro Sport Hockey|5795|a9cc0a74|x|0|1994|Sports/Hockey|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Push-Over|5796|fa06d5f5|x|0|1992|Action|USA|Ocean|Red Rat Software|Not Rated|Cartridge|Gamepad|SNES
+Putty Squad|2664|c061f0a8|x|0|1994|Platformer|Europe|Ocean|System 3|Not Rated|Cartridge|Gamepad|SNES
+Q-bert 3|5800|694cbfe4|x|0|1992|Action|region-unknown|NTVIC|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+R-Type III The Third Lightning|2927|642b656b|x|0|1994|Shooter|USA|Jaleco|Irem|Not Rated|Cartridge|Gamepad|SNES
+R.P.M. Racing|NOID|f7933734|x|0|1992|Driving|region-unknown|Interplay|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Race Drivin'|5801|c5bab870|x|0|1992|Driving|USA|THQ|Argonaut Games|Not Rated|Cartridge|Gamepad|SNES
+Radical Rex|5802|e2b8da18|x|0|1994|Action|USA|Activision|Laser Beam Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Raiden Trad|3240|02ce6c96|x|0|1991|Shooter|USA|Electro Brain|Micronics|Not Rated|Cartridge|Gamepad|SNES
+Rampart|5804|aed8892a|x|0|1992|Action|USA|Electronic Arts|Bitmasters|Not Rated|Cartridge|Gamepad|SNES
+Ranma 1-2 Hard Battle|2665|8e4dadcd|x|0|1992|Fighter|region-unknown|NCS|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Rap Jam Volume One|5805|adf4ffce|x|0|1995|Sports/Basketball|USA|Mandingo|Motown Software|Not Rated|Cartridge|Gamepad|SNES
+Realm|5806|0744ba5b|x|0|1996|Platformer|USA|Titus|Titus Software|Not Rated|Cartridge|Gamepad|SNES
+Redline F-1 Racer|2544|e5faadd2|x|0|1993|Driving|USA|Absolute Entertainment|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Relief Pitcher|5807|2f48ff14|x|0|1994|Sports/Baseball|USA|Left Field Productions|Left Field Productions|Not Rated|Cartridge|Gamepad|SNES
+Ren and Stimpy Show Buckeroos!|NOID|672ebf39|x|0|1995|Action|region-unknown|THQ|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Ren and Stimpy Show Fire Dogs|6286|0b472197|x|0|1994|Action|region-unknown|THQ|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Ren and Stimpy Show Time Warp|6287|de8fe3e8|x|0|1994|Action|region-unknown|THQ|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Ren and Stimpy Show Veediots!|6288|fd1c12a3|x|0|1993|Platformer|region-unknown|THQ|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Revolution X|2938|0dc5e7ba|x|0|1995|Gun|USA|Acclaim|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Rex Ronan Experimental Surgeon|3241|105ac679|x|0|1994|Action|USA|Raya Systems|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Riddick Bowe Boxing|5809|a967a041|x|0|1993|Sports/Boxing|USA|Extreme Entertainment Group|Malibu Interactive|Not Rated|Cartridge|Gamepad|SNES
+Rise of the Phoenix|3242|908b90b1|x|0|1995|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Rise of the Robots|2669|83ba0ac0|x|0|1994|Fighter|USA|Acclaim|Probe Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Rival Turf!|NOID|ca988f59|x|0|1992|Fighter|region-unknown|Jaleco|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Road Riot 4WD|5811|20367643|x|0|1992|Driving|USA|THQ|Equilibrium|Not Rated|Cartridge|Gamepad|SNES
+Road Runner's Death Valley Rally|3243|5980d75d|x|0|1992|Platformer|USA|Sun Soft|ICOM Simulations|Not Rated|Cartridge|Gamepad|SNES
+RoboCop 3|2943|3502f9b3|x|0|1992|Action|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Robocop versus The Terminator|2614|f5ab5d91|x|0|1993|Platformer|USA|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Robotrek|3244|7ad4aadc|x|0|1994|Role Playing|USA|Enix|Quitet|Not Rated|Cartridge|Gamepad|SNES
+Rock N' Roll Racing|2246|7d06f473|x|0|1993|Driving|USA|Blizzard Entertainment|Blizzard Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Rocketeer|6289|4c68a3c7|x|0|1992|Action|USA|IGS|IGS|Not Rated|Cartridge|Gamepad|SNES
+Rocko's Modern Life Spunky's Dangerous Day|5485|197b4cba|x|0|1994|Platformer|USA|Viacom New Media|Viacom New Media|Not Rated|Cartridge|Gamepad|SNES
+Rocky Rodent|3245|c81a7b07|x|0|1993|Action|USA|Irem|Irem|Not Rated|Cartridge|Gamepad|SNES
+Roger Clemens' MVP Baseball|5814|a012d1ad|x|0|1992|Sports/Baseball|USA|LJN Ltd.|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Romance of the Three Kingdoms II|5815|8033574a|x|0|1995|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Romance of the Three Kingdoms III Dragon of Destiny|5816|523b0d02|x|0|1994|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Romance of the Three Kingdoms IV Wall of Fire|3246|82af5b69|x|0|1995|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Run Saber|5486|8708e5bb|x|0|1993|Platformer|USA|Atlus|Hori Electric|Not Rated|Cartridge|Gamepad|SNES
+Sailormoon|NOID|CD89020D|x|0|1994|Beat-'Em-Up|Japan|Bandai|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Samurai Shodown|5823|2e614a53|x|0|1994|Fighter|USA|Takara|Takara|Not Rated|Cartridge|Gamepad|SNES
+Saturday Night Slam Masters|3247|54161830|x|0|1996|Sports/Wrestling|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Scooby-Doo Mystery|297|98d7611e|x|0|1995|Action|USA|Acclaim|Sunsoft|Not Rated|Cartridge|Gamepad|SNES
+SeaQuest DSV|5825|a6579e03|x|0|1995|Action|USA|Malibu|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Secret of Evermore|1311|a5c0045e|x|0|1995|Role Playing|USA|SquareSoft|Square Co., Ltd.|Not Rated|Cartridge|Gamepad|SNES
+Secret of Mana|1253|d0176b24|x|0|1993|Role Playing|Update Hacks|SquareSoft|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Shadow|3845|13380511|x|0|1994||USA|Ocean|Leland Interactive Media|Not Rated|Cartridge|Gamepad|SNES
+Shadowrun|2945|3f34dff0|x|0|1993|Role Playing|USA|Data East|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+Shanghai II Dragon's Eye|5835|2fec70b6|x|0|1993|Puzzle|USA|Activision|Hot-B|Not Rated|Cartridge|Gamepad|SNES
+Shaq Fu|3258|52916c9d|x|0|1994|Fighter|USA|Electronic Arts|Delphine Software International|Not Rated|Cartridge|Gamepad|SNES
+Shien's Revenge|5838|5bb2e6c3|x|0|1994|Action|USA|Vic Tokai|Almanic|Not Rated|Cartridge|Gamepad|SNES
+Side Pocket|5847|597c2bfe|x|0|1993|Miscellaneous|USA|Data East|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+SimAnt|5848|d08c05df|x|0|1993|Strategy|USA|Maxis|Tomcat System|Not Rated|Cartridge|Gamepad|SNES
+SimCity|3259|8aedd3a1|x|0|1991|Strategy|USA|Nintendo|Maxis|Not Rated|Cartridge|Gamepad|SNES
+SimCity 2000|5849|2d5dc011|x|0|1996|Strategy|USA|Black Pearl|THQ|Not Rated|Cartridge|Gamepad|SNES
+SimEarth The Living Planet|5852|7fa5b218|x|0|1993|Strategy|USA|FCI, Inc.|Tomcat System|Not Rated|Cartridge|Gamepad|SNES
+Simpsons Bart's Nightmare|2764|ed1c03c2|x|0|1992|Action|USA|Acclaim|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Sink or Swim|5856|dd329f85|x|0|1994|Platformer|USA|Titus|Zeppelin Games|Not Rated|Cartridge|Gamepad|SNES
+SkulJagger Revolt of the Westicans|298|e58a6d01|x|0|1992|Platformer|USA|American Softworks|Realtime Associates|Not Rated|Cartridge|Gamepad|SNES
+Skyblazer|3260|f13b00b0|x|0|1994|Platformer|USA|Sony Imagesoft|Ukiyotei|Not Rated|Cartridge|Gamepad|SNES
+Smart Ball|5862|3cfe77ab|x|0|1991|Action|USA|Sony Imagesoft|Game Freak|Not Rated|Cartridge|Gamepad|SNES
+Smash Tennis|5957|6f7d1745|x|0|1993|Sports/Tennis|Europe|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Smurfs Travel the World|NOID|22947169|x|0|1996|Platformer|region-unknown|Infogrames|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Smurfs|6290|2ae148d6|x|0|1994|Platformer|Europe|Infogrames|Infogrames|Not Rated|Cartridge|Gamepad|SNES
+Snow White in Happily Ever After|3261|d68d1ab3|x|0|1994|Action|USA|American Softworks|Imagitec Design|Not Rated|Cartridge|Gamepad|SNES
+Soldiers of Fortune|5959|cf719a93|x|0|1993|Shooter|USA|Spectrum Holobyte|Bitmap Brothers|Not Rated|Cartridge|Gamepad|SNES
+Sonic Blast Man|2580|8886396e|x|0|1992|Fighter|USA|Taito|Taito Corporation|Not Rated|Cartridge|Gamepad|SNES
+Sonic Blast Man II|5960|24229a34|x|0|1994|Fighter|USA|Taito|Taito Corporation|Not Rated|Cartridge|Gamepad|SNES
+SOS|5961|09ae53f5|x|0|1994|Action|USA|Vic Tokai|Human Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Soul Blazer|3262|31b965db|x|0|1992|Role Playing|USA|Enix|Quintet|Not Rated|Cartridge|Gamepad|SNES
+Space Ace|5962|f4bb0888|x|0|1993|Action|USA|Absolute Entertainment|Entertainment International|Not Rated|Cartridge|Gamepad|SNES
+Space Football One on One|5963|55dcf09e|x|0|1992|Sports/Football|USA|Triffix|Bits Studios|Not Rated|Cartridge|Gamepad|SNES
+Space Invaders the Original Game|NOID|caf035f5|x|0|1997|Shooter|USA|Nintendo|Taito|Not Rated|Cartridge|Gamepad|SNES
+Space Megaforce|3264|11202781|x|0|1992|Shooter|USA|Toho|Compile|Not Rated|Cartridge|Gamepad|SNES
+Spanky's Quest|5964|ca68c5c3|x|0|1992|Action|USA|Natsume|Natsume|Not Rated|Cartridge|Gamepad|SNES
+Sparkster|2671|40d11c94|x|0|1994|Action|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Spawn|NOID|4e1dafd0|x|0|1995|Action|USA|Acclaim|Ukiyotei|Not Rated|Cartridge|Gamepad|SNES
+Spectre|3265|ade6e0d8|x|0|1994|Action|USA|Cybersoft|Synergistic Software|Not Rated|Cartridge|Gamepad|SNES
+Speed Racer in My Most Dangerous Adventures|5965|aa44287c|x|0|1994|Driving|USA|Accolade|Radical Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Speedy Gonzales Los Gatos Bandidos|6127|cb0653d0|x|0|1995|platform|region-unknown|Acclaim|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Spider-Man|2954|c99e174e|x|0|1994|Platformer|USA|LJN|Western Tech|Not Rated|Cartridge|Gamepad|SNES
+Spider-Man-Venom Maximum Carnage|NOID|7ef2bb0c|x|0|1994|Fighter|region-unknown|LJN|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Spider-Man-X-Men Arcade's Revenge|NOID|ae878ccb|x|0|1992|platform|region-unknown|LJN|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Spindizzy Worlds|6129|52b68163|x|0|1993|Action|USA|ASCII Entertainment|ASCII|Not Rated|Cartridge|Gamepad|SNES
+Spirou|6130|797e2e82|x|0|1996|Platformer|Europe|Infogrames|Infogrames|Not Rated|Cartridge|Gamepad|SNES
+Sporting News Power Baseball|6291|315af696|x|0|1995|Sports/Baseball|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Sports Illustrated Championship Football and Baseball|6131|d4874966|x|0|1994|Sports|region-unknown|Malibu|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Star Fox|1730|8fc4e6d0|x|0|1993|Simulation|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Star Fox|1730|cd1f04b8|x|0|1993|Simulation|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Star Trek Deep Space Nine Crossroads of Time|6133|9a245fa3|x|0|1995|Action|region-unknown|Playmates|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Star Trek Starfleet Academy Starship Bridge Simulator|3267|2db38d24|x|0|1994|Simulation|region-unknown|Interplay|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Star Trek The Next Generation Future's Past|3268|8de80428|x|0|1995|Adventure|region-unknown|Spectrum Holobyte|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Stargate|6136|526ce576|x|0|1994|Platformer|USA|Acclaim|Probe Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Steel Talons|6137|4ea9f93f|x|0|1993|Action|USA|Left Field Productions|Panoramic|Not Rated|Cartridge|Gamepad|SNES
+Sterling Sharpe End 2 End|6138|70d9c906|x|0|1995|Sports|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Stone Protectors|6139|a7e58592|x|0|1994|Fighter|USA|Kemco|Eurocom|Not Rated|Cartridge|Gamepad|SNES
+Street Combat|6140|1969bbd9|x|0|1993|Fighter|USA|Irem|Irem|Not Rated|Cartridge|Gamepad|SNES
+Street Fighter Alpha 2|3269|9c59ddff|x|0|1996|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Street Fighter II|3122|bc3dcd9d|x|0|1992|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Street Fighter II Turbo|2538|a45cadd6|x|0|1993|Fighter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Street Hockey '95|6141|97357a1b|x|0|1994|Sports/Hockey|USA|GTE Entertainment|GTE Interactive|Not Rated|Cartridge|Gamepad|SNES
+Street Racer|6142|63e8b7d5|x|0|1994|Driving|USA|Ubisoft|Vivid Image|Not Rated|Cartridge|Gamepad|SNES
+Strike Gunner S.T.G|NOID|d054e288|x|0|1992|Shooter|USA|NTVIC|Athena|Not Rated|Cartridge|Gamepad|SNES
+Stunt Race FX|3270|380c2635|x|0|1994|Driving|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Sunset Riders|3271|52ada404|x|0|1991|Shooter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Super Adventure Island|2082|dcd46848|x|0|1992|Platformer|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Super Adventure Island II|2083|52fe16fd|x|0|1995|Action|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Super Alfred Chicken|3754|f21c5a9d|x|0|1994|Action|USA|Mindscape|Twilight Games|Not Rated|Cartridge|Gamepad|SNES
+Super Aquatic Games Starring the Aquabats|9248|2a5ddac0|x|0|1993|Sports|region-unknown|Seika Corp.|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Super Baseball Simulator 1.000|3272|aa760fec|x|0|1991|Sports/Baseball|USA|Culture Brain|Culture Brain|Not Rated|Cartridge|Gamepad|SNES
+Super Bases Loaded|9249|6b971f1e|x|0|1991|Sports/Baseball|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Super Bases Loaded 3 License to Steal|6146|f0540d1b|x|0|1995|Sports/Baseball|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Super Bases Loaded II|NOID|e14128ca|x|0|1994|Sports/Baseball|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Super Batter Up|6147|5896c854|x|0|1992|Sports/Baseball|USA|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Super Battleship|3273|6fcea1a1|x|0|1993|Strategy|USA|Mindscape|World Builders Synergistic|Not Rated|Cartridge|Gamepad|SNES
+Super Battletank War in the Gulf|NOID|77811b34|x|0|1992|Simulation|USA|Absolute Entertainment|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Super Battletank 2|6149|70a292d6|x|0|1993|Simulation|USA|Absolute Entertainment|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Super Black Bass|2084|57d9fd61|x|0|1993|Sports/Fishing|USA|Hot-B|Starfish Inc.|Not Rated|Cartridge|Gamepad|SNES
+Super Bomberman|277|63a8e2c6|x|0|1993|Action|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Super Bomberman 2|2534|9c1f11e4|x|0|1994|Action|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Super Bomberman 3|2661|a096a6e5|x|0|1995|Action|Europe|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Super Bonk|9250|5688b581|x|0|1994|Platformer|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Super Bowling|6151|94945b50|x|0|1992|Sports/Bowling|USA|Technos|Athena|Not Rated|Cartridge|Gamepad|SNES
+Super Buster Bros.|6152|9526d1aa|x|0|1992|Action|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Super Caesars Palace|6153|a2381221|x|0|1993|Casino|USA|Virgion|Illusion Softworks|Not Rated|Cartridge|Gamepad|SNES
+Super Castlevania IV|1308|b64ffb12|x|0|1991|Platformer|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Super Chase H.Q.|6154|6ef3b9c7|x|0|1993|Driving|USA|Taito|Taito Software|Not Rated|Cartridge|Gamepad|SNES
+Super Conflict The Mideast|6155|f254d5cf|x|0|1993|Action|USA|Vic Tokai|Vic Tokai|Not Rated|Cartridge|Gamepad|SNES
+Super Copa|NOID|49e53877|x|0|1994|Soccer/Sports|region-unknown|American Softworks|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Super Dany|NOID|0F578F67|x|0|1998|Platformer|Europe|Virgin Interactive|Cryo Interactive|Not Rated|Cartridge|Gamepad|SNES
+Super Double Dragon|2085|09ed12a5|x|0|1992|Fighter|USA|Tradewest|Technos|Not Rated|Cartridge|Gamepad|SNES
+Super Ghouls'n Ghosts|NOID|6aaba901|x|0|1991|Platformer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Super Goal! 2|6159|c5829306|x|0|1994|Sports/Soccer|USA|Jaleco|Jaleco|Not Rated|Cartridge|Gamepad|SNES
+Super Godzilla|6161|6a187c70|x|0|1993|Shooter|USA|Toho|Toho|Not Rated|Cartridge|Gamepad|SNES
+Super High Impact|6162|2eed70fb|x|0|1993|Sports/Football|USA|Acclaim|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Super Ice Hockey|NOID|fb1d16c4|x|0|1994|Sports/Hockey|Europe|Sun Soft|Sunsoft|Not Rated|Cartridge|Gamepad|SNES
+Super International Cricket|6166|89cd72b0|x|0|1994|Sports|Europe|Nintendo|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+Super James Pond|3274|d7c34122|x|0|1993|Platformer|USA|American Softworks|American Softworks|Not Rated|Cartridge|Gamepad|SNES
+Super Mario All-Stars|2093|925637c7|x|0|1993|Platformer|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Super Mario All-Stars + Super Mario World|136|f84305b1|x|0|1994|Platformer|region-unknown|Nintendo|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Super Mario Kart|41|cd80db86|x|0|1992|Driving|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Super Mario RPG Legend of the Seven Stars|232|1b8a0625|x|0|1996|Role Playing|USA|SquareSoft|Square Co. Ltd.|Not Rated|Cartridge|Gamepad|SNES
+Super Mario World|136|b19ed489|x|0|1991|Platformer|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Super Mario World 2 Yoshi's Island|137|cf98ddaa|x|0|1995|Platformer|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Super Metroid|299|d63ed5f8|x|0|1994|Platformer|Update Hacks|Nintendo|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Super Morph|2204|388f6daa|x|0|1993|Puzzle|Europe|Sony Imagesoft|Millennium Interactive|Not Rated|Cartridge|Gamepad|SNES
+Super Ninja Boy|2672|6bcbba10|x|0|1993|Role Playing|USA|Culture Brain|Culture Brain|Not Rated|Cartridge|Gamepad|SNES
+Super Noah's Ark 3D|6225|A2315A14|x|0|1994|Shooter|region-unknown|Wisdom Tree|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Super Nova|6226|460def25|x|0|1993|Shooter|USA|Taito|Taito Software|Not Rated|Cartridge|Gamepad|SNES
+Super Off Road|2796|fe263383|x|0|1991|Driving|USA|Tradewest|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Super Off Road The Baja|3276|cb483ead|x|0|1993|Driving|USA|Tradewest|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Super Pinball Behind the Mask|2068|008463a0|x|0|1994|Pinball|USA|Nintendo|KaZe|Not Rated|Cartridge|Gamepad|SNES
+Super Play Action Football|6168|0f359a60|x|0|1992|Sports/Football|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Super Punch-Out!!|1307|e2f92f84|x|0|1994|Sports/Boxing|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Super Putty|5797|746087c1|x|0|1993|Action|USA|U.S. Gold|System 3|Not Rated|Cartridge|Gamepad|SNES
+Super R-Type|3277|8b22c830|x|0|1991|Shooter|USA|Irem|Irem|Not Rated|Cartridge|Gamepad|SNES
+Super R.B.I. Baseball|6169|31db6cfe|x|0|1995|Sports/Baseball|USA|Time Warner|Gray Matter|Not Rated|Cartridge|Gamepad|SNES
+Super Scope 6|13920|b141ea99|x|0|1992|Gun|USA|Nintendo|dev-unknown|Not Rated|Cartridge|Super Scope|SNES
+Super Slam Dunk|6171|3effc9e5|x|0|1993|Sports/Basketball|USA|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Super Slap Shot|NOID|7355c9b9|x|0|1993|Sports/Hockey|region-unknown|Virgin Interactive|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Super Smash T.V.|5863|2d0b20d0|x|0|1992|Shooter|USA|Acclaim|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+Super Soccer|5575|4fd164d8|x|0|1992|Sports/Soccer|USA|Nintendo|Human Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Super Soccer Champ|13918|b31d35a5|x|0|1992|Sports/Soccer|USA|Taito|Taito Soccer|Not Rated|Cartridge|Gamepad|SNES
+Super Solitaire|6174|c8e80d55|x|0|1994|Miscellaneous|USA|Extreme Entertainment Group|Extreme Entertainment Group|Not Rated|Cartridge|Gamepad|SNES
+Super Star Wars|2658|be47f6c6|x|0|1992|Platformer|USA|JVC Digital Studios|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Super Star Wars Return of the Jedi|2660|4a5f30d8|x|0|1995|Platformer|USA|Victor Interactive Software|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Super Star Wars The Empire Strikes Back|2659|1e7ea62c|x|0|1993|Platformer|USA|JVC Musical Industries, Inc.|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Super Street Fighter II|3122|f16d5ce9|x|0|1994|Fighter|Update Hacks|Capcom|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Super Strike Eagle|6175|ecf79841|x|0|1993|Flying|USA|Asmik Ace Entertainment, Inc|MicroProse|Not Rated|Cartridge|Gamepad|SNES
+Super Tennis|3278|8d383776|x|0|1991|Sports/Tennis|USA|Nintendo|Tokyo Shoseki|Not Rated|Cartridge|Gamepad|SNES
+Super Troll Islands|6176|f9690be9|x|0|1993|Action|USA|ASC Games|Kemco|Not Rated|Cartridge|Gamepad|SNES
+Super Turrican|6177|3a7e8215|x|0|1993|Shooter|USA|Seika Corp.|Factor 5|Not Rated|Cartridge|Gamepad|SNES
+Super Turrican 2|6178|d2ffabac|x|0|1995|Shooter|USA|Ocean|Factor 5|Not Rated|Cartridge|Gamepad|SNES
+Super Valis IV|6327|29e8ac9f|x|0|1992|Platformer|USA|Atlus|Telenet Japan|Not Rated|Cartridge|Gamepad|SNES
+Super Widget|3914|7dd199ec|x|0|1993|Platformer|USA|Atlus|Atlus|Not Rated|Cartridge|Gamepad|SNES
+Suzuka 8 Hours|6227|54740b9b|x|0|1993|Driving|USA|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+SWAT Kats The Radical Squadron|6228|ea2a23fb|x|0|1995|Platformer|USA|Hudson|Hudson Soft|Not Rated|Cartridge|Gamepad|SNES
+Syndicate|6229|d74570d3|x|0|1995|Strategy|USA|Ocean|Bullfrog Productions|Not Rated|Cartridge|Gamepad|SNES
+Syvalion|6230|f1884ecb|x|0|1993|Shooter|Europe|JVC Digital Studios|Taito|Not Rated|Cartridge|Gamepad|SNES
+T2 The Arcade Game|6231|5dc6b9fe|x|0|1994|Gun|USA|Acclaim|Probe Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Taz-Mania|6233|b17230ae|x|0|1993|Action|USA|SunSoft|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Tecmo Secret of the Stars|2670|ef968ed1|x|0|1995|Role Playing|USA|Tecmo|Tecmo|Not Rated|Cartridge|Gamepad|SNES
+Tecmo Super Baseball|6248|e302d853|x|0|1994|Sports/Baseball|USA|Tecmo|Tecmo|Not Rated|Cartridge|Gamepad|SNES
+Tecmo Super Bowl|6250|cde3746b|x|0|1993|Sports/Football|USA|Tecmo|Tecmo|Not Rated|Cartridge|Gamepad|SNES
+Tecmo Super Bowl II Special Edition|6251|d67d507b|x|0|1994|Sports/Football|USA|Tecmo|Tecmo|Not Rated|Cartridge|Gamepad|SNES
+Tecmo Super Bowl III Final Edition|6252|8ef1411f|x|0|1995|Sports/Football|USA|Tecmo|Tecmo|Not Rated|Cartridge|Gamepad|SNES
+Tecmo Super NBA Basketball|6253|1b6f0b43|x|0|1993|Sports/Basketball|USA|Tecmo|Tecmo|Not Rated|Cartridge|Gamepad|SNES
+Teenage Mutant Ninja Turtles Tournament Fighters|3283|e2fe5dbf|x|0|1993|Fighter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Teenage Mutant Ninja Turtles IV Turtles In Time|188|5940bd99|x|0|1992|Fighter|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Terminator 2 Judgment Day|6256|f729b19e|x|0|1993|Action|USA|LJN Ltd.|Bits Studios|Not Rated|Cartridge|Gamepad|SNES
+Terminator|2614|d71e6c3b|x|0|1993|Platformer|USA|Mindscape|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+Terranigma|1783|974523ff|x|0|1996|Role Playing|Europe|Nintendo|Quintet|Not Rated|Cartridge|Gamepad|SNES
+Tetris and Dr. Mario|3280|6c852ef3|x|0|1994|Puzzle|region-unknown|Nintendo|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Tetris 2|6258|3bc7054a|x|0|1994|Puzzle|Japan|Nintendo|Bullet Proof Software|Not Rated|Cartridge|Gamepad|SNES
+Tetris Attack|3281|6c128210|x|0|1996|Puzzle|USA|Nintendo|Intelligent Systems|Not Rated|Cartridge|Gamepad|SNES
+Theme Park|6296|ca0e041c|x|0|1996|Strategy|Europe|Ocean|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Thomas the Tank Engine and Friends|6297|bb4cd5a4|x|0|1993|Action|USA|THQ|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Thunder Spirits|6298|522fe837|x|0|1991|Shooter|USA|Seika Corp.|Technosoft|Not Rated|Cartridge|Gamepad|SNES
+Tick|6293|12ab22a7|x|0|1994|Fighter|USA|Fox Interactive|Software Creations|Not Rated|Cartridge|Gamepad|SNES
+Time Slip|6299|838d0304|x|0|1993|Action|USA|Vic Tokai|Sales Curve Interactive|Not Rated|Cartridge|Gamepad|SNES
+Time Trax|6300|f6628157|x|0|1994|Platformer|USA|Malibu|Malibu Games|Not Rated|Cartridge|Gamepad|SNES
+Timecop|6301|130b0933|x|0|1995|Action|USA|JVC Musical Industries, Inc.|Cryo Interactive|Not Rated|Cartridge|Gamepad|SNES
+Timon and Pumbaa's Jungle Games|2205|341c6fb0|x|0|1997|Puzzle|region-unknown|THQ|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Tin Star|9251|ec26f75b|x|0|1994|Gun|USA|Nintendo|Software Creations|Not Rated|Cartridge|Gamepad, Super Scope,|SNES
+Tintin Prisoners of the Sun|NOID|a94a47be|x|0|1997|Platformer|region-unknown|Infogrames|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Tintin in Tibet|NOID|f1dce2b7|x|0|1995|Platformer|Europe|Infogrames|Infogrames|Not Rated|Cartridge|Gamepad|SNES
+Tiny Toon Adventures Buster Busts Loose!|3282|ab48d27a|x|0|1993|Platformer|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+Tiny Toon Adventures Wacky Sports Challenge|6302|afe72ff0|x|0|1994|Sports|USA|Konami|Konami|Not Rated|Cartridge|Gamepad|SNES
+TKO Super Championship Boxing|6303|fd4af462|x|0|1992|Sports/Boxing|USA|Sofel|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+TNN Bass Tournament of Champions|6304|c367b683|x|0|1994|Sports|USA|American Softworks|American Softworks|Not Rated|Cartridge|Gamepad|SNES
+Tom and Jerry|6305|8b1dafbb|x|0|1992|Platformer|region-unknown|Hi Tech Expressions|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Tommy Moe's Winter Extreme Skiing and Snowboarding|9253|3d005f22|x|0|1994|Sports|USA|Electro Brain|Loriciel|Not Rated|Cartridge|Gamepad|SNES
+Tony Meola's Sidekicks Soccer|9252|32b658c1|x|0|1993|Sports/Soccer|USA|Electro Brain|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Top Gear|2208|d34c49b7|x|0|1992|Driving|USA|Kemco|Gremlin Graphics Software, Ltd.|Not Rated|Cartridge|Gamepad|SNES
+Top Gear 2|2209|2b88bee8|x|0|1993|Driving|USA|Kemco|Gremlin Graphics Software, Ltd.|Not Rated|Cartridge|Gamepad|SNES
+Top Gear 3000|2210|a20be998|x|0|1995|Driving|USA|Kemco|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Total Carnage|6307|e27ff2bc|x|0|1993|Shooter|USA|Malibu|Black Pearl Software|Not Rated|Cartridge|Gamepad|SNES
+Toy Story|NOID|8328822b|x|0|1996|Platformer|USA|Capcom|Traveller's Tales|Not Rated|Cartridge|Gamepad|SNES
+Toys|6308|efebf501|x|0|1993|Action|USA|Absolute Entertainment|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Troddlers|6310|6a7ff02d|x|0|1993|Action|USA|Seika Corp.|Atod|Not Rated|Cartridge|Gamepad|SNES
+Troy Aikman NFL Football|5706|0b26446b|x|0|1994|Sports/Football|USA|Tradewest|Tradewest|Not Rated|Cartridge|Gamepad|SNES
+True Golf Classics Pebble Beach Golf Links|6312|18c5ad58|x|0|1992|Sports/Golf|NOID|TandE Soft|TTrue Golf Classics Pebble Beach Golf Links|Not Rated|Cartridge|Gamepad|18c5ad58
+True Golf Classics Waialae Country Club|6313|e9d6c61e|x|0|1991|Sports/Golf|NOID|TandE Soft|TTrue Golf Classics Waialae Country Club|Not Rated|Cartridge|Gamepad|e9d6c61e
+True Golf Classics Wicked 18|6345|26177842|x|0|1993|Sports/Golf|NOID|Bullet Proof Software|TTrue Golf Classics Wicked 18|Not Rated|Cartridge|Gamepad|26177842
+True Lies|2656|40ca49ae|x|0|1994|Shooter|USA|LJN Ltd.|LJN|Not Rated|Cartridge|Gamepad|SNES
+TuffNuff|NOID|865f37bf|x|0|1993|Fighter|region-unknown|Jaleco Entertainment|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Turbo Toons|NOID|26a9c3f4|x|0|1994|Miscellaneous|Europe|Empire Interactive|Empire Software|Not Rated|Cartridge|Gamepad|SNES
+Turn and Burn No-Fly Zone|6314|87bfa0b8|x|0|1992|Flying|USA|Absolute Entertainment|Absolute Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Twisted Tales of Spike McFang|2673|8c2068d1|x|0|1994|Role Playing|USA|Naxat Soft|Red Entertainment|Not Rated|Cartridge|Gamepad|SNES
+U.N. Squadron|3287|231f0f67|x|0|1991|Shooter|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Ultima Runes of Virtue II|6317|cc4eebf4|x|0|1994|Role Playing|USA|Electronic Arts Victor|Origin Systems|Not Rated|Cartridge|Gamepad|SNES
+Ultima VI The False Prophet|6315|9277c9f7|x|0|1992|Role Playing|USA|FCI, Inc.|Origin Systems|Not Rated|Cartridge|Gamepad|SNES
+Ultima VII The Black Gate|6316|e790f52f|x|0|1994|Role Playing|USA|FCI, Inc.|Origin Systems|Not Rated|Cartridge|Gamepad|SNES
+Ultimate Fighter|6318|9dfc8897|x|0|1993|Fighter|USA|Culture Brain|Culture Brain|Not Rated|Cartridge|Gamepad|SNES
+Ultimate Mortal Kombat 3|2825|f5bfe41e|x|0|1996|Fighter|USA|Williams|Avalanche Software|Not Rated|Cartridge|Gamepad|SNES
+Ultraman Towards the Future|NOID|1ded2814|x|0|1991|Fighter|USA|Bandai|Bandai|Not Rated|Cartridge|Gamepad|SNES
+Uncharted Waters|6320|95724a2f|x|0|1992|Strategy|USA|Koei|Koei|Not Rated|Cartridge|Gamepad|SNES
+Uniracers|2212|383858c7|x|0|1994|Driving|USA|Nintendo|DMA Design|Not Rated|Cartridge|Gamepad|SNES
+Universal Soldier|6322|59180F1C|x|0|1992|Platformer|Prototype (USA)|Accolade|Carolco|Not Rated|Cartridge|Gamepad|SNES
+Untouchables|6294|c70f2374|x|0|1994|Action|USA|Ocean|Ocean Software|Not Rated|Cartridge|Gamepad|SNES
+Urban Strike|6324|b9bf7990|x|0|1994|Action|USA|Black Pearl|Granite Bay Software|Not Rated|Cartridge|Gamepad|SNES
+Utopia The Creation of a Nation|6325|252a96c7|x|0|1993|Strategy|USA|Jaleco|Gremlin Graphics Software|Not Rated|Cartridge|Gamepad|SNES
+Vegas Stakes|6328|03a0e935|x|0|1993|Casino|USA|Nintendo|HAL Laboratory|Not Rated|Cartridge|Gamepad|SNES
+Venom-Spider-Man Separation Anxiety|NOID|919c509d|x|0|1995|Fighter|region-unknown|Acclaim|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Virtual Bart|6330|5d0addda|x|0|1994|Action|USA|Acclaim|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+Virtual Soccer|2213|ecb8a53a|x|0|1994|Sports/Soccer|Europe|Hudson|Probe Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Vortex|2655|31b1ad00|x|0|1994|Shooter|USA|Electro Brain|Argonaut Software|Not Rated|Cartridge|Gamepad|SNES
+War 2410|6331|ad2dc53a|x|0|1995|Strategy|USA|Advanced Productions|Advanced Productions|Not Rated|Cartridge|Gamepad|SNES
+War 3010 The Revolution|6332|98c974be|x|0|1996|Strategy|USA|Advanced Productions Inc.|Advanced Productions|Not Rated|Cartridge|Gamepad|SNES
+Wario's Woods|6333|2d1004f1|x|0|1993|Puzzle|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+Warlock|6334|a47884d0|x|0|1994|Action|USA|Acclaim|Realtime Associates|Not Rated|Cartridge|Gamepad|SNES
+WarpSpeed|6335|1e10a1d1|x|0|1992|Action|USA|Accolade|Accolade|Not Rated|Cartridge|Gamepad|SNES
+WaterWorld|2214|7acf2ac6|x|0|1995|Action|USA|Ocean|Ocean|Not Rated|Cartridge|Gamepad|SNES
+Wayne Gretzky and the NHLPA All-Stars|6336|0b7d22b2|x|0|1995|Sports/Hockey|USA|Time Warner|Time Warner Interactive|Not Rated|Cartridge|Gamepad|SNES
+Wayne's World|6337|0d426a15|x|0|1993|Action|USA|THQ|Gray Matter|Not Rated|Cartridge|Gamepad|SNES
+WCW Super Brawl Wrestling|6338|8b477300|x|0|1994|Sports/Wrestling|USA|FCI, Inc.|Beam Software|Not Rated|Cartridge|Gamepad|SNES
+We're Back! A Dinosaur's Story|6342|3f654414|x|0|1993|Action|USA|Hi-Tech|Visual Concepts|Not Rated|Cartridge|Gamepad|SNES
+Weaponlord|6339|0e7e7102|x|0|1995|Fighter|region-unknown|Namco|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Wheel of Fortune|2766|1c384b11|x|0|1992|Quiz|USA|GameTek|Imagitec Design|Not Rated|Cartridge|Gamepad|SNES
+Wheel of Fortune Deluxe Edition|9983|d6a5984c|x|0|1993|Quiz|USA|GameTek|Imagitec Design|Not Rated|Cartridge|Gamepad|SNES
+Where in the World is Carmen Sandiego|10959|9ef83223|x|0|1993|Puzzle|USA|Hi-Tech|Broderbund|Not Rated|Cartridge|Gamepad|SNES
+Where in Time is Carmen Sandiego|6343|1712018b|x|0|1993|Puzzle|USA|Hi-Tech|Broderbund|Not Rated|Cartridge|Gamepad|SNES
+Whirlo|2215|7379e3b3|x|0|1992|Action|Europe|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Whizz|6344|ea8df334|x|0|1996|Platformer|USA|Titus|Flair Software|Not Rated|Cartridge|Gamepad|SNES
+Wild Guns|2086|085d8d14|x|0|1994|Shooter|USA|Natsume|Natsume|Not Rated|Cartridge|Gamepad|SNES
+WildSnake|NOID|025adbf9|x|0|1994|Puzzle|region-unknown|Spectrum Holobyte|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Wing Commander|2657|65ad4f8d|x|0|1993|Flying|USA|Mindscape|Origin Systems|Not Rated|Cartridge|Gamepad|SNES
+Wing Commander The Secret Missions|6348|d5e9af7f|x|0|1993|Flying|USA|Mindscape|Origin Systems|Not Rated|Cartridge|Gamepad|SNES
+Wings 2 Aces High|3289|1637d1a5|x|0|1992|Flying|USA|Namco|Namco|Not Rated|Cartridge|Gamepad|SNES
+Winter Gold|6349|0f8378a6|x|0|1996|Sports|Europe|Nintendo|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Winter Olympic Games Lillehammer '94|6350|0704abe4|x|0|1994|Sports|USA|U.S. Gold|id Software|Not Rated|Cartridge|Gamepad|SNES
+Wizard Of Oz|6295|d5ce2db5|x|0|1993|Action|USA|Seta Corporation|SETA Corporation|Not Rated|Cartridge|Gamepad|SNES
+Wizardry V Heart of the Maelstrom|3290|d8fddd76|x|0|1994|Role Playing|USA|Capcom|ASCII Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Wolfchild|2674|13bfb3a0|x|0|1993|Platformer|USA|Virgin Interactive|Core Design|Not Rated|Cartridge|Gamepad|SNES
+Wolfenstein 3D|2087|6582a8f5|x|0|1994|Shooter|USA|Imagineer|id Software|Not Rated|Cartridge|Gamepad|SNES
+Wolverine Adamantium Rage|3915|4e62d6bf|x|0|1994|Action|USA|LJN Ltd.|Electro Source|Not Rated|Cartridge|Gamepad|SNES
+Wordtris|6353|856ab0bb|x|0|1992|Puzzle|USA|Spectrum Holobyte|Realtime Associates|Not Rated|Cartridge|Gamepad|SNES
+World Class Rugby|6354|d73d6c80|x|0|1993|Sports/Football|Europe|Imagineer|Misawa|Not Rated|Cartridge|Gamepad|SNES
+World Cup Striker|3618|6d16f5e7|x|0|1994|Sports/Soccer|region-unknown|Elite|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+World Cup USA 94|NOID|fb1c9082|x|0|1994|Sports/Soccer|region-unknown|U.S. Gold|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+World Heroes|2760|1228ad30|x|0|1993|Fighter|USA|Sun Soft|Alpha Denshi|Not Rated|Cartridge|Gamepad|SNES
+World Heroes 2|6357|098d7eaa|x|0|1994|Fighter|USA|Takara|Alpha Denshi|Not Rated|Cartridge|Gamepad|SNES
+World League Soccer|6359|591cbb2d|x|0|1992|Sports/Soccer|USA|Mindscape|ANCO|Not Rated|Cartridge|Gamepad|SNES
+World Masters Golf|6360|e0ee681f|x|0|1995|Sports/Golf|Europe|Virgin Interactive|Arc Developments|Not Rated|Cartridge|Gamepad|SNES
+World Soccer 94 Road to Glory|9254|0aae0a10|x|0|1993|Sports/Soccer|region-unknown|Atlus|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+Worms|6362|90d0fac0|x|0|1996|Strategy|Europe|Ocean|Team17|Not Rated|Cartridge|Gamepad|SNES
+WWF Raw|6363|3e0038bf|x|0|1994|Sports/Wrestling|USA|LJN Ltd.|Scuptured Software|Not Rated|Cartridge|Gamepad|SNES
+WWF Royal Rumble|6364|2101d515|x|0|1993|Sports/Wrestling|USA|LJN Ltd.|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+WWF Super WrestleMania|3279|676cb638|x|0|1992|Sports/Wrestling|USA|LJN Ltd.|Sculptured Software|Not Rated|Cartridge|Gamepad|SNES
+WWF WrestleMania The Arcade Game|6365|1ba08495|x|0|1996|Sports/Wrestling|region-unknown|Acclaim|dev-unknown|Not Rated|media-unknown|controller-unknown|SNES
+X Zone|8184|99627bb0|x|0|1992|Gun|USA|Kemco|Kemco|Not Rated|Cartridge|Super Scope|SNES
+X-Kaliber 2097|6367|e83eceea|x|0|1994|Platformer|USA|Activision|Fupac|Not Rated|Cartridge|Gamepad|SNES
+X-Men Mutant Apocalypse|3291|5e34822a|x|0|1995|Platformer|USA|Capcom|Capcom|Not Rated|Cartridge|Gamepad|SNES
+Xardion|6366|c7c12a57|x|0|1992|Shooter|USA|Asmik Ace Entertainment, Inc|Jorudan|Not Rated|Cartridge|Gamepad|SNES
+Yoshi's Cookie|6368|ef15f4c3|x|0|1993|Puzzle|USA|Bullet Proof Software|Bullet-Proof Software|Not Rated|Cartridge|Gamepad|SNES
+Yoshi's Safari|2088|59490ce8|x|0|1993|Gun|USA|Nintendo|Nintendo|Not Rated|Cartridge|Super Scope|SNES
+Young Merlin|6369|7ea1afe8|x|0|1993|Adventure|USA|Virgin Interactive|Westwood Studios|Not Rated|Cartridge|Gamepad|SNES
+Ys III Wanderers from Ys|3292|64a91e64|x|0|1991|Role Playing|USA|American Sammy|Nihon FAlcom Corporation|Not Rated|Cartridge|Gamepad|SNES
+Zero the Kamikaze Squirrel|6371|5397d5bc|x|0|1994|Platformer|USA|Sun Soft|Iguana Entertainment|Not Rated|Cartridge|Gamepad|SNES
+Zombies Ate My Neighbors|1361|7cfc0c7c|x|0|1993|Action|Update Hacks|Konami|dev-unknown|Not Rated|Cartridge|Gamepad|SNES
+Zool Ninja of the Nth Dimension|NOID|3c10daf1|x|0|1994|Platformer|USA|GameTek|Gremlin Graphics|Not Rated|Cartridge|Gamepad|SNES
+Zoop|3144|06f0e94c|x|0|1995|Puzzle|USA|Viacom New Media|Hookstone Ltd.|Not Rated|Cartridge|Gamepad|SNES
+7th Saga Redux|NOID|b71b23bb|x|0|2008|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+A Halloween Walk!|NOID|1de3c67a|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+AAAHH!!! Real Monsters|NOID|946313fb,27ff5ba1,b5679338|x|0|1995|Platformer|USA|Viacom New Media|Realtime Associates|No Rating|Cartridge|Gamepad|SNES
+Accele Brid|NOID|1c4dc36c|x|0|2002|Shooter , Third|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Acrobat Mission|18940|0da18a10|x|0|1992|Shooter|Japan|Techiku|Micronics|No Rating|Cartridge|Gamepad|SNES
+Action Pachio|NOID|c752f5df|x|0|1993|Platformer|Japan|Coconuts Japan|C-Lab|No Rating|Cartridge|Gamepad|SNES
+Actraiser|1046|5a6eb990|x|0|2006|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Adventures of Mighty Max|3574|62a7c74b,6fc3c105,4a0e225f|x|0|1995|Adventure , Platformer|USA|Ocean Software|Ocean Software|No Rating|Cartridge|Gamepad|SNES
+Aim for the Ace!|NOID|61177c3c|x|0|2004|Sports , Tennis|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Alcahest|13938|9cc9cc01|x|0|2002|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+American Battle Dome|NOID|61753981|x|0|1995|Pinball|Japan|Tsukuda Original|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+An American Tail Fievel Goes West|1704|080ac1b5,eea38aed,b01d33c0|x|0|1994|Movie Adaption|USA|Hudson Soft|Hudson Soft|No Rating|Cartridge|Gamepad|SNES
+Another Super Metroid|299|6fde44a1|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Apocalypse II|NOID|6a53c658|x|0|No Date|Shoot 'em Up|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Araiguma Rascal|NOID|de13ec70|x|0|1994|Puzzle|Japan|NCS|NCS|No Rating|Cartridge|Gamepad|SNES
+Arcus Odyssey|1999|184ef398|x|0|No Date|Adventure , Top|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Arn's Winter Quest Gway Edition|NOID|1a2724a8|x|0|2006|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Art of Fighting II|NOID|40019293|x|0|1994|VS Fighter|Japan|Saurus|Saurus|No Rating|Cartridge|Gamepad|SNES
+Assault Suits Valken|NOID|d618b19f|x|0|2002|Action|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Bahamut Lagoon|1776|58b496a5|x|0|2002|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Ball Bullet Gun|NOID|b0ad3a59|x|0|2004|Adventure , Turnbased|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Bastard!!|3479|fbd39fdc|x|0|2000|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Batman Revenge of the Joker|3480|205654dd|x|0|1992|Action , Side-Scrolling|Prototype (USA)|No Publisher|Icom Simulations|No Rating|Cartridge|Gamepad|SNES
+Battle Dodge Ball II|NOID|43d3f2b2|x|0|1993|Sports , Dodgeball|Japan|Banpresto|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Battle Dodge Ball Toukyuu Daigekitotsu!|NOID|99a1f158|x|0|1991|Sports , Dodgeball|Japan|Banpresto|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Battle Master|NOID|dbf76bfd|x|0|1993|VS Fighter|Japan|Toshiba EMI|System Vision|No Rating|Cartridge|Gamepad|SNES
+Battle Pinball|NOID|54901522|x|0|1995|Pinball|Japan|Banpresto|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Battle Soccer|NOID|7eb2bc23|x|0|2002|Sports , Soccer|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Battle Soccer 2|NOID|5316dd26|x|0|1994|Sports , Soccer|Japan|Banpresto|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Battletoads and Double Dragon the Ultimate Team|NOID|043f3773,8b18ac01,f60aba70|x|0|1993|Platformer|USA|Tradewest|Rare|No Rating|Cartridge|Gamepad|SNES
+Beethoven's 2nd the Ultimate Canine Caper!|NOID|4d1352ad,beebafa2|x|0|1994|Action , Side-Scrolling|USA|Hi Tech Expressions|Riedel Software Productions|No Rating|Cartridge|Gamepad|SNES
+Bike Daisuki! Hashiriya Damashii Rider's Spirits|NOID|b363fc99|x|0|1994|Racing , Motorcycles|Japan|NCS|Genki|No Rating|Cartridge|Gamepad|SNES
+Bio Metal|NOID|e901a947,8ba3d382,53d8410e|x|0|1993|Shoot 'em Up|USA|Activision|Athena|No Rating|Cartridge|Gamepad|SNES
+Bishoujo Senshi Sailormoon S Jougai Rantou! Shuyaku Soudatsusen|NOID|b0fd1854|x|0|1994|VS Fighter|Japan|Angel Studios|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Bishoujo Senshi Sailormoon S Kondo wa Puzzle de Oshioki yo!|NOID|10f03e3c|x|0|1994|Puzzle|Japan|Bandai|Tom Create|No Rating|Cartridge|Gamepad|SNES
+Bishoujo Senshi Sailormoon S Kurukkurin|NOID|e4a271bf|x|0|1995|Puzzle|Japan|Bandai|Tom Create|No Rating|Cartridge|Gamepad|SNES
+Bishoujo Senshi Sailormoon Super S Fuwa Fuwa Panic|NOID|b6b92ae0|x|0|1995|Puzzle|Japan|Bandai|Tom Create|No Rating|Cartridge|Gamepad|SNES
+Bishoujo Senshi Sailormoon Super S Zenin Sanka!! Shuyaku Soudatsusen|NOID|25440331|x|0|1996|VS Fighter|Japan|Angel Studios|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Bob-omb Mafia|NOID|a31161c3|x|0|2009|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Bomberman B-Daman|NOID|9fea854d|x|0|1996|Shooter|Japan|Hudson|Hudson|No Rating|Cartridge|Gamepad|SNES
+Boy's Soccer Team V|NOID|424b6e4f|x|0|No Date|Sports , Soccer|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Brandish 2 the Planet Buster|NOID|9db396ec|x|0|2009|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Breath of Fire II Shimei no Ko|NOID|fcc53f09|x|0|2009|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Bruce Campbell vs Gannon|NOID|7fec79ff|x|0|2009|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Brutal Mario|NOID|ea26fa60|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Bugs Bunny in Rabbit Rampage|NOID|91b3db54,832c0cb6|x|0|1994|Action , Side-Scrolling|USA|Sunsoft|Sunsoft|No Rating|Cartridge|Gamepad|SNES
+Bust-M-Up|NOID|e0c70137|x|0|No Date|Puzzle|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+C2 Judgment Clay|NOID|caa9abf1,20b5c364,f3c8468e|x|0|1995|VS Fighter|USA|Interplay|Interplay|No Rating|Cartridge|Gamepad|SNES
+Choplifter III Rescue Survive|NOID|788e42c9,ad26cc9e,1d2eae52,3280c18f,227e2d1f|x|0|1994|Shoot 'em Up|USA|Extreme Entertainment Group|Beam Software|No Rating|Cartridge|Gamepad|SNES
+Chou Aniki Bakuretsu Rantou Hen|NOID|70f5d440|x|0|1995|Beat 'em Up|Japan|NCS|NCS|No Rating|Cartridge|Gamepad|SNES
+Choujikuu Yousai Macross Scrambled Valkyrie|NOID|a5db02e9|x|0|1993|Shooter|Japan|Zamuse|WinkySoft|No Rating|Cartridge|Gamepad|SNES
+Chrono Trigger Coliseum|NOID|f5324375|x|0|2006|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Chrono Trigger Retranslation|NOID|a9671ea3|x|0|2008|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Chrono Trigger Crimson Echoes|NOID|a0a7d0ca|x|0|2009|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Chrono Trigger Level Zero|NOID|40b49574,6afaaa5e|x|0|2006|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Chrono Trigger Prophet's Guile|NOID|1eb43b3a|x|0|2007|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Classic's Super Mario Bros|NOID|9c1e5590|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Clock Tower the First Fear|NOID|c484afab|x|0|2001|Adventure|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Columns|NOID|005c77f5|x|0|1999|Puzzle|Japan|Media Factory|Marigul|No Rating|Cartridge|Gamepad|SNES
+Congo the Movie the Secret of Zinj|NOID|2a075f4b|x|0|No Date|Light Gun ,|Prototype (USA)|No Publisher|Viacom|No Rating|Cartridge|Gamepad|SNES
+Corn Buster|3543|b5fbad04|x|0|Unreleased|Breakout , Shooter|Prototype (USA)|No Publisher|Engine Software|No Rating|Cartridge|Gamepad|SNES
+Cosmo Gang the Puzzle|NOID|61b26167|x|0|1993|Puzzle|Japan|Namco|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Cosmo Gang the Video|NOID|a26dc1de|x|0|1992|Shooter|Japan|Namco|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Crayon Shin-chan Arashi o Yobu Enji|NOID|36c23f9a|x|0|1993|Action|Japan|Bandai|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Cu-On-Pa SFC|3544|42d0c418,fdaac109|x|0|1996|Puzzle|Japan|T&E Soft|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Cutthroat Island|1743|b5799f9c,19ea457b|x|0|1996|Movie Adaption|USA|Acclain & LJN|Software Creations|No Rating|Cartridge|Gamepad|SNES
+Cyber Knight I|NOID|efa08411|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Cyber Knight II|NOID|1e147c70|x|0|2005|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Cyborg 009|NOID|41ebe61b|x|0|2004|Platformer , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dark Law Meaning of Death|14815|c3e3a51c,c383a51c|x|0|2007|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Demon of LaPlace|NOID|6cdb0dae|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Der Langrisser|3549|43c0caa9|x|0|2008|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Digital Devil Story|NOID|1afe71a8|x|0|2002|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Digital Devil Story 2|NOID|6a49a51a|x|0|2004|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Disney's Aladdin|2868|44ff6e78,63069939,a7ad3e5d,1aeb696b,90ee8c61,124d8e4d,52fdfab4|x|0|1994|Movie Adaption|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Disney's Goof Troop|3200|61e8f56a,4fe6077a,aa69ef05,4aafa462|x|0|1993|Adventure , Top|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Disney's Pinocchio|5782|2832c824,d9f5a47a,00fad8fd|x|0|1996|Platformer , Side-Scrolling|USA|Disney Interactive|Virgin Interactive|No Rating|Cartridge|Gamepad|SNES
+Disney's the Lion King|3171|8a46ed37,79a9b2d0,c8fbfaa8|x|0|1994|Movie Adaption|USA|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Gamepad|SNES
+Do-Re-Mi Fantasy|NOID|09664695|x|0|2000|Platformer , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Donald Duck no Mahou no Boushi|NOID|1ed5d2fa|x|0|1995|Platformer|Japan|Epoch|SAS Sakata|No Rating|Cartridge|Gamepad|SNES
+Dossun! Stone Battle|NOID|223d17d0|x|0|2000|Puzzle , Strategy|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dr Mario World House Calls|NOID|b2aabc83|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Ball Z Gokuden|NOID|9e8ab1e8|x|0|2006|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Ball Z Hyper Dimension|1800|95f3132f|x|0|2006|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Ball Z Legend of the Saiyans|NOID|00d047ea|x|0|2003|Card Game ,|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Ball Z Super Butouden I|NOID|306c4638|x|0|2000|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Ball Z Super Butouden II|NOID|5bfbc02f|x|0|2001|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Ball Z Super Butouden III|NOID|2bf7cd65|x|0|2000|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Quest I and II|NOID|b5ae1e89|x|0|2003|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Quest III|NOID|391cbf6a|x|0|2009|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Quest V|NOID|6110a1a2|x|0|2002|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Quest VI|NOID|276d9893|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dragon Squadron Danzarb|NOID|e1019337|x|0|2007|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Drakkhen II Dragon View|1581|ab893412|x|0|1994|Role Playing Game|USA|KEMCO|Infogrames|No Rating|Cartridge|Gamepad|SNES
+Dream Maze The Kigurumi Adventure|14816|c5fcafa0|x|0|2005|Maze|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Dual Orb 2|NOID|2372b400|x|0|2008|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+EarthBound Battler|NOID|50bdcaa5|x|0|No Date|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+EarthBound 10th Anniversary Celebration|NOID|30d479a0|x|0|No Date|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Easier 7th Saga|282|9d6e2341|x|0|2007|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Emerald Dragon|19069|584dfe2c|x|0|2008|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Eurit|NOID|78bcd558|x|0|No Date|Action , Multi-Directional|Prototype (USA)|No Publisher|Radical|No Rating|Cartridge|Gamepad|SNES
+F-Zero Grand Prix II|NOID|c4808858|x|0|1997|Racing|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Famicom Detective Club Part 2|NOID|1d7858fe|x|0|2004|Adventure , Fictional|Japan (Translated)|No Publisher|dev-unknown|No Rating|Satellaview|Gamepad|SNES
+Fatal Fury King of Fighters|NOID|f93611c6,c67257d0|x|0|1993|VS Fighter|USA|Takara|SNK|No Rating|Cartridge|Gamepad|SNES
+FEDA The Emblem of Justice|3606|7d36ecd7,a02b3607|x|0|2009|Role Playing Game|Japan (Translated)|SEGA|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+FIFA '97 Gold Edition|NOID|470eabe5,9cdbb2f8|x|0|1996|Sports , Soccer|USA|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+FIFA '98 Road to World Cup|NOID|5e4f4856|x|0|1997|Sports , Soccer|Europe|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+FIFA Soccer '96|NOID|8faf17e5,7566347d|x|0|1995|Sports , Soccer|USA|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy II *is* Easy Type|NOID|e1af9f55|x|0|2008|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy II US HardType+|NOID|7e4e3928|x|0|2004|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy III Eviltype|NOID|cab03ad6|x|0|2007|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy III US HardType+|NOID|25e45043|x|0|2004|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy IV|9418|3b97b364|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy IV Celes and Terra|NOID|a7749187|x|0|2002|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy IV Last Hope|NOID|a9920e9b|x|0|2009|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy Revelations|NOID|dd2544f1|x|0|2008|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy V|1762|fa907bf5,17444605|x|0|1998|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy V EasyType|NOID|dacdb14a|x|0|2001|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy V Plus|NOID|f3572d88|x|0|No Date|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy V Spoof|NOID|8a6fa1cd|x|0|2009|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy V Xpert|NOID|04b2af04|x|0|2001|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy VI|83|7ec72a6c|x|0|2005|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy VI Enhanced Edition|NOID|7cda97e1|x|0|No Date|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy VI Hardtype|NOID|17d97595|x|0|2009|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Final Fantasy VI The Eternal Crystals|19048|b45342ef|x|0|2009|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Fire Emblem 3 Mystery of the Emblem|NOID|3e9aa21a|x|0|2008|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Fireteam Rogue|NOID|00f67ba2|x|0|No Date|Action , Multi-Directional|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Front Mission|3623|2b4cd5a3|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Front Mission Gun Hazard|3624|5847d80f|x|0|2004|Action , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Funaki Masakatsu Hybrid Wrestler Tougi Denshou|NOID|69911d2d|x|0|2008|Sports , Wrestling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Gamars Puzzle|NOID|f36b620d|x|0|No Date|Puzzle|Unlicensed (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Ganbare! Daiku no Gen-san|NOID|206bd866|x|0|1993|Action|Japan|Irem|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Gegege no Kitarou Fukkatsu! Tenma Daiou|NOID|e51fb6f8|x|0|1993|Action|Japan|Bandai|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Gekitou Burning Pro Wrestling|3628|328330fb|x|0|2008|Sports , Wrestling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Genocide 2|NOID|f8876331,de40aa12|x|0|1994|Action|Japan|Kemco|Bits Studios|No Rating|Cartridge|Gamepad|SNES
+Glory of Heracles III|NOID|49719361|x|0|2009|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Go Go Ackman|3632|6ef6efe7|x|0|1999|Platformer , Action|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Go Go Ackman 2|NOID|76c7aa37|x|0|1995|Platformer|Japan|Banpresto|Aspect|No Rating|Cartridge|Gamepad|SNES
+Go Go Ackman 3|NOID|9a18290c|x|0|1995|Platformer|Japan|Banpresto|Aspect|No Rating|Cartridge|Gamepad|SNES
+Godzilla Kaijuu Daikessen|NOID|29ce8e57|x|0|1994|VS Fighter|Japan|Toho|Alfa System|No Rating|Cartridge|Gamepad|SNES
+Gokujou Parodius|14778|04ee98ed|x|0|1994|Shooter|Japan|Konami|Konami|No Rating|Cartridge|Gamepad|SNES
+Gourmet Squadron Barayarou|3634|e22f59b8|x|0|2000|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Gulliver Boy|NOID|7be5037a|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Gundam Wing Endless Duel|5839|936b6321|x|0|2002|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Gunforce Battle Fire Engulfed Terror Island|3637|11af8992,eeafd816,6f5c5dc0|x|0|1992|Action , Side-Scrolling|USA|Irem|Bits|No Rating|Cartridge|Gamepad|SNES
+Gunman's Proof|NOID|acdee757|x|0|2002|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Hanna Barbera's Turbo Toons|1766|26a9c3f4|x|0|1994|Adventure , Competitive|Europe|Entertainment International UK|Empire Software|No Rating|Cartridge|Gamepad|SNES
+Hard Secret of Mana|1253|a6e89719|x|0|2008|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Heisei Inu Monogatari Bow Pop'n Smash!!|NOID|fe4a2622|x|0|1994|Sports , Competitive|Japan|Takuyo|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Hiouden Legend of the Scarlet King the Demonic Oath|NOID|2b7229a6|x|0|2005|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Hokuto no Ken 6|NOID|e51cd206|x|0|1992|Beat 'em Up|Japan|Toei Animation|Shouei|No Rating|Cartridge|Gamepad|SNES
+Hokuto no Ken 7|NOID|143e5a7d|x|0|1993|Beat 'em Up|Japan|Toei Animation|Shouei|No Rating|Cartridge|Gamepad|SNES
+Holy Umbrella Dondera's Wild!!|NOID|93a77c59|x|0|2009|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Honoo no Doukyuuji Dodge Danpei|NOID|5947a7a4|x|0|1992|Sports , Dodgeball|Japan|SunSoft|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Iron Commando|5522|d967299d|x|0|No Date|Beat 'em Up|Prototype (Europe)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+J.R.R. Tolkien's the Lord of the Rings Volume One|NOID|247c17d3,8b172b4e,cd2150c8|x|0|1994|Movie Adaption|USA|Interplay|Interplay|No Rating|Cartridge|Gamepad|SNES
+Jaleco Rally Big Run|NOID|c157978c|x|0|1991|Racing , Cars|Japan|Jaleco Entertainment|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+James Pond 3 Operation Starfish|3801|9d3e313f|x|0|No Date|Platformer , Side-Scrolling|Europe|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Jelly Boy II|NOID|d581d4c6|x|0|2006|Platformer , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Jeopardy! Featuring Alex Trebek|NOID|65bf3a7e|x|0|1992|Game Show|USA|GameTek|Imagineering|No Rating|Cartridge|Gamepad|SNES
+Jerry Boy|NOID|3230ea4f|x|0|2001|Platformer , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Jikkyo Power Pro Wresling '96 Max Voltage|NOID|8d4c08e6|x|0|2008|Sports , Wrestling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Jikkyou Oshaberi Parodius|14779|177937ab|x|0|1995|Shooter|Japan|Konami|KCEO|No Rating|Cartridge|Gamepad|SNES
+JonBound Dark Future|NOID|f2712e86|x|0|No Date|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Jutei Senki|NOID|1d151d45|x|0|1993|Role Playing Game|Japan|Enix Corporation|TamTam|No Rating|Cartridge|Gamepad|SNES
+JWP Joshi Pro Wrestling Pure Wrestle Queens|NOID|69642b00|x|0|1994|Sports , Wrestling|Japan|Jaleco Entertainment|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Kamen Rider|NOID|f3c44423|x|0|1993|Action|Japan|Bandai|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Kamen Rider SD Shutsugeki!! Rider Machine|NOID|a2c7cb5f|x|0|1993|Action|Japan|Yutaka|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Kat's Run Zen-Nihon K-Car Senshuken|NOID|9dab5ab1|x|0|1995|Racing , Cars|Japan|Atlus Co.|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Keeper|NOID|8676126b|x|0|1994|Puzzle|Japan|Datam Polystar|Fupac|No Rating|Cartridge|Gamepad|SNES
+Kid Adventure I|NOID|29dd8f74|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Kid Adventure II Biza Strike Back|NOID|0c968c57|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+King of Demons|14803|672a61f2|x|0|2005|Platformer , Action|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+King of the Monsters 2 the Next Thing|NOID|b41aeccc,0b677a37,0cf86f80|x|0|1994|Beat 'em Up|USA|Takara|SNK|No Rating|Cartridge|Gamepad|SNES
+Kirby no Omochabako Baseball|NOID|21cb8fd4|x|0|1996|Pinball|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Kirby no Omochabako Pinball|NOID|9d9bbd09|x|0|1996|Pinball|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Kishin Douji Zenki Battle Raiden|NOID|0becfc92,d910990c|x|0|1995|Action|Japan|Hudson|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Kouryu no Mimi|NOID|d82271d3|x|0|2004|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Kunio Kun Dodgeball|NOID|1be4c0f2|x|0|2004|Sports , Dodgeball|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Lennus II the Apostles of the Seals|NOID|fb561d6b|x|0|2008|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Little Magic|14805|2a96d8b2|x|0|2001|Puzzle , Action|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Live A Live|9954|1eafb345|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Lock On|3212|84f7e078|x|0|1993|Flight Simulator|USA|Vic Tokai|Vic Tokai|No Rating|Cartridge|Gamepad|SNES
+Lufia and the Fortress of Doom|2880|5e1aa1a6,fdb80165,8278693d,380d91fe,d93c0dd4,f4225c87|x|0|1993|Role Playing Game|USA|Natsume|Neverland Co., Ltd.|No Rating|Cartridge|Gamepad|SNES
+Lufia II Fixxxer Deluxe|NOID|9abc62e3|x|0|2005|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Lufia Decensored|NOID|9f6fc2b9|x|0|2006|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Luigi's Adventure Overseas Edition|NOID|c5e9ef62|x|0|2009|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Madden NFL '95|NOID|4b0c7993,021a3f69,a822c248|x|0|1994|Sports , Football|USA|Electronic Arts|Visual Concepts|No Rating|Cartridge|Gamepad|SNES
+Madden NFL '96|NOID|51a1fe86,4c78d04a,12885e31|x|0|1995|Sports , Football|USA|Electronic Arts|Tiburon Entertainment|No Rating|Cartridge|Gamepad|SNES
+Madden NFL '97|NOID|abcf026e,2af7e8cc|x|0|1996|Sports , Football|USA|Electronic Arts|Tiburon Entertainment|No Rating|Cartridge|Gamepad|SNES
+Madden NFL '98|NOID|cf10cc01|x|0|1997|Sports , Football|USA|THQ|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+Madou Monogatari Big Kindergarten Kids|NOID|b423c9a5|x|0|2004|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Maerchen Adventure Cotton 100%|NOID|5fb7a31d|x|0|1994|Shooter|Japan|Datam Polystar|Success|No Rating|Cartridge|Gamepad|SNES
+Magic Johnson's Super Slam Dunk|6171|3effc9e5|x|0|1993|Sports , Basketball|USA|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Gamepad|SNES
+Magic Knight Rayearth|14819|6f7a7c7b|x|0|1999|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Magical Drop|5576|737c4472|x|0|2002|Puzzle|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Magical Land of Wozz|14822|9e1cf43f|x|0|2006|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Magical Pop'n|14780|ac47a435|x|0|2003|Action , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Magna Braban|NOID|8f51e103|x|0|2006|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mario and Luigi and the 7 Eggs|NOID|86416d2c|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mario and Wario|NOID|c6695e34,7bc22342|x|0|1993|Puzzle|Japan|Nintendo|Game Freak|No Rating|Cartridge|Gamepad|SNES
+Mario is Missing! 2 Luigi's New Adventure|NOID|a9d44ba1|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mario Kart R|NOID|4eb087af|x|0|2004|Racing|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mario's Amazing Adventure|NOID|f8412ba8|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mario's Return Again|NOID|d71f2bda|x|0|2009|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Math Blaster Episode One|NOID|4c4e5f4a,e676a26b|x|0|1994|Educational|USA|Davidson & Associates|Western Technologies|No Rating|Cartridge|Gamepad|SNES
+MechWarrior|3572|fba97820,de2552ad,503d467a,d713a74f,40b7a858|x|0|1993|Action , 3D|USA|Activision|Beam Software|No Rating|Cartridge|Gamepad|SNES
+Mechwarrior 3050|3847|4ccc3651,c0acc92d|x|0|1995|Action , Isometric|USA|Activision|Tiburon Entertainment|No Rating|Cartridge|Gamepad|SNES
+Mega Rex Adventure|NOID|bca05641|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mega-Lo-Mania|1782|e8042edf,44a9db5c|x|0|1991|Strategy|Europe|Virgin Interactive|Sensible Software|No Rating|Cartridge|Gamepad|SNES
+Megaman VII|NOID|03579738,2d947536,30d835dd|x|0|1995|Platformer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Megaman X|NOID|41965122,1033eba4,ded53c64|x|0|1994|Platformer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Megaman X2|NOID|3c49c39c,947b0355|x|0|1995|Platformer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Megaman X3|NOID|c504ddfd,fa0fe671,08b9eaa1|x|0|1995|Platformer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Megaman's Soccer|NOID|fa9ee2ce,da55270c|x|0|1994|Sports , Soccer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Metal Max Returns|14821|c76465a8|x|0|2007|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Metroid Legacy|NOID|ab54326b|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mick and Mack as the Global Gladiators|NOID|f9014863,240442ea|x|0|Unreleased|Platformer , Side-Scrolling|Prototype (USA)|No Publisher|Virgin Games|No Rating|Cartridge|Gamepad|SNES
+Mickey and Donald Magical Adventure 3|NOID|9656424d|x|0|2004|Platformer , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mighty Morphin' Power Rangers|NOID|1df7233c,812329c2,a56eb77a|x|0|1995|Action , Side-Scrolling|USA|Bandai|Bandai|No Rating|Cartridge|Gamepad|SNES
+Mighty Morphin' Power Rangers the Fighting Edition|NOID|6fc37d96,460b0a60|x|0|1995|VS Fighter|USA|Bandai|Bandai|No Rating|Cartridge|Gamepad|SNES
+Mighty Morphin' Power Rangers the Movie|NOID|e722e2a7,e3ef6201|x|0|1995|Action , Side-Scrolling|USA|Bandai|Bandai|No Rating|Cartridge|Gamepad|SNES
+Miracle Girls|NOID|36d75987|x|0|2004|Platformer , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mobile Fighter G Gundam|NOID|2d0aa687|x|0|2002|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mobile Suit Gundam Cross Dimension 0079|NOID|846d0b51|x|0|2004|Strategy , Fantasy|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mobile Suit V-Gundam|NOID|47d88587|x|0|2006|Adventure , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Monstania|5615|afd7c1fa|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mother 2.5 the Giftman Chronicles|NOID|5ffbabd6|x|0|No Date|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mountain Bike Rally|5616|e6ede101|x|0|1994|Racing , Motorcycles|USA|Life Fitness Entertainment|Radical Entertainment|No Rating|Cartridge|Gamepad|SNES
+Mr Saturn in Hat Quest|NOID|57b37321|x|0|2005|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mr. Bloopy Saves the World|NOID|dde9a760|x|0|No Date|Platformer , Puzzle|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mr. Tuff|NOID|78cd52d5,58cd1f5a,abab5822|x|0|Unreleased|Platformer|Prototype (USA)|No Publisher|Sales Curve Interactive|No Rating|Cartridge|Gamepad|SNES
+Muhammad Ali Heavyweight Boxing|NOID|02972591|x|0|No Date|Sports , Boxing|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Musya the Classic Japanese Tale of Horror|NOID|011907a4|x|0|1992|Action , Side-Scrolling|USA|Seta|Seta|No Rating|Cartridge|Gamepad|SNES
+Mutant Chronicles Doom Troopers|1580|1889feef|x|0|1995|Shooter , Side-Scrolling|USA|Playmates Interactive|Adrenalin Entertainment|No Rating|Cartridge|Gamepad|SNES
+Mysterious Dungeon 2|NOID|f9789079|x|0|2006|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Mystic Ark|5621|8dabaedc|x|0|2009|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Naxat Super Pinball Jaki Crush|18644|f696d5a9|x|0|1992|Pinball|Japan|Naxat Soft|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+NBA Live '95|NOID|56fdbb8c,500f57d3,1cd2393d|x|0|1994|Sports , Basketball|USA|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+NBA Live '96|NOID|17689c62,042a6495|x|0|1995|Sports , Basketball|USA|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+NBA Live '97|NOID|2c680c99,5115b8e5,6e08dba1|x|0|1996|Sports , Basketball|USA|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+NBA Live '98|NOID|514bfcb5,d15a0ba7|x|0|1997|Sports , Basketball|USA|THQ|EA Sports|No Rating|Cartridge|Gamepad|SNES
+NBA Showdown '94|NOID|65746f02,8f3c36ab|x|0|1993|Sports , Basketball|USA|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+Network Q Rally|NOID|5b5f152f|x|0|No Date|Racing , Cars|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Neugier|5704|9d852b88|x|0|2006|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+New Retro Mario Bros|NOID|f42150eb|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Newman-Haas IndyCar Racing featuring Nigel Mansell|NOID|595684af,546062c7,a0f80c02|x|0|1994|Racing , Cars|USA|Acclaim|Gremlin Graphics Software|No Rating|Cartridge|Gamepad|SNES
+NFL Quarterback Club '96|NOID|9708abe3,3a4c0de6,e557689f,b87abc7e|x|0|1995|Sports , Football|USA|Acclaim|Iguana Entertainment|No Rating|Cartridge|Gamepad|SNES
+Nightmare Busters|NOID|5327c524|x|0|No Date|Platformer , Action|Prototype (USA)|No Publisher|Arcade Zone|No Rating|Cartridge|Gamepad|SNES
+Oh No! More Zombies Ate My Neighbors|1361|60219449|x|0|2010|Shoot 'em Up|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+P.T.O Pacific Theater of Operations|NOID|e51bbac8|x|0|1993|Strategy , Simulation|USA|Koei|Koei|No Rating|Cartridge|Gamepad|SNES
+P.T.O Pacific Theater of Operations II|NOID|a614d268|x|0|1995|Strategy , Simulation|USA|Koei|Koei|No Rating|Cartridge|Gamepad|SNES
+Panel De Pon|NOID|214d7b39|x|0|2008|Puzzle|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Panic in Nakayoshi World|NOID|03af35ce|x|0|2000|Action , Top|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Panic in the Mushroom Kingdom|NOID|7643c4b9|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Panic in the Mushroom Kingdom 2|NOID|78afaff2|x|0|2007|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Papuwa|NOID|4560d91e|x|0|2000|Platformer , Side-Scrolling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Parodius Non-Sense Fantasy|2200|6ffa308c|x|0|No Date|Shoot 'em Up|Europe|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+PGA Tour '96|NOID|c5ac2e72,bc5df071|x|0|1996|Sports , Golf|USA|Black Pearl Software|Electronic Arts|No Rating|Cartridge|Gamepad|SNES
+Picachu|NOID|892c6765|x|0|No Date|Action|Pirate (World)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Pink Panther in Pink Goes to Hollywood|5781|94da9bd9,0d1b3812,8bae9438|x|0|1993|Platformer , Side-Scrolling|USA|TecMagik|Altron|No Rating|Cartridge|Gamepad|SNES
+Pipe Dream|NOID|af2a3dfe|x|0|1992|Puzzle|Japan|Bullet Proof Software|Bullet Proof Software|No Rating|Cartridge|Gamepad|SNES
+Pokemon Stadium|NOID|f863c642|x|0|No Date|Action , Turnbased|Pirate|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Pop'n Twinbee|2199|588a9707|x|0|No Date|Shoot 'em Up|Europe|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Pop'n Twinbee Rainbow Bell Adventures|5786|91a03035|x|0|No Date|Platformer|Europe|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Popeye Tale of Teasing Witch Sea Hag|NOID|749a6f69|x|0|2008|Board Game ,|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Powerslide|NOID|No CRC|x|0|No Date|Action|Prototype (Europe)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Pretty Soldier Sailer Moon|NOID|31092c4d|x|0|1999|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Pretty Soldier Sailor Moon R|5822|4229f61d|x|0|2002|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Prime|NOID|62abcc5c|x|0|No Date|Beat 'em Up|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Psycho Dream|12502|5c145e98|x|0|1992|Platformer|Japan|Riot|Riot|No Rating|Cartridge|Gamepad|SNES
+Q*bert 3|NOID|ea3bc44e,694cbfe4,81f972ac|x|0|1992|Platformer , Puzzle|USA|NTVIC|Realtime Associates|No Rating|Cartridge|Gamepad|SNES
+Radical Dreamers|NOID|331a09d6|x|0|2005|Adventure , Visual|Japan (Translated)|No Publisher|dev-unknown|No Rating|Satellaview|Gamepad|SNES
+Radical Psycho Machine Racing|NOID|35fcd374,f7933734|x|0|1991|Racing|USA|Interplay|Blizzard Entertainment|No Rating|Cartridge|Gamepad|SNES
+Ranma 1/2 Hard Battle|NOID|8e4dadcd,9264e9a7|x|0|1993|VS Fighter|USA|DTMC|Atelier Double|No Rating|Cartridge|Gamepad|SNES
+Ranma 1/2 Treasure of Red Cat Gang|NOID|5ecca80b|x|0|2000|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Rap Basketball|NOID|3f0343a7|x|0|No Date|Sports , Basketball|Prototype (USA)|No Publisher|Bonsai Entertainment Corporation|No Rating|Cartridge|Gamepad|SNES
+Rendering Ranger R2|17286|8fb5ac86|x|0|1995|Shooter|Japan|Virgin Interactive|Rainbow Arts|No Rating|Cartridge|Gamepad|SNES
+RHI Roller Hockey '95|5808|67405d44,0496f753|x|0|No Date|Sports|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Rockman and Forte|5813|0ecdc493|x|0|2002|Action , Platformer|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+RPG Maker I Super Dante|NOID|e0bd6c71|x|0|2002|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+RPG Maker II|NOID|b9b28da3|x|0|1998|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Sailor Moon|NOID|cd89020d|x|0|No Date|Beat 'em Up|Europe|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Sanrio World Smash Ball!|5824|6a3cd3b1|x|0|1999|Sports|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+SD Hiryuu no Ken|NOID|323438eb|x|0|1994|VS Fighter|Japan|Culture Brain|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Second Reality Project|NOID|fb32c08c|x|0|2004|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Second Reality Project 2|NOID|4e2d8e6b|x|0|2007|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Secret of Mana 2|NOID|1fa11359|x|0|2006|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Seiken Densetsu III|NOID|03746bd3,97b402b5|x|0|2000|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Sengoku Denshou|NOID|c9d97b3e|x|0|1993|Beat 'em Up|Japan|Data East|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Shanghai Banri no Choujou|NOID|bd681869|x|0|1995|Puzzle|Japan|SunSoft|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Shin Nekketsu Kouha Kunio-tachi no Banka|NOID|6c4d68c8|x|0|2002|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Shodai Nekketsu Kouha Kunio-kun|NOID|293279af|x|0|2007|Beat 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Snake Blasters|NOID|0527df05|x|0|No Date|Action , Arcade|Homebrew|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Snoopy's Concert|NOID|8ad05744|x|0|2007|Adventure , Animation|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Sonic the Hedgehog IV|NOID|6b9c71a9|x|0|No Date|Platformer|Pirate|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Soul Blade|NOID|c97d1d7b|x|0|No Date|Beat 'em Up|Pirate|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Space Knight Tekkaman Blade|NOID|da833bce|x|0|2004|Maze|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Special Tee Shot|NOID|841c8eb9|x|0|1996|Sports , Golf|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Speedy Gonzales in Los Gatos Bandidos|NOID|efe9e087,e2dbad76,e44f42ba,cb0653d0|x|0|1995|Platformer|USA|Sunsoft|Sunsoft|No Rating|Cartridge|Gamepad|SNES
+SpellCraft|NOID|3daea8a1|x|0|No Date|Role Playing Game|USA|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Spider-Man and Venom Maximum Carnage|3266|d2b0d5fe,7ef2bb0c,1362465b|x|0|1994|Action , Side-Scrolling|USA|Acclaim|Software Creations|No Rating|Cartridge|Gamepad|SNES
+Spider-Man and Venom Separation Anxiety|7624|cd274974,919c509d|x|0|1995|Beat 'em Up|USA|Acclaim|Software Creations|No Rating|Cartridge|Gamepad|SNES
+Spider-Man and the X-Men in Arcade's Revenge|NOID|d679058d,ae878ccb,6fd2cd8c|x|0|1992|Platformer , Side-Scrolling|USA|LJN|Software Creations|No Rating|Cartridge|Gamepad|SNES
+Spriggan Powered|18647|3f83f67c|x|0|1996|Shooter|Japan|Naxat Soft|Khaos|No Rating|Cartridge|Gamepad|SNES
+Star Fox 2|2675|70d7ad50,79f3433d,a797f974,1e61c986|x|0|2004|Shoot 'em Up|Prototype (Japan), Translated|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Star Fox Super Weekend Competition|NOID|cd1f04b8|x|0|1993|Flight Simulator|Special Release (USA)|Nintendo|Nintendo|No Rating|Cartridge|Gamepad|SNES
+Star Ocean|6132|6ba9e08d|x|0|2003|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Steven Seagal Is.... the Final Option|NOID|59e83aaf|x|0|Unreleased|Beat 'em Up|USA|No Publisher|Tekmagic|No Rating|Cartridge|Gamepad|SNES
+Street Fighter EX|NOID|dad59b9f|x|0|No Date|VS Fighter|Pirate|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Street Fighter II Turbo Hyper Fighting|2666|a3ee22e5,abbc185d,364087e5,a45cadd6,ed0366f2|x|0|1993|VS Fighter|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Street Fighter II Special Accelerated!|NOID|472e4701|x|0|No Date|VS Fighter|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Street Fighter II the Next Generation!|NOID|b470eee2|x|0|No Date|VS Fighter|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Street Fighter II the World Warrior|NOID|8b93f566,5556c5c9,bc3dcd9d|x|0|1992|VS Fighter|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Super 3D Noah's Ark|NOID|a2315a14|x|0|1994|Shooter|Unlicensed (USA)|Wisdom Tree|Wisdom Tree|No Rating|Cartridge|Gamepad|SNES
+Super Baseball 2020|304|e95a3dd7,0d77933e|x|0|1993|Sports , Baseball|USA|Tradewest|SNK|No Rating|Cartridge|Gamepad|SNES
+Super Bomberman 4|14786|4c58462d|x|0|2009|Puzzle|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Bomberman 5|14787|06b1f0f5|x|0|1995|Puzzle|Japan|Hudson|Hudson|No Rating|Cartridge|Gamepad|SNES
+Super Bomberman Panic Bomber W|NOID|fc633ecb|x|0|1995|Puzzle|Japan|Hudson|Raizing|No Rating|Cartridge|Gamepad|SNES
+Super Bonk II|NOID|1cdc3db0|x|0|1999|Platformer|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Choco the Insane Islands|NOID|6b97e475|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Demo World|NOID|d13989af|x|0|2001|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Demo World the Legend Continues|NOID|fa0c7fa8|x|0|2003|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Dropzone|NOID|e1ccce49|x|0|1995|Shooter , Side-Scrolling|Europe|Psygnosis|Eurocom|No Rating|Cartridge|Gamepad|SNES
+Super Earth Defense Force|2667|404bec17,3e631524,ca8ff946|x|0|1992|Shoot 'em Up|USA|Jaleco|Jaleco|No Rating|Cartridge|Gamepad|SNES
+Super Fire Pro Wrestling X Premium|6156|9db7b262|x|0|1997|Sports , Wrestling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Fire Pro Wrestling Queen's Special|NOID|45855ff9|x|0|2001|Sports , Wrestling|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Gussun Oyoyo II|NOID|3252274d|x|0|2004|Puzzle , Fixed|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Loopz|NOID|49601821|x|0|1994|Puzzle|Japan|Imagineer|Audiogenic Ltd.|No Rating|Cartridge|Gamepad|SNES
+Super Luigi the Power Scepters|NOID|2e774d13|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Blooper World|NOID|1b5e35c4|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Bros. 2 Deluxe|NOID|4d711327|x|0|2006|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Bros. 3 X|NOID|76ba16c1|x|0|2009|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Bros. SMAS NESised|NOID|114dcff9|x|0|2009|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Bros. Deluxe|NOID|dd064150|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Bros. the Lost Levels Deluxe|NOID|38800709|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Kart Pro Edition|NOID|9b8a1a99|x|0|2009|Racing|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Kart the Impala Battles|NOID|20716b66|x|0|2002|Racing|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Metroid|NOID|6e67307b|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Odyssey|NOID|0f2eb085|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Omega|NOID|c5df54ba|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario RPG Revolution|NOID|a2c34c3d|x|0|2009|Role Playing Game|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario USA I|NOID|2f07d0aa|x|0|1997|Platformer|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Super Mario USA II|NOID|19e570c5|x|0|1997|Platformer|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Super Mario USA III|NOID|2ba0d597|x|0|1997|Platformer|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Super Mario USA IV|NOID|5f9f9fd9|x|0|1997|Platformer|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+Super Mario War HOL|NOID|ec38f1aa|x|0|No Date|Action , Fixed|Homebrew|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World 2+|NOID|86a203b4|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World 2+2|NOID|a2bb7009|x|0|2008|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World 2+3 the Essence Star|NOID|28352ec2|x|0|2009|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World III Islands of Mystery|NOID|545f7534|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Ultima|NOID|2757acb6|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Chaos CompleXX|NOID|7be08e7e|x|0|2006|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World GFX Hack|NOID|dc1f77b2|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Hell Edition|NOID|703818ee|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Kaizo Edition|NOID|0e058568|x|0|2007|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Kaizo Edition 2|NOID|6523daa3|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Master Quest 6|NOID|35d10fd9|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Master Quest 7|NOID|9d339ced|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario World Return to Dinosaur Land|NOID|91bb526a|x|0|2006|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario's New Adventure|NOID|08e3a250|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Mario Bowser's Last Stand|NOID|d6f4d75c|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Battle|NOID|70fee149|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid SFI|NOID|3936c13d|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Cliffhanger|2853|19f123b8|x|0|2008|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Dependence|NOID|aa7d882e|x|0|2007|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Eris|NOID|4bd40bcd|x|0|No Date|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Golden Dawn|NOID|4148e007|x|0|2007|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Impossible|NOID|a4eba00c|x|0|2006|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Justin Bailey|NOID|bdcdafb4|x|0|2007|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid MockingBird Station|NOID|af6f80ee|x|0|2008|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Pantheon|NOID|c4bdbe99|x|0|2008|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Redesign|18638|520c3eb2|x|0|2006|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Stardust|NOID|24469f8a|x|0|2009|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Metroid Zebes Returns|NOID|2b137beb|x|0|2006|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Monkey RPG|NOID|368da945|x|0|2001|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Pinball II the Amazing Odyssey|NOID|b5117ecf|x|0|1995|Pinball|Japan|Meldac|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Puyo Puyo|NOID|c5a482bd,9b386875,3addba0b|x|0|1993|Puzzle|Japan|Banpresto|Compile|No Rating|Cartridge|Gamepad|SNES
+Super Puyo Puyo Tsuu|NOID|271e1f3f|x|0|1995|Puzzle|Japan|Compile|Compile|No Rating|Cartridge|Gamepad|SNES
+Super Robot Wars III|NOID|80980318|x|0|2002|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Shadow of the Beast|6170|beadfd61|x|0|1992|Adventure , Side-Scrolling|Prototype (USA)|Psygnosis|Psygnosis|No Rating|Cartridge|Gamepad|SNES
+Super Slapshot|6172|403c692d,7355c9b9|x|0|1993|Sports , Hockey|USA|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Gamepad|SNES
+Super Street Fighter II Fight Again|NOID|60b6f215|x|0|No Date|VS Fighter|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Street Fighter II The New Challengers|2792|6d86bfb0,26ca246b,f16d5ce9,8f6a918b|x|0|1994|VS Fighter|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+Super Tetris 2 + Bombliss|NOID|8ae5e443,4ae93c10|x|0|1992|Puzzle|Japan|Bullet Proof Software|Bullet Proof Software|No Rating|Cartridge|Gamepad|SNES
+Super Ultra Baseball 2|NOID|344d4076|x|0|2009|Sports , Baseball|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Sylvester and Tweety|NOID|8556f5a2|x|0|No Date|Demo|Prototype (USA)|Sunsoft|Visual Concepts|No Rating|Cartridge|Gamepad|SNES
+Tales of Phantasia|6232|14612848|x|0|2001|Shoot 'em Up|Japan (Translated)|tri-Ace|tri-Ace|No Rating|Cartridge|Gamepad|SNES
+Taloon's Great Adventure|NOID|c16e1913|x|0|2004|Shoot 'em Up|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Tekken II|NOID|066687ca|x|0|No Date|VS Fighter|Pirate|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Tenchi Muyo RPG|NOID|9c0fecbf|x|0|2009|VS Fighter|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The 7th Saga|282|b3abdde6|x|0|1993|Role Playing Game|USA|Enix|Produce|No Rating|Cartridge|Gamepad|SNES
+The Addams Family|3668|82497f19,cd80351c,2e8034ab|x|0|1992|Platformer|USA|Ocean Software|Ocean Software|No Rating|Cartridge|Gamepad|SNES
+The Addams Family Pugsley's Scavenger Hunt|3669|644e7fbf,153a00a7,64d68066,f642801d|x|0|1993|Platformer|USA|Ocean Software|Ocean Software|No Rating|Cartridge|Gamepad|SNES
+The Adventures of Batman and Robin|1049|96b0c568,b3ef81f5,610a1191|x|0|1994|Beat 'em Up|USA|Konami|Konami|No Rating|Cartridge|Gamepad|SNES
+The Adventures of Dr. Franken|1050|e4925f15,cfab3bba|x|0|1993|Platformer|USA|DTMC Inc.|Motivetime Limited|No Rating|Cartridge|Gamepad|SNES
+The Adventures of Kid Kleets|3308|1664ae48|x|0|1994|Platformer|USA|Ocean Software|Krisalis Software Ltd.|No Rating|Cartridge|Gamepad|SNES
+The Adventures of Rocky and Bullwinkle and Friends|3671|dc8f5734|x|0|1993|Platformer|USA|THQ|Imagineering|No Rating|Cartridge|Gamepad|SNES
+The Adventures of Tintin Prisoners of the Sun|3672|a94a47be|x|0|1997|Adventure , Third|Europe|Infogrames|Herge|No Rating|Cartridge|Gamepad|SNES
+The Amazing Spider Man Lethal Foes|NOID|82f7f710|x|0|1995|Platformer|Japan|Epoch|Agenda|No Rating|Cartridge|Gamepad|SNES
+The Blues Brothers|2788|4a62057d,1351da2a,362620d2,82b97464|x|0|1993|Platformer|USA|Titus Software|Titus Software|No Rating|Cartridge|Gamepad|SNES
+The Brainies|1587|de551746,718cb0df|x|0|1996|Puzzle|USA|Titus Software|Titus Software|No Rating|Cartridge|Gamepad|SNES
+The Chessmaster|3756|d84bdfd5,15c93942,bc671e15,b44ce493|x|0|1991|Board Game ,|USA|Mindscape|Mindscape|No Rating|Cartridge|Gamepad|SNES
+The Combatribes|1790|5e2c24f6,9304044a|x|0|1993|Board Game ,|USA|American Technos|Technos Japan|No Rating|Cartridge|Gamepad|SNES
+The Death and Return of Superman|1747|65792d05,a567957c|x|0|1994|VS Fighter|USA|Sunsoft|Blizzard Entertainment|No Rating|Cartridge|Gamepad|SNES
+The Duel Test Drive II|3759|ba093e24,57cbd9af|x|0|No Date|Racing , Cars|USA|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Firemen|1764|def665af,15f2271d,b9c82442|x|0|1994|Racing , Cars|Europe|Human Entertainment|Human Entertainment|No Rating|Cartridge|Gamepad|SNES
+The Flintstones|NOID|85a8b156,15143605,cc3e9c19,3e7b51e0|x|0|1995|Movie Adaption|USA|Ocean Software|Ocean Software|No Rating|Cartridge|Gamepad|SNES
+The Flintstones The Treasure of Sierra Madrock|3762|cc846dc4,53d29a71,594f5cc6|x|0|1994|Platformer|USA|Taito|Taito|No Rating|Cartridge|Gamepad|SNES
+The Great Battle II Last Fighter Twin|NOID|8254a32e|x|0|1992|Beat 'em Up|Japan|Banpresto|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Great Circus Mystery Starring Mickey and Minnie|2786|1903ea89,7de42137|x|0|1994|Platformer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+The Great Waldo Search|3764|eb49f246|x|0|1993|Platformer|USA|THQ|Radiance Software|No Rating|Cartridge|Gamepad|SNES
+The Humans|3789|d2af01d4,e83a092b|x|0|1993|Platformer|Europe|GameTek|Imagitec Design|No Rating|Cartridge|Gamepad|SNES
+The Hunt For Red October|1324|66ed877a,76065e37,c796e830|x|0|1993|Platformer|USA|Hi Tech Expressions|Riedel Software Productions|No Rating|Cartridge|Gamepad|SNES
+The Ignition Factor|1985|ee441564,8a5ec378|x|0|1995|Platformer|USA|Jaleco|Jaleco|No Rating|Cartridge|Gamepad|SNES
+The Incredible Crash Dummies|3793|3ee9b136,c3bc16d5,0b6209ba,42ebe9c1|x|0|1993|Platformer|USA|LJN|Gray Matter|No Rating|Cartridge|Gamepad|SNES
+The Incredible Hulk|2783|9df29605,36b5a429|x|0|1994|Platformer|USA|U.S. Gold|Probe Software|No Rating|Cartridge|Gamepad|SNES
+The Irem Skins Game|3797|b95ddc44|x|0|1992|Sports , Golf|USA|Irem|Irem|No Rating|Cartridge|Gamepad|SNES
+The Itchy and Scratchy Game|2782|95b65dfe,c402347a|x|0|No Date|Sports , Golf|USA|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Jetsons Invasion of the Planet Pirates|3805|3e3073ce,4a4a0369|x|0|1994|Sports , Golf|USA|Taito|Taito|No Rating|Cartridge|Gamepad|SNES
+The King of Dragons|3205|78f0820b,68b09b12,dd505df7|x|0|1994|Sports , Golf|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+The Lawnmower Man|3210|1a97c479,2736b607,750f8068|x|0|1993|Movie Adaption|USA|THQ|Storm Sales Curve|No Rating|Cartridge|Gamepad|SNES
+The Legend of the Mystical Ninja|3211|797724c8,5796529e,82479d6a|x|0|1992|Movie Adaption|USA|Konami|Konami|No Rating|Cartridge|Gamepad|SNES
+The Legend of Zelda A Link to the Future|NOID|0e473197|x|0|2009|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Legend of Zelda A Link to the Past|1318|47760381,04d55e12,1f8c30e8,6a6c2091,777aac2f|x|0|1992|Adventure|USA|Nintendo|Nintendo|No Rating|Cartridge|Gamepad|SNES
+The Legend of Zelda Fourth Quest|NOID|24eca2af|x|0|No Date|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Satellaview|Gamepad|SNES
+The Legend of Zelda Map 1|NOID|3550afe7|x|0|1997|Adventure|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+The Legend of Zelda Map 2|NOID|e11fbaf7|x|0|1997|Adventure|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+The Legend of Zelda Master Quest|NOID|4ae09cb1|x|0|2007|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Legend of Zelda Night and Day|NOID|2a7999f6|x|0|2006|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Legend of Zelda Omega|NOID|b65e3092|x|0|2004|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Legend Of Zelda Parallel Worlds|19032|eb03f49f|x|0|2006|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Legend of Zelda Stone Tablets|NOID|abee5156|x|0|1997|Adventure|Special Release (Japan)|Nintendo|Nintendo|No Rating|Satellaview|Gamepad|SNES
+The Legend of Zelda Third Quest|NOID|13b64904|x|0|No Date|Adventure|Update Hacks|No Publisher|dev-unknown|No Rating|Satellaview|Gamepad|SNES
+The Lost Vikings|3216|66989491,94093298,4ee705ab,6e8a1081,6838be08,f20e0c69,df51283d|x|0|1993|Platformer|USA|Interplay|Silicon & Synapse|No Rating|Cartridge|Gamepad|SNES
+The Lost Vikings II|NOID|3c49a285,3aa01dbd|x|0|1997|Platformer|USA|Interplay|BLizzard Entertainment|No Rating|Cartridge|Gamepad|SNES
+The Magical Quest Starring Mickey Mouse|1724|51a7d63c,d5caf96a,57d5f20b,e295009f,3bc3d913,10874c70,0aca9f18|x|0|1992|Platformer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|SNES
+The Mask|2068|a5f6839a,e91bb876,e17626e2,cf727f64|x|0|1995|Movie Adaption|USA|Black Pearl Software|Black Pearl Software|No Rating|Cartridge|Gamepad|SNES
+The Ninjawarriors|NOID|733764d7,7537d8d7|x|0|1994|Beat 'em Up|USA|Taito|Taito|No Rating|Cartridge|Gamepad|SNES
+The Ninji Saga|NOID|049f6ccb|x|0|2005|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Pagemaster|6283|3c42a7b6,26c38eee,6f2c46c6|x|0|1994|Movie Adaption|USA|Fox Interactive|Probe Entertainment|No Rating|Cartridge|Gamepad|SNES
+The Peace Keepers|2591|8071e5db|x|0|1994|Movie Adaption|USA|Jaleco|Jaleco|No Rating|Cartridge|Gamepad|SNES
+The Pirates of Dark Water|6284|4c4782b5,7ca0ca4d,2bb26c4a|x|0|1994|Movie Adaption|USA|Sunsoft|Sunsoft|No Rating|Cartridge|Gamepad|SNES
+The Ren and Stimpy Show Buckeroo$!|6285|672ebf39,723959e7|x|0|1995|Movie Adaption|USA|Imagineering|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Ren and Stimpy Show Fire Dogs|6286|0b472197|x|0|1994|Puzzle , Action|USA|THQ|Argonaut Games|No Rating|Cartridge|Gamepad|SNES
+The Ren and Stimpy Show Time Warp|6287|5cbf87b5,de8fe3e8|x|0|1994|Puzzle , Action|USA|THQ|Sculptured Software|No Rating|Cartridge|Gamepad|SNES
+The Ren and Stimpy Show Veediots!|6288|06ddbb0d,fd1c12a3,a893e64b|x|0|1993|Puzzle , Action|USA|THQ|Gray Matter|No Rating|Cartridge|Gamepad|SNES
+The Rocketeer|6289|cbc4868e,4c68a3c7|x|0|1992|Movie Adaption|USA|NovaLogic|IGS|No Rating|Cartridge|Gamepad|SNES
+The Shadow|3845|13380511,36894cc3|x|0|No Date|Movie Adaption|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+The Simpsons Bart's Nightmare|2764|87328a40,ed1c03c2,a051fcb2|x|0|1992|Movie Adaption|USA|Acclaim|Sculptured Software|No Rating|Cartridge|Gamepad|SNES
+The Smurfs|6290|2ae148d6|x|0|1994|Movie Adaption|Europe|Infogrames|Infogrames|No Rating|Cartridge|Gamepad|SNES
+The Smurfs 2|NOID|22947169|x|0|1996|Movie Adaption|Europe|Infogrames|Infogrames|No Rating|Cartridge|Gamepad|SNES
+The Sporting News Power Baseball|6291|315af696|x|0|1995|Sports , Baseball|USA|Hudson Soft|Hudson Soft|No Rating|Cartridge|Gamepad|SNES
+The Super Aquatic Games|NOID|2a5ddac0,249dffd6|x|0|1993|Sports , Competitive|USA|Seika Corp.|Millennium Interactive|No Rating|Cartridge|Gamepad|SNES
+The Terminator|2614|151109f6,6c853888,d71e6c3b|x|0|1993|Movie Adaption|USA|Mindscape|Mindscape|No Rating|Cartridge|Gamepad|SNES
+The Tick|6293|12ab22a7,7f5d5544|x|0|1994|Beat 'em Up|USA|Fox Interactive|Software Creations|No Rating|Cartridge|Gamepad|SNES
+The Twisted Tales of Spike McFang|2673|8c2068d1|x|0|1994|Role Playing Game|USA|Bullet Proof Software|Red Entertainment|No Rating|Cartridge|Gamepad|SNES
+The Untouchables|6294|c70f2374|x|0|1994|Movie Adaption|USA|Ocean Software|Ocean Software|No Rating|Cartridge|Gamepad|SNES
+The Wizard Of Oz|6295|d5ce2db5|x|0|1993|Movie Adaption|USA|SETA Corporation|SETA Corporation|No Rating|Cartridge|Gamepad|SNES
+Tinhead|2207|1e079ac0|x|0|No Date|Movie Adaption|Prototype (Europe)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Tomorrow's Joe|NOID|c3b18df7|x|0|2008|Sports , Boxing|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Treasure Hunter G|6309|2bbccf62|x|0|2004|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Treasure of the Rudras|5819|250553b9|x|0|2006|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Ultimate Zombies Ate My Neighbors|1361|2883eb04|x|0|2005|Shoot 'em Up|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Ultra Baseball Jitsumeiban|NOID|b9e43ff3|x|0|2009|Sports , Baseball|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Umihara Kawase|6319|c5c9fb16|x|0|2007|Platformer|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Uncharted Waters New Horizons|6321|3c3c63e6|x|0|1994|Platformer|USA|Koei|Koei|No Rating|Cartridge|Gamepad|SNES
+Undercover Cops|NOID|8239ce7e|x|0|1995|Beat 'em Up|Japan|Varie|Irem|No Rating|Cartridge|Gamepad|SNES
+Untitled NFL Football Game|NOID|No CRC|x|0|No Date|Sports , Football|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Villgust|NOID|520ec425|x|0|1999|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Violinist of Hameln|6329|54ab6711|x|0|2001|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Vocals of Phantasia|NOID|439b8504|x|0|No Date|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Vs. Collection|NOID|a9fcfd53|x|0|1996|Puzzle|Japan|Bottom Up|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Walt Disney's Classic the Jungle Book|NOID|392ae185,ce14892d,3511efb3,bd037a5|x|0|1994|Platformer , Adventure|USA|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Gamepad|SNES
+Weapon Lord|NOID|019c4b02,0e7e7102|x|0|1995|Platformer|USA|Namco|Visual Concepts|No Rating|Cartridge|Gamepad|SNES
+Wheel of Fortune Featuring Vanna White|NOID|1c384b11,010ba855|x|0|1992|Game Show|USA|GameTek|Imagitec Design|No Rating|Cartridge|Gamepad|SNES
+Wild Snake|6346|025adbf9|x|0|1994|Strategy|USA|Spectrum Holobyte|Manley & Associates|No Rating|Cartridge|Gamepad|SNES
+WileCoyote's Revenge|NOID|b0e684cc|x|0|No Date|Strategy|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Williams Arcade's Greatest Hits|3288|471b12b0|x|0|1996|Compilation , Arcade|USA|Midway|Digital Eclipse Software|No Rating|Cartridge|Gamepad|SNES
+Wizardry I-II-III Story of Llylgamyn|NOID|16ffe85a|x|0|2000|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Satellaview|Gamepad|SNES
+Wonder Project J|6352|36079184|x|0|2001|Action|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+World Cup USA '94|6356|5eb18063,24f92540,fb1c9082|x|0|1994|Sports , Soccer|USA|U.S. Gold|U.S. Gold|No Rating|Cartridge|Gamepad|SNES
+World Soccer '94 Road to Glory|NOID|0aae0a10|x|0|1992|Sports , Soccer|USA|RAGE Software|RAGE Software|No Rating|Cartridge|Gamepad|SNES
+X-Men vs Street Fighter|NOID|40242231|x|0|No Date|VS Fighter|Pirate|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Yoshi's Island Kamek's Revenge|NOID|7240f0ad|x|0|2007|Platformer|Update Hacks|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Ys IV Mask of the Sun|6370|7b4cebaf|x|0|2007|Role Playing Game|Japan (Translated)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Yuu Yuu Hakusho 2 Kakutou no Sho|NOID|eef45a93|x|0|1994|VS Fighter|Japan|Namco|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Yuu Yuu Hakusho FINAL Makai Saikyou Retsuden|NOID|5617a42e|x|0|1995|VS Fighter|Japan|Namco|dev-unknown|No Rating|Cartridge|Gamepad|SNES
+Super Probotector Alien Rebels|300|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+AAAHH!! Real Monsters|306|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ka-Blooey|288|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Archer MacLean's Dropzone|1569|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Disney's Beauty and the Beast|3170|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Clayfighter Tournament Edition|1788|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z Super Butōden|1906|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Jim Power The Lost Dimension in 3-D|1994|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Jurassic Park Part 2 The Chaos Continues|1997|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ranma 1/2 Anything Goes Martial Arts|2201|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Tintin au Tibet|2206|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Tuff E Nuff|2211|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Ghouls 'n Ghosts|2224|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Aguri Suzuki F-1 Super Driving|2543|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Sid Meier's Civilization|2548|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Disney's The Jungle Book|2872|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Mario All-Stars and Super Mario World|3275|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Todd McFarlane's Spawn The Video Game|3284|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Lady Stalker|8073|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+ESPN Speed World|3565|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+European Football Champ|3567|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Alien vs. Predator|3310|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+All-American Championship Football|3311|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Battle Soccer Field no Hasha|3481|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dai-3-Ji Super Robot Taisen|3546|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dai-4-Ji Super Robot Taisen|3547|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dark Half|3548|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dezaemon|3551|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Disney's Toy Story|3553|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Do Re Mi Fantasy Milon no DokiDoki Daibouken|3554|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Doraemon 4 Nobita to Tsuki no Ōkoku|3555|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dossun! Ganseki Battle|3556|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z Super Gokuuden Kakusei|3557|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z Super Butōden 3|3558|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Quest V Tenkuu no Hanayome|3559|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Quest VI Maboroshi no Daichi|3560|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dual Orb II|3561|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Fever Pitch Soccer|3607|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+FIFA Road to World Cup 98|3608|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Fire Emblem Monshō no Nazo|3614|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Fire Emblem Seisen no Keifu|3615|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Fire Emblem Thracia 776|3616|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Firestriker|3618|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Frank Thomas' Big Hurt Baseball|3621|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Gunple Gunman's Proof|3638|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Sensible Soccer|5520|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z 2 La Legende Saien|3757|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z 3 Ultime Menace|3758|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Flintstones The Movie|3761|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Mario's Early Years Fun with Letters|3837|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Mario's Early Years Preschool Fun|3839|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Michael Andretti's Indy Car Challenge|3850|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Irem Major Title|5521|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+James Pond's Crazy Sports|5524|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Lothar Matthäus Super Soccer|5575|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Mickey to Donald Magical Adventure 3|5596|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Might and Magic Gates to Another World|5599|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Mo Hawk and Headphone Jack|5613|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Mr.Tuff|5618|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Chrono Trigger 2 Crimson Echoes|5650|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Newman-Haas Indy Car Featuring Nigel Mansell|5705|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Pit Fighter|5783|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Power Monger|5792|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Puyo Puyo 2|5798|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Romancing SaGa 3|5817|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+RPM Racing|5818|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Seiken Densetsu 3|5827|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Slayers|5861|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Spider-Man and the X-Men Arcade's Revenge|5871|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Wild C.A.T.S.|5909|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Spellcraft Aspects of Valor|6128|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Air Diver|6144|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Bases Loaded 2|6145|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super BC Kid|6150|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Hockey|6163|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Tenchi Muyou!|6255|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Chaos Engine|6259|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Torneko no Daibōken Fushigi no Dungeon|6306|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Val D' Isere Championship|6326|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Wedding Peach|6341|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+World League Basketball|6358|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Angelique|9053|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Joe and Mac Caveman Ninja|10835|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z Super Gokuden Totsugeki-Hen|13915|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z Chou Saiya Densetsu|13916|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Star Force|13919|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Game Boy|13990|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Captain Tsubasa III Koutei no Chousen|14775|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Quest III Soshite Densetsu e|14776|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Silva Saga II|14777|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Nangoku Shounen Papuwa-kun|14782|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Zenki Rettou Raiden|14783|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Shin Megami Tensei|14784|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Shin Megami Tensei II|14785|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Gussun Oyoyo 2|14790|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Radical Dreamers Nusumenai Hoseki|14799|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Tactics Ogre Let Us Cling Together|14806|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Osu!! Karatebu|14807|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ushio To Tora|14808|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Arabian Nights|14812|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Burning Heroes|14813|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Crystal Beans From Dungeon Explorer|14814|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Energy Breaker|14817|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Lennus II Fuuin no Shito|14818|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Magna Braban Henreki no Yusha|14820|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Tetris Battle Gaiden|17179|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Appleseed|17195|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ranma ½ Treasure of the Red Cat Gang|17574|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Metroid Super Zero Mission|17627|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+F1 Grand Prix Part III|18643|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Marchen Adventure Cotton 100%|18646|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Aleste|18648|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super SWIV|18649|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Drift Out|18650|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Battle Cross|18655|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Bishoujo Senshi Sailor Moon Another Story|18726|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Ball Z 1|18793|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Fist Of The North Star 6|18794|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ganbare Goemon 2|18795|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ganbare Goemon 3|18796|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ganbare Goemon 4|18797|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Mazinger z|18798|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Mega Man and Bass|18799|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ranma ½ Rock-Scissors-Puzzle|18800|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Ranma ½ Origins|18801|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Slayers RPG|18803|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Bonk 2|18805|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Villigust|18806|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+BS Legend of Zelda Remake|18807|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Slayers Adventure|18822|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Kishin Douji Zenki Denei Raibu|18825|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Mario World Brutal Mario|18826|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Dimension Fortress Macross Scrambled Valkyrie|18827|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Super Dai 3 Ji Super Robot Taisen|18830|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Majūō|18836|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Blazing Skies|18906|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Kirby no kirakira kids|19031|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Dragon Quest 1+2|19046|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES
+Rockman VII Dual of Fate|19068|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|SNES

@@ -1,0 +1,28 @@
+Tetris 2 is back!
+
+Tetris 2, the popular sequel to the megahit Tetris, is back and more fun than ever on Super NES!
+
+Tetris 2 consists of red, blue, and yellow blocks. In addition to having different colored blocks, the game also features three block types: Falling Blocks, Flash Blocks and Fixed Blocks. The object of Tetris 2 is to arrange the Falling Blocks so three or more blocks of the same color line up horizontally or vertically. When a horizontal or vertical match occurs, the similarly colored blocks disappear. To win, you must strategically place your Falling Blocks and eliminate all Fixed Blocks from the screen.
+
+While maintaining the sophisticated simplicity of the original Tetris game, Tetris 2 moves forward with exciting puzzles that are more captivating than ever!
+--from the SNES Tetris 2 instruction manual
+
+Tetris 2 is a pretty cool puzzle game. Unlike trying to make lines all the way across the board, in Tetris 2 you try to line up blocks of the same color. You only have to get three of the same color for them to disappear. Tetris 2 also adds some new, weird looking blocks. Some of them will even be designed to drop off a certain piece of the block, while you place the other piece somewhere else. There is also a puzzle mode on Tetris 2. They start you off with just one or two blocks, and you have to use it/them to eliminate the whole board. The puzzle mode is my favorite. Tetris 2 was a great addition to the super smash hit Tetris. If you like puzzle games, you'll love this!
+
+Directions:
+
+Line up at least three blocks of the same color to make them disappear, so you can get to the flashing blocks and make them disappear, thus clearing the board.
+
+Controls:
+
+A Button - Flip Block Right
+B Button - Flip Block Left
+X Button - None
+Y Button - None
+L Button - None
+R Button - None
+Start Button - Start/Pause
+Select Button - Try Again(Puzzle Mode)
+
+Tips:
+

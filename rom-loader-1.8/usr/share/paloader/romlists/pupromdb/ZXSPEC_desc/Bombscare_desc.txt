@@ -1,0 +1,21 @@
+Bomb Scare is a single player maze based puzzle game.
+
+The Plot
+The game is set on Neptune where an enemy alien has planted a time bomb in the space station. The station has been evacuated and the player must neutralise the threat using a bomb defusing robot, ARNOLD. In order to accomplish this task, ARNOLD must first collect the necessary tools from those lying around the base. Then, when suitably equipped, the player must guide ARNOLD to the bomb in order to defuse it. Naturally the aliens will attempt to thwart this attempt whenever they can.
+
+
+The Game
+The mission to defuse the bomb is time limited, a mission timer in the lower half of the screen counts down from 999. If ARNOLD runs out of time, energy, or lives the game is over and the bomb explodes destroying the entire planet
+
+ARNOLD has six action keys. There are three movement keys, one key to move forwards and two others to rotate left or right, and three activity keys, pick up, select an object, and activate object.
+
+The base consists of a series of rooms which map to a 16 x 9 grid, though not all the elements in the grid contain a room. There is no in-game map but the rooms are coloured to assist the player in keeping track of their location. The game also displays large arrows on the floor when there is an exit off-screen, and smaller arrows on the walls when there is an obvious doorway. Some doors only allow ARNOLD to pass through one-way.
+
+There are eight tele-ports which allow ARNOLD to quickly move from one area of the base to another, but at the start of the game neither the player, nor ARNOLD, will have any operating instructions for them. 
+
+ARNOLD's inventory can hold five items. When an object is encountered the player positions ARNOLD over it and uses the 'Pick Up' key, the object then appears in the inventory list at the bottom of the screen. The player then has to work out what to do with each object and where, within the game, it is used.
+
+As ARNOLD moves around the station he will encounter many small scurrying aliens. Some can be destroyed by running over them though this will sap ARNOLD's energy, others explode on contact and destroy ARNOLD. Points are scored for killing them, however ARNOLD only has a limited number of shots at his disposal.
+
+
+http://www.mobygames.com/game/zx-spectrum/bomb-scare

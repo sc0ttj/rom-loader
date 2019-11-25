@@ -1,0 +1,48 @@
+This game is very similar to Hell Fire (also for Genesis), but is not as dark and is much more difficult. Air Buster is a fighter plane shooter with loads of enemies and some cool power ups. The music sounds like something generated on a kid's keyboard, but we don't really expect musical genius from these games, do we? The colors are bright and crisp, and the animation is smooth. It can be occasionally difficult to see some things (like enemy fire that is about to take you down) when there is a lot happening on the screen. Still, it's a pretty fun game and is extremely challenging.
+
+As far as Genesis games go, this game looks really good. The brilliant blue sky will fly past as you meet with small to huge enemy ships that have a very hard core techno look to them.
+
+Directions:
+
+You can fly left, right, up, down, and diagonally, but you cannot change the orientation of the ship. This means that you can't fly backwards... of course..... or do any loops or anything like that. You're always facing forward.
+
+Crashing into a wall, enemy, or enemy fire just once means death. You have no health bar in this game.
+
+Your default weapon doesn't do much damage, but you can get upgrades for it. In addition to your default weapon you can produce a powerful blast that will take all small enemies and enemy fire off the screen. Do this by holding down A until the left bar at the top of the screen is red and your ship begins to flash. When you release it there will be a flash and all small (one shot kill) enemies on screen will be destroyed. This will take a while to recharge before you can do it again so don't immediately start holding the fire button down again.
+
+Power-ups will be capital letters, and you get them by blowing up certain containers that will hover in one general place, drifting slowly up and down. Power-ups are as follows:
+
+M- This power up will allow you to fire two large red missiles along with your normal fire.
+
+R- This one will fire two missiles diagonally (one up and to the left and the other down and to the left)out from behind you.
+
+P- This will add another shot to your normal fire for each you pick up. This will stack with other weapons.
+
+S- This one will bring up an extra weapon to either side of your ship that won't be attached to the ship and will fire in addition to your normal weapon. However, this weapon does take longer to use and therefore doesn't fire as frequently as your default weapon.
+
+B- This will send small bluish dots of fire out from your ship in a circle. This has a very wide range, but is slower to fire than your default weapon.
+
+H- This will bring up a cannon behind your ship that fires black and yellow flashing dots as it rotates in a circle. This one fires on its own constantly, whether you fire or not.
+
+In most cases, picking up a weapon power-up will change your current weapon. By that I mean that if you have an S power-up currently and pick up an R power-up you will lose the S power-up and your weapon will change to R format. The only power-up that stacks with other power-ups is the P.
+
+Most enemies will be defeated easily, but mini-bosses and bosses will be much harder. Occasionally, you will run into mini-bosses. These will be bigger than normal enemies, will fire more shots at once, and will take more hits to bring down. Mini-bosses sometimes come in groups. Don't be frightened when you run into your first boss. You'll recognize it's arrival by the destruction it brings. One minute you'll be flying along merrily, about to charge up to wipe out a screen that is filled with small red and white enemies, and the next minute everything will be exploding as laser blasts fire all around you (don't worry these won't hit you). Next thing you know, your first boss comes down from overhead, and it is impressive. Bosses are alone, huge and very difficult to defeat. Bosses require dodging and strategy and will take much longer to defeat.
+
+Levels will vary drastically from each other. Sometimes you'll be flying through tight tunnels and sometimes you'll be flying in zero gravity. You just don't know what you're going to have to do next. Ability to adapt is a must.
+
+Two-player mode is essentially the same, except you can both team up to defeat the endless hordes of enemies together. You may find that Cooperative play makes things easier. On the other hand, the screen will be that much busier with you and your companion and twice the fire-power blowing around. 
+
+Controls:
+
+A Button: Fires
+B Button: Fires
+Start Button: Pauses Game
+Select Button: N/A
+
+Hints:
+
+Don't Let Your Guard Down
+Just because the boss is in its death throes and slowly sinking into the abyss doesn't mean that you can relax now. A boss that is exploding and crashing in defeat can still shoot at you and take you down with it. 
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/air_buster.html

@@ -1,0 +1,12 @@
+Vertically scrolling shoot 'em up where you collect modules that can either combine with your ship or fly in formation with you to alter their effectiveness.
+
+HINTS:
+
+(Pause the game and enter the following)
+- Bonus ships -
+Hold Up and press II, I, I, II, then hold Down and press I, II, II, I
+
+- Full power -
+Up, Down, Left, Right, Up, Down, Left, Right, Up, Down, Left, Right, II, I
+
+http://www.pcengine.co.uk/HTML_Games/Terra_Cresta_II.htm

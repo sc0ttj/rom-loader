@@ -1,0 +1,20 @@
+Breeder is a Strategy game, developed and published by Soft Pro, which was released in Japan in 1986.
+
+http://www.gamefaqs.com/console/fds/home/578359.html
+*
+********************************************** C **********************************************
+*
+c787a8ff
+Chisoko Tairiku Orudora
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Strategy
+Release Year - 1987
+Developer - SunSoft
+Manufacturer - SunSoft
+@END
+Chisoko Tairiku Orudora is a Miscellaneous game, developed and published by SunSoft, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578395.html

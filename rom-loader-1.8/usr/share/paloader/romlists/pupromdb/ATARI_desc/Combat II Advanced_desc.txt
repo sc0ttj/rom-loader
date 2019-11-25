@@ -1,0 +1,3 @@
+This is the game Combat Two ported to the Atari 5200 from the atari 2600 with additional features. You still can use tanks to shoot each other but now you have game variations with helicopters, jet planes and submarines. Each vehicle has two weapon modes, a primary and secondary. Also, you can play with up to three friends, simultaneously.
+
+http://www.mobygames.com/game/atari-5200/combat-ii-advanced

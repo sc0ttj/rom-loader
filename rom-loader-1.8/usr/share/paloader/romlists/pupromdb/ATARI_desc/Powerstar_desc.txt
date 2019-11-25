@@ -1,0 +1,3 @@
+Unusual for a cart-based game, this is a graphic text adventure that supports both the keyboard and joystick. Supposedly, this game was never officially released and only 700 copies exist. It does however come in a box with instructions.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=7185

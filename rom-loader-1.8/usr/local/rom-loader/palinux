@@ -1,0 +1,285 @@
+#!/bin/sh
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/palinuxrc
+# set some vars as defaults
+export FULLGUI=''
+export FSGUI=''
+export FULLSCREENGUI='';
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="."  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="LINUX" #example: linux or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='mrxvt' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "palinux $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: palinux [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR=$HOME #default browser dir
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAlinux config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# the actual, final command
+	echo "exec \"$DIR$CHOOSER\""  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+	
+}
+
+#####     P R O G R A M     ######
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid game in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+#. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+#build gui
+S='
+<window title="Puppy Arcade - linux loader" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## H E L P
+  <vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Linux Help:
+		
+This loader can load up any Linux games that you have 
+installed... The easiest way to setup this tool is to create 
+symlinks or wrapper scripts for all your games and put 
+them in a single folder.
+
+By default, some example scripts are included in 
+/usr/local/games, which is the default directory.
+
+so browse to that folder with this program (if not 
+already there) and choose a game to play - hit ENTER 
+or double click and choose Play Now - just like you 
+would with a ROM file for other systems.
+
+Game Box Art and Descriptions:
+
+	No online box art scraping is supported for this 
+	System, unlike most of the others... But, you can:
+
+	1. Add your own boxart in 
+/usr/share/paloader/romlists/boxart/LINUX/
+
+	2. Add your descriptions in
+/usr/share/paloader/romlists/pupromdb/LINUX_desc/
+
+	NOTE: 
+	The files added to these folders must match the names 
+	of the scripts that you executed, or they will not be found.
+	
+Auto Enable Joypads for ALL games:
+
+	You can manually create a new RejoystickCC profile for the 
+	game, by creating the relevant files in /root/.rejoystickcc/
+	
+	Look in /root/.rejoystickcc/ to see existing examples of 
+	RejoystickCC profiles.
+	
+	Create a new profile, named after the game you want to 
+	play, then edit the profile to setup the controls you want, 
+	using the Rom-Loader settings page, or command below:
+	
+	player 1:
+		rejoystick1cc --edit --profile profile_name
+	player 2:
+		rejoystick2cc --edit --profile profile_name
+	
+	Then, finally, use the following command in the game run 
+	script to enable its Rejoystick profile when the game starts:
+	
+	player 1:
+		rejoystick1cc --load --profile profile_name
+	player 2:
+		rejoystick2cc --load --profile profile_name
+	
+Windows Games:
+
+	You could even run Windows games with this loader: 
+
+	You can also create scripts that run WINE commands, so, 
+	as long as you have WINE installed from the Akita repo, 
+	you can create scripts to run your Windows games as well.
+
+Help Out!
+
+	If you added any games to this loader that came from the
+	Akita repo, or any other repository in the Package Manager, 
+	then please share the boxart, description and loader script 
+	files at the Puppy Arcade forum.. They will be integrated 
+	into future releases, and you will get your name in Puppy 
+	Arcade (if you care!)
+
+	Use the cavestory or cartoon-fighter scripts as examples.
+
+"</default>
+	</edit>		
+  </vbox>
+
+</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/share/doc/linux/readme.txt &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+# enable joypad rom browsing
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+export palinux="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p palinux $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset palinux
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

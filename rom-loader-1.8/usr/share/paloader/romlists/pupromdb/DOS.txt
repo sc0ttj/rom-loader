@@ -1,0 +1,210 @@
+Platform MS Dos|NOID|1830 Railroads & Robber Barons|x|0|1995|Strategy , Simulation|USA|Avalon Hill|Simtex Studios Inc.|No Rating|Diskette|Mouse|DOS
+1869|NOID|No CRC|x|0|1992|Strategy , Simulation|region-unknown|Max Design GesMBH|Max Design GesMBH|No Rating|Disk|Mouse|DOS
+AD&D Al-Qadim the Genies Curse|NOID|No CRC|x|0|1994|Role Playing Game|USA|Strategic Simulations, Inc.|Cyberlore Studios, Inc.|No Rating|CD|Mouse|DOS
+AD&D Dark Sun Shattered Lands|NOID|No CRC|x|0|1993|Role Playing Game|USA|Strategic Simulations, Inc.|Strategic Simulations, Inc.|No Rating|CD|Mouse|DOS
+AD&D Dark Sun Wake of the Ravager|NOID|No CRC|x|0|1994|Role Playing Game|USA|Strategic Simulations, Inc.|Strategic Simulations, Inc.|No Rating|CD|Mouse|DOS
+AD&D Dungeon Hack|NOID|No CRC|x|0|1993|Role Playing Game|USA|Strategic Simulations, Inc.|DreamForge Intertainment, Inc.|No Rating|CD|Mouse|DOS
+AD&D Menzoberranzan|NOID|No CRC|x|0|1994|Role Playing Game|USA|Strategic Simulations, Inc.|DreamForge Intertainment, Inc.|No Rating|CD|Mouse|DOS
+AD&D Ravenloft Strahd's Possession|NOID|No CRC|x|0|1994|Role Playing Game|USA|Strategic Simulations, Inc.|DreamForge Intertainment, Inc.|No Rating|CD|Mouse|DOS
+AD&D Ravenloft 2 Stone Prophet|NOID|No CRC|x|0|1995|Role Playing Game|USA|Strategic Simulations, Inc.|DreamForge Intertainment, Inc.|No Rating|CD|Mouse|DOS
+AD&D Unlimited Adventures|NOID|No CRC|x|0|1993|Role Playing Game|USA|Strategic Simulations, Inc.|MicroMagic, Inc.|No Rating|CD|Mouse|DOS
+Afterlife|NOID|No CRC|x|0|1996|Strategy , Isometric|USA|LucasArts Entertainment Company LLC|LucasArts Entertainment Company LLC|No Rating|CD|Mouse|DOS
+Alien Carnage|NOID|No CRC|x|0|1993|Action , Platformer|USA|Apogee Software, Ltd.|Interactive Binary Illusions|No Rating|Diskette|Joystick|DOS
+Arctic Adventure Volume 1|NOID|No CRC|x|0|1991|Action , Platformer|USA|Apogee Software, Ltd|Apogee Software, Ltd|No Rating|Diskette|Joystick|DOS
+Arctic Adventure Volume 2|NOID|No CRC|x|0|1991|Action , Platformer|USA|Apogee Software, Ltd|Apogee Software, Ltd|No Rating|Diskette|Joystick|DOS
+Arctic Adventure Volume 3|NOID|No CRC|x|0|1991|Action , Platformer|USA|Apogee Software, Ltd|Apogee Software, Ltd|No Rating|Diskette|Joystick|DOS
+Arctic Adventure Volume 4|NOID|No CRC|x|0|1991|Action , Platformer|USA|Apogee Software, Ltd|Apogee Software, Ltd|No Rating|Diskette|Joystick|DOS
+Battle Chess|NOID|No CRC|x|0|1988|Strategy , Chess|USA|Interplay Entertainment Corp.|Interplay Entertainment Corp.|No Rating|Diskette|Mouse|DOS
+Battle Chess 2 Chinese Chess|NOID|No CRC|x|0|1990|Strategy , Chess|region-unknown|Interplay Productions, Inc.|Interplay Productions, Inc.|No Rating|Disk|Mouse|DOS
+Battle Chess 4000|NOID|No CRC|x|0|1992|Strategy , Chess|region-unknown|Interplay Productions, Inc.|Interplay Productions, Inc.|No Rating|Disk|Mouse|DOS
+Bio Menace Episode 1 Dr. Mangle's Lab|NOID|No CRC|x|0|1993|Action , Platformer|USA|Apogeee Software, Ltd.|Apogeee Software, Ltd.|No Rating|Diskette|Joystick|DOS
+Bio Menace Episode 2 the Hidden Lab|NOID|No CRC|x|0|1993|Action , Platformer|USA|Apogeee Software, Ltd.|Apogeee Software, Ltd.|No Rating|Diskette|Joystick|DOS
+Bio Menace Episode 3 Master Cain|NOID|No CRC|x|0|1993|Action , Platformer|USA|Apogeee Software, Ltd.|Apogeee Software, Ltd.|No Rating|Diskette|Joystick|DOS
+Blake Stone Planet Strike|NOID|No CRC|x|0|1994|Shooter , 3D|USA|Apogee Software, Ltd.|JAM Productions|No Rating|Diskette|Joystick|DOS
+Blake Stone Aliens of Gold|NOID|No CRC|x|0|1993|Shooter , 3D|USA|Apogee Software|JAM Productions|No Rating|Diskette|Joystick|DOS
+Blood|NOID|No CRC|x|0|1997|Shooter , First|USA|GT Interactive Software Corp|Monolith Productions, Inc.|No Rating|Diskette|Mouse|DOS
+Boppin'|NOID|No CRC|x|0|1992|Strategy , Puzzle|USA|Apogee Software, Ltd.|Accursed Toys|No Rating|Diskette|Joystick|DOS
+Boulder Dash|NOID|No CRC|x|0|1984|Action , Strategy|USA|First Star Software, Inc|First Star Software, Inc|No Rating|Diskette|Joystick|DOS
+Bubble Ghost|NOID|No CRC|x|0|1988|Action , Strategy|USA|Accolade, Inc|ERE Informatique|No Rating|Diskette|Keyboard|DOS
+Castles|NOID|No CRC|x|0|1991|Strategy , Historical|USA|Interplay Entertainment Corp.|Quicksilver Software, Inc|No Rating|Diskette|Mouse|DOS
+Castles II Siege and Conquest|NOID|No CRC|x|0|1992|Strategy , Historical|USA|Interplay Entertainment Corp.|Quicksilver Software, Inc.|No Rating|Diskette|Mouse|DOS
+Castles the Northern Campaign|NOID|No CRC|x|0|1991|Adventure , Graphic|USA|Interplay Productions, Inc.|Quicksilver Software, Inc.|No Rating|Diskette|Mouse|DOS
+Catacomb Abyss, The|NOID|No CRC|x|0|1992|Shooter , First|USA|Softdisk Publishing|Gamer's Edge|No Rating|Diskette|Joystick|DOS
+Catacomb Apocalypse|NOID|No CRC|x|0|1993|Shooter , First|USA|Froggman|Softdisk Publishing|No Rating|Diskette|Joystick|DOS
+Catacomb Armageddon|NOID|No CRC|x|0|1993|Shooter , First|USA|Froggman|Softdisk Publishing|No Rating|Diskette|Joystick|DOS
+Command and Conquer GDI|NOID|No CRC|x|0|1995|Strategy , Realtime|USA|Virgin Interactive Entertainment (Europe)|Westwood Studios, Inc.|No Rating|CD|Mouse|DOS
+Command and Conquer Nod|NOID|No CRC|x|0|1995|Strategy , Realtime|USA|Virgin Interactive Entertainment (Europe)|Westwood Studios, Inc.|No Rating|CD|Mouse|DOS
+Command and Conquer Red Alert|NOID|No CRC|x|0|1996|Strategy , Realtime|USA|Virgin Interactive Entertainment (Europe)|Westwood Studios, Inc.|No Rating|CD|Mouse|DOS
+Command and Conquer Red Alert Counterstrike|NOID|No CRC|x|0|1997|Strategy , Realtime|USA|Virgin Interactive Entertainment (Europe)|Westwood Studios, Inc.|No Rating|CD|Mouse|DOS
+Command and Conquer Red Alert the Aftermath|NOID|No CRC|x|0|1997|Strategy , Realtime|USA|Virgin Interactive Entertainment (Europe)|Westwood Studios, Inc.|No Rating|CD|Mouse|DOS
+Commander Keen 1 Marooned on Mars|NOID|No CRC|x|0|1990|Platformer , Action|USA|Apogee Software|ID Software|No Rating|Diskette|Joystick|DOS
+Commander Keen 2 the Earth Explodes|NOID|No CRC|x|0|1990|Platformer , Action|USA|Apogee Software, Ltd.|ID Software|No Rating|Diskette|Joystick|DOS
+Commander Keen 3 Keen Must Die!|NOID|No CRC|x|0|1990|Platformer , Action|USA|Apogee Software|ID Software, Inc.|No Rating|Diskette|Joystick|DOS
+Commander Keen 4 Secret of the Oracle|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|ID Software, Inc|No Rating|Diskette|Joystick|DOS
+Commander Keen 5 the Armageddon Machine|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|ID Software, Inc|No Rating|Diskette|Joystick|DOS
+Commander Keen 6 Aliens Ate My Baby Sitter!|NOID|No CRC|x|0|1991|Platformer , Action|USA|FormGen, Inc.|ID Software, Inc.|No Rating|Diskette|Joystick|DOS
+Commander Keen Keen Dreams the Lost Episode|NOID|No CRC|x|0|1992|Platformer , Action|USA|Softdisk|iD Software|No Rating|Diskette|Joystick|DOS
+Corridor 7 Alien Invasion|NOID|No CRC|x|0|1994|Shooter , First|USA|Capstone Software|Capstone Software|No Rating|Diskette/CD|Mouse|DOS
+Cosmo's Cosmic Adventure Episode 1|NOID|No CRC|x|0|1992|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Cosmo's Cosmic Adventure Episode 2|NOID|No CRC|x|0|1992|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Cosmo's Cosmic Adventure Episode 3|NOID|No CRC|x|0|1992|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Crystal Caves Part 1 Troubles with Twibbles|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Crystal Caves Part 2 Slugging it Out|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Crystal Caves Part 3 Mylo Versus the Supernova|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+D&D Fantasy Empires|NOID|No CRC|x|0|1993|Role Playing Game|USA|Strategic Simulations, Inc.|Silicon Knights, Inc.|No Rating|CD|Mouse|DOS
+Dark Ages Volume 1 Prince of Destiny|NOID|No CRC|x|0|1991|Action , Platformer|USA|Apogee Software,|Scenario Software|No Rating|Diskette|Joystick|DOS
+Dark Ages Volume 2 the Undead Kingdom|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Scenario Software|No Rating|Diskette|Joystick|DOS
+Dark Ages Volume 3 Dungeons of Doom|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Scenario Software|No Rating|Diskette|Joystick|DOS
+Death Rally|NOID|No CRC|x|0|1996|Racing , Shooter|USA|Apogee Software|Remedy Entertainment|No Rating|Diskette|Joystick|DOS
+Disney's Aladdin|NOID|No CRC|x|0|1994|Action , Platformer|USA|Virgin Interactive Entertainment|Disney Interactive|No Rating|Diskette|Joystick|DOS
+DOOM II Hell on Earth|NOID|No CRC|x|0|1994|Shooter , First|USA|GT Interactive Software|id Software, Inc.|No Rating|Diskette|Mouse|DOS
+Duke Nukem II|NOID|No CRC|x|0|1993|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Duke Nukem Episode 1 Shrapnel City|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Duke Nukem Episode 2 Moonbase|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Duke Nukem Episode 3 Trapped in the Future!|NOID|No CRC|x|0|1991|Platformer , Action|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Dune|NOID|No CRC|x|0|1992|Strategy , Fantasy|USA|Virgin Games, Inc.|Cryo Interactive Entertainment|No Rating|Diskette|Mouse|DOS
+Dungeon Keeper|NOID|No CRC|x|0|1997|Strategy , Role|USA|Electronic Arts, Inc.|Bullfrog Productions, Ltd.|No Rating|CD|Mouse|DOS
+Electro Man|NOID|No CRC|x|0|1993|Platformer , Action|region-unknown|Epic MegaGames, Inc.|xLand Games|No Rating|Disk|Joystick|DOS
+Epic Pinball Enhanced|NOID|No CRC|x|0|1993|Pinball|region-unknown|Epic MegaGames, Inc.|Digital Extremes|No Rating|CD|Keyboard|DOS
+Gender Wars|NOID|No CRC|x|0|1996|Strategy , Realtime|USA|GT Interactive Software Corp.|SCi Games Ltd.|No Rating|Diskette|Mouse|DOS
+Heroes of Might and Magic|NOID|No CRC|x|0|1995|Strategy , Role|USA|New World Computing, Inc.|New World Computing, Inc.|No Rating|CD|Mouse|DOS
+Heroes of Might and Magic II the Succession Wars|NOID|No CRC|x|0|1996|Strategy , Role|USA|3DO Company, The|New World Computing, Inc|No Rating|Diskette|Mouse|DOS
+Highway Hunter|NOID|No CRC|x|0|1995|Racing , Sci-Fi|USA|Epic MegaGames, Inc.|Safari Software Ltd.|No Rating|Diskette|Joystick|DOS
+Hocus Pocus|NOID|No CRC|x|0|1994|Platformer , Isometric|USA|Apogee Software, Ltd.|Moonlite Software|No Rating|Diskette|Joystick|DOS
+Jagged Alliance|NOID|No CRC|x|0|1994|Strategy , Turnbased|USA|Sir-tech Software, Inc.|Madlab Software|No Rating|Diskette|Mouse|DOS
+Jazz Jackrabbit CD-ROM|NOID|No CRC|x|0|1994|Platformer , Action|region-unknown|Epic MegaGames, Inc|Epic MegaGames, Inc|No Rating|CD|Joystick|DOS
+Jazz Jackrabbit Holiday Hare 1994|NOID|No CRC|x|0|1995|Platformer , Action|USA|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Diskette|Joystick|DOS
+Jill of the Jungle|NOID|No CRC|x|0|1992|Platformer , Action|USA|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Diskette|Joystick|DOS
+Jill of the Jungle Jill Goes Underground|NOID|No CRC|x|0|1992|Platformer , Action|USA|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Diskette|Joystick|DOS
+Jill of the Jungle Jill Saves the Prince|NOID|No CRC|x|0|1992|Platformer , Action|USA|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Diskette|Joystick|DOS
+Jumpman Lives!|NOID|No CRC|x|0|1991|Action , Platformer|USA|Apogee Software|Shamusoft Designs|No Rating|Diskette|Joystick|DOS
+Kiloblaster Episode 1 Death of a Starship|NOID|No CRC|x|0|1992|Action , Shooter|USA|Epic MegaGames, Inc|Epic MegaGames, Inc|No Rating|Diskette|Joystick|DOS
+Kiloblaster Episode 2 No Way Out|NOID|No CRC|x|0|1992|Action , Shooter|USA|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Diskette|Joystick|DOS
+Kiloblaster Episode 3 the Final Battle|NOID|No CRC|x|0|1992|Action , Shooter|USA|Epic MegaGames, Inc|Epic MegaGames, Inc|No Rating|Diskette|Joystick|DOS
+King's Quest V Absence Make the Heart Go Yonder!|NOID|No CRC|x|0|1990|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|CD|Mouse|DOS
+King's Quest VI Heir Today, Gone Tomorrow|NOID|No CRC|x|0|1992|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|CD|Mouse|DOS
+Legends of Valour|NOID|No CRC|x|0|1992|Role Playing Game|USA|Strategic Simulations, Inc.|Dimension Creative Designs, Ltd.|No Rating|Diskette|Mouse|DOS
+Lemmings|NOID|No CRC|x|0|1991|Strategy , Puzzle|USA|Psygnosis Limited|DMA Design|No Rating|Diskette|Mouse|DOS
+Lemmings 2 the Tribes|NOID|No CRC|x|0|1993|Strategy , Puzzle|USA|Psygnosis Limited|DMA Design Limited|No Rating|Diskettte|Mouse|DOS
+Lemmings 3D|NOID|No CRC|x|0|1995|Strategy , Puzzle|USA|Psygnosis Limited|Clockwork Games Limited|No Rating|CD|Mouse|DOS
+Major Stryker|NOID|No CRC|x|0|1993|Platformer , Shooter|USA|Apogee Software|Apogee Software|No Rating|Diskette|Joystick|DOS
+Master of Magic|NOID|No CRC|x|0|1994|Strategy , Turnbased|USA|MicroProse Software, Inc.|Simtex Studios Inc.|No Rating|Diskette|Mouse|DOS
+Master of Orion|NOID|No CRC|x|0|1993|Strategy , Sci-Fi|USA|MicroProse Software, Inc.|Simtex Studios Inc.|No Rating|Diskette|Mouse|DOS
+Master of Orion II Battle at Antares|NOID|No CRC|x|0|1996|Strategy , Turnbased|USA|MicroProse|SimTex|No Rating|Diskette|Mouse|DOS
+Math Rescue Episode 1 Visit Volcanos and Ice Caves|NOID|No CRC|x|0|1992|Educational , Platformer|USA|Apogee Software|Redwood Games|No Rating|Diskette|Joystick|DOS
+Math Rescue Episode 2 Follow the Gruzzles into Space|NOID|No CRC|x|0|1992|Educational , Platformer|USA|Apogee Software|Redwood Games|No Rating|Diskette|Joystick|DOS
+Math Rescue Episode 3 See Candy Land|NOID|No CRC|x|0|1992|Educational , Platformer|USA|Apogee Software|Redwood Games|No Rating|Diskette|Joystick|DOS
+Might and Magic I Secret of the Inner Sanctum|NOID|No CRC|x|0|1986|Role Playing Game|USA|New World Computing, Inc.|New World Computing, Inc.|No Rating|Diskette|Mouse|DOS
+Might and Magic II Gates to Another World|NOID|No CRC|x|0|1988|Role Playing Game|region-unknown|New World Computing, Inc.|New World Computing, Inc.|No Rating|Disk|Keyboard|DOS
+Might and Magic III Isles of Terra|NOID|No CRC|x|0|1991|Role Playing Game|region-unknown|New World Computing, Inc.|New World Computing, Inc.|No Rating|Disk|Mouse|DOS
+Might and Magic Clouds of Xeen|NOID|No CRC|x|0|1992|Role Playing Game|region-unknown|New World Computing, Inc.|New World Computing, Inc.|No Rating|Disk|Mouse|DOS
+Might and Magic Darkside of Xeen|NOID|No CRC|x|0|1993|Role Playing Game|region-unknown|New World Computing, Inc.|New World Computing, Inc.|No Rating|Disk|Mouse|DOS
+Might and Magic World of Xeen|NOID|No CRC|x|0|1994|Role Playing Game|region-unknown|New World Computing, Inc.|New World Computing, Inc.|No Rating|Disk|Mouse|DOS
+Monster Bash 1|NOID|No CRC|x|0|1993|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Monster Bash 2|NOID|No CRC|x|0|1993|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Monster Bash 3|NOID|No CRC|x|0|1993|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Mystic Towers|NOID|No CRC|x|0|1994|Adventure , Isometric|region-unknown|Apogee Software, Ltd.|Animation F/X|No Rating|Disk|Joystick|DOS
+Need For Speed Special Edition|NOID|No CRC|x|0|1996|Racing|region-unknown|Electronic Arts Ltd.|EA Seattle, Pioneer Productions|No Rating|CD|Joystick|DOS
+Nitemare 3D|NOID|No CRC|x|0|1994|Survival Horror ,|region-unknown|Gray Design Associates|Gray Design Associates|No Rating|Disk|Mouse|DOS
+Oh No! More Lemmings|NOID|No CRC|x|0|1991|Strategy , Puzzle|USA|Psygnosis Limited|DMA Design Limited|No Rating|Diskette|Mouse|DOS
+One Must Fall 2097|NOID|No CRC|x|0|1994|VS Fighter|region-unknown|Epic MegaGames, Inc.|Diversions Entertainment|No Rating|Disk|Joystick|DOS
+Overkill|NOID|No CRC|x|0|1992|Shooter , Top|region-unknown|Epic MegaGames, Inc.|Tech-Noir|No Rating|Disk|Joystick|DOS
+Paganitzu 1|NOID|No CRC|x|0|1991|Adventure , Puzzle|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Paganitzu 2|NOID|No CRC|x|0|1991|Adventure , Puzzle|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Paganitzu 3|NOID|No CRC|x|0|1990|Adventure , Puzzle|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Pharaohs Tomb Vol 1- Raiders of the Lost Tomb|NOID|No CRC|x|0|1990|Platformer , Adventure|USA|Apogee Software, Ltd.|Micro F/X Software|No Rating|Diskette|Joystick|DOS
+Pharaohs Tomb Vol 2- Pharaoh's Curse|NOID|No CRC|x|0|1990|Platformer , Adventure|USA|Apogee Software, Ltd.|Micro F/X Software|No Rating|Diskette|Joystick|DOS
+Pharaohs Tomb Vol 3- Temple of Terror|NOID|No CRC|x|0|1990|Platformer , Adventure|USA|Apogee Software, Ltd.|Micro F/X Software|No Rating|Diskette|Joystick|DOS
+Pharaohs Tomb Vol 4- Nevada's Revenge|NOID|No CRC|x|0|1990|Platformer , Adventure|USA|Apogee Software, Ltd.|Micro F/X Software|No Rating|Diskette|Joystick|DOS
+Privateer 2 the Darkening|NOID|No CRC|x|0|1996|Simulation , Action|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Radix Beyond the Void|NOID|No CRC|x|0|1995|Action , Shooter|region-unknown|Epic MegaGames, Inc.|Neural Storm Entertainment, Union|No Rating|Disk|Joystick|DOS
+Raptor Call of the Shadows|NOID|No CRC|x|0|1994|Shooter , Top|USA|Mountain King Studios Inc.|Cygnus Multimedia Productions, Inc.|No Rating|Diskette|Joystick|DOS
+Realms of Chaos|NOID|No CRC|x|0|1995|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Red Baron|NOID|No CRC|x|0|1990|Simulation , Flight|region-unknown|Sierra On-Line, Inc|Dynamix, Inc.|No Rating|Disk|Joystick|DOS
+Rise of the Triad Dark War|NOID|No CRC|x|0|1994|Shooter , First|region-unknown|No Publisher|dev-unknown|No Rating|Disk|Mouse|DOS
+Roberta Williams' King's Quest VII the Princeless Bride|NOID|No CRC|x|0|1994|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|CD|Mouse|DOS
+Scorched Earth|NOID|No CRC|x|0|1991|Strategy|region-unknown|Wendell Hicken|Wendell Hicken|No Rating|Joystick|Mouse|DOS
+Secret Agent Mission 1|NOID|No CRC|x|0|1992|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Secret Agent Mission 2|NOID|No CRC|x|0|1992|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Secret Agent Mission 3|NOID|No CRC|x|0|1992|Platformer , Action|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Seek and Destroy|NOID|No CRC|x|0|1996|Action , Shooter|region-unknown|Epic MegaGames, Inc.|Safari Software Ltd., Vision|No Rating|Disk|Joystick|DOS
+ShadowCaster|NOID|No CRC|x|0|1993|Adventure , Action|region-unknown|ORIGIN Systems, Inc.|Raven Software Corporation|No Rating|Disk|Mouse|DOS
+Sid Meier's Civilization|NOID|No CRC|x|0|1991|Strategy , Historical|region-unknown|MicroProse Software, Inc|MPS Labs|No Rating|Disks|Mouse|DOS
+Sid Meier's Colonization|NOID|No CRC|x|0|1994|Strategy , Turnbased|region-unknown|MicroProse Ltd.|MicroProse Software, Inc.|No Rating|Disk|Mouse|DOS
+Silverball|NOID|No CRC|x|0|1993|Pinball|region-unknown|MicroLeague Multimedia, Inc.|Digital Extremes|No Rating|Disk|Keyboard|DOS
+Simcity|NOID|No CRC|x|0|1989|Strategy , Isometric|USA|Brøderbund Software, Inc.|Maxis Software Inc.|No Rating|Diskette|Mouse|DOS
+SimCity 2000|NOID|No CRC|x|0|1993|Strategy , Isometric|USA|Maxis Software Inc.|Maxis Software Inc.|No Rating|Diskette|Mouse|DOS
+SimCity 2000 Urban Renewal Kit|NOID|No CRC|x|0|1994|Strategy , Isometric|USA|Maxis Software Inc.|Maxis Software Inc.|No Rating|Diskette|Mouse|DOS
+Solar Winds Galaxy|NOID|No CRC|x|0|1993|Role Playing Game|region-unknown|Epic MegaGames, Inc.|Stone Interactive Media|No Rating|media-unknown|Joystick|DOS
+Solar Winds the Escape|NOID|No CRC|x|0|1993|Role Playing Game|region-unknown|Epic MegaGames, Inc.|Stone Interactive Media|No Rating|Disk|Joystick|DOS
+Space Hulk|NOID|No CRC|x|0|1993|Strategy , Top|region-unknown|Electronic Arts, Inc.|Electronic Arts, Inc.|No Rating|CD|Mouse|DOS
+Space Hulk Vengeance of the Blood Angels|NOID|No CRC|x|0|1995|Strategy , Top|region-unknown|Electronic Arts, Inc.|Key Game|No Rating|Disk|Mouse|DOS
+Space Quest 6 Roger Wilco in the Spinal Frontier|NOID|No CRC|x|0|1995|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|CD|Mouse|DOS
+Space Quest I VGA|NOID|No CRC|x|0|1991|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|cd|Mouse|DOS
+Space Quest II Chapter II Vohaul's Revenge|NOID|No CRC|x|0|1987|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|Diskette|Mouse|DOS
+Space Quest III the Pirates of Pestulon|NOID|No CRC|x|0|1989|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|Diskette|Mouse|DOS
+Space Quest IV Roger Wilco and the Time Rippers|NOID|No CRC|x|0|1991|Adventure , Graphic|USA|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|CD|Mouse|DOS
+Space Quest V the Next Mutation|NOID|No CRC|x|0|1993|Adventure , Graphic|USA|Sierra On-Line, Inc|Dynamix, Inc.|No Rating|Diskette|Mouse|DOS
+Spear of Destiny|NOID|No CRC|x|0|1992|Shooter , First|region-unknown|FormGen, Inc|iD Software, Inc.|No Rating|Disk|Mouse|DOS
+Spear of Destiny Mission Disks Mission 2 Return to Danger|NOID|No CRC|x|0|1994|Shooter , First|region-unknown|FormGen, Inc.|FormGen, Inc.|No Rating|Disk|Mouse|DOS
+Spear of Destiny Mission Disks Mission 3 Ultimate Challenge|NOID|No CRC|x|0|1994|Shooter , First|region-unknown|FormGen, Inc.|FormGen, Inc.|No Rating|Disk|Mouse|DOS
+Star Wars Dark Forces|NOID|No CRC|x|0|1995|Shooter , First|region-unknown|LucasArts Entertainment Company LLC|LucasArts Entertainment Company LLC|No Rating|Disk|Mouse|DOS
+Star Wars Tie Fighter|NOID|No CRC|x|0|1994|Simulation , Flight|region-unknown|LucasArts Entertainment Company LLC|LucasArts Entertainment Company LLC|No Rating|Disk|Mouse|DOS
+Star Wars X-Wing|NOID|No CRC|x|0|1994|Simulation , Flight|region-unknown|LucasArts Entertainment Company LLC|LucasArts Entertainment Company LLC|No Rating|Disk|Mouse|DOS
+Stargunner|NOID|No CRC|x|0|1996|Shooter , Vertical|region-unknown|Apogee Software, Ltd.|Apogee Software, Ltd.|No Rating|Disk|Joystick|DOS
+Strife|NOID|No CRC|x|0|1996|Shooter , First|region-unknown|Velocity, Inc.|Rogue Entertainment|No Rating|Disk|Mouse|DOS
+Strike Commander|NOID|No CRC|x|0|1993|Flight Simulator ,|region-unknown|Electronic Arts, Inc.|Origin Systems, Inc.|No Rating|Disk|Joystick|DOS
+Swords of Xeen|NOID|No CRC|x|0|1995|Role Playing Game|USA|New World Computing, Inc.|Catware, Inc.|No Rating|Disk|Mouse|DOS
+Syndicate Plus|NOID|No CRC|x|0|1994|Strategy , Realtime|USA|Bullfrog Productions, Ltd.|Bullfrog Productions, Ltd.|No Rating|CD|Mouse|DOS
+Syndicate Wars|NOID|No CRC|x|0|1996|Strategy , Realtime|USA|Electronic Arts, Inc.|Bullfrog Productions, Ltd.|No Rating|CD|Mouse|DOS
+Terminal Velocity|NOID|No CRC|x|0|1995|Action , Shooter|region-unknown|3D Realms Entertainment|Terminal Reality, Inc.|No Rating|Disks|Joystick|DOS
+The Elder Scrolls- Arena Deluxe CD|NOID|No CRC|x|0|1994|Role Playing Game|USA|Bethesda Softwares LLC|Bethesda Softwares LLC|No Rating|CD|Mouse|DOS
+The Elder Scrolls Daggerfall|NOID|No CRC|x|0|1996|Role Playing Game|USA|Bethesda Softworks LLC|Bethesda Softworks LLC|No Rating|CD|Mouse|DOS
+The Lemmings Chronicles|NOID|No CRC|x|0|1994|Strategy , Puzzle|region-unknown|DMA Design Limited|Psygnosis Limited|No Rating|CD|Mouse|DOS
+The Oregon Trail|NOID|No CRC|x|0|1990|Educational , Strategy|region-unknown|MECC|MECC|No Rating|Disk|Keyboard|DOS
+Theme Hospital|NOID|No CRC|x|0|1997|Strategy , Isometric|USA|Electronic Arts, Inc.|Bullfrog Productions, Ltd.|No Rating|CD|Mouse|DOS
+Theme Park|NOID|No CRC|x|0|1994|Simulation , Strategy|region-unknown|Electronic Arts, Inc|Bullfrog Productions, Ltd.|No Rating|CD|Mouse|DOS
+Tyrian|NOID|No CRC|x|0|1995|Shooter , Vertical|USA|Epic MegaGames, Inc.|Eclipse Software|No Rating|Disk|Joystick|DOS
+Ultima III- Exodus|NOID|No CRC|x|0|1985|Role Playing Game|region-unknown|Origin Systems, Inc.|Origin Systems, Inc.|No Rating|Disk|Keyboard|DOS
+Ultima IV Quest of the Avatar|NOID|No CRC|x|0|1985|Role Playing Game|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Keyboard|DOS
+Ultima Underworld II Labyrinth of Worlds|NOID|No CRC|x|0|1993|Role Playing Game|USA|ORIGIN Systems, Inc.|Looking Glass Technologies, Inc.|No Rating|Disk|Joystick|DOS
+Ultima Underworld the Stygian Abyss|NOID|No CRC|x|0|1992|Role Playing Game|USA|ORIGIN Systems, Inc.|Blue Sky Productions|No Rating|Disk|Mouse|DOS
+Ultima V Warriors of Destiny|NOID|No CRC|x|0|1988|Role Playing Game|USA|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Keyboard|DOS
+Ultima VI the False Prophet|NOID|No CRC|x|0|1990|Role Playing Game|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Keyboard|DOS
+Ultima VII Part Two Serpent Isle and the Silver Seed|NOID|No CRC|x|0|1993|Role Playing Game|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Ultima VII the Black Gate and Forge of Virtue|NOID|No CRC|x|0|1992|Role Playing Game|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Ultima VIII Pagan|NOID|No CRC|x|0|1994|Role Playing Game|USA|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Ultima Worlds of Adventure 2 Martian Dreams|NOID|No CRC|x|0|1991|Role Playing Game|USA|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Diskette|Keyboard|DOS
+Wacky Wheels|NOID|No CRC|x|0|1994|Racing|region-unknown|Apogee Software, Ltd., FormGen,|Beavis-Soft|No Rating|Disk|Joystick|DOS
+Warcraft II Tides of Darkness|NOID|No CRC|x|0|1995|Strategy , Realtime|region-unknown|Blizzard Entertainment Europe|Blizzard Entertainment Inc.|No Rating|Disk|Mouse|DOS
+WarCraft Orcs and Humans|NOID|No CRC|x|0|1994|Strategy , Realtime|USA|Interplay Productions Ltd.|Blizzard Entertainment Inc.|No Rating|CD|Mouse|DOS
+Where in America's Past is Carmen Sandiego?|NOID|No CRC|x|0|1991|Educational , Puzzle|USA|Br0derbund Software, Inc.|Br0derbund Software, Inc.|No Rating|Disk|Mouse|DOS
+Where in Europe is Carmen Sandiego?|NOID|No CRC|x|0|1988|Strategy , Puzzle|USA|Br0derbund Software, Inc.|Br0derbund Software, Inc.|No Rating|Disks|Mouse|DOS
+Where in Space is Carmen Sandiego?|NOID|No CRC|x|0|1993|Educational , Puzzle|USA|Brøderbund Software, Inc.|Brøderbund Software, Inc.|No Rating|Disk|Mouse|DOS
+Where in the USA Carmen Sandiego?|NOID|No CRC|x|0|1986|Educational , Puzzle|USA|Br0derbund Software, Inc|Br0derbund Software, Inc|No Rating|Disk|Mouse|DOS
+Where in the World is Carmen Sandiego?|NOID|No CRC|x|0|1985|Educational , Puzzle|USA|Br0derbund Software, Inc.|Br0derbund Software, Inc.|No Rating|Disk|Mouse|DOS
+Where in Time is Carmen Sandiego?|NOID|No CRC|x|0|1990|Educational , Puzzle|USA|Brøderbund Software, Inc.|Brøderbund Software, Inc.|No Rating|Disk|Mouse|DOS
+Wing Commander 3 Heart of the Tiger|NOID|No CRC|x|0|1994|Simulation , Flight|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|CD|Mouse|DOS
+Wing Commander Academy|NOID|No CRC|x|0|1993|Simulation , Flight|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Wing Commander Armada|NOID|No CRC|x|0|1994|Simulation , Flight|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Wing Commander II Deluxe Edition|NOID|No CRC|x|0|1992|Simulation , Flight|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Wing Commander Deluxe Edition|NOID|No CRC|x|0|1992|Simulation , Flight|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Mouse|DOS
+Wing Commander Privateer|NOID|No CRC|x|0|1993|Simulation , Action|region-unknown|Electronic Arts, Inc.|Origin Systems, Inc|No Rating|Disk|Mouse|DOS
+Wing Commander Privateer Righteous Fire|NOID|No CRC|x|0|1994|Simulation , Action|region-unknown|No Publisher|dev-unknown|No Rating|Disk|Mouse|DOS
+Word Rescue 1|NOID|No CRC|x|0|1992|Educational , Platformer|USA|FormGen, Inc.|Redwood Games|No Rating|Disk|Joystick|DOS
+Word Rescue 2|NOID|No CRC|x|0|1992|Educational , Platformer|USA|FormGen, Inc.|Redwood Games|No Rating|Disk|Joystick|DOS
+Word Rescue 3|NOID|No CRC|x|0|1992|Educational , Platformer|USA|FormGen, Inc.|Redwood Games|No Rating|Disk|Joystick|DOS
+Worlds of Ultima the Savage Empire|NOID|No CRC|x|0|1990|Role Playing Game|region-unknown|ORIGIN Systems, Inc.|ORIGIN Systems, Inc.|No Rating|Disk|Keyboard|DOS
+Worms|NOID|No CRC|x|0|1995|Strategy , Turnbased|region-unknown|Ocean Software Ltd.|Team17 Software Limited|No Rating|Disk|Mouse|DOS
+Worms Plus|NOID|No CRC|x|0|1996|Strategy|USA|Ocean Software Ltd.|Team17 Software Limited|No Rating|Disk|Mouse|DOS
+Worms Reinforcements|NOID|No CRC|x|0|1995|Strategy|region-unknown|Ocean Software Ltd.|Team17 Software Limited|No Rating|Disk|Mouse|DOS
+WWF in Your House|NOID|No CRC|x|0|1996|Sports , Wrestling|region-unknown|Acclaim Entertainment, Inc.|Sculptured Software, Inc.|No Rating|media-unknown|Joystick|DOS
+WWF WrestleMania the Arcade Game|NOID|No CRC|x|0|1995|Sports , Wrestling|region-unknown|Acclaim Entertainment, Inc.|Sculptured Software, Inc.|No Rating|Disk|Joystick|DOS
+X-COM Apocalypse|NOID|No CRC|x|0|1997|Strategy , Turnbased|USA|MicroProse Software, Inc.|Mythos Games Ltd.|No Rating|CD|Keyboard|DOS
+X-Com UFO Defense|NOID|No CRC|x|0|1994|Strategy , Turnbased|USA|MicroProse Software, Inc.|MicroProse Software, Inc., Mythos|No Rating|Disk|Mouse|DOS
+X-COM Terror from the Deep|NOID|No CRC|x|0|1995|Strategy , Turnbased|USA|MicroProse Software, Inc.|MicroProse Ltd.|No Rating|Disk|Mouse|DOS
+Xargon I Beyond Reality|NOID|No CRC|x|0|1993|Platformer , Adventure|region-unknown|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Disk|Joystick|DOS
+Xargon II the Secret Chamber|NOID|No CRC|x|0|1993|Platformer , Adventure|region-unknown|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Stick|Joystick|DOS
+Xargon III Xargon's Fury|NOID|No CRC|x|0|1993|Platformer , Adventure|region-unknown|Epic MegaGames, Inc.|Epic MegaGames, Inc.|No Rating|Disk|Joystick|DOS
+Xenophage Alien Bloodsport|NOID|No CRC|x|0|1995|VS Fighter|region-unknown|Apogee Software, Ltd.|Argo Games|No Rating|Disk|Joystick|DOS
+Zone 66|NOID|No CRC|x|0|1993|Shooter , Multi-Directional|region-unknown|Epic MegaGames, Inc.|Renaissance|No Rating|Disk|Joystick|DOS

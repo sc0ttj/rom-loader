@@ -1,0 +1,5 @@
+Bentley Bear is trapped in the Crystal Castles! To get out, he will need to collect all of the gems located throughout the castle. The game is played with an isometric view of the multi platformed castle. When Bentley collects all of the gems on the current castle, he will move on to the next, more difficult castle. Wandering throughout the castles are a wide variety of dangerous creatures, which Bentley should avoid. From time to time, a magic hat will appear. If Bentley collects the hat, he will temporarily be invincible to the castles inhabitants. 
+
+Trivia:
+
+In a rather strange marketing move, US Gold made the Spectrum version 'Limited Edition', not pressing any more copies after the initial run. Stranger still, they later reissued the game on budget, and on a magazine cover-tape later still. The conversion was some time after the other formats, and not perceived as being of a high quality, so perhaps they wanted to limit the damage to their reputation.

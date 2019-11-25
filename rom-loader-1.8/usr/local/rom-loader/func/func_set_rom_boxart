@@ -1,0 +1,13 @@
+#!/bin/sh
+
+# this func is called when we click on a rom, it will replcae the old box art image with the new one
+
+set_rom_boxart(){
+	#now we replace the symlink the pa* guis use to show images
+	if [ -f "$IMG_FILE" ];then
+		rm /root/.paloader/tmp/boxart.jpg
+		ln -s "$IMG_FILE" /root/.paloader/tmp/boxart.jpg
+		#for parecent , it reads the file to locate boxart
+		echo "$IMG_FILE" > /tmp/paloader/IMG_FILE
+	fi
+}

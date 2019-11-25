@@ -1,0 +1,40 @@
+# video plugin combobox
+VIDEO_ARRAY=("ricevideo" "glN64" "glide64" "glide64_mupen" "glide64_wonder" "dummyvideo")
+VIDEO_ITEMS="<item>$VIDEO</item>" #stored value should be first in list
+for i in "${VIDEO_ARRAY[@]}"
+do
+	if [ -f /usr/local/mupen64plus-1.5/plugins/$i.so ] && [ "$i" != "$VIDEO" ];then
+		VIDEO_ITEMS=`echo "$VIDEO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# sound  plugin combobox
+SOUND_ARRAY=("jttl_audio" "dummyaudio")
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ -f /usr/local/mupen64plus-1.5/plugins/$i.so ] && [ "$i" != "$SOUND" ];then
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+# input  plugin combobox
+INPUT_ARRAY=("blight_input" "mupen64_input")
+INPUT_ITEMS="<item>$INPUT</item>" #stored value should be first in list
+for i in "${INPUT_ARRAY[@]}"
+do
+	if [ -f /usr/local/mupen64plus-1.5/plugins/$i.so ] && [ "$i" != "$INPUT" ];then
+		INPUT_ITEMS=`echo "$INPUT_ITEMS<item>$i</item>"`
+	fi
+done
+
+# EMUMODE  plugin combobox
+EMUMODE_ARRAY=("Interpreter" "DynaRec" "Pure-Interpreter")
+EMUMODE_ITEMS="<item>$EMUMODE</item>" #stored value should be first in list
+for i in "${EMUMODE_ARRAY[@]}"
+do
+	if [ "$i" != "$EMUMODE" ];then
+		EMUMODE_ITEMS=`echo "$EMUMODE_ITEMS<item>$i</item>"`
+	fi
+done
+

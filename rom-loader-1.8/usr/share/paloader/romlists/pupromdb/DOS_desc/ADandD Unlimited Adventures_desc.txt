@@ -1,0 +1,16 @@
+For those who enjoyed the role-playing games from SSI's AD&D Gold Box series, Unlimited Adventures allows players to create their own similar games. (It is also required to play games created with it.) It was designed to create fantasy games, especially those set in the Forgotten Realms world. 
+
+For those uninitiated: in Gold Box games, the player typically controls a party of adventurers, leading them through cities and dungeons (presented in first person view), talking to people, finding treasure, buying things in shops, etc. and fighting combats. When combat begins, the screen switches to a top-down perspective where the player can control each of his party members while they fight the opponent. This is also how games created with UA look. 
+
+The basic elements of each UA-created game (called "design") are its "modules", that is, the "levels" that the player will be travelling through. The designer builds the modules by arranging walls and choosing floors & ceilings, and then comes the most important part - setting up the events. The events control everything interesting that happens in the game: combats, text messages, NPC joining the party/leaving it, the party visiting a temple/shop/tavern etc. 
+
+Art is an important aspect of any game. UA comes with a lot of art, depicting various monsters, characters, items etc. but it is possible to import your own art. 
+
+The designer can also edit the monsters. There are a lot of monsters (such as goblins, dragons or zombies) and humanoid enemies (brigands, bandits, evil mages etc.) and characters provided by default, but the designer can change their name, appearance and attributes. 
+
+Trivia:
+
+According to the associate producer James Young, Unlimited Adventures doesn't allow its users to edit spells or items for the following reasons: 
+"Again this has to do with our license agreements with TSR as these items, spells are essentially owned by TSR. We were lucky that they allowed us to edit monsters (or did we get away with it:>). Also by allowing users to edit spells and items would have created an immense headache for the programmers." 
+
+http://www.mobygames.com/game/unlimited-adventures

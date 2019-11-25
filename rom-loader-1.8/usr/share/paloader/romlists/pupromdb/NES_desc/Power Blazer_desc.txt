@@ -1,0 +1,3 @@
+This is a complete translation patch for the NES platformer/Megaman clone Power Blazer.
+
+http://www.romhacking.net/trans/1402/

@@ -1,0 +1,5 @@
+This hombrew was created by a guy named Paul Lee who has been referenced on several sites involving romhacking.  His homepage is no longer active.
+
+This is a port of Berzerk that features sound and digital speech.
+
+~Rx

@@ -1,0 +1,5 @@
+The Living Daylights is a side-scrolling action game which features eight levels of gameplay, centered around the Timothy Dalton movie of the same name. Beginning with a "training" mission in Gibraltar, Bond then assists General Koskov's defection to the West, rescues a Bond girl, fights off henchmen, and takes on an evil weapons dealer.
+
+Bond can run, duck, jump and use weapons created by Q (including the Ghetto Blaster) and take out enemies with his trusted Walther PPK. 
+
+http://www.mobygames.com/game/atari-8-bit/living-daylights

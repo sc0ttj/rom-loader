@@ -1,0 +1,19 @@
+The first 'Final Fantasy' title on the Game Boy, Legend allows you to choose from 8 different characters, from the usual human male or female to zombie, wererat, redbull (not the drink), clipper or mutant male or female. No matter which you choose, the goal stays the same: Increase your experience points and abilities by defeating many varied enemies through-out the land.
+
+Much like the FF series of old (and new), you can choose members to join your party and the quest that lies ahead (either warriors, mutants or creatures). Every character has a limit to the amount of moves available during every battle and experience points are gained after each fight, increasing stamina, power, etc.
+
+http://www.mobygames.com/game/final-fantasy-legend
+- ESP works like monster Shell and non-magic shields.
+
+- King Shield now gives OAll and 50% evade rather than the mixed up OIce, OStone, OPara, and 255% evade. (The bytes were swapped.)
+
+- Optionally, Glass Sword when found comes with 1 use as it was intended rather than 50.
+
+http://www.romhacking.net/hacks/327/
+This is my first released hack, a hack of Final Fantasy Legend.
+
+I always hated that title, since it's a SaGa game and not a Final Fantasy game, so I changed the title screen to the Japanese name Makaitoushi SaGa.
+
+I started this hack one day about a year ago but then stopped and didn't touch it until about a month ago. Then I finished it. So if you're like me and you love FFL but hate the title, give this hack a spin! :D
+
+http://www.romhacking.net/hacks/234/

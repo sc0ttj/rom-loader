@@ -1,0 +1,8 @@
+SIDE A
+000-106 = Savage Pond
+106-215 = Up, Up and Away
+215-409 = Cloak of Death
+
+SIDE B
+000-105 = Leaper
+105-463 = Quest for Eternity

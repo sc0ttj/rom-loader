@@ -1,0 +1,75 @@
+Description
+
+Since time began, Turok has maintained the balance between good and evil with the Light Burden. A vessel that holds the power of creation. Now, fierce wars are fought for control. You must prove yourself worthy to wield the Light Burden. You must relive the challenge of your ancestors and survive the RAGE WARS! Featuring brutal heart-pounding deathmatches, lethal weapons with unimaginable power, and 8 savage game modes, including co-op mission-based gameplay, Team Bloodlust, Frag Tag and more!
+
+Plot
+
+The Lost Land is an unholy world, born from the death of the universe; a strange world where "time has no meaning". If the Lost Land falls, all the universe falls. Since the dawn of time, the Turok have maintained the balance between good and evil, order and chaos. The Turok control The Light Burden, a sacred vessel that holds the last remnants of the pure energy source that created The Lost Land. Whoever controls The Light Burden controls the power of creation. Fierce Battles waged in an effort to wrestle control of The Light Burden from the line of Turok, and thus conquer the Lost Land. A number of fierce warriors have been selected to participate to fight and win the Rage Wars...
+
+
+Characters
+
+    * Joshua Fireseed: The current Turok (Turok in Turok 2)
+    * Adon: The speaker for The Council of Voices, she fights to protect them. (Turok 2).
+    * Elite Guard: One of the Primagen's henchmen. (Turok 2).
+    * Campaigner: Badly damaged from the battle with Tal'Set in Turok: Dinosaur Hunter he has cybernetic implants. He seeks vengeance.(Turok: Dinosaur Hunter).
+    * Fireborn: A fiery mutation of a dinosoid; also henchmen of the Primagen (Turok 2).
+    * Lord Of The Dead: Zombie-like creature. The last of his race. (Turok 2).
+    * Mantid Drone: An insect-like creature that served both The Campaigner and The Primagen. (Turok 2).
+    * Mantid Soldier: Stronger insects in the Mantid army (Turok 2).
+    * Blind One Guardian: A creature that has no eyesight, but compensates with extraordinary senses of smell and hearing. (Turok 2).
+    * Oblivion Spawn: A servant of Oblivion. (Turok 2).
+    * Juggernaut: A cybernetically enhanced Pur-Lin (a reptilian/ape-like creature). (Turok 2).
+    * Raptor - Based on the Velociraptor (Turok 2). Unable to use weapons, but may use claws.
+    * Mites: Small Mantid hatchlings (Turok 2). Unable to use weapons, but may use claws or spit acid.
+
+Boss characters
+
+(These characters are bosses in single-player mode, but can be earned.)
+
+    * Bastille: A former soldier in The Lost Land. Wants to kill Turok to get back into the military.
+    * Syra: A bounty hunter paid to kill Turok.
+    * Symbiont: An alien, arachnid, parasitic species. As a boss, the player must face three of them at once, but only one of them is the real Symbiont boss that must be killed.
+    * Tal'Set - The final boss that shares his name with the original Turok. Their connection is unclear.
+
+Secret characters
+
+(These characters can be unlocked by beating the game and not die at all.)
+
+    * The Primagen: The alien that got killed by Turok, and now he wants to get his army back and kill him.
+    * Longhunter: A former soldier of The Campaigner. He wants to Kill Tal'Set for his lose.
+    * War Club: Another Pur'lin but he helps Syra kill her bounties.
+
+
+Gameplay
+
+    * Single-Player Trials Mode - This mode begins with Joshua Fireseed, Adon, and Bio Bot Elite as the only playable characters. Through single player mode, one can unlock other characters. In the Single-Player Campaign, the player must go through a number of death matches through the various game mode types, and must face all four game bosses as well. Each character in the game must be played to the end of their campaign at least once to unlock other characters and rewards, including Talismans, and an increase in maximum health.
+    * Two-Player Trials Mode - Similar to the Single-Player Campaign except two players work together through various game types to gain rewards. Some rewards can only be gained in the Two-Player Campaign. (Note: The Two-Player trials mode was affected by a glitch in early copies of the Nintendo 64 game, which prevented progressing past a certain point.)
+    * Multiplayer - In this mode the player can choose their character and choose what level to play. The player can choose their weapons and configure their own options for gameplay. (Frag Limits, Time Limits, Bots, etc.) The player starts with Turok, Adon, Bio Bot Elite, and Mantid Drone as the first playable characters. More characters can be unlocked by playing through 1 Player Trials.
+
+Game Types
+
+    * Bloodlust - Standard free-for-all deathmatch that can house two to four players.
+    * Team Bloodlust - Players and bots could team up with one another in a deathmatch. Up to four teams can be made, although these teams would contain only one player.
+    * Capture the Flag - At any given time there is only one flag per map. The object of this game is to find the flag a bring it back to your base, scoring a point. At this point, another flag appears in a randomly generated part of the map.
+    * Frag Tag - Similar to Turok 2, in this game a random player is transformed into a monkey. Points are scored for other players by fragging the monkey. It is possible to temporarily turn the other players into monkeys if you are the original.
+
+Weapons
+
+The available weapons in the game are divided into three ammo types - bullet rounds, energy rounds, and explosive rounds. A player may only carry six pre-selected weapons in the game - a melee weapon (standard for all), two bullet weapons, two energy weapons, and one explosive weapon. All these weapons have a primary and secondary function. Additionally, there are four pick-up weapons that appear throughout the game. If the player unlocks Tal'Set, they are not limited to carrying six weapons. Tal'Set has access to every weapon in the game at once.
+[edit] Power Core
+
+A Power Core, or Power Pill, is glowing pink-and-blue crystalline item floating in a set location of an arena map. Most maps have one, while some have two. They are somewhat similar to the "Power Ups" in Quake III Arena in that they give any player who picks one up, temporary powers that make them more dangerous. These powers are randomly selected. When one is picked up, a lightning bolt is displayed in a lower corner of the player's screen. Each Power Core lasts approximately 15 to 20 seconds. An in-game glitch exists if the player has the "Infinite Ammo" cheat activated and is armed with the minigun. Once the Power Core is obtained, if the player presses and holds down the secondary fire energy shield and keeps it held down constantly, they can retain whichever Power Core they have indefinitely.
+[edit] Medals
+
+There are 50 medals in the game that can be earned. These are needed to unlock some cheats and character skins. Medal rewards range from defeating bosses, to medals awarded for suicides. On the Nintendo 64 version, one of the medals is impossible to achieve in early (black-cartridge) copies of the game, due to a Two-Player Trials glitch in the "Creature Tag" levels.
+
+
+
+
+
+
+
+
+http://en.wikipedia.org/wiki/Turok:_Rage_Wars
+http://www.gamefaqs.com/n64/199132-turok-rage-wars

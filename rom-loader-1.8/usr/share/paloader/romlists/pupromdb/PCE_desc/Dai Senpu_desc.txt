@@ -1,0 +1,3 @@
+Vertically scrolling shoot 'em up, graphically reminiscent of Raiden, with a World War II setting. You set out over various enemy landscapes destroying planes, tanks and boats. Power-ups give you increased weapon damage and you also have a special weapon in the form of a squadron of fighters that comes to your aid.
+
+http://www.pcengine.co.uk/HTML_Games/Daisenpu.htm

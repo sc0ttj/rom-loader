@@ -1,0 +1,3 @@
+Block Hole is something special in the Zemina library. Released in 1990, they were practically racing Konami for the port of their Tetris-Shooter Quarth. However, while Konami long since had switched to the MSX2, Zemina's bet was on the first revision of the computer. Naturally, graphics and sound are vastly superior in the official port, and the controls are more responsive, but the Zemina version was not without merits. It featured an additional 2 Player mode, where both players could disturb each other by decreasing the size of the opponent's playing field. The gameplay itself is similar, although on the MSX1, it is not uncommon to lose because of the worse controls.
+
+http://www.hardcoregaming101.net/korea/part1/company-zemina.htm

@@ -1,0 +1,30 @@
+The year is 2142. You play as Conrad B. Hart, a man who has lost his memory. After barely escaping from hostile aliens, Conrad's bike crashes on an unknown planet. Conrad finds himself in the jungle, and from now on his quest for survival and his lost identity begins.
+
+"Flashback" is a platform action adventure. You navigate Conrad over the platforms, performing various moves. You can simply jump or do a longer run-and-jump, run, climb, hang off ledges, and pick up objects lying on the ground. To defend yourself, you shoot enemies with your gun and also use various objects (such as stones) to harm or to distract them.
+ 
+http://www.mobygames.com/game/amiga/flashback-the-quest-for-identity
+_________________________
+CHEATS:
+
+Walk up to a door you wish to pass and turn around so your back is to
+the door.  Hold down the fire button and tap the joystick in the
+opposite direction to the door.  Then push the joystick towards the
+door and release the fire button.  (THIS IS TRICKY)
+
+                         (FRENCH LEVEL CODES)
+
+                   1      2      3      4      5      6      7
+     EASY:      "BACK" "LOUP" "CINE" "GOOD" "SPIZ" "BIOS" "HALL"
+     NORMAL:    "PLAY" "TOIT" "ZAPP" "LYNX" "SCSI" "GARY" "PONT"
+     DIFFICULT: "CLOP" "CARA" "CALE" "FONT" "HASH" "FIBO" "TIPS"
+
+                     (ENGLISH/GERMAN LEVEL CODES)
+
+                   1      2      3      4      5      6      7
+     EASY:      "WIND" "SPIN" "KAVA" "HIRO" "TEST" "GOLD" "WALL"
+     NORMAL:    "FIRE" "BURN" "EGGS" "GURT" "CHIP" "TREE" "BOLD"
+     DIFFICULT: "MINE" "YOUR" "LINE" "NEST" "LISA" "MARY" "MICE"
+
+Note that some cracked versions of Flashback were created by
+translating the French version into English so the French level codes
+may work if you are using a cracked version!

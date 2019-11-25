@@ -1,0 +1,780 @@
+#!/bin/sh
+
+# enable joypad rom browsing
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/paprboomrc
+# set some vars as defaults
+export FULLSCREENGUI=''
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.wad$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_doom' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "PAprboom $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: paprboom [OPTION]
+
+Options
+  -rom	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	FILE2="" #prboom wad file (required)
+	FILE3="None" #DEH/BEX (optional)
+	COMBO1=true
+	COMBO2=false
+	COMBO3=false
+	COMBO4=false
+	COMBO5=false
+	COMBO6=false
+	COMBO7=false
+	COMBO8=false
+	WARP1=false
+	WORD2=""
+	DIFF1=""
+	VID1="800x600"
+	MON1=false
+	RE1=false
+	F1=false
+	FULL1=true
+	WIN1=false
+	MU1=false
+	NM1=false
+	NS1=false
+	MG1=false
+	DJ1=false
+	MBF1="No!"
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAprboom config file' > $CONFIG
+	echo DIR="\"$DIR\"" >> $CONFIG
+	echo FILE2="\"$FILE2\"" >> $CONFIG #prboom wad file (required)
+	echo FILE3="\"$FILE3\"" >> $CONFIG #DEH/BEX (optional)
+	echo COMBO1="$COMBO1" >> $CONFIG
+	echo COMBO2="$COMBO2" >> $CONFIG
+	echo COMBO3="$COMBO3" >> $CONFIG
+	echo COMBO4="$COMBO4" >> $CONFIG
+	echo COMBO5="$COMBO5" >> $CONFIG
+	echo COMBO6="$COMBO6" >> $CONFIG
+	echo COMBO7="$COMBO7" >> $CONFIG
+	echo COMBO8="$COMBO8" >> $CONFIG
+	echo WARP1="$WARP1" >> $CONFIG
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+	echo WORD2="\"$WORD2\"" >> $CONFIG
+	echo DIFF1="$DIFF1" >> $CONFIG
+	echo VID1="$VID1" >> $CONFIG
+	echo MON1=$MON1 >> $CONFIG
+	echo RE1=$RE1 >> $CONFIG
+	echo F1=$F1 >> $CONFIG
+	echo FULL1=$FULL1 >> $CONFIG
+	echo WIN1=$WIN1 >> $CONFIG
+	echo MU1=$MU1 >> $CONFIG
+	echo NM1=$NM1 >> $CONFIG
+	echo NS1=$NS1 >> $CONFIG
+	echo MG1=$MG1 >> $CONFIG
+	echo DJ1=$DJ1 >> $CONFIG
+	echo MBF1="\"$MBF1\"" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	#combodogbox.  Temporary setting to invite the marine's best friend aka a dog. Up to 3.
+	if [ "$MBF1" = "No!" ];then
+	  C=""
+	elif [ "$MBF1" = "Sure Pup" ];then
+	  C="-dogs 1 " 
+	elif [ "$MBF1" = "Bring a friend" ];then
+	  C="-dogs 2 " 
+	elif [ "$MBF1" = "Three's a crowd" ];then
+	  C="-dogs 3 " 
+	else
+	  C=""
+	fi 
+
+	# add WORD1
+	C="$C $WORD1"
+
+	#disable joy
+	#by default this is off, but if your prboom settings echo joy on then you should be able to 
+	#shut it.
+	if [[ $DJ1 = "true" ]];then
+	  C="$C -nojoy "
+	else
+	  C="$C"
+	fi
+
+	#disable mousegrab
+	if [[ $MG1 = "true" ]];then
+	  C="$C -nomouse "
+	else
+	  C="$C"
+	fi
+
+	#Videomodes selection.  By being set to null at the bottom it doesn't register.
+	#used by the author chiefly.
+	if [ "$VID1" = "Default" ];then
+	  C="$C"
+	elif [ "$VID1" = "320X200" ];then
+	  C="$C -width 320 -height 200 "
+	elif [ "$VID1" = "320X240" ];then
+	  C="$C -width 320 -height 240 "
+	elif [ "$VID1" = "512x384" ];then
+	  C="$C -width 512 -height 384 " 
+	elif [ "$VID1" = "640x400" ];then
+	  C="$C -width 640 -height 400 " 
+	elif [ "$VID1" = "640x480" ];then
+	  C="$C -width 640 -height 480 " 
+	elif [ "$VID1" = "800x600" ];then
+	  C="$C -width 800 -height 600 "  
+	elif [ "$VID1" = "960x600" ];then
+	  C="$C -width 960 -height 600 "  
+	elif [ "$VID1" = "960x720" ];then
+	  C="$C -width 960 -height 720 "  
+	elif [ "$VID1" = "1024x600" ];then
+	  C="$C -width 1024 -height 600 " 
+	elif [ "$VID1" = "1024x768" ];then
+	  C="$C -width 1024 -height 768 " 
+	elif [ "$VID1" = "1280x800" ];then
+	  C="$C -width 1280 -height 800 " 
+	elif [ "$VID1" = "1280x960" ];then
+	  C="$C -width 1280 -height 960 "   
+	else
+	  C="$C"
+	fi       
+
+	#No Music-sound server is running
+	if [[ $NM1 = "true" ]];then
+	  C="$C -nomusic "
+	else
+	  C="$C"
+	fi
+
+	#Mute. NOTE this kills the soundserver and may improve performance
+	if [[ $MU1 = "true" ]];then
+	  C="$C -nosound "
+	  else
+	  C="$C"
+	fi
+
+	#No Sound Effects-sound server is running
+	if [[ $NS1 = "true" ]];then
+	  C="$C"
+	  #NS1=" -nosfx "  # wrong option, just use mute
+	else
+	  C="$C"
+	fi
+
+	#Make it a window. Not permanent.
+	if [[ $WIN1 = "true" ]];then
+	  C="$C -window "
+	  #MG1=" -nomouse "
+	else
+	  C="$C"
+	fi
+
+	#I can't see why anyone would use a window and a mousegrab so uncomment #MG1=" -nomouse" 
+	#if you wish to overridev prboom behaviour on its defaults.
+	if [[ $FULL1 = "true" ]];then
+	  C="$C -nowindow "
+	  else
+	  C="$C"
+	fi
+
+	#checkbox variable of Monsters. I kept original behavior. Nomonsters does cancel the others.
+	#It can also be used with new games as well as warped ones. Doesn't affect a loaded one though. 
+	if [[ $MON1 = "true" ]];then
+	  C="$C -nomonsters "
+	else
+	  C="$C"
+	fi
+
+	#test checkbox for respawn
+	if [[ $RE1 = "true" ]];then
+	  C="$C -respawn "
+	else
+	  C="$C"
+	fi
+
+	#Fast Monsters
+	if [[ $F1 = "true" ]];then
+	  C="$C -fast "
+	else
+	  C="$C"
+	fi
+
+	if [ "$COMBO1" = "true" ];then
+	  LEVEL=" -loadgame 0 "
+	elif "$COMBO1" = "false" ];then
+	  LEVEL=""
+	elif "$COMBO2" = "true" ];then
+	  LEVEL=" -loadgame 1 "
+	elif "$COMBO2" = "false" ];then
+	  LEVEL=""
+	elif "$COMBO3" = "true" ];then
+	  LEVEL=" -loadgame 2 "
+	elif "$COMBO3" = "false" ];then
+	  LEVEL=""
+	elif "$COMBO4" = "true" ];then
+	  LEVEL=" -loadgame 3 "
+	elif "$COMBO4" = "false" ];then
+	  LEVEL=""
+	elif "$COMBO5" = "true" ];then
+	  LEVEL=" -loadgame 4 "
+	elif "$COMBO5" = "false" ];then
+	  LEVEL=""
+	elif "$COMBO6" = "true" ];then
+	  LEVEL=" -loadgame 5 "
+	elif "$COMBO6" = "false" ];then
+	  LEVEL=""
+	elif "$COMBO7" = "true" ];then
+	  LEVEL=" -loadgame 6 "  
+	elif "$COMBO7" = "false" ];then
+	  LEVEL=""
+	elif "$COMBO8" = "true" ];then
+	  LEVEL=" -loadgame 7 "
+	else
+	  LEVEL=" "
+	fi 
+	# add the chosen value to the final command
+	C="$C $LEVEL"
+
+
+	#this is the original. Signifies only warping if box is checked and not null.
+	#this is an example of && being used at least. Update next version
+	if [[ "$WARP1" = "true" ]] && [[ "$WORD2" != "" ]];then
+	  WARP=" -warp $WORD2 " 
+	  elif [[ "$WARP1" = "true" ]] && [[ "$WORD2" = "" ]];then
+	  WARP=""
+	  DIFF=""
+	else
+	  WARP=""
+	  DIFF=""
+	fi 
+
+	#difficulty setting 1 through 5  this is dependent on WARP1. This breaks actual prboom standard.
+	#Instead of being a command that can be launched separate I included it with the warp to
+	#make sense.  It's the way I use it, but it can be easily undone.  Remove the DIFF above and
+	#add it to the variable line followed by changing the things immediately below to -skill #
+	if [ "$DIFF1" = "ITYTD" ];then
+	  C="$C -skill 1 "
+	elif [ "$DIFF1" = "NotTooRough" ];then
+	  C="$C -skill 2 " 
+	elif [ "$DIFF1" = "HurtMePlenty" ];then
+	  C="$C -skill 3 " 
+	elif [ "$DIFF1" = "UltraViolent" ];then
+	  C="$C -skill 4 " 
+	elif [ "$DIFF1" = "Nightmare" ];then
+	  C="$C -skill 5 " 
+	else
+	  C="$C"
+	fi 
+
+	# add the chosen options to the final command
+	C="$C $WARP"
+	
+	# add deh, if exists
+	[ -e "$FILE3" ] && DEH="-deh \"$FILE3\""
+
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile doom &>/dev/null
+	rejoystick2cc --load --profile doom &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+	
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	echo "$DOOM_BACKEND $C -iwad \"$DIR$CHOOSER\" -file \"$FILE2\" $DEH"  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${DOOM_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+# check for bios file
+# download prboom wad file
+#if [ ! -e "/usr/lib/games/doom/prboom.wad" ];then
+#	get_bios_prboom
+#	FILE2="/usr/lib/games/doom/prboom.wad"
+#else
+	export FILE2="/usr/lib/games/doom/prboom.wad"
+#fi
+
+#build gui
+export S='
+<window title="Puppy Arcade - DOOM loader ('$DOOM_BACKEND')" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+
+	<vbox>
+	
+		<frame>
+		<text height-request="5"><label>""</label></text> 
+
+			<notebook labels="General|Game Options|Video/Sound|Misc.">
+				<vbox>
+					<frame Select your PWAD (example: prboom.wad)>
+					<hbox>
+						  <entry editable="true" accept="filename">
+							<variable>FILE2</variable>
+							<default>"'$FILE2'"</default>'
+							[ ! -e "$FILE2" ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'<label>Choose your modification file(s)</label>
+						  </entry>
+						  <button tooltip-text="Add-on game files">
+							<variable>FILE_BROWSE_FILENAME</variable>
+							<visible>enabled</visible>
+							<input file stock="gtk-open"></input>
+							<action type="enable">enable:FILE2</action>
+							<action type="fileselect">FILE2</action>
+						  </button>
+					</hbox>
+					</frame>
+
+					<frame Select your DEH/BEX (optional)>
+					<hbox>
+						  <entry editable="true" accept="filename">
+							<variable>FILE3</variable>
+							<default>"'$FILE3'"</default>
+							<label>Select your further modification(s)</label>'
+							[ ! -e "$FILE3" ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'</entry>
+						  <button tooltip-text="More modifications">
+							<input file stock="gtk-open"></input>
+							<variable>FILE_BROWSE_FILENAME</variable>
+							 <visible>enabled</visible>
+							<action type="enable">enable:FILE3</action>
+							<action type="fileselect">FILE3</action>
+						  </button>
+					</hbox>
+					</frame>
+
+					<frame Custom Tags: example: -nomouse (optional)>
+					<hbox>
+					  	<entry editable="true">
+							<default>"'$WORD1'"</default>
+							<variable>WORD1</variable>
+						</entry>
+						<button tooltip-text="Clear entry box">
+							<input file icon="gtk-clear"></input>       
+							<action type="clear">WORD1</action>
+							<label>Clear</label>
+						</button>
+					  </hbox>
+					 </frame> 
+					</vbox>
+
+					<vbox>
+					<text><label>""</label></text>
+					<frame Load Game(overrides all)>
+
+
+					<vbox>
+					<hbox>
+					 <radiobutton>
+					 <label>None</label>
+					 <action>if true disable:LEVEL1</action>
+					 </radiobutton>
+						  <radiobutton>
+						  <label>1</label>
+						  <variable>COMBO1</variable>
+						  <default>"'$COMBO1'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+						  <radiobutton>
+						  <label>2</label>
+						  <variable>COMBO2</variable>
+						  <default>"'$COMBO2'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+						  <radiobutton>
+						  <label>3</label>
+						  <variable>COMBO3</variable>
+						  <default>"'$COMBO3'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+						  <radiobutton>
+						  <label>4</label>
+						  <variable>COMBO4</variable>
+						  <default>"'$COMBO4'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+						  <radiobutton>
+						  <label>5</label>
+						  <variable>COMBO5</variable>
+						  <default>"'$COMBO5'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+						  <radiobutton>
+						  <label>6</label>
+						  <variable>COMBO6</variable>
+						  <default>"'$COMBO6'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+						  <radiobutton>
+						  <label>7</label>
+						  <variable>COMBO7</variable>
+						  <default>"'$COMBO7'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+						  <radiobutton>
+						  <label>8</label>
+						  <variable>COMBO8</variable>
+						  <default>"'$COMBO8'"</default>
+						  <action>if true enable:LEVEL1</action>
+						  </radiobutton>
+					</hbox>
+					<hbox>
+					<frame Warp>
+						 <checkbox>
+						  <label>Use Warp? (Dont check unless sure)</label>
+						  <variable>WARP1</variable>
+						  <default>"'$WARP1'"</default>
+						  <action>if true enable:WORD2</action>
+						  <action>if false disable:WORD2</action>
+						  <action>if true enable:DIFF1</action>
+						  <action>if false disable:DIFF1</action>
+						</checkbox>
+					  <entry editable="true">
+					  	<variable>WORD2</variable>
+						  <default>"'$WORD2'"</default>'
+							[ "$WARP1" = false ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'</entry>
+					  
+					</frame>     
+					</hbox>
+					<hbox>
+					<frame Skill>
+					<combobox>
+					 <variable>DIFF1</variable>'
+					  [ "$WARP1" = false ] && S=${S}'<visible>disabled</visible>'
+					  S=${S}'<default>"'$DIFF1'"</default>
+					 '$DIFF1_ITEMS'
+					</combobox> 
+						  
+					</frame>
+					<frame Monsters>
+					<checkbox tooltip-text="Disable all monsters in game">
+					  <label>No Monsters</label>
+					  <variable>MON1</variable>
+				      <default>"'$MON1'"</default>
+					  <action>if true disable:F1</action>
+					  <action>if true disable:RE1</action>
+					  <action>if false enable:F1</action>
+					  <action>if false enable:RE1</action>
+					</checkbox>
+					<checkbox tooltip-text="Monsters revive after a period of time">
+						  <label>Respawn</label>
+						  <variable>RE1</variable>'
+						  [ "$MON1" = true ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'<default>"'$RE1'"</default>
+						  </checkbox>
+					  <checkbox tooltip-text="Monsters move faster than normal">
+						  <label>Fast</label>'
+						  [ "$MON1" = true ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'<variable>F1</variable>
+					     <default>"'$F1'"</default>
+						  </checkbox>
+					</frame>
+
+					</hbox>
+					</vbox> 
+					</frame>
+					</vbox>
+
+					<vbox>
+					<text><label>""</label></text>
+
+					<frame Video>
+					<vbox>
+					<hbox>
+					<frame Modes>
+					   <checkbox tooltip-text="Enable fullscreen mode for the session">
+						  <label>Fullscreen</label>'
+						  [ "$WIN1" = true ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'<variable>FULL1</variable>
+					      <default>"'$FULL1'"</default>
+						  <action>if true disable:WIN1</action>
+						   <action>if false enable:WIN1</action>
+						  </checkbox>
+					  <checkbox tooltip-text="Play the game in a window for a session">
+						  <label>Window</label>'
+						  [ "$FULL1" = true ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'<variable>WIN1</variable>
+					      <default>"'$WIN1'"</default>
+						  <action>if true disable:FULL1</action>
+						  <action>if false enable:FULL1</action>
+						  </checkbox> 
+					</frame>
+					<frame Screen>
+					<hbox>
+					  <combobox>
+						 <variable>VID1</variable>
+							 '$VID1_ITEMS'
+					  </combobox>
+					</hbox>
+					</frame>
+					</hbox>
+					<hbox>
+
+					<frame Sound>
+					   <checkbox tooltip-text="Disable all sound; Kill the soundserver">
+						  <label>Mute</label>
+						  <variable>MU1</variable>
+					     <default>"'$MU1'"</default>
+						  <action>if true disable:NS1</action>
+						  <action>if true disable:NM1</action>
+						  <action>if false enable:NS1</action>
+						  <action>if false enable:NM1</action>
+						  </checkbox>
+					  <checkbox tooltip-text="Turn off the effects, but play the music">
+						  <label>No Sfx</label>
+					      <default>"'$NS1'"</default>'
+						  [ "$MU1" = true ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'<variable>NS1</variable>
+						  </checkbox> 
+					<checkbox tooltip-text="Effects only here. No music played">
+						  <label>No Music</label>'
+						  [ "$MU1" = true ] && S=${S}'<visible>disabled</visible>'
+						  S=${S}'<variable>NM1</variable>
+ 					      <default>"'$NM1'"</default>
+						  </checkbox> 
+					</frame>
+					<frame Input>
+					  <checkbox tooltip-text="Disable joystick input">
+						  <label>Disable Joystick</label>
+						  <variable>DJ1</variable>
+					      <default>"'$DJ1'"</default>
+						  </checkbox> 
+					<checkbox tooltip-text="Disallow control over the mouse">
+						  <label>Disable Mousegrab</label>
+						  <variable>MG1</variable>
+					      <default>"'$MG1'"</default>
+						  </checkbox> 
+					</frame>
+					</hbox>
+					</vbox>
+					  
+					 </frame> 
+					</vbox>
+
+					<vbox>
+					<text><label>""</label></text>
+					<frame Other Stuff>
+					 <pixmap tooltip-text="stock icon">
+						 <input file icon="gtk-help"></input>    
+					 </pixmap>
+					 <vbox>
+					 <text wrap="true">
+						<label>By Ale and Technosaurus. Modded by sc0ttman for Puppy Arcade. Thanks to Plinej, MU, and Zigbert.  All of which have no idea that they helped me and special thanks to Technosaurus for whom this would not be possible. </label>
+					  </text>
+					</vbox>
+					</frame>
+					</vbox>
+					</notebook>
+		
+		</frame>
+	</vbox>
+
+## H E L P
+
+	<vbox>
+	<edit editable="false" can-focus="no" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"'$DOOM_BACKEND' Controls:
+
+ESCAPE				Main Menu
+CURSOR KEYS			Navigate Menu
+ENTER				Choose Menu
+Y					Confirm Quit
+
+UP					forwards
+DOWN				backwards
+LEFT				turn left
+RIGHT				turn right
+
+CTRL				Fire
+ALT					Strafe
+SPACE				Use Item
+CAPSLOCK			Toggle Run
+
+(See in game menus for other controls)
+
+'$DOOM_BACKEND' Help:
+=====================
+'$DOOM_BACKEND' is a game engine - it provides a program to play Doom 
+levels, but it doesnt include any levels itself.
+
+So to play PrBoom, you need an IWAD file from id
+Software - either doom.wad, doom2.wad, tnt.wad or plutonia.wad
+
+You also need prboom.wad. You can use the BIOS-checker to install it."</default>
+	</edit>		
+	</vbox>
+
+
+	</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/share/doc/prboom-2.5.0/README &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export paprboom="`echo "$S" | sed -e 's/##.*//'`"  ## I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog -p paprboom $FULLSCREENGUI ## this contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset paprboom
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

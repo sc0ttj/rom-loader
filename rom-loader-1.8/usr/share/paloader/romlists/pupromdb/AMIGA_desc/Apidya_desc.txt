@@ -1,0 +1,33 @@
+A side-on scrolling shoot-em-up with a twist: You play as a wasp (actually a man turned into a wasp) seeking revenge for the death of his girlfriend, Yuri, at the hands of the evil Hexaae! Levels include going through a garden (fighting other insects) and a sub-level in the intestines of a rotting rat(!). Designed to look Japanese, this game was actually developed in Germany.
+ 
+http://www.mobygames.com/game/amiga/apidya-ii
+
+ll versions of Apidya contain the numeral 'II', but it is not a sequel to any game. The four japanese katakana characters ???? in the title screen spell out 'A-BI-DYA'.
+
+http://hol.abime.net/3281
+_________________________
+CHEATS:
+
+All weapons: 
+Pause game play and type ulrdabba or ulmdabba.
+
+Note: This code may only be enabled once per game without penalty. Subsequent use will cost a life.
+
+Slow motion:
+Press [Help] + [Delete] during game play.
+
+Level select:
+Type one of the following codes at the title screen
+to begin game play at the corresponding level.
+
+Level|Code
+
+2|misshoneybee
+
+3|deputyoflove
+
+4|hastalavista
+
+5|sneakpreview
+
+End|showcredits then press [Return]

@@ -1,0 +1,11 @@
+The plot of Master of Magic is to become the dominate wizard on two 'planes' of existence, the normal Earth-like one and the fantasy based plane "Myrrar". You can do this by destroying your competing wizards (up to 3 computer players) or by casting the Spell of Mastery.
+
+Game play is carried out in a 2D top down perspective. You move your armies around the board, fighting monsters to get treasure, and more importantly 'nodes'. Once you control a node you can summon a spirit to meld with the node and gain mana from it. You also must build up your cities so you can support and train your army. City management is very much like Civilization. You also must allocate your mana for use, or research. You must research to learn new spells. You can do battle with the enemy in a quasi-isometric perspective or you can have the game simulate the battles. 
+
+The game ends when your home tower is destroyed; you banish all the other wizards (by destroying their home tower) or someone casts the Spell of Mastery.
+
+Trivia:
+
+The original game had an onslaught of bugs that almost prevented playing. Microprose released a patch and later a completely new version of the game (which had different manual and disk). The original disk and manual can be considered a collector's item.
+
+http://www.mobygames.com/game/master-of-magic

@@ -1,0 +1,59 @@
+Description
+
+Transform your N64 into a powerful chess adversary. The most awesome chess engine adapts to any skill level. Learning is endless fun yet even superb players face the maximum challenge. Brilliant graphics brings this classic game alive. Become the next chess legend!
+
+Features
+
+Virtual Chess 64 came with a basic text and visual tutorial written for beginners and novices about how to play chess. In the third section the tutorial continues explaining how to play using simple chess positions in which you learn from by finding the best move each time. The short fourth section is analysis of two badly played well-known games titled "Fool's Mate" and "Scholar's Checkmate". In the fifth and sixth sections these chess problems become increasingly complicated, and the player is expected to, by some means, find the solution and understand it. The seventh section is about basic endgame checkmating approaches and patterns, and just one basic endgame concept for beginners: the square of the promoting pawn. The last three sections focus on improving opening, middlegame, and endgame chess play by using example games for analysis.
+
+The tutorial does not extend enough to teach how to win a game against the chess engine featured in this game, but it is enough to inspire some to learn more through other sources. The only spoken part of the tutorial are the comments on the chosen correct moves listed (below) in order of first-to-last spoken as you answer tutorial challenges. (In a few cases the comment is randomly chosen, so the order is approximate.)
+
+    * "Well Done!"
+    * "Great!"
+    * "Brilliant!"
+    * "Wonderful!"
+    * "Fantastic!"
+
+In disregard to the unrecorded completion of the tutorial you could play a full game yourself using either a 2D or 3D board. There was a "Rotate Board" option for the 2D and 3D boards, although the C-left and C-right buttons could be used to rotate the 3D board by a greater variety of angle measures. On the 3D board every time a piece was captured you would have a short cut scene depicting the capture of said piece unless this is disabled or only limited to one-time only scene play per piece capture combination via configuration. The idea was to amuse the player. There were no cut scenes on the 2D board for captures, but you could change the design of the pieces and board by pressing the C-left or C-right button and use the "flash think" and last move square lights. There were four 2D chess sets to select from: standard white and black icons, arctic and jungle animals, silver and gold pieces, and heroic and demonic characters. You could also play as either white or black pieces and you could even make situations of your own by adding or removing pieces from the board and placing them in different positions, but there is a bug removing the option to castle in games starting from positions customized through this feature. Like most board games, you had the option of 2 human players instead of 1 but also the option of seeing the chess engine play itself.
+
+The game also had a "Level" option in which you could set the time taken for the chess engine to respond based on the complexity of the position. "Beginner #1" is the top and default setting of the list, and "Level 12" is the bottom setting. Time is the only real factor behind the quality of the engine's moves, and while the default difficulty level setting resulted in analyzation in a matter of few seconds (seldom more than 10), the "Level 12" setting resulted in waiting times greatly variant based on the position. (The longest time might be no more than 30 minutes in any reachable chess position, most such instances subject to see in replay of certain correspondence chess games.) There is a "Meditation" setting by which, if enabled, the chess engine will think on your time except usually during the opening phase of the game in which predefined moves are played. Again based on the complexity of the position, analyzation will continue for a matter of hours or days until either a forced checkmate is found or you make your move.
+
+Characters
+
+White and Black sets have different character models.
+
+ White
+
+    * King
+          o The king is wearing armor covering all but his face, wearing a crown, wielding a spear and shield, and riding a toy horse.
+    * Queen
+          o The queen is wearing a dress that covers most of her body, purple gloves, a matching backwards-facing shoe, an oversized hat pin, and a purse.
+    * Rook
+          o The rook is shown as a small sentient castle complete with drawbridge.
+    * Bishop
+          o The bishop is depicted as a stereotypical wizard. He has a tall hat, long robe, mirror, and magic staff.
+    * Knight
+          o The night is depicted as the mythical unicorn with a blue tail and eyes and a black mane.
+    * Pawn
+          o The pawn is an overweight knave. He is armed with a two pronged pitchfork, an axe, and a feather.
+
+Black
+
+    * King
+          o The king is an overly-muscled warrior with torn brown clothes. He also has a seldom-used sword.
+    * Queen
+          o The queen is obese and bald except for two braids on top of her head.
+    * Rook
+          o The rook is a sentient catapult often hauling a rock.
+    * Bishop
+          o The bishop is a flying imp with the tail of a dragon. The bishop also has a mirror and a scepter.
+    * Knight
+          o The knight is shown as a sentient battering ram on wheels.
+    * Pawn
+          o The pawn is shown as a barbarian with a hammer and a less elegant two pronged pitchfork than the white pawn.
+
+
+
+
+http://en.wikipedia.org/wiki/Virtual_Chess_64
+http://www.gamefaqs.com/n64/199208-virtual-chess-64

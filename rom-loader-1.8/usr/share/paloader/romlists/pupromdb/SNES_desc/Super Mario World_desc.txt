@@ -1,0 +1,373 @@
+First thing I noticed is the changed overworld (as you can see in the pictures) and I'm always glad if someone makes the effort to do that. Moreover the whole game is in a halloween style and I think the creator used a lot available options to make it look scary (if you can call a smw hack scary). Also the music is fitting to the theme.
+
+The level of difficulty is not very high so it's also a beginner-friendly hack (but it's not too easy if you think that).
+
+And the highlight is the last (secret) level where you have to fight a (WARNING: SPOILER!!!) giant radioactive four-eyed boo (with this amazing music), which is just awesome.
+
+All in all I give it 9 of 10 possible points.
+
+Reviewer: Mastermind
+http://www.smwcentral.net/?p=showhack&id=1833
+Brutal Mario has been a very popular hack. However, most people have had one problem with it; they can't read Japanese. So many people have been wondering what the text boxes say and what the levels are called. Because of this, I decided to translate it into english. This is the exact same Brutal Mario we all know and love, just in english instead of japanese. I modified nothing other than the text.
+
+http://www.smwcentral.net/?p=showhack&id=2526
+A SMB remake with the original SMW Graphics.
+
+Custom sprites :
+-Firebar
+-Blooper
+-Hammer Brother
+-Classic Bowser
+-Nokobon/Koopa Bomb (remplace Buzzy Beetle in World 8-2)
+
+Patches :
+-SMB2 music patch
+-Spin Jump disable
+-Classics fireball
+-SMB3 Koopa
+
+-The warp zones is trappeds (like in SMB2 japan)
+-The texts is in English
+
+Super Mario Bros 1985 Nintendo.
+Super Mario World 1990 Nintendo.
+Classic's Super Mario Brothers hack Remake 2008 BOBO/Lunartoad.
+Good game!
+
+http://www.smwcentral.net/?p=showhack&id=1181
+Go inside patient's houses and go inside of them to kill viruses. Very fun hack that still retains a classic Super Mario World feel. Features custom blocks, graphics, overworld, and sprites. Medium difficulty.
+
+http://romhacking.net/hacks/44/
+A final release of my hack,I translated the game into English, but I am French, thus saddened if there are spelling mistakes.
+
+This game use :
+-ExGFX
+-Customs sprites
+-Customs musics
+-New ending & credits
+-News characters.
+
+The final boss is not impossible has to beat, you owe find yourself the means to eliminate him(it).
+
+Kid Adventure by BOBO/Lunartoad, good game!
+
+http://www.smwcentral.net/?p=showhack&id=2031
+A final release of my new hack.
+This game use :
+-ExGFX
+-Customs sprites
+-SMB2 music patch
+-New ending
+-News characters.
+
+There is a glitch on the map when we reach the last level, but when you make a reset, this glitch disappear definitively.
+
+Kid Adventure 2 by BOBO/Lunartoad, good game!
+
+http://www.smwcentral.net/?p=showhack&id=2252
+This is the work which remade "Luigi's Adventure" which is the first item to a base in "Luigi's Adventure" for foreign countries. It is made a language English, and degree of difficulty adjustment and the bugfix are done.
+
+http://www.smwcentral.net/?p=showhack&id=2806
+The seven eggs of peace have been stolen and the land turned rotten. Mario and Luigi venture out in search of the eggs and collect them one by one...
+
+http://www.smwcentral.net/?p=showhack&id=1518
+Forget the original boring Mario is Missing. Who needs some dumb artifact quest? This is how it should have been done, and this time it's all action. Features custom blocks, graphics, overworld, and sprites.
+
+http://romhacking.net/hacks/45/
+An epic journey that takes place all across the mushroom kingdom, as two rivals match wits. it's the plumbers vs the evil king koopa, Bowser. also please delete the other two versions apon aproval. have fun everyone.
+
+http://www.smwcentral.net/?p=showhack&id=2757
+Hello. My name is Michael Stark. You might know me as an administrator on board2. Several years ago, I made a Mario World hack named "Mario's Return." While I liked the core of it, it had many flaws and could have been much better than it was. It also had a number of very odd glitches. I thought about showing it to some friends of mine about a month ago, but realized that there was just so much about it that was utterly ameteurish in terms of design... It would not have been very flattering for me.
+
+With that in mind, I tossed around the idea of going back through it and fixing up a few things from here to there. It didn't go anywhere for awhile, but at one point, I found spare time, and I set to work. It quickly developed beyond just making it a bit better; I wanted this to actually be something worth playing, rather than the forgettable trash that most ROM hacks end up as.
+
+I went through many levels, especially the most linear ones, and touched things up, adding a few extra paths and items here and there, and adjusted the difficulty curve to be in general more forgiving but basically just more consistent. I also completely remade a few parts which I just didn't like. One level in particular, Secret 3, was basically utter trash, and I replaced it completely. I went out of my way to find complaints about the previous release and address them. For various reasons, I couldn't address all of them, but I won't say I didn't do my damnedest. I also rewrote pretty much all the text in the game, as it was quite poor before.
+
+In addition to general touchups and making it suck less, I also added a small amount of completely new content. I added a new Big Boo fight to replace a Reznor fight in the secret path of the last fortress. Further, one of the most common things that people said is that there's no real 'reward' for getting everything. Now, however, completing the secret world grants a new final level, which is... Interesting. I like how the whole thing turned out, to be certain.
+
+Still, if you have played the original "Mario's Return" then there's not much that will surprise you - this is very much the same hack, it's just been polished.
+
+This is a beta not in the commonly-seen sense of "I want to show something off even though I'm not done," but rather in the professional sense of "I think this is done, but if testers find problems then I will address them before distributing the completed product." One thing in particular that you should keep in mind, however, is that this is very much a hack from 2006, and I have kept my old sensibilities. There's little ExGFX, and all graphics retain their simple, "everything is the same style, nothing is out of place in Mario World" aesthetic. I also am retaining the game's original music, because I like it, and I feel that it fits. There are a few custom sprites, but nothing made with Sprite Tool or what have you, because that tool was not available to me when I released the hack the first time. With that said...
+
+This hack contains 88 exits across 68 levels.
+
+http://www.smwcentral.net/?p=showhack&id=2320
+With the evil king of the koopas desending upon the land of dinosaurs, its up to rex to stop him. 
+
+http://www.smwcentral.net/?p=showhack&id=3031
+Super Mario Bros With NDS graphics.
+
+Enjoy it!
+
+http://www.smwcentral.net/?p=showhack&id=2287
+Two hacks created by red_bird and combined by Stupot1 for this enhancement hack:
+
+Ogre Battle version 1.02
+
+This hack offers tweaked stat growth and modified job trees. Dragoners/dragon masters are female, skeletons and ghosts can evolve, and, because the creator can't change items yet, beast masters can use the dragos item to get a sex change.
+
+This patch will only work with a headered ROM.
+
+http://www.romhacking.net/hacks/489/
+
+Dragoner/Dragon Master Fix
+
+This patch moves Dragoners and Dragon Masters from the Fighter class tree to the Amazon class tree. Using a DRAGOS on a Beast Master will still change him into a Dragoner. Both classes also have different alignment, charisma, and minimum level requirements reflecting their status as sister classes to the Beast Man/Beast Master classes.
+
+http://www.romhacking.net/hacks/490/
+This hack is worth playing simply due to its originality! Be warned however that some may find its content offensive. If you are not easily offended, it is hilarious with its use of violent imagery, such as the numerous squirming, bleeding Toads impaled on stakes in a graveyard as shown in the screenshots, not to mention that Morton's Jail has to be the single most disturbing level ever created for a Mario game! There are also many drug references, a hidden evil Kirby world, and if you can find it, an Adults Only Palace of Hentai. This hack is very fun and is about the same level of difficulty as the original. It features awesome graphics rips, music and overall feel from Super Mario Bros 3, custom blocks, overworld and sprites. Even the credits have something interesting and unexpected in them! So, if you don't have a problem with some morbid humor and twisted creativity, this is the game for you. Enjoy.
+
+http://romhacking.net/hacks/48/
+It's my 3rd Super Mario World hack and the sequel to Panic in the Mushroom Kingdom. It features custom blocks/sprites, SMAS music, a new overworld and, of course, brand new levels.
+
+The "Story":
+
+Mario has to save Toad who has been captured by Bowser's brother.
+
+http://romhacking.net/hacks/258/
+This is an easier version of the original Second Reality 1 Project. It's called SNES-Version, because this one is definetely beatable, if you play it on a real SNES without savestates! The game for itself, it's still hard, but absolutely possible to beat. A lot of things are changed in mostly every level to decrease the difficulty. Many more midway points have been added, gameplay is edited, some enemies are deleted, more power-ups are added, and so on. I'm sure you will notice some changes. Enjoy it! :D
+
+http://romhacking.net/hacks/42/
+A One-Eyed Big Boo called Zycloboo wants to conquer the Mushroom Kingdom, and like Bowser in "The Second Reality Project 1 he wants to use the power source from another dimension called the Second Reality to get to his goal. To get Mario out of sight (or maybe for some other reasons?) he warps Mario and his Castle in the Second Reality. Mario's only chance to stop Zycloboo is to find the Power Supply station, which can give him the power he needs for the task - or at least that's what Zycloboo told him, heeheehee!
+
+About the game:
+
+The levels for itself are most of the time very "big" compared to the typical SMW-level. From the length, they have more of a Yoshi's Island-level. You can find a lot of hidden stuff here and there, dozens of bonus rooms and so on. There are also a few levels, where you can go different roads. Sometimes, the second route is more hidden and harder to beat, but it will lead to a secret exit. There are a lot puzzles in the hack as well, but with one major exception near the end of the game they aren't on the normal route, which means the secret levels are usually more puzzling than the normal ones, but very often they are also more "special".
+
+Unlike my first hack, this time it's not necessary to find all the hidden Switch Palaces to beat the final boss, but it could be helpful to find them nevertheless. If you stay just on the normal route (without finding any secret exit) you can complete the game after 55 levels. But in that case, you would leave out 36 additional levels. You see, there is much to explore. ;)
+
+About the worlds... nothing outstanding here: World 1 is the typical grassland-World, World 2 is the typical Forest-World, World 3 is the Beach and the Desert, World 4 and 5 aren't really themed. Here you can find Ice-, Canyon-, Cheese-level and whatever. World 6 is the Venom Underground World, which contains some of the first levels I did for this hack. World 7 is the typical futuristic Base-World, with some underground parts (World 7 covers two submaps).
+
+http://romhacking.net/hacks/203/
+This is my SMW hack. It has almost none of SMW's GFX left in it.
+
+Chocolate and his brother Vanilla must trek across a series of islands in an attempt to find a way home.
+
+http://www.smwcentral.net/?p=showhack&id=1125
+This is the Super Mario World hack made by the man who made Super Mario World hacking easy with Lunar Magic, FuSoYa! What started out as just a demo of what Lunar Magic could do, it turned into a full hack of Super Mario World that's complete right to the end. This patch is so expansive it expands the size of the ROM to 48mbits!
+
+It showcases many of the features in Lunar Magic, including the new tile and palette animation feature included in version 1.60. And it has new custom blocks such as screen-scrolling type pipes that are similar to what you'd see in Mario 3.
+
+This truely a great hack! It must be played and experienced to be judged! It's also very challenging! So, what are you waiting for? Quit reading this and go download and play the patch!
+
+http://romhacking.net/hacks/11/
+OK now everything is fixed. No more glitches or bugs are found.
+
+Enjoy and feel free to use anything from this hack. Just remember to give me credit.
+
+I will finish it.
+
+http://www.smwcentral.net/?p=showhack&id=1307
+Megaman765's original description: My first hack based on My Blue mario from Super mario bloopers (Check my youtube account)
+
+Story: Bowser has taken the princess again! But to a land called blooper world. The blooper world curse has been spread on
+the mushroom kingdom and mario making them all blue! Mario now must head to blooper world and save her and restore the mushroom kingdom to normal!
+
+Hope you enjoy it :)
+
+http://www.smwcentral.net/?p=showhack&id=1057
+A hack that ports the graphics and levels of Super Mario Bros. 2 into Super Mario World. A must play for SMB2 fans. Requires a Super Mario World ROM to patch with a x200 byte header. Keep in mind that this hack is locked if used with Lunar Magic.
+
+http://romhacking.net/hacks/194/
+The Southern Part of Mushroom Kingdom is under attack!Mario must defeat Bowser and the Koopa Kids once and for all.This is a SMB3 syled hack with a few twist like YI,Super Mario Land and SMAS SMB1 style level.New boss battles included.
+
+http://www.smwcentral.net/?p=showhack&id=2799
+This is an exceptional remake of all 32 levels of Super Mario Bros. 1, including the "Minus World", and "World 36", with SMB Allstars (SMB3) style graphics.
+
+It's an original and refreshing take to be able to play such a classic with the up to date Super Mario World game engine. While it is similar to Super Mario All Stars, it's still very different. Everything is changed in this hack. There are new over worlds, some additional custom levels, changed tunes and more!
+
+On top of that, many of the original's secrets and glitches are also there. The author paid good attention to detail! If you were a fan of the original SMB, you really should try this hack out.
+
+http://romhacking.net/hacks/66/
+This is an exceptional remake of all 52 levels of Super Mario Bros: The Lost Levels with SMB Allstars(SMB3) style graphics.
+
+It's quite refreshing to be able to play a classic with the up to date Super Mario World game engine and features. This includes the cape and Yoshi!
+
+Everything is changed in this hack. There are new over worlds, some additional custom levels, changed tunes and more!
+
+If you were a fan of SMB: TLL or SMW, it's recommended you give this hack a try.
+
+http://romhacking.net/hacks/65/
+Super Metroid Mario (SMW hack):
+
+You can enjoy it in two modes:
+
+1- Metroid (samus only): play whit samus, without the suit.
+2- Metroid (samus suit): play whit the suit.
+
+Story: Samus, must go to Planet Zebes again, because Mother Brain is still alive,
+and she must destroy it to save the universe.
+
+http://www.smwcentral.net/?p=showhack&id=1717
+Super Metroid Mario (SMW hack):
+
+You can enjoy it in two modes:
+
+1- Metroid (samus only): play whit samus, without the suit.
+2- Metroid (samus suit): play whit the suit.
+
+Story: Samus, must go to Planet Zebes again, because Mother Brain is still alive,
+and she must destroy it to save the universe.
+
+http://www.smwcentral.net/?p=showhack&id=1717
+Some call it the best hack ever made, even though it's only a demo.
+
+Difficulty: Hard
+
+http://www.smwcentral.net/?p=showhack&id=1032
+This hack is the result of two and a half years of hard work. Join Mario as he travels through over seven unique worlds on his quest to rescue Princess Peach.
+
+http://www.smwcentral.net/?p=showhack&id=3032
+After saving the Mushroom Kingdom from Bowser and the rest of the Koopas in Super Mario 3, Mario and Luigi needed to recuperate from their adventures. Together they agreed that the best place to vacation was a magical place called Dinosaur Land.
+
+But while Mario and Luigi reclined on the beach for a relaxing nap, Princess Toadstool disappeared, apparently seized by evil forces. After searching for hours for their missing friend, Mario and Luigi came upon an enormous egg in the forest.
+
+Suddenly the egg hatched, and out popped a young dinosaur named YOSHI, who proceeded to tell Mario and Luigi a sad tale of how his dinosaur pals were sealed in similar eggs by a group of monsterous turtles.
+
+"Monsterous turtles!" exclaimed Luigi. "Bowser and his bunch have returned!" Mario slowly nodded his head in agreement and, along with Luigi and Yoshi, set off across Dinosaur Land to find the Princess and to free Yoshi's friends. As they began their journey, Yoshi handed Mario a beautiful cape. "This may help you," Yoshi said. "Some say it has magical powers."
+
+With a little luck (and help from a magic cape), our hearty crew can defeat the seven worlds of Bowser's Krazy Koopa Kritters. Many locations are well-hidden so explore everywhere and try everything. Not all locations have to be explored to rescue the dinosaurs and save Princess Toadstool, but there are many "starry" treasures to be found in far-reaching places. You'll need to search all areas to find out what kinds of treasure are there... in Super Mario World.
+
+--From the SNES Super Mario World instruction manual.
+
+Overview:
+
+Super Mario World was one of the first games released for the SNES and one of the best Super Mario games ever. More people have played Super Mario World than any other game that I know of, and that should be a testament in and of itself. I have played this game more than any other game in my life, and that is the truth.
+
+Super Mario World was one of the easiest games to learn how to play but one of the hardest to master. The graphics in Super Mario World are awesome, the color and design are just perfect, and the controls felt great. You also had a few new moves, including a new spinning jump that comes in handy. Also Super Mario World brought a new character to life, our beloved Yoshi. Yoshi is a friendly dino that helps Mario and Luigi save their kidnapped friends. Super Mario World was also filled with tons of secrets and cool new levels. So run, jump, and fly your way through this wonderful place known as Super Mario World to save the Princess one more time.
+
+Directions:
+
+Super Mario World is similar to the Super Mario Bros. games, you jump on enemies to kill them. Sometimes, you'll need the fire flowers to vanquish certain enemies. Use the new cape and feather to fly in the levels like a superhero! Go to switch palaces to fill in dotted areas with a block.
+
+You now have two different ways to jump, the standard and a spinning jump. The spinning jump will totally destroy some enemies, and will allow you to jump off of Yoshi. This jump will also make you fire several fireballs when you have firepower. Pushing the L or R button will move the camera either left or right.
+
+The object is to defeat Bowser. There are several different ways to get there, because finishing certain levels in different ways will unlock secret paths to his palace. Any level that is a red dot has at least two different ways to beat it. Each ghost house will also have at least two ways to finish, a right way, a wrong way, and sometimes a secret way. After you have beaten a level, you can still go back there, and when you do, you can press start and then select to exit it at any time.
+
+At the end of each level there is a finish line with a tape moving up and down, which you need to break. Try to break the tape at the highest point possible. The higher you break the tape, the more stars you will be awarded. If you get 100 stars, you get to go to a bonus level where you try to line up shapes in a tic-tac-toe order. Every three in a row is worth an extra life. There is also a halfway point in each level that looks like a much smaller finish line. Whenever you get to one of these, you will grow big if you are small, and you will be able to start at that point if you die.
+
+Any time you collect 100 coins you will also be awarded an extra life. If you can jump on the heads of enough enemies without touching the ground, you will be awarded an extra life, too. Extra men can also be obtained by finding a one-up mushroom in a prize block. The one-up mushroom is white and green. Prize blocks may also contain coins, a power mushroom (white and red) that makes you grow if you're small, a fire-flower that will give you the ability to shoot fireballs, or a feather that will give you a cape good for flying and slapping enemies to death. The red mushroom, fire-flower, and feather can be stored for later if you find one while you already have it. For instance, if you are big Mario and find a red mushroom, it will be placed in the box at the top of the screen until you get hit. At this point, it will fall from the box and you will have to catch it. You can also release whatever power-up you have in the box by pressing Select.
+
+Some boxes will contain a set of wings for Yoshi, and if you grab them while riding one, you will be taken to a bonus level, and your Yoshi will be a purple one from then on. Prize boxes may also contain a Yoshi egg. If you have no Yoshi, the egg will hatch a Yoshi, or a baby Yoshi. If you do have a Yoshi, it will hatch a one-up mushroom.
+
+A full grown Yoshi is ready to ride, hop on its back and start eating. Yoshis will eat almost any enemy. Also, eating certain enemies will give Yoshi certain powers. When Yoshi eats a green turtle, he can spit the shell out like a projectile that you can use to hit your enemies. A red turtle will make Yoshi blow out three fireballs when spit out. A yellow shell will make Yoshi seem heavy and he will be able to totally destroy some enemies by jumping on or near them. A purple shell will make Yoshi sprout wings and he will be able to fly. While riding you Yoshi, you can spin jump to get off, or press B to make him stick his tongue out as an attempt to eat something. Everything Yoshi eats gives you one coin. Yoshi will try to run from you if you are hit by an enemy while riding him.
+
+If you find a baby Yoshi, you must feed him five things to make him grow into an adult. There are several different colors of baby Yoshi's. There are green, red, purple, and yellow. The green is the default Yoshi. Every other color Yoshi has the ability to use whatever special power that goes with the shell of the same color whenever any shell is eaten. For example, a purple Yoshi gains the ability to fly when it eats any color shell. If it were to eat a red shell, it could fly until it spit it out, which would come out as three fireballs.
+
+There are also P buttons to watch out for. Some P buttons will make coins appear for a certain amount of time, when this happens collect as many as you can before the time runs out and the coins disappear. Some of them will make a hidden door appear, if this happens get through the door before the time is up and the door disappears. Some of them will turn blocks into coins, get as many as you can before the time runs out and the coins turn back into blocks. Sometimes you will want to use coins as blocks during this process to get to platforms you would not be able to get to otherwise. In these cases climb up to your spot before the blocks turn back into coins.
+
+Sometimes there will be little triangles in front of a wall that will allow you to run up the wall if you use the run button to run at the wall. These will make Yoshi bounce real high if you are riding him at the time.
+
+There are eight worlds that are full of levels. Some of the levels you will be able to skip if you find the secrets. At the last level of each world, you have to beat one of King Koopa's kids to advance to the next world. 
+
+Controls:  
+
+A Button - Get on Yoshi, Spin Jump
+B Button - Jump, Swim
+X Button - Run, Pick up item, Use fireball
+Y Button - Same as "X" button
+L Button - Move screen to left slightly
+R Button - Move screen to right slightly
+Start Button - Pause/Unpause
+Select Button - Drops boxed item on top of screen
+
+Tips:
+
+Original SMB music
+In Super Mario World, go to the Special World. If you sit there and do nothing for a few minutes, the Super Mario Brothers theme will start playing! It goes back to the Special World music if you leave the map by any way (going to a level or exiting).
+
+Generate Extra Power Switches
+Power Switches are those in-game blue buttons that reverse the rolls of the coins and solid bricks and vice-versa upon jumping on top of them. During the split-second 'pressed flat' animation of the button after usage, you can use Yoshi to lick it back up--when you spit it out, it will be an entirely new Power Switch that will extend the duration of the effect of the switch.
+
+Easy Extra Life
+Beat a stage with your time ending in the same digit repeated twice as the tens place of your Star total, and you'll be awarded an extra life.
+Example:
+With 17 stars, beat the stage with your time ending in 11.
+
+Item Conversion
+Try holding an item (shell, trampoline, etc) and cross the Goal line. The item you're carrying will turn into a 1-Up mushroom.
+
+Re-enter finished Castles and Fortresses
+After you beat a castle or fortress you cannot normally re-enter it. To re-enter a castle or a fortress press L + R at the same time and you will enter the castle/fortress.
+
+Berry Freeze
+Enter a level with Yoshi, Cape Mario, and a Fire Flower in reserve. Position yourself under a berry in a way that you can get the fire flower and get the berry at the same time. If you happen to eat the flower and the berry at the same time, the game will freeze.  Several things have been reported while using this glitch. Sometimes when the game freezes, your coin count will rise until you quickly have 99 lives. Press Start and Select to exit the level. One
+person's game froze, horizontal lines appeared on the screen, and weird music kept looping over and over again. Then came a buzzing noise, and he was returned to the file select screen, with his file deleted. Thankfully, that's not normal. Even so, this is an interesting glitch to exploit every once in a while.
+
+Reviewer: adrian
+http://www.consoleclassix.com/snes/super_mario_world.html
+The Essence Star...it was sent to Mario's realm from the heavens above with one purpose- to benefit the world through the actions of kind people. However, if it falls into the hands of evil, the complete opposite will occur. What fate will result when the likes of Golden Yoshi and Kamek all want to get their hands on the sacred star?
+
+Find out all of this and more...in SMW2+3: The Essence Star.
+
+http://www.smwcentral.net/?p=showhack&id=2854
+No information online about this Update Hack.  ~Rx
+No information online about this Update Hack.  ~Rx
+Hehe? this hack is probably the biggest bullshit hack ever made. It's garbage! This hack is full with glitches, bad colour palettes, annoying and simple level designs, and a lot of message boxes with senseless and funny comments - very bad english included. Made as a spoof of the typical bad newbie hacks. Play it? and have fun? :D
+
+NOTE FROM Rx: I seriously think that this may be my all time favorite hack.  It might get old after I play it a while, but I've never laughed at a hack like this one before.  Seriously give this game a try.
+
+http://romhacking.net/hacks/43/
+A complete overhaul of SMW, replacing eveything with GFX from SMB3. This hack is meant to be used as a base for other hacks.
+
+http://www.romhacking.net/hacks/58/
+Very hard levels and new enemies in the hell of Super Mario World.
+
+http://www.zophar.net/hacks/snes/super-mario-world2/Super-Mario-World-Hell-Edition-477.html
+No doubt some of you are aware by now of the brand new Super Mario World Internet sensation sweeping the web; Super Mario World (Kaizo Edition). Not for the faint-hearted, this particular ROM hack appears to be developed by Satan himself, utilising some of SMW's most notorious enemies and obstacles in near-ridiculous situations to produce possibly the most insane 'game' ever created. It really has to be seen (and played) to be believed.
+
+http://www.rllmukforum.com/index.php?showtopic=167174
+Sequel to impossible Kazio Edition 1 hack.  ~Rx
+This is the Final Version, If Add Music for ALLSTAR comes.
+
+Patches in this hack:
+SMB3 SSP + Music
+Classic Fireball
+SMW fix
+
+4 new levels
+Extended levels
+Pallet fix
+Statusscreen fixed all levels.
+ENJOY
+
+http://www.smwcentral.net/?p=showhack&id=1329
+This is Super Mario World Master Quest 7 Redrawn Update 1.2
+
+News:
+extended levels
+1 new level
+slowdown fix
+pallet fix.
+Harder Lakitu boss
+new music.
+and more.
+
+Enjoy my game
+
+http://www.smwcentral.net/?p=showhack&id=2651
+This is a complete hack of Super Mario World. All the levels and worlds are new, and some of the worlds have themes not present in the original, such as a water world and an ice world. Don't expect any new graphics here, though. This hack is all about the level design. The game is moderately challenging, and some of the last levels can get very hard.
+
+http://romhacking.net/hacks/120/
+It is finally here, The sequel to SM:BLS that I have worked on since October of last year. I know many of you guys may not have downloaded SM:BLS, But I hope that you all enjoy this hack as much as I have enjoyed making it.
+
+This file also come with a text document that tell the Backstory that underlies this hack's plot.
+
+I would like to thank many people for supporting me. including Ahkan, for His Advice for various aspects of game and for taking the time to proofread my texts and dialogs in my hack.
+
+Firebar for ripping several Foregrounds and Backgrounds from the Mega Man series.
+
+Jimmy52905 for porting several songs from the Megaman series and from SMB3.
+
+Ice Man for porting Fire Man Theme from Mega man 1.
+
+and Geno_4_Ever for Beta-Testing My hack. (Ahkan also beta-tested)
+
+http://www.smwcentral.net/?p=showhack&id=2177
+This is a really nice hack. I love how you started the game with assorted Super Mario Bros. retros. I thought it would have been cool if I could pick up those sprouts like in a Fake Mario 2. Nice lakitu boss and SMB3 lakitu. I'm wondering how I can make the SMB3 lakitu go away. And it would be nice if you used that custom block from STARSW.zip for the flagpole (SMB Goal Pole and Goal Block with Music (Acts like 130)). This is really short, too. Anyway, good job!
+
+Reviewer: GameGuy10
+http://www.smwcentral.net/?p=showhack&id=1873
+A short yet sweet adventure from the perspective of one of those jumpy little guys from SMB2. Though its only 8 levels long, its still very fun, and the ASM and graphics are superb, similar in style to that of Super Mario Odyssey. It can be a challenge in areas, but is moderately easy as a whole. Worth checking out.
+
+http://romhacking.net/hacks/49/

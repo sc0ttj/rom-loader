@@ -1,0 +1,3 @@
+Ballblazer is a one-on-one soccer match set in the future. You control a robot and try to snare a floating ball called a Plasmorb, which could then be fired or carried into the opponent's goal. You play on a simple 3d playfield which is split in half. You can play against the computer or against another robot controlled by a human player.
+
+http://www.mobygames.com/game/nes/ballblazer

@@ -1,0 +1,70 @@
+# video plugin combobox
+VIDEO_ARRAY=(Default libpeopsxgl.so libgpuPeteXGL2.so libgpuPeopsSoftX.so libgpuPeopsSDL.so libDFXVideo.so)
+VIDEO_ITEMS="<item>$VIDEO</item>" #stored value should be first in list
+for i in "${VIDEO_ARRAY[@]}"
+do
+	if [ -f /usr/lib/games/psemu/$i -o "$i" = "Default" ] && [ "$i" != "$VIDEO" ];then
+		VIDEO_ITEMS=`echo "$VIDEO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# sound  plugin combobox
+SOUND_ARRAY=(Default libspuPeteNull.so libspuPeopsOSS.so libspuPeopsALSA.so libDFSound.so)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ -f /usr/lib/games/psemu/$i -o "$i" = "Default" ] && [ "$i" != "$SOUND" ];then
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+# INPUT1  plugin combobox
+INPUT1_ARRAY=(Default libpadOmniJoy.so libpadJoy-0.8.so libpadAnalog-0.2.so libDFInput.so)
+INPUT1_ITEMS="<item>$INPUT1</item>" #stored value should be first in list
+for i in "${INPUT1_ARRAY[@]}"
+do
+	if [ -f /usr/lib/games/psemu/$i -o "$i" = "Default" ] && [ "$i" != "$INPUT1" ];then
+		INPUT1_ITEMS=`echo "$INPUT1_ITEMS<item>$i</item>"`
+	fi
+done
+
+# INPUT2  plugin combobox
+INPUT2_ARRAY=(Default libpadOmniJoy.so libpadJoy-0.8.so libpadAnalog-0.2.so libDFInput.so)
+INPUT2_ITEMS="<item>$INPUT2</item>" #stored value should be first in list
+for i in "${INPUT2_ARRAY[@]}"
+do
+	if [ -f /usr/lib/games/psemu/$i -o "$i" = "Default" ] && [ "$i" != "$INPUT2" ];then
+		INPUT2_ITEMS=`echo "$INPUT2_ITEMS<item>$i</item>"`
+	fi
+done
+
+# PSXTYPE combobox ... ntsc or pal
+PSXTYPE_ARRAY=(Default Auto NTSC PAL)
+PSXTYPE_ITEMS="<item>$PSXTYPE</item>" #stored value should be first in list
+for i in "${PSXTYPE_ARRAY[@]}"
+do
+	if [ "$i" != "$PSXTYPE" ];then
+		PSXTYPE_ITEMS=`echo "$PSXTYPE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CDAUDIO combobox .. enable CD audio or not
+CDAUDIO_ARRAY=(Default on off)
+CDAUDIO_ITEMS="<item>$CDAUDIO</item>" #stored value should be first in list
+for i in "${CDAUDIO_ARRAY[@]}"
+do
+	if [ "$i" != "$CDAUDIO" ];then
+		CDAUDIO_ITEMS=`echo "$CDAUDIO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# PSXOUT combobox ... output to console
+PSXOUT_ARRAY=(Default on off)
+PSXOUT_ITEMS="<item>$PSXOUT</item>" #stored value should be first in list
+for i in "${PSXOUT_ARRAY[@]}"
+do
+	if [ "$i" != "$PSXOUT" ];then
+		PSXOUT_ITEMS=`echo "$PSXOUT_ITEMS<item>$i</item>"`
+	fi
+done
+

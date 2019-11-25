@@ -1,0 +1,9 @@
+Ultimate Qix is a little known game for Genesis, building off of the game Qix in arcades. One of the best Genesis games out there, it is ashame that it did not sell very well.
+
+Gameplay:
+
+Ultimate Qix plays much like the arcade Qix. You slowly box in an entity that is large and strong. While you are moving along your lines, you are safe from attacks, but once you press A, B, or C, and begin tracing a new line segment, you lose your shield and are vulnerable. If a alien (big one or the small ones always buzzing about.) hits you, you die immediately. If your current line segment is hit, a energy ball will streak up the line and if you do not finish the segment fast, will hit you, killing you. Running out of time will cause different things depending on what level of difficulty you are on. If you are on the easiest, an alien known as Balboa will come and attack you. He cannot be killed, and will only go away if you finish the level. All other difficulties will spawn "Sparx." The Sparx will follow your lines and if you are on one and not drawing when it passes your location, you die. They move faster or slower depending on the difficulty yet again.
+
+If you box in a certain percent of the level (depending on the difficulty.) you win, as a massive explosion rocks the screen and bonus points are given.
+
+http://www.gamefaqs.com/console/genesis/review/R84330.html

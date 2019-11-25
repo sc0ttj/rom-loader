@@ -1,0 +1,3 @@
+The second of the Bomberman series released for the MSX platform. Bomberman is a single player game with a top down view and simplistic controls. In fact, in addition to movement, you only have a single ability: placing bombs. Each bomb explodes into a cross-shaped blast (4 directions) which can destroy either enemies or blocks. Power-ups may be found to increase the size of the blast, place additional bombs, increase the speed of the Bomberman or to walk through walls. Your goal on each level is to destroy all enemies and escape through the exit before the time limit is up.. Hitting the exit with a bomb blast releases more enemies which must also be destroyed.
+ 
+http://www.mobygames.com/game/msx/bomberman-specia

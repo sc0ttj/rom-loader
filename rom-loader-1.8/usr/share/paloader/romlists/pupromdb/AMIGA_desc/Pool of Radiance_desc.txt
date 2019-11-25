@@ -1,0 +1,95 @@
+You and and your party first help the city of Phlan defeat the evils that threaten it, then search for the legendary Pool of Radiance.  
+
+The first in a series of successful "gold box" AD&D games for SSI, you create your party and maneuver it through 1st-perspective dungeons and overhead-view turn-based sequences.
+ 
+http://www.mobygames.com/game/amiga/pool-of-radiance
+
+_________________________ 
+CHEATS: 
+
+Duplicate items:
+Create a temporary character. Load a saved game and
+transfer all the good items to the temp. Remove the temp from
+the party. Load the temp back in the party. Transfer the items
+to other party members. Drop the temp from the party. Return to
+the step where the temp is loaded back in the party and repeat
+the other steps as needed.
+
+Automatic victory:
+Press [Alt] + X or [Alt] + A
+when an enemy is about to move or attack.
+
+
+Level|Easy|MediumHard
+
+1|LQLGMT|XRSEHKOSOMAS
+
+2|KNIGHT|WYVERN9TROUT
+
+3|JUNGLE|VULCAN8OASIS
+
+4|IXYUSI|UICDRH7GNATS
+
+5|HARASH|TEMPLE6BROWN
+
+6|GOOGLE|SAVIOR5GUNGA
+
+7|FRIEND|RHUDIA4NINER
+
+8|EFREET|QUOHOG3MASAI
+
+9|DRAGON|POOLRD2IOLDD
+
+10|COPPER|OPTAWA1GKKRY
+
+11|BEWARE|NOTNOWZOMBIE
+
+12|AXEIAX|MLSSXSYUFSTA
+
+13|OSOMAS|LQLGMTXRSEHK
+
+14|9TROUT|KNUGHTWYVERN
+
+15|8OASIS|JUNGLEVULCAN
+
+16|7GNATS|IXYUSIUICDRH
+
+17|6BROWN|HARASHTEMPLE
+
+18|5GUNGA|GOOGLESAVIOR
+
+19|4NINER|FRIENDRHUDIA
+
+20|3MASAI|EFREETQUOHOG
+
+21|2IOLCD|DRAGONPOOLRD
+
+22|1GKKRY|COPPEROPTAWA
+
+23|ZOMBIE|BEWARENOTNOW
+
+24|YUFSTA|AXEIAXMLSSXS
+
+25|XRSEHK|OSOMASLQLGMT
+
+26|WYVERN|9TROUTKNIGHT
+
+27|VULCAN|8OASISJUNGLE
+
+28|UICDRH|7GNATSIXYUSI
+
+29|TEMPLE|6BROWNHARASH
+
+30|SAVIOR|5GUNGAGOOGLE
+
+31|RHUDIA|4NINERFRIEND
+
+32|GUOHOG|3MASAIEFREET
+
+33|POOLRD|2IOLCDDRAGON
+
+34|OPTAWA|1GKKRYCOPPER
+
+35|NOTNOW|ZOMBIEBEWARE
+
+36|MLSSXS|YUFSTAAXEIAX

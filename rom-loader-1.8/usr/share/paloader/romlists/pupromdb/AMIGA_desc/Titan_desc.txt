@@ -1,0 +1,100 @@
+Titan is a 2D arcade game / puzzle game hybrid.
+
+For some reason, mad professors of the future tend to invent strange entertainment games in which every participant dies. Professor Hybrys variant is called Titan and involves a ball, a control unit and 80 labyrinths. Your objective is either to destroy all destructible blocks in each level by hitting them with the sphere, or to pilot it to the exit. The black ball is beyond your control; it will bounce straight or diagonally through the labyrinth with constant speed. You move the control unit, a small box, with you are to position in a way that the ball bounces off it in the desired direction. You can also catch the sphere by quickly moving over it, and then release it in a direction of your choice.
+
+The labyrinths not only contain harmless, destructible blocks, but also increasingly difficult hazards. If the sphere or your control unit hit a skull symbol, one of your nine lives is lost. Teleporters exchange the position of you and the ball, wall pieces can be pushed around or destroyed by your unit, floor tiles will grow into walls when you pass over them too often. The high game speed can be slowed down by holding the space key - a very useful option in tricky situations.
+
+Titan mixes an arcade game foundation (requiring quick reflexes and good nerves) with puzzle game elements (requiring logical thinking to beat the complex levels). The challenge is to control the sphere accurately, yet indirectly.
+
+http://www.mobygames.com
+_________________________
+CHEATS:
+
+Cheat mode:
+
+Enter one of the following codes before starting level 4 to activate the corresponding cheat function.
+
+Effect: Code
+
+Unlimited lives: 41509
+
+Begin at level 80: danny
+
+Level: Password
+
+1: J4JMKR
+2: HBHCHC
+3: 4492LI
+5: 2401TO
+6: 1LO38
+7: 4KJOB
+8: 198075
+9: -OVR70
+10: H67JR1
+11: 4JBR8
+12: RDL89G
+13: B8JLJ4
+14: DNBE08
+15: TMV281
+16: LO9U3H
+17: 9JHTQN
+18: UKUTB8
+19: 1HFJO
+20: 1R7DCG
+21: V30906
+22: 4P4192
+23: 40RSHP
+24: E4DBQP
+25: LFPOBO
+26: 1H9615
+27: MOBOPV
+28: B9HH22
+29: RN4RH9
+30: BG6W61
+31: 1W1440
+32: 44080
+33: E396V3
+34: 740330
+35: 2L41H1
+36: SGOWOO
+37: 48H093
+38: FU5HJ9
+39: OGU9PI
+40: 294JBH
+41: B608S0
+42: P810B9
+43: KWOHME
+44: HC6YS8
+45: 90OPNO
+47: OOBI1O
+48: HOO1OK
+49: 1S4LOF
+50: D80N6D
+51: 3010LH
+52: K47OMT
+53: 9UPW9
+54: OVE032
+55: L29RHL
+56: 6ORROR
+57: H95LHT
+60: 9LQHVU
+61: HC932F
+62: 117938
+63: 6048HG
+64: 4F039H
+65: VOMO5V
+66: CO1FHT
+67: OS4500
+68: 2U4BO5
+69: CF6B71
+70: 88H102
+71: H844C3
+72: OO5HOR
+73: NOTON8
+74: OD8V01
+75: AH3HD8
+76: TIDDI2
+77: 43L6TV
+78: 8HH0H3
+79: 1I1S78
+80: OIP4GO

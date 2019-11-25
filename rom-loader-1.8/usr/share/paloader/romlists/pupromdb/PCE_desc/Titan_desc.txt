@@ -1,0 +1,3 @@
+A twist on the Breakout theme, Titan has you bounce one or many balls around a maze, nudging them to alter direction, to clear away all the blocks.
+
+http://www.pcengine.co.uk/HTML_Games/Titan.htm

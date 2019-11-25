@@ -1,0 +1,7 @@
+The subtitle "The moving puzzle game" should be interpreted literally; this is a puzzle game where the picture on the puzzle pieces are constantly animated. This can make piecing together the pieces quite difficult, or at least call for strategies not used in conventional puzzles.
+
+There are ten puzzles to choose from, and these can be divided into anything from 2x2 to 12x8 pieces. The pieces are not only scattered, they may also be turned upside down. 
+
+As you play the puzzle, your score starts to count down, and the rate of the countdown is heightened when you execute moves, turn the pieces or use the special features which will reveal a glimpse of the finished puzzle, automatically lay out pieces, or halt the animation. If the score reaches zero, the game is over.
+
+http://www.mobygames.com/game/msx/confused

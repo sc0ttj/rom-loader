@@ -1,0 +1,24 @@
+As Hercules, step forward to fight for immortality by pushing your intellect to its limits. Explore magnificent temples, lost cities, hidden underworlds and fiendish labyrinths confronting deviously intelligent adversaries all the way. The entire quest adjusts to your skill level, monitoring your every move to the thumping Bitmap Brothers soundtrack. Experiment wisely, for there are endless ways to conquer each level. GODS; it's all in your mind.
+
+Gameplay:
+
+Although at first Gods might seem a "jump and run" platformer, it soon becomes evident that while precise and timed jumping are required to progress, planning each move carefully yields better results health-wise than attempting to speedrun a level, and there are some puzzles (often involving levers and objects) which require the player to go back and forth in the level, since there's only a three space inventory where objects required to get bonuses (such as keys) or to complete a level can be carried. The console versions (especially the Mega Drive/Genesis port) run at a considerably higher speed, which increases the difficulty level greatly. A rumored Gameboy Advance ROM has been rumored to exist but at this stage it is not commercially available. It should also be noted that the console versions do not share the same opening theme music as the PC versions of the game. They do, however, have background music throughout the game, which is notably missing in the PC versions(The PC version only has background music throughout the game with a Roland LAPC-I).
+
+Weapons work somewhat like those found in shoot 'em ups. There are several weapons available in the levels or to buy, and up to three of each can be used simultaneously. It is also possible to vary the focus of the weapons: to destroy more enemies at the same horizontal level as the player, a tight angle is advisable, but in levels with open spaces and enemies in higher places, a diffuse aim might prove more useful. There are also other weapons, such as bouncing axes that can be used to take on enemies at a lower level or fireballs.
+
+There are four levels, each with a Guardian at the end. After completion of a level the player meets a trader, and depending on the wealth accumulated during the game (by catching diamond-shaped jewels or bags) can buy more powerful weapons or items (Xenon 2 Megablast uses the same idea).
+
+Hints:
+
+- Invincibility -
+On the password screen enter MESIENTOTANFELIZ, start the game and you will be invinsible.
+
+- Level Passwords -
+Passwords to take you to different levels are.
+1:NASHWAN
+2:COYOTE
+3:FOXX
+
+http://en.wikipedia.org/wiki/Gods_(video_game)
+http://www.gamefaqs.com/console/genesis/home/586213.html
+http://www.gamefaqs.com/console/genesis/code/586213.html

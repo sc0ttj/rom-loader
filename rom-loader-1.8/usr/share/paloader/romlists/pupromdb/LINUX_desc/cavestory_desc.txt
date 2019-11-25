@@ -1,0 +1,1 @@
+An excellent little retro style platformer, that has great gameplay if you stick with it. Originally made in Japanese, and translated to English. There is a Cfg loader in /usr/local/cavestory, where you can change settings.

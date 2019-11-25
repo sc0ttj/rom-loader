@@ -1,0 +1,21 @@
+The dates have changed, but the situation is the same. The Lone Star System has once again waged war against the peaceful Planet Nebula. Her wounds only recently healed, it's taken eighteen years for the planet to reverse the decimation and destruction the last attack left behind. Led once again by Reficul, Emperor of Lone, he's launched a fleet of attack ships to thwart any attempts to stop him. And that includes you.
+The mother ship Plealos is docked at Nebula's spaceport. She and her crew are commanded by Reficul inside the ship. It's your mission to pilot the super space jet Thunder Force II and guide it strategically to the port deep below the planet's surface. To succeed, you need to survive. And it won't be easy with five levels of intricate places to pass through where ultra combat weapon forces wait to demolish your ship.
+But first you've got to get there. Flying high above Nebula, the scene below looks very bad. And if staying out of the line of fire seems difficult now, be prepared for the worst later. Because once you're underground, even obstacles pose a threat to your chances for survival. This is stuff that separates the men from the boys. So good luck brave one, and remember, heads up!
+--From the Genesis Thunder Force 2 instruction manual.
+
+Gameplay:
+
+Stages in the game are split into two formats: the free-directional scrolling, overhead stage format from the previous game (referred to in game as "top-view stages"), and horizontal, forward-scrolling, R-Type-esque stages (referred to as "side-view" stages). Each stage begins in the top-view perspective, where the player has to locate the cores of a certain number of major enemy bases and destroy them. After this is accomplished, the stage continues from the side-view perspective, which plays like a traditional horizontal scrolling shooter. After the boss of the side-view sub stage is defeated, the player moves on to the next stage.
+
+Building upon its predecessor, Thunder Force II introduced a weapon system that would become the staple for the rest of the series. The player's ship now has default arsenal of weapons which include a twin, forward firing shot (the "Twin" shot), a single forward, and single backward firing shot (the "Back" shot), and a bomb shot in the top-view stages. By collecting certain items, the default weapons can be upgraded to more a powerful level. Also, the player could obtain a certain number of new weapons with various unique abilities by collecting the weapon's corresponding item (the "Hunter", a signature weapon of the series, debuts in this game).
+
+Once obtained, the weapons can be switched between at the player's desire, but if the ship is destroyed, all weapons are lost except for the defaults. The top-view and the side-view stages have different sets of weapons; losing weapons in the top-view stages do not affect the weapons equipped in the side-view stages and vice versa.
+
+Thunder Force II also introduced the CLAW add-ons; small pods which revolve around the ship. The function of the CLAWs is to block weak incoming bullets, and to provide extra firepower by firing single, normal shots. The player may acquire up to two CLAWs at a time, but will lose them upon ship destruction. Exclusive to this game is an item which temporally increases their orbit speed, making them more likely to block bullets.
+
+Hints:
+
+- Options menu -
+At the title screen, press and hold A, B, C, and then press Start. 
+
+http://www.consoleclassix.com/genesis/thunder_force_2.html

@@ -1,0 +1,7 @@
+This zip file comes with two patches. The STMUSIC.IPS file changes the menu music to a much less annoying tune. Trust me, youll want that patch. The SYLVANTL.IPS file contains the untouched? English translation, for you purist freaks.
+
+The screenshots are all from VERY early on because I kept forgetting to save my game. And the screenshots really suck too. But it gives you a good idea of how sweet the game is. Go play the game.
+
+Recently, Gideon Zhi has teamed up with z80gaiden to improve the patch, and hopes to soon offer a new release with an improved script, a VWF, two-line item names and translated map graphics.
+
+http://www.romhacking.net/trans/67/

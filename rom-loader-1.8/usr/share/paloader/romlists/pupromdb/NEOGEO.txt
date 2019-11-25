@@ -1,0 +1,166 @@
+2020 Super Baseball|NOID|9036d879|x|0|1991|Sports/Baseball|region-unknown|SNK / Pallas|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+3 Count Bout Fire Suplex|NOID|9036d879|x|0|1993|Sports/Wrestling|region-unknown|SNK|dev-unknown|AAMA - Yellow (Life Like Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Aero Fighters 2 Sonic Wings 2|986|9036d879|x|0|1994|Shooter/Flying|region-unknown|Video System Co.|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Aero Fighters 3 Sonic Wings 3|987|9036d879|x|0|1995|Shooter/Flying|region-unknown|Video System Co.|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Aggressors of Dark Kombat Tsuukai GANGAN Koushinkyoku|NOID|9036d879|x|0|1994|Fighter|region-unknown|ADK / SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Alpha Mission II ASO II Last Guardian|6463|9036d879|x|0|1991|Shooter/Flying|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Andro Dunos|6464|9036d879|x|0|1992|Shooter/Flying|region-unknown|Visco|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Art of Fighting Ryuuko no Ken|NOID|9036d879|x|0|1992|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Art of Fighting 2 Ryuuko no Ken 2|NOID|9036d879|x|0|1994|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Art of Fighting 3 The Path of the Warrior Art of Fighting Ryuuko no Ken Gaiden|NOID|9036d879|x|0|1996|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Bang Bead|6466|9036d879|x|0|2000|Sports|region-unknown|Visco|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Baseball Stars 2|1488|9036d879|x|0|1992|Sports/Baseball|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Baseball Stars Professional|1489|9036d879|x|0|1990|Sports/Baseball|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Battle Flip Shot|6467|9036d879|x|0|1998|Sports|region-unknown|Visco|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Blazing Star|6468|9036d879|x|0|1998|Shooter/Flying|region-unknown|Yumekobo|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Blue's Journey Raguy|NOID|9036d879|x|0|1990|Platformer|region-unknown|Alpha Denshi Co.|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Breakers|6469|9036d879|x|0|1996|Fighter|region-unknown|Visco|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Breakers Revenge|10051|9036d879|x|0|1998|Fighter|region-unknown|Visco|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Burning Fight|1335|9036d879|x|0|1991|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Captain Tomaday|10052|9036d879|x|0|1999|Shooter/Flying|region-unknown|Visco|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Crossed Swords|6471|9036d879|x|0|1991|Fighter|region-unknown|Alpha Denshi Co.|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Cyber-Lip|6472|9036d879|x|0|1990|Platformer|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Double Dragon|18532|9036d879|x|0|1995|Fighter|region-unknown|Technos Japan|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Eight Man|10053|9036d879|x|0|1991|Platformer|region-unknown|SNK / Pallas|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Far East of Eden Kabuki Klash Tengai Makyou Shin Den|NOID|9036d879|x|0|1995|Fighter|region-unknown|Hudson|dev-unknown|AAMA - Yellow (Life Like Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Fatal Fury King of Fighters Garou Densetsu shukumei no tatakai|NOID|9036d879|x|0|1991|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Fatal Fury 2 Garou Densetsu 2 arata-naru tatakai|NOID|9036d879|x|0|1992|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Fatal Fury 3 Road to the Final Victory Garou Densetsu 3 haruka-naru tatakai|NOID|9036d879|x|0|1995|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Fatal Fury Special Garou Densetsu Special|NOID|9036d879|x|0|1993|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Fight Fever|10055|9036d879|x|0|1994|Fighter|region-unknown|Viccom|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Football Frenzy|10054|9036d879|x|0|1992|Sports/Football|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Galaxy Fight|NOID|No CRC|x|0|1993|Sports/Wrestling|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Ganryu Musashi Ganryuki|NOID|9036d879|x|0|1999|Platformer|region-unknown|Visco|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Garou Mark of the Wolves|1336|9036d879|x|0|1999|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Ghost Pilots|976|9036d879|x|0|1991|Shooter/Flying|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Ghostlop|10058|9036d879|x|0|1996|Puzzle|region-unknown|Data East Corporation|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Goal! Goal! Goal!|10059|9036d879|x|0|1995|Sports/Soccer|region-unknown|Visco|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Gururin|10060|9036d879|x|0|1994|Puzzle|region-unknown|Face|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Karnov's Revenge Fighter's History Dynamite|NOID|9036d879|x|0|1994|Fighter|region-unknown|Data East Corporation|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+King of the Monsters|8673|9036d879|x|0|1991|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+King of the Monsters 2 The Next Thing|NOID|9036d879|x|0|1992|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Kizuna Encounter Super Tag Battle Fu'un Super Tag Battle|NOID|9036d879|x|0|1996|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Last Resort|1494|9036d879|x|0|1992|Shooter/Flying|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+League Bowling|2608|9036d879|x|0|1990|Sports/Bowling|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Legend of Success Joe Ashitano Joe Densetsu|NOID|9036d879|x|0|1991|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Magical Drop II|982|9036d879|x|0|1996|Puzzle|region-unknown|Data East Corporation|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Magical Drop III|983|9036d879|x|0|1997|Puzzle|region-unknown|Data East Corporation|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Magician Lord|1495|9036d879|x|0|1990|Platformer|region-unknown|Alpha Denshi Co.|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Matrimelee Shin Gouketsuji Ichizoku Toukon|NOID|9036d879|x|0|2002|Fighter|region-unknown|Noise Factory / Atlus|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Metal Slug Super Vehicle-001|NOID|9036d879|x|0|1996|Platformer|region-unknown|Nazca|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Metal Slug 2 Super Vehicle-001 II|NOID|9036d879|x|0|1998|Platformer|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Metal Slug 3|224|9036d879|x|0|2000|Platformer|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Metal Slug 4|225|9036d879|x|0|2002|Platformer|region-unknown|Mega / Playmore|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Metal Slug 5|226|9036d879|x|0|2003|Platformer|region-unknown|SNK Playmore|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Metal Slug X Super Vehicle-001|NOID|9036d879|x|0|1999|Platformer|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Money Puzzle Exchanger Money Idol Exchanger|17883|9036d879|x|0|1997|Puzzle|region-unknown|Face|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Mutation Nation|1496|9036d879|x|0|1992|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+NAM-1975|1338|9036d879|x|0|1990|Shooter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Neo Bomberman|10451|9036d879|x|0|1997|Maze|region-unknown|Hudson|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Neo Drift Out New Technology|NOID|9036d879|x|0|1996|Driving|region-unknown|Visco|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Neo Mr. Do!|10453|9036d879|x|0|1996|Maze|region-unknown|Visco|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Neo Turf Masters Big Tournament Golf|NOID|9036d879|x|0|1996|Sports/Golf|region-unknown|Nazca|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Neo-Geo Cup '98 The Road to the Victory|NOID|9036d879|x|0|1998|Sports/Soccer|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Nightmare in the Dark|10454|9036d879|x|0|2000|Platformer|region-unknown|Eleven / Gavaking|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Ninja Combat|10450|9036d879|x|0|1990|Fighter|region-unknown|Alpha Denshi Co.|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Ninja Commando|1497|9036d879|x|0|1992|Shooter|region-unknown|Alpha Denshi Co.|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Ninja Master's haoh-ninpo-cho|NOID|9036d879|x|0|1996|Fighter|region-unknown|ADK / SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Over Top|10455|9036d879|x|0|1996|Driving|region-unknown|ADK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Panic Bomber|NOID|9036d879|x|0|1994|Puzzle|region-unknown|Eighting / Hudson|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Pleasure Goal Futsal 5 on 5 Mini Soccer|NOID|9036d879|x|0|1996|Sports/Soccer|region-unknown|Saurus|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Pochi and Nyaa|10458|9036d879|x|0|2003|Puzzle|region-unknown|Aiky / Taito|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Pop 'n Bounce Gapporin|NOID|9036d879|x|0|1997|Breakout|region-unknown|Video System Co.|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Power Spikes II|10461|9036d879|x|0|1994|Sports|region-unknown|Video System Co.|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Prehistoric Isle 2|10460|9036d879|x|0|1999|Shooter/Flying|region-unknown|Yumekobo|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Pulstar|8675|9036d879|x|0|1995|Shooter/Flying|region-unknown|Aicom|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Puzzle Bobble Bust-A-Move|NOID|9036d879|x|0|1994|Puzzle|region-unknown|Taito|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Puzzle Bobble 2 Bust-A-Move Again|6470|9036d879|x|0|1999|Puzzle|region-unknown|Taito (SNK license)|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Puzzle De Pon!|10463|9036d879|x|0|1995|Puzzle|region-unknown|Taito (Visco license)|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Puzzle De Pon! R!|NOID|9036d879|x|0|1997|Puzzle|region-unknown|Taito (Visco license)|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Puzzled Joy Joy Kid|1337|9036d879|x|0|1990|Puzzle|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Rage of the Dragons|10468|9036d879|x|0|2002|Fighter|region-unknown|Evoga / Playmore|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Ragnagard Shin-Oh-Ken|NOID|9036d879|x|0|1996|Fighter|region-unknown|Saurus|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Real Bout Fatal Fury Real Bout Garou Densetsu|NOID|9036d879|x|0|1995|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Real Bout Fatal Fury 2 The Newcomers Real Bout Garou Densetsu 2 the newcomers|NOID|9036d879|x|0|1998|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Real Bout Fatal Fury Special Real Bout Garou Densetsu Special|NOID|9036d879|x|0|1996|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Riding Hero|8676|9036d879|x|0|1990|Driving|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Robo Army|1500|9036d879|x|0|1991|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Samurai Shodown Samurai Spirits|NOID|9036d879|x|0|1993|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Samurai Shodown II Shin Samurai Spirits Haohmaru jigokuhen|NOID|9036d879|x|0|1994|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Samurai Shodown III Samurai Spirits Zankurou Musouken|NOID|9036d879|x|0|1995|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Samurai Shodown IV Amakusa's Revenge Samurai Spirits Amakusa Kourin|NOID|9036d879|x|0|1996|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Life Like Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Samurai Shodown V Samurai Spirits Zero|NOID|9036d879|x|0|2003|Fighter|region-unknown|Yuki Enterprise / SNK Playmore|dev-unknown|AAMA - Yellow (Life Like Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Samurai Shodown V Special Samurai Spirits Zero Special|NOID|9036d879|x|0|2004|Fighter|region-unknown|Yuki Enterprise / SNK Playmore|dev-unknown|AAMA - Yellow (Life Like Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Savage Reign Fu'un Mokushiroku kakutou sousei|NOID|9036d879|x|0|1995|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Sengoku Sengoku Denshou|NOID|9036d879|x|0|1991|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Sengoku 2 Sengoku Denshou 2|NOID|9036d879|x|0|1993|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Sengoku 3 Sengoku Densho 2001|NOID|9036d879|x|0|2001|Fighter|region-unknown|Noise Factory / SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Shock Troopers|8679|9036d879|x|0|1997|Shooter|region-unknown|Saurus|dev-unknown|AAMA - Yellow (Life Like Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Shock Troopers 2nd Squad|10473|9036d879|x|0|1998|Shooter|region-unknown|Saurus|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+SNK vs. Capcom SVC Chaos|10482|9036d879|x|0|2003|Fighter|region-unknown|SNK Playmore|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Soccer Brawl|10474|9036d879|x|0|1991|Soccer/Sports|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Spin Master Miracle Adventure|NOID|9036d879|x|0|1993|Platformer|region-unknown|Data East Corporation|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Stakes Winner Stakes Winner GI kinzen seihae no michi|NOID|9036d879|x|0|1995|Sports/Horse Racing|region-unknown|Saurus|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Stakes Winner 2|10480|9036d879|x|0|1996|Sports/Horse Racing|region-unknown|Saurus|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Street Hoop Street Slam Dunk Dream|NOID|9036d879|x|0|1994|Sports/Basketball|region-unknown|Data East Corporation|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Strikers 1945 Plus|10469|9036d879|x|0|1999|Shooter/Flying|region-unknown|Psikyo|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Super Dodge Ball Kunio no Nekketsu Toukyuu Densetsu|NOID|9036d879|x|0|1996|Sports|region-unknown|Technos Japan|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Super Sidekicks Tokuten Ou|NOID|9036d879|x|0|1992|Sports/Soccer|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Super Sidekicks 2 The World Championship Tokuten Ou 2 real fight football|NOID|9036d879|x|0|1994|Sports/Soccer|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Super Sidekicks 3 The Next Glory Tokuten Ou 3 eikoue no michi|NOID|9036d879|x|0|1995|Sports/Soccer|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Tecmo World Soccer '96|10485|9036d879|x|0|1996|Sports/Soccer|region-unknown|Tecmo|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+The Irritating Maze Ultra Denryu Iraira Bou|NOID|6d536c6e|x|0|1997|Maze/Trackball|region-unknown|SNK / Saurus|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters '94|977|9036d879|x|0|1994|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters '95|978|9036d879|x|0|1995|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters '96|979|9036d879|x|0|1996|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters '97|980|9036d879|x|0|1997|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters '98 The Slugfest King of Fighters '98 dream match never ends|NOID|9036d879|x|0|1998|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters '99 Millennium Battle|981|9036d879|x|0|1999|Fighter|region-unknown|SNK|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters 2000|10062|9036d879|x|0|2000|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters 2001|10063|9036d879|x|0|2001|Fighter|region-unknown|Eolith / SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters 2002|10064|9036d879|x|0|2002|Fighter|region-unknown|Eolith / Playmore|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The King of Fighters 2003|8261|9036d879|x|0|2003|Fighter|region-unknown|SNK Playmore|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The Last Blade Bakumatsu Roman Gekka no Kenshi|NOID|9036d879|x|0|1997|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The Last Blade 2 Bakumatsu Roman Dai Ni Maku Gekka no Kenshi|NOID|9036d879|x|0|1998|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The Super Spy|10481|9036d879|x|0|1990|Fighter|region-unknown|SNK|dev-unknown|AAMA - Red (Life Like Violence Strong)|media-unknown|controller-unknown|NEOGEO
+The Ultimate 11 The SNK Football Championship Tokuten Ou Honoo no Libero|NOID|9036d879|x|0|1996|Sports/Soccer|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Thrash Rally|1340|9036d879|x|0|1991|Driving|region-unknown|Alpha Denshi Co.|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Top Hunter Roddy and Cathy|10483|9036d879|x|0|1994|Platformer|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Top Player's Golf|10484|9036d879|x|0|1990|Sports/Golf|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Twinkle Star Sprites|1512|9036d879|x|0|1996|Shooter/Flying|region-unknown|ADK / SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Viewpoint|1513|9036d879|x|0|1992|Shooter/Flying|region-unknown|Sammy / Aicom|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Voltage Fighter Gowcaizer Choujin Gakuen Gowcaizer|NOID|9036d879|x|0|1995|Fighter|region-unknown|Technos Japan|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Waku Waku 7|10486|9036d879|x|0|1996|Fighter|region-unknown|Sunsoft|dev-unknown|AAMA - Yellow (Animated Violence Mild)|media-unknown|controller-unknown|NEOGEO
+Windjammers Flying Power Disc|NOID|9036d879|x|0|1994|Sports|region-unknown|Data East Corporation|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+World Heroes|988|9036d879|x|0|1992|Fighter|region-unknown|Alpha Denshi Co.|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+World Heroes 2|989|9036d879|x|0|1993|Fighter|region-unknown|ADK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+World Heroes 2 Jet|10487|9036d879|x|0|1994|Fighter|region-unknown|ADK / SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+World Heroes Perfect|990|9036d879|x|0|1995|Fighter|region-unknown|ADK / SNK|dev-unknown|AAMA - Red (Animated Violence Strong)|media-unknown|controller-unknown|NEOGEO
+Zed Blade Operation Ragnarok|NOID|9036d879|x|0|1994|Shooter/Flying|region-unknown|NMK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+Zupapa!|10488|9036d879|x|0|2001|Platformer|region-unknown|SNK|dev-unknown|AAMA - Green (Suitable For All Ages)|media-unknown|controller-unknown|NEOGEO
+DoDonPachi|215|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Super Baseball 2020|1486|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Ironclad|1490|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Ninja Masters|1498|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Fatal Fury Wild Ambition|8259|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Fast Striker|6474|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+JoJo's Venture|8260|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Marvel Super Heroes|8263|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Marvel Super Heroes vs. Street Fighter|8264|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Neo Geo Cup '98 The Road to the Victory|8505|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Battletoads|9086|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Golden Axe II|9094|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Galaxy Fight Universal Warriors|10056|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Power Instinct Matrimelee|10067|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Bomberman Panic Bomber|10456|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Pleasure Goal 5 on 5 Mini Soccer|10457|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Spinmaster|10475|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Ultimate 11 SNK Football Championship|10478|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Bakatonosama Mahjong Manyuki|18953|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Chibi Maruko-chan Deluxe Quiz|18954|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Mahjong Kyōretsuden|18955|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Minnasan no Okagesama Desu! Dai Sugoroku Taikai|18956|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Quiz Daisōsa Sen The Last Count Down|18957|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Quiz Meitantei Neo and Geo Quiz Daisōsasen Part 2|18958|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Quiz King of Fighters|18959|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO
+Shōgi no Tatsujin Master of Syougi|18960|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|NEOGEO

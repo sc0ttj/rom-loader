@@ -1,0 +1,14 @@
+Railroad Tycoon allows you to build and run your own railroad company. Play against three computer opponents in either the northeastern United States in 1830, the western United States in 1866, 1828 England, or in 1900 Europe. A choice of four levels of difficulty and three reality levels give you the options for how challenging to make the game.
+
+Starting with $1,000,000, build stations, railroad tracks, and trains. Give each train a route and cargo assignment to start generating income. As time passes, new train engines are invented, giving you the opportunity to replace your old ones.
+
+Starting a rate war at a computer-controlled train station may cause you to take over the station. Purchasing more than half of a computer opponent's stock gives you control of its railroad. Be careful, because the computer can do the same to you.
+
+http://www.allgame.com/
+_________________________
+CHEAT:
+
+Extra money:
+Hold [Shift] + Y to add to your money total. Note: Do not go over $32,000,000. 
+$500,000:
+Press [Shift] + 4 at the top layer of maps. Note: This can only be enabled from the main continent screen.

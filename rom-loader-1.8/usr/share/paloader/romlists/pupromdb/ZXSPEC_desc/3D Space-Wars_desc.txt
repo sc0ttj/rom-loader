@@ -1,0 +1,9 @@
+The first game to star the evil Seiddab, 3D Space Wars gives exactly what the title promises. As soon as you warp into outer space, your cockpit screen is filled with alien spaceships which must be shot down, for you are mankind's last hope, armed with the Earth's only remaining battle spaceship.
+
+Gameplay is arcade-oriented, with few cockpit gauges and displays to keep in mind. The three cockpit instruments are your radar, speed readout and fuel meter. You run out of fuel when you fire your phasors and when you are hit by enemy fire. You can replenish your fuel by docking with the fuel station which comes into view from time to time. Once all Seiddab spacecraft in the area are destroyed, you warp into the next zone.
+
+Trivia:
+
+3D Space Wars was Steve Turner's first game, and was written without any assembler, since it was in the very early days of the Spectrum. Instead, he had to write it in machine code on paper, convert it manually into hex and enter that as BASIC strings. The graphics were designed in a similar manner. The game was written in three months.
+
+http://www.mobygames.com/game/zx-spectrum/3d-space-wars

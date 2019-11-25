@@ -1,0 +1,1222 @@
+A.E.|NOID|35484751|x|0|1984|Shooter/Multi-Screen|USA (Prototype)|No Publisher|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Adventure II Demos|NOID|518f8178,fbaeefad,ab4a00a5,a4496291,9398ee52|x|0|2003|Adventure/Multi-Screen|USA (Demo)|AtariAge|Ron Lloyd (Programmer), Keith|No Rating|Cartridge|Analog Joystick|Atari800
+Adventure II: Advanced and Special Levels|NOID|aa600fac|x|0|2007|Adventure/Multi-Screen|USA (Homebrew)|AtariAge|AtariAge|No Rating|Cartridge|Analog Joystick|Atari800
+Adventure II: Easy and Intermediate Levels|NOID|69cc2cd6,fc32e3d5|x|0|2007|Adventure/Multi-Screen|USA (Homebrew)|AtariAge|AtariAge|No Rating|Cartridge|Analog Joystick|Atari800
+Analog Classics|NOID|21a5e7f7|x|0|No Date|Arcade/Action|USA (800 to 5200 Conversion)|Analog Computing|Analog Computing|No Rating|Cartridge|Analog Joystick|Atari800
+Archon: The Light and the Dark|NOID|b4085901|x|0|No Date|Strategy/Action|USA (800 to 5200 Conversion)|Electronic Arts|Free Fall Associates|No Rating|Cartridge|Analog Joystick|Atari800
+Asteroids|NOID|38480891,8d2aaab5|x|0|1982|Arcade/Shooter|USA (Prototype)|Tod Frye|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Asteroids: Vector Edition|NOID|c5bd8bad|x|0|No Date|Arcade/Shooter|USA (Homebrew)|No Publisher|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Astro Chase|NOID|4019ecec|x|0|1983|Shoot 'em Up|USA|Parker Brothers|First Star Software|No Rating|Cartridge|Analog Joystick|Atari800
+B.C.'s Quest for Tires|NOID|a3a16596|x|0|No Date|Action/Side-Scrolling|USA (800 to 5200 Conversion)|Sierra On-Line|Sierra On-Line|No Rating|Cartridge|Analog Joystick|Atari800
+Ballblazer|NOID|94d97d14,def2a207,820e5ce5|x|0|1983|Sports/Soccer|USA|Atari|Lucasfilm Games|No Rating|Cartridge|Analog Joystick|Atari800
+Barroom Baseball|NOID|21d19c8f|x|0|1983|Sports|USA (Prototype)|Atari|James Andreassen and Keithen|No Rating|Cartridge|Analog Joystick|Atari800
+Battlezone|NOID|b3b8e314|x|0|1983|Arcade/First|USA (Prototype)|Atari|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Beamrider|NOID|02d9b87a,9bae58dc,71fa5a79|x|0|1984|Action/Shooter|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Beefdrop Demo|NOID|48a43bae|x|0|No Date|Arcade/Multi-Screen|USA (Demo)|AtariAge|Ken Siders|No Rating|Cartridge|Analog Joystick|Atari800
+Berzerk|NOID|cbf1a137,be3cd348,cc740e26|x|0|1983|Arcade/Shooter|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Black Belt|NOID|ed47b0d8|x|0|1983|Beat 'em Up|USA (Prototype)|Atari|Alan Moss Sr. (Programmer)|No Rating|Cartridge|Analog Joystick|Atari800
+Blaster|NOID|c8f9c094|x|0|1984|Arcade/Shooter|USA (Prototype)|None|Eugene Jarvis, Larry DeMar|No Rating|Cartridge|Analog Joystick|Atari800
+Blue Print|NOID|0624e6e7,13734e17,40d08988,74a59340,69584e01,746c3b89,613b9379,e7205e7e|x|0|1983|Arcade|USA|CBS Electronics|Solitaire Group|No Rating|Cartridge|Analog Joystick|Atari800
+Boogie Demo|NOID|7a9d9f85|x|0|1982|Demo/Music|USA (Demo)|No Publisher|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Bounty Bob Strikes Back!|NOID|57e7945e,74e6a611,efa4915d,02931055|x|0|1984|Platformer/Multi-Screen|USA|Big Five Software|Big Five Software|No Rating|Cartridge|Analog Joystick|Atari800
+Buck Rogers: Planet of Zoom|NOID|04807705,20df4927,c8035788,a3f12cce|x|0|1983|Arcade/Shooter|USA|Sega Enterprises|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Buried Buck$|NOID|1d161671|x|0|No Date|Action|USA (800 to 5200 Conversion)|Analog Software|Analog Software|No Rating|Cartridge|Analog Joystick|Atari800
+Captain Beeble|NOID|2a7b2df7|x|0|No Date|Shoot 'em Up|USA (800 to 5200 Conversion)|Inhome Software|Inhome Software|No Rating|Cartridge|Analog Joystick|Atari800
+Castle Blast|NOID|fa0648ef,2e0b4c50,7c988054|x|0|2002|Action|USA|Self-Published|Ronen Habot|No Rating|Cartridge|Analog Joystick|Atari800
+Castle Crisis|NOID|47acda14,ae022b8a|x|0|2003|Arcade/Action|USA|Self Published|Bryan Edewaard|No Rating|Cartridge|Analog Joystick|Atari800
+Caverns of Mars|NOID|d1b64581|x|0|No Date|Shooter/Vertical|USA (800 to 5200 Conversion)|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Centipede|NOID|536a70fe|x|0|1982|Shooter/Action|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Chess|NOID|0f6c1af4|x|0|1983|Board Game ,|USA (800 to 5200 Conversion)|Parker Brothers|Parker Brothers|No Rating|Cartridge|Analog Joystick|Atari800
+Chicken|NOID|b2d018b1|x|0|1982|Action|USA (800 to 5200 Conversion)|Synapse Software|Synapse Software|No Rating|Cartridge|Analog Joystick|Atari800
+Choplifter!|NOID|9ad53bbc,0851d277|x|0|1984|Shoot 'em Up|USA|Atari|Broderbund|No Rating|Cartridge|Analog Joystick|Atari800
+Combat II: Advanced|NOID|2e3d0ad9|x|0|2002|Action|USA (Demo)|Self Published|Mean Hamster Software|No Rating|Cartridge|Analog Joystick|Atari800
+Congo Bongo|NOID|82b91800,f1f42bbd,7bb360f5,28ec8516,7a588045|x|0|1984|Arcade|USA|Sega|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Countermeasure|NOID|fd541c80,a993c86e,657d6376|x|0|1984|Action|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Crystal Castles|NOID|d3b10b5d,596f61d1|x|0|No Date|Arcade/Isometric|USA (800 to 5200 Conversion)|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Defender|NOID|ebad58ba,0d7454a1,bd52623b,161cbe09|x|0|1983|Arcade/Shooter|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Dig Dug|NOID|d29bb9a9,6a687f9c,251a4d25,7e046898|x|0|1983|Arcade|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Donkey Kong|NOID|f20b9d70|x|0|No Date|Arcade/Platformer|USA (800 to 5200 Conversion)|Atari|Nintendo|No Rating|Cartridge|Analog Joystick|Atari800
+Donkey Kong Jr.|NOID|5bcc40f9|x|0|No Date|Arcade/Platformer|USA (800 to 5200 Conversion)|Atari|Nintendo|No Rating|Cartridge|Analog Joystick|Atari800
+Dust in the Wind|NOID|f92da5f7|x|0|No Date|Demo/Music|USA (Demo)|No Publisher|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Forbidden Forest/Slinky|NOID|f3f82a4d|x|0|No Date|Platformer/Action|USA (800 to 5200 Conversion)|Cosmi|Cosmi|No Rating|Cartridge|Analog Joystick|Atari800
+Freecell XE|NOID|2d2a2807|x|0|No Date|Card Game ,|USA (800 to 5200 Conversion)|Flop|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Frogger|NOID|ae7e3444,99dc4f40,1062ef6a,8db0dde4,7936aa92,0b7e77fc,40e9476c|x|0|1983|Arcade|USA|Parker Bros|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Frogger II: Threeedeep!|NOID|0af19345,dc1437d0,1418c44a,0fe438b3,110d6fbc,7a5b4f65|x|0|1984|Arcade|USA|Parker Bros|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Galaxian|NOID|430f87d1,3ef4a23f,d4977e3b,a6dfa355,d60027be|x|0|1982|Arcade/Shooter|USA|Atari|Namco|No Rating|Cartridge|Analog Joystick|Atari800
+Gateway To Apshai|NOID|59ec9114|x|0|1983|Role Playing Game|USA (800 to 5200 Conversion)|Epyx|Epyx|No Rating|Cartridge|Analog Joystick|Atari800
+Gorf|NOID|97b15243,e955db74|x|0|1983|Arcade/Shooter|USA|CBS Electronics|Midway|No Rating|Cartridge|Analog Joystick|Atari800
+Gorf (Fixed)|NOID|7f732dc9|x|0|1982|Arcade/Shooter|USA|Roklan/CBS Games|Roklan|No Rating|Cartridge|controller-unknown|Atari800
+Gremlins|NOID|15d0cfc2,b1d4dc8e,063ec2c4|x|0|1984|Action|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Gyruss|NOID|cfd4a7f9,1da47d01|x|0|1984|Arcade/Shooter|USA|Parker Bros|Konami|No Rating|Cartridge|Analog Joystick|Atari800
+H.E.R.O.|NOID|9af4db28,18a73af3,f145a21c,6062d3ce|x|0|1984|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+James Bond 007|NOID|d9ae4518,4f1374b7,6e70b70b,19b4e3a1|x|0|1983|Action|USA|Parker Bros|Parker Bros|No Rating|Cartridge|Analog Joystick|Atari800
+Joust|NOID|6b9b16dc,bfd30c01,f6ec618c|x|0|1983|Arcade/Action|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Jr. Pac-Man|NOID|59983c40,4da19779,3ecc921e,7c30592c,8e00a987|x|0|1983|Arcade/Maze|USA (800 to 5200 Conversion)|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Jumpman Jr.|NOID|e1fc86c0|x|0|1983|Platformer/Fixed|USA (800 to 5200 Conversion)|Epyx|Epyx|No Rating|Cartridge|Analog Joystick|Atari800
+Jungle Hunt|NOID|fdccde25,2c676662,1847a7d4|x|0|1983|Arcade/Multi-Screen|USA|Atari|Taito Corporation|No Rating|Cartridge|Analog Joystick|Atari800
+K-Razy Shootout|NOID|ee702214,02cdfc70,5e8cbf78,636a01f5,4300f6ff|x|0|1983|Action|USA|CBS Electronics|K-Byte|No Rating|Cartridge|Analog Joystick|Atari800
+KABOOM!|NOID|420f5d0b,8591be3d,c2e2e645|x|0|1983|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Keystone Kapers|NOID|22163e26,8fe3bb2c,e905ed94,465e1763|x|0|1984|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Koffi: Yellow Kopter|NOID|edfd0784,fe253c69,917be656|x|0|2003|Action|USA|Self Published|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Looney Tunes Hotel|NOID|84df4925,57761b66,b1cec23f,b9ea8f11,e196b940|x|0|1983|Platformer|USA (Prototype)|Atari|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Mario Bros.|NOID|6b3f1179,d90f8119,873742f1,431ff2ff|x|0|1983|Platformer/Arcade|USA|Atari|Nintendo|No Rating|Cartridge|Analog Joystick|Atari800
+Meebzork|NOID|9fb13411,72c2c702|x|0|1983|Action|USA (Prototype)|Atari|Eric Manghise, Marilyn Churchill|No Rating|Cartridge|Analog Joystick|Atari800
+Megamania|NOID|240a1e1a,74163d4b,b3c5130c|x|0|1983|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Meteorites|NOID|ab8e035b,6287fd9b,59013ecc,6dcd610d|x|0|1984|Action|USA|Electra Concepts|Electra Concepts|No Rating|Cartridge|Analog Joystick|Atari800
+Microgammon SB|NOID|960ce5e2,931a454a,f60601bd|x|0|1983|Board Game|USA (Prototype)|Atari|Steve Baker|No Rating|Cartridge|Analog Joystick|Atari800
+Millipede|NOID|fcb208a3,969cfe1a,fb7e45da,82457872,a42883bc|x|0|1984|Shooter|USA (Prototype)|Atari|Stephan R. Crandall, Gary|No Rating|Cartridge|Analog Joystick|Atari800
+Miner 2049er|NOID|7df1adfb,f03d6b06,6b1478bf,955bacad|x|0|1983|Action|USA|Big Five Software|Big Five Software|No Rating|Cartridge|Analog Joystick|Atari800
+Miniature Golf|NOID|621f8e89,c597c087,3382642a|x|0|1983|Sports/Mini|USA (Prototype)|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Missile Command|NOID|915d6952,d3f15631,8de027d5,44d3ff6f|x|0|1982|Action|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Montezuma's Revenge|NOID|2a640143,bcf677fb,3ec0b7e2,bd4404d9|x|0|1983|Action|USA|Parker Bros|Utopia Software|No Rating|Cartridge|Analog Joystick|Atari800
+Moon Patrol|NOID|d0b2f285,a8c7d41e,b845edb8,1128cd53|x|0|1983|Action|USA|Atari|Williams|No Rating|Cartridge|Analog Joystick|Atari800
+Mountain King|NOID|0f24243c,f6c6feaa,4992f047,7e12baf7,79748c93|x|0|1983|Action|USA|CBS Electronics|K-Byte|No Rating|Cartridge|Analog Joystick|Atari800
+Mr. Do!'s Castle|NOID|aa55f9be,7f7ea877,0d367519,457fb9b3,f1b9a24a|x|0|1984|Action|USA|Parker Bros|Universal|No Rating|Cartridge|Analog Joystick|Atari800
+Ms. Pac-Man|NOID|af6091c1,e9e2c34b,752f5efd,f91d18cf|x|0|1982|Arcade/Maze|USA|Atari|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Pac-Man|NOID|e7952627,34b673ed,8873ef51,031d0206,e270517e|x|0|1982|Action|USA|Atari|Namco|No Rating|Cartridge|Analog Joystick|Atari800
+Pac-Man Plus|NOID|d3363d1c|x|0|No Date|Maze|USA (800 to 5200 Conversion)|Atari|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Pengo|NOID|968d727d,e4f8ba8c,d8a9fe0a|x|0|1983|Action|USA|Atari|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Pitfall II: Lost Caverns|NOID|4b910461,14db6854,1668cf3b,f06b7d0d,e43b7e1c|x|0|1984|Platformer/Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Pitfall!|NOID|b2887833,72066f45,17762954,858bdf1c|x|0|1983|Platformer/Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Pole Position|NOID|abc2d1e4,581570c4,375c578e|x|0|1983|Racing/Arcade|USA|Atari|Namco|No Rating|Cartridge|Analog Joystick|Atari800
+Popeye|NOID|a18a9a40,1cee2326,00fce79a,a35d5e6a|x|0|1983|Action|USA|Parker Bros|Nintendo|No Rating|Cartridge|Analog Joystick|Atari800
+Preppie!|NOID|3fa5cf26|x|0|1982|Arcade|USA (800 to 5200 Conversion)|Adventure International|Star Systems Software|No Rating|Cartridge|Analog Joystick|Atari800
+Q-Bert|NOID|3fe4a401,2ffe9622,3c33f26e,ff3f0472|x|0|1983|Action|USA|Parker Bros|D. Gottlieb & Co.|No Rating|Cartridge|Analog Joystick|Atari800
+QIX|NOID|85f750d4,b346d4ab,aea6d2c2,5168962d|x|0|1982|Action|USA|Atari|Taito|No Rating|Cartridge|Analog Joystick|Atari800
+Quest for Quintana Roo|NOID|b5f3402b,9dbf341f,53b470be|x|0|1984|Action|USA|Sunrise|VSS|No Rating|Cartridge|Analog Joystick|Atari800
+Rally Speedway|NOID|d9e3fb4d|x|0|1983|Racing/Cars|USA (800 to 5200 Conversion)|Adventure International|Adventure International|No Rating|Cartridge|Analog Joystick|Atari800
+Realsports Baseball|NOID|44166592,de0fa87c,7a9cb876|x|0|1983|Sports/Baseball|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Realsports Basketball|NOID|c90196fa,db834f88,dd217276,0f996184,2269f143|x|0|1983|Sports/Basketball|USA (Prototype)|Atari|Patrick Bass|No Rating|Cartridge|Analog Joystick|Atari800
+Realsports Football|NOID|7a182f89,4336c2cc,5e8951f4|x|0|1982|Sports/Football|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Realsports Soccer|NOID|3d75d4dc,295435b6,13c459d5,ecbd1853|x|0|1982|Sports/Soccer|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Realsports Tennis|NOID|10f33c90,9a34cbdc|x|0|1983|Sports/Tennis|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Rescue on Fractalus|NOID|762c591b,1ca549ad,dd4f8f81|x|0|1984|Action/First|USA|Atari|Lucasfilm Games|No Rating|Cartridge|Analog Joystick|Atari800
+River Raid|NOID|51c5bc75,6615d5db,09fc7648,1f6730ba,6e601d81,15ad3a8f|x|0|1983|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Road Runner|NOID|1b38dac0,a97606ab|x|0|1983|Action|USA (Prototype)|Atari|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Robotron: 2084|NOID|538f2354,4252abd9,ec80b709,301a76b7,528fc44a|x|0|1983|Arcade/Shooter|USA|Atari|Williams Electronic Games|No Rating|Cartridge|Analog Joystick|Atari800
+Satan's Hollow|NOID|d162c031|x|0|1982|Arcade/Shooter|USA (800 to 5200 Conversion)|CBS Software|Bally Midway|No Rating|Cartridge|Analog Joystick|Atari800
+Space Dungeon|NOID|b68d61e8|x|0|1983|Action|USA|Atari|Taito|No Rating|Cartridge|Analog Joystick|Atari800
+Space Invaders|NOID|91fae605,de5c354a,53c6c68a,218e1be4|x|0|1982|Action|USA|Atari|Taito|No Rating|Cartridge|Analog Joystick|Atari800
+Space Shuttle: A Journey Into Space|NOID|387365dc,404aedac,66832f68,7d902f2a|x|0|1983|Simulation|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Spitfire|NOID|3c311303,db982c2f,051a76ca|x|0|1983|Flight Simulator|USA (Prototype)|Atari|Joe Copson|No Rating|Cartridge|Analog Joystick|Atari800
+Sport Goofy|NOID|7bb4a0ab,97486a66,ede41a3f,73b5b6fb|x|0|1983|Sports|USA (Prototype)|Atari|Leo Salinas|No Rating|Cartridge|Analog Joystick|Atari800
+Spy Hunter|NOID|4eff1e32|x|0|1984|Arcade|USA (800 to 5200 Conversion)|Sega|Syndein Systems, Inc.|No Rating|Cartridge|Analog Joystick|Atari800
+Star Raiders|NOID|bf574b31,78d28196,19aa7a20,7d819a9f,5ec023ba|x|0|1982|Strategy/Shooter|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Star Trek: Strategic Operations Simulator|NOID|69f23548,519a9574,9df169d9|x|0|1983|Action|USA|Sega|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Star Wars: Return Of The Jedi - Death Star Battle|NOID|0675f0a5,08c8ed8a,d9f5cac7|x|0|1983|Action|USA|Parker Bros|Parker Bros|No Rating|Cartridge|Analog Joystick|Atari800
+Star Wars: The Arcade Game|NOID|75f566df,aea795f7|x|0|1983|Action|USA|Parker Bros|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Stargate|NOID|3229c915,1d1cee27,f527b721|x|0|1984|Shooter|USA (Prototype)|Atari|Steve Baker|No Rating|Cartridge|Analog Joystick|Atari800
+Super Breakout|NOID|54ed2ead,a0642110,1d02a598,6f4a78f6,c9066f06|x|0|1982|Action|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Super Cobra|NOID|97debcd2,d917c276,82e14ae9,f0a99787,2af38d2f|x|0|1983|Action|USA|Parker Bros|Konami|No Rating|Cartridge|Analog Joystick|Atari800
+Super Pac-Man|NOID|0a4ddb1e,82e2981f,b985be78,fd8f0cd4|x|0|1984|Maze|USA (Prototype)|Atari|Landon Dyer, Gary Johnson,|No Rating|Cartridge|Analog Joystick|Atari800
+Tapper|NOID|c18d30fa|x|0|1984|Arcade|USA (800 to 5200 Conversion)|Sega|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Tempest|NOID|1187342f|x|0|1983|Shooter|USA (Prototype)|Atari|Keithen Hayenga & Michael|No Rating|Cartridge|Analog Joystick|Atari800
+The Activision Decathlon|NOID|1f9ed238,f43e7cd0,76854603|x|0|1984|Sports/Competitive|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+The Dreadnaught Factor|NOID|460def2d,7226fee6,c26fbb5b|x|0|1983|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+The Last Starfighter|NOID|3761527f,83517703,b4c640f1|x|0|1984|Strategy/Shooter|USA (Prototype)|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Track and Field|NOID|0ba22ece,203d9cde,0ba22ec3,9e2484c8|x|0|1984|Sports/Competitive|USA (Prototype)|Atari|Bob Merrill|No Rating|Cartridge|Analog Joystick|Atari800
+Up'n Down|NOID|7c62a1cd|x|0|1984|Arcade|USA (800 to 5200 Conversion)|Sega|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Vanguard|NOID|98b3123a,caaea0a4,f3413a36|x|0|1984|Arcade/Shooter|USA|Atari|SNK|No Rating|Cartridge|Analog Joystick|Atari800
+Wizard of Wor|NOID|d6f7ddfd,60cfe8d6,a4bf0093,8017e56a|x|0|1981|Arcade/Shooter|USA|CBS Electronics|Roklan|No Rating|Cartridge|Analog Joystick|Atari800
+Xagon|NOID|338769e3|x|0|No Date|Platformer|USA (800 to 5200 Conversion)|No Publisher|Pentecost, D.|No Rating|Cartridge|Analog Joystick|Atari800
+Xari Arena|NOID|b8faaec3,78861424,c36cc9b2,53063521|x|0|1983|Action|USA (Prototype)|Atari|John Seghers, Courtney Granner|No Rating|Cartridge|Analog Joystick|Atari800
+Xevious|NOID|135655a9,382634dc,b709f1f8|x|0|1984|Shooter|USA (Prototype)|Atari|Jim Huether, Alan Murphy|No Rating|Cartridge|Analog Joystick|Atari800
+Yellow Sub Demo|NOID|f47bc091,12cc298f|x|0|1983|Demo|USA (Demo)|Atari|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Zaxxon|NOID|8304aefc,741746d1,21579706,2ba4ddca|x|0|1983|Action|USA|Sega|Sega|No Rating|Cartridge|Analog Joystick|Atari800
+Zenji|NOID|1ab5e425,da228530,ca1a962a,ebc6ec2e|x|0|1984|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+Zone Ranger|NOID|2959d827,02c9abc6,8f1e72e7|x|0|1984|Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari800
+180!|NOID|952edb68|x|0|1986|Sports/Darts|United Kingdom|Mastertronic|Mastertronic|No Rating|Tape|Joystick|Atari800
+3-D Tic-Tac-Toe|NOID|1cf50ebe,4660c404|x|0|1979|Board Game|USA|Atari|ATari|No Rating|Cartridge|Joystick|Atari800
+4 Star Compilation: Volume 1 (Side A)|NOID|49028a6f|x|0|No Date|Compilation/Arcade|USA|Red Rat Software|Red Rat Software|No Rating|Tape|Joystick|Atari800
+4 Star Compilation: Volume 1 (Side B)|NOID|aa118b3a|x|0|No Date|Compilation/Arcade|USA|Red Rat Software|Red Rat Software|No Rating|Tape|Joystick|Atari800
+Abracadabra!|NOID|a35c775d|x|0|1983|Action|USA|TG Software|TG Software|No Rating|Cartridge|Joystick|Atari800
+Ace of Aces|NOID|0dfce89f|x|0|1988|Flight Simulator ,|USA|Atari|Accolade|No Rating|Cartridge|Joystick|Atari800
+Acrobata|NOID|9a468a5d|x|0|No Date|Arcade|Italy|Lindasoft|Lindasoft|No Rating|Tape|Joystick|Atari800
+Action Biker|NOID|93b5bcfc|x|0|1986|Racing|United Kingdom|Masteronic|Masteronic|No Rating|Tape|Joystick|Atari800
+Action Pinball|NOID|f3071822|x|0|No Date|Pinball|German|No Publisher|Andreas Magenheimer|No Rating|Excutable|Joystick|Atari800
+Action Quest|NOID|6999d0ae|x|0|1982|Action|USA|JV Software|JV Software|No Rating|Tape|Joystick|Atari800
+Adax|NOID|1f301006|x|0|1992|Action|Poland|LK Avalon|LK Avalon|No Rating|Tape|Joystick|Atari800
+Advanced Pinball Simulator|NOID|4785f145|x|0|No Date|Pinball|United Kingdom|Code Masters|Code Masters|No Rating|Tape|Joystick|Atari800
+Adventure Creator|NOID|8746d9da|x|0|1984|Adventure/Fantasy|USA|Spinnaker|Spinnaker|No Rating|Cartridge|Joystick|Atari800
+Adventure I: Adventureland|NOID|94af3a0f|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure II: Pirate Adventure|NOID|d6424153|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure III: Mission Impossible|NOID|8d776aa5|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure IV: Voodoo Castle|NOID|8549d339|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure IX: Ghost Town|NOID|ad42cd12|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure V: The Count|NOID|629b4477|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure VI: Strange Odyssey|NOID|ba7f648c|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure VII: Mystery Fun House|NOID|51c856c9|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure VIII: Pyramid of Doom|NOID|95dff30b|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure X: Savage Island I|NOID|8cb4802c|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure XI: Savage Island II|NOID|f5d3c558|x|0|No Date|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventure XIII: The Sorcerer of Claymorgue Castle|NOID|2c8a6dbf|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Adventures of Robin Hood|NOID|7d20a3da|x|0|1984|Arcade|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Agent USA|NOID|5c082d94|x|0|1984|Adventure/Puzzle|USA|Scholastic Wizware|Tom Snyder Productions, Inc.|No Rating|Disk|Joystick|Atari800
+Air Rescue|NOID|22bb0b78|x|0|1991|Shoot 'em Up|United Kingdom|Atlantis Software|Atlantis Software|No Rating|Tape|Joystick|Atari800
+Airball|NOID|522622f3,a0ccb3c1|x|0|1988|Action|USA|Atari|Softworks Factory|No Rating|Cartridge|Joystick|Atari800
+Airline|NOID|0026f308|x|0|1982|Strategy|USA|Adventure International|Adventure International|No Rating|Tape|Joystick|Atari800
+Airstrike I|NOID|c3909b67|x|0|1982|Shoot 'em Up|United Kingdom|English Software|English Software|No Rating|Executable|Joystick|Atari800
+Airstrike II|NOID|c719bcf6,98b7de22|x|0|1983|Shoot 'em Up|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Airwolf|NOID|8fb9764d|x|0|1985|Shoot 'em Up|United Kingdom|Elite|Elite|No Rating|Tape|Joystick|Atari800
+Alf in the Color Caves|NOID|79df7f9d|x|0|1984|Educational|USA|Spinnaker Software|Joyce Hakansson Associates, Inc.|No Rating|Cartridge|Joystick|Atari800
+Alien|NOID|134f9400|x|0|No Date|Pinball|USA|No Publisher|dev-unknown|No Rating|Executable|Joystick|Atari800
+Alien Ambush|NOID|ad7bc30b,f7ee09b1|x|0|1983|Shooter|USA|DANA|Micro D|No Rating|Cartridge|Joystick|Atari800
+Alien Garden|NOID|3e27ed0f|x|0|1982|Strategy/Simulation|USA|Epyx|Epyx|No Rating|Cartridge|Joystick|Atari800
+Alien Hell|NOID|c07f2195|x|0|1981|Action|USA|Syncro, Inc.|Syncro, Inc.|No Rating|Tape|Joystick|Atari800
+Alley Cat|NOID|3a63364f|x|0|1983|Action|USA|Synapse Software|Synapse Software|No Rating|Executable|Joystick|Atari800
+Alpha Shield|NOID|a7ade454,1db4ef9|x|0|1983|Educational|USA|Sirius Software|Sirius Software|No Rating|Cartridge|Joystick|Atari800
+Alphabet Zoo|NOID|c9613ecd|x|0|1983|Educational|USA|Spinnaker|Spinnaker|No Rating|Cartridge|Joystick|Atari800
+Amaurote|NOID|8dba71c7|x|0|1987|Shoot 'em Up|United Kingdom|Mastertronic|Binary Design|No Rating|Tape|Joystick|Atari800
+Andromeda Conquest|NOID|0f598136|x|0|1982|Strategy|USA|Avalon Hill|Avalon Hill|No Rating|Disk|Joystick|Atari800
+Angle Worms & Crolon Diversion|NOID|f0c67917|x|0|1980|Action|USA|Adventure International|Adventure International|No Rating|Tape|Joystick|Atari800
+Animated Puzzle|NOID|1a4c75a7|x|0|1984|Puzzle|USA (Prototype)|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Another Brick in the Wall|NOID|c16301d7|x|0|1984|Breakout|United Kingdom|Page 6 Magazine|Page 6 Magazine|No Rating|Tape|Joystick|Atari800
+Ant Eater|NOID|c7290722|x|0|1982|Arcade|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Apple Panic|NOID|deaa7b1c|x|0|No Date|Platformer/Fixed|USA|No Publisher|dev-unknown|No Rating|Executable|Joystick|Atari800
+Arcade Classics|NOID|43c79ce3|x|0|1983|Compilation/Arcade|USA|Epyx|Epyx|No Rating|Disk (ATX)|Joystick|Atari800
+Arcade Fruit Machine|NOID|1362f245|x|0|1990|Casino|United Kingdom|Zeppelin Games|Zeppelin Games|No Rating|Tape|Joystick|Atari800
+Archon II: Adept|NOID|1e704599|x|0|No Date|Strategy/Action|USA|Electronic Arts|Free Fall Associates|No Rating|Executable|Joystick|Atari800
+Ardy the Aardvark|NOID|8f5ac82e,8875a96f|x|0|1983|Arcade|USA|Datamost|Datamost|No Rating|Disk|Joystick|Atari800
+Arena|NOID|8f8d24b2|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Executable|Joystick|Atari800
+Arex|NOID|df637218|x|0|1983|Arcade|USA|Adventure International|Adventure International|No Rating|Tape|Joystick|Atari800
+Arkanoid|NOID|a4c0e50e|x|0|1987|Breakout|United Kingdom|Imagine|Imagine|No Rating|Tape|Joystick, Paddles, Keyboard|Atari800
+Arkanoid II|NOID|a27bd9fd|x|0|1987|Breakout|Netherlands|Prof Soft Amsterdam|Prof Soft Amsterdam|No Rating|Tape|Joystick, Paddle, Keyboard|Atari800
+Asteroids II|NOID|ddba68cb|x|0|No Date|Arcade/Shooter|USA|No Publisher|dev-unknown|No Rating|Executable|Joystick|Atari800
+Astro Grover|NOID|f44a0aeb|x|0|1984|Educational|USA|CBS Software|CCW, Inc.|No Rating|Cartridge|Joystick|Atari800
+Astro-Droid|NOID|a373c6e2|x|0|1987|Shoot 'em Up|United Kingdom|Red Rat Software|Red Rat Software|No Rating|Tape|Joystick|Atari800
+Astro-Quotes|NOID|1fd81634,3ee5bf81,cfa72906|x|0|1980|Educational|USA|PDI|PDI|No Rating|Tape|Keyboard|Atari800
+Asylum|NOID|d9d6a564|x|0|1983|Adventure/Text|USA|Screenplay|Screenplay|No Rating|Disk|Keyboard|Atari800
+Atari Pinball|NOID|0966625c|x|0|No Date|Pinball|USA|No Publisher|dev-unknown|No Rating|Executable|Joystick|Atari800
+Atari Safari|NOID|f210b5c7|x|0|1985|Shoot 'em Up|USA|Illusion Software|Illusion Software|No Rating|Tape|Joystick|Atari800
+Atari Smash Hits: Volume 1|NOID|86f80949|x|0|1985|Compilation/Arcade|United Kingdom|English Software|English Software|No Rating|Disk (ATX)|Joystick|Atari800
+Atari Smash Hits: Volume 2|NOID|1da6c166,ac9b4d20|x|0|1984|Compilation/Arcade|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Atari Smash Hits: Volume 3|NOID|4cbb1688,b24d7ded|x|0|1985|Compilation/Arcade|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Atlantis|NOID|be0b390c,6a9a1405,a3bc3eb5|x|0|1983|Action/Shooter|USA|Imagic|Imagic|No Rating|Cartridge|Joystick|Atari800
+Atlantis Boulderdash|NOID|c867b5e2|x|0|2007|Arcade|Germany|Homesoft|First Star Software|No Rating|Executable|Joystick|Atari800
+Atomix Plus|NOID|4f408b7e|x|0|1983|Strategy/Puzzle|Czech Republic|Blackfire! Software|Blackfire! Software|No Rating|Executable|Joystick|Atari800
+Attack at EP-CYG-4|NOID|dca02ca0|x|0|1982|Shoot 'em Up|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Attack at EP-CYG-4: Mission Denor Ozo|NOID|6bf62bd1,bd5bbdbc|x|0|1982|Shoot 'em Up|USA|Bram|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Attack of the Mutant Camels|NOID|c1c4a42a|x|0|1983|Shoot 'em Up|USA|HES|Llamasoft|No Rating|Cartridge|Analog Joystick|Atari800
+Attack on the Death Star|NOID|fcd6d050|x|0|1982|Shoot 'em Up|USA|Antic Magazine|Antic Magazine|No Rating|Basic|Joystick|Atari800
+Axis Assassin|NOID|e8c2e1ac|x|0|No Date|Arcade/Tube|USA|No Publisher|dev-unknown|No Rating|Disk|Joystick|Atari800
+Aztec|NOID|611d127|x|0|1982|Adventure/Action|USA|Datamost|Datamost|No Rating|Disk|Joystick|Atari800
+Aztec Challenge|NOID|af7ad438|x|0|1983|Action/Side-Scrolling|USA|Cosmi|Cosmi|No Rating|Tape|Joystick|Atari800
+B-1 Nuclear Bomber|NOID|b761c189|x|0|No Date|Flight Simulator|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Bacterion!|NOID|8b028954|x|0|No Date|Shoot 'em Up|USA|Analog Computing|Analog Computing|No Rating|Executable|Joystick|Atari800
+Baja Buggies|NOID|b04d3676|x|0|1982|Racing/Third|USA|Gamestar|Gamestar|No Rating|Executable|Joystick|Atari800
+Ballblaster|NOID|ed5dfddc|x|0|1983|Sports/First|USA (Prototype)|No Publisher|Lucasfilm Games|No Rating|media-unknown|Analog Joystick|Atari800
+Bandits|NOID|fcf6e6f5|x|0|No Date|Shooter/Fixed|USA|No Publisher|dev-unknown|No Rating|Disk|Joystick|Atari800
+Bang! Bank!|NOID|4180721a|x|0|1992|Shoot 'em Up|Poland|Mirage Software|OUR 5oft|No Rating|Executable|Joystick|Atari800
+Barnyard Blaster|NOID|b0c0b88a|x|0|1987|Shooter/Light|USA|Atari|Atari|No Rating|Cartridge|Lightgun|Atari800
+Baseball|NOID|065c3fd2|x|0|1983|Sports/Baseball|USA|Inhome Software|dev-unknown|No Rating|media-unknown|Analog Joystick|Atari800
+Basil the Great Mouse Detective|NOID|b3255434,1db12d70,6afe1b43|x|0|1987|Arcade|United Kingdom|Gremlin Graphics|Gremlin Graphics|No Rating|Tape|Joystick|Atari800
+Basketball|NOID|79934851,230682eb|x|0|1979|Sports|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Batman|NOID|6e65b753|x|0|1991|Action|USA|Atari Project Team|Atari Project Team|No Rating|Executable|Joystick|Atari800
+Battalion Commander|NOID|1659d006|x|0|1985|Strategy|USA|SSI|SSI|No Rating|Disk|Joystick|Atari800
+Battle Of The Bands|NOID|No CRC|x|0|No Date|Strategy|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Battling Bugs|NOID|b6b2f1b3|x|0|1982|Educational|USA|Milliken|Milliken|No Rating|Tape|Keyboard|Atari800
+Battling Bugs & Concentration|NOID|c8d04a94|x|0|1982|Educational|USA|Milliken|Milliken|No Rating|Disk|Keyboard|Atari800
+Batty Builders|NOID|c1ba90e5|x|0|1983|Arcade|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Beach Head|NOID|1c7fddc6|x|0|No Date|Action/Shooter|USA|No Publisher|dev-unknown|No Rating|Disk|Joystick|Atari800
+Beach Landing|NOID|0c486d8e|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Disk|Joystick|Atari800
+Beer Belly Burt's Brew Biz|NOID|fdd12ce6|x|0|1986|Arcade|United Kingdom|Americana|American Eagle Software|No Rating|Disk|Joystick|Atari800
+Behind Jaggi Lines|NOID|ee50c7a0|x|0|1984|Action/First|USA (Prototype)|No Publisher|Lucasfilm Games|No Rating|media-unknown|Analog Joystick|Atari800
+Big Bird's Funhouse|NOID|9fd095e0|x|0|1984|Educational|USA|CCW, Inc|CBS Software|No Rating|Cartridge|Joystick|Atari800
+Big Bird's Special Delivery|NOID|6d93b4fa|x|0|1984|Educational|USA|CCW, Inc.|CBS Software|No Rating|Cartridge|Joystick|Atari800
+Bilbo|NOID|762150b3|x|0|No Date|Arcade/Maze|Germany|No Publisher|dev-unknown|No Rating|Executable|Joystick|Atari800
+Black Lamp|NOID|9cd8714b|x|0|1989|Arcade|United Kingdom|Atari|Atari|No Rating|Tape|Joystick|Atari800
+Blast!|NOID|d9b01485|x|0|No Date|Shoot 'em Up|USA|Analog Computing|Analog Computing|No Rating|Executable|Analog Joystick|Atari800
+Blinky's Scary School|NOID|3e2ac5c6|x|0|1990|Platformer/Action|United Kingdom|Zeppelin Games|Zeppelin Games|No Rating|Tape|Joystick|Atari800
+Blue Max (Cassette)|NOID|c86de228|x|0|1983|Shooter/Isometric|USA|Synsoft|Synapse Software|No Rating|Tape|Analog Joystick|Atari800
+Blue Max (Exe)|NOID|be11e0c8|x|0|1983|Shooter/Isometric|USA|Synapse Software|Synapse Software|No Rating|Executable|Joystick|Atari800
+Blue Max (XEG)|NOID|003f41ac|x|0|1987|Shooter/Isometric|USA|Atari|Synapse Software|No Rating|Cartridge|Joystick|Atari800
+Blue Max: 2001|NOID|9e9bbb31|x|0|1984|Shoot 'em Up|USA|Synapse Software|Synapse Software|No Rating|Disk (ATX)|Joystick|Atari800
+BMX Simulator|NOID|04d0d007|x|0|1986|Racing/Top|United Kingdom|Code Masters|Code Masters|No Rating|Tape|Joystick|Atari800
+Bomb Hunter|NOID|53c9ef91|x|0|1982|Arcade|United Kingdom|Channel 8 Software|Channel 8 Software|No Rating|Tape|Joystick|Atari800
+Bomb Jack|NOID|59c171a3|x|0|2008|Arcade|Poland|No Publisher|dev-unknown|No Rating|Executable|Joystick|Atari800
+Bombastic!|NOID|8bab256d|x|0|1983|Shoot 'em Up|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Bomber Attack|NOID|ea9da038|x|0|1982|Shoot 'em Up|USA|Avalon Hill|Avalon Hill|No Rating|Disk|Joystick|Atari800
+Boulder Dash|NOID|af778329|x|0|1984|Puzzle/Action|USA|First Star Software|First Star Software|No Rating|Cartridge|Joystick|Atari800
+Boulder Dash II: Rockford's Revenge|NOID|6f9c979c|x|0|1985|Arcade|USA|First Star Software|First Star Software|No Rating|Executable|Joystick|Atari800
+Boulder Dash III|NOID|cdc9b437|x|0|2007|Arcade|Germany|Homesoft|Homesoft|No Rating|Executable|Joystick|Atari800
+Boulders and Bombs|NOID|ab2ec21c,d6d51d3e|x|0|1982|Arcade|USA|CBS Software|K-Byte|No Rating|Cartridge|Joystick|Atari800
+Bristles|NOID|4263d64d|x|0|1983|Platformer|USA|First Star Software|First Star Software|No Rating|Cartridge|Analog Joystick|Atari800
+Bristles (Disk)|NOID|6823ac9c|x|0|1983|Platformer|USA|First Star Software|First Star Software|No Rating|Disk|Analog Joystick|Atari800
+Bruce Lee|NOID|06b5b62a|x|0|1984|Action|United Kingdom|US Gold|Datasoft|No Rating|Disk (ATX)|Joystick|Atari800
+Bubble Trouble|NOID|4b78c92f|x|0|1986|Arcade|United Kingdom|Players|Players|No Rating|Tape|Joystick|Atari800
+Bug Attack|NOID|a204d373|x|0|1982|Shoot 'em Up|USA|Cavalier Computer|Cavalier Computer|No Rating|Executable|Joystick|Atari800
+Bug Off!|NOID|2f0ca49b|x|0|1982|Shoot 'em Up|USA|Adventure International|Adventure International|No Rating|Executable|Joystick|Atari800
+California Run|NOID|07cc3f3b|x|0|1988|Racing/Third|United Kingdom|Alternative Software|Syntax Software|No Rating|Tape|Joystick|Atari800
+Candy Factory|NOID|c10d2f3a|x|0|1982|Action|USA|Gebelli Software|Gebelli Software|No Rating|Executable|Joystick|Atari800
+Cannibals|NOID|0c48204f|x|0|1983|Arcade|United Kingdom|Calisto Software|Calisto Software|No Rating|Tape|Joystick|Atari800
+Canyon Climber|NOID|485f0381|x|0|1982|Arcade|USA|Datasoft|Datasoft|No Rating|Disk|Joystick|Atari800
+Canyon Climber (Prototype)|NOID|2059a0c5|x|0|1982|Arcade|USA|Datasoft|Datasoft|No Rating|Executable|Joystick|Atari800
+Captain Sticky's Gold|NOID|55d3ba2f,f90c470f|x|0|1983|Shoot 'em Up|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Captivity|NOID|82cf6ac8|x|0|1981|Arcade|USA|PDI|PDI|No Rating|Disk|Joystick|Atari800
+Carnival Massacre|NOID|ea764851|x|0|1983|Shoot 'em Up|USA|Creative Sparks|Thorn Emi|No Rating|Cartridge|Joystick|Atari800
+Cassette 50|NOID|c9f63c44,d02d306a|x|0|1984|Arcade|United Kingdom|Cascade Games|Cascade Games|No Rating|Tape|Joystick|Atari800
+Casten Game Disk|NOID|7c4ee457|x|0|1985|Arcade|USA|Antic|Antic|No Rating|Disk|Joystick|Atari800
+Castle Assault|NOID|ded0af78|x|0|1986|Arcade|United Kingdom|Blue Ribbon Software|Blue Ribbon Software|No Rating|Tape|Joystick|Atari800
+Castle Hassle|NOID|5a9e938a,844f7294|x|0|1983|Puzzle|USA|Roklan|Roklan|No Rating|Cartridge|Joystick|Atari800
+Castle Top|NOID|da42b7be|x|0|1987|Arcade|United Kingdom|Alternative Software|Alternative Software|No Rating|Tape|Joystick|Atari800
+Castles and Keys|NOID|be14c091|x|0|1983|Puzzle|USA|Romox|Romox|No Rating|Cartridge|Analog Joystick|Atari800
+Cat-Nap|NOID|4ba88c5f|x|0|1982|Arcade|USA|ZiMAG|Syncro, Inc.|No Rating|Executable|Joystick|Atari800
+Cavelord (Translation)|NOID|d55a1383|x|0|1984|Arcade|USA|Atari|Atari|No Rating|Executable|Joystick|Atari800
+Cavernia|NOID|a69cb999|x|0|1990|Arcade|United Kingdom|Zeppelin Games|Zeppelin Games|No Rating|Tape|Joystick|Atari800
+Caverns of Eriban|NOID|7f5275fc|x|0|1986|Shoot 'em Up|United Kingdom|Firebird|James Software Ltd.|No Rating|Tape|Joystick|Atari800
+Caverns of Mars II|NOID|4e2e93a1|x|0|1981|Shoot 'em Up|USA|APX|APX|No Rating|Executable|Joystick|Atari800
+Cells and Serpents|NOID|7158b26e|x|0|1983|Adventure/Text|United Kingdom|ASP Software|ASP Software|No Rating|Tape|Joystick|Atari800
+Centipede (5200 Conversion)|NOID|0fffac51|x|0|1982|Arcade/Shooter|USA (5200 to A800 Conversion)|Glenn The 5200 man|Atari|No Rating|Executable|Joystick|Atari800
+Centipede (Prototype)|NOID|d54f0200|x|0|1982|Arcade/Shooter|USA (Prototype)|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Chain Reaction|NOID|fb144737|x|0|1987|Strategy|USA|Compute!|Compute!|No Rating|Disk|Joystick|Atari800
+Championship Lode Runner|NOID|53e02689|x|0|1985|Platformer|USA|Atari|Broderbund|No Rating|Disk|Joystick|Atari800
+Championship Lode Runner (Colorized)|NOID|a1243182|x|0|1985|Platformer|USA|Atari|Broderbund|No Rating|Disk|Joystick|Atari800
+Checker King|NOID|f9d1731f|x|0|No Date|Board Game|USA|APX|APX|No Rating|Tape|Joystick|Atari800
+Checkers|NOID|a297e014|x|0|No Date|Board Game|USA|Silicon Valley Systems|Silicon Valley Systems|No Rating|Disk|Joystick|Atari800
+Chicken (alt)|NOID|251f9897|x|0|1982|Arcade|USA|Antic|Antic|No Rating|Basic|Joystick|Atari800
+Chicken Chase|NOID|6d607fb4|x|0|1986|Arcade|United Kingdom|Bug-Byte|Bug-Byte|No Rating|Executable|Joystick|Atari800
+Chimera|NOID|7a2831fa|x|0|1985|Adventure/Isometric|United Kingdom|Firebird|Firebird|No Rating|Tape|Joystick|Atari800
+Chop Suey|NOID|0f12f88f|x|0|1985|Sports/Boxing|United Kingdom|English Software|English Software|No Rating|Executable|Joystick|Atari800
+Chopper Rescue|NOID|f394deb7|x|0|1982|Shoot 'em Up|USA|MicroProse Software|MicroProse Software|No Rating|Disk (ATX)|Joystick|Atari800
+Chuckie Egg|NOID|812da0b6|x|0|1985|Arcade|United Kingdom|A & F Software|A & F Software|No Rating|Tape|Joystick|Atari800
+Claim Jumper|NOID|1a333c4a|x|0|1982|Action|USA|Synapse Software|Synapse Software|No Rating|Cartridge|Joystick|Atari800
+Cloak and Dagger (Proto)|NOID|9d6a877c|x|0|1984|Arcade|USA|Atari|Atari|No Rating|Disk|Joystick|Atari800
+Cloak of Death|NOID|68de2327|x|0|1984|Adventure/Text|Unitedk Kingdom|Argus Press Software Group|Argus Press Software Group|No Rating|Tape|Keyboard|Atari800
+Cloudburst|NOID|259aa18b|x|0|1982|Shoot 'em Up|USA|Dana|Tensor Technology|No Rating|Cartridge|Joystick|Atari800
+Clowns and Balloons|NOID|e8207d72|x|0|1982|Arcade|USA|Datasoft|Datasoft|No Rating|Executable|Joystick,Paddles|Atari800
+Coconuts|NOID|f93c615b|x|0|No Date|Educational|USA|CBS Software|CBS Software|No Rating|Cartridge|Joystick|Atari800
+Collapse|NOID|b7021773|x|0|1985|Arcade|United Kingdom|Firebird|Firebird|No Rating|Tape|Joystick|Atari800
+Collision Course|NOID|4dbc49ab|x|0|1982|Shoot 'em Up|USA|ZiMAG|Syncro, Inc.|No Rating|Executable|Joystick|Atari800
+Colony|NOID|cf0c2404|x|0|1987|Strategy|United Kingdom|Bulldog Software|Icon Design|No Rating|Tape|Joystick|Atari800
+Colony 7|NOID|dfc7b1db|x|0|1983|Shoot 'em Up|United Kingdom|System 3 Software|System 3 Software|No Rating|Tape|Joystick|Atari800
+Colossus Chess III|NOID|71e9023e|x|0|1984|Board Game ,|United Kingdom|English Software|English Software|No Rating|Disk|Keyboard|Atari800
+Colossus Chess IV|NOID|75882284|x|0|1987|Board Game ,|United Kingdom|CDS Software|CDS Software|No Rating|Tape|Joystick,Keyboard|Atari800
+Comet Game|NOID|b863ef88|x|0|1986|Arcade|USA|Firebird|Firebird|No Rating|Tape|Joystick|Atari800
+Commando|NOID|28288df4|x|0|1989|Arcade/Action|USA (Prototype)|No Publisher|Atari|No Rating|Cartridge|Joystick|Atari800
+Commmando (Improved)|NOID|3752d266|x|0|1989|Arcade/Action|USA (Prototype)|No Publisher|Atari|No Rating|Executable|Joystick|Atari800
+Compilation C|NOID|09247e91,66d3cb9f|x|0|1987|Compilation/Arcade|United Kingdom|Atari|Atari|No Rating|Tape|Joystick,Keyboard|Atari800
+Compute 4|NOID|3e942de8|x|0|1982|Board Game|USA|Thorn EMI|Thorn EMI|No Rating|Tape|Joystick|Atari800
+Computer Chess|NOID|5ce06e94,cc2b8e3f|x|0|1979|Board Game ,|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Computer Stocks and Bonds|NOID|a000815a|x|0|1982|Strategy|USA|Avalon Hill|Avalon Hill|No Rating|Disk|Joystick|Atari800
+Computer War|NOID|4922aac6|x|0|1983|Strategy/Action|USA|Thorn Emi|Thorn Emi|No Rating|Cartridge|Joystick|Atari800
+Concentration|NOID|349b89a0|x|0|1982|Educational|USA|Milliken|Milliken|No Rating|Tape|Keyboard|Atari800
+Conflict in Vietnam|NOID|89c664c1|x|0|1986|Strategy|USA|Microprose Software|Microprose Software|No Rating|Disk|Joystick|Atari800
+Conquest of the Crown|NOID|c0bd0cb0|x|0|1994|Platformer|USA|Lindasoft|dev-unknown|No Rating|Cartridge|Joystick|Atari800
+Controller|NOID|fb020419|x|0|1982|Simulation|USA|Avalon Hill|Avalon Hill|No Rating|Disk|Keyboard|Atari800
+Cops'n Robbers|NOID|681d56fd|x|0|1988|Arcade|United Kingdom|Atlantis Software|Atlantis Software|No Rating|Tape|Joystick|Atari800
+Cosmic Life|NOID|919eaaa9|x|0|1983|Strategy/Simulation|USA|Spinnaker Software|Spinnaker Software|No Rating|Cartridge|Joystick|Atari800
+Cosmic Pirate|NOID|23c31e4a|x|0|1989|Shoot 'em Up|United Kingdom|Byte Back|Byte Back|No Rating|Tape|Joystick|Atari800
+Cosmic Tunnels|NOID|ad56c2bf|x|0|1983|Action|USA|Spinnaker Software|Spinnaker Software|No Rating|Cartridge|Joystick|Atari800
+Crack-Up!|NOID|260b5af5|x|0|1989|Arcade|United Kingdom|Atlantis Software|Atlantis Software|No Rating|Tape|Joystick|Atari800
+Crazy Scooter|NOID|ad972971|x|0|1985|Arcade|Germany|Happy Computer|Propaganda Software|No Rating|Executable|Joystick|Atari800
+Cribbage|NOID|c3c266c1|x|0|1980|Card Game|United Kingdom|Thorn Emi|Thorn Emi|No Rating|Tape|Keyboard|Atari800
+Crossfire|NOID|4d7e0503|x|0|1981|Shoot 'em Up|USA|Sierra On-Line|Sierra On-Line|No Rating|Cartridge|Joystick|Atari800
+Crossfire (Colorized)|NOID|448f148f|x|0|1981|Shoot 'em Up|USA|Sierra On-Line|Sierra On-Line|No Rating|Cartridge, Disk, Tape|Joystick|Atari800
+Crush Crumble and Chomp!|NOID|fff53b57|x|0|1981|Strategy|USA|Epyx|Epyx|No Rating|Disk|Keyboard|Atari800
+Crypts of Egypt|NOID|cd06ed32|x|0|1994|Adventure/Fantasy|Poland|Mirage Software|Waxsoft|No Rating|Disk|Joystick|Atari800
+Crypts of Plumbous|NOID|a531beeb|x|0|1982|Shoot 'em Up|USA|Cosmi|Cosmi|No Rating|Tape|Joystick|Atari800
+Crypts of Terror|NOID|2fc5cd68|x|0|1981|Adventure|Canada|Inhome Software|Inhome Software|No Rating|Tape|Joystick|Atari800
+Crystal Raider|NOID|72f23c0b|x|0|1986|Arcade|United Kingdom|Mastertronic|Mastertronic|No Rating|Tape|Joystick|Atari800
+Cubico|NOID|03b97d6c|x|0|2005|Puzzle|Czech Republic|Flop|Flop|No Rating|Executable|Joystick|Atari800
+Cubomagique|NOID|5308996e|x|0|1984|Educational|France|Hatier|SERMAP / Hatier|No Rating|Tape|Keyboard|Atari800
+Cuthbert Goes Walkabout|NOID|3e54c76e|x|0|1984|Arcade|United Kingdom|Microdeal|Microdeal|No Rating|Tape|Joystick|Atari800
+Cygnus X1|NOID|2b2bcc63|x|0|1989|Shoot 'em Up|United Kingdom|Atari|Atari|No Rating|Tape|Joystick|Atari800
+Da' Fuzz|NOID|b94f66ea|x|0|1983|Shooter/Arcade|USA (Prototype)|No Publisher|Roklan|No Rating|Cartridge|Analog Joystick|Atari800
+Dambusters|NOID|4444c1cc|x|0|1984|Shoot 'em Up|United Kingdom|Electric Software Ltd.|Electric Software Ltd.|No Rating|Tape|Joystick|Atari800
+Dan Strikes Back|NOID|2b269254|x|0|1984|Arcade|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari800
+Dance Fantasy|NOID|faec94e7|x|0|1984|Educational|USA|Fisher-Price|WCI Labs|No Rating|Cartridge|Analog Joystick|Atari800
+Dandy|NOID|210484d8|x|0|1983|Arcade|USA|APX|APX|No Rating|Disk|Joystick|Atari800
+Danger Ranger|NOID|e34e303a|x|0|1984|Arcade|United Kingdom|Microdeal|Microdeal|No Rating|Tape|Joystick|Atari800
+Darts|NOID|e5d6c66b|x|0|1981|Sports/Darts|United Kingdom|Thorn Emi|Thorn Emi|No Rating|Tape|Joystick|Atari800
+David's Midnight Magic|NOID|b7ca61a2|x|0|1987|Pinball|USA|Atari|Broderbund|No Rating|Cartridge|Joystick|Atari800
+Dawn Raider|NOID|d68fe641|x|0|1988|Shoot 'em Up|United Kingdom|Atlantis Software|Atlantis Software|No Rating|Tape|Joystick|Atari800
+Day at the Races|NOID|89f9922b|x|0|1985|Casino|United Kingdom|Red Rat Software|Red Rat Software|No Rating|Disk|Joystick|Atari800
+Daylight Robbery|NOID|a6611e9f|x|0|1988|Arcade|United Kingdom|Atlantis Software|Atlantis Software|No Rating|Tape|Joystick|Atari800
+Death Race|NOID|28380c1a|x|0|1987|Racing/Third|USA|Atlantis Software|Atlantis Software|No Rating|Tape|Joystick|Atari800
+Deflection|NOID|d2da5c2d|x|0|1980|Educational|USA|Adventure International|Adventure International|No Rating|Tape|Keyboard|Atari800
+Deflektor|NOID|No CRC|x|0|1989|Strategy/Puzzle|USA (Prototype)|Atari|US Gold|No Rating|Cartridge|Joystick|Atari800
+Deflektor (Fixed)|NOID|ea977fad|x|0|1989|Strategy/Puzzle|USA|Atari|US Gold|No Rating|Cartridge|Joystick|Atari800
+Deflektor II|NOID|428bcbec|x|0|1989|Strategy/Puzzle|USA|Flop|Bob Armour, Frantisek Houra,|No Rating|Executable|Joystick|Atari800
+Deluxe Invaders|NOID|15dc9b31|x|0|1981|Shooter/Fixed|USA|Roklan|Roklan|No Rating|Cartridge|Joystick|Atari800
+Demo Cart|NOID|9bedcdf3|x|0|No Date|Demo|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Demon Attack|NOID|91328072|x|0|1982|Shooter/Fixed|USA|Imagic|Imagic|No Rating|Cartridge|Analog Joystick|Atari800
+Desmond's Dungeon|NOID|20284565|x|0|1984|Arcade|United Kingdom|Thorn Emi|Creative Sparks|No Rating|Executable|Joystick|Atari800
+Despatch Rider|NOID|3e931ba4|x|0|1986|Simulation/Motorcycles|USA|Mastertronic|Mastertronic|No Rating|Tape|Analog Joystick|Atari800
+Destiny the Cruiser|NOID|f2eab233|x|0|No Date|Strategy|USA (Prototype)|Adventure International|Adventure International|No Rating|Cartridge|Joystick|Atari800
+Detective|NOID|e2a37f30|x|0|No Date|Strategy/Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Diamond Mine|NOID|d8f9b867|x|0|1983|Action|USA|Roklan|IDSI|No Rating|Cartridge|Joystick|Atari800
+Diamonds|NOID|32dfe38a|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Diggerbonk!|NOID|98f41aa6|x|0|No Date|Maze/Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dimension X|NOID|9f68a029|x|0|1984|Action/First|USA|Synapse Software|Synapse Software|No Rating|Tape|Analog Joystick|Atari800
+Dizzy Dice|NOID|70ea9ab2|x|0|1987|Casino|USA|Players Software|Players Software|No Rating|Tape|Analog Joystick|Atari800
+Dnieper River Line|NOID|103a5aea|x|0|1982|Strategy|USA|Avalon Hill|Microcomputer Games, Inc.|No Rating|Tape|Analog Joystick|Atari800
+Do-it-Yourself Spelling|NOID|c58ecadb|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dodge Racer|NOID|3717e9eb|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dog Daze|NOID|9c5aaf04|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dog Daze Deluxe|NOID|d7f78e1b|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Domain of the Undead|NOID|237839e3|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Donald|NOID|0fe6db29|x|0|No Date|Platformer/Fixed|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Doofy|NOID|bc4ab491|x|0|No Date|Platformer/Scrolling|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dorsett Talk and Teach|NOID|df830b2e|x|0|1983|Educational|USA|No Publisher|dev-unknown|No Rating|Cartridge|Joystick|Atari800
+Draconus|NOID|da5894ad|x|0|1988|Action/Platformer|USA|Cognito|Zeppelin Games Limited|No Rating|Tape|Analog Joystick|Atari800
+Dragon Defense|NOID|361c5fe2|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dragon's Eye|NOID|9330a22b|x|0|1981|Role Playing Game|USA|Automated Simulations, Inc.|Southern Software, Ltd.|No Rating|Tape|Analog Joystick|Atari800
+Dreadnought|NOID|7645e17f|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Drelbs|NOID|9a1a7508|x|0|1983|Action|USA|Synapse Software|Synapse Software|No Rating|Tape|Analog Joystick|Atari800
+Droids|NOID|5bb0c159|x|0|1983|Action|USA|TG Software|Solitare Group|No Rating|Cartridge|Analog Joystick|Atari800
+Drol|NOID|3e94d3ef|x|0|1983|Shoot 'em Up|USA|Br0derbund Software|Br0derbund Software|No Rating|Tape|Analog Joystick|Atari800
+DropZone|NOID|5ac850d6|x|0|1984|Arcade/Shooter|USA|U.S. Gold|Arena Graphics|No Rating|Tape|Analog Joystick|Atari800
+Druid|NOID|c6e8eb54|x|0|1987|Action/Isometric|USA|Firebird Software|Firebird Software|No Rating|Tape|Analog Joystick|Atari800
+Ducks Ahoy|NOID|4cdfceb9|x|0|1984|Action|USA|CBS Software|Joyce Hakansson Associates, Inc.|No Rating|Cartridge|Joystick|Atari800
+Duellin' Droid|NOID|0d2a4941|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dungeon Duel|NOID|975856dd|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dyna Blaster|NOID|558c0d82|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Dynakillers|NOID|5c3ccb9e|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+E Factor, The|NOID|5f774c90|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+E.T. Phone Home!|NOID|bce4ef51|x|0|1983|Adventure|USA|Atari|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Eastern Front|NOID|faef0e6d|x|0|1981|Strategy|USA|APX|APX|No Rating|Disk|Joystick|Atari800
+Eastern Front: 1941|NOID|ccff4a03|x|0|1982|Strategy|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Eidolon, The|NOID|e9ff48e3|x|0|1985|Adventure/First|USA|Epyx, Inc.|Lucasfilm Games LLC|No Rating|Tape|Analog Joystick|Atari800
+Electric Starfish|NOID|d2ec2adb|x|0|No Date|Action|USA|No Publisher|Calisto Software|No Rating|Tape|Analog Joystick|Atari800
+Electrician|NOID|11fe7f49|x|0|1984|Action/Platformer|USA|Synapse Software|Synapse Software|No Rating|Tape|Analog Joystick|Atari800
+Electroids|NOID|c7855623|x|0|No Date|Action/Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Elektra Glide|NOID|73e60fbf|x|0|No Date|Racing/First|USA|Mastertronic Ltd.|English Software Company, The|No Rating|Tape|Analog Joystick|Atari800
+Eliminator, The|NOID|f751ed7e|x|0|1982|Arcade/Shooter|USA|Adventure International|Adventure International|No Rating|Tape|Analog Joystick|Atari800
+Embargo|NOID|07b1560c|x|0|1982|Action|USA|Gebelli Software|Solitare Group|No Rating|Cartridge|Joystick|Atari800
+Emerald Isle|NOID|ccbb883e|x|0|No Date|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Empire of the Over-Mind|NOID|74cf57cb|x|0|No Date|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Encounter at Questar IV|NOID|1c16ea2c|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Encounter!|NOID|e58f3262|x|0|1983|Action/First|USA|Synapse Software|Novagen Software Ltd|No Rating|Tape|Analog Joystick|Atari800
+Energy Czar|NOID|81f91af2|x|0|No Date|Strategy/Simulation|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Ernie Magic Shapes|NOID|435f5aba|x|0|1984|Educational|USA|CBS Software|CCW, Inc.|No Rating|Cartridge|Joystick|Atari800
+Escape from Perilous|NOID|9d1f8636|x|0|No Date|Adventure|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Espial|NOID|64946757|x|0|1984|Shooter/Action|USA|Tigervision|Tigervision|No Rating|Cartridge|Joystick|Atari800
+Excelsor|NOID|e735f577|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Exploding Wall|NOID|2a255b5e|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Extirpator!|NOID|1935604b|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Face Maker|NOID|382d859e|x|0|1983|Educational|USA|Spinnaker|Spinnaker|No Rating|Cartridge|Keyboard|Atari800
+Fall of Rome|NOID|8134286e|x|0|No Date|Strategy/Turnbased|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Fantastic Voyage|NOID|7bde2593|x|0|1982|Shooter/Action|USA|Sirius Software|Sirius Software|No Rating|Cartridge|Joystick|Atari800
+Fast Eddie|NOID|53ac386a|x|0|1982|Platformer/Action|USA|Sirius Software|Sirius Software|No Rating|Cartridge|Analog Joystick|Atari800
+Feud|NOID|7836caca|x|0|No Date|Adventure/Fantasy|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Fidget|NOID|b885d1b0|x|0|No Date|Action/Isometric|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Fight Night|NOID|807f3e83,9bb7cd62|x|0|1987|Sports/Boxing|USA|Accolade|Distinctive Software|No Rating|Cartridge|Joystick|Atari800
+Fighter Pilot|NOID|1bf2766d|x|0|No Date|Flight Simulator ,|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Figure Fun|NOID|14e2f6e7,0a2affa1|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Final Legacy|NOID|d3bd3221,6bd0d8e4,1dd03e72,a445af7d|x|0|1984|Action|USA|No Publisher|Atari|No Rating|Cartridge|Analog Joystick|Atari800
+Final Orbit|NOID|177007e9|x|0|1983|Action/Shooter|USA|Sirius Software|Sirius Software|No Rating|Cartridge|Joystick|Atari800
+Fire Chief|NOID|15f270d5|x|0|No Date|Action/Side-Scrolling|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Fire Man|NOID|6002d651|x|0|No Date|Action/Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Firebird|NOID|e3c0b5f1|x|0|1981|Action|USA|Gebelli Software|Gebelli Software|No Rating|Cartridge|Joystick|Atari800
+Firefleet|NOID|40e0588b|x|0|No Date|Shooter/Vertical|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+First Steps with the Mr. Men|NOID|1d5bc75e,e459b907|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Flapper|NOID|18803c52|x|0|1983|Shoot 'em Up|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Flight Simulator II|NOID|83cf3c70|x|0|1984|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari800
+Flight Simulator II: Scenery Disk - Japan|NOID|076691e6|x|0|1986|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari800
+Flight Simulator II: Scenery Disk 1 - Dallas-Ft. Worth, Houston, San Antonio, Brownsville|NOID|57fa7b08|x|0|1984|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari800
+Flight Simulator II: Scenery Disk 2 - Phoenix, Albuquerqui, El Paso|NOID|e58fc1e9|x|0|1984|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari800
+Flight Simulator II: Scenery Disk 3 - San Francisco, Los Angeles, Las Vegas|NOID|696656db|x|0|1984|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari800
+Flight Simulator II: Scenery Disk 4 - Klamath Falls, Seattle, Great Falls|NOID|13146092|x|0|1985|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari800
+Flight Simulator II: Scenery Disk 7 - Washington, Charlotte, Jacksonville, Miami|NOID|e6f80f2f|x|0|1987|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari800
+Flip and Flop|NOID|8ae057be|x|0|1983|Action|USA|First Star Software|First Star Software|No Rating|Cartridge|Joystick|Atari800
+Flying Ace|NOID|6177959f|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Football Manager|NOID|c1bdb49b|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Footballer of the Year|NOID|e3f3a555|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Fort Apocalypse|NOID|f79b33f0|x|0|1982|Action|USA|Synapse Software|Synapse Software|No Rating|Cartridge|Joystick|Atari800
+Fortune Hunter|NOID|03255972|x|0|1982|Action|USA|romox|Romox|No Rating|Cartridge|Analog Joystick|Atari800
+Fraction Fever|NOID|6f439f87|x|0|1983|Educational|USA|Spinnaker Software|Tom Snyder Productions, Inc.|No Rating|Cartridge|Joystick|Atari800
+Freaky Factory|NOID|df2a7103|x|0|No Date|Action/Multi-Screen|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Frenesis|NOID|464c149b|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Frogger (Chuck Benton Version)|NOID|17c11cda|x|0|1982|Platformer|USA|Sierra On-line|dev-unknown|No Rating|media-unknown|Analog Joystick|Atari800
+Frogger II (Cart)|NOID|ed35f49c|x|0|No Date|Action/Top|USA|No Publisher|dev-unknown|No Rating|Cart|Analog Joystick|Atari800
+Frogger II (Disk)|NOID|329874dc|x|0|No Date|Action/Top|USA|No Publisher|dev-unknown|No Rating|Disk|Analog Joystick|Atari800
+Fruit Machine Simulator|NOID|980c52a5|x|0|No Date|Casino/Slot|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gabi|NOID|9231b89a|x|0|No Date|Action/Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Galactic Chase|NOID|34ddd67e|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Galactic Empire|NOID|d9c851fb|x|0|No Date|Strategy/Turnbased|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Galactic Trader|NOID|7b130d59|x|0|No Date|Strategy/Sci-Fi|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gallery of Death|NOID|e6767880|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gangstersville|NOID|37e88a80,a3788218|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gauntlet|NOID|26f8f0db,14db1aae|x|0|1985|Arcade/Action|USA|US Gold|Gremlin Graphics|No Rating|Tape|Analog Joystick|Atari800
+Genetic Drift|NOID|d70f4523,e4551354|x|0|1982|Shoot 'em Up|USA|Br0derbund Software|Br0derbund Software|No Rating|Tape|Analog Joystick|Atari800
+Getaway!|NOID|5fbe42b0|x|0|1982|Action/Cars|USA|Atari Program Exchange|Atari Program Exchange|No Rating|Tape|Analog Joystick|Atari800
+Ghost Chaser|NOID|f3718e85|x|0|1984|Action/Platformer|USA|Artworx Software Co, Inc.|Fanda|No Rating|Tape|Analog Joystick|Atari800
+Ghost Encounters|NOID|6d399e93|x|0|No Date|Action/Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Ghost Hunter|NOID|81a47b40|x|0|No Date|Arcade/Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Ghost!|NOID|6692c7c3|x|0|No Date|Strategy/Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Ghostbusters|NOID|711a5364|x|0|1984|Action|USA|Activision, Inc.|Activision, Inc.|No Rating|Tape|Analog Joystick|Atari800
+Gold Mine|NOID|8459b11e|x|0|1983|Platformer|USA|Spectravideo|Spectravideo|No Rating|Cartridge|Analog Joystick|Atari800
+Golden Gloves|NOID|36d4c0e5|x|0|No Date|Sports/Boxing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Golf Challenge|NOID|a678feb8|x|0|No Date|Sports/Golf|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Golf Classic and Compubar|NOID|62ecfbdb,d6af8dab|x|0|No Date|Sports/Golf|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Goonies|NOID|22b74c00|x|0|1985|Action/Puzzle|USA|Datasoft, Inc.|Datasoft, Inc.|No Rating|Disk|Analog Joystick|Atari800
+Grand Prix|NOID|1f834a5c|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Grand Prix Simulator|NOID|9681e20e|x|0|1987|Racing/Top|USA|Codemasters|Codemasters|No Rating|Tape|Analog Joystick|Atari800
+Great American Cross-Country Road Race|NOID|bc4a6911|x|0|1985|Racing/Cars|USA|Activision, Inc.|Activision, Inc.|No Rating|Tape|Analog Joystick|Atari800
+Green Beret|NOID|d021e588|x|0|1986|Arcade/Action|UK|Imagine Software|Imagine Software|No Rating|Tape|Analog Joystick|Atari800
+Gridrunner|NOID|d51998b5,752dd5fe,02f44555,d02e2cb8|x|0|1987|Shooter|USA|No Publisher|MasterTronic|No Rating|Cartridge|Analog Joystick|Atari800
+Gridrunner II (aka Attack of the Mutant Camels)|NOID|c933d741|x|0|1983|Shooter|USA|HesWare|HesWare|No Rating|Cartridge|Joystick|Atari800
+Gridwars|NOID|c12f868a|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Growing Pains of Adrian Mole|NOID|a8a2b2b3,0718e48b|x|0|1987|Adventure/Graphic|USA|Virgin Games, Inc.|Level 9 Computing, Ltd.|No Rating|Tape|Analog Joystick|Atari800
+Guerriero Laser|NOID|7de46b71|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gulp!! & Arrow Graphics|NOID|26b46262,03a42489|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gumball|NOID|373e1942|x|0|1983|Action/Strategy|USA|Br0derbund Software|Eltanan Effects|No Rating|Tape|Analog Joystick|Atari800
+Gun Boat|NOID|469670e6|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gun Fight|NOID|5c3d8ba9|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gun Law|NOID|fe9bdb6d|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Gunfighter|NOID|08cf739c|x|0|1989|Action/Shooter|USA|Atlantis Software Limited|Atlantis Software Limited|No Rating|Tape|Analog Joystick|Atari800
+Guns of Fort Defiance|NOID|ea12e04e|x|0|1981|Action/Arcade|USA|Avalon Hill|Microcomputer Games, Inc.|No Rating|Tape|Analog Joystick|Atari800
+Gypsy|NOID|fedd267d|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Hacker|NOID|e98303a5|x|0|1985|Adventure/Strategy|USA|Activision, Inc.|Activision, Inc.|No Rating|Disk|Analog Joystick|Atari800
+Halftime Battlin' Bands|NOID|8d14b5d3|x|0|1984|Educational|USA|CBS Software|Dovetail Group (The)|No Rating|Cartridge|Analog Joystick|Atari800
+Hangman|NOID|8873a69a,847b56e5|x|0|No Date|Board Game ,|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Hans Kloss|NOID|505dd9af|x|0|No Date|Adventure/Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+HardBall!|NOID|bf0c6df2|x|0|1987|Sports/Baseball|USA|Atari|Accolade|No Rating|Cartridge|Joystick|Atari800
+Hazard Run|NOID|696e3010|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Head Over Heels|NOID|27ab4456|x|0|1987|Adventure/Puzzle|USA|Ocean Software Ltd.|Ocean Software Ltd.|No Rating|Tape|Joystick|Atari800
+Heartache|NOID|3f8ad664|x|0|1988|Action/Strategy|UK|Atari Corp. (UK) Ltd.|Atari Corp. (UK) Ltd.|No Rating|Tape|Analog Joystick|Atari800
+Heist!|NOID|b80c7c12|x|0|No Date|Casino/Slot|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Hellfire Warrior|NOID|f1de2889|x|0|No Date|Role Playing Game|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Henry's House|NOID|844146a7|x|0|1987|Action/Platformer|USA|Mastertronic Ltd.|English Software Company, The|No Rating|Tape|Joystick|Atari800
+Hexan|NOID|bf944518|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick, Keyboard|Atari800
+HexxagonXE|NOID|567bf3c4|x|0|No Date|Board Game ,|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Hickory Dickory Dock|NOID|e4f9aac4,2ab5ed73|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Hobgoblin|NOID|d30624ca|x|0|2008|Action|Poland|GR8 Software|GR8 Software|No Rating|Executable|Joystick|Atari800
+Hodge Podge|NOID|b044ed3f|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Homesoft Menu Disk 001|NOID|1fdb9986|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 002|NOID|bb955d7b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 003|NOID|2f49d6c6|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 004|NOID|d53da60e|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 005|NOID|219c1557|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 006|NOID|c9cc337c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 007|NOID|b5461d5c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 008|NOID|f8e0d490|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 009|NOID|3d288a05|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 010|NOID|f2b3ed92|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 011|NOID|84e53d95|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 012|NOID|85035e90|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 013|NOID|d984802b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 014|NOID|f473baef|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 015|NOID|fe673999|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 016|NOID|dbae600c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 017|NOID|ffc35eb0|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 018|NOID|3ccf849b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 019|NOID|5e11defd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 020|NOID|d3dd1725|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 021|NOID|5c7b036c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 022|NOID|68468401|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 023|NOID|6fcd70d7|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 024|NOID|cdb6e400|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 025|NOID|f5aa847c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 026|NOID|06bb5d71|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 027|NOID|a7fbba59|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 028|NOID|631f53f0|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 029|NOID|68a47c32|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 030|NOID|eeb767e4|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 031|NOID|d042040f|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 032|NOID|5818151d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 033|NOID|68060fdc|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 034|NOID|3252f470|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 035|NOID|d419c67c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 036|NOID|e6a82771|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 037|NOID|dd818ef5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 038|NOID|df5d8f56|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 039|NOID|d09fd8f6|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 040|NOID|6e51206b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 041|NOID|2fa931e5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 042|NOID|3e180b33|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 043|NOID|ccf51338|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 044|NOID|d9ebaf90|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 045|NOID|0b9591a6|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 046|NOID|9f5a7297|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 047|NOID|81ffe767|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 048|NOID|99091e14|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 049|NOID|8182f730|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 050|NOID|a16e5da2|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 051|NOID|b1f6438e|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 052|NOID|41a01a23|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 053|NOID|6dcdbba8|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 054|NOID|8b7a1694|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 055|NOID|4102db25|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 056|NOID|4a745156|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 057|NOID|37353b40|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 058|NOID|8ebe3c94|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 059|NOID|39cf03d5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 060|NOID|4a36b8f9|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 061|NOID|5abad154|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 062|NOID|8fd27c98|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 063|NOID|8b2f030e|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 064|NOID|3ac13ef8|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 065|NOID|c7352e6b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 066|NOID|2da3b5dc|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 067|NOID|57ba7e3b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 068|NOID|9f2d089a|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 069|NOID|060c5105|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 070|NOID|0fd73f0c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 071|NOID|3a480c12|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 072|NOID|ea3b0334|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 073|NOID|3465446c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 074|NOID|db5d23e0|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 075|NOID|80b96e63|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 076|NOID|086e3fed|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 077|NOID|ae400bbe|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 078|NOID|b78b2363|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 079|NOID|a5016069|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 080|NOID|4ffa6557|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 081|NOID|b7d288d1|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 082|NOID|f81fe3ad|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 083|NOID|e799804b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 084|NOID|546158fd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 085|NOID|5109bf38|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 086|NOID|3ec775fd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 087|NOID|eed87e31|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 088|NOID|5a79ed07|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 089|NOID|52dc04d8|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 090|NOID|08fb4a2d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 091|NOID|b31068dd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 092|NOID|4a89e264|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 093|NOID|5cb7c482|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 094|NOID|912a740c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 095|NOID|0820326d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 096|NOID|834dcb58|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 097|NOID|64fc7397|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 098|NOID|c7d8a541|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 099|NOID|2ea2222d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 100|NOID|f5759b71|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 101|NOID|31ec5f86|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 102|NOID|9a9fdb98|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 103|NOID|7496d78e|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 104|NOID|13066b03|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 105|NOID|e37ed495|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 106|NOID|a37c198a|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 107|NOID|b2b8c0d2|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 108|NOID|878ee661|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 109|NOID|da60165d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 110|NOID|c88ad8e5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 111|NOID|3da43468|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 112|NOID|154f7827|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 113|NOID|a0bb42c5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 114|NOID|785be93d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 115|NOID|2cefb609|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 116|NOID|98b6fe62|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 117|NOID|9c82bd80|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 118|NOID|9ddc1805|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 119|NOID|9d8c6554|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 120|NOID|dc78c7d9|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 121|NOID|21ca3bcf|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 122|NOID|5b55580c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 123|NOID|c843bc73|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 124|NOID|ca447600|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 125|NOID|f44fc370|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 126|NOID|30c20168|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 127|NOID|06ce6d4c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 128|NOID|b31ca414|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 129|NOID|bfc4fb82|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 130|NOID|aee0eb4c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 131|NOID|27e30acb|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 132|NOID|10beedee|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 133|NOID|9699256c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 134|NOID|4a97361a|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 135|NOID|093a84ef|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 136|NOID|7b136136|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 137|NOID|7b7487e4|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 138|NOID|40c42704|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 139|NOID|840eee9d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 140|NOID|1fe696a0|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 141|NOID|13957422|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 142|NOID|9da35eee|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 143|NOID|6f98fdd2|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 144|NOID|627df6bd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 145|NOID|0fc74007|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 146|NOID|28852ed5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 147|NOID|00f88d59|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 149|NOID|6c91895c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 150|NOID|6c1316de|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 151|NOID|df5fec04|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 152|NOID|2debf525|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Homesoft Menu Disk 153|NOID|3ebc4012|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari800
+Hotfoot|NOID|7c04c2bc|x|0|No Date|Action/Strategy|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+House of Usher|NOID|bd299313|x|0|No Date|Arcade/Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Hover Bovver|NOID|f8eb1ece|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Humanoid|NOID|b5a8aef7|x|0|No Date|Shooter/Horizontal|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Humpty Dumpty & Jack and Jill|NOID|636ab115,97bcac7b|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Hyperblast!|NOID|ac07ba7b|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Hypnotic Land|NOID|4fb75909|x|0|1992|Strategy/Arcade|Italy|Lindasoft|Lindasoft|No Rating|Cartridge|Joystick|Atari800
+International Karate|NOID|0d958d57|x|0|1986|VS Fighter|USA|System 3 Software, Ltd.|System 3 Software, Ltd.|No Rating|Tape|Joystick|Atari800
+Into the Eagle's Nest|NOID|f31321c2|x|0|1988|Action/Shooter|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Invasion|NOID|9ae2ea6a|x|0|1987|Strategy/Top|USA|Mastertronic Ltd.|Icon Design Ltd.|No Rating|Tape|Joystick|Atari800
+IQ|NOID|8afcb207|x|0|No Date|Strategy|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Jawbreaker Construction Set|NOID|57635953,16e5d1c8|x|0|No Date|Arcade/Maze|USA|No Publisher|dev-unknown|No Rating|Disk|Joystick|Atari800
+Jawbreaker I|NOID|3d34de2b|x|0|1980|Action|USA|Sierra On-Line|Sierra On-Line|No Rating|Executable|Joystick|Atari800
+Jawbreaker II|NOID|e2a63a2d|x|0|1982|Action|USA|Sierra On-Line|Sierra On-Line|No Rating|Cartridge|Joystick|Atari800
+Jeepers Creepers|NOID|63bfe01b|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Jet Boot Jack|NOID|14ec170a|x|0|1984|Action/Platformer|USA|Datamost, Inc.|English Software Company, The|No Rating|Tape|Joystick|Atari800
+Jet Set Willy|NOID|beb8a622|x|0|1986|Adventure/Platformer|USA|Tynesoft Computer Software|Software Projects Ltd.|No Rating|Tape|Joystick|Atari800
+Jet Set Willy 2007|NOID|2dd89fd6|x|0|2007|Adventure/Platformer|USA|XXL|XXL|No Rating|Tape|Joystick|Atari800
+Joe and the Nuclear Caverns|NOID|ba86030f,5e432076|x|0|No Date|Action/Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Joe Blade I|NOID|7ebd445e|x|0|1988|Action/Shooter|UK|Players Software|Players Software|No Rating|Tape|Joystick|Atari800
+Joe Blade II|NOID|b9acc626|x|0|1988|Action/Shooter|UK|Players Software|Players Software|No Rating|Tape|Joystick|Atari800
+Journey to the Planets|NOID|dce59b65|x|0|1983|Adventure/Action|USA|Roklan|Roklan|No Rating|Cartridge|Joystick|Atari800
+Juice!|NOID|79c9c11a|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Jumbo Jet Pilot|NOID|f046332b|x|0|1982|Flight Simulator|United Kingdom|Thorn EMI|Thorn EMI|No Rating|Cartridge|Joystick|Atari800
+Juno First|NOID|1941b456|x|0|1983|Arcade/Shooter|USA|Datasoft|Hiscott, Greg|No Rating|Tape|Joystick|Atari800
+K-Razy Antiks|NOID|84ab21b0|x|0|1982|Action|USA|CBS Software|K-Byte|No Rating|Cartridge|Joystick|Atari800
+K-Star Patrol|NOID|44c71fae|x|0|1982|Shoot 'em Up|USA|CBS Software|K-Byte|No Rating|Cartridge|Analog Joystick|Atari800
+Karateka|NOID|97646f16|x|0|1988|Action|USA|Atari|Broderbund Software|No Rating|Cartridge|Joystick|Atari800
+Kennedy Approach|NOID|a209fee1|x|0|1985|Simulation/Strategy|USA|MicroProse Software, Inc.|MicroProse Software, Inc.|No Rating|Tape|Joystick, Keyboard|Atari800
+Kickback|NOID|2480ed0a|x|0|1982|Sports/Soccer|United Kingdom|Thorn EMI|Thorn EMI|No Rating|Cartridge|Joystick|Atari800
+Kid Grid|NOID|1f5390c6|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Kids on Keys|NOID|60615a91|x|0|1983|Educational|USA|Spinnaker Software|Spinnaker Software|No Rating|Cartridge|Joystick|Atari800
+Kikstart: Off-Road Simulator|NOID|0a24323f|x|0|1986|Racing/Bike|USA|Mastertronic Ltd.|Mr Chip Software|No Rating|Tape|Joystick|Atari800
+Kindercomp|NOID|f1c45e24|x|0|1982|Educational|USA|Spinnaker Software|Spinnaker Software|No Rating|Cartridge|Joystick|Atari800
+King Tut's Tomb|NOID|0b9bbb3e|x|0|No Date|Arcade/Shooter|USA|Antic Software|Wacker, Jeff|No Rating|Tape|Joystick|Atari800
+Knockout|NOID|ff419696|x|0|No Date|Sports/Boxing|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Koronis Rift|NOID|d735ad2d|x|0|1985|Action/Strategy|USA|Epyx, Inc.|Lucasfilm Games LLC|No Rating|Disk|Joystick|Atari800
+Krazy Kopter|NOID|7a78efaa|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Krazy Kritters|NOID|f854a3b4|x|0|1982|Action|USA|CBS Sofware|K-byte|No Rating|Cartridge|Joystick|Atari800
+Labyrinth|NOID|f8e74e46|x|0|1982|Action/Maze|USA|Br?derbund Software|Br?derbund Software|No Rating|Tape|Joystick|Atari800
+Landscape|NOID|2f15b853|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Las Vegas Casino|NOID|8cbcff37|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Laser Hawk|NOID|accc5909|x|0|1987|Shooter/Side-Scrolling|USA|ICD, Inc.|ICD, Inc.|No Rating|Tape|Joystick|Atari800
+Laser Racers|NOID|29c23110|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+LaserMania|NOID|3911b80e|x|0|1990|Puzzle|USA|LK Avalon|Liminowicz, Miroslaw|No Rating|Tape|Joystick|Atari800
+Last V8, The|NOID|770ecd39|x|0|1986|Racing/Top|USA|Mastertronic Ltd.|Mastertronic Ltd.|No Rating|Tape|Joystick|Atari800
+Lawkeeper (Prototype)|NOID|bd09c9d8|x|0|Unreleased|Arcade|USA|Br?derbund Software|Br?derbund Software|No Rating|Tape|Joystick|Atari800
+League Challenge|NOID|34c91763|x|0|1988|Sports/Soccer|USA|Atlantis Software Limited|Hypa Hypa|No Rating|Tape|Joystick|Atari800
+Leaper|NOID|a42b2135|x|0|No Date|Arcade/Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Leapster|NOID|a34bb2dc|x|0|No Date|Arcade/Side-Scrolling|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Learning With Leaper|NOID|a77b5c4c|x|0|1983|Educational|USA|Sierra On-Line|Sierra On-Line|No Rating|Cartridge|Joystick|Atari800
+Leggit!|NOID|7f57172b|x|0|No Date|Action/Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Legionnaire|NOID|888729d7|x|0|1982|Strategy/Top|USA|Avalon Hill|Microcomputer Games, Inc.|No Rating|Tape|Joystick, Keyboard|Atari800
+Lemonade|NOID|fafdf720,ebb13efd|x|0|No Date|Strategy|USA|No Publisher|dev-unknown|No Rating|Tape|Keyboard|Atari800
+Leo's 'Lectric Paintbrush|NOID|3c66ea77|x|0|1983|Educational|USA|Chalk Board, Inc.|Chalk Board, Inc.|No Rating|Cartridge|Joystick|Atari800
+Lifespan|NOID|e4d62c12|x|0|1983|Educational|USA|Roklan Corp|Admacadiam Software|No Rating|Cartridge|Joystick|Atari800
+Linking Logic|NOID|2484be4c|x|0|1984|Educational|USA|Fisher-Price|Frieda Lekkerkerker, Inc.|No Rating|Cartridge|Analog Joystick|Atari800
+Livewire|NOID|cdd53ca0|x|0|1983|Arcade/Shooter|USA|ANALOG Computing|Hudson, Tom|No Rating|Tape|Joystick, Paddle|Atari800
+Living Daylights|NOID|8c896aed|x|0|1987|Shoot 'em Up|USA|Domark Software, Inc.|Sculptured Software, Inc.|No Rating|Tape|Joystick|Atari800
+Loco|NOID|3688ec50|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Lode Runner|NOID|3a6f19ae,fbf0cf46|x|0|1983|Platformer|USA|Atari|Broderbund|No Rating|Disk|Joystick|Atari800
+Lode Runner (Colorized)|NOID|3a34293d|x|0|1983|Platformer|USA|Atari|Broderbund|No Rating|Disk|Joystick|Atari800
+Lode Runner 3|NOID|5eb5c4df|x|0|198?|Platformer|USA|No Publisher|Broderbund|No Rating|Disk|Joystick|Atari800
+Lode Runner 4|NOID|c88r3ec6|x|0|198?|Platformer|USA|No Publisher|Broderbund|No Rating|Disk|Joystick|Atari800
+Lode Runner's Rescue|NOID|a8d48937,63dfdeb2,677b7ee6,ed0f35d8|x|0|1985|Platformer|USA|Synapse Software|Broderbund|No Rating|Disk|Joystick|Atari800
+Logic Levels|NOID|c643f703|x|0|1984|Educational|USA|Fisher-Price|Frieda Lekkerkerker, Inc.|No Rating|Cartridge|Joystick|Atari800
+Lone Raider|NOID|1c6d8021|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Los Angeles Swat|NOID|0ad9c428|x|0|1986|Action/Scrolling|USA|Mastertronic Ltd.|Sculptured Software, Inc.|No Rating|Tape|Joystick|Atari800
+Lunar Lander|NOID|9d044fd7|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Lunar Lander Construction Set|NOID|3296ce1b|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+M.U.L.E.|NOID|b19d789e|x|0|1983|Strategy/Action|USA|Electronic Arts, Inc.|Ozark Softscape|No Rating|Tape|Joystick, Paddle|Atari800
+Mad Jax|NOID|1a0cdc1f|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Mad-Netter|NOID|a73834c5|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Major League Hockey|NOID|4ffbc999|x|0|1983|Sports/Hockey|United Kingdom|Thorn EMI|Thorn EMI|No Rating|Cartridge|Joystick|Atari800
+Master Chess|NOID|aa25d66f|x|0|No Date|Board Game ,|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Master of the Lamps|NOID|a1e471eb|x|0|1985|Action/Puzzle|USA|Activision, Inc.|Activision, Inc.|No Rating|Tape|Joystick|Atari800
+Mastertype|NOID|972ed894|x|0|1983|Educational|USA|Scarborough Systems, Inc.|Scarborough Systems, Inc.|No Rating|Cartridge|Keyboard|Atari800
+Math Encounter|NOID|9eaba275|x|0|1984|Educational|USA|Hsu Software|Hsu Software|No Rating|Cartridge|Joystick|Atari800
+Math Mileage|NOID|bb135aad|x|0|1983|Educational|USA|CBS Software|K-Byte|No Rating|Cartridge|Joystick|Atari800
+Matta Blatta|NOID|dd5779fe|x|0|No Date|Shooter/Horizontal|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+MatterHorn|NOID|dcc308cf|x|0|1984|Action|USA|Tigervision|Tigervision|No Rating|Cartridge|Joystick|Atari800
+McDonald's (Prototype)|NOID|ca961d16,209d2e17|x|0|1983|Action/Fixed|USA|Parker Brothers|Parker Brothers|No Rating|Cartridge|Joystick|Atari800
+Mean 18 Ultimate Golf (prototype)|NOID|0ee74a89|x|0|1989|Sports/Golf|USA|Atari|Accolade|No Rating|Cartridge|Joystick|Atari800
+Mediator|NOID|babcccee|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Megablast|NOID|10a86cc0|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Memory Manor|NOID|aedcbd0b|x|0|1984|Educational|USA|Fisher-Price|SCC|No Rating|Cartridge|Joystick|Atari800
+Mercenary: Escape from Targ|NOID|de6a2f77,b327c5ee,fd19a063,cbd3dad7|x|0|1985|Adventure/First|USA|Novagen Software Ltd|Novagen Software Ltd|No Rating|Tape|Joystick, Keyboard|Atari800
+Mercenary: The Second City|NOID|43d0cb08,ae51e59b,d1e4b657|x|0|1986|Adventure/First|USA|Datasoft, Inc.|Novagen Software Ltd|No Rating|Tape|Joystick, Keyboard|Atari800
+Midas Maze|NOID|7c3b29d3|x|0|No Date|Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+MIDI Maze|NOID|193a53f6|x|0|1989|Shooter/First|USA (Prototype)|Atari|Michael Park|No Rating|Cartridge|Analog Joystick|Atari800
+Midway Campaign|NOID|69ca7470|x|0|1980|Strategy|USA|Avalon Hill|Microcomputer Games, Inc.|No Rating|Tape|Joystick|Atari800
+Milk Race|NOID|ca000b10|x|0|1987|Sports/Simulation|USA|Mastertronic Ltd.|Icon Design Ltd.|No Rating|Tape|Joystick|Atari800
+Mind Bogglers I|NOID|3e2307ee,b42a6ae1,8bd6aab6,a72c6c43|x|0|No Date|Board Game|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Mirax Force|NOID|7c62e148|x|0|1987|Shooter/Vertical|USA|Tynesoft Computer Software|Tynesoft Computer Software|No Rating|Tape|Joystick|Atari800
+Missile Command+|NOID|0dbcba46|x|0|1981|Action|USA|Atari|Atari|No Rating|Executable|Joystick/Trackball|Atari800
+Missing One Droid|NOID|13df2f9a|x|0|1986|Shoot 'em Up|UK|Bug-Byte|Bug-Byte|No Rating|Tape|Joystick|Atari800
+Mission Shark|NOID|1cd3b481|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Mogul Maniac|NOID|0c391600|x|0|1983|Sports/Skiing|USA|Romox|Amiga|No Rating|Cartridge|Joystick|Atari800
+Molecule Man|NOID|972edf77|x|0|1986|Adventure/Puzzle|USA|Mastertronic Ltd.|Mastertronic Ltd.|No Rating|Tape|Joystick|Atari800
+Money Hungry|NOID|96d45e0b|x|0|1984|Arcade|USA|ANALOG Computing|Murphy, Donald|No Rating|Tape|Joystick|Atari800
+Monster Hunt|NOID|f9a48fb0|x|0|1988|Platformer/Multi-Screen|Germany|MHS|Heinzig, Maik|No Rating|Tape|Joystick|Atari800
+Monster Maze|NOID|37049e57|x|0|1982|Maze|USA|Epyx|Epyx|No Rating|Cartridge|Analog Joystick|Atari800
+Monstrum|NOID|f84c012d|x|0|1992|Arcade|Poland|ASF|Kulikiewicz, Piotr|No Rating|Tape|Joystick|Atari800
+Moon Beam Arcade|NOID|d3b3d73d|x|0|1983|Shoot 'em Up|USA (Prototype)|ZiMAG|Syncro, Inc.|No Rating|Cartridge|Joystick|Atari800
+Mordon's Quest|NOID|6310e970|x|0|1985|Adventure/Puzzle|USA|Melbourne House|Melbourne House|No Rating|Tape|Joystick|Atari800
+Mountain Bike Racer|NOID|dea44d59|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Mountain Shoot|NOID|79c02a25|x|0|1981|Strategy|USA|Adventure International (USA)|Adventure International (USA)|No Rating|Tape|Joystick|Atari800
+Mouse Trap|NOID|26ffa0d6|x|0|1987|Platformer|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Mouskattack|NOID|dc3cacca|x|0|1982|Arcade/Maze|USA|On-Line Systems|On-Line Systems|No Rating|Tape|Joystick|Atari800
+Movie Musical Madness|NOID|0d8f719b|x|0|1984|Educational|USA|CBS Software|Dovetail Group (The)|No Rating|Cartridge|Joystick|Atari800
+Mr. Cool|NOID|1345d10c|x|0|1983|Action|USA|Sierra On-Line|Sierra On-Line|No Rating|Cartridge|Joystick|Atari800
+Mr. Dig|NOID|46be4250|x|0|1984|Arcade|UK|Microdeal|Jay, Rita|No Rating|Tape|Joystick|Atari800
+Mr. Robot and His Robot Factory|NOID|36f3bdb0|x|0|1983|Action/Platformer|USA|Datamost, Inc.|Datamost, Inc.|No Rating|Tape|Joystick|Atari800
+Mr. Robot II|NOID|65ba09fa|x|0|No Date|Action/Platformer|Poland|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari800
+Mr. TNT|NOID|701dbdea|x|0|1983|Arcade|USA|HesWare|HesWare|No Rating|Cartridge|Joystick|Atari800
+Mugwump|NOID|d0f32ed2|x|0|1981|Board Game ,|USA|APX|Polaro, Robert C.|No Rating|Tape|Keyboard|Atari800
+Mysterious Adventure No. 1 - The Golden Baton|NOID|64f7eec2|x|0|1982|Adventure/Text|USA|Adventure International|Adventure International|No Rating|Tape|Keyboard|Atari800
+Mysterious Adventure No. 10 - Ten Little Indians|NOID|494724c2|x|0|1983|Adventure/Text|USA|Channel 8 Software|Channel 8 Software|No Rating|Tape|Keyboard|Atari800
+Mysterious Adventure No. 11 - Waworks|NOID|c0a487b5|x|0|1983|Adventure/Text|USA|Digital Fantasia|Digital Fantasia|No Rating|Tape|Keyboard|Atari800
+Mysterious Adventure No. 2 - The Time Machine|NOID|1c724650|x|0|1983|Adventure/Text|USA|Digital Fantasia|Digital Fantasia|No Rating|Tape|Keyboard|Atari800
+Mysterious Adventure No. 8 - The Wizard of Akyrz|NOID|e98df4cd|x|0|1983|Adventure/Text|USA|Channel 8 Software|Channel 8 Software|No Rating|Tape|Keyboard|Atari800
+Nautilus|NOID|247f7b41|x|0|1982|Shoot 'em Up|USA|Synapse Software|Synapse Software|No Rating|Tape|Joystick|Atari800
+Necromancer|NOID|9baaf5db|x|0|1982|Action|USA|Synapse Software|Synapse Software|No Rating|Executable|Joystick|Atari800
+Nemo's Vault|NOID|42633447|x|0|1985|Action|USA|No Publisher|Walls, Martin|No Rating|Tape|Joystick|Atari800
+Neptune's Daughters|NOID|8525128e|x|0|1984|Shoot 'em Up|USA|English Software Company, The|English Software Company, The|No Rating|Tape|Joystick|Atari800
+New York City: The Big Apple|NOID|9278e71a|x|0|1984|Adventure/Top|USA|Synapse Software Corporation|Synapse Software Corporation|No Rating|Tape|Joystick|Atari800
+Nibbler|NOID|6561547c|x|0|1983|Arcade|USA|Datasoft|Datasoft|No Rating|Tape|Joystick|Atari800
+Nightmare Maze|NOID|1f4f45c4|x|0|No Date|Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Nightstrike|NOID|61245a75|x|0|1983|Shoot 'em Up|USA|TG Software|Solitare Group|No Rating|Cartridge|Joystick|Atari800
+Ninja|NOID|17639df6|x|0|1987|Beat 'em Up|USA|Mastertronic, Inc.|Sculptured Software, Inc.|No Rating|Tape|Joystick|Atari800
+Ninja Commando|NOID|3804844f|x|0|1984|Arcade/Platformer|USA|Zeppelin Games|Zeppelin Games|No Rating|Tape|Joystick|Atari800
+Ninja Master|NOID|ccc67dc6|x|0|1986|Action|UK|Firebird (UK)|Tron Software|No Rating|Tape|Joystick|Atari800
+North Atlantic Convoy Raider|NOID|91ec4288|x|0|1981|Simulation/Strategy|USA|Avalon Hill|Microcomputer Games, Inc.|No Rating|Tape|Keyboard|Atari800
+Nuclear Nick|NOID|fc3093ab|x|0|1986|Arcade/Platformer|USA|Americana|Americana|No Rating|Tape|Joystick|Atari800
+Nucleus|NOID|f64334c2|x|0|1988|Shoot 'em Up|UK|Atari|Atari|No Rating|Tape|Joystick|Atari800
+Nukewar|NOID|4499bb1b|x|0|1980|Simulation/Strategy|USA|Avalon Hill|Microcomputer Games, Inc.|No Rating|Tape|Keyboard|Atari800
+Number Series|NOID|8e5e13ab|x|0|1980|Educational|USA|PDI|PDI|No Rating|Tape|Keyboard|Atari800
+O'Riley's Mine|NOID|4a39accf|x|0|1983|Action/Fixed|USA|Datasoft, Inc.|Datasoft, Inc.|No Rating|Tape|Joystick|Atari800
+Oil's Well|NOID|030ecad6|x|0|1983|Action|USA|Sierra On-Line|Sierra On-Line|No Rating|Cartridge|Joystick|Atari800
+Ollie's Follies|NOID|f10006ac|x|0|1984|Action/Platformer|USA|Access Software, Inc.|Fanda|No Rating|Tape|Joystick|Atari800
+Olympic Skier|NOID|7f2d1eb4|x|0|1986|Sports/Skiing|UK|Americana|Mr. Chip Software|No Rating|Tape|Joystick|Atari800
+On Cue|NOID|2b2e04e8,92409332|x|0|1987|Sports/Pool|UK|Mastertronic|Mastertronic|No Rating|Tape|Joystick|Atari800
+On-Track Model Car Racing|NOID|11165a9f|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+One Man and His Droid|NOID|3c3c61f8|x|0|1986|Action/Scrolling|USA|Mastertronic Ltd.|Mastertronic Ltd.|No Rating|Tape|Joystick|Atari800
+One Moon and Two Sons|NOID|b091c549|x|0|2006|Platformer|Poland|No Publisher|dev-unknown|No Rating|Cartridge|Joystick|Atari800
+Orb of Zarramier|NOID|c8b40d15|x|0|1986|Role Playing Game|UK|Futureware|Futureware|No Rating|Tape|Joystick|Atari800
+Orc Attack|NOID|fbfaefcd|x|0|1983|Action|United Kingdom|Thorn EMI|Thorn EMI|No Rating|Cartridge|Joystick|Atari800
+Othello 3-D|NOID|47523618|x|0|No Date|Board Game|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Owari & Bull and Cow|NOID|ca0ea4cd,632c935d|x|0|1982|Board Game|UK|Thorn EMI|Thorn EMI|No Rating|Tape|Joystick, Keyboard|Atari800
+Ozzy's Orchard|NOID|1554b983|x|0|1983|Action|USA|TG Software|TG Software|No Rating|Cartridge|Joystick|Atari800
+Pacific Coast Highway|NOID|74d234d9|x|0|No Date|Arcade/Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Panic Express|NOID|72626e4e|x|0|No Date|Arcade/Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Panik!|NOID|7f3e1246|x|0|No Date|Arcade/Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Panther|NOID|6e42bebf|x|0|No Date|Arcade/Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Parsifal|NOID|585839ed|x|0|No Date|Arcade/Maze|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pastfinder|NOID|12694c3f|x|0|1984|Action|USA|Activision|Activision|No Rating|Cartridge|Joystick|Atari800
+Pay-Off|NOID|5f7e7cc3|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Peanut Butter Panic|NOID|cdeb7759|x|0|1984|Educational|USA|CBS Software|CCW, Inc.|No Rating|Cartridge|Joystick|Atari800
+Pengon|NOID|14ff0f3f|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Periscope Up!|NOID|756b6b94|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pharaoh's Curse|NOID|dd110fa6|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Phobos|NOID|22cf0e39|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Picnic Paranoia|NOID|e386a621|x|0|1982|Action/Fixed|USA|Synapse Software|Synapse Software|No Rating|Cartridge|Joystick|Atari800
+Pilot|NOID|df530488|x|0|No Date|Action/Fixed|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pitstop|NOID|d49ebf91|x|0|1983|Racing/Cars|USA|Epyx|Epyx|No Rating|Cartridge|Joystick|Atari800
+Planet Attack|NOID|ca241235|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Planet Miners|NOID|17260c2f,1fcc272a|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Planetary Defense|NOID|c75d0d22|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Planetfall|NOID|45fc5c71|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Plaque Man|NOID|ab5c8157|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Plastron|NOID|73e32ee0|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Platform: Atari 800|NOID|No CRC|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Plattermania|NOID|6cef6f94|x|0|1982|Action|USA|Epyx|Epyx|No Rating|Cartridge|Joystick|Atari800
+Pogo Joe|NOID|a5c9a5fa|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pogoman|NOID|6d1cc0dc|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pogotron|NOID|d11ded73|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+PokerSAM|NOID|d6080c0d|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pole Position & Race Driver|NOID|220f3696|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pole Position X|NOID|5781e2a1|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pole Position X Plus|NOID|80e72917|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pong|NOID|1d7bfea0|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pool|NOID|95c94b2b|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pool 400|NOID|a6c2130f|x|0|1982|Sports/Pool|USA|IDSI|IDSI|No Rating|Cartridge|Joystick|Atari800
+Pooyan|NOID|08ee58fa|x|0|No Date|Sports/Pool|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Porky's|NOID|1733d3fc|x|0|1983|Action/Multi-Screen|USA|Romox|Fox Video Games|No Rating|Cartridge|Joystick|Atari800
+Posthelper|NOID|4528c7a9|x|0|No Date|Action/Multi-Screen|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pothole Pete|NOID|64eb9c68|x|0|No Date|Action/Multi-Screen|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Power Down|NOID|7655da2a|x|0|No Date|Action/Multi-Screen|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Powerstar|NOID|dc0dca6e|x|0|1985|Adventure/Text|USA|Pandora Software|Pandora Software|No Rating|Cartridge|Keyboard/Joystick|Atari800
+Preppie! II|NOID|0ce17e34|x|0|No Date|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Price of Magik|NOID|80e9c524|x|0|No Date|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Princess and the Frog|NOID|7ce79281|x|0|1982|Arcade|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Pro Golf|NOID|3b4b1700,1f2ee856|x|0|No Date|Sports/Golf|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Pro Mountain Bike Simulator|NOID|8b69ebcb|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Professor IQ|NOID|529a1d97|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Protector I|NOID|07700498|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Protector II|NOID|374f311f|x|0|1982|Action|USA|Synapse Software|Synapse Software|No Rating|Cartridge|Joystick|Atari800
+Puzzle 1|NOID|422a3907|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Q-Bert (Alt)|NOID|1ddde7e5|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Qb|NOID|7ecb6c38|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Quasimodo|NOID|78093d18|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Quest for Eternity|NOID|7d30d4d5|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Questprobe 1: The Hulk|NOID|67e62763|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Race in Space|NOID|4e48bc27|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rack 'em Up!|NOID|5335d935|x|0|1983|Sports/Pool|USA|Roklan Corp.|Roklan Corp.|No Rating|Cartridge|Joystick|Atari800
+Raid over Moscow|NOID|1ec7ec63|x|0|No Date|Sports/Pool|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rainbow Walker|NOID|93584703|x|0|No Date|Sports/Pool|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rampage|NOID|1e4b4bda|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Realm of Impossibility|NOID|67a6e205|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Red Max|NOID|b43e64f7|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Red Moon|NOID|81d8bcec|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rescue at Rigel|NOID|82b99aa9|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Retrofire!|NOID|bfce914f|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Revenge II|NOID|04e8df6e|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Reversi|NOID|381b4825|x|0|1982|Board Game|USA|Thorn EMI|Thorn EMI|No Rating|Tape|Joystick|Atari800
+River Rally|NOID|24d0678b|x|0|No Date|Board Game|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+River Rescue|NOID|c018c8a0|x|0|1983|Action|USA|Thorn EMI|Thorn EMI|No Rating|Cartridge|Joystick|Atari800
+Robbo|NOID|bcfde073,042db788|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rocket Raiders|NOID|8e4fb7ba|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rocket Repairman|NOID|62b7ec87|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rockman|NOID|e537767d|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rocks!|NOID|4d11f1e8|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rogue|NOID|a10c7266|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Roll'em!|NOID|357b32d8|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Roman Checkers|NOID|c14e8e2a|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Roman Empire|NOID|ba5cc4b5|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Roto|NOID|c18e8b83|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Rucu|NOID|0714ba3b|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Ruff and Reddy Space Adventure|NOID|d52a11e5|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Run for It|NOID|cb59f414|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Saper|NOID|b223e95a|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Savage Pond|NOID|fdf7adcd|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Scooter|NOID|3d4d48e8|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+SCRAM|NOID|c35834f0,2a70b623|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Scrolls of Abadon|NOID|18516666|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Sea Chase|NOID|99b5a1dd|x|0|1983|Arcade|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Sea Dragon|NOID|3f3942f4|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Sea Horse Hide 'n Seek|NOID|52964146|x|0|1984|Educational|USA|CBS Software|Joyce Hakansson Associates, Inc|No Rating|Cartridge|Joystick|Atari800
+Seafox|NOID|932cc9a8|x|0|No Date|Action|USA|Broderbund Software|dev-unknown|No Rating|Cartridge|Joystick|Atari800
+Seawolf II|NOID|93dbc75e|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Serpentine|NOID|1b555b41|x|0|1982|Action|USA|Broderbund Software|Broderbund Software|No Rating|Cartridge|Joystick|Atari800
+Sesame Street: Letter Go Round|NOID|f525b904|x|0|1984|Educational|USA|CBS Software|CCW, Inc.|No Rating|Cartridge|Joystick|Atari800
+Settore Sigma|NOID|fc263db3|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Shadow World|NOID|bca4f999|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Shamus|NOID|bd3f06ee|x|0|1982|Action|USA|Synapse Software|Synapse Software|No Rating|Cartridge|Joystick|Atari800
+Shamus: Case II|NOID|2b6696c6|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Shooting Arcade|NOID|6f5081f1|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Shootout at the OK Galaxy|NOID|9a6156ab|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Sidewinder|NOID|788125de|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Sidewinder II|NOID|d18423a9|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Silent Service|NOID|bda9ac46|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Silicon|NOID|e3dba1e9|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Silicon Warrior|NOID|0736c8ae|x|0|1983|Strategy/Action|USA|Epyx|Connelley Group (The)|No Rating|Cartridge|Joystick|Atari800
+Simon Says|NOID|09169779|x|0|1980|Educational|USA|Adventure International|Adventure International|No Rating|Tape|Keyboard|Atari800
+Sky Writer|NOID|0a73a8f5|x|0|1983|Educational|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Sleepwalker|NOID|187da1f1|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Slime|NOID|1babcad6|x|0|1982|Action|USA|Synapse Software|Synapse Software|No Rating|Cartridge|Joystick|Atari800
+Slingshot|NOID|58b6028c,d8b40885|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Slinky!|NOID|f7243d05|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Smus|NOID|66640abe|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Snake Pit|NOID|2fb11f80|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Snapper|NOID|ae2d9e1d|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Snokie|NOID|4f42008c|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Snooker & Billiards|NOID|2c711d44,908d23ff|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Soccer|NOID|784c7060|x|0|1982|Sports/Soccer|United Kingdom|Thorn Emi|Thorn Emi|No Rating|Cartridge|Joystick|Atari800
+Soko-Ban|NOID|81595c83|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Solo Flight|NOID|404eba5e|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Solo Flight: Second Edition|NOID|4df70f68,50fda31f,933d7724|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Sonic Death|NOID|a9326630|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+SOS Saturn|NOID|7b067eab|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Space Change|NOID|24370d42|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Space Cowboy|NOID|573ecb2c|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Space Eggs|NOID|a7e22257|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Space Gunner & Mutant Bats|NOID|7fb7a6bb|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Space Invaders (5200 Conversion)|NOID|9fc77226|x|0|1980|Arcade|USA|Atari|Atari|No Rating|Executable|Joystick|Atari800
+Space Journey|NOID|161657f0|x|0|1983|Educational|USA|Roklan Corp.|Roklan Corp.|No Rating|Cartridge|Joystick|Atari800
+Space Lobsters|NOID|26eb6071|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Space Rider|NOID|0c8550d8|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Space Wars|NOID|18861a90|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Spark Bugs|NOID|f56eced2|x|0|1983|Action|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Special Delivery:  Santa's Christmas Chaos|NOID|912e1d87|x|0|1985|Action|United Kingdom|Creative Sparks|Creative Sparks|No Rating|Cartridge|Joystick|Atari800
+Speed Ace|NOID|39682c87|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Speed Zone|NOID|204f5693|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Speedway Blast|NOID|f895cc47|x|0|1982|Action|USA|IDSI|IDSI|No Rating|Cartridge|Joystick|Atari800
+Spellbound|NOID|a4d1b802,3f02aa01|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Spelunker|NOID|e335e8b8|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+SpiderCity|NOID|8f8c3841|x|0|1983|Shoot 'em Up|USA|Sirius Software|Sirius Software|No Rating|Cartridge|Analog Joystick|Atari800
+Spiky Harold|NOID|2d272ca6|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Spindizzy|NOID|83fbe3ea|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Spooky Castle|NOID|1aa814c3|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Springer|NOID|81466b55|x|0|1983|Action|USA|Tigervision|Tigervision|No Rating|Cartridge|Joystick|Atari800
+Spy vs Spy|NOID|399da174|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Spy vs Spy II|NOID|4c1b4faa|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Spy vs Spy III|NOID|0bd44669|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Spy's Demise|NOID|28e23717|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Squish 'em|NOID|e01600b8|x|0|1983|Arcade|USA|Sirius Software|Sirius Software|No Rating|Cartridge|Joystick|Atari800
+Stack Up|NOID|8e340371|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Star Island|NOID|42246c08|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Star League Baseball|NOID|776af507|x|0|No Date|Sports/Baseball|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Star Maze|NOID|6fd9daff|x|0|1984|Educational|USA|Roklan Corp.|Roklan Corp.|No Rating|Cartridge|Joystick|Atari800
+Star Raiders II|NOID|737d4196|x|0|1987|Strategy/Shooter|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Star Trek 3.5|NOID|c475096c,da62d88b,b8823aeb|x|0|No Date|Strategy/Shooter|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Star Trux|NOID|c13c98d7|x|0|No Date|Strategy/Shooter|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Star Wars: The Empire Strikes Back|NOID|7eacd5c6|x|0|No Date|Strategy/Shooter|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Starball|NOID|ff02b092|x|0|No Date|Strategy/Shooter|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Starbowl Football|NOID|bb3062ac|x|0|No Date|Strategy/Shooter|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Starion|NOID|23faf9b3|x|0|1983|Shoot 'em Up|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Starquake|NOID|cf9b6ae8,36ebd62b|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+States and Capitals|NOID|b28d1839,15122e6c|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Stealth|NOID|96d497b2|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Steeple Jack|NOID|8452ea44|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Stellar Shuttle|NOID|91b6f4a8|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Storm|NOID|7d253adb|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Story Machine|NOID|b3e7fe47|x|0|1982|Educational|USA|Spinnaker Software|Spinnaker Software|No Rating|Cartridge|Keyboard|Atari800
+Stratosphere|NOID|df2b311d|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Submarine Commander|NOID|77198b2b|x|0|1982|Simulation/Submarine|United Kingdom|Thorn EMI|Thorn EMI|No Rating|Cartridge|Joystick|Atari800
+Summer Games|NOID|95e6932d|x|0|1988|Sports/Competitive|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Sunday Golf|NOID|c1641f03|x|0|No Date|Sports/Golf|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Super Boulder Dash|NOID|897533af|x|0|No Date|Sports/Golf|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Super Cubes & Slip|NOID|107ab9ff,ffc0416e|x|0|No Date|Sports/Golf|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Super Sketch|NOID|0e1c20c5|x|0|1984|Educational|USA|PPI|PPI|No Rating|Cartridge|Joystick|Atari800
+Super Snake|NOID|a96d1196|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Super Zaxxon|NOID|8b71c572|x|0|1983|Arcade|USA|Sega|Sega|No Rating|Cassette|Joystick|Atari800
+Superchase!|NOID|56fe983e|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Superman|NOID|af5c13d4|x|0|No Date|Arcade|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Superman III|NOID|639846d6|x|0|1983|Action/Fixed|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Survival|NOID|0c2ad01c,0cb3fa77|x|0|No Date|Action/Fixed|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Survival of the Fittest|NOID|7f48fbc5|x|0|1982|Action|USA|IDSI|IDSI|No Rating|Cartridge|Joystick|Atari800
+Survivors|NOID|b6488364|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Swamp Chomp|NOID|901e3704|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Syntron|NOID|ac2f23c4|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tail of Beta Lyrae|NOID|465e7004|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tales of Dragons and Caveman|NOID|99a98f5b|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tank Trap|NOID|929d0d8e|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tanktics|NOID|7736845c|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Technus|NOID|69aa3c38|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Telengard|NOID|daf4e277,11d89dcc|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Temple of Asphai Trilogy|NOID|a5cdca88|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+The Archers|NOID|6526b731,8d77b950|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Threshold|NOID|3d6cc9f3|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Thrust|NOID|b2dafc85|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tic-Tac-Snack|NOID|aeb40755|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tiger Attack|NOID|317258d6|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tigers in the Snow|NOID|8907a7a2|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Time Bandit|NOID|06863997|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Time Runner|NOID|38889026|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Time Warp|NOID|11e4d6ee|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+TimeBound|NOID|d3e98044|x|0|1984|Educational|USA|CBS Software|CCW, Inc.|No Rating|Cartridge|Joystick|Atari800
+Timeslip|NOID|4d1326af|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Titan|NOID|1e88fe10|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tomahawk|NOID|7d066709|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Topper|NOID|0286eea6|x|0|1982|Action|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Touch Typing|NOID|5371ad0b,5434b815,38a32805,43b01b28|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tower Toppler|NOID|49dc3b22|x|0|1988|Action|USA|Atari|Hewson|No Rating|USA (Prototype)|Joystick|Atari800
+Track Attack|NOID|53e40e83|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Trailblazer|NOID|ab2a56e7|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Trains|NOID|f56c18f3|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Transmuter|NOID|a462cffb|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Treasure Quest|NOID|53eb37de|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tree Surgeon|NOID|637b7bf8|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Trial by Fire!|NOID|a33b25fe|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Trolls and Tribulations|NOID|7f9bab13|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Trull|NOID|73de4ba1|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tube Baddies|NOID|bbde7334|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Tumble Bugs|NOID|6234055d|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Turf-Form|NOID|9868f935|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Turmoil|NOID|a4dd6065|x|0|1982|Shoot 'em Up|USA|Sirius Software|Sirius Software|No Rating|Cartridge|Joystick|Atari800
+Tutti Frutti|NOID|3285a6c0,c6665d30|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Twerps|NOID|af177e1d|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Twilight World|NOID|6547ad60|x|0|No Date|Shoot 'em Up|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Typo|NOID|70585854|x|0|1982|Action|USA|Romox|TJS Industries|No Rating|Cartridge|Joystick|Atari800
+Typo Attack|NOID|89da4ff7|x|0|1984|Educational|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Universal Hero|NOID|a5a0fb1b|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Up for Grabs|NOID|0f95edd5|x|0|1983|Educational|USA|Spinnaker Software|Spinnaker Software|No Rating|Cartridge|Joystick|Atari800
+Up, Up and Away!|NOID|bac5b16e|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Upper Reaches of Asphai|NOID|7f8fd94e|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Vaults of Zurich|NOID|1fca10a3|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Vegas Jackpot|NOID|d3d830e0|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Vegas Poker|NOID|dc492963|x|0|Unreleased|Casino|USA (Prototype)|Atari|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari800
+Venus Voyager II|NOID|1afb0a68|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Video Classics|NOID|7dcaff68|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Voyager I|NOID|5ce78bce,42520fe1|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Wall Ball!|NOID|cfda0dd4|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Wall Street Challenge|NOID|f9d24203|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+WallWar|NOID|44526ee1|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+War Games|NOID|4a44b48a|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Warhawk|NOID|c8a6f65f|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Warriors of Ras|NOID|0214f270,554e1b61|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Wavy Navy|NOID|ba97618c|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+WayOut|NOID|ac6e24eb|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Whirlinurd|NOID|a13ed13d|x|0|No Date|Casino|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Whistler's Brother|NOID|3a02f1f0|x|0|No Date|Board Game|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Whiz Kid|NOID|fae2336d|x|0|1983|Educational|USA|Romox|Romox|No Rating|Cartridge|Joystick|Atari800
+Who Dares Wins II|NOID|85444f6c|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Winged Samurai|NOID|0898770b|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Winter Olympiad '98|NOID|c5c358d1,0ac56b9b,32306b36,adaa3533,d62dbf1b,2339cc5b|x|0|No Date|Sports/Competitive|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Winter Wally|NOID|065a3d0b|x|0|No Date|Sports/Competitive|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Word Hanger|NOID|c32fcfc7|x|0|No Date|Sports/Competitive|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Word Olympics|NOID|1ddabbc2|x|0|No Date|Sports/Competitive|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+World Soccer|NOID|e3c5db37|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Worm|NOID|92e3f746|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Worm War I|NOID|79934b01|x|0|1982|Action|USA|Fox Video Games|Sirius Software|No Rating|Cartridge|Joystick|Atari800
+Xenon Raid|NOID|63875d69|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Zeppelin|NOID|92469071|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Zoltan Escape|NOID|60ab50d7|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Zone X|NOID|08719dea|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Zorro|NOID|434bd14d|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari800
+Bug Hunt|NOID|dda6f59d,246f3872|x|0|1987|Shooter/Light|USA|Atari|Atari|No Rating|Cartridge|Lightgun|Atari800
+Crime Buster|NOID|143fbad9|x|0|1988|Shooter/Light|USA|Atari|Atari|No Rating|Cartridge|Lightgun|Atari800
+Crossbow|NOID|d4912c3c,fe69f354,0557a91f|x|0|1983|Action/Light|USA|Datamost|dev-unknown|No Rating|Cartridge|Lightgun|Atari800
+Dark Chambers|NOID|b3102eb5|x|0|1988|Arcade/Shooter|USA|Atari|Sculptured Software|No Rating|Cartridge|Joystick|Atari800
+Desert Falcon|NOID|81eb7c98|x|0|1988|Shooter/Isometric|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+Food Fight|NOID|44b8475b|x|0|1987|Action|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+GATO|NOID|ab06a3f5|x|0|1987|Simulation/Submarine|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari800
+One-on-One|NOID|ab060567|x|0|1987|Sports/Basketball|USA|Atari|Electronic Arts|No Rating|Cartridge|Joystick|Atari800
+Thunderfox|NOID|b15ccef2|x|0|1988|Shoot 'em Up|USA|Atari|Aztec Design|No Rating|Cartridge|Joystick|Atari800
+Adventure II Advanced and Special Levels|NOID|aa600fac|x|0|2007|Adventure/Multi-Screen|USA (Homebrew)|AtariAge|AtariAge|No Rating|Cartridge|Analog Joystick|Atari
+Adventure II Easy and Intermediate Levels|NOID|69cc2cd6,fc32e3d5|x|0|2007|Adventure/Multi-Screen|USA (Homebrew)|AtariAge|AtariAge|No Rating|Cartridge|Analog Joystick|Atari
+Archon the Light and the Dark|NOID|b4085901|x|0|No Date|Strategy/Action|USA (800 to 5200 Conversion)|Electronic Arts|Free Fall Associates|No Rating|Cartridge|Analog Joystick|Atari
+Asteroids Vector Edition|NOID|c5bd8bad|x|0|No Date|Arcade/Shooter|USA (Homebrew)|No Publisher|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari
+Buck Rogers Planet of Zoom|NOID|04807705,20df4927,c8035788,a3f12cce|x|0|1983|Arcade/Shooter|USA|Sega Enterprises|Sega|No Rating|Cartridge|Analog Joystick|Atari
+Buried Buck$|NOID|1d161671|x|0|No Date|Action|USA (800 to 5200 Conversion)|Analog Software|Analog Software|No Rating|Cartridge|Analog Joystick|Atari
+Combat II Advanced|NOID|2e3d0ad9|x|0|2002|Action|USA (Demo)|Self Published|Mean Hamster Software|No Rating|Cartridge|Analog Joystick|Atari
+Frogger II Threeedeep!|NOID|0af19345,dc1437d0,1418c44a,0fe438b3,110d6fbc,7a5b4f65|x|0|1984|Arcade|USA|Parker Bros|Sega|No Rating|Cartridge|Analog Joystick|Atari
+Koffi Yellow Kopter|NOID|edfd0784,fe253c69,917be656|x|0|2003|Action|USA|Self Published|dev-unknown|No Rating|Cartridge|Analog Joystick|Atari
+Pitfall II Lost Caverns|NOID|4b910461,14db6854,1668cf3b,f06b7d0d,e43b7e1c|x|0|1984|Platformer/Action|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari
+Robotron 2084|NOID|538f2354,4252abd9,ec80b709,301a76b7,528fc44a|x|0|1983|Arcade/Shooter|USA|Atari|Williams Electronic Games|No Rating|Cartridge|Analog Joystick|Atari
+Space Shuttle A Journey Into Space|NOID|387365dc,404aedac,66832f68,7d902f2a|x|0|1983|Simulation|USA|Activision|Activision|No Rating|Cartridge|Analog Joystick|Atari
+Star Trek Strategic Operations Simulator|NOID|69f23548,519a9574,9df169d9|x|2|1983|Action|USA|Sega|Sega|No Rating|Cartridge|Analog Joystick|Atari
+Star Wars Return of the Jedi Death Star Battle|NOID|0675f0a5,08c8ed8a,d9f5cac7|x|0|1983|Action|USA|Parker Bros|Parker Bros|No Rating|Cartridge|Analog Joystick|Atari
+Star Wars the Arcade Game|NOID|75f566df,aea795f7|x|0|1983|Action|USA|Parker Bros|Atari|No Rating|Cartridge|Analog Joystick|Atari
+4 Star Compilation Volume 1|NOID|49028a6f|x|0|No Date|Compilation/Arcade|USA|Red Rat Software|Red Rat Software|No Rating|Tape|Joystick|Atari
+Adventure I Adventureland|NOID|94af3a0f|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure II Pirate Adventure|NOID|d6424153|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure III Mission Impossible|NOID|8d776aa5|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure IV Voodoo Castle|NOID|8549d339|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure IX Ghost Town|NOID|ad42cd12|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure V the Count|NOID|629b4477|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure VI Strange Odyssey|NOID|ba7f648c|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure VII Mystery Fun House|NOID|51c856c9|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure VIII Pyramid of Doom|NOID|95dff30b|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure X Savage Island I|NOID|8cb4802c|x|0|1981|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure XI Savage Island II|NOID|f5d3c558|x|0|No Date|Action/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Adventure XIII the Sorcerer of Claymorgue Castle|NOID|2c8a6dbf|x|0|1981|Adventure/Text|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Angle Worms and Crolon Diversion|NOID|f0c67917|x|0|1980|Action|USA|Adventure International|Adventure International|No Rating|Tape|Joystick|Atari
+Archon II Adept|NOID|1e704599|x|0|No Date|Strategy/Action|USA|Electronic Arts|Free Fall Associates|No Rating|Executable|Joystick|Atari
+Atari Smash Hits Volume 1|NOID|86f80949|x|0|1985|Compilation/Arcade|United Kingdom|English Software|English Software|No Rating|Disk (ATX)|Joystick|Atari
+Atari Smash Hits Volume 2|NOID|1da6c166,ac9b4d20|x|0|1984|Compilation/Arcade|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari
+Atari Smash Hits Volume 3|NOID|4cbb1688,b24d7ded|x|0|1985|Compilation/Arcade|United Kingdom|English Software|English Software|No Rating|Tape|Joystick|Atari
+Attack at EP-CYG-4 Mission Denor Ozo|NOID|6bf62bd1,bd5bbdbc|x|0|1982|Shoot 'em Up|USA|Bram|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Battle of the Bands|NOID|No CRC|x|0|No Date|Strategy|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Battling Bugs and Concentration|NOID|c8d04a94|x|0|1982|Educational|USA|Milliken|Milliken|No Rating|Disk|Keyboard|Atari
+Blue Max 2001|NOID|9e9bbb31|x|0|1984|Shoot 'em Up|USA|Synapse Software|Synapse Software|No Rating|Disk (ATX)|Joystick|Atari
+Boulder Dash II Rockford's Revenge|NOID|6f9c979c|x|0|1985|Arcade|USA|First Star Software|First Star Software|No Rating|Executable|Joystick|Atari
+Eastern Front 1941|NOID|ccff4a03|x|0|1982|Strategy|USA|Atari|Atari|No Rating|Cartridge|Joystick|Atari
+Flight Simulator II Scenery Disk Japan|NOID|076691e6|x|0|1986|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari
+Flight Simulator II Scenery Dallas-Ft. Worth, Houston, San Antonio, Brownsville|NOID|57fa7b08|x|0|1984|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari
+Flight Simulator II Scenery Phoenixlbuquerqui, El Paso|NOID|e58fc1e9|x|0|1984|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari
+Flight Simulator II Scenery San Francisco, Los Angeles, Las Vegas|NOID|696656db|x|0|1984|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari
+Flight Simulator II Scenery Klamath Falls, Seattle, Great Falls|NOID|13146092|x|0|1985|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari
+Flight Simulator II Scenery Washington, Charlotte, Jacksonville, Miami|NOID|e6f80f2f|x|0|1987|Flight Simulator|USA|subLOGIC|subLOGIC|No Rating|Disk|Joystick, Keyboard|Atari
+Gulp!! and Arrow Graphics|NOID|26b46262,03a42489|x|0|No Date|Educational|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Homesoft Menu01|NOID|1fdb9986|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu02|NOID|bb955d7b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu03|NOID|2f49d6c6|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu04|NOID|d53da60e|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu05|NOID|219c1557|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu06|NOID|c9cc337c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu07|NOID|b5461d5c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu08|NOID|f8e0d490|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu09|NOID|3d288a05|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu10|NOID|f2b3ed92|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu11|NOID|84e53d95|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu12|NOID|85035e90|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu13|NOID|d984802b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu14|NOID|f473baef|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu15|NOID|fe673999|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu16|NOID|dbae600c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu17|NOID|ffc35eb0|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu18|NOID|3ccf849b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu19|NOID|5e11defd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu20|NOID|d3dd1725|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu21|NOID|5c7b036c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu22|NOID|68468401|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu23|NOID|6fcd70d7|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu24|NOID|cdb6e400|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu25|NOID|f5aa847c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu26|NOID|06bb5d71|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu27|NOID|a7fbba59|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu28|NOID|631f53f0|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu29|NOID|68a47c32|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu30|NOID|eeb767e4|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu31|NOID|d042040f|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu32|NOID|5818151d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu33|NOID|68060fdc|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu34|NOID|3252f470|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu35|NOID|d419c67c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu36|NOID|e6a82771|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu37|NOID|dd818ef5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu38|NOID|df5d8f56|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu39|NOID|d09fd8f6|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu40|NOID|6e51206b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu41|NOID|2fa931e5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu42|NOID|3e180b33|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu43|NOID|ccf51338|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu44|NOID|d9ebaf90|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu45|NOID|0b9591a6|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu46|NOID|9f5a7297|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu47|NOID|81ffe767|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu48|NOID|99091e14|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu49|NOID|8182f730|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu50|NOID|a16e5da2|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu51|NOID|b1f6438e|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu52|NOID|41a01a23|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu53|NOID|6dcdbba8|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu54|NOID|8b7a1694|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu55|NOID|4102db25|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu56|NOID|4a745156|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu57|NOID|37353b40|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu58|NOID|8ebe3c94|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu59|NOID|39cf03d5|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu60|NOID|4a36b8f9|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu61|NOID|5abad154|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu62|NOID|8fd27c98|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu63|NOID|8b2f030e|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu64|NOID|3ac13ef8|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu65|NOID|c7352e6b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu66|NOID|2da3b5dc|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu67|NOID|57ba7e3b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu68|NOID|9f2d089a|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu69|NOID|060c5105|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu70|NOID|0fd73f0c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu71|NOID|3a480c12|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu72|NOID|ea3b0334|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu73|NOID|3465446c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu74|NOID|db5d23e0|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu75|NOID|80b96e63|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu76|NOID|086e3fed|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu77|NOID|ae400bbe|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu78|NOID|b78b2363|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu79|NOID|a5016069|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu80|NOID|4ffa6557|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu81|NOID|b7d288d1|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu82|NOID|f81fe3ad|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu83|NOID|e799804b|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu84|NOID|546158fd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu85|NOID|5109bf38|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu86|NOID|3ec775fd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu87|NOID|eed87e31|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu88|NOID|5a79ed07|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu89|NOID|52dc04d8|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu90|NOID|08fb4a2d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu91|NOID|b31068dd|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu92|NOID|4a89e264|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu93|NOID|5cb7c482|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu94|NOID|912a740c|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu95|NOID|0820326d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu96|NOID|834dcb58|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu97|NOID|64fc7397|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu98|NOID|c7d8a541|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu99|NOID|2ea2222d|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Homesoft Menu00|NOID|f5759b71|x|0|No Date|Compilation|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Atari
+Humpty Dumpty and Jack and Jill|NOID|636ab115,97bcac7b|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Joystick|Atari
+Kikstart Off-Road Simulator|NOID|0a24323f|x|0|1986|Racing/Bike|USA|Mastertronic Ltd.|Mr Chip Software|No Rating|Tape|Joystick|Atari
+Learning with Leaper|NOID|a77b5c4c|x|0|1983|Educational|USA|Sierra On-Line|Sierra On-Line|No Rating|Cartridge|Joystick|Atari
+Mercenary Escape from Targ|NOID|de6a2f77,b327c5ee,fd19a063,cbd3dad7|x|0|1985|Adventure/First|USA|Novagen Software Ltd|Novagen Software Ltd|No Rating|Tape|Joystick, Keyboard|Atari
+Mercenary the Second City|NOID|43d0cb08,ae51e59b,d1e4b657|x|0|1986|Adventure/First|USA|Datasoft, Inc.|Novagen Software Ltd|No Rating|Tape|Joystick, Keyboard|Atari
+Mysterious Adventure No. 1 the Golden Baton|NOID|64f7eec2|x|0|1982|Adventure/Text|USA|Adventure International|Adventure International|No Rating|Tape|Keyboard|Atari
+Mysterious Adventure No. 10 Ten Little Indians|NOID|494724c2|x|0|1983|Adventure/Text|USA|Channel 8 Software|Channel 8 Software|No Rating|Tape|Keyboard|Atari
+Mysterious Adventure No. 11 Waworks|NOID|c0a487b5|x|0|1983|Adventure/Text|USA|Digital Fantasia|Digital Fantasia|No Rating|Tape|Keyboard|Atari
+Mysterious Adventure No. 2 the Time Machine|NOID|1c724650|x|0|1983|Adventure/Text|USA|Digital Fantasia|Digital Fantasia|No Rating|Tape|Keyboard|Atari
+Mysterious Adventure No. 8 the Wizard of Akyrz|NOID|e98df4cd|x|0|1983|Adventure/Text|USA|Channel 8 Software|Channel 8 Software|No Rating|Tape|Keyboard|Atari
+New York City the Big Apple|NOID|9278e71a|x|0|1984|Adventure/Top|USA|Synapse Software Corporation|Synapse Software Corporation|No Rating|Tape|Joystick|Atari
+Owari and Bull and Cow|NOID|ca0ea4cd,632c935d|x|0|1982|Board Game|UK|Thorn EMI|Thorn EMI|No Rating|Tape|Joystick, Keyboard|Atari
+Platform Atari 800|NOID|No CRC|x|0|No Date|Racing/Cars|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Pole Position and Race Driver|NOID|220f3696|x|0|No Date|Racing|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Questprobe 1 the Hulk|NOID|67e62763|x|0|No Date|Puzzle|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Sesame Street Letter Go Round|NOID|f525b904|x|0|1984|Educational|USA|CBS Software|CCW, Inc.|No Rating|Cartridge|Joystick|Atari
+Shamus Case II|NOID|2b6696c6|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Snooker and Billiards|NOID|2c711d44,908d23ff|x|0|No Date|Action|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Solo Flight Second Edition|NOID|4df70f68,50fda31f,933d7724|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Space Gunner and Mutant Bats|NOID|7fb7a6bb|x|0|No Date|Sports/Soccer|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Special Delivery Santa's Christmas Chaos|NOID|912e1d87|x|0|1985|Action|United Kingdom|Creative Sparks|Creative Sparks|No Rating|Cartridge|Joystick|Atari
+Star Wars the Empire Strikes Back|NOID|7eacd5c6|x|0|No Date|Strategy/Shooter|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari
+Super Cubes and Slip|NOID|107ab9ff,ffc0416e|x|0|No Date|Sports/Golf|USA|No Publisher|dev-unknown|No Rating|Tape|Analog Joystick|Atari

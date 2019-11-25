@@ -1,0 +1,13 @@
+Magical Chase is the only game Quest Corporation created for the PC Engine. Quest, for those of you who live in a video game devoid hole, was the company responsible for creating the critically acclaimed Ogre Battle series. Magical Chase is a side-scrolling shooter in which you play a witch on a broomstick. (This concept may sound familiar to Cotton fans)
+
+The soundtrack is pretty good, but what's most impressive are the graphics. Colorful and fast moving, the sprites and animations are great, not to mention lots of other special graphical effects. Even more impressive is the multi-plane scrolling. The TG-16 hardware only supports a single background layer. Many games create parallax scrolling in the background by using layers of sprites or modifying the horizontal sync rate of different portions of the background (the latter technique was used extensively on NES to perform "fake" parallax). Magical Chase is commonly accused of doing the impossible (on the TG-16, anyway), so seamless and perfect is the multi-plane scrolling it exhibits.
+
+HINTS:
+
+- Bonuses -
+Enter these codes on the difficulty select screen
+Press Left, Down, RIght, Up, Select three times, Left, Right, I - Get 60,000 gems
+Left, down, right, up, SELECT, SELECT, SELECT, left, right, II - Music test
+
+http://www.racketboy.com/retro/turbografx-16/2007/07/tg16-pc-engine-games-that-pushed-the-limits-best-graphics-sound.html
+http://www.pcengine.co.uk/HTML_Games/Magical_Chase.htm

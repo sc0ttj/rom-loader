@@ -1,0 +1,5 @@
+In the distant future, our world is ruled by a group of people who call themselves "The Order". Many disasters had plagued the Earth, and after many wars, misery, and death, the Order dictates our lives and deprives us of our freedom. Can we bear it any longer? A rebel organization has been born already. Somewhere in the depths of a ruined Town Hall, a group of people who oppose the Order's regime will welcome the player to become the one who will free the Earth from terror.
+
+Strife is a plot-driven first-person shooter, that uses the classic Doom engine. Instead of linear levels, there is an entity of locations in the game, most of which allow the player to roam freely and to explore every corner of the world. Although there are no true RPG elements in the game, it has many features untypical for a FPS: there are "friendly" areas, where there are no enemies but people to talk to, stores where new equipment can be bought, and taverns, where the latest gossip is told.
+
+http://www.mobygames.com/game/dos/strife

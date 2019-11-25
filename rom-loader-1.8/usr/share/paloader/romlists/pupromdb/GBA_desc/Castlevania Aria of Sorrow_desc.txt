@@ -1,0 +1,10 @@
+This patch fixes the enemy/item names that were incorrectly translated, and some general errors in item/monster/soul descriptions. Some enemy names were also changed to match Symphony of the Night.
+
+http://www.romhacking.net/hacks/94/
+Normally a solar eclipse isn't a dangerous event, but for Soma Cruz, being sucked through a portal to Dracula's castle during one, will turn his day into a total nightmare.
+
+As Soma you must venture through the castle and find a way out. As you do so, you will discover the true meaning behind the event, and what Dracula is really up to.
+
+Although set in the future, all of the weapons and hazards are the same or similar to those seen in the past Castlevania titles. Swords, hammers, axes all help to improve Soma's strength as you battle through each level, however certain weapons only work with great effect against certain enemies.
+
+http://www.mobygames.com/game/gameboy-advance/castlevania-aria-of-sorrow

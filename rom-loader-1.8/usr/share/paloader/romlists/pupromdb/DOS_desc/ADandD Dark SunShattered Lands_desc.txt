@@ -1,0 +1,9 @@
+Dark Sun: Shattered Lands is an AD&D game based off of the Dark Sun campaign pack from TSR. In the beginning of the game, the player controls a party of gladiators. It opens up with a fight with a multitude of monsters in an arena. After the battle the party are sent back to the slave pens to wait for their next match. They talk to some of the other gladiators in the slave pens and escape (if they can) to help the free villages established by other escaped slaves. Eventually they must fight back against the totalitarian city-state of Draj and the large army they will soon send to wipe out all of the slave villages. 
+
+The game has a mouse interface and is basically point and click to move around, equip the party, talk to people, pick up things, etc. The gameplay is faithful to AD&D's rules in most cases.
+
+Trivia:
+
+Originally slanted for release in Fall of 1992, SSI was forced to delay the release of this game till late 1993. Because the company had originally counted on profits from this game in 1992, the delayed released indirectly led to SSI laying off 20% of its employees at the start of 1993. When it finally was released, Shattered Lands sold much poorer than expected. One year later in 1994, SSI would be bought out by Mindscape.
+
+http://www.mobygames.com/game/dos/dark-sun-shattered-lands

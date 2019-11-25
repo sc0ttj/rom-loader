@@ -1,0 +1,92 @@
+Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...
+
+Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Taking too long to complete any level will summon Baron Von Blubba, who will float around the screen trying to destroy the player.
+ 
+http://www.mobygames.com/game/amiga/bubble-bobble
+_________________________
+CHEATS:
+
+Press one of the following keys during game play to activate the corresponding cheat function. 
+Note: The cheats are valid only in certain versions of the game.
+
+Effect|Code
+
+Advance one level|[F1]
+
+Advance six levels|[F2]
+
+Advance eleven levels|[F3]
+This sequel to Rainbow Islands sees a return to the gameplay of Bubble Bobble, but with Bub and Bob in their now-human forms.
+
+The boys must clear a series of screens of bad guys - who take slightly more esoteric forms than the angry caterpillars from Rainbow Islands - and again pick up a whole bunch of power-ups.
+
+But this time they're armed with umbrellas! Oh, okay then, parasols...
+ 
+http://www.mobygames.com/game/amiga/parasol-stars-the-story-of-bubble-bobble-iii
+_________________________ 
+CHEATS: 
+Level skip: Press the Right Mouse Button during game play.
+
+Type a word or cynix during game play to enable the cheat mode. Then, press one of the following keys
+to activate the corresponding cheat function.
+
+Effect|Key
+
+All three stars|M
+
+Stage skip|T
+
+Kill all the on screen opponents|G
+
+Stage select|1 to 7
+
+Additional credit|C
+
+Level select|[F1] to [F10]
+
+Suicide|D
+
+Bonus screen|B
+
+Extra level|X
+Based on 1987 Taito coin-op. Sequel to BUBBLE BOBBLE; followed by PARASOL STARS. The first Amiga game from Graftgold.
+
+Missing three levels from the coin-op version. US version is upgraded with Player One and Player Two with different colors (like the arcade version).
+
+http://hol.abime.net/1191
+
+Sequel to Bubble Bobble, Rainbow Islands sees Bub and Bob (in 2 player mode), who are now curiously small boys rather than dinosaurs, attempting to rid the Rainbow Islands of bad guys.
+
+Using the power to cast rainbows, trapping anything underneath, the boys must ascend vertically 4 levels each island, with a big, bad boss at the end of each.
+
+By trapping beasts under your rainbows, then jumping on them to break them you can collect seven different colored gems, and there are also power-ups for extra speed and rainbows.
+ 
+http://www.mobygames.com/game/amiga/rainbow-islands
+_________________________
+CHEATS:
+
+Enter one of the following codes at the title screen while the rainbow is changing colors to activate the corresponding cheat function. Note: Only one code may be enabled at one time. A large version of the item selected will appear to confirm correct code entry.
+
+
+Effect                                      Code 
+Permanent fast shoes                        blrbjsbj  
+Permanent double rainbows                   rjsbjsbr  
+Permanent fast rainbowssss                  llrrs  
+Reveal hint A                               bjbjbjrs  
+Reveal hint B                               ljlslbls  
+Continue after island five                  lbsjrljl  
+All hidden food become money bags           rrllbbjs  
+Continue after island five with money bags  rrrrsbsj 
+100 million counter                         srbjslsb  
+
+
+
+Note: After entering a code, click for an addition credit and an icon will appear in the lower left corner of the starting screen. This bonus is now in effect throughout the game, however the code must be re-entered after all credits are used. 
+
+
+--------------------------------------------------------------------------------
+Unlimited lives:
+Select three credits, then hold Q + W + E + R + T + Y and Fire. 
+
+Create any color gem:
+The screen is split into several vertical zones that determine the gem color that will be created. Estimate where a dead opponent will fall to create the color of your choice.

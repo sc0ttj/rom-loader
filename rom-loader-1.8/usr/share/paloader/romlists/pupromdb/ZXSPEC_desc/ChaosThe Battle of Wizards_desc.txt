@@ -1,0 +1,6 @@
+Chaos is a fantasy strategy game written by Julian Gollop, who later became famous for X-Com. In it you are a wizard who battles it out against up to seven other wizards that can be both player and/or computer controlled. The last one alive wins. The game is turn based and each turn is divided in two parts. In the first you select and cast spells and movement is done in the second.
+
+There are several different spells available. Some of them let you summon creatures to attack the opponent while others will improve your abilities or are offensive (like lightning) or defensive (summon castles). Summoning spells would include Centaurs and Horses, which can be mounted by the wizard and enable you to move across the playing board quickly. Spells can also be either Lawful, Neutral or Chaotic, so the chances of success increase if the wizard has the same alignment.
+
+
+http://www.mobygames.com/game/zx-spectrum/chaos

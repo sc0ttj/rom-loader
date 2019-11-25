@@ -1,0 +1,2 @@
+This is a Game Boy Advance bonus mini-game.  To collect the bonus mini-games you can download to your GBA and play, you'll need to find the eggs corresponding to the games through some levels of Billy Hatcher. When you find one of these eggs, you need to feed it and then hatch it. A small GBA system will come out of the egg and as soon as you collect it, the mini-game will be available to play at the level selection screen.
+

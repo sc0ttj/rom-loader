@@ -1,0 +1,73 @@
+Description
+
+A rainstorm so fierce, it will keep you from leaving your home for the next six months. Wetrix just might be the most addictive puzzle game of all time. Using randomly shaped 3D blocks as they fall from the sky, you must create a series of lakes and dams before the heavy rains appear. Because if the water drains, you lose! Sound simple? Well, mix in a few natural disasters and bomb attacks, and suddenly you need to muster all your strategy and skill to combat nature's fury!
+
+Gameplay
+
+In the classic mode, you start out with a flat piece of land; the ultimate goal being to gain as many points as possible, managing a landscape of lakes and ponds. This is accomplished by maneuvering different types of random pieces that fall onto the playing area, one at a time (much like the puzzle game Tetris). These pieces each have differing effects upon the arena, but the standard pieces are uppers, which increase the land level by one tier, and fall in different shapes. These can be used to sculpt walls and dams, and the perimeters of lakes. Shortly into the game, water bubble pieces will begin to fall, which burst upon impact with the land, and flow realistically like a fluid across the landscape. The main method of gathering points is by using the fireball piece to evaporate lakes, the amount of points depending upon the volume of water. On the right side of the screen is a water gauge, which fills up as water falls off the edge of the landscape, or down holes created by bombs. The player loses the game when the gauge fills up to the top. The only way to reduce the level of the water gauge is by evaporating water with fireballs, again the amount it is reduced by depends on the amount of water evaporated.
+
+
+Pieces
+
+The following game pieces are used:
+
+Uppers 
+    Increase the land level by one unit where the piece hits.
+Downers 
+    Decrease the land level that the piece covers, uniformly to the lowest level of land that the piece hits.
+Water 
+    Bubbles of water that burst upon contact with land.
+Fireball 
+    Evaporates water for points, and can decrease the drain's water level.
+Bomb 
+    Creates holes upon impact with the land, which water can fall through. Use uppers to repair holes (results in a repair bonus). Drop a bomb in a hole and a "rebomb" occurs, in which three other bombs fall, out of control, across the landscape.
+Smart bomb 
+    Not strictly a piece, smart bombs, once collected, can be used at any time with the Z or L buttons. One is awarded to the player if they gain levels whilst the landscape has 5 lakes or higher. In using one, the landscape is reduced to flatness and the earthquake and water gauges are reset to zero, effectively giving the player a fresh start (the only exemption being the level, and as an effect, the speed of the falling pieces). 
+
+
+Rainbows and ducks
+
+Getting ducks and rainbows in the game are one of the goals of the player, and aid in the attainment of more points, by multiplying the amount gained when a lake is bombarded by fireballs. A rainbow is created when the total volume of water in the player's landscape passes a certain limit, and effects a Rainbow Multiplier that causes all scores obtained (via evaporation and Repair Bonuses) while the rainbow exists by 10. Once the total volume of water passes back below the limit, the rainbow disappears.
+
+Rubber Duckys [sic] appear in deep bodies of water, specifically around two blocks high, and multiply all scores on the landscape by two whilst the water remains that high. There is no particular limit to how large the lake must or can be, and the effects of multiple Duckys can be stacked. From a strategic point of view, it is implied that smaller duck lakes are preferable, as they conserve space on the playing area, and less land (Uppers) used to build them minimises the Earthquake gauge. For high scores, having over six ducks is important
+
+Earthquakes
+
+As each upper falls upon the landscape, the earthquake gauge on the left hand side of the screen begins to fill up. The gauge is a direct representation of how much extra land has been added to the landscape. When the gauge fills up completely, an "earthquake" event occurs, which drastically warps the playing area and chaotically rearranges the landscape. Generally an earthquake leads to either game over (water leaking over the edges in the aftermath) or an extremely difficult road towards recreating the landscape. As a result, earthquakes are obviously to be avoided at any cost. Prevention techniques include strategic use of downers to 'trim' the landscape (keeping it even and making sure that the walls are to only as high as they need be), and the creation of a safe area for bombs, where unneeded uppers can be placed and then destroyed. Additionally, fireballs can also destroy land in the same way as bombs, the major difference lying in the fact that they do not create holes in the landscape.
+
+Modes
+
+Practice
+    A series of lessons or practice play. The lessons teach you how everything in the game works, including the different pieces to making rainbows. Practice play is a lot like classic mode, but it differs in the fact that the blocks will never fall until you drop them and you start with 9 smart bombs. Also, most bonuses, like ducks and rainbows, are disabled.
+Classic
+    You start at level one and face the normal hazards like rain, ice and mines. Pieces will fall at a rate related to the level.
+Pro
+    You start on level five (but looks like level 7) and these pieces fall faster. Also, some pieces have different formations or are doubled (i.e. all bombs fall in pairs).
+Challenge
+    You have to try to survive the special setting. Here's the list of the challenges:
+
+        1 Minute: You have 1 minute and start at level 10.
+        5 Minute: You have 5 minutes and start at level 5.
+        100 Pieces: Only 100 pieces will fall and start at level 8.
+        500 Pieces: Only 500 pieces will fall and start at level 4.
+        Preset A: The pieces fall according to a preset sequence and start at level 1.
+        Preset B: Like Preset A, but the sequence is not the same and you start at level 6.
+
+Handicapped
+    Like Classic but with a specific handicap. The possible handicaps are the following:
+
+        Raised Land A: Your earthquake meter is already a little filled when you start.
+        Raised Land B: Your earthquake meter starts even more filled.
+        Ice Layer A: You start with spots of ice on the floor. Upon level up, all the water on the board will vanish, and the original ice layer will reappear.
+        Ice Layer B: Like Ice Layer A but a different ice pattern. Upon level up, all the water on the board will vanish, and the original ice layer will reappear.
+        Random Land: You start with a randomly raised floor. Upon level up, the surface will reset to a random pattern, almost effectively starting the game over with another randomized surface.
+        Random Holes: You start with a randomly holed floor. Upon level up, holes will appear in random spots, and all water on the board will vanish. You will also be given a set of uppers, similar to game start.
+        Half-Full drain: Start with the drain half-filled. Upon level up, the drain will be reset to half-full.
+
+Multiplayer
+    Puts two players against each other, the goal is to survive. You gain powers to throw at the other player by evaporating lakes, ranging from: water, ice, earthquake and bomb. 
+
+
+
+Mega Man (?)
+http://www.gamefaqs.com/n64/199293-wetrix

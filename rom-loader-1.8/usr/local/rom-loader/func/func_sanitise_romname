@@ -1,0 +1,67 @@
+#!/bin/sh
+
+# this func takes all the crap out of the rom names 
+# (or sometimes standardises it), so they are searchable between lists
+
+sanitise_romname (){  
+	
+	[ ! "$1" ] && exit 1
+	VAR="$1"
+	#VAR="${VAR%.*}" 			# remove extension
+	VAR="${VAR// At / at }"				# remove :
+	VAR="${VAR// Of / of }"				# remove :
+	VAR="${VAR// In / in }"				# remove :
+	VAR="${VAR// On / on }"				# remove :
+	VAR="${VAR// With / with }"				# remove :
+	VAR="${VAR// The / the }"				# remove :
+	VAR="${VAR// Is / is }"				# remove :
+	VAR="${VAR//: / }"				# remove :
+	VAR="${VAR// - / }"				# remove -
+	VAR="${VAR//_/ }"				# convert _ to space
+	VAR="${VAR//&amp;/and}"				# convert
+	VAR="${VAR// & / and }"				# convert
+	VAR="${VAR//, the/}"				# convert
+	VAR="${VAR//, A/}"				# convert
+	VAR="${VAR// E /}"			# remove ' E '
+	VAR="${VAR// U /}"			# remove ' U '
+	VAR="${VAR// J /}"				# remove ' J '
+	VAR="${VAR// JUE /}"			# remove ' JUE '
+	VAR="${VAR// jue /}"			# remove ' JUE '
+	VAR="${VAR// UE /}"			# remove ' UE '
+	VAR="${VAR// EU /}"			# remove ' UE '
+	VAR="${VAR//(Japan, USA)/}"			# remove
+	VAR="${VAR//(Japan, Europe)/}"			# remove
+	VAR="${VAR//(USA, Europe)/}"			# remove
+	VAR="${VAR//(USA, Japan)/}"			# remove
+	VAR="${VAR//(Europe, USA)/}"			# remove
+	VAR="${VAR//(Europe, Japan)/}"			# remove
+	VAR="${VAR//(USA, Japan)/}"			# remove
+	VAR="${VAR// \[World\] /}"			# remove
+	VAR="${VAR// (World) /}"			# remove
+	VAR="${VAR// (world) /}"			# remove
+	VAR="${VAR// \[world\] /}"			# remove
+	VAR="${VAR// vs\. / vs }"			# remove
+	VAR="${VAR// Vs\. / Vs }"			# remove
+	VAR="${VAR// Vs / vs }"			# remove
+	VAR="${VAR// (v[0-9]) / }"			# remove
+	VAR="${VAR// (V[0-9]) / }"			# remove
+	VAR="${VAR// (v[0-9].[0-9]) / }"			# remove
+	VAR="${VAR// (V[0-9].[0-9]) / }"			# remove
+	VAR="${VAR// (v[0-9].*) / }"			# remove
+	VAR="${VAR// (V[0-9].*) / }"			# remove
+	#VAR="${VAR//./}"				# remove .
+	VAR="${VAR//beta/}"			# remove beta
+	VAR="${VAR// b[0-9]/}"			# remove beta
+	VAR="${VAR//o[0-9]/}"			# remove o1
+	#do multiple image stuff, for amiga and others ...
+	VAR="${VAR// Disk[0-9]/}"
+	VAR="${VAR// Disk [0-9]/}"
+	VAR="${VAR// disk[0-9]/}"
+	VAR="${VAR// disk [0-9]/}"
+	VAR="${VAR/_%[0-9]/}"
+	VAR="${VAR/-%[0-9]/}"
+	# remove ':', ' - ', multiple, leading and trailing spaces, then everything in and inc brackets () and [], 
+	#then version numbers (e.g. v.1.02 or v1) ...   `sed 's/v[0-9]//g' | sed 's/[v]*[0-9]*[0-9]*//g'` ... #sed -e 's% v[0-9].*%%g' | sed 's%(V[0-9].*%%g' | 
+	[ "$VAR" != "" ] && VAR="`echo \"$VAR\" | sed 's% \+% %g' | sed 's%([^()]*)%%g' | sed 's%\[[^][]*\]%%g' | sed 's%^[ \t]*%%;s%[ \t]*$%%' | sed 's%:%%g' | sed 's% - %%g' | sed 's%^[ \t]*%%;s%[ \t]*$%%'`"
+	echo "$VAR"
+}

@@ -1,0 +1,68 @@
+Annihilate the Aliens!
+
+Vicious predators from the far ends of the universe are invading our planet! They're mean and wicked, creating havoc every-where they go! No one is able to end this turmoil, until a group of courageous citizens known as the "Alien Busters" takes charge!
+
+Be a Buster and take on giant winged worms and multi-faced beasts. But beware - they have the ability to turn themselves into whatever they want - even humans! Blast your Fire Blazer and sizzle mutants 'til they smoke! Chase crawly critters down highways with your almighty Thunder Bazooka! If that doesn't work, summon the Gunship or the Ballistic Missile! That should do the trick!
+
+But the battle isn't over yet. In your final mission you face an incredible creature with terrifying powers. You'll need a full load of tricks, weapons, and strength to save the world and come out alive!
+
+--From the Genesis Alien Storm instruction manual.
+
+Overview:
+
+This adventure game has some really ugly aliens. I mean they make Phyllis Diller look good. No warm and fuzzy guys that you might have sympathy for. These guys are so ugly even their mothers would want you to kill them. But the little monsters can disguise themselves, so watch out for trashcans and even mailboxes.
+     
+There are eight Missions of Mayhem that you must complete to stop their reign of terror, and you better be prepared. Battles take place in warehouses, the streets, labs, spaceships and even in an alien's gut. Aliens apparently don't take coffee breaks, so they keep coming at you. And don't turn your back on them, because like Rocky Balboa, they can get back up. Aliens come in assorted flavors, crawling aliens, walking aliens, running aliens and even flying aliens. So if you want to kill, grab your favorite weapon and attack.
+
+Directions:
+
+You have a choice of three characters, Gordon, Karla and Slammer, each with Attacks and Special Attacks. 
+
+Gordon:
+Attack:          Uses A Bazooka
+Special Attack:  Gordon Summons a Gunship that blasts Aliens
+
+Karla:
+Attack:          Uses a Flame-Thrower
+Special Attack:  Karla Summons a Ballistic Missile
+
+Slammer:
+Attack:          Uses an Electric Whip
+Special Attack:  Uses a Self-Destruct Technique
+
+
+Special Stunts:
+
+To Run: press the D-Control twice to the left or right
+
+To Use a Running Attack: press the D-Control to the left or right and then press the "B" Button
+
+To Use a Leap Attack: press the "C" Button and then press the "B" Button
+
+To Use a High Jump: press the D-Control to the left or right and then press the "C" Button
+
+You can gain energy by picking up energy drinks and extra lives by picking up emergency kits, by walking into them or shooting them in the Shooting Range. You go to the Shooting Ranges after successfully accomplishing a Mission.
+
+Your only chance and your only choice is to kill them before they kill you. When you clear a screen of the Uglies, the guy inside the computer starts flashing a "Go" sign. Yeah, no rest for the weary, just keep going, attacking and being attacked.
+
+When you finally complete a Mission, you get to go to a shooting match when you gain points and can grab some energy by mowing down aliens with an awesome machine gun.
+
+And don't forget, if you get killed a "Continue 9" appears, click start to continue before it counts down.
+
+Special Notes:
+
+The game only operates properly in Arcade mode since the other two choices require special hardware not associated with emulation.
+
+Buttons "A", "B", "C" can all be used to select characters.
+
+The Option Screen can change the button functionality. 
+
+Controls:
+
+A Button: Special Attack
+B Button: Attack
+C Button: Roll / Jump
+Start Button: Start / Pause / Select
+
+Reviewer: WilleyTheRat
+http://www.consoleclassix.com/genesis/alien_storm.html

@@ -1,0 +1,3 @@
+The game was played from an overhead/isometric perspective with the player controlling the Mariner's boat on the ocean. The point of the game was to destroy the Smokers' boats and dive for sunken artifacts, at which point the game switches to a side on perspective so that the player can directly control the Mariner underwater.
+
+http://en.wikipedia.org/wiki/Waterworld_(video_game)#Super_Nintendo_game

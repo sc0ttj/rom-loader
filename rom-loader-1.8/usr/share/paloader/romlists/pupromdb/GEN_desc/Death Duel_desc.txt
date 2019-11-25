@@ -1,0 +1,63 @@
+If you go into this game with the misconception that it is a shoot 'em up game where all you have to do is hold down the trigger and spray ammunition at your enemies, you will be very frustrated when you lose time after time. Duel to the death from inside of a giant robot (in first person perspective) that can be equipped with many different kinds of weapons. You will face many strange alien, some human, and some only part human opponents. Each enemy requires strategy, dodging, well-aimed/planned strikes, and the right weapon to destroy them. Fight your enemy, and the time limit, with limited ammunition.
+
+The graphics are a bit pixel-y and the overall look of the game isn't that grand, but the music is O.K. (very techno and heart pumping, but not there during the main fights, so no distraction!) and the noises aren't annoying. Here's the thing... you just can't beat the challenge this game offers. It is very difficult and will require thought and planning as you go into each duel. The game tells you in the beginning (after a lengthy, amusing prologue) "Do not simply hold down the fire button and blast away! If you do, you will not be successful! Dead Duel is not a 'Shooter'!" Now, for a game to say this about itself may be a bit pompous, but, with this game, it is true none the less. The best advice for this game can be found in the prologue as well-"Get to know how your targeting system works and learn to select the proper weapons from the Weapons Shop! No two weapons or opponents are the same. A good warrior studies the weaknesses of his opponent and plans the proper strategy to take advantage of them."
+
+All I can add to that is, indeed, oh and don't throw the controller when you lose.
+
+Directions:
+
+First off you will walk through a cheering crowd. You can skip that by pressing start. After that, a cyborg looking gal will walk out onto the screen between you and your enemy and say something that is supposed to be clever and sometimes suggestive.
+
+Then she'll waggle her hips and walk off. You can cut to the chase by pressing C.
+
+Now the fight begins. The first thing to know about is the time limit. You have 90 seconds in each battle. If time runs out you lose by default, no matter how much damage you have done the enemy. Your time is displayed at the top/center of the screen. Now take note of the fact that there are walls on the screen between you and your enemy. Your enemy can hide behind these for cover. Some parts of the walls can be destroyed in order to create a space through which to hit the enemy, but not all parts of walls can be destroyed. Also note that, while it may effectively protect your enemy, that doesn't mean it will protect you.
+
+You cannot pause during a battle. Pressing the start button will instead change your cross-hair mode. When you see an arrow on either side of your cross-hairs that means that you can move your robot left and right and also move the cross-hairs up and down. Pressing start will change the cross-hairs to an octagonal shape. In this mode you can no longer move the robot, but instead can move the cross-hairs all over the screen. If you move as far to the left or right as you can you will run into the end of the battlefield. At this point, your enemy can move further over than you can move your cross-hairs if you are in arrow mode. Switch to octagonal mode to reach them then. If you move the cross-hairs while in octagonal mode and then, leaving the cross-hairs in a new position, change back to arrow mode, the cross-hairs will be fixed in that new location. One important thing to note is that the cross-hairs are not always the gospel truth.
+
+The trajectory of your weapon (unless the center weapon) will be slightly different than the cross-hairs and so you must be aware of which weapon you are firing and aim accordingly.
+
+At the bottom of the screen are three small representative pictures of your weapons, each followed by a number. The number is how many remaining shots you have in that weapon. If you run out of ammunition, you automatically lose.
+
+In the bottom left corner of the screen is your life bar. If it fills with color you are destroyed. If you can wait a few moments without taking any more damage you will slowly regenerate health. Your enemy's life bar is in the upper right corner of the screen and works similarly. Keep in mind that some enemies can regenerate or replace entire body parts that will have to be blown off again if you give them too much time.
+
+After you defeat your enemy there will be a qualifying round. Here you have to shoot at little things that run or fly across the screen. The smaller and faster an object is, the more pheelae it is worth (Pheelae is the name of their money). DO NOT shoot at smiley faces. They are worth NEGATIVE pheelae (you will lose money). When you meet the qualifying quota, any time you have left will be turned into bonus pheelae. Pressing start will pause during this section of the game.
+
+Now you will be shown a screen with your next enemy's name and stats on it. I'm not sure that this information is useful. Mainly it will be trial and error that helps you to discover how to defeat your opponents.
+
+In the weapon shop you will be greeted by the ugliest cyborg ever and his pet monkey. You don't have an opportunity to buy weapons until after your first battle. Before you go spending all that newly earned pheelae, take a look at the top number on the screen. That's your repair costs. If you took damage, which is highly likely, you will have to repair it before you go into battle again. Be sure to save out enough money for your repairs. If you fail to repair your robot you will be more vulnerable to damage in the next round. Navigate the weapons shop menu by pressing left or right. The weapons are arranged in the same manner that they will be applied to your robot, I.E. the left weapons will be what your left weapon will be in the next fight.
+
+You can purchase up to 3x on a weapon. This means more ammo. Each weapon has a different amount of set ammo. Go to whichever weapon you want and press up or down to rotate through the possibilities. Press C to buy and to buy further sets of ammo. Press A to undo a choice you've already chosen. The amount of pheelae you have left is conveniently located on the screen. You can keep an eye on this to make sure you don't spend your repair money. The repair screen will come up after the shop screen and you can repair your robot by pressing C. Here's a list of the weapons you can buy and how many rounds come with each purchase:
+
+Machine Gun-quickly fires golf ball sized pellets at your enemy, 20 rounds per 1x
+
+Missile- fires slow moving white missiles at your enemy, 6 rounds per 1x
+
+Laser Gun- quickly fires tiny red, translucent circles at the enemy, 24 rounds per 1x
+
+Skimmer-quickly fires large round black spheres at your enemy, 20 per 1x
+
+Lob Grenade- lobs red grenades at your enemy, 3 per 1x
+
+Grenade- lobs silver grenades at your enemy, 6 per 1x
+
+Energy Ring- sends red rings at the enemy which, upon contact, stop the enemy from being able to move for a limited amount of time, 2 per 1x
+
+What kind of weapon you choose will depend on which enemy you are facing, your fighting style, and your ability. Every enemy will take a different amount of damage to kill, and will deal out a different amount of damage. They each require their own specific strategy to defeat and what applies to one may not apply to the others. Well...? Go Play! I'm not telling you how to beat each one! What would be the fun in that? Go figure it out. 
+
+Controls:
+
+A Button: Left Weapon
+B Button: Center Weapon
+C Button: Right Weapon
+Start Button: Change Modes/Pause
+
+Hints:
+
+I Can Shoot an Unarmed... Man
+On some enemies it might help to destroy their weapons first. Some will reattach weapons or grow new ones, but it's worth a shot.
+
+Hold Still While I Kill You!!
+Try blowing off wings and legs first so that your opponent has to stay right where you want them. This works with most enemies. 
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/death_duel.html

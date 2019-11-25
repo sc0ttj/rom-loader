@@ -1,0 +1,3 @@
+PSIV Arranged Version is a slightly more difficult version of PSIV. The main differences include a significantly slower EXP/MST gain in addition to new item and weapon uses. The goal of this romhack is not to force the player to grind for more levels and cash, but simply to force him or her to examine dozens of options that the game makes available to the player that may have otherwise been overlooked in a normal playthrough.
+
+http://www.romhacking.net/hacks/480/

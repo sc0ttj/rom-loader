@@ -1,0 +1,3 @@
+Qix Clone..
+
+This is in reality "Fill 'Er Up", a game written by Tom Hundson for ANALOG Computing magazine. This guy just slapped his name on it.

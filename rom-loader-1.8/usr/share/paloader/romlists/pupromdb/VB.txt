@@ -1,0 +1,20 @@
+3-D Tetris|NOID|bb71b522|x|0|1996|Puzzle|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Galactic Pinball|NOID|c9710a36|x|0|1995|Pinball|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Golf|NOID|2199af41|x|0|1995|Sports/Golf|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Innsmouth no Yakata|NOID|efd0ac36|x|0|1995|Action|region-unknown|I'Max|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Jack Bros.|NOID|a44de03c|x|0|1995|Action|region-unknown|Atlus Co.|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Mario Clash|NOID|a47de78c|x|0|1995|Platformer|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Mario's Tennis|NOID|7ce7460d|x|0|1995|Sports/Tennis|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Nester's Funky Bowling|NOID|df4d56b4|x|0|1996|Sports/Bowling|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Panic Bomber|NOID|19bb2dfb|x|0|1995|Puzzle|region-unknown|Hudson|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Red Alarm|NOID|aa10a7b4|x|0|1995|Shooter|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+SD Gundam Dimension War|NOID|44788197|x|0|1995|Strategy|region-unknown|Bandai|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Space Invaders Virtual Collection|NOID|fa44402d|x|0|1995|Shooter|region-unknown|Taito|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Teleroboxer|NOID|36103000|x|0|1995|Sports/Boxing|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+V-Tetris|NOID|3ccb67ae|x|0|1995|Puzzle|region-unknown|Bullet-Proof Software|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Vertical Force|NOID|4c32ba5e|x|0|1995|Shooter|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Virtual Bowling|NOID|20688279|x|0|1995|Sports/Bowling|region-unknown|Ocean Software|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Virtual Boy Wario Land|NOID|133e9372|x|0|1995|Platformer|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Virtual Lab|NOID|8989fe0a|x|0|1995|Puzzle|region-unknown|J-Wing|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Virtual League Baseball|NOID|736b40d6|x|0|1995|Sports/Baseball|region-unknown|Kemco|dev-unknown|Everyone|media-unknown|controller-unknown|VB
+Waterworld|NOID|82a95e51|x|0|1995|Shooter|region-unknown|Ocean|dev-unknown|Everyone|media-unknown|controller-unknown|VB

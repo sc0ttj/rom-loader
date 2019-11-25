@@ -1,0 +1,5 @@
+Epic Pinball is one of the best (and few) pinball games ever made to the PC. With staff including designer James Schmaltz and artist Pixel / FC, this game features a mind-boggling 13 (!) pinball tables, including some of the most innovative ever conceived on any platform. It also utilitizes Epic's own PSM (module file format similar, but not identical to, S3M) and runs smoothly on a 386.
+
+The game contains a tribute to Epic's first game, Jill of the Jungle, in the form of a table called Jungle Pinball, and another very innovative table called Enigma (see screenshots).
+
+http://www.mobygames.com/game/epic-pinball

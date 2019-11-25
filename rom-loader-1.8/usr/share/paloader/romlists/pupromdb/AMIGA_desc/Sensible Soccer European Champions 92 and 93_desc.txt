@@ -1,0 +1,15 @@
+With the original Sensible Soccer having sold hugely, this updated version was released some months later (and then used as the basis for the later console versions). The teams are updated, with the sides present in the 92-93 European tournaments included, and the player names updated to take transfers into account. 
+
+The game was tidied up and changed in a number of areas. The most significant change is the addition of red and yellow cards for discipline (2 yellow card offenses or one ?professional foul (denying your opponent a clear goal-scoring opportunity) results in that player being sent off). The goalkeepers have been improved in skill, and the 1994 World Cup Qualifying tournament was added.
+ 
+http://www.mobygames.com/game/amiga/sensible-soccer-european-champions-9293-edition
+_________________________ 
+CHEATS: 
+
+Easy goal:
+Use the following trick to score off a corner every time. Kick the ball towards the goalie. When a forward gets hold of it, kick it across the goal opening and use the after touch to guide it into the net. If done correctly, the CPU will be fooled and will not defend correctly.
+Easy victory:
+When your match appears next on the fixtures screen, for example playing as England vs. Germany (CPU team), click on "Exit" instead of choosing "Next Match". Select "Friendly" from the main menu and select Germany as your team. Go to the team/formations screen and place all the star players from Germany on the bench, and switch their positions. Start to play the match, but quit as soon as it starts. Return to the league/cup games screen and select "View Opposition" (Germany). Your opponent's team still should be switched around.
+
+Slow motion:
+Make a substitution during a match. Press [Esc] while the player is walking off, then quit the game. The next match played will be in slow motion. Make another substitution and allow it to complete the resume normal speed.

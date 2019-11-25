@@ -1,0 +1,9 @@
+This game required a bit of detective's work to get any information on its origin. It was only released in Japan by Carry laboratories, which is the only company credited in the code. Return of Jelda would have kept being known only as a Carry game if it weren't for a tiny casual mention in the weekly business magazine The Econo File. Focused on SunA's first self developed arcade game, the article goes on name-dropping a few more active developers, including Softmen. The team is stated as having finished a contract with Carry for a game "Jelda"1.
+
+Like Olion, the shooter relies on 3D graphics, but they're more stilized and well-defined this time around. The actual gameplay takes place on two planes, though, with lasers to attack flying enemies and bombs for turrets and buildings on the ground. Both weapon systems have to cool down after excessive use, leaving the ship vulnerable to enemy attacks. But also time eats away on the life bar, so haste is mandatory. The player manages also the speed of the ship, which can even fly slowly backwards.
+
+The game suffers a bit from its low framerate, and the simple wireframes are limited to a single color, but for a 3D game in its time, it once again impresses with its playability.
+
+Carry already published two games in the Jelda series for the PC88 in 1984, with almost nothing known about the actual developer (at least Jelda II is sometimes attributed to a team called Zero Soft), but it is highly improbable that those were also made in Korea.
+
+http://www.hardcoregaming101.net/korea/part1/company-softmen.htm

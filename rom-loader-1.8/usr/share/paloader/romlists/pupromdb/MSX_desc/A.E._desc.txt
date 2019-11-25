@@ -1,0 +1,6 @@
+A.E. is a Space Invaders inspired game with a 3D view. In A.E. the earth is under attack by swarms of aliens who drop bomb after bomb and it's your job to defend planet Earth.
+
+You control a laser cannon that moves horizontally at the bottom of the screen. To earn point you should shoot all the alien forces before they shoot you! The game becomes more challenging when you progress in the game as the alien swarm splits up and attack you from several sides.
+
+http://www.mobygames.com/game/msx/ae
+No synopsis information for this game. If you can supply more information on this game go to http://www.emuxtras.net

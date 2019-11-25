@@ -1,0 +1,48 @@
+Test your skills, using the Zapper, in Hogan's Alley. There are three quick- draw games to choose from - First, practice making split second identification of the gangsters in a line-up. Next, move into the streets where enemy targets can pop up from anywhere, then show 'em your stuff in the Trick Shoot, a rapid fire round for only the toughest G-men.
+
+--From the NES Hogan's Alley instruction manual.
+
+Overview - 
+Shoot the bad guys. Don't shoot the good guys. Yah.
+
+There's not much story to this game. You're some sort of G-Man, meaning a federal agent of some description. Your task is to prove that you're the best shooting G-Man in the G-Squad.
+
+Directions - 
+There are three modes of play in Hogan's Alley. The first is like a simple carnie game. Three targets at a time come out, one or two are gangsters and the others are innocents. Within the time limit for each round, you must take out the criminals.
+
+You get points for each bad guy you hit, and you get charged with a miss for each innocent you hit and for each baddie you fail to get before time runs out. Ten misses and it's Game Over, otherwise you could go on forever.
+
+The second game is the old classic cop training course, the 'alley' of Hogan's Alley. The same targets appear, but now they come from doors, windows, behind fences, etc. Which begs the question, why do we train cops to draw and fire against a criminal who pops up already aiming a gun at them? Anyway, same rules for hits and misses, but there may be more than three targets on screen at once, and they aren't all lined up nice and neat for you.
+
+The third game is 'Trickshooting' in which your job is to shoot cans instead of bad guys. The can flies upward when you hit it, and your goal is to coax it into the slots at the left, without letting it fall to the ground. The points for each slot are shown, but you also get 100 points for landing on the small platform near the floor. It looks like this would be harder to do and thus worth more, I don't know what they were thinking.
+
+Controls - 
+You can use your mouse as a Zapper for this game, as long as you are not in full-screen mode.
+Select Button - Choose game mode
+Start Button - Start Game
+
+Hints - 
+Keep Firing
+You don't get charged with a miss for shots you take that don't hit anything, so if you miss the bad guy keep shooting until time runs out. 
+
+Reviewer - jcooper
+http://consoleclassix.com/nes/hogans_alley.html
+You need split-second timing and sharp-shooting accuracy to join the FBI. Have you got what it takes? Prove it! Use your Zapper light gun to shoot the gangsters in the FBI line-up, without hitting the innocent bystanders. Hit the gangsters and you'll score enough points to move to the next location - Hogan's Alley. Here's where the going gets rough. The gangsters pop in and out of windows, doorways and shadows, and are visible for a shorter amount of time. Beat the gangsters this time around and you'll move to the Trick Shoot round. How long can you keep the tin cans hopping in the air? Keep them up there long enough and you'll score enough points to become a full-fledged Agent in this exciting Nintendo Light Gun game!
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.gamefaqs.com/console/nes/home/587339.html
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

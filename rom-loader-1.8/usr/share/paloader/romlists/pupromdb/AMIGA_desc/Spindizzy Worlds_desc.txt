@@ -1,0 +1,17 @@
+On it's most basic level, Spindizzy Worlds is, like its predecessor, similar to Marble Madness. Controlling GERALD, you must move through the isometrically viewed landscape (largely flick-screen on the ST). There are two skill levels; the harder one features more of the precarious ledges and falls of Spindizzy. Each one takes you to a different matrix of levels, which can be played in different orders and each consist of 10 screens, with a bonus level at the end.
+
+You have limited energy, which can be recharged by collecting crystals. Fuel is limited, and is reduced by contact with hazards - generating a replacement GERALD takes time. There are many gates which are opened by running into spaces of the same colour. There are also aliens to avoid, and most movement is along thin slippery ledges with heavily inertia-based controls.
+ 
+http://www.mobygames.com/game/amiga/spindizzy-worlds
+
+Based on 1990 Electric Dreams Atari ST release. Amiga version has several improvements over the ST version including scrolling screens.
+
+Follow-up to Paul Shirley's successful 8-bit release, SPINDIZZY.
+The box artwork was designed by Steve Hopcroft, and was a result of a competition run in Amiga Format Sep 1990. The first prize included getting the winning artwork published as the box cover. Other prize winning entries from the competition were published in the Jan 1991 issue of Amiga Format.
+
+http://hol.abime.net/2064
+_________________________
+CHEATS:
+
+Level editor:
+Begin game play and select a cluster of planets for a close-up view. Type Edit (case-sensitive). A disclaimer statement followed by instructions will appear to confirm correct code entry. Press Fire to return to the planet cluster and press Fire again. The game will allow you to create your own scenery when game play begins.

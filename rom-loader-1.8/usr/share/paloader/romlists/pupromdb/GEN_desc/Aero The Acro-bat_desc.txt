@@ -1,0 +1,39 @@
+This is a pretty awesome Genesis game, and you will probably like it if you like Sonic. The game is separated up into acts just like Sonic, but the name Act is even more appropriate in this game since you are a circus performer. Very bright, very colorful, and very fun. I mean, how much more fun can you get than a circus? Run and fly around as a bat (who looks a bit hedge hog-ish I must say) in a cape, avoiding menacing clowns (I mean really, who isn't afraid of clowns?), and doing whatever the mission is for that stage.
+
+With its great graphics, smooth animation, and fun music, I found myself quickly addicted to this little sidescroller. I really hope that everyone out there that enjoyed playing Sonic will get a chance to play this great game.
+
+Directions:
+
+Move Aero with the joystick. Pressing down will make him squat or get into a cannon. Jump with B and throw stars with A. Press C in midair to get Aero to flap his wings and hover for a second. Press C while on a rope to hang from it.
+
+You can then press down to drop off. You will have to pick up some stars before you can throw them, and the amount you have will be displayed at the top of the screen. Stars can be used to destroy enemies. Enemies can also be destroyed by spinning into them (also reminiscent of Sonic, eh?). Do a midair spin by pressing the jump button again while you're in the air. You can only spin from the air. You will spin in whatever direction (diagonals only) you press the joystick, including up! Spin into enemies to take them out. This can be very difficult to do with some enemies, most notably the ball throwing, sliding clown. You will just bounce off of him most of the time. He will also block some of the stars you throw at him. If you do manage to kill him though, it's worth 900 points.
+
+You will see a timer counting down in the lower right corner of the screen. You do not have to finish the act in that amount of time, but you will get bonus points for any time left over at the end!
+
+Pick up food like hot dogs, lolly pops, cup cakes, cheese, and soda pop for points. Enemies you kill are worth points as well. Also you can pick up capital letter A's with little wings on them. A is for Aero and will give you hit points. Every time an enemy hits you you will lose an A. If you don't have any A's left you will lose a life.
+
+You will find various other items to help you. A brown box shape with a red and white umbrella shape on top is a parachute. Use these to float down slowly. A clock will add more time to the timer at the bottom of the screen. Sometimes you will find many small stars twinkling and spinning in a circle in the air. Jump into the center of these to be teleported to another area. You will also find these at the end of levels. Don't stop when you've completed the mission. Keep going until you find the ring of stars. Pick up a red ball with a yellow arrow pointing up on it and now Aero can fly! A box with a lightening bolt in it will allow you to spin twice on one jump. This only lasts a limited time. Pick up a small twinkling group of stars to become invincible for a few moments.
+
+In the bonus act, jump three times on the diving board and Aero will go into a big eyed dive (this will look different from his usual falling). Only if you're diving will you have completed the act successfully and get the points. Pick up as many food items as you can while a pesky guy with a fan blows you off course. Also, watch out that this guy doesn't blow you up against the side when you're close to the bottom or it's SPLAT!
+
+Occasionally there will be hazards to watch out for that aren't enemies. Spikes will kill you if you land on them, no matter how many A's you have! Rings that are on fire will burn you to a crisp instantly if you touch the flame, yet another instance where it doesn't matter how many A's you have.
+
+The first mission you will have will be to jump on star platforms. These are made up of three blue boxes with white stars on them. Jump on them three times and they'll disappear and you'll get credit for them. In the "Fun Park" there will be elevators. You can walk past these without getting on. To get on one you will have to jump on.
+
+At the end of a set of Acts the will be a Boss Act. Here you must defeat a stronger enemy by hitting it multiple times. In the first Boss Act you will face two juggling clowns. The sticks they are juggling don't hurt you until they are tossed out of the arc, so don't worry about jumping into the arc. The sticks will catch the ground on fire for a moment and the fire will cost you an A. You only begin with three A's (just like every other act), so be careful. 
+
+Controls:
+
+A Button: Throw a Star
+B Button: Jump/Spin
+C Button: Hover/Hang
+Start Button: Pause Game
+Select Button: N/A
+
+Hints:
+
+First Things First
+You will have missions that tell you to jump on the star platforms, but don't make them disappear too quickly. You can use some platforms to reach other areas, areas you can't reach when they're gone! 
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/aero_the_acro_bat.html

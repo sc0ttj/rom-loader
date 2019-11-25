@@ -1,0 +1,7 @@
+Basic fighting game; think Mortal Kombat crossed with Street Fighter crossed with Aliens. Special features include fighting arenas that zoom in and out to follow the action, high-res VESA support, and a variety of special moves per character.
+
+Trivia:
+
+Xenophage means "alien eater".
+
+http://www.mobygames.com/game/dos/xenophage-alien-bloodsport

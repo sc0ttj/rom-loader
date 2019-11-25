@@ -1,0 +1,5 @@
+An almost complete text hack of Super Mario RPG (the only text left unhacked is the enemies' names and the menus). The entire storyline has been changed.
+
+Note: This hack contains a lot of foul language.
+
+http://www.romhacking.net/hacks/28/

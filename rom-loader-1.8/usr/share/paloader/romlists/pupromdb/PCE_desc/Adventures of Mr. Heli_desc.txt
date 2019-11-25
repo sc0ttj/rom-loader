@@ -1,0 +1,11 @@
+A multi-directional shooter where you control a cute orange helicopter with feet. Collect crystals to buy power-ups at shops. 
+
+HINTS:
+
+- Extra credits -
+I, II, II, I, Select.
+
+- Sound test -
+II, I, I, II, Select on title screen.
+
+http://www.pcengine.co.uk/HTML_Games/Mr_Heli.htm

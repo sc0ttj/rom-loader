@@ -1,0 +1,3 @@
+A complete overhaul of SMW, replacing eveything with GFX from SMB3. This hack is meant to be used as a base for other hacks.
+
+http://www.romhacking.net/hacks/58/

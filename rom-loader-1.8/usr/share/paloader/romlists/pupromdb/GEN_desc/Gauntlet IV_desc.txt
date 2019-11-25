@@ -1,0 +1,50 @@
+There are many mysteries and Legends in this world. When a mystery is solved, it becomes a legend which will be told over and over again by many people. There are some who seek the challenge of adventure, in spite of the risks, both for themselves and to create their own legend. People call them adventurers.
+
+To this day there still exists one mystery that cannot be solved. We call it 'The mystery protected by the old castle towers.' This ancient castle is deep within the mountains, far from human dwellings. It is surrounded by four high towers. The towers have had a spell cast upon them that protects the castle against intrusion from the outside world. If you cannot break the spell, you will not get near the castle.
+
+Some say that an ancient secret treasure, undisturbed for many aeons, lies deep within the castle walls. There have been many that have sought to solve the castle's mystery. So far, none have succeeded...
+
+--from the Gauntlet 4 game intro 
+
+Directions:
+
+There is an Arcade Mode, which is the classic game, just like earlier Gauntlet titles. But the real gem here is Quest Mode. You follow a somewhat structured story-line, gain experience, improve your stats, and buy weapons and equipment using the gold you collect in dungeons.
+
+Gameplay:
+
+A player may control either Thor the Warrior, Merlin the Wizard, Thyra the Valkyrie or Questor the Elf. The hero being controlled is dictated by the player's position on the cabinet. (There is only one of each hero.) Each hero has a unique specialty/advantage: The Warrior is strongest in hand-to-hand combat, the Wizard has the strongest magic, the Valkyrie has the greatest armour and the Elf is the fastest in movement.
+
+Players must cooperate to traverse the perils of a dungeon via a top-down view. The game has no actual goal. The only way to stop playing is to either die, or wait for the health timer to go down to zero. The NES version does, however, have an end (after 100 levels).
+
+The players traverse the dungeon levels controlling their assigned heroes, attacking monsters and collecting treasure, food, and potions. The monsters of the first Gauntlet game included ghosts, grunts, demons, lobbers, sorcerers, and thieves. Each kind of monster was generated in specific houses spread in each level. A special enemy, "Death", was able to drain the life force of the four heroes. The players must cooperate by sharing food and luring monsters into places where they can be engaged and slaughtered more conveniently. The heroes continuously lose health during gameplay, regardless of what they are doing - even if they are just standing still. Heroes lose even more health when attacked by monsters. Besides finding food in the dungeon, players can add health by depositing more coins.
+
+Gauntlet was thus notorious for being a money gobbler when it first appeared, since players desperately shoved in handfuls of coins in order to avoid being ejected from the game and sometimes waiting hours in line in order to play again.
+
+One of the game's features was the narrator's voice, which was produced by a Texas Instruments TMS5220C speech chip. The narrator would frequently make statements repeating the game's rules, including: "Shots do not hurt other players (yet)," "Remember, don't shoot food!", "Elf -- shot the food!", and "Warrior needs food -- badly!" Occasionally, the narrator would encourage (or mock) the players in the thick of battle by saying, "I've not seen such bravery!" or "Let's see you get out of here!" A memorable statement of the game occurred when a player's "life force" points fell below 200: "Your life force is running out" or "Valkyrie...is about to die!" Some of the game's statements are humorously ambiguous due to limited memory, such as "You are full of bombs and/or keys." 
+
+This referred to the fact that a player could only carry a limited total number of bombs and keys; if there were more doors in the level than the player had keys, the game was programmed to unlock all of the doors if the player rested for a certain period of time, during which his or her health timer would tick down. A similar feature turned all of the walls into exits, although the players had to wait without fighting for a much longer period.
+
+To accommodate up to four players, the cabinet is wider than other standard uprights. Each player had a joystick and two buttons, one for "Fire" (to attack) and one for "Magic". The Magic button also started the game. After Gauntlet's release, other games started using this design, so it was a popular conversion target for newer games after it had its run.
+
+Hints:
+
+- Quest Mode Password -
+Enter the password at the QUEST MODE Continue screen.
+
+(NOTE - Be sure to enter your name as AETHER-K; or the password won't work.)
+
+5:8tpyc76xao:5ljl3d846teo63coa- Get More Health
+
+9fywr mp7:9 9oju- xp+5x +kdp= -c3rh- Play as Questor
+
+ylog: j4e97 x-te8 68xop wo9+w 3+cx1- Play as Thor
+
+:ectm l-fu9 f9994 =135g -8+ot x4m:y- Play as Thyra
+
+50FH5 W=J-8 +1KHM CT:A6 3XC:+ W53E8- Start New Quest Mode with Max.Gold (65535)/Max.EP (65535)/Max.Health (99900)/Max.Abilities (18)/Optimum Equipment/All Items.
+
+Reviewer:
+
+http://en.wikipedia.org/wiki/Gauntlet_(arcade_game)
+http://www.consoleclassix.com/genesis/gauntlet_4.html
+http://www.gamefaqs.com/console/genesis/code/586204.html

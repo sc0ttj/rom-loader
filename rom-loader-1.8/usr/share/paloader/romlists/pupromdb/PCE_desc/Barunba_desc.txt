@@ -1,0 +1,12 @@
+The Engine is hardly lacking in shooters, so to be successful, you have to stand out from the crowd. Barunba tries to add a hint of originality in its own subtle way. You control what is basically a floating globe (complete with little man inside) that has a weapons ring around it - this ring can be rotated right around the ship giving a fully controllable direction of fire, something obviously useful for those pesky critters approaching from behind. From the start, you are equipped with several different types of weapon, each of which can be temporarily boosted by collecting items that are dropped by exploding enemies. The levels are auto-scroll, moving around in all directions and contain mid-level as well as end-of-level bosses. Your ship has an energy bar, located at the bottom left of the screen, and once it is depleted it's 'Game Over'.
+
+COMMENT:
+
+Graphically, Barunba is OK. The backdrops are fairly well drawn, though there are some dodgy enemy sprites. But what mainly lets this game down is the lack of variety and slow pace. Levels are far too long for my liking - you'll probably get bored before you reach the end of level one - and because the limitations of HuCARD, there is little graphical change. If the action was faster or the levels were shorter (like Atomic Robo-Kid) then this would be a far better game. The lack of lives/continues only serves to make things worse. Sonically, it's pretty average too, so no extra points there.
+
+HINTS:
+
+- continue -
+Push UP+RUN on the Game Over screen to continue from the beginning of the level.
+
+http://www.pcengine.co.uk/HTML_Games/Barunba.htm

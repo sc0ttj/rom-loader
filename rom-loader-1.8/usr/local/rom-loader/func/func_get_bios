@@ -1,0 +1,147 @@
+#!/bin/sh
+
+# the funcs here are used in the Rom-Loader Settings menu
+# they will download the required BIOS files for various sytems, and then install them
+
+get_bios (){
+	URL="$1"
+	[ "$URL" = "" ] && exit 1
+	
+	RCFILE=/root/.paloader/paloader.cfg
+	. $RCFILE
+	
+	#if not loaded from settings page, then exit if we are NOT asking the user to download BIOS
+	if [ "$SELF" != "paloader_settings" -a "$ROM_ASKBIOS" = false ];then
+		echo 'Skipping BIOS install...'
+	else
+		BIOS_SYS=${SYSTEM,,}
+		BIOS_SYS=${BIOS_SYS^}
+		Xdialog --title "Puppy Arcade User Agreement" --no-close --ok-label "I understand, and I agree." --cancel-label "No, cancel the download." --yesno "
+${BIOS_SYS} BIOS Download - User Agreement
+
+To download these files, you *must* have bought and owned the console, 
+computer, system or media on which the BIOS, firmware or ROM that 
+you are downloading was originally installed or available.
+
+If you did not buy & own the hardware, dont download the BIOS files! 
+
+You can still purchase *some* of these BIOS files from enthusiasts and 
+companies keen to preserve them, like Amiga Forever and Intellivision.
+
+Other companies like Amstrad allow emulator developers to include 
+their Amstrad BIOS file with the emulators, which is nice of them.
+
+So, you should ideally rip the BIOS from your hardware - if not, buy it!
+In either case, many websites can help you get the BIOS files legally. 
+
+Read the User Agreement below, click \"I agree\" to start downloading:
+
+\"I agree that I will ONLY use this tool to download and install the BIOS files 
+of the systems I've legally owned and purchased. I agree that the makers 
+of Puppy Arcade take *no responsibility* for my actions.\"
+" 0 0
+
+		REPLY=$?
+		#if they dont wanna download, tell the settings gui we cancelled, so no restart, then exit this func
+		[ "$REPLY" != 0 ] && echo '' > /tmp/paloader/bios_cancel #&& exit 0  ##dont exit
+		#remove the cancel flag, user didnt cancel
+		rm /tmp/paloader/bios_cancel &>/dev/null
+
+		#011014 use /root as dwnld dir
+		if [ "$REPLY" = 0 ];then
+			BIOSPKG="${1##*/}" #get only the filename
+			if [ ! -e "/root/$BIOSPKG" ];then
+				download_progress "$URL" /root
+			fi
+			if [ -e "/root/${BIOSPKG}" ];then
+				export MSG='<window title="Rom-Loader"><vbox><text><label>" Installing '$BIOSPKG'    "</label></text><button ok></button></vbox></window>'
+				gtkdialog -c -p MSG &
+				XPID=$!
+				pkg -f -i "/root/${BIOSPKG}" || petget "/root/${BIOSPKG}" #011014 added petget if no pkg
+				kill $XPID
+				XPID=''
+			else
+				Xdialog --rc-file /tmp/gtkrc --title "Download failed" --msgbox "BIOS file not downloaded.\nTry again, or look in \"/root/pkg\", to be sure." 0 0
+			fi
+		fi #endif reply=0
+	fi #end if asking to get bios
+}
+
+get_bios_amiga () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/amiga_libs.pet'
+}
+
+get_bios_atari () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/atari_libs.pet'
+}
+
+#c64 et al
+get_bios_vice () {
+	echo''
+	#get_bios 'http://ppm.scottjarvis.com/emulation/bios/vice_libs.pet'
+}
+
+get_bios_prboom () {
+	echo ''
+	#get_bios 'http://ppm.scottjarvis.com/emulation/bios/prboom-wad.pet'
+}
+
+#intellivision
+get_bios_intv () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/intellivision_libs.pet'
+}
+
+#mame
+get_bios_mame () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/mame_libs.pet'
+}
+
+get_bios_msx () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/msx_libs.pet'
+}
+
+get_bios_nes () {
+	echo ''
+	#get_bios 'http://ppm.scottjarvis.com/emulation/NES/nes_libs.pet'
+}
+
+get_bios_neocd () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/neocd_libs.pet'
+}
+
+#neogeo
+get_bios_neogeo () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/neogeo_libs.pet'
+}
+
+#pce
+get_bios_pce () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/pce_libs.pet'
+}
+
+#pcfx
+get_bios_pcfx () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/pcfx_libs.pet'
+}
+
+#psx
+get_bios_psx () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/psx_libs.pet'
+}
+
+#sega32x
+get_bios_sega32x () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/sega32x_libs.pet'
+}
+
+#segacd
+get_bios_segacd () {
+	get_bios 'http://ppm.scottjarvis.com/emulation/bios/segacd_libs.pet'
+}
+
+#zx spectrum
+get_bios_spectrum () {
+	echo ''
+	#get_bios 'http://ppm.scottjarvis.com/emulation/bios/spectrum_libs.pet'
+}
+

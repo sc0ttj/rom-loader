@@ -1,0 +1,16 @@
+Taking a fair amount of inspiration from Sega's After Burner II, Battle Ace is a sci-fi based cockpit shooter. Gameplay is purely arcade style, with a standard machine gun and lock-on missiles to take down the enemy aggressors. There's little more to it than that.
+
+COMMENT:
+
+The main problem with Battle Ace is that it's rubbish! While I've not got anything against the genre - I love After Burner, and Space Harrier is my all time favourite arcade game - but anyone buying this with their brand new Supergrafx must have wondered what made them waste their hard earned cash.
+
+The gameplay is mind-numbingly repetitive without being enjoyable, the graphics are extremely bland - you rarely see the enemy ships as anything bigger than a few dots as you've either destroyed them or they've gone whizzing off. Also, the levels are overly long and while the music is quite racy, it's not catchy or technically good enough to relieve the monotony. Quite how a company like Hudson had the nerve to release this trash is beyond me. 
+
+HINTS:
+
+- Extra lives -
+Reset the game with SELECT & RUN. Keep these held, then release RUN on the title screen and push UP once. Next, release SELECT and push UP x 3, RIGHT x 6, DOWN x 2, LEFT x 2, then RUN. You can choose up to 255 ships.
+
+MUSIC ROOM: Hold SELECT on the title screen and push RUN.
+
+http://www.pcengine.co.uk/HTML_Games/Battle_Ace.htm

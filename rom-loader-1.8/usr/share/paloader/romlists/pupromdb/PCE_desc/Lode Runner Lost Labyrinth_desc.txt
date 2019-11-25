@@ -1,0 +1,21 @@
+Do you ever get the feeling that it's time to put a particular game to rest? Does it seem like a game has been rehashed so many times that there can't possibly be any life left in it? Are you sometimes apalled by the lack of innovation coming from game development houses? If you answered yest to any of these questions, you're not alone.
+
+When it comes to beating a dead horse (relax...it's only a figure of speech, animal lovers), Lode Runner has got to be one of those titles that will forever live in infamy. Let's get serious here, this game was released for the Apple II!!! What was Pack-In Video doing re-releasing it for the PC Engine? Did they have some sort of trick up their sleeve that we could not have foreseen? These are the questions that the staff of turbografx.net was asking.
+
+So you've heard many times that a first appearance is a very important thing, right? Often a game is judged very quickly based upon it's graphics. Although I hate to do that, it turned out that my first impression was right about this game. Lode Runner is an old school puzzler, in which you run about a labyrinth and try to pick up piles of gold before some heinous monster grabs you. The graphics in the PC Engine version are decided old school looking. Little effort was put into revamping the appeance from the crusty old IBM PC release. Sure, NEC's powerful console could have handled the load, but don't try to tell that to Pack-In Video. You'll find only the very smallest of sprites here with very little detail. The backgrounds are very plain as well and leave much to be desired.
+
+The sound effects amount to little more than beeps and boops. Even the background music sounds little better than an old midi track. Granted, HuCards have been known for their share of troubles when it comes to sound, but this is ridiculous. The full capabilities of the platform have not nearly been put to the test.
+
+As if these things weren't enough, I feel like the gameplay could have been a little bit tighter. It's your job to dig a hole in the ground for your enemy to fall into. Unfortunately, you have to do this well before your enemy approaches you or you will be facing an untimely demise. Although I'm biased, the lack of a multi-player option is always a no-no in my book as well.
+
+Trying to give a much needed boost in the arm to a sorry attempt at a game, Pack-In Video did include a couple of features to help with the lasting appeal. First, they provided a password system to allow the gamer to continue off at the level they last played. Let's be honest, who would want to suffer through this game more than once? Besides that, they included a feature that I have not seen before on a TurboGrafx title. You can actually edit existing levels and create your own new levels. After giving it a try, I don't personally see a lot of appeal in doing this, but maybe this will be the one feature that will put the game over the top for a purchase in your eyes.
+
+When it comes down to it, Lode Runner is a game that needed to be put to rest long ago. I can't believe that they actually released some even newer iterations for the PlayStation consoles. Granted, I have not tried these versions, but I don't necessarily expect the best. Even if you're really hungry for an extra puzzle game in your collection, you should probably avoid this title, unless you can get it as a part of a bundle with some better games. Why not look for something a little bit more innovative instead? 
+
+Translation Descrption: 
+
+Well, there wasn't much to do with this, it was all menu work. But it accomplished its goal: it gave Mr. Shadoff some experience with PCE translation and hacking, and it gave some much-needed attention to the need for PCE translations. The game is totally playable, so download the patch already!
+
+Reviewer: Fabio
+http://www.turbografx.net/softdetail.asp?soft_id=33
+http://romhacking.net/trans/673/

@@ -1,0 +1,97 @@
+The sequel to Zool sees him take on the bad guys Mental Block and Krool across 15 levels.
+
+Zool 2 is a platform game where you control the titular "Ninja of the Nth Dimension" (or his girlfriend, Zooz, who can complete each level in a slightly different way) as he rampages through a variety of levels, collecting countless tasty treats, shooting any enemies that he encounters and finding bonuses (there's a variety of special power-ups Zool can find - for example, a bomb that follows him and can be blown up at any time to remove on-screen enemies, or a temporary invulnerability). New to the sequel is Zool's ability to scale walls and his new spinning attacks. 
+
+On each level you have to collect a certain amount of the featured fruit within an allocated time limit, and then find the exit across the multi-directionally-scrolling levels. There are lots of hidden areas to see, including a bonus Breakout game starring Zool's pet 2-headed dog.
+ 
+http://www.mobygames.com/game/amiga/zool-2
+_________________________
+CHEATS:
+
+Enter one of the following codes when the "Press
+Fire For Options" message appears to activate the corresponding
+cheat function.
+
+Effect: Code
+
+Press [Return] for level skip: BUMBLEBEE
+10 lives: CREAMOLA
+20 lives: VISION
+Invincibility: TOUGHGUY
+Unlimited time: OLDENEMY
+99 items collected: ALCENTO
+Unlimited smart bombs: KICKASS
+Bonus level on every stage: NAPOLEON
+Stop ball on the bonus level: MARROBONE
+Start at level two: SESAME
+Start at level three: RONSON
+Start at level four: FUNKYTUT
+Start at level five: HISSTERIA
+Start at level six: 7SLURP
+Start at level seven: PLUNGER
+Unknown: WARPMODE
+His name is Zool. He is a Ninja in the 2345th dimension, 6 worlds each with 3 stages. 
+
+In this platformer, you can run, jump, climb walls and shoot the enemies. In the levels are also some power-ups for Zool. There are life-spending hearts, smart bombs, shields, more powerful jump-skill and a twin Zool. This "twin" makes all your motions a few seconds after you do.
+
+In the options you can change the difficulty and the game-speed two times, the continues and the background music (Rock or Funk).
+ 
+http://www.mobygames.com/game/amiga/zool
+_________________________
+CHEATS:
+
+Type goldfish at the "Press Fire To Start"
+screen. The screen will flash to confirm correct code entry. Then,
+press one of the following keys during game play to activate the
+corresponding cheat function.
+
+Effect: Key
+
+Invincibility: 1
+
+Stage skip: 2
+Level skip: 3
+Disable invincibility: 4
+
+Level select[F1] to [F6]
+
+Extra life on bonus level[F7]
+
+Normal game without restart points [F8] to [F10]
+
+Cheat mode (alternate):
+Type streetlamp at the options menu, then start
+a new game. Then, press one of the following keys to activate
+the corresponding cheat function.
+
+Effect: Key
+
+Invincibility: 1
+
+Lose one life: 2
+
+Level skip: [Numpad Plus]
+
+Go to previous level: [Numpad Minus]
+
+Restart current level: 4
+
+Programmer messages:
+Type one of the following codes during game play.
+
+ADE
+TONY
+GEORGE
+SYD
+SHORTIE
+BERNI
+PAT
+PAUL
+CASSON
+ASH
+RITCHIE
+HILEY
+SIZ
+MARK
+GREGGS
+MICK

@@ -1,0 +1,84 @@
+This is a great game. As the name implies, it's a volley ball game with Sanrio characters. Which instantly makes it fun. You basically hit the volley ball back and forth until someone misses it or hits it out of bounds. Simple? Yes! But still very fun. You also may have heard a rumor that that Kunio Volley Ball game kicks this game's ass in. Well, that rumor is just wrong. Sorry Kunio. Well-played, but you just FELL SHORT. This is the real thing folks. Because it's Sanrio. PLay it! It is commanded of you!
+
+Translation Description - 
+In playtesting, I thought I found a couple of untranslated commentator things, but maybe I just dreamed it one night. And if I say so myself, the signs totally suck. Apart from that, it's a great game and it's in English. Go play the game now.
+
+Reviewer - wraith
+http://www.romhacking.net/trans/210/
+Venice Beach Volleyball is no doubt the coolest video game under the hot summer sun. Check it out! We took miles of clear blue sky, warm sand, along with millions of gnarly 8-foot waves, mixed in dudes, babes, and one ton of pure fun, then crammed the whole thing with the maximum amount of challenge and excitement allowable by federal law. Here you have it, the most excellent beach volleyball game ever! Locals say kicking the butt of a computer-controlled team is never easy without a lot of practice. You haven't seen anything until you challenge a friend head to head in competitive double player action mode. Way rad beach volleyball action, blazing 8-bit graphics and killer tunes. That's what VENICE BEACH VOLLEYBALL is all about!
+
+Controls - 
+D-Pad - Moves your character around.
+A - Hits the ball.
+B - Jump (used to spike the ball.)
+Start - Pause Game.
+Select - No Use.
+
+Hints - 
+
+Always try to spike the ball as any times as possible. Just set up a great spike and jump to time your shot right. Just spike as much as possible and try not to knock it out of bounds. If you spike the ball right every time, then it will be very easy to win. 
+
+If they spike, you will have to predict where the ball will go. Try to predict where the ball will go right when you see them jump. You will have to get there quick and you may have to dive sometimes so be ready. 
+
+If you ever have to dive to keep the ball alive, just toss the ball to them. Don't try to spike it to their side or anything because you will probably just mess up and the only person who could save you will be on the ground. 
+
+Reviewer - Antennaes
+http://www.gamefaqs.com/console/nes/game/587751.html
+Volleyball is an action game for one or two players. Choose a country to represent, choose a men's or women's team, then head to the court to begin! You can serve, set the ball for a teammate, spike, lob, or dive to save the game.
+
+Originally released in 1986, it was re-released for the Wii Virtual Console in Europe on August 10, 2007. It is part of the NES Sports Series.
+
+The game is a six player-a-side volleyball simulation. Players can select teams to compete in either a men's or women's competition from the following countries - 
+- United States
+- Japan
+- China
+- South Korea
+- Brazil
+- Soviet Union
+- Cuba
+- Tunisia
+
+Controls - 
+D-Pad - Moves the line near the front of the net, moves players
+A - No function
+B - Hit the ball, throw the ball up, spike the ball
+
+http://en.wikipedia.org/wiki/Volleyball_(video_game)
+http://www.mobygames.com/game/volleyball
+*
+********************************************** W **********************************************
+*
+6a862965,a933aab4,1a600fba,4bbcc3a3,2d06153f,717704ce,0e73153d,9d1deab8
+Wacky Races
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Platformer
+Release Year - 1991
+Developer - Atlus Co.
+Manufacturer - Atlus Co.
+Players - 1
+@END
+Warning - Wacky Race is a platformer, not a racing game!
+
+The player controls Muttley through three different areas (Hip Hop, Splish Splash and Go Go America) in typical platform action. By collecting 100 diamonds, Muttley gains an extra life and by finding a bone, Muttley can switch out another one of his weapons, adding a slight strategy element to the game.
+
+Controls - 
+Down - Crouch
+Left - Move back 
+Right - Move forward
+A - Jump
+B - Use weapon (if any)
+SELECT - Pick option in menu bar
+Start - Pause game (press again to resume)
+
+Hints - 
+-Secret area in Hip Hop A-1
+When you are in the castle and must drop down the hole to reach the next section, don't do so yet. Continue to the right instead and you'll find you can pass through the wall. You'll reach a new area, which contains 4 crystals, 2 bones and 1 life-up as well as an enemy.
+
+-Easier boss fights
+To make boss battles easier, try to encounter the bosses with the arrow in the menu bar on the third slot. There's always one bone when you fight against a boss. Now, you just need to take it and you can refill your health when you're low.
+
+http://en.wikipedia.org/wiki/Wacky_Races_(video_game)
+http://www.gamefaqs.com/console/nes/file/563474/15167

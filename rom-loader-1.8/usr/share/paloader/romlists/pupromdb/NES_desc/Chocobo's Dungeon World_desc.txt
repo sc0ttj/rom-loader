@@ -1,0 +1,3 @@
+A small hack of Bomberman I was motivated to do after seeing Googie crank out some cool screenshots, as per usual. It's a small hack that modifies Bomberman to have a Chocobo-like wrapper around various graphics and sprites, with some text modified for the end. It's really just a fun little hack ^^
+
+http://www.romhacking.net/hacks/549/

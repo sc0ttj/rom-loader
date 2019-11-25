@@ -1,0 +1,8 @@
+Puzzle Boy is a block-pushing puzzle game. Your goal is to guide a potato through several floors filled with blocks, pits, and revolving doors to reach the exit. You can either challenge the 80-floor Puzzle Challenge, or play the Trial Mode, where you attempt to solve ten small, randomly-selected puzzles within five minutes. You can race the clock or another player in this mode.
+
+Translation Description:
+
+This patch should be complete, though I haven't been able to finish some of the later puzzles of the hardest difficulty. So I don't know if there's an additional ending sequence for beating the entire game. Also, I don't know if any emulators currently support the TurboExpress link cable, so I haven't been able to test the 2-player Com-link mode.
+
+Reviewer: KingMike
+http://romhacking.net/trans/1251/

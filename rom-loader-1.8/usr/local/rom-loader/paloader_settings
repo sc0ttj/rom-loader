@@ -1,0 +1,1752 @@
+#!/bin/sh
+
+# export all functions
+set -a
+
+cd /root # v1.8 set in root as default
+
+# enable joypad rom support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+##########    S E T T I N G S   ##############
+{
+# set some vars as defaults
+export DECORATED='decorated="true"'
+export ENABLESPLASH=true
+export FORCESPLASH=false
+export FULLGUI='' # used to check if romloader is parent and return to it if so
+export FULLSCREENGUI=''
+export VERSION="2.0"
+export RCFILE=/root/.paloader/paloader.cfg
+export RCCONTENTS="`cat \"$RCFILE\"`"
+export RCLIST=/root/.paloader/rclist.txt
+export SELF=paloader_settings
+# set rejoystick variables
+export REJOYCC_RCFILE='/root/.rejoystickccrc'
+export PROFILEDIR_P1='/root/.rejoystickcc/profiles_p1'
+export PROFILEDIR_P2='/root/.rejoystickcc/profiles_p2'
+echo PLAYER1 > /tmp/paloader/rejoy_player
+export KEYSDIR='/root/.rejoystickcc/keys'
+export KEYSNAME='rejoystick'
+export PROFILE="nowt"
+export LIST=""
+export LOADP="false"
+export EDITP="false"
+export KEYS_GUI=""
+export PROFILE_KEYS=""
+export XPID=""
+
+# get main rc file option(s)
+if [ -f "$RCFILE" ];then #get profile being used right now
+	. "$RCFILE" 	# read config file
+else 
+	# no config file, set default vars, add to a new config file
+
+	# if settings directory not found, create it
+	[ ! -d /root/.paloader ] && mkdir -p /root/.paloader
+
+	#backends/emus
+	export AMIGA_BACKEND=uae_nogui
+	export AMSTRAD_BACKEND=arnold
+	export ARCADE_BACKEND=sdlmame
+	export ATARI_BACKEND=atari800
+	export ATARI2600_BACKEND=stella
+	export ATARILYNX_BACKEND=mednafen
+	export ATARIST_BACKEND=hatari
+	export COLECO_BACKEND=colem
+	export COM_BACKEND=frodo
+	export DOOM_BACKEND=prboom
+	export DOS_BACKEND=dosbox
+	export GAMEGEAR_BACKEND=mednafen
+	export GBA_BACKEND=mednafen
+	export GEN_BACKEND=gens
+	export INTV_BACKEND=jzintv
+	export MSX_BACKEND=fmsxfan
+	export N64_BACKEND=mupen64plus-dev
+	export NDS_BACKEND=desmume
+	export NEOCD_BACKEND=neocd-1.3
+	export NEOGEO_BACKEND=gngeo
+	export NGP_BACKEND=mednafen
+	export NES_BACKEND=mednafen
+	export PCE_BACKEND=hugo
+	export PCFX_BACKEND=mednafen
+	export PSP_BACKEND=ppsspp
+	export PSX_BACKEND=pcsx
+	export SCUMM_BACKEND=scummvm
+	export SEGA32X_BACKEND=gens
+	export SEGACD_BACKEND=gens
+	export SMS_BACKEND=mednafen
+	export SNES_BACKEND=snes9x-gtk
+	export WSWAN_BACKEND=mednafen
+	export VB_BACKEND=mednafen
+	export ZXSPEC_BACKEND=speccy
+
+	#themes ... gtkrc files... look in /root/.paloader/themes/ 
+	export MAIN_THEME=maschine_orange
+	export AMIGA_THEME=maschine_orange
+	export AMSTRAD_THEME=maschine_orange
+	export ARCADE_THEME=maschine_orange
+	export ATARI_THEME=maschine_orange
+	export ATARI2600_THEME=maschine_orange
+	export ATARILYNX_THEME=maschine_orange
+	export ATARIST_THEME=maschine_orange
+	export COLECO_THEME=maschine_orange
+	export COM_THEME=maschine_orange
+	export DOOM_THEME=maschine_orange
+	export DOS_THEME=maschine_orange
+	export GBA_THEME=maschine_orange
+	export GEN_THEME=maschine_orange
+	export INTV_THEME=maschine_orange
+	export MSX_THEME=maschine_orange
+	export N64_THEME=maschine_orange
+	export NDS_THEME=maschine_orange
+	export NEOCD_THEME=maschine_orange
+	export NEOGEO_THEME=maschine_orange
+	export NGP_THEME=maschine_orange
+	export NES_THEME=maschine_orange
+	export PCE_THEME=maschine_orange
+	export PCFX_THEME=maschine_orange
+	export PSP_THEME=maschine_orange
+	export PSX_THEME=maschine_orange
+	export SCUMM_THEME=maschine_orange
+	export SEGA32X_THEME=maschine_orange
+	export SEGA8BIT_THEME=maschine_orange
+	export SEGACD_THEME=maschine_orange
+	export SNES_THEME=maschine_orange
+	export WSWAN_THEME=maschine_orange
+	export ZXSPEC_THEME=maschine_orange
+	
+	# the rom browsing GUI layout options .. boxart and rom descriptions
+	export ROM_BOXART_ENABLE=true
+	export ROM_BOXART_DL=both
+	export ROM_LIST_POS=bottom
+	export ROM_DATABASE=true
+	export ROM_DESCR_ENABLE=true
+	export ROM_HSCROLLBAR=true
+	export ROM_ASKBIOS=true
+
+fi
+
+# get rejoystickconfig file option(s)
+if [ -e "$REJOYCC_RCFILE" ];then #get profile being used right now
+	. "$REJOYCC_RCFILE" 	# read config file
+else 
+	# no config file, set default vars
+	export CURRENT="None"
+fi
+#now we know the *current* profile, lets update the file that stores it for the gui
+[ ! -f /tmp/paloader/rejoystick_current_profile ] && echo "Current Profile: $CURRENT" > /tmp/paloader/rejoystick_current_profile
+
+#check if DRI (opengl) is enabled on the running system
+OGL_CHECK="`glxinfo | grep direct | grep Yes`"
+[ "$OGL_CHECK" != "" ] && export OGL_CHECK=true
+
+# set icon directory, based on screen res
+SCREEN_RES=`xwininfo -root | grep -m 2 '\geometry' | cut -f4 -d ' ' | cut -f2 -d ' ' | cut -f1 -d '+'`
+#ICONDIR="/usr/share/pixmaps/paloader/small"
+ICONDIR="/usr/local/lib/X11/pixmaps/24x24/"
+
+echo "The resolution is $SCREEN_RES"
+echo "Using icon dir: $ICONDIR"
+echo "OpenGL enabled: $OGL_CHECK"
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+		 # used to say whether or not rom-loader was the parent ... if so, return to rom-loader when this gui exits
+		 # the $FGUI var only found here, so this script can pass -fgui to itself when reloading, if need be
+         -fgui) export FGUI=''-fgui; FULLGUI="true";;  
+         -s|--splash) FORCESPLASH="true";;
+         -sk|--skip-splash) ENABLESPLASH="false";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "paloader $VERSION"; exit;;
+         -t|--tab) TAB="$2" ;;
+         -h|--help)
+echo 'Usage: paloader [OPTION]
+
+Options
+  -s    Force the splash screen to appear
+  -sk    Skip the splash screen
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+
+}
+
+#######    F U N C T I O N S   ######
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution
+. /usr/local/rom-loader/func/func_set_theme
+. /usr/local/rom-loader/func/func_get_bios
+. /usr/local/rom-loader/func/func_rejoystickcc
+. /usr/local/rom-loader/func/func_kill_rejoystick
+
+save_settings () { # save all settings to $RCFILE (in /root/.paloader/paloader.cfg)
+
+	#backends/emus
+	echo '#backends/emus' > $RCFILE
+	echo AMIGA_BACKEND=$AMIGA_BACKEND >> $RCFILE
+	echo AMSTRAD_BACKEND=$AMSTRAD_BACKEND >> $RCFILE
+	echo ARCADE_BACKEND=$ARCADE_BACKEND >> $RCFILE
+	echo ATARI_BACKEND=$ATARI_BACKEND >> $RCFILE
+	echo ATARI2600_BACKEND=$ATARI2600_BACKEND >> $RCFILE
+	echo ATARILYNX_BACKEND=$ATARILYNX_BACKEND >> $RCFILE
+	echo ATARIST_BACKEND=$ATARIST_BACKEND >> $RCFILE
+	echo COLECO_BACKEND=$COLECO_BACKEND >> $RCFILE
+	echo COM_BACKEND=$COM_BACKEND >> $RCFILE
+	echo DOOM_BACKEND=$DOOM_BACKEND >> $RCFILE
+	echo DOS_BACKEND=$DOS_BACKEND >> $RCFILE
+	echo GAMEGEAR_BACKEND=$GAMEGEAR_BACKEND >> $RCFILE
+	echo GBA_BACKEND=$GBA_BACKEND >> $RCFILE
+	echo GEN_BACKEND=$GEN_BACKEND >> $RCFILE
+	echo INTV_BACKEND=$INTV_BACKEND >> $RCFILE
+	echo MSX_BACKEND=$MSX_BACKEND >> $RCFILE
+	echo N64_BACKEND=$N64_BACKEND >> $RCFILE
+	echo NDS_BACKEND=$NDS_BACKEND >> $RCFILE
+	echo NEOCD_BACKEND=$NEOCD_BACKEND >> $RCFILE
+	echo NEOGEO_BACKEND=$NEOGEO_BACKEND >> $RCFILE
+	echo NGP_BACKEND=$NGP_BACKEND >> $RCFILE
+	echo NES_BACKEND=$NES_BACKEND >> $RCFILE
+	echo PCE_BACKEND=$PCE_BACKEND >> $RCFILE
+	echo PCFX_BACKEND=$PCFX_BACKEND >> $RCFILE
+	echo PSP_BACKEND=$PSP_BACKEND >> $RCFILE
+	echo PSX_BACKEND=$PSX_BACKEND >> $RCFILE
+	echo SCUMM_BACKEND=$SCUMM_BACKEND >> $RCFILE
+	echo SEGA32X_BACKEND=$SEGA32X_BACKEND >> $RCFILE
+	echo SEGACD_BACKEND=$SEGACD_BACKEND >> $RCFILE
+	echo SMS_BACKEND=$SMS_BACKEND >> $RCFILE
+	echo SNES_BACKEND=$SNES_BACKEND >> $RCFILE
+	echo WSWAN_BACKEND=$WSWAN_BACKEND >> $RCFILE
+	echo VB_BACKEND=$VB_BACKEND >> $RCFILE
+	echo ZXSPEC_BACKEND=$ZXSPEC_BACKEND >> $RCFILE
+	
+	#themes
+	echo '#themes' >> $RCFILE
+	echo MAIN_THEME="$MAIN_THEME" >> $RCFILE
+	echo AMIGA_THEME="$AMIGA_THEME" >> $RCFILE
+	echo AMSTRAD_THEME="$AMSTRAD_THEME" >> $RCFILE
+	echo ARCADE_THEME="$ARCADE_THEME" >> $RCFILE
+	echo ATARI_THEME="$ATARI_THEME" >> $RCFILE
+	echo ATARI2600_THEME="$ATARI2600_THEME" >> $RCFILE
+	echo ATARILYNX_THEME="$ATARILYNX_THEME" >> $RCFILE
+	echo ATARIST_THEME="$ATARIST_THEME" >> $RCFILE
+	echo COLECO_THEME="$COLECO_THEME" >> $RCFILE
+	echo COM_THEME="$COM_THEME" >> $RCFILE
+	echo DOOM_THEME="$DOOM_THEME" >> $RCFILE
+	echo DOS_THEME="$DOS_THEME" >> $RCFILE
+	echo GBA_THEME="$GBA_THEME" >> $RCFILE
+	echo GEN_THEME="$GEN_THEME" >> $RCFILE
+	echo INTV_THEME="$INTV_THEME" >> $RCFILE
+	echo MSX_THEME="$MSX_THEME" >> $RCFILE
+	echo N64_THEME="$N64_THEME" >> $RCFILE
+	echo NDS_THEME="$NDS_THEME" >> $RCFILE
+	echo NEOCD_THEME="$NEOCD_THEME" >> $RCFILE
+	echo NEOGEO_THEME="$NEOGEO_THEME" >> $RCFILE
+	echo NGP_THEME="$NGP_THEME" >> $RCFILE
+	echo NES_THEME="$NES_THEME" >> $RCFILE
+	echo PCE_THEME="$PCE_THEME" >> $RCFILE
+	echo PCFX_THEME="$PCFX_THEME" >> $RCFILE
+	echo PSP_THEME="$PSP_THEME" >> $RCFILE
+	echo PSX_THEME="$PSX_THEME" >> $RCFILE
+	echo SCUMM_THEME="$SCUMM_THEME" >> $RCFILE
+	echo SEGA32X_THEME="$SEGA32X_THEME" >> $RCFILE
+	echo SEGA8BIT_THEME="$SEGA8BIT_THEME" >> $RCFILE
+	echo SEGACD_THEME="$SEGACD_THEME" >> $RCFILE
+	echo SNES_THEME="$SNES_THEME" >> $RCFILE
+	echo WSWAN_THEME="$WSWAN_THEME" >> $RCFILE
+	echo ZXSPEC_THEME="$ZXSPEC_THEME" >> $RCFILE
+
+	# set the default layout options for each rom browser gui
+	echo ROM_BOXART_ENABLE=$ROM_BOXART_ENABLE >> $RCFILE
+	echo ROM_BOXART_DL=$ROM_BOXART_DL >> $RCFILE
+	echo ROM_LIST_POS=$ROM_LIST_POS >> $RCFILE
+	echo ROM_DATABASE=$ROM_DATABASE >> $RCFILE
+	echo ROM_DESCR_ENABLE=$ROM_DESCR_ENABLE >> $RCFILE
+	echo ROM_HSCROLLBAR=$ROM_HSCROLLBAR >> $RCFILE
+	echo ROM_ASKBIOS=$ROM_ASKBIOS >> $RCFILE
+	
+	#rm the tmp main menu list file in /root/.paloader, cos we maybe updated some backends
+	rm /root/.paloader/backend_to_gui.txt &>/dev/null
+	
+}
+
+# return all themes for a gtkdialog combobox list , minus the theme for system $2
+list_themes () {
+	for theme in /root/.paloader/themes/*
+	do
+		theme="`basename \"$theme\"`"
+		[ "$theme" != "$1" -a "$theme" != "" -a "$theme" != " " ] && THEME_LIST="$THEME_LIST<item>$theme</item>"
+	done
+	[ "$1" != "" ] && THEME_LIST="`echo "${THEME_LIST}"`" # remove the given theme, for excluding pre-selected (default) themes
+	THEME_LIST="<item>$1</item>$THEME_LIST" # add default item to top of list
+	echo "$THEME_LIST"
+}
+
+############    P R O G R A M   ##########
+
+THEME="$MAIN_THEME"
+echo "`cat \"/root/.paloader/themes/${THEME:-maschine_orange}\"`" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITLESIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+export SELF=paloader_settings
+set_theme
+
+# emulation backends, comboboxes .. get the list of backends from RCLIST - a file which lists all emulators by system, with its config file
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+##build BIOS installer buttons
+{
+# check each BIOS file required
+if [  ! -e "/usr/lib/games/amiga/Kickstart 1.3.rom" ] ;then
+	amiga_bios="<text><label>Amiga</label></text>
+	<button tooltip-text=\"You should buy the Amiga Forever package, which contains the required Amiga Kickstart files.\">
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_amiga</action> 
+	</button>"   
+	else
+	amiga_bios="<text><label>Amiga</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e /usr/lib/games/atari/atariosa.rom -o ! -e /usr/lib/games/atari/atariosb.rom ] ;then
+	atari_bios="<text><label>Atari</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_atari</action>
+	</button>"   
+	else
+	atari_bios="<text><label>Atari</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+#no longer needed
+#if [  ! -e /usr/lib/games/com ] ;then
+#	vice_bios="<text><label>Commodore</label></text>
+#	<button>
+#		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+#		<action>get_bios_vice</action>
+#	</button>"   
+#	else
+	vice_bios="<text><label>Commodore</label></text>
+	<button tooltip-text=\"VICE includes its own C64 BIOS and ROM files\">
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+#fi
+
+#not needed, can include prboom.wad
+#if [  ! -e /usr/lib/games/doom/prboom.wad ] ;then
+#	prboom_bios="<text><label>Doom</label></text>
+#	<button>
+#		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+#		<action>get_bios_prboom</action>
+#	</button>"   
+#	else
+	prboom_bios="<text><label>Doom</label></text>
+	<button tooltip-text=\"PrBoom includes its own WAD file, a Doom .wad is still needed, just like any other ROM. \">
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+#fi
+
+if [  ! -e /usr/lib/games/intellivision/grom.bin ] ;then
+	intv_bios="<text><label>Intellivision</label></text>
+	<button tooltip-text=\"You should purchase the Intellivision LIves! CD, which contains all the required BIOS files.\">
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_intv</action>
+	</button>"   
+	else
+	intv_bios="<text><label>Intellivision</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e /usr/lib/games/mame/firmware.zip ];then
+	mame_bios="<text><label>MAME</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_mame</action>
+	</button>"   
+	else
+	mame_bios="<text><label>MAME</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e /usr/lib/games/msx/MSX2.ROM ] ;then
+	msx_bios="<text><label>MSX</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_msx</action>
+	</button>"   
+	else
+	msx_bios="<text><label>MSX</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+#no longer needed
+#if [  ! -e /usr/lib/games/nes/disksys.rom ] ;then
+#	nes_bios="<text><label>Famicom/NES</label></text>
+#	<button>
+#		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+#		<action>get_bios_nes</action>
+#	</button>"   
+#	else
+	nes_bios="<text><label>Famicom/NES</label></text>
+	<button tooltip-text=\"No longer needed as Mednafen can do FDS disks and such, so this button disabled.\">
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+#fi
+
+if [  ! -e /usr/lib/games/neocd/neocd.bin ] ;then
+	neocd_bios="<text><label>NeoGeoCD</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_neocd</action>
+	</button>"   
+	else
+	neocd_bios="<text><label>NeoGeoCD</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e /usr/lib/games/neogeo/neogeo.zip ] ;then
+	neogeo_bios="<text><label>NeoGeo</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_neogeo</action>
+	</button>"   
+	else
+	neogeo_bios="<text><label>NeoGeo</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e '/usr/lib/games/pce/CD-ROM System V3.01.pce' ] ;then
+	pce_bios="<text><label>PC-Engine</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_pce</action>
+	</button>"   
+	else
+	pce_bios="<text><label>PC-Engine</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e /usr/lib/games/pcfx/pcfx.rom ] ;then
+	pcfx_bios="<text><label>PC-FX</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_pcfx</action>
+	</button>"   
+	else
+	pcfx_bios="<text><label>PC-FX</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e /usr/lib/games/psx/scph5501.bin ] ;then
+	psx_bios="<text><label>PlayStation</label></text>
+	<button tooltip-text=\"This is OPTIONAL.. PCSX has a built in, open source version of this PlayStation BIOS - just choose Internal HLE, in the BIOS section.\">
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_psx</action>
+	</button>"   
+	else
+	psx_bios="<text><label>PlayStation</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e '/usr/lib/games/sega32x/32X - Genesis BIOS.bin' ] ;then
+	sega32x_bios="<text><label>Sega 32X</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_sega32x</action>
+	</button>"   
+	else
+	sega32x_bios="<text><label>Sega 32X</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+if [  ! -e '/usr/lib/games/segacd/us_scd1_9210.bin' ] ;then
+	segacd_bios="<text><label>Sega CD</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+		<action>get_bios_segacd</action>
+	</button>"   
+	else
+	segacd_bios="<text><label>Sega CD</label></text>
+	<button>
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+fi
+
+#no longer needed
+#if [  ! -e /usr/lib/games/zxspec ] ;then
+#	spectrum_bios="<text><label>ZX Spectrum</label></text>
+#	<button>
+#		<input file>/usr/share/pixmaps/paloader/Delete.png</input>
+#		<action>get_bios_spectrum</action>
+#	</button>"   
+#	else
+	spectrum_bios="<text><label>ZX Spectrum</label></text>
+	<button tooltip-text=\"No longer needed,, Fbzx includes its own ZX Spectrum BIOS and ROM files.\">
+		<input file>/usr/share/pixmaps/paloader/Tick.png</input>
+		<action>Xdialog --title 'BIOS file found' --msgbox 'BIOS file already installed. Enjoy your gaming.' 0 0</action>
+	</button>"   
+#fi
+
+}
+
+## control panel buttons, for opening emulator config files
+{
+AMIGA_RCFILE="`cat $RCLIST | grep -m1 \"|$AMIGA_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$AMIGA_RCFILE" ] ;then
+amiga_rc="<hbox>
+			<text>
+				<label>Amiga ($AMIGA_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $AMIGA_RCFILE\">
+				<input file>${ICONDIR}/amiga.png</input>
+				<action>geany \"$AMIGA_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+AMSTRAD_RCFILE="`cat $RCLIST | grep -m1 \"|$AMSTRAD_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$AMSTRAD_RCFILE" ] ;then
+amstrad_rc="<hbox>
+			<text>
+				<label>Amstrad ($AMSTRAD_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $AMSTRAD_RCFILE\">
+				<input file>${ICONDIR}/cpc.png</input>
+				<action>geany \"$AMSTRAD_RCFILE\"</action>
+			</button>
+		</hbox>"
+fi
+
+ARCADE_RCFILE="`cat $RCLIST | grep -m1 \"|$ARCADE_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$ARCADE_RCFILE" ] ;then
+arcade_rc="<hbox>
+			<text>
+				<label>Arcade ($ARCADE_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $ARCADE_RCFILE\">
+				<input file>${ICONDIR}/arcade.png</input>
+				<action>geany \"$ARCADE_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+ATARI_RCFILE="`cat $RCLIST | grep -m1 \"|$ATARI_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$ATARI_RCFILE" ] ;then
+atari_rc="<hbox>
+			<text>
+				<label>Atari ($ATARI_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $ATARI_RCFILE\">
+				<input file>${ICONDIR}/atari.jpg</input>
+				<action>geany \"$ATARI_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+COLECO_RCFILE="`cat $RCLIST | grep -m1 \"|$COLECO_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$COLECO_RCFILE" ] ;then
+coleco_rc="<hbox>
+			<text>
+				<label>ColecoVision ($COLECO_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $COLECO_RCFILE\">
+				<input file>${ICONDIR}/colecovision.png</input>
+				<action>geany \"$COLECO_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+COM_RCFILE="`cat $RCLIST | grep -m1 \"|$COM_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$COM_RCFILE" ] ;then
+commodore_rc="<hbox>
+			<text>
+				<label>Commodore ($COM_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $COM_RCFILE\">
+				<input file>${ICONDIR}/c64.png</input>
+				<action>geany \"$COM_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+DOOM_RCFILE="`cat $RCLIST | grep -m1 \"|$DOOM_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$DOOM_RCFILE" ] ;then
+prboom_rc="<hbox>
+			<text>
+				<label>Prboom ($DOOM_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $DOOM_RCFILE\">
+				<input file>${ICONDIR}/doom.png</input>
+				<action>geany \"$DOOM_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+GAMEGEAR_RCFILE="`cat $RCLIST | grep -m1 \"|$GAMEGEAR_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$GAMEGEAR_RCFILE" ] ;then
+gamegear_rc="<hbox>
+			<text>
+				<label>Game Gear ($GAMEGEAR_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $GAMEGEAR_RCFILE\">
+				<input file>${ICONDIR}/gamegear.png</input>
+				<action>geany \"$GAMEGEAR_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+GBA_RCFILE="`cat $RCLIST | grep -m1 \"|$GBA_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$GBA_RCFILE" ] ;then
+gameboy_rc="<hbox>
+			<text>
+				<label>GameBoy ($GBA_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $GBA_RCFILE\">
+				<input file>${ICONDIR}/gba3.png</input>
+				<action>geany \"$GBA_RCFILE\"/root/.vbam/VisualBoyAdvance.cfg</action>
+			</button>
+		</hbox>"   
+fi
+
+GEN_RCFILE="`cat $RCLIST | grep -m1 \"|$GEN_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$GEN_RCFILE" ] ;then
+genesis_rc="<hbox>
+			<text>
+				<label>Genesis ($GEN_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $GEN_RCFILE\">
+				<input file>${ICONDIR}/genesis.png</input>
+				<action>geany \"$GEN_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+DOS_RCFILE="`cat $RCLIST | grep -m1 \"|$DOS_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$DOS_RCFILE" ] ;then
+dosbox_rc="<hbox>
+			<text>
+				<label>DOS (DOSBox)</label>
+			</text>
+			<button tooltip-text=\"Edit $DOS_RCFILE\">
+				<input file>${ICONDIR}/dos3.png</input>
+				<action>geany \"$AMIGA_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+MED_RCFILE="`cat $RCLIST | grep -m1 \"|$MED_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$MED_RCFILE" ] ;then
+	mednafen_rc="<hbox>
+		<text tooltip-text=\"Mednafen can emulate many systems, including all SEGA 8 bit, NES, SNES, PlayStation, PCE, PCFX (TurboGrafix), NeoGeo Pocket, WonderSwan, VirtualBoy and more. \">
+			<label>Mednafen (multi)</label>
+		</text>
+		<button tooltip-text=\"Edit $MED_RCFILE\">
+			<input file>${ICONDIR}/mednafen.png</input>
+			<action>geany \"$AMIGA_RCFILE\"</action>
+		</button>
+	</hbox>"   
+fi
+
+MSX_RCFILE="`cat $RCLIST | grep -m1 \"|$MSX_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$MSX_RCFILE" ] ;then
+	msx_rc="<hbox>
+		<text>
+			<label>MSX ($MSX_BACKEND)</label>
+		</text>
+		<button tooltip-text=\"Edit $MSX_RCFILE\">
+			<input file>${ICONDIR}/msx.png</input>
+			<action>geany \"$MSX_RCFILE\"</action>
+		</button>
+	</hbox>"   
+fi
+
+N64_RCFILE="`cat $RCLIST | grep -m1 \"|$N64_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$N64_RCFILE" ] ;then
+	n64_rc="<hbox>
+		<text>
+			<label>Nintendo64 ($N64_BACKEND)</label>
+		</text>
+		<button tooltip-text=\"Edit $N64_RCFILE\">
+			<input file>${ICONDIR}/N64.png</input>
+			<action>geany \"$N64_RCFILE\"</action>
+		</button>
+	</hbox>"   
+fi
+
+NEOGEO_RCFILE="`cat $RCLIST | grep -m1 \"|$NEOGEO_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$NEOGEO_RCFILE" ] ;then
+	neogeo_rc="<hbox>
+		<text tooltip-text=\"NeoGeo console and arcade system\">
+			<label>NeoGeo ($NEOGEO_BACKEND)</label>
+		</text>
+		<button tooltip-text=\"Edit $NEOGEO_RCFILE\">
+			<input file>${ICONDIR}/rom.png</input>
+			<action>geany \"$NEOGEO_RCFILE\"</action>
+		</button>
+	</hbox>"   
+fi
+
+NGP_RCFILE="`cat $RCLIST | grep -m1 \"|$NGP_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$NGP_RCFILE" ] ;then
+	ngp_rc="<hbox>
+		<text tooltip-text=\"NGP is the Neo Geo Pocket handheld console.\">
+			<label>NGP ($NGP_BACKEND)</label>
+		</text>
+		<button tooltip-text=\"Edit $NGP_RCFILE\">
+			<input file>${ICONDIR}/ngp.png</input>
+			<action>geany \"$NGP_RCFILE\"</action>
+		</button>
+	</hbox>"   
+fi
+
+PCE_RCFILE="`cat $RCLIST | grep -m1 \"|$PCE_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$PCE_RCFILE" ] ;then
+pcengine_rc="<hbox>
+			<text>
+				<label>PC Engine ($PCE_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $PCE_RCFILE\">
+				<input file>${ICONDIR}/pce.png</input>
+				<action>geany \"$PCE_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+PSX_RCFILE="`cat $RCLIST | grep -m1 \"|$PSX_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$PSX_RCFILE" ] ;then
+psx_rc="<hbox>
+			<text>
+				<label>PlayStation ($PSX_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $PSX_RCFILE\">
+				<input file>${ICONDIR}/psx.png</input>
+				<action>geany \"$PSX_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+SCUMM_RCFILE="`cat $RCLIST | grep -m1 \"|$SCUMM_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$SCUMM_RCFILE" ] ;then
+scummvm_rc="<hbox>
+			<text>
+				<label>ScummVM ($SCUMM_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $SCUMM_RCFILE\">
+				<input file>${ICONDIR}/scummvm.png</input>
+				<action>geany \"$SCUMM_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+SMS_RCFILE="`cat $RCLIST | grep -m1 \"|$SMS_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$SMS_RCFILE" ] ;then
+sms_rc="<hbox>
+			<text>
+				<label>Master System ($SMS_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $SMS_RCFILE\">
+				<input file>${ICONDIR}/sms3.png</input>
+				<action>geany \"$SMS_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+SNES_RCFILE="`cat $RCLIST | grep -m1 \"|$SNES_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$SNES_RCFILE" ] ;then
+snes_rc="<hbox>
+			<text>
+				<label>SNES ($SNES_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $SNES_RCFILE\">
+				<input file>${ICONDIR}/snes.png</input>
+				<action>geany \"$SNES_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+ZXSPEC_RCFILE="`cat $RCLIST | grep -m1 \"|$ZXSPEC_BACKEND|\" | cut -f3 -d'|' | head -1`"
+if [ -f "$ZXSPEC_RCFILE" ] ;then
+zxspec_rc="<hbox>
+			<text>
+				<label>ZX Spectrum ($ZXSPEC_BACKEND)</label>
+			</text>
+			<button tooltip-text=\"Edit $ZXSPEC_RCFILE\">
+				<input file>${ICONDIR}/zx.png</input>
+				<action>geany \"$ZXSPEC_RCFILE\"</action>
+			</button>
+		</hbox>"   
+fi
+
+}
+
+#check for rejoystick profiles, build the list
+check_rejoystickrc
+
+## MAIN GUI
+
+export CHOOSER='<window title="Puppy Arcade Rom Loader '$VERSION' Settings" icon-name="gtk-cdrom" '$DECORATED' allow-shrink="false" allow-grow="true" width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+	<vbox>
+
+		<button visible="false" use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>/usr/bin/rejoystick1cc --load --profile None</action>
+			<action>/usr/bin/rejoystick2cc --load --profile None</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+
+		<notebook labels="Emulators|BIOS Installer|Joypad Controls|Default Settings|Themes|Advanced|About" page="'$TAB'">
+		
+			<frame Please choose the preferred emulator for each system>
+				<text width-request="1" height-request="10"><label>""</label></text>
+				<hbox homogeneous="true">
+					<vbox>
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/amiga.png</input></pixmap>
+							<text width-request="100"><label>Amiga</label></text> 
+							<combobox width-request="180">
+								 <variable>AMIGA_BACKEND</variable>
+								 '$AMIGA_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/arcade.png</input></pixmap>
+							<text width-request="100"><label>Arcade</label></text> 
+							<combobox width-request="180">
+								 <variable>ARCADE_BACKEND</variable>
+								 '$ARCADE_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/atari800.png</input></pixmap>
+							<text width-request="100"><label>Atari</label></text> 
+							<combobox width-request="180">
+								 <variable>ATARI_BACKEND</variable>
+								 '$ATARI_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/c64.png</input></pixmap>
+							<text width-request="100"><label>Commodore64</label></text> 
+							<combobox width-request="180">
+								 <variable>COM_BACKEND</variable>
+								 '$COM_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/doom.png</input></pixmap>
+							<text width-request="100"><label>Doom</label></text> 
+							<combobox width-request="180">
+								 <variable>DOOM_BACKEND</variable>
+								 '$DOOM_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/nds.png</input></pixmap>
+							<text width-request="100"><label>DS</label></text> 
+							<combobox width-request="180">
+								 <variable>NDS_BACKEND</variable>
+								 '$NDS_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/dos3.png</input></pixmap>
+							<text width-request="100"><label>DOS</label></text> 
+							<combobox width-request="180">
+								 <variable>DOS_BACKEND</variable>
+								 '$DOS_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/gamegear.png</input></pixmap>
+							<text width-request="100"><label>GameGear</label></text> 
+							<combobox width-request="180">
+								 <variable>GAMEGEAR_BACKEND</variable>
+								 '$GAMEGEAR_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/gba3.png</input></pixmap>
+							<text width-request="100"><label>Gameboy</label></text> 
+							<combobox width-request="180">
+								 <variable>GBA_BACKEND</variable>
+								 '$GBA_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/genesis.png</input></pixmap>
+							<text width-request="100"><label>Genesis</label></text> 
+							<combobox width-request="180">
+								 <variable>GEN_BACKEND</variable>
+								 '$GEN_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+					</vbox>
+					<vbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/N64.png</input></pixmap>
+							<text width-request="100"><label>Nintendo64</label></text> 
+							<combobox width-request="180">
+								 <variable>N64_BACKEND</variable>
+								 '$N64_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+						
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/neocd.png</input></pixmap>
+							<text width-request="100"><label>NeoGeo CD</label></text> 
+							<combobox width-request="180">
+								 <variable>NEOCD_BACKEND</variable>
+								 '$NEOCD_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/ngp.png</input></pixmap>
+							<text width-request="100"><label>NeoGeo Pocket</label></text> 
+							<combobox width-request="180">
+								 <variable>NGP_BACKEND</variable>
+								 '$NGP_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/nes.png</input></pixmap>
+							<text width-request="100"><label>NES</label></text> 
+							<combobox width-request="180">
+								 <variable>NES_BACKEND</variable>
+								 '$NES_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/pce.png</input></pixmap>
+							<text width-request="100"><label>PC-Engine</label></text> 
+							<combobox width-request="180">
+								 <variable>PCE_BACKEND</variable>
+								 '$PCE_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/psx.png</input></pixmap>
+							<text width-request="100"><label>PlayStation</label></text> 
+							<combobox width-request="180">
+								 <variable>PSX_BACKEND</variable>
+								 '$PSX_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/sms3.png</input></pixmap>
+							<text width-request="100"><label>Master System</label></text> 
+							<combobox width-request="180">
+								 <variable>SMS_BACKEND</variable>
+								 '$SMS_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/sega32x.png</input></pixmap>
+							<text width-request="100"><label>Sega 32X</label></text> 
+							<combobox width-request="180">
+								 <variable>SEGA32X_BACKEND</variable>
+								 '$SEGA32X_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+						
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/segacd.png</input></pixmap>
+							<text width-request="100"><label>Sega CD</label></text> 
+							<combobox width-request="180">
+								 <variable>SEGACD_BACKEND</variable>
+								 '$SEGACD_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+						
+						<hbox>
+							<pixmap><input file>'$ICONDIR'/snes.png</input></pixmap>
+							<text width-request="100"><label>SNES</label></text> 
+							<combobox width-request="180">
+								 <variable>SNES_BACKEND</variable>
+								 '$SNES_BACKEND_ITEMS'
+							</combobox>
+						</hbox>
+						
+					</vbox>				
+				</hbox>
+			</frame>
+			
+			<frame Install the required BIOS files here>
+				<text><label>"All BIOS files will be installed to /usr/lib/games/[system]"</label></text>
+				<text><label>"If you already have your own BIOS files, put them there"</label></text>
+				<hbox homogeneous="true" width-request="575">
+					<text><label>""</label></text>
+					<vbox homogeneous="true">
+						<text height-request="10"><label>""</label></text>
+						<hbox>'$amiga_bios'</hbox>
+						<hbox>'$atari_bios'</hbox>
+						<hbox>'$vice_bios'</hbox>
+						<hbox>'$prboom_bios'</hbox>
+						<hbox>'$nes_bios'</hbox>
+						<hbox>'$intv_bios'</hbox>
+					</vbox>
+					<text width-request="15"><label>""</label></text>
+					<vbox homogeneous="true">
+						<text height-request="10"><label>""</label></text>
+						<hbox>'$mame_bios'</hbox>
+						<hbox>'$msx_bios'</hbox>
+						<hbox>'$pce_bios'</hbox>
+						<hbox>'$pcfx_bios'</hbox>
+						<hbox>'$psx_bios'</hbox>
+						<hbox>'$neogeo_bios'</hbox>
+					</vbox>
+					<text width-request="15"><label>""</label></text>
+					<vbox homogeneous="true" space-expand="false">
+						<text height-request="10"><label>""</label></text>
+						<hbox>'$neocd_bios'</hbox>
+						<hbox>'$sega32x_bios'</hbox>
+						<hbox>'$segacd_bios'</hbox>
+						<hbox>'$spectrum_bios'</hbox>
+						<hbox><text><label>""</label></text></hbox>
+						<hbox><text><label>""</label></text></hbox>
+					</vbox>
+					<text width-request="80"><label>""</label></text>
+				</hbox>
+			</frame>
+
+			<frame Setup joypad controls and enable Rom-Loader Joypad Navigation>
+				<hbox homogeneous="false">
+					
+					<vbox>
+						<frame>
+							<text wrap="true"><label>"
+							
+
+ Using Rejoystick, you can map 
+ keyboard keys to joypad buttons. 
+ This lets you control almost 
+ anything with a joypad.
+
+ So, we can enable joypad navigation 
+ of Rom-Loader, and we can enable 
+ joypad support for ALL systems. Nice.
+
+ To enable complete joypad navigation 
+ for all systems and for Rom-Loader:
+
+ Map the QUIT commands of all the  
+ enabled emulators (see Emulators 
+ tab) to a joypad button, and also setup 
+ joypads for that emulator (using the  
+ emulator itself, or here, if required).
+
+Once done, *dont* move/switch joypads, 
+this will ruin all of your profile settings.
+"</label></text>
+						</frame>
+					</vbox>
+					
+					<vbox>
+						<text width-request="75"><label>""</label></text>
+					</vbox>
+
+					<vbox>
+
+						<frame>
+								<text height-request="20" auto-refresh="true"><input file>/tmp/paloader/rejoystick_current_profile</input></text>
+						</frame>
+
+						<text height-request="5"><label>""</label></text>
+						
+						<frame Choose a profile to edit or load>
+							<hbox homogenous="true">
+								<radiobutton>
+									<label>Player 1</label>
+									<variable>REJOY_PLAYER1</variable>
+									<default>true</default>
+									<action>echo PLAYER1 > /tmp/paloader/rejoy_player</action>
+								</radiobutton>
+								<radiobutton>
+									<label>Player 2</label>
+									<variable>REJOY_PLAYER2</variable>
+									<default>false</default>
+									<action>echo PLAYER2 > /tmp/paloader/rejoy_player</action>
+								</radiobutton>
+							</hbox>
+							<hbox homogenous="true">
+								<combobox width-request="140" tooltip-text="Choose the profile you wish to use or edit">
+									<variable>PROFILE</variable>
+									'$REJOYLIST'
+								</combobox>
+								<button>
+									<input file icon="gtk-edit"></input>
+									<label>Edit</label>
+									<variable>USE</variable>
+									<action>edit_profile &</action>
+								</button>
+								<button>
+									<input file icon="gtk-execute"></input>
+									<label>Load</label>
+									<variable>LOAD</variable>
+									<action>load_profile</action>
+								</button>
+								<button tooltip-text="Clear the entire profile ... There is no other way to REMOVE any controls for your joypad buttons, once they have been set.">
+									<input file icon="gtk-delete"></input>
+									<label>""</label>
+									<variable>CLEAR</variable>
+									<action>clear_profile</action>
+								</button>
+							</hbox>
+
+							<edit indent="5" auto-refresh="true" wrap="true" >
+								<height>'$(($SCREEN_HEIGHT-350))'</height><width>350</width>
+								<input file>/tmp/paloader/rejoystick_keys</input>
+							</edit>
+						</frame>
+
+						<hbox>
+							<button tooltip-text="Detect all connected joypads... NOTE: If you already setup profiles, but need to plug in your pads, then plug them in the same order as before, and click Detect after each pad!">
+								<input file icon="gtk-execute"></input>
+								<label>Detect</label>
+								<action>joystick-daemon</action>
+							</button>
+							<button>
+								<input file icon="gtk-execute"></input>
+								<label>Calibrate</label>
+								<action>jscalibrator &</action>
+							</button>
+							<button>
+								<input file icon="gtk-refresh"></input>
+								<label>Refresh</label>
+								<action>paloader_settings --tab 2 &</action>
+								<action type="exit">EXIT_NOW</action>
+							</button>
+							<button>
+								<input file icon="gtk-help"></input>
+								<label>Help</label>
+								<action>defaulttexteditor "/usr/local/rom-loader/romloader-joypad-navigation.txt" &</action>
+							</button>
+						</hbox>
+
+					</vbox>
+				</hbox>
+			</frame>
+
+			<frame>
+				<text width-request=""><label>""</label></text>
+
+					<text homogeneous="true" space-expand="false">
+						<label>"Rom-Loader Settings"</label>
+					</text>
+					<text width-request="500" homogeneous="true" space-expand="false">
+						<label>"          These settings will affect the rom browsing of all systems."</label>
+					</text>
+					<text width-request="500" homogeneous="true" space-expand="false">
+						<label>"          Hover the cursor over an item and read the tooltip for help."</label>
+					</text>
+					<text width-request="500" homogeneous="true" space-expand="false">
+						<label>""</label>
+					</text>
+
+					<hbox homogeneous="true">
+
+						<vbox width-request="200">
+
+							<text><label>"Data options"</label></text>
+							<text><label>""</label></text>
+
+							<hbox>
+								<text><label>ROM database</label></text> 
+								<combobox width-request="110" tooltip-text="If true, a database will be used to match your rom filenames, and if found Rom-Loader will show data such as genre, release date, publisher and so on (for most systems).. NOTE!! If you disable this, then downloading boxart will NOT work!! Only disable the ROM database if it is causing problems.">
+									 <variable>ROM_DATABASE</variable>
+									 '$ROM_DATABASE_ITEMS'
+								</combobox>
+								<text width-request="15"><label>""</label></text>
+							</hbox>
+						
+							<hbox>
+								<text><label>Show box art</label></text> 
+								<combobox width-request="110" tooltip-text="If true, all ROM browsers for all systems will attempt to show box art images for the currently selected ROM in the bottom panel. ">
+									 <variable>ROM_BOXART_ENABLE</variable>
+									 '$ROM_BOXART_ENABLE_ITEMS'
+								</combobox>
+								<text width-request="15"><label>""</label></text>
+							</hbox>
+						
+							<hbox>
+								<text><label>Download box art</label></text> 
+								<combobox width-request="110" tooltip-text="This needs an internet connection and lots of free space.
+The available choices are:
+
+one		- download box art for individual roms, when you highlight them in the rom lists.. Note, there will be a pause when the box art downloaded and installed.
+
+all		- download box art for all roms in a directory when entering the dir .. this works quite well, but you may need to click on various ROMs to complete the downloads.. 
+
+both	- this option enables both of the above .. this should work fine unless you have slow internet or many hundreds of roms in a single folder - in that case, you might get crashes and freezes when loading or building a rom folder.
+
+disable	- disable downloading of box art for faster rom browsing.. This can be chosen if you already have most or all the box art images that you want.
+
+Generally, the BOTH or ALL options are best to begin with.. However, once you have set your rom folders and downloaded most of your box art, you can choose the ONE or DISABLE options.
+">
+									 <variable>ROM_BOXART_DL</variable>
+									 '$ROM_BOXART_DL_ITEMS'
+								</combobox>
+								<text width-request="15"><label>""</label></text>
+							</hbox>
+						
+							<hbox>
+								<text><label>Ask to get BIOS</label></text> 
+								<combobox width-request="110" tooltip-text="If enabled, you will be asked to download BIOS files each time you load up a rom browser for a system that has a BIOS package not yet installed. If disabled, you can install the BIOS packages yourself, using the BIOS Installer tab, above.
+			
+NOTE: 
+
+Some systems, such as Arcade (MAME) do not necessarily need BIOS files - it depends on the ROMs you will play.
+
+Amiga emulators have their own built in Kickstart files - read the help docs for these emulators.
+
+PCSX has built in open source PlayStation BIOS - choose Internal HLE in the plugins menu.
+
+You can also still buy some of the BIOS files from websites keeping the system alive, such as Amiga Forever and the Intellivision Lives! CD.">
+									 <variable>ROM_ASKBIOS</variable>
+									 '$ROM_ASKBIOS_ITEMS'
+								</combobox>
+								<text width-request="15"><label>""</label></text>
+							</hbox>
+
+						</vbox>
+
+						<vbox width-request="200">
+
+							<text><label>"Layout options"</label></text>
+							<text><label>""</label></text>
+							
+							<hbox>
+								<text><label>Rom list position</label></text> 
+								<combobox width-request="110" tooltip-text="You can place the main ROM list at the top, above the boxart and descriptions, or at the bottom below them. Top is recommend for joypad navigation.">
+									 <variable>ROM_LIST_POS</variable>
+									 '$ROM_LIST_POS_ITEMS'
+								</combobox>
+								<text width-request="15"><label>""</label></text>
+							</hbox>
+						
+							<hbox>
+								<text><label>ROM descriptions</label></text> 
+								<combobox width-request="110" tooltip-text="If enabled, all ROM browsers for all systems will attempt to show descriptions for the currently selected ROM in the bottom panel.">
+									 <variable>ROM_DESCR_ENABLE</variable>
+									 '$ROM_DESCR_ENABLE_ITEMS'
+								</combobox>
+								<text width-request="15"><label>""</label></text>
+							</hbox>
+						
+							<hbox>
+								<text><label>Horiz. scrollbar</label></text> 
+								<combobox width-request="110" tooltip-text="If enabled, the horizontal scrollbar below the ROM tree (and above the ROM descriptions) will be visible. If disabled, it will be invisible, which looks a bit nicer and you can still press LEFT or RIGHT to see all the bits of info (fields) for each ROM.">
+									 <variable>ROM_HSCROLLBAR</variable>
+									 '$ROM_HSCROLLBAR_ITEMS'
+								</combobox>
+								<text width-request="15"><label>""</label></text>
+							</hbox>
+						
+						</vbox>
+					
+					</hbox>
+					
+			</frame>
+			
+			<frame Please choose the preferred themes for each system>
+
+				<text homogeneous="true"><label>"Theme files are stored in /root/.paloader/themes/"</label></text>
+
+				<notebook>
+
+					<frame>
+					
+					<text homogeneous="true" space-expand="false">
+						<label>"Rom-Loader Themes"</label>
+					</text>
+					<text width-request="500" homogeneous="true" space-expand="false">
+						<label>"                    Choose the preferred theme for each system."</label>
+					</text>
+
+					<hbox homogeneous="true">
+
+						<vbox width-request="200">
+							<hbox>
+								<text><label>Main Menu</label></text> 
+								<combobox width-request="180">
+									 <variable>MAIN_THEME</variable>
+									 '`list_themes $MAIN_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Amiga</label></text> 
+								<combobox width-request="180">
+									 <variable>AMIGA_THEME</variable>
+									 '`list_themes $AMIGA_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Amstad</label></text> 
+								<combobox width-request="180">
+									 <variable>AMSTRAD_THEME</variable>
+									 '`list_themes $AMSTRAD_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Arcade</label></text> 
+								<combobox width-request="180">
+									 <variable>ARCADE_THEME</variable>
+									 '`list_themes $ARCADE_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Atari</label></text> 
+								<combobox width-request="180">
+									 <variable>ATARI_THEME</variable>
+									 '`list_themes $ATARI_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Atari 2600</label></text> 
+								<combobox width-request="180">
+									 <variable>ATARI2600_THEME</variable>
+									 '`list_themes $ATARI2600_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Atari Lynx</label></text> 
+								<combobox width-request="180">
+									 <variable>ATARILYNX_THEME</variable>
+									 '`list_themes $ATARILYNX_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Atari ST</label></text> 
+								<combobox width-request="180">
+									 <variable>ATARIST_THEME</variable>
+									 '`list_themes $ATARIST_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+						</vbox>
+						
+						<vbox width-request="200">
+
+							<hbox>
+								<text><label>ColecoVision</label></text> 
+								<combobox width-request="180">
+									 <variable>COLECO_THEME</variable>
+									 '`list_themes $COLECO_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Commodore64</label></text> 
+								<combobox width-request="180">
+									 <variable>COM_THEME</variable>
+									 '`list_themes $COM_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Doom</label></text> 
+								<combobox width-request="180">
+									 <variable>DOOM_THEME</variable>
+									 '`list_themes $DOOM_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>DOS</label></text> 
+								<combobox width-request="180">
+									 <variable>DOS_THEME</variable>
+									 '`list_themes $DOS_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Gameboy</label></text> 
+								<combobox width-request="180">
+									 <variable>GBA_THEME</variable>
+									 '`list_themes $GBA_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Genesis</label></text> 
+								<combobox width-request="180">
+									 <variable>GEN_THEME</variable>
+									 '`list_themes $GEN_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Intellivision</label></text> 
+								<combobox width-request="180">
+									 <variable>INTV_THEME</variable>
+									 '`list_themes $INTV_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>MSX</label></text> 
+								<combobox width-request="180">
+									 <variable>MSX_THEME</variable>
+									 '`list_themes $MSX_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+						</vbox>
+					</hbox>
+				
+				</frame>
+				<frame>
+
+					<text homogeneous="true" space-expand="false">
+						<label>"Rom-Loader Themes"</label>
+					</text>
+					<text width-request="500" homogeneous="true" space-expand="false">
+						<label>"                    Choose the preferred theme for each system."</label>
+					</text>
+					<hbox homogeneous="true">
+						<vbox width-request="200">
+
+							<hbox>
+								<text><label>Nintendo64</label></text> 
+								<combobox width-request="180">
+									 <variable>N64_THEME</variable>
+									 '`list_themes $N64_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>NeoGeo</label></text> 
+								<combobox width-request="180">
+									 <variable>NEOGEO_THEME</variable>
+									 '`list_themes $NEOGEO_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>NeoGeo CD</label></text> 
+								<combobox width-request="180">
+									 <variable>NEOCD_THEME</variable>
+									 '`list_themes $NEOCD_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>NeoGeo Pocket</label></text> 
+								<combobox width-request="180">
+									 <variable>NGP_THEME</variable>
+									 '`list_themes $NGP_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>NES</label></text> 
+								<combobox width-request="180">
+									 <variable>NES_THEME</variable>
+									 '`list_themes $NES_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>PC-Engine</label></text> 
+								<combobox width-request="180">
+									 <variable>PCE_THEME</variable>
+									 '`list_themes $PCE_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>PC-FX</label></text> 
+								<combobox width-request="180">
+									 <variable>PCFX_THEME</variable>
+									 '`list_themes $PCFX_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>PlayStation</label></text> 
+								<combobox width-request="180">
+									 <variable>PSX_THEME</variable>
+									 '`list_themes $PSX_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+						</vbox>
+						
+						<vbox width-request="200">
+
+							<hbox>
+								<text><label>ScummVM</label></text> 
+								<combobox width-request="180">
+									 <variable>SCUMM_THEME</variable>
+									 '`list_themes $SCUMM_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>SEGA 8bit</label></text> 
+								<combobox width-request="180">
+									 <variable>SEGA8BIT_THEME</variable>
+									 '`list_themes $SEGA8BIT_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>SEGA 32X</label></text> 
+								<combobox width-request="180">
+									 <variable>SEGA32X_THEME</variable>
+									 '`list_themes $SEGA32X_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>SEGA CD</label></text> 
+								<combobox width-request="180">
+									 <variable>SEGACD_THEME</variable>
+									 '`list_themes $SEGACD_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>SNES</label></text> 
+								<combobox width-request="180">
+									 <variable>SNES_THEME</variable>
+									 '`list_themes $SNES_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>Wonderswan</label></text> 
+								<combobox width-request="180">
+									 <variable>WSWAN_THEME</variable>
+									 '`list_themes $WSWAN_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+
+							<hbox>
+								<text><label>ZX-Spectrum</label></text> 
+								<combobox width-request="180">
+									 <variable>ZXSPEC_THEME</variable>
+									 '`list_themes $ZXSPEC_THEME`'
+								</combobox>
+								<text width-request="5"><label>""</label></text>
+							</hbox>
+						</vbox>				
+
+					</hbox>
+					
+					</frame>
+				
+				</notebook>
+			</frame>
+
+			<frame>
+				<notebook labels="Rom-Loader Config|Emulators Config">
+
+					<frame>
+						<edit can-focus="no" editable="true" indent="10" space-expand="true">
+							<variable>RCCONTENTS</variable>
+							<width>50</width><height>50</height>
+							<default>"'$RCCONTENTS'"</default>						
+						</edit>
+					</frame>
+
+				   <frame Click a button to edit an emulator config file>
+					   <hbox homogeneous="true" space-fill="true" space-expand="true">
+							<frame>
+								<text width-request="1" height-request="1"><label>""</label></text>
+								'$amiga_rc'
+								'$amstrad_rc'
+								'$arcade_rc'
+								'$atari_rc'
+								'$commodore_rc'
+								'$prboom_rc'
+								'$dosbox_rc'
+							</frame>
+							<frame>
+								<text width-request="1" height-request="1"><label>""</label></text>
+								'$gameboy_rc'
+								'$gamegear_rc'
+								'$genesis_rc'
+								'$msx_rc'
+								'$n64_rc'
+								'$neogeo_rc'
+								'$ngp_rc'
+							</frame>
+							<frame>
+								<text width-request="1" height-request="1"><label>""</label></text>
+								'$pcengine_rc'
+								'$psx_rc'
+								'$scummvm_rc'
+								'$sms_rc'
+								'$snes_rc'
+								'$zxspec_rc'
+							</frame>
+						</hbox>
+						<vbox>
+							<text width-request="550"><label>"Rom-Loader keeps its own emulator settings in /root/.paloader, however "</label></text>
+							<text width-request="550"><label>"editing these files *may* affect Rom-Loader, especially MAME and SNES,"</label></text>
+							<text width-request="550"><label>"and will *always* affect emulators when run outside Rom-Loader."</label></text>
+						</vbox>
+					</frame>
+
+				</notebook>
+
+			</frame>
+			
+			<frame>
+			
+				 <pixmap tooltip-text="stock icon">
+					 <input file icon="gtk-help"></input>    
+				 </pixmap>
+				 <vbox>
+				 <text homogeneous="true" wrap="true"><label>"Puppy Arcade - by sc0ttman"</label></text>
+				 <text homogeneous="true" wrap="true"><label>"http://scottjarvis.com/page105.htm"</label></text>
+				 <text homogeneous="true" wrap="true"><label>""</label></text>
+				 <text wrap="true" width-request="500">
+					<label>"This is FREE software - free to get, free to modify.
+GPL License, https://www.gnu.org/copyleft/gpl.html
+
+If you *REALLY* like Puppy Arcade, and use it often, please think about making a donation to the project, at the homepage above. Or you can make a donation to Barry K (http://bkhome.org) or to the developer of your favourite emulator.
+
+Extra special thanks to Petch, Willbosh and others. Also a huge thanks to the following contributors (whether they know it or not!):
+
+Barry K (Puppy Linux creator), synth, Goblin, shinobar, afgs, zigbert, 01micko, technosaurus, SFR, partsman, ally, ansivar, goingnuts, radky, dejan555, Makoto, Ale, Puppyt, Puppyluvr, Keef, LoboGrande, Tman, rodin.s, Wuwei, don570, pemasu, Jely69, tempestuous, L18L, Dingo, Nikukyo, trio, ttuuxxx, CatDude, GrumpyWolfe, exprophecy, rhadon, Warrior522, tikbalang, Trip[ABK], Ambassador, ICPUG, Pizzasgood, Nathan, rcrwn51, tasmod, jpeps, and others...
+"</label>
+				  </text>
+				</vbox>
+			
+			</frame>
+
+		</notebook>
+
+		<hbox height-request="30">
+			<button use-stock="true" label="gtk-save" tooltip-text="Save your settings and restart this menu" width-request="75">
+				<label>Save</label>
+				<input file stock="gtk-save"></input>
+				<action>save_settings</action>
+				<action>paloader_settings  -sk '$FSGUI' '$FGUI' & sleep 0.75</action>
+				<action type="exit">EXIT_SAVE</action>
+			</button>
+			<button use-stock="true" label="gtk-quit" tooltip-text="Exit this menu" width-request="75">
+				<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.75; fi</action>
+				<action type="exit">EXIT_QUIT</action>
+			</button>
+		</hbox>
+
+	</vbox>	
+</window>'
+
+CHOOSER2==`gtkdialog3 "$FULLSCREENGUI" --program=CHOOSER --center`
+unset CHOOSER
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0 # 1.8 always exit at this point

@@ -1,0 +1,58 @@
+Robotnik Returns!
+
+All was peaceful and quiet on South Island after Sonic The Hedgehog crushed the plans of the diabolical Dr. Ivo Robotnik for the first time. Far too quiet, in fact, for a hyper young hedgehog who craves action. So Sonic left South Island in search of other adventures.
+
+When he returned, Sonic found no sign of his friends anywhere. Confused, he went back to his digs to think and found a note waiting for him. It was from Miles (or "Tails" as he is called), a two tailed fox who is one of Sonic's closest friends.
+
+"Dear Sonic, Robotnik is back and he's captured all the animals on the islands! He is holding me in a place called the crystal egg. In order to free me you have to find and bring the six chaos emeralds. Robotnik made me write this. He says he's waiting for you and he's created six really nasty robots in order to 'get rid of you once and for all.' I don't know what he has planned, but Sonic, please be careful! Sincerely, Tails"
+
+There was no time to waste! The letter fluttered to the floor as Sonic dashed off to find the Chaos Emeralds and save his friends. Once again, help Sonic to save his woodland friends from the evil Dr. Robotnik. This game went on to sell just as well as, or better than, its predecessor. Many Sega Genesis consoles came with it. Sonic the Hedgehog 2 is a great game. If you like Sonic games, you'll love this one.
+
+Directions:
+
+Sonic the Hedgehog 2 had all the cool aspects from Sonic 1, but with some awesome additions. One of the coolest was the ability to hold down one of the buttons to spin out so you can get a boost up to full speed without the need for room to get a running start. Another big improvement was the ability to play with a friend. The half-pipe bonus levels on Sonic the Hedgehog 2 added to the cool factor as well.
+
+Gameplay:
+
+- Single player -
+The gameplay of Sonic the Hedgehog 2 builds upon the basic set-up of the original Sonic the Hedgehog game. The player finishes each level, generally moving from left to right, within a time limit of 10 minutes (Sonic dies one second after the timer reaches 9:59, though it does not actually click up to 10:00). Along the way, rings are collected and Badniks are defeated. Star posts serve as checkpoints, where if the player were to lose a life then he or she would return to one. When the player has collected at least 50 rings, star posts can be run past for an optional Special Stage. At the end of act 2 of each zone, Sonic confronts Dr. Robotnik, although there is an exception in the Metropolis level in which there are 3 acts. In addition, both Sky Chase Zone and Wing Fortress Zone have one act, and Sky Chase Zone does not have a boss.
+
+The game contains a total of 11 zones. These include: Emerald Hill Zone, Chemical Plant Zone, Aquatic Ruin Zone, Casino Night Zone, Hill Top Zone, Mystic Cave Zone, Oil Ocean Zone, Metropolis Zone, Sky Chase Zone, Wing Fortress Zone and Death Egg Zone. Although zones have grown significantly in size since Sonic the Hedgehog, they now consist of two acts instead of three (with the exception of the Metropolis Zone, which has three acts, and the final three zones, which each have one), and there is greater emphasis on variety between levels. The gameplay has also become even faster; to that end, Sonic is able to perform a new special move referred to as the Super Spin Dash Attack. The Super Spin Dash attack allows Sonic to spin in place, as if revving up an engine, before taking off at high speeds from a stationary start. Sonic's running motion also features longer strides.
+
+From the options menu, players can select to either play as Sonic alone, Tails alone or Sonic and Tails. By default, players control Sonic while Tails tags along unhindered. However, a second player may control Tails separately. He can collect rings and attack badniks, but can't break open item boxes. Should Tails move off-screen, he will eventually return. Every time Tails dies (except when playing as Tails alone), he returns to Sonic by flying down to the ground.
+
+- Super Sonic -
+Obtaining all seven Chaos Emeralds by clearing all of the special stages will unlock a new feature; Sonic's ability to change into Super Sonic. Sonic changes into his Super Form when he has collected at least 50 rings and jumps into the air. At this point, he glows yellow and is virtually invincible, although he can still get killed by drowning, getting crushed, falling off the screen, or running out of time. His speed, acceleration, and jump height are all increased as well. This means that it is much more difficult to control Sonic in this form, especially when the player needs to make precise jumps. However, his Spin Dash Attack is decreased in effectiveness as the initial velocity is decreased rapidly. Super Sonic consumes one ring per second and when he has no rings left or he reaches the end of the act, he reverts to his normal state.
+
+This severely cripples the player if the former happens as they are left with no rings; if the latter happens the player's level bonus is reduced due to not having as many rings as they could have had.
+
+- Two player -
+In two player versus mode, players compete against each other or together to fight Dr.Robotnik (to do this plug in two controllers then select one player the second player should be able to control tails if the settings are Sonic & Tails) - either as Sonic or Tails - in a split-screen race through three regular zones and one special stage. Regular zones include Emerald Hill, Casino Night and Mystic Cave and have different music from their one player counterparts, while the Special Stage is similar to the Emerald Stage in single player. In the regular levels, players are ranked in five areas (score, time, rings held at the end of the level, total rings collected, and number of item boxes broken), with the player scoring highest in the most levels winning the round, while in the Special Stage, players compete to obtain the most rings. Once one player finishes one of the regular levels, the other player must finish the zone within 60 seconds or lose a life.
+
+In case of a tie, an additional Special Stage round must be completed. Also, to heighten the stakes, there are two unique items in versus-mode: a teleport item that instantly switches positions between players in a zone, and a Robotnik item that damages the unlucky player. Furthermore, an optional setting allows that all item boxes in two-player mode are only teleports.
+
+- Special Stages -
+In Sonic the Hedgehog 2, there are 7 special stages. When Sonic has collected at least 50 rings and he hits a Star Post, a red halo of stars will briefly float above it, which Sonic can then jump through to get to a special stage.
+
+Special Stages track Sonic from behind while he runs through a three-dimensional half-pipe course filled with rings and bombs. A set amount of rings must be collected to pass through three checkpoints and eventually obtain the emerald itself. When nearing a checkpoint a reminder will appear to inform you how many more rings you require to pass the point. Should Sonic run into a bomb he will lose several rings and will be immobilised for a brief moment. The order of stages is fixed in rising difficulty, and Sonic cannot enter the next stage without passing the previous (unlike Sonic 1). Whether the player is able to obtain the emerald or not, Sonic is transported back to the last star post he hit in the zone when the special stage is over and has zero rings.[3] However, any rings obtained prior to entering the Special Stage will be replaced on the level as if they were never collected.
+
+Controls:
+
+A, B, or C Button: Jump
+A, B, or C Button while holding Down: Spin Dash
+Start Button: Pause
+
+Hints:
+
+- Level Select -
+At the title screen, press down twice and press a to enter the options menu. Play 19 65 09 17 in the sound test. Then press C + Start to go back to the title screen. Hold A and press start to enter Level Select.
+
+- Debug Mode -
+Enter the Level select code, then, on the Level Select sound test, play 1,9,9,2,1,1,2,4. Now hold A when starting a Level to use Debug mode. B-Turn Debug on/off A-Switch object C-Put down object selected
+
+- Super Sonic -
+Collect all the Chaos Emeralds, get 50 rings, and hit A when in the air to transform into Super Sonic. You will be invincible and super fast, but will drain 1 ring every second.
+
+Reviewer: Adrian
+http://www.consoleclassix.com/genesis/sonic_the_hedgehog_2.html
+http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_2_(16-bit)#Gameplay

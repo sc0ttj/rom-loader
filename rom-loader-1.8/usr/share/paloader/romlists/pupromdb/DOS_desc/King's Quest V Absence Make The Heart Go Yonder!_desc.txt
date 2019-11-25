@@ -1,0 +1,17 @@
+While it was a beautiful sunny day, King Graham decided to go out for a walk in the woods and hope that everything is normal when he got back. However, while he was gone, an evil wizard called Mordack uses a spell to warp his castle out of Daventry, along with the royal family. Soon after, Graham came back, only to realize that the castle is gone. After he wonders why, an owl called Cedric speaks to him about it and transports him to the land of Serenia, where his boss Crispin helps him get ready to face up to Mordack. Cedric is asked to go with him to make sure that Graham does not get in trouble. 
+
+Trivia:
+
+King's Quest V was the first adventure game to be released on CD-ROM in MPC (Multimedia PC) format, the first to have digitized voiceovers, the first to use digitized hand painted backgrounds, and the first title to cost over one million U.S. dollar to produce.
+
+King's Quest V was the first Sierra game to be available in two separate versions: a 16 color version (supporting EGA, MCGA, VGA, and Tandy/PCjr graphics) and a 256 color version (supporting MCGA and VGA only). 
+
+The 16 color version came with 10 3.5" DD disks and 6 5.25" HD disks. 5.25" DD (360k) disks could be ordered directly from Sierra. (A hard disk was required to use the 360k disks.)
+
+Installing the game was less intuitive than other Sierra releases due to the variety of options supported. An addendum to the manual was included which attempted to explain all of the installation options. The game could be played entirely from hard disk, half from hard drive and half on floppy, or entirely on floppy if two drives were present. If you were playing with one 3.5" drive and one 5.25" drive, installation began on either 5.25" disk #6 or 3.5" disk #10. All other combinations began installation on 5.25" disk #5 or 3.5" disk #9. (confused yet? King's Quest V may also be the only Sierra title where installation doesn't begin with either disk #1 or the Startup disk.) Probably in the interest of simplicity, media cost, and sanity most (if not all) of Sierra's later games shipped with just one set of disks per package eliminating the ability to play entirely from floppy but simplifying installation.
+
+KQV was ported to the Nintendo console platform, one of the few Sierra games to have done so.
+
+The first game in the King's Quest series (in fact, all classic Sierra adventures) to switch to icon control from the text parser system.
+
+http://www.mobygames.com/game/dos/kings-quest-v-absence-makes-the-heart-go-yonder

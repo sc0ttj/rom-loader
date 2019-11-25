@@ -1,0 +1,28 @@
+Description
+
+Join Jedi-to-be Anakin Skywalker in the Star Wars race of your life! Relive all the thrills and excitement of the Podracer sequence from Star Wars: Episode I. Hang on tight - with afterburners on, Podracers max out at a simulated 600 mph! Race in furious competition against more than 21 opponents! Take on over 21 tracks in 8 unique worlds. Avoid hazards such as methane lakes, meteor showers and Tusken Raiders! Featuring spectacular 3D environments!
+
+
+Game Modes
+
+The following is a list of different playing modes featured in the game:
+
+    * Tournament: The primary game mode. Race for money to buy parts or pit droids, and unlock new tracks, racers, and upgrades. You can't decide how hard the other racers are going on you.
+    * Free Race: Allows you to practice any previously unlocked courses using any unlocked racer. However, you cannot earn money or unlock tracks and racers. You can, however, set the difficulty of your opponents.
+    * Time Attack: The same as Free Race, except you race against the clock, constantly trying to improve your time. In the PC version at least this mode is absent, with the free play mode allowing the player to instead set the amount of computer opponents to 0.
+    * 2 Player: Race against another real player on any unlocked course. You can adjust the difficulty, number, and speed of the computer opponents.
+    * Multiplayer: Race against other players on a local network on any unlocked course. The PC version uses the deprecated IPX protocol in order to accomplish this, while the Macintosh version uses the TCP/IP stack.
+
+Can support up to 8 players
+
+
+The Nintendo 64 version received a special edition Star Wars Episode I Racer hardware bundle with the standard gray/black console and a copy of the game. While the Nintendo 64 cartridge took advantage of Nintendo's Expansion Pak memory unit to add additional textures during in-game play, the N64 cartridge memory limitations resulted in all prerendered cinematics and all but one of the movie soundtrack tunes being removed from the game (Duel of the Fates).
+
+
+Trivia
+
+# Lucas Arts wanted to call this game Pod Racer, but an older game already existed with that name.
+# Jake Lloyd, who played Anakin Skywalker in Star Wars Episode I: The Phantom Menace, also lent his voice talents to this game
+
+http://www.gamefaqs.com/n64/198780-star-wars-episode-i-racer
+http://en.wikipedia.org/wiki/Star_Wars_Episode_I:_Racer

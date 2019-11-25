@@ -1,0 +1,11 @@
+Push blocks onto monsters before they come and get you or even push blocks at you. Your energy decreases when you collide with a monster or block, and gradually all the time so you have to be quick! 
+
+Complete one of 25 levels (arranged via four different routes which you can navigate in either order) and you gain back some energy plus bonus points. 
+
+I based Buster Block on two games for the BBC Micro, Pingu and Rubble Trouble (which are really addictive), but provided 16 different kinds of blocks (including those which go round corners) and six kinds of monsters, and designed a maze of 400 rooms rather than having random screens. 
+
+The MSX platform, on which I implemented Buster Block first, had very limited graphics (only two colours in a row of eight pixels apart from a small number of monochrome sprites), but they were well-suited to this game since blocks are easier to make multi-coloured than other objects. I did virtually the entire graphics in Buster Block, unlike our other games, because accommodating to the limitations of MSX graphics required a different kind of skill to simply being very good at art (which Sean was). [Sean?s only contributions to this game were the ASCII character set and logos.]
+
+The MSX platform provided the choice of pixel or (multi-coloured) character-mapped display facilities, which meant that there were fewer problems of slow-downs on the MSX in screens with a lot of monsters and blocks moving at once. The more limited memory capacity of the CPC-464 (64K in total) meant that I had to use up some of the screen memory for data and shrink the screen size, and the graphics on the top of the screen is only stored in the screen memory. The limit of four colours also affects the graphics quality, but I was so proud of this game that I didn't have the motivation to finish writing any more games afterwards.
+
+Steve Wallis (http://www.socialiststeve.me.uk/games.htm)

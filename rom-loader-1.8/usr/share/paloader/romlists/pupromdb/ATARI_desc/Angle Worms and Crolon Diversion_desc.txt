@@ -1,0 +1,4 @@
+Loading instructions: 
+- turn off disk drive and make sure you are in BASIC mode
+- type CLOAD 
+- type RUN.

@@ -1,0 +1,9 @@
+The first big commercially-available emulator collection (and a direct outgrowth of Digital Eclipse's early emulation work on the Macintosh.)
+
+- Defender
+- Defender II (a.k.a. Stargate)
+- Joust
+- Robotron
+- Sinistar 
+
+http://www.mobygames.com/game/genesis/williams-arcade-classics

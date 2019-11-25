@@ -1,0 +1,18 @@
+HELP! Deep in the 214th sector of the universe, a distress signal is sent from a land in turmoil. Under attack and besieged by countless monstrous beings, Fantasyland is fighting a losing battle. But wait, help is on the way! The heroic Space Harrier has jettisoned into their time warp via intergalactic teleportation. Armed with the same laser blaster that made Space Harrier victorious in the Land of the Dragons, you've got a host of vicious enemies to destroy. Space phantoms, multi-headed reptiles and wicked wizards are just a few of the targets to set your sights on. And they're everywhere. So keep your eyes on 'em, shoot straight, and keep moving. One false move and it's the end for you and Fantasyland!
+
+Gameplay:
+
+Like the original, the game involves a super human hero who runs and flies towards a forever distant background on a checkerboard-styled ground. The player can hit any of the controllers buttons to cause the Space Harrier character to fire his large laser cannon (four shots at a time). There is also an option to turn on auto-fire in the game menu. As the playing field moves forward, enemies come from behind and from the far distance to attack the character, by either firing a projectile or trying to crash into him. The player must also dodge large objects in his path, some of which can be destroyed, such as trees, and others that can not be, such as ionic columns and pylons. One hit from an enemy or a crash into these large objects will cause the player to lose a life. Smaller objects, such as foliage, will only cause the character to trip; however, this leaves him vulnerable to attack for two seconds.
+
+There are a total of 12 stages, each with its own end boss. A stage usually consists of different landscapes (small objects vs. large objects), and can also move at different speeds (slow vs fast). Some stages, such as Stuna Area, have a mid-level boss that can be easily defeated. Although the player can select any stage to start the game at, all twelve levels must be completed before moving on to the Final Chapter stage. It is here that the player must defeat all the main bosses over again, and then fight the Dark Harrier.
+
+Enemies move onto the screen in uniform clusters. A signal tone is played to alert the player that there is a non-stationary enemy now in the playing field. In many cases, the enemies move in a straight line along a pre-determined, pseudo-three-dimensional path. Waves of enemies also often come in pairs: one group will come from the left in the distance or foreground, followed by the same type and same number of enemies coming in from the right. Due to the early technical deficiencies of the Sega Genesis, enemy, landscape, and shadow sprites are pre-rendered at different sizes, rather than scaled by the hardware as they move closer to the screen like in the original arcade version.
+
+Hints:
+
+- Secret Option/Sound test -
+Wait for the title screen to appear, then hold the A button on Controller 2
+
+http://www.gamefaqs.com/console/genesis/home/586474.html
+http://en.wikipedia.org/wiki/Space_Harrier_II
+http://www.gamefaqs.com/console/genesis/code/586474.html

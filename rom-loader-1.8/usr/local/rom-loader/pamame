@@ -1,0 +1,683 @@
+#!/bin/sh
+
+# enable joypad support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/pamamerc
+# set some vars as defaults
+export FULLSCREENGUI='';
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.zip$|\.iso$|\.cue$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_arcade2' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case "$1" in
+         -rom) ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "PAmame $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: pamame [OPTION]
+
+Options
+  -rom	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) ROMFILE="$1" ;;       #### doesnt seem to work!
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR=$HOME #default browser dir
+	FULL=true
+	STRETCH=false
+	MAXIMIZE=true
+	DRI=false
+	FILTER=false
+	ASPECT=false
+	RES="Default"
+	CENTERV=true
+	CENTERH=true
+	VSYNC=false
+	AALIAS=true
+	SOUND=true
+	AUDIO_DRIVER="ALSA"
+	JOY=true
+	MOUSE=true
+	THROTTLE=false
+	FRAMESKIP="off"
+	MTHREAD=false
+	WORD1=""
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#now we customise a few things, based on the currently selected backend for the $ARCADE system
+if [ "$SELF" = "pamame" ];then
+	export pamame_subtitle="SDLMAME 0.136"
+else
+	export pamame_subtitle="XMAME 0.106"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAmame config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	# DISPLAY OPTIONS
+	echo FULL=$FULL >> $CONFIG
+	echo STRETCH=$STRETCH >> $CONFIG
+	echo MAXIMIZE=$MAXIMIZE >> $CONFIG
+	echo DRI=$DRI >> $CONFIG
+	echo FILTER=$FILTER >> $CONFIG
+	echo ASPECT=$ASPECT >> $CONFIG
+	echo RES=$RES >> $CONFIG
+	echo CENTERH=$CENTERH >> $CONFIG
+	echo CENTERV=$CENTERV >> $CONFIG
+	echo VSYNC=$VSYNC >> $CONFIG
+	echo AALIAS=$AALIAS >> $CONFIG
+	#SOUND OPTIONS
+	echo SOUND=$SOUND >> $CONFIG
+	echo AUDIO_DRIVER=$AUDIO_DRIVER >> $CONFIG
+	# CONTROL options
+	echo JOY=$JOY >> $CONFIG
+	echo MOUSE=$MOUSE >> $CONFIG
+	# SPEED options
+	echo THROTTLE=$THROTTLE >> $CONFIG
+	echo FRAMESKIP=$FRAMESKIP >> $CONFIG
+	#config file options
+	echo MTHREAD=$MTHREAD >> $CONFIG
+	# MISC OPTIONS
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+	
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+	#multi threading makes games run faster, but needs a good CPU
+	[ "$MTHREAD" = true ] && sed -i "s|multithreading            0|multithreading            1|g" /etc/sdlmame/mame.ini
+	[ "$MTHREAD" = false ] && sed -i "s|multithreading            1|multithreading            0|g" /etc/sdlmame/mame.ini
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	# set fullscreen
+	if [ $FULL = true ];then
+	  C=""
+	  XC="-fullscreen"
+	else
+	  C="-window "
+	  XC="-nofullscreen"
+	fi
+
+	# set full stretch
+	if [ $STRETCH = true ];then
+	  C="$C -fs 1 "
+	fi
+	
+	# set maxmized window or not
+	if [ $MAXIMIZE = true ];then
+	  C="$C -maximize "
+	fi
+
+	# set DRI or not
+	if [ $DRI = true ];then
+	  C="$C -video opengl "
+	  XC="$XC -video-mode '2' "
+	else
+	  C="$C -video soft "
+	  XC="$XC -video-mode '1' "
+	fi
+
+	# set FILTER or not
+	if [ $FILTER = true ];then
+	  C="$C -filter "
+	  XC="$XC -gldblbuffer"
+	else
+	  XC="$XC -nogldblbuffer"
+	fi
+
+	# set ASPECT or not
+	if [ $ASPECT = true ];then
+	  C="$C -keepaspect "
+	  XC="$XC -keepaspect "
+	fi
+
+	# set resolutions
+	if [ $RES = "320x200" ];then
+	  C="$C -resolution 320x200 -switchres "
+	  XC="$XC -geometry '320x200'"
+	elif [ $RES = "320x240" ];then
+	  C="$C -resolution 320x240 -switchres "
+	  XC="$XC -geometry '320x340'"
+	elif [ $RES = "512x384" ];then
+	  C="$C -resolution 512x384 -switchres "
+	  XC="$XC -geometry '512x384'"
+	elif [ $RES = "640x400" ];then
+	  C="$C -resolution 600x400 -switchres "
+	  XC="$XC -geometry '600x400'"
+	elif [ $RES = "640x480" ];then
+	  C="$C -resolution 640x480 -switchres "
+	  XC="$XC -geometry '640x480'"
+	elif [ $RES = "800x600" ];then
+	  C="$C -resolution 800x600 -switchres "
+	  XC="$XC -geometry '800x600'"
+	elif [ $RES = "960x600" ];then
+	  C="$C -resolution 960x600 -switchres "
+	  XC="$XC -geometry '960x600'"
+	elif [ $RES = "960x720" ];then
+	  C="$C -resolution 960x720 -switchres "
+	  XC="$XC -geometry '960x720'"
+	elif [ $RES = "1024x768" ];then
+	  C="$C -resolution 1024x768 -switchres "
+	  XC="$XC -geometry '1024x768'"
+	elif [ $RES = "1024x600" ];then
+	  C="$C -resolution 1024x600 -switchres "
+	  XC="$XC -geometry '1024x600'"
+	elif [ $RES = "1280x800" ];then
+	  C="$C -resolution 1280x800 -switchres "
+	  XC="$XC -geometry '1280x800'"
+	elif [ $RES = "1280x960" ];then
+	  C="$C -resolution 1280x960 -switchres "
+	  XC="$XC -geometry '1280x960'"
+	else
+	  C="$C"
+	  XC="$XC"
+	fi
+
+	# set CENTERH or not
+	if [ $CENTERH = true ];then
+	  C="$C -centerh "
+	fi
+
+	# set CENTERV or not
+	if [ $CENTERV = true ];then
+	  C="$C -centerv "
+	fi
+
+	# set VSYNC or not
+	if [ $VSYNC = true ];then
+	  C="$C -waitvsync "
+	  XC="$XC -xsync "
+	fi
+
+	# set AALIAS or not
+	if [ $AALIAS = true ];then
+	  C="$C -antialias "
+	  XC="$XC -glantialias "
+	else
+	  XC="$XC -noglantialias "
+	fi
+
+	# set SOUND or not
+	if [ $SOUND = true ];then
+	  C="$C -sound "
+	else
+	  C="$C -nosound "
+	fi
+
+	# set AUDIO DRIVER
+	if [ $AUDIO_DRIVER = "ALSA" ];then
+	  C="$C -audiodriver alsa "
+	  XC="$XC -dsp-plugin 'alsa' -sound-mixer-plugin 'alsa' "
+	elif [ $AUDIO_DRIVER = "OSS" ];then
+		C="$C -audiodriver oss "
+	  	XC="$XC -dsp-plugin 'oss' -sound-mixer-plugin 'oss' "
+	elif [ $AUDIO_DRIVER = "Arts" ];then
+		C="$C -audiodriver arts "
+	else
+	  C="$C -audiodriver alsa "
+	fi
+
+	# enable  joystick or not
+	if [ $JOY = true ];then
+	  C="$C -joystick "
+	  XC="$XC -joytype '1' -analogstick "
+	fi
+
+	# enable  mouse or not
+	if [ $MOUSE = true ];then
+	  C="$C -mouse "
+	fi
+
+	# set THROTTLE or not
+	if [ $THROTTLE = true ];then
+	  C="$C -throttle "
+	  XC="$XC -throttle "
+	fi
+
+	# set FRAMESKIP or not
+	if [ $FRAMESKIP = "off" -o $FRAMESKIP = "" ];then
+	  C="$C"
+	else
+	  C="$C -frameskip $FRAMESKIP "
+	  XC="$XC -frameskip '$FRAMESKIP' "
+	fi
+
+	# we might have been given the full title of the rom, not the filename, so lets make sure we got the filename here
+	if [ ! -f "$DIR$CHOOSER" ];then
+		#not a file, so lets check the db for a matching filename of whatever we got
+		romfile="`cat /usr/share/paloader/romlists/pupromdb/ARCADE.txt | grep -m1 \"$CHOOSER\" | cut -f1 -d'|'`"
+		# now lets get the first field of the name(s) ... they are divided by double @@ ... the first field is the filename
+		romfile="${romfile//@@*/}"
+		[ "$romfile" != "" ] && export CHOOSER="$romfile"
+	fi
+
+	# enable joypad support
+	rejoystick1cc --load --profile mame &>/dev/null
+	rejoystick2cc --load --profile mame &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	if [ "$SELF" = "pamame" ];then
+		echo "sdlmame \"$CHOOSER\" -inipath /etc/sdlmame -rompath \"$DIR\" $C $WORD1"  > /tmp/paloader/${SELF}_cmd
+	else
+		#here we run the rom using xmame.x11, version 106
+		echo "/usr/local/xmame-0.106/xmame.x11 -rompath \"${DIR}:/usr/lib/games/mame/:/usr/lib/games/neogeo/\" -cheat -cheat_file '/usr/lib/games/xmame/cheat.dat' -hiscore_file '/usr/lib/games/xmame/hiscore.dat' -cfg_directory '/root/.xmame/cfg' -inipath '/root/.xmame/ini' -nvram_directory '/root/.xmame/nvram' -memcard_directory '/root/.xmame/memcard' -input_directory '/root/.xmame/inp' -state_directory '/root/.xmame/sta' -arbheight '0' -heightscale '1' -widthscale '1' -effect '0' -autodouble -frameskipper '0' -nosleepidle -autoframeskip -displayaspectratio '1.33000' -nocursor -mitshm -gltexture_size '0' -glbilinear -nocabview -samples -samplefreq '22050' -bufsize '3' -volume '-3' -alsa-buffer '250000' -joydevname '/dev/js0' -nousbpspad -norapidfire -nograbmouse -nograbkeyboard -nowinkeys  -nougcicoin -artwork -use_backdrops -use_overlays -use_bezels -noartwork_crop -skip_gameinfo -noloadconfig $XC \"$CHOOSER\"" > /tmp/paloader/${SELF}_cmd
+	fi
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad support
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${ARCADE_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+# note, parecent will send the rom name, not filename ... so extra work required here
+if [ "$ROMFILE" != "" ];then
+	romcheck=''
+	romcheck="`cat /usr/share/paloader/romlists/pupromdb/ARCADE.txt | grep \"${ROMFILE##*/}\"`"
+	if [ -f "$ROMFILE" -o "$romcheck" != "" ];then #if rom was given
+		# set the required vars to locate the rom
+		if [ -f "$ROMNAME" ];then
+			export DIR="`dirname \"$ROMFILE\"`/"
+			export CHOOSER="`basename \"$ROMFILE\"`"
+		# or maybe we got the rom name, from parecent
+		elif [ "$romcheck" != "" ];then 
+			#get the filename of the rom name .. and ASSUME it is in the last used Rom dir... 
+			export DIR="$DIR"
+			export CHOOSER="${romcheck//@@*/}"
+		fi
+		# load up the rom
+		execute
+		kill_rejoystick
+		exit
+	fi
+fi
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/pamame
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+# check for BIOS
+. /usr/local/rom-loader/func/func_get_bios
+if [ ! -e "/usr/lib/games/mame/firmware.zip" ];then
+	get_bios_mame
+fi
+#now get neogeo
+if [ ! -e "/usr/lib/games/neogeo/neogeo.zip" ];then
+	get_bios_neogeo
+fi
+
+#build gui
+S='
+<window title="Puppy Arcade - Arcade loader ('${pamame_subtitle:-mame}')" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+
+	<vbox>
+		<frame>
+		<text height-request="5"><label>""</label></text> 
+
+			<notebook labels="Display and Sound|Controllers|Other">
+
+				<frame>
+					<hbox>
+						<checkbox tooltip-text="Enable fullscreen display">
+							<label>Enable fullscreen</label>
+							<variable>FULL</variable>
+							<action>if true enable:STRETCH</action>
+							<action>if false disable:STRETCH</action>
+							<action>if false enable:MAXIMIZE</action>
+							<action>if true disable:MAXIMIZE</action>
+							<default>"'$FULL'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<checkbox tooltip-text="Enable full stretch in fullscreen mode">
+							<label>Stretch display</label>
+							<variable>STRETCH</variable>
+							<visible>disabled</visible>
+							<default>"'$STRETCH'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<checkbox tooltip-text="Enable maximized window, if not fullscreen">
+							<label>Maximize window</label>
+							<variable>MAXIMIZE</variable>
+							<visible>disabled</visible>
+							<default>"'$MAXIMIZE'"</default>
+						</checkbox>
+					</hbox>
+
+					<text height-request="5"><label>""</label></text> 
+					<hbox>
+						<text><label>Resolution:</label></text>
+						<combobox tooltip-text="Choose your preferred screen resolution">
+							<variable>RES</variable>
+							'$RES_ITEMS'
+						</combobox>
+						<checkbox tooltip-text="Keep the games original aspect ratio">
+							<label>Keep aspect ratio</label>
+							<variable>ASPECT</variable>
+							<default>"'$ASPECT'"</default>
+						</checkbox>
+					</hbox>
+
+					<text height-request="5"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="Enable anti-aliased vectors - gives smoother graphics, but is slower">
+							<label>Antialiased vectors</label>
+							<variable>AALIAS</variable>
+							<default>"'$AALIAS'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<checkbox tooltip-text="Center the display horizontally">
+							<label>Center horizontally</label>
+							<variable>CENTERH</variable>
+							<default>"'$CENTERH'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<checkbox tooltip-text="Center the display vertically">
+							<label>Center vertically</label>
+							<variable>CENTERV</variable>
+							<default>"'$CENTERV'"</default>
+						</checkbox>
+					</hbox>
+
+					<text height-request="5"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="Enable OpenGL/DRI graphics">
+							<label>Enable OpenGL</label>
+							<variable>DRI</variable>
+							<action>if true enable:FILTER</action>
+							<action>if false disable:FILTER</action>
+							<default>"'$DRI'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<checkbox tooltip-text="Enable Bilinear filtering (requires OpenGL)">
+							<label>Enable Filtering</label>
+							<variable>FILTER</variable>
+							<visible>disabled</visible>
+							<default>"'$FILTER'"</default>
+						</checkbox>
+					</hbox>
+					<text height-request="20"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="Enable or disable sound completely">
+							<label>Enable sound</label>
+							<default>"'$SOUND'"</default>
+							<variable>SOUND</variable>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<text><label>Audio driver:</label></text>
+						<combobox tooltip-text="Choose your preferred audio driver">
+							<variable>AUDIO_DRIVER</variable>
+							'$AUDIO_ITEMS'
+						</combobox>
+					</hbox>
+				</frame>
+
+				<frame Controller Options>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="Enable or disable joystick support">
+							<label>Enable joystick</label>
+							<default>"'$JOY'"</default>
+							<variable>JOY</variable>
+						</checkbox>
+						<text width-request="40"><label>""</label></text> 
+						<checkbox tooltip-text="Enable or disable mouse support">
+							<label>Enable mouse</label>
+							<default>"'$MOUSE'"</default>
+							<variable>MOUSE</variable>
+						</checkbox>
+					</hbox>
+				</frame>
+				
+				<frame Speed Options>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="multi threading makes games run faster, but needs a good CPU">
+							<label>Multi-threading</label>
+							<variable>MTHREAD</variable>
+							<default>"'$MTHREAD'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<checkbox tooltip-text="Enable vertical sync - reduces screen tear">
+							<label>Enable vsync</label>
+							<variable>VSYNC</variable>
+							<default>"'$VSYNC'"</default>
+						</checkbox>
+					</hbox>
+
+					<hbox>
+						<checkbox tooltip-text="Limit the emulation speed if it is too fast">
+							<label>Throttle</label>
+							<default>"'$THROTTLE'"</default>
+							<variable>THROTTLE</variable>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<text><label>Frameskip:</label></text>
+						<combobox tooltip-text="Enable frame-skipping - dropping frames may improve smoothness and speed" width-request="100">
+							<variable>FRAMESKIP</variable>
+							'$SKIP_ITEMS'
+						</combobox>
+					</hbox>
+
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>"Custom options (see info)"</label></text>
+						<entry editable="true" left_margin="10">
+							<default>"'$WORD1'"</default>
+							 <variable>WORD1</variable>
+						</entry>
+					</hbox>
+				</frame>
+			
+			</notebook>
+		
+		</frame>
+
+	</vbox>
+
+## H E L P
+
+	<vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Press the Help button for more details.
+
+Default Keys
+------------
+
+Tab       Toggles the configuration menu.
+
+~         Toggles the On Screen Display. When the on-screen display is
+          visible, you can use the following keys to control it:
+
+             Up - select previous 
+             Down - select next 
+             Enter - reset  value to default
+             Left - decrease the value
+             Right - increase the value
+
+P         Pauses the game.
+
+Shift+P   While paused, advances to next frame.
+
+F2        Service Mode for games that support it.
+
+F3        Resets the game.
+
+Shift+F3  Performs a hard reset.
+
+F4        Shows the game palette. Use the Enter key to switch 
+		  between the three modes. Press F4 again to turn off the display. 
+		  
+F6        Toggle cheat mode (if started with -cheat).
+
+F7        Load a save state. You will be requested to press a key to
+          determine which save state you wish to load.
+
+Shift+F7  Create a save state. Requires an additional keypress to identify
+          the state, similar to the load option above.
+
+F8        Decrease frame skip on the fly.
+
+F9        Increase frame skip on the fly.
+
+F10       Toggle speed throttling.
+
+F11       Toggles speed display.
+
+Shift+F11 Toggles internal profiler display (if compiled in).
+
+F12       Saves a screen snapshot.
+
+Insert    Fast forward. While held, runs the game with throttling disabled
+          and with the maximum frameskip.
+
+Escape    Exits emulator."
+		</default>
+	</edit>		
+	</vbox>
+	</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/share/doc/sdlmame/config.txt &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export pamame="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p pamame $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset pamame
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

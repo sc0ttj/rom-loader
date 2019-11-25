@@ -1,0 +1,3 @@
+This is a ROM hack of Capcom's Mega Man 3 for the NES. All levels have been redesigned (incl. scrolling directions), a new title screen has been made, the color palettes have been changed and some minor graphics have been edited. Other things are pretty much unchanged. The levels are harder than the ones in the original game - They're designed to be hard enough to provide some challenge - but not so hard that the hack is not fun to play.
+
+http://www.romhacking.net/hacks/574/

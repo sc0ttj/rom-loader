@@ -1,0 +1,3 @@
+This hack changes Battle City into a vertical-scrolling shooter.
+
+http://www.romhacking.net/hacks/410/

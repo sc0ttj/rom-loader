@@ -1,0 +1,11 @@
+Remember that arcade classic Invaders? Well this game takes it to the next level with harder aliens, bosses, power ups, and a variety of scenery! Invaders come in several configurations for you to try to blast, and power-ups help you with more weapons to choose from
+
+http://www.mobygames.com/game/amiga/taitos-super-space-invaders
+_________________________
+CHEATS:
+
+Level skip:
+Type kris at the options screen, then press [F1]. 
+
+Hint: Easy kill:
+Collect the power-up that produces four bases at equal intervals along the bottom of the screen. If the aliens are low, set the bases up the screen and into the alien's path. The aliens will destroy themselves by running into the bases.

@@ -1,0 +1,9 @@
+Battle Master is a 2D Fighting game, developed by System Vision and published by Toshiba EMI, which was released in Japan in 1993.
+
+Tips:
+
+Speed select
+At the main menu, press the Select button. You can now select the speed you want to play the game. Press left
+and right to select a speed and press start to choose a speed.
+
+http://www.gamefaqs.com/console/snes/home/570989.html

@@ -1,0 +1,37 @@
+Earth is under fire by Colossus, a battleship the size of a city. Using powerful laser cannons, it has destroyed most of Earth's defence forces, while its many troops clean up the rest of the planet. All expect for 5 warriors.
+
+The Battletoads, who are well aware of evil forces in the galaxy, join forces with Billy and Jimmy Lee from Double Dragon to defend Earth from the deadly ship and its troops. Using a range of special moves you must fight your way through the streets into the heart of the ship and destroy it.
+
+Trivia - 
+Tradewest produced Battletoads & Double Dragon with Rare without Technos Japan's supervision to use the Double Dragon characters in the game. As a result, even though the Battletoads characters were faithful to themselves (considering Rare developed this game), many of the so-called "Double Dragon" characters are either, misnamed or misrepresented in the game.
+
+A machine-gun wielding boss that resembles Willy, the main bad guy from the original Double Dragon, is named "Roper" in the game, who was a small fry enemy in the series.
+
+A small fry enemy in Stage 5, a fighter who wears a bandanna and throws shuriken, bears a vague resemblance to Williams in Double Dragon II, but his name is "Lopar", which was Roper's name after it was badly romanized in the instruction manual for the first NES game.
+
+A few other enemies, like the "shadow marine", "doorman of doom" and the "windowman of doom" are described in the manual as Double Dragon enemies, but in reality they never appeared in an actual installment of the series.
+
+The whipwoman Linda makes an appearance in the third stage, but in the manual she is given the fullname of "Linda Lash". The Lash surname has never been used in a Double Dragon and has only appeared again in the bombed live-action Double Dragon film.
+
+And finally, a character by the name of the "Shadow Boss" is described to be the Double Dragons' main nemesis. However, no such character was ever featured in any of the Double Dragon games. The "shadow boss" name was actually Jimmy Lee's mistranslated title in the first NES game, wherein Jimmy was the final boss in the game (a plot twist that wasn't in the original Arcade version and was ignored in subsequent versions and installments Technos made). The "Shadow Boss" in BT/DD bears a vague resemblance to Burnov, the first stage boss from Double Dragon II.
+
+http://www.mobygames.com/game/nes/battletoads-double-dragon-the-ultimate-team
+Set in a post-apocalyptic New York, Double Dragon is the story of Billy and Jimmy Lee, twin brothers trained in the fighting style of Sou-Setsu-Ken. Together, they manage a small martial arts training school, teaching their students in self-defense. One day, Billy's girlfriend, Marian, is kidnapped off the street by the "Black Warriors", a savage street gang led by a man named Willy. The Black Warriors demand the Lee brothers disclose their martial arts secrets in exchange for Marian's freedom. The Lee brothers set out on a rescue mission to crush the Black Warriors and save Marian.
+
+Using whatever techniques they have at their disposal, from the basic punches and kicks to the invulnerable elbow strike, as well any weapon that comes into their hands, the Lee brothers must pursue the gang through the city slum, industrial area and the forest before reaching their hideout to confront the big boss, Willy.
+
+Controls - 
+A Button - Punch
+B Button - Kick
+Start Button - Start game, Pause/Unpause
+Select Button - Choose between game
+
+Hints - 
+Vanishing Weapons
+- When you get a weapon from someone it will vanish if you kill them so make sure to kill that person last.
+
+Reviewer - Egosolus
+http://www.consoleclassix.com/nes/double_dragon.html
+This is a hack of Double Dragon for the NES. What I have been trying to do was make the NES version a bit more authentic to the Arcade original. I changed a few graphics that I felt didn't really fit in or changed them to look like something from the original. I also changed palletes to look like the original. Probably the biggest pallette change you will notice is the Final level. It is white by default, but the arcade was goldish. So I changed the whole level to be that pallette.
+
+http://www.romhacking.net/hacks/138/

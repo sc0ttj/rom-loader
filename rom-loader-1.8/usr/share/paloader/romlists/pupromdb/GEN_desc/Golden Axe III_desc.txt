@@ -1,0 +1,32 @@
+Damud Hellbringer, the Prince of Darkness, has taken away the Golden Axe and put an evil curse over all the warriors. However, one of the heroes has their curse relieved and is sent to set things straight - lift the curse off the others, defeat the villain and return with the Golden Axe.
+
+The gameplay has been expanded slightly but is essentially the same hack n' slash as the previous games. New features to the series include new characters, new moves (special attacks, teamwork attacks and teamwork magic spells) and junction points where you can choose which path to take.
+
+The characters include a giant, Proud Cragger, a humanoid black panther Chronos "Evil" Lait, along with a swordsman, Kain Grinder, that resembles Ax Battler, and a swordswoman Sarah Barn that resemble Tyris Flare. Gilius Thunderhead is the only character that appears from previous games, though he isn't playable and only appears during cut-scenes. Kain Grinder and Sarah Barn are mistakenly referred as Ax Battler and Tyris Flare respectively in the Sega Channel localization of the game.
+
+Gameplay:
+
+While the characters in the two previous games had a relatively limited moveset, Golden Axe III included many new moves including: blocking, sweep attacks, projectile attacks, defensive and offensive special attacks, and an updated grappling system. Furthermore, there are several abilities unique to certain characters: Proud possesses an airslam throw that does severe damage, while Chronos and Sarah can double jump and wall jump. In multiplayer mode, the characters can do team attacks similar to a human slingshot. Finally, each character has a super move that sends a projectile across the screen (except in the case of Chronos who leaps across the screen in an unstoppable lunging attack).
+
+Some features that were removed in the second game were brought back in Golden Axe III: The mischievous elves from the original game who carried magic potions and food have returned in place of the enemy mages from the second game in the series. Extra lives can be earned by freeing a certain number of prisoners scattered throughout the levels; some prisoners are trapped in barrels, or stuck in crystal cells, others are guarded by 1 npc. The magic system returned to the original version, where you cannot choose the amount of magic to use; Golden Axe Two's magic system allowed you to choose how much magic to use by charging the magic-meter. On the other hand, the characters can use devastating new spells with combined casting; on a whole, magic is more effective in GA3 than the other 2, but there is no diversity in the amount of max damage -- each character does the same max magic damage. The mounts in GA3 have turned into a hybrid snail-ostrich, instead of the chicken-leg or the dragon-raptors in the previous games. The mounts are know as Bizarrans. "There are three types of Bizarrans in Golden Axe 3. All are equally unimpressive - except the firewave Bizarran. One uses its tongue to attack, another will bite and throw enemies over its shoudler. The "best" Bizarran is the red Bizarran that shoots firewaves with each press of the ATTACK button, and has a flame breath to begin with for up close fighting." Jump + attack will dismount a player. Players are able to choose their own route to the golden axe. Some courses are easier, while others unlock the complete ending; all are exciting!
+
+- Characters and Moves -
+
+Kain: Kain is the balanced character of the roster. He boasts excellent reach and priority with his sword. Kain possesses no apparent weaknesses. His magic is Ice and shares similar animations with
+
+Sarah Vane: Sarah's short weapon reach is offset by her quickness. Her shortcomings are easily overcome by her powerful spinning kick and elusive nature. Sarah has a double jump (jump twice); she can also jump off of certain walls to either an avoid attack, or gain some battle leverage. She has three power attacks (jump + attack): by holding towards and doing a power attack, she will execute her spinning kick; if she is stationary and does a power attack, she spins around with her swords and attacks enemies on all sides (both of these first power attacks double as a dodge -- if Sarah is about to be stabbed by a spear, and she does a power attack, then she will dodge the spear, giving her enough time to counter attack); and the last of her power attacks is a ranged attack, where she throws her sword like a boomerang (it will return if not thrown off screen, and can hit an enemy on the return; the range is medium and has a minimal range); to execute her ranged, power attack, press towards, away, towards then use the power attack (this does not work as a dodge). Sarah has a low attack, where she slides a short distance, knocking an enemy into the air from their shins (down + attack). Sarah can block as well (away + attack); a block can be held indefinitely and will block any attack once. And, as always, Sarah has a running attack (towards, towards hold, attack); the running attack is a flying dragon kick. Sarah 's magic is, as it has always been throughout the GA series, based around fire; her max magic summons a fire dragon.
+
+Proud - Proud is a slow yet powerful character. He is the only character to have an airslam. He is perhaps the most challenging character to use due to his slow movement speed and lack of a reliable special attack.
+
+Chronos - Chronos is arguably the most powerful character in the game, mainly due to his super move in which he lunges across the screen in an unstoppable, unblockable attack.
+
+Gilius Thunderhead - The Dwarf retired before this adventure; he dropped his axe into the mithril fires of his home land, and stole a walking staff from one of the elves that tried to rob him while he was camping. Through is ancient wisdom, the Dwarf has adopted the role of sage; he guides you on your quest.
+
+Hints:
+
+- Secret Message -
+Up, C, Up, C, Up, C, C, C, B, A, Left, Down
+
+http://en.wikipedia.org/wiki/Golden_Axe_3
+Paulos
+http://www.gamefaqs.com/console/genesis/review/R34364.html

@@ -1,0 +1,123 @@
+#!/bin/sh
+
+# this func is ESSENTIAL ... it is used to build the list of roms, based on finding 
+# matches for local files against the pupromdb file for the current system ($SYSTEM)
+
+#do this here
+mkdir -p /tmp/paloader &>/dev/null
+mkdir -p /tmp/rejoystick &>/dev/null
+
+set -a 
+build_chooser_list () {
+
+	#rebuild content of file-browser
+	DIR="`echo \"/$DIR/\" | sed -e \"s%///%/%g\" | sed -e \"s%//%/%g\"`" #ensure that $DIR has the leading and trailing /
+	echo "$DIR" > $WORKDIR/dir #update dir-entry in gui
+	#add .. if not at /
+	if [ "$DIR" = '/' ]; then
+		echo -n > $WORKDIR/ls
+	else
+		echo "gtk-go-up|.." > $WORKDIR/ls
+	fi
+	#group directories before files
+	find -L "$DIR" -maxdepth 1 -mindepth 1 -type d -printf "gtk-directory|%f/\n" | grep -vE "\|\." | sort >> $WORKDIR/ls #do not show hidden dirs
+	
+	#if the GUI that called this func did not set $EXT_LIST, we will do a catch all here... 
+	[ "$EXT_LIST" = "" ] && EXT_LIST="\.32x$|\.atr$|\.a52$|\.zip$|\.smc$|\.swc$|\.bin$|\.fig$|\.iso$|\.rom$|\.gg$|\.sms$|\.z64$|\.v64$|\.rar$|\.7zip$|\.ws$|\.wsc$|\.smd$|\.adf$|\.exe$|\.com$|\.tap$|\.dsk$"
+
+	#now get the files in $DIR
+	find -L "$DIR" -maxdepth 1 -mindepth 1 -type f -printf "${ROMICON:-gtk-file}|%f\n" | grep -iE "$EXT_LIST" | sort > $WORKDIR/files
+
+	# if the system is wset, and we have a rom database file for this system
+	if [ "$SYSTEM" != "" -a -f /usr/share/paloader/romlists/pupromdb/$SYSTEM.txt -a "$ROM_DATABASE" = true ];then
+
+		# now we go through each line of the file list (a list of acceptable rom file types)
+		# then we get its 'sanitised' name, so we can search for rom data and boxart
+		# so, first lets get the list
+		FILE_LIST="`cat $WORKDIR/files`"
+
+		 if [ "$FILE_LIST" != "" ];then
+		 	
+		 	#if we are downloading all box art, add this to the popup mesg
+		 	[ "$ROM_BOXART_DL" = "all" -o "$ROM_BOXART_DL" = "both"  ] && BOXART_INFO="
+
+Downloading all box art images - this may 
+continue in the background even after
+the rom list has finished loading up." || BOXART_INFO=""
+		 	gtkdialog-splash -close never -placement center -text "Building ROM list... Please wait... 
+
+After playing a ROM, the ROM list does not 
+need to be rebuilt, until you change directory. $BOXART_INFO" &
+		 XPID=$!
+
+		fi
+		
+		# now lets go through each line in the list ... 
+		echo "$FILE_LIST" | while read line 
+		do
+			filename="`echo $line | cut -f2 -d'|'`"
+			romname="${filename%.*}"
+			[ "$romname" != "" ] && romname="`sanitise_romname \"${romname//@@*/}\"`"
+
+			#get all info (except id, crc, and system (platform) ... these are for grepping etc, user wont need to see them
+			#the @@ is for the ARCADE.txt pupromdb file .. which has, for example:    nwarrb@@nwarr@@nwarr@Night Warriors (USA, blah)
+			# and we only want to keep the file name, which is the first part, so replace everything after @@ with nothing (/@@*//)
+			extra_info="`grep -m1 -i \"^${romname//@@*/}\" \"/usr/share/paloader/romlists/pupromdb/$SYSTEM.txt\" | cut -f4-15 -d'|' | head -1`" ####
+			
+			# if we found no extra info .. lets try a few more searches, just in case.. 
+			if [ "$extra_info" = "" ];then
+				newsearch="$romname" 
+				for x in 1 2 3
+				do
+					#remove the last word, try again.. repeat.. 
+					newsearch="${newsearch% *}"
+					[ "$newsearch" != "" ] && extra_info="`grep -m1 -i \"^${newsearch}\" \"/usr/share/paloader/romlists/pupromdb/$SYSTEM.txt\" | cut -f4-15 -d'|' | head -1`" || break
+				done
+			fi			
+
+			if [ "$extra_info" != "" ];then
+				export newline="$line|$extra_info"
+			else
+				export newline="$line|x|0|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|$SYSTEM"
+			fi
+			
+			SKIP=false
+			#check the output is OK, remove anything that is not a complete line
+			[ "`echo \"$newline\" | cut -f1 -d'|'`" != "${ROMICON:-gtk-file}" ] && SKIP=true
+			# if not the correct number of fields, hide it
+			#[ "`echo \"$newline\" | awk -F '|' '{print NF}'`" != "13" ] && SKIP=true ####
+
+			#here, we will add the game name, not filename, if running a MAME gui
+			if [ "$SYSTEM" = "ARCADE" ];then
+				fullname="`grep -m1 -i \"${romname}@@\" \"/usr/share/paloader/romlists/pupromdb/$SYSTEM.txt\" | cut -f1 -d'|'`"
+				fullname="${fullname//*@@/}"
+				[ "$fullname" != "" ] && newline="${newline//|$filename|/|$fullname|}"
+			fi
+			
+			# clean up the place holders for empty info
+			newline="${newline//region-unknown/Unknown}"
+			newline="${newline//dev-unknown/Unknown}"
+			newline="${newline//media-unknown/Unknown}"
+			export newline="${newline//controller-unknown/Unknown}"
+			
+			# here we add roms, with their info into the file $WORKDIR/ls
+			# the file $WORKDIR/ls will be read by the GUI that called this func, so it can list our roms
+			if [ "$SKIP" = false ];then
+				echo "$newline" >> $WORKDIR/ls
+			
+				#THIS IS IMPORTANT ... for each file listed we will download its boxart in the background,
+				# while we are currently building the list of ROMs for the ROM tree ....
+				[ "$ROM_BOXART_DL" = "both" -o "$ROM_BOXART_DL" = "all" ] && DL_SPLASH=false get_rom_boxart & 
+			fi
+
+		done
+	
+		 kill $XPID &>/dev/null #kill gtkdialog-spla
+
+	else #no pupromdb file for this system, just list the files
+	
+		cat $WORKDIR/files >> $WORKDIR/ls
+	
+	fi
+
+}

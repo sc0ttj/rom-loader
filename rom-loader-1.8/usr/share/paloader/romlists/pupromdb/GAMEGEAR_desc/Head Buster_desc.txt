@@ -1,0 +1,12 @@
+Head Busters a strategy game featuring very customizable robots. You start out able to buy four light units, three medium units, or two heavy units, and can try to customize their equipment and stuff. You can alter virtually every aspect of the things, from their feet to their arms to, of course, their weapons, and everything has an affect on your robots performance.
+
+I took two standard-issue heavy robots and was able to do fair damage to a couple of enemy robots before they blew past me and destroyed my base, which I didnt even know they could attack. Oops.
+
+I think my main complaint is that the attack radius on my units rifles was extremely strange. I couldnt attack within three squares of the unit, so if an enemy got close - but not right up next to me - I was a sitting duck. But given that the robots are so customizable, Im sure it was something in the stock build of the heavy robots that needed changing. Chris Covells got a mini-guide up for the game which is probably a must-read if you plan on seriously taking on Head Buster.
+
+Translation Description:
+
+Chris Covells hacking on Head Buster is top-notch. Everythings done, and it looks just as good as an official release! Enjoy!
+
+Reviewer: Gideon Zhi
+http://www.romhacking.net/trans/903/

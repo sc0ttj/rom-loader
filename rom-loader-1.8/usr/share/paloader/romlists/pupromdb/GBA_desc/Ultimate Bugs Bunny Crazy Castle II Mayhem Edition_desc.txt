@@ -1,0 +1,7 @@
+Created and edited by willj168 and Frank Maggiore, this is a level-based hack of Bugs Bunny Crazy Castle II.
+
+All levels were designed by willj168 and mapped by Frank Maggiore using a hex editor.
+
+There are new passwords (see readme file)
+
+http://www.romhacking.net/hacks/571/

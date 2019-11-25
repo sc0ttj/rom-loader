@@ -1,0 +1,1296 @@
+3 Ninjas Kick Back|3371|e5a24999|x|0|1994|Action|USA|Malibu|Malibu|General Audience|Cartridge|Gamepad|Genesis
+6-Pak|4392|1a6f45dc|x|0|1996|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+688 Attack Sub|3863|f2c58bf7|x|0|1991|Simulation|USA|Sega|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+AAAHH!!! Real Monsters|NOID|fdc80bfc|x|0|1995|Action|USA|Realtime Associates|Realtime Associates|General Audience|Cartridge|Gamepad|Genesis
+Action 52|4236|29ff58ae|x|0|1993|Miscellaneous|Unlicensed (USA)|Farsight Technologies|Farsight Technologies|General Audience|Cartridge|Gamepad|Genesis
+Addams Family Values|9414|b906b992|x|0|1994|Role Playing|Europe|Ocean|Ocean|General Audience|Cartridge|Gamepad|Genesis
+Addams Family|4232|71f58614|x|0|1994|Platformer|Europe|Ocean|Ocean|General Audience|Cartridge|Gamepad|Genesis
+Adventures of Batman and Robin|9415|0caaa4ac|x|0|1995|Platformer|region-unknown|Clockwork Games|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Adventures of Mighty Max|4235|55f13a00|x|0|1994|Platformer|USA|WJS Design|WJS Design|General Audience|Cartridge|Gamepad|Genesis
+Adventures of Rocky and Bullwinkle and Friends|4234|ef02d57b|x|0|1993|Platformer|region-unknown|Imagineering|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Aero the Acro-Bat|4237|a3a7a8b5|x|0|1993|Platformer|USA|Iguana Entertainment|Iguana Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Aero the Acro-Bat 2|4238|39eb74eb|x|0|1994|Platformer|USA|Iguana Entertainment|Iguana Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Aerobiz|4239|cfaa9bce|x|0|1992|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+Aerobiz Supersonic|447|9377f1b5|x|0|1994|Strategy|USA|Koei|Koei|Everyone|Cartridge|Gamepad|Genesis
+After Burner II|446|ccafe00e|x|0|1990|Shooter|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Air Buster|3864|f3d65baa|x|0|1991|Shooter|USA|Kaneko|Kaneko|General Audience|Cartridge|Gamepad|Genesis
+Air Diver|448|2041885e|x|0|1990|Shooter|USA|Asmik|Asmik Corporation of America|General Audience|Cartridge|Gamepad|Genesis
+Aladdin|NOID|ed427ea9|x|0|1993|Platformer|Pirate (China)|Virgin Interactive|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+Alex Kidd in the Enchanted Castle|2271|47dba0ac|x|0|1989|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Alien 3|4241|b327fd1b|x|0|1993|Platformer|region-unknown|Probe Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Alien Soldier|2610|0496e06c|x|0|1995|Platformer|Europe|Treasure|Treasure|General Audience|Cartridge|Gamepad|Genesis
+Alien Storm|4242|f5ac8de5|x|0|1991|Beat-'Em-Up|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Alisia Dragoon|4243|d28d5c40|x|0|1992|Platformer|USA|Game Arts|Game Arts|General Audience|Cartridge|Gamepad|Genesis
+Altered Beast|118|154d59bb|x|0|1989|Beat-'Em-Up|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+American Gladiators|1703|9952fa85|x|0|1992|Sports|USA|Imagitec Design|Imagitec Design, Inc.|General Audience|Cartridge|Gamepad|Genesis
+Andre Agassi Tennis|4244|e755dd51|x|0|1992|Sports/Tennis|USA|TecMagik|TecMagik|General Audience|Cartridge|Gamepad|Genesis
+Animaniacs|4185|86224d86|x|0|1994|Platformer|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Aquatic Games Starring James Pond and the Aquabats|NOID|400f4ba7|x|0|1993|Sports|region-unknown|Millenium Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Arcade Classics|4246|8aed2090|x|0|1996|Platformer|USA|Al Baker and Associates|Al Baker and Associates|Everyone|Cartridge|Gamepad|Genesis
+Arch Rivals the Arcade Game|NOID|e389d7e7|x|0|1992|Sports|region-unknown|Arc Developments|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Arcus Odyssey|4248|bc4d9b20|x|0|1991|Platformer|USA|Wolf Team|Wolf Team|General Audience|Cartridge|Gamepad|Genesis
+Ariel the Little Mermaid|NOID|58e297df|x|0|1992|Platformer|USA|Bluesky Innovations|Bluesky Innovations|General Audience|Cartridge|Gamepad|Genesis
+Arnold Palmer Tournament Golf|4249|35b995ef|x|0|1989|Sports/Golf|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Arrow Flash|3865|4d89e66b|x|0|1990|Shooter|USA|Renovation|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Art Alive|NOID|f1b72cdd|x|0|1991|Puzzle|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Art of Fighting|4250|c9a57e07|x|0|1994|Fighter|USA|SNK|SNK|General Audience|Cartridge|Gamepad|Genesis
+Asterix and the Great Rescue|4251|7f112cd8|x|0|1994|Platformer|USA|Sega|Core Design Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Asterix and the Power of the Gods|4397|4ff1d83f|x|0|1995|Platformer|Europe|Core Design|Core Design Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Atomic Robo-Kid|3866|7cd8169e|x|0|1990|Shooter|USA|Treco|Micronics|General Audience|Cartridge|Gamepad|Genesis
+Atomic Runner|3867|0677c210|x|0|1992|Shooter|USA|Data East|Data East|General Audience|Cartridge|Gamepad|Genesis
+ATP Tour Championship Tennis|4252|8c822884|x|0|1994|Sports/Tennis|USA|Sega|Sims|Everyone|Cartridge|Gamepad|Genesis
+Australian Rugby League|NOID|ac5bc26a|x|0|1994|Sports|USA|EA Sports|EA Sports|General Audience|Cartridge|Gamepad|Genesis
+Awesome Possum Kicks Dr Machino's Butt!|NOID|1f07577f|x|0|1993|Platformer|region-unknown|Tengen|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+AWS Pro Moves Soccer|4253|707017e5|x|0|1993|Sports/Soccer|USA|ASCII Entertainment|ASCII Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Ayrton Senna's Super Monaco GP II|14837|eac8ded6|x|0|1992|Driving|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+B.O.B.|457|eaa2acb7|x|0|1993|Action|USA|Chris Gray Enterprises|Foley Hi-Tech Systems|General Audience|Cartridge|Gamepad|Genesis
+Back to the Future Part III|NOID|66a388c3|x|0|1991|Platformer|USA|Probe Entertainment|Probe Entertainment Limited|General Audience|Cartridge|Gamepad|Genesis
+Ball Jacks|NOID|f5c3c54f|x|0|1993|Platformer|Europe|Namco|Namco|General Audience|Cartridge|Gamepad|Genesis
+Ballz 3D Fighting at Its Ballziest|NOID|b362b705|x|0|1994|Fighter|region-unknown|PF.Magic|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Barbie Super Model|4273|81c9662b|x|0|1992|Platformer|USA|Tahoe Software|Tahoe Software|General Audience|Cartridge|Gamepad|Genesis
+Barkley Shut Up and Jam!|4274|63fbf497|x|0|1993|Sports/Basketball|USA|Accolade|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Barkley Shut Up and Jam! 2|4275|321bb6bd|x|0|1995|Sports/Basketball|USA|Accolade|Accolade|Everyone|Cartridge|Gamepad|Genesis
+Barney's Hide and Seek Game|452|1efa9d53|x|0|1993|Platformer|region-unknown|Realtime Associates|dev-unknown|Early Childhood|media-unknown|controller-unknown|Genesis
+Bass Masters Classic|4278|cf1ff00a|x|0|1996|Sports/Fishing|USA|Black Pearl|Black Pearl|Everyone|Cartridge|Gamepad|Genesis
+Bass Masters Classic Pro Edition|453|9eddeb3d|x|0|1995|Sports/Fishing|USA|Black Pearl|Black Pearl|Everyone|Cartridge|Gamepad|Genesis
+Batman|4279|017410ae|x|0|1992|Platformer|USA|SunSoft|SunSoft|General Audience|Cartridge|Gamepad|Genesis
+Batman Revenge of the Joker|4280|caa044a1|x|0|1990|Platformer|USA|SunSoft|Ringler Studios|General Audience|Cartridge|Gamepad|Genesis
+Batman Forever|454|8b723d01|x|0|1995|Platformer|USA|Probe Entertainment|Probe Entertainment Limited|General Audience|Cartridge|Gamepad|Genesis
+Batman Returns|4281|4a3225c0|x|0|1992|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Battle Squadron|3869|0feaa8bf|x|0|1990|Platformer|USA|Innerprise Software|Innerprise Software|General Audience|Cartridge|Gamepad|Genesis
+Battlemaster|NOID|fd2b35e3|x|0|1991|Platformer|USA|Mirrorsoft|Mirrorsoft|General Audience|Cartridge|Gamepad|Genesis
+BattleTech A Game of Armored Combat|NOID|409e5d14|x|0|1994|Platformer|USA|Malibu|Malibu|General Audience|Cartridge|Gamepad|Genesis
+Battletoads and Double Dragon|4342|8239dd17|x|0|1993|Beat-'Em-Up|region-unknown|Rare|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Battletoads|736|d10e103a|x|0|1991|Beat-'Em-Up|USA|Rare|Rare|General Audience|Cartridge|Gamepad|Genesis
+Beast Wrestler|3871|0ca5bb64|x|0|1991|Platformer|USA|Renovation|Telenet|General Audience|Cartridge|Gamepad|Genesis
+Beauty and The Beast Belle's Quest|4284|befb6fae|x|0|1993|Platformer|region-unknown|Software Creations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Beauty and The Beast Roar of the Beast|684|13e7b519|x|0|1993|Platformer|region-unknown|Software Creations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Beavis and Butt-head|4285|f5d7b948|x|0|1994|Adventure|USA|Radical Entertainment|Radical Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Berenstain Bears' Camping Adventure|NOID|1f86237b|x|0|1993|Platformer|USA|Realtime Associates|Realtime Associates|Everyone|Cartridge|Gamepad|Genesis
+Best of the Best Championship Karate|4286|c3d6a5d4|x|0|1993|Fighter|USA|Electro Brain|Electro Brain|General Audience|Cartridge|Gamepad|Genesis
+Beyond Oasis|3872|c4728225|x|0|1994|Role Playing|USA|Ancient|Ancient|General Audience|Cartridge|Gamepad|Genesis
+Bible Adventures|4287|64446b77|x|0|1995|Platformer|Unlicensed (USA)|Color Dreams|Color Dreams|General Audience|Cartridge|Gamepad|Genesis
+Bill Walsh College Football|4288|3ed83362|x|0|1993|Sports/Football|USA|High Score Productions|High Score Productions|General Audience|Cartridge|Gamepad|Genesis
+Bill Walsh College Football 95|456|a582f45a|x|0|1994|Sports|region-unknown|High Score Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Bimini Run|3873|d4dc5188|x|0|1990|Platformer|USA|Nuvision Entertainment|Nuvision Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Bio Hazard Battle|NOID|95b0ea2b|x|0|1992|Shooter|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Blades of Vengeance|3875|74c65a49|x|0|1993|Platformer|region-unknown|Beam Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Blaster Master 2|3876|c11e4ba1|x|0|1993|Platformer|region-unknown|Software Creations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Blockbuster World Video Game Championship II|4289|4385e366|x|0|1995|Miscellaneous|region-unknown|Various|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Blockout|3877|5e2966f1|x|0|1991|Puzzle|region-unknown|California Dreams|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Bloodshot|NOID|f9f2bceb|x|0|1994|Shooter|Europe|Domark|Domark|General Audience|Cartridge|Gamepad|Genesis
+Body Count|NOID|3575a030|x|0|1994|Platformer|Europe|Probe Entertainment|Probe Entertainment Limited|General Audience|Cartridge|Menacer; Gamepad|Genesis
+Bonanza Brothers|NOID|20d1ad4c|x|0|1991|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Bonkers|NOID|d1e66017|x|0|1994|Platformer|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Boogerman A Pick and Flick Adventure|4292|1a7a2bec|x|0|1994|Platformer|USA|Interplay|Interplay|Parental Guidance|Cartridge|Gamepad|Genesis
+Boxing Legends of the Ring|4293|00f225ac|x|0|1993|Sports/Boxing|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Bram Stoker's Dracula|3073|077084a6|x|0|1993|Platformer|USA|Traveller's Tales|Traveller's Tales|General Audience|Cartridge|Gamepad|Genesis
+Brett Hull Hockey '95|NOID|f7775a09|x|0|1994|Hockey/Sports|USA|Radical Entertainment|Radical Entertainment|Everyone|Cartridge|Gamepad|Genesis
+Brian Lara Cricket|NOID|408cf5c3|x|0|1995|Cricket/Sports|Europe|Audiogenic|Audiogenic Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Brian Lara Cricket 96|18738|fe52f7e1|x|0|1996|Cricket/Sports|region-unknown|Audiogenic|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Brutal Paws of Fury|4295|98d502cd|x|0|1994|Fighter|USA|Imagitec Design|Imagitec Design, Inc.|General Audience|Cartridge|Gamepad|Genesis
+Bubba'n'Stix A Strategy Adventure|NOID|d45cb46f|x|0|1993|Strategy|region-unknown|Core Design|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Bubble and Squeak|3887|28c4a006|x|0|1994|Platformer|region-unknown|Audiogenic|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Bubsy II|4296|f8beff56|x|0|1993|Platformer|USA|Accolade|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Bubsy in Claws Encounters of the Furred Kind|459|3e30d365|x|0|1994|Platformer|region-unknown|Accolade|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Buck Rogers Countdown to Doomsday|3884|44e3bfff|x|0|1991|Strategy|USA|SSI|SSI|General Audience|Cartridge|Gamepad|Genesis
+Budokan The Martial Spirit|4298|acd9f5fc|x|0|1990|Platformer|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Bugs Bunny in Double Trouble|460|365305a2|x|0|1996|Platformer|USA|Atod AB|Atod AB|Everyone|Cartridge|Gamepad|Genesis
+Bulls versus Blazers and the NBA Playoffs|461|d4e4b4e8|x|0|1993|Sports/Basketball|region-unknown|Electronic Arts|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Bulls vs Lakers and the NBA Playoffs|NOID|e56023a0|x|0|1992|Sports/Basketball|USA|Capcom|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Burning Force|4301|bdc8f02c|x|0|1990|Shooter|USA|Namco|Namco|General Audience|Cartridge|Gamepad|Genesis
+Cadash|4302|13bdf374|x|0|1992|Action|USA|Taito|Taito Corporation|General Audience|Cartridge|Gamepad|Genesis
+Caesars Palace|4303|8fdaa9bb|x|0|1993|Casino|USA|Illusions Gaming Company|Illusions Gaming Company|Everyone|Cartridge|Gamepad|Genesis
+Cal Ripken Jr. Baseball|4304|9b1c96c0|x|0|1992|Sports/Baseball|region-unknown|Mindscape|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Caliber.50|NOID|44f4fa05|x|0|1991|Shooter|region-unknown|Visco|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+California Games|4305|43b1b672|x|0|1991|Sports|USA|Novotrade|Novotrade|General Audience|Cartridge|Gamepad|Genesis
+Cannon Fodder|NOID|ad217654|x|0|1994|Platformer|Europe|Panelcomp|Panelcomp|General Audience|Cartridge|Gamepad|Genesis
+Captain America and the Avengers|5280|e0639ca2|x|0|1992|Beat-'Em-Up|region-unknown|OperaHouse|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Captain Planet and the Planeteers|NOID|bf2cbd3a|x|0|1993|Platformer|Europe|NovaLogic|NovaLogic|General Audience|Cartridge|Gamepad|Genesis
+Castle of Illusion Starring Mickey Mouse|115|ba4e9fd0|x|0|1990|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Castlevania Bloodlines|2619|fb1ea6df|x|0|1994|Platformer|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Centurion Defender of Rome|462|21283b14|x|0|1991|Strategy|USA|Bits of Magic|Bits of Magic|General Audience|Cartridge|Gamepad|Genesis
+Chakan|3891|046a48de|x|0|1992|Platformer|USA|Extended Play Productions|Extended Play Productions|General Audience|Cartridge|Gamepad|Genesis
+Champions World Class Soccer|4307|883e33db|x|0|1993|Sports/Soccer|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+Championship Bowling|4308|1bf92520|x|0|1993|Sports/Bowling|USA|Visco|Visco|General Audience|Cartridge|Gamepad|Genesis
+Championship Pool|4309|253512cf|x|0|1993|Sports/Billiards|USA|Bitmasters|Bitmasters|General Audience|Cartridge|Gamepad|Genesis
+Championship Pro-Am|4310|b496de28|x|0|1992|Driving|USA|Rare|Rare Ltd.|Everyone|Cartridge|Gamepad|Genesis
+Chase H.Q. II|4311|f39e4bf2|x|0|1992|Driving|region-unknown|Taito|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Chavez II|4312|5bc0dbb8|x|0|1993|Sports/Boxing|Unlicensed (USA)|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Cheese Cat-astrophe Starring Speedy Gonzales|10251|ff634b28|x|0|1995|Platformer|region-unknown|Time Warner Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Chester Cheetah Too Cool to Fool|1787|250e3ec3|x|0|1992|Platformer|USA|Kaneko|Kaneko|General Audience|Cartridge|Gamepad|Genesis
+Chester Cheetah Wild Wild Quest|463|b97b735d|x|0|1992|Platformer|USA|Kaneko|Kaneko|General Audience|Cartridge|Gamepad|Genesis
+Chi Chi's Pro Challenge Golf|3892|9c3973a4|x|0|1993|Sports/Golf|USA|Coconuts Japan|Coconuts Japan|General Audience|Cartridge|Gamepad|Genesis
+Chiki Chiki Boys|464|813a7d62|x|0|1993|Platformer|USA|Capcom|Capcom|General Audience|Cartridge|Gamepad|Genesis
+Chuck Rock|7506|f8ac454a|x|0|1992|Platformer|USA|Core Design|Core Design Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Chuck Rock II Son of Chuck|4313|408b1cdb|x|0|1993|Platformer|USA|Core Design|Core Design Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Classic Collection|4314|73f948b1|x|0|1994|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Clay Fighter|1739|b12c1bc1|x|0|1994|Fighter|region-unknown|Visual Concepts|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Cliffhanger|4315|9cbf44d3|x|0|1993|Beat-'Em-Up|USA|Malibu|Malibu|General Audience|Cartridge|Gamepad|Genesis
+Clue|4316|7753a296|x|0|1992|Board Games|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Coach K College Basketball|4317|67c309c6|x|0|1995|Sports/Basketball|USA|Electronic Arts|Electronic Arts|Everyone|Cartridge|Gamepad|Genesis
+College Football USA 96|4319|b9075385|x|0|1995|Sports/Football|region-unknown|High Score Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+College Football USA 97|4318|2ebb90a3|x|0|1996|Sports/Football|region-unknown|EA Tiburon|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+College Football's National Championship|4320|172c5dbb|x|0|1994|Sports/Football|USA|Bluesky Innovations|Bluesky Innovations|General Audience|Cartridge|Gamepad|Genesis
+College Football's National Championship II|4321|65b64413|x|0|1995|Sports/Football|USA|Bluesky Innovations|Bluesky Innovations|Everyone|Cartridge|Gamepad|Genesis
+College Slam|687|96a42431|x|0|1996|Sports/Basketball|USA|Iguana Entertainment|Iguana Entertainment|Everyone|Cartridge|Gamepad|Genesis
+Columns|465|d783c244|x|0|1990|Puzzle|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Columns III Revenge of Columns|465|dc678f6d|x|0|1993|Puzzle|USA|Vic Tokai|Vic Tokai|General Audience|Cartridge|Gamepad|Genesis
+Combat Cars|4322|e439b101|x|0|1994|Driving|USA|Accolade|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Comix Zone|3487|17da0354|x|0|1995|Beat-'Em-Up|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Contra Hard Corps|1936|c579f45e|x|0|1994|Shooter|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Cool Spot|735|f024c1a1|x|0|1994|Platformer|USA|Virgin Interactive|Virgin Interactive|Everyone|Cartridge|Gamepad|Genesis
+Cosmic Spacehead|NOID|c593d31c|x|0|1993|Adventure|USA|Codemasters|Supersonic Software|General Audience|Cartridge|Gamepad|Genesis
+Crack Down|4323|b9ce9051|x|0|1991|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Cross Fire|NOID|cc73f3a9|x|0|1991|Shooter|region-unknown|AI|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Crue Ball Heavy Metal Pinball|NOID|4b195fc0|x|0|1992|Pinball|region-unknown|NuFX|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Crusader of Centy|3897|41858f6f|x|0|1994|Role Playing|USA|NexTech|NexTech|Everyone|Cartridge|Gamepad|Genesis
+Crystal's Pony Tale|467|6cf7a4df|x|0|1994|Platformer|USA|Artech Studios|Artech Studios|General Audience|Cartridge|Gamepad|Genesis
+Cutthroat Island|4325|ebabbc70|x|0|1995|Platformer|USA|Software Creations|Software Creations|Everyone|Cartridge|Gamepad|Genesis
+Cyber-Cop|468|01e719c8|x|0|1990|Sports|USA|Tengen|Core Design Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Cyberball|4326|76120e96|x|0|1992|Platformer|USA|Core Design|Tengen|General Audience|Cartridge|Gamepad|Genesis
+Cyborg Justice|3898|ab0d1269|x|0|1993|Beat-'Em-Up|USA|Novotrade|Novotrade|General Audience|Cartridge|Gamepad|Genesis
+Daffy Duck in Hollywood|9740|1fdc66b0|x|0|1994|Action|Europe|Probe Entertainment|Probe Entertainment Limited|General Audience|Cartridge|Gamepad|Genesis
+Dark Castle|469|0464aca4|x|0|1991|Platformer|USA|Artech Studios|Artech Studios|General Audience|Cartridge|Gamepad|Genesis
+Dashin' Desperadoes|2487|dcb76fb7|x|0|1993|Driving|USA|Data East|Data East|General Audience|Cartridge|Gamepad|Genesis
+David Crane's Amazing Tennis|4327|9177088c|x|0|1992|Sports/Tennis|USA|Absolute Entertainment|Farsight Technologies|General Audience|Cartridge|Gamepad|Genesis
+David Robinson's Supreme Court|4328|512b7599|x|0|1992|Sports/Basketball|USA|Sega|ACME Interactive|General Audience|Cartridge|Gamepad|Genesis
+Davis Cup Tennis|NOID|894686F0|x|0|1993|Sports/Tennis|region-unknown|Loriciels|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Deadly Moves|4331|35cbd237|x|0|1992|Fighter|USA|Kaneko|Kaneko|General Audience|Cartridge|Gamepad|Genesis
+Death and Return of Superman|4647|982242d3|x|0|1995|Beat-'Em-Up|USA|Blizzard Entertainment|Blizzard Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Death Duel|4332|a9804dcc|x|0|1992|Platformer|USA|Razorsoft|Razorsoft|General Audience|Cartridge|Gamepad|Genesis
+DecapAttack|4333|73dc0dd8|x|0|1991|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Demolition Man|4334|5ff71877|x|0|1995|Platformer|USA|Alexandria|Alexandria|Everyone|Cartridge|Gamepad|Genesis
+Desert Demolition Starring Road Runner and Wile E. Coyote|NOID|c287343d|x|0|1994|Platformer|USA|Bluesky Innovations|Bluesky Innovations|Everyone|Cartridge|Gamepad|Genesis
+Desert Strike Return to the Gulf|470|67a9860b|x|0|1994|Platformer|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Devilish the Next Possession|NOID|d3f300ac|x|0|1992|Platformer|USA|Aisystem Tokyo|Aisystem Tokyo|General Audience|Cartridge|Gamepad|Genesis
+Dick Tracy|NOID|ef887533|x|0|1990|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Dick Vitale's 'Awesome, Baby!' College Hoops|NOID|1312cf22|x|0|1994|Sports/Basketball|region-unknown|Time Warner Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Dino Dini's Soccer|NOID|4608f53a|x|0|1994|Sports/Soccer|Europe|Dini and Dini Productions|Dini and Dini Productions|General Audience|Cartridge|Gamepad|Genesis
+Dino Land|4338|5fe351b8|x|0|1991|Pinball|USA|Wolf Team|Wolf Team|General Audience|Cartridge|Gamepad|Genesis
+Dinosaurs for Hire|2216|39351146|x|0|1993|Platformer|USA|Funcom|Malibu|General Audience|Cartridge|Gamepad|Genesis
+Dinosaur's Tale|NOID|70155b5b|x|0|1993|Shooter|USA|Malibu|Funcom|General Audience|Cartridge|Gamepad|Genesis
+Disney Collection|NOID|adfde883|x|0|1996|Miscellaneous|region-unknown|Disney Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+DJ Boy|4340|dc9f02db|x|0|1990|Beat-'Em-Up|USA|Kaneko|Kaneko|General Audience|Cartridge|Gamepad|Genesis
+Donald In Maui Mallard|18742|b2dd857f|x|0|1995|Platformer|region-unknown|Eurocom Entertainment Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Doom Troopers|NOID|11194414|x|0|1995|Platformer|USA|Adrenalin Entertainment|Adrenalin Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Double Clutch|NOID|d98c623c|x|0|1992|Driving|Europe|BGS Development|BGS Development|General Audience|Cartridge|Gamepad|Genesis
+Double Dragon|4342|054f5d53|x|0|1993|Beat-'Em-Up|USA|Software Creations|Rare Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Double Dragon 3 the Arcade Game|NOID|b36ab75c|x|0|1992|Beat-'Em-Up|region-unknown|Software Creations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Double Dragon V The Shadow Falls|4343|27e59e35|x|0|1994|Fighter|USA|Leland Interactive Media|Leland Interactive Media|General Audience|Cartridge|Gamepad|Genesis
+Double Dribble The Playoff Edition|4344|8352b1d0|x|0|1994|Sports/Basketball|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Dr. Robotnik's Mean Bean Machine|4345|c7ca517f|x|0|1993|Puzzle|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Dragon The Bruce Lee Story|4346|efe850e5|x|0|1994|Fighter|USA|Virgin Interactive|Virgin Interactive|Teen|Cartridge|Gamepad|Genesis
+Dragon's Fury|4347|58037bc6|x|0|1992|Pinball|USA|TechnoSoft|TechnoSoft|General Audience|Cartridge|Gamepad|Genesis
+Dragon's Revenge|4348|841edbc0|x|0|1993|Pinball|USA|Tengen|Tengen|General Audience|Cartridge|Gamepad|Genesis
+Dune The Battle for Arrakis|4349|4dea40ba|x|0|1993|Strategy|USA|Westwood Studios|Westwood Studios|General Audience|Cartridge|Gamepad|Genesis
+Dungeons and Dragons Warriors of the Eternal Sun|4330|af4a9cd7|x|0|1992|Role Playing|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Dynamite Duke|4350|246f0bda|x|0|1990|Action|USA|Sega|Hertz|General Audience|Cartridge|Gamepad|Genesis
+Dynamite Headdy|4351|3dfeeb77|x|0|1994|Platformer|USA|Treasure|Treasure|General Audience|Cartridge|Gamepad|Genesis
+EA Sports Double Header|NOID|a0b54cbc|x|0|1993|Sports|region-unknown|Park Place Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Earnest Evans|4352|a243816d|x|0|1992|Platformer|USA|Wolf Team|Wolf Team|General Audience|Cartridge|Gamepad|Genesis
+Earth Defense|NOID|3519c422|x|0|1995|Shooter|region-unknown|Realtec|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Earthworm Jim|4353|df3acf59|x|0|1994|Platformer|USA|Shiny Entertainment|Shiny Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Earthworm Jim 2|1585|d57f8ba7|x|0|1996|Platformer|region-unknown|Shiny Entertainment|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Ecco The Tides of Time|4354|ccb21f98|x|0|1994|Platformer|USA|Novotrade International|Novotrade International|General Audience|Cartridge|Gamepad|Genesis
+Ecco Jr.|4355|3c517975|x|0|1995|Platformer|USA|Novotrade|Novotrade|General Audience|Cartridge|Gamepad|Genesis
+Ecco the Dolphin|2900|45547390|x|0|1993|Platformer|USA|Novotrade International|Novotrade International|General Audience|Cartridge|Gamepad|Genesis
+El. Viento|NOID|070a1ceb|x|0|1991|Platformer|region-unknown|Wolf Team|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Elemental Master|4357|390918c6|x|0|1993|Shooter|USA|TechnoSoft|TechnoSoft|General Audience|Cartridge|Gamepad|Genesis
+ESPN Baseball Tonight|2488|96d8440c|x|0|1995|Sports/Baseball|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+ESPN National Hockey Night|472|1d08828c|x|0|1994|Sports/Hockey|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+ESPN Speed World|4359|f50be478|x|0|1994|Driving|region-unknown|Park Place Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+ESPN Sunday Night NFL|4360|61e9c309|x|0|1994|Sports/Football|USA|Ringler Studios|Ringler Studios|General Audience|Cartridge|Gamepad|Genesis
+ESWAT City Under Siege|NOID|e72f8a36|x|0|1990|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Eternal Champions|473|48f1a42e|x|0|1993|Fighter|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Evander Holyfield's 'Real Deal' Boxing|NOID|4fef37c8|x|0|1992|Sports/Boxing|region-unknown|ACME Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Ex-Mutants|4364|33b1979f|x|0|1991|Role Playing|USA|Telenet|Malibu|General Audience|Cartridge|Gamepad|Genesis
+Exile|4363|1b569dc2|x|0|1992|Platformer|USA|Malibu|Telenet|General Audience|Cartridge|Gamepad|Genesis
+Exo Squad|NOID|10ec03f3|x|0|1995|Platformer|region-unknown|Novotrade|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Exodus Journey to the Promised Land|NOID|22e6fc04|x|0|1993|Platformer|Unlicensed (USA)|Wisdom Tree|Wisdom Tree|General Audience|Cartridge|Gamepad|Genesis
+F-117 Night Storm|4368|1bf67a07|x|0|1993|Simulation|region-unknown|Rare|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+F-15 Strike Eagle II|4367|412c4d60|x|0|1993|Simulation|USA|MicroProse|MicroProse|General Audience|Cartridge|Gamepad|Genesis
+F-22 Interceptor|8090|dd19b2b3|x|0|1991|Simulation|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+F1 World Championship Edition|NOID|74cee0a7|x|0|1993|Driving|Europe|Domark|Peakstar Software|General Audience|Cartridge|Gamepad|Genesis
+Faery Tale Adventure|4665|963f4969|x|0|1991|Role Playing|USA|New World Computing|MicroIllusions|General Audience|Cartridge|Gamepad|Genesis
+Family Feud|475|1aa628b0|x|0|1993|Game Show|USA|Eurocom Entertainment Software|GameTek|General Audience|Cartridge|Gamepad|Genesis
+Fantasia|4369|fc43df2d|x|0|1991|Platformer|USA|Infogrames|Infogrames|General Audience|Cartridge|Gamepad|Genesis
+Fantastic Dizzy|476|46447e7a|x|0|1993|Adventure|USA|Codemasters|Codemasters|General Audience|Cartridge|Gamepad|Genesis
+Fatal Fury|4371|98d49170|x|0|1993|Fighter|USA|SNK|SNK|General Audience|Cartridge|Gamepad|Genesis
+Fatal Fury 2|975|1b1754cb|x|0|1994|Fighter|region-unknown|SNK|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Fatal Labyrinth|477|5f0bd984|x|0|1991|Role Playing|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Fatal Rewind|478|e91aed05|x|0|1991|Platformer|USA|Raising Hell|Raising Hell|General Audience|Cartridge|Gamepad|Genesis
+Ferrari Grand Prix Challenge|479|f73f6bec|x|0|1992|Driving|USA|Flying Edge|Aisystem Tokyo|General Audience|Cartridge|Gamepad|Genesis
+FIFA 98 Road to World Cup|NOID|96947f57|x|0|1997|Sports/Soccer|region-unknown|Extended Play Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+FIFA International Soccer|4372|bddbb763|x|0|1993|Sports/Soccer|USA|Extended Play Productions|Extended Play|General Audience|Cartridge|Gamepad|Genesis
+FIFA Soccer 95|4374|b389d036|x|0|1994|Sports/Soccer|region-unknown|Extended Play Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+FIFA Soccer 96|4375|bad30ffa|x|0|1995|Sports/Soccer|region-unknown|Extended Play Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+FIFA Soccer 97|4373|a33d5803|x|0|1996|Sports/Soccer|region-unknown|Extended Play Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Fighting Masters|4376|5f51983b|x|0|1992|Fighter|USA|Almanic Corp.|Almanic Corp.|General Audience|Cartridge|Gamepad|Genesis
+Final Zone|480|731fa4a1|x|0|1990|Shooter|USA|Toaplan|Renovation Products|General Audience|Cartridge|Gamepad|Genesis
+Fire Shark|4377|570b5024|x|0|1993|Platformer|USA|Delphine Software International|Toaplan|General Audience|Cartridge|Gamepad|Genesis
+Flashback The Quest for Identity|4378|23a9616d|x|0|1991|Platformer|USA|Sega|Delphine Software|General Audience|Cartridge|Gamepad|Genesis
+Flicky|4379|4291c8ab|x|0|1994|Platformer|USA|Psygnosis|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Flink|18744|bef9a4f4|x|0|1993|Platformer|USA|Taito|Psygnosis|General Audience|Cartridge|Gamepad|Genesis
+Flintstones|4666|7c982c59|x|0|1995|Sports/Boxing|USA|Software Creations|Ocean Software|Everyone|Cartridge|Gamepad|Genesis
+Foreman For Real|4380|36248f90|x|0|1989|Shooter|USA|Sega|Software Creations|General Audience|Cartridge|Gamepad|Genesis
+Forgotten Worlds|4381|95513985|x|0|1993|Driving|USA|Domark|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Formula One|8091|ccd73738|x|0|1995|Sports/Baseball|USA|Iguana Entertainment|Lankhor|General Audience|Cartridge|Gamepad|Genesis
+Frank Thomas Big Hurt Baseball|NOID|863e0950|x|0|1998|Platformer|USA|Morning Star Multimedia|Iguana Entertainment|Everyone|Cartridge|Gamepad|Genesis
+Frogger|4383|ea2e48c0|x|0|1998|Miscellaneous|USA|Majesco Games|Morning Star Multimedia|Everyone|Cartridge|Gamepad|Genesis
+Fun 'N' Games|NOID|b5ae351d|x|0|1993|Miscellaneous|region-unknown|Leland Interactive Media|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Funny World and Balloon Boy|481|a82f05f0|x|0|1993|Shooter|region-unknown|Realtec|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+G-LOC Air Battle|4396|f2af886e|x|0|1993|Action|USA|Sega|SEGA-AM2|General Audience|Cartridge|Gamepad|Genesis
+Gadget Twins|4667|7ae5e248|x|0|1992|Platformer|USA|Imagitec Design|Imagitec Design|General Audience|Cartridge|Gamepad|Genesis
+Gaiares|4385|5d8bf68b|x|0|1990|Platformer|USA|Telenet Japan|Telenet Japan|General Audience|Cartridge|Gamepad|Genesis
+Gain Ground|4386|8641a2ab|x|0|1991|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Galaxy Force II|4387|d15f5c3c|x|0|1991|Platformer|USA|CRI|CSK Research Institute|General Audience|Cartridge|Gamepad|Genesis
+Garfield Caught in the Act|4388|f0ff078e|x|0|1995|Platformer|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Gargoyles|1937|2d965364|x|0|1995|Platformer|USA|Buena Vista Interactive|Buena Vista Interactive|Everyone|Cartridge|Gamepad|Genesis
+Gauntlet IV|4389|f9d60510|x|0|1993|Platformer|USA|M2|Tengen|General Audience|Cartridge|Gamepad|Genesis
+Gemfire|4390|3d36135b|x|0|1992|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+General Chaos|1939|f1ecc4df|x|0|1994|Platformer|USA|Game Refuge|Game Refuge|General Audience|Cartridge|Gamepad|Genesis
+Generations Lost|4391|131f36a6|x|0|1994|Platformer|USA|Pacific Softscape|Pacific Softscape|General Audience|Cartridge|Gamepad|Genesis
+Genghis Khan II Clan of the Gray Wolf|4393|87a281ae|x|0|1993|Strategy|region-unknown|Koei|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+George Foreman's KO Boxing|4394|e1fdc787|x|0|1992|Sports/Boxing|USA|Beam Software|Flying Edge|Everyone|Cartridge|Gamepad|Genesis
+Ghostbusters|4395|792df93b|x|0|1990|Platformer|USA|Sega|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+Ghouls 'n Ghosts|NOID|4f2561d5|x|0|1989|Platformer|USA|AM8|dev-unknown|Everyone|Cartridge|Gamepad|Genesis
+Gods|4397|fd234ccd|x|0|1992|Platformer|Europe|Graftgold|Core Design Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Golden Axe|209|665d7df9|x|0|1989|Beat-'Em-Up|USA|Sega|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+Golden Axe II|967|725e0a18|x|0|1991|Beat-'Em-Up|USA|Sega|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+Goofy's Hysterical History Tour|4398|4e1cc833|x|0|1993|Platformer|USA|Imagineering|Absolute Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Granada|4399|e89d1e66|x|0|1990|Shooter|USA|Wolf Team|Wolf Team|General Audience|Cartridge|Gamepad|Genesis
+Great Circus Mystery Starring Mickey and Minnie|301|14744883|x|0|1994|Platformer|region-unknown|Capcom|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Great Waldo Search|4668|8c5c93b8|x|0|1992|Puzzle|USA|Radiance|Radiance Software|General Audience|Cartridge|Gamepad|Genesis
+Greatest Heavyweights|4400|6e3621d5|x|0|1994|Sports/Boxing|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Greendog The Beached Surfer Dude!|2593|c4820a03|x|0|1992|Platformer|region-unknown|Interactive Designs|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+GRIND Stormer|4401|7e6bef15|x|0|1994|Shooter|USA|Tengen|Toaplan|General Audience|Cartridge|Gamepad|Genesis
+Growl|4402|f60ef143|x|0|1991|Beat-'Em-Up|USA|Taito|Taito|General Audience|Cartridge|Gamepad|Genesis
+Gunship|NOID|da1440c9|x|0|1993|Shooter|Europe|Probe Entertainment|Probe Entertainment Limited|General Audience|Cartridge|Gamepad|Genesis
+Gunstar Heroes|138|b813cf0d|x|0|1993|Shooter|USA|Treasure|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+Hard Drivin'|483|3225baaf|x|0|1991|Driving|USA|Sterling Silver Software|Atari|General Audience|Cartridge|Gamepad|Genesis
+HardBall III|4444|a4f2f011|x|0|1993|Sports/Baseball|USA|MindSpan|MindSpan|General Audience|Cartridge|Gamepad|Genesis
+HardBall '94|4445|ea9c4878|x|0|1994|Sports/Baseball|USA|MindSpan|MindSpan|General Audience|Cartridge|Gamepad|Genesis
+HardBall '95|4446|ed10bc9e|x|0|1995|Sports/Baseball|USA|MindSpan|MindSpan|Everyone|Cartridge|Gamepad|Genesis
+HardBall!|4447|bd1b9a04|x|0|1991|Sports/Baseball|USA|Accolade|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Haunting Starring Polterguy|484|c9fc876d|x|0|1993|Platformer|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Head-On Soccer|4448|dcffa327|x|0|1995|Sports/Soccer|USA|U.S. Gold|U.S. Gold|Everyone|Cartridge|Gamepad|Genesis
+Heavy Nova|4449|f6b6a9d8|x|0|1992|Platformer|USA|Micronet|Holocronet|General Audience|Cartridge|Gamepad|Genesis
+Hellfire|485|184018f9|x|0|1991|Shooter|USA|Toaplan|NCS|General Audience|Cartridge|Gamepad|Genesis
+Herzog Zwei|486|a605b65b|x|0|1990|Strategy|USA|TechnoSoft|Technosoft|General Audience|Cartridge|Gamepad|Genesis
+High Seas Havoc|4450|17be551c|x|0|1993|Platformer|USA|Data East|Data East|General Audience|Cartridge|Gamepad|Genesis
+Hit the Ice|4451|85b23606|x|0|1992|Sports/Hockey|USA|Aisystem Tokyo|Taito|General Audience|Cartridge|Gamepad|Genesis
+Home Alone|487|aa0d4387|x|0|1992|Platformer|USA|Brian A. Rice|Imagineering|General Audience|Cartridge|Gamepad|Genesis
+Home Alone 2 Lost in New York|4452|cbf87c14|x|0|1993|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Hook|4453|2c48e712|x|0|1992|Platformer|USA|Core Design|Core Design|General Audience|Cartridge|Gamepad|Genesis
+Humans|488|a0cf4366|x|0|1992|Puzzle|USA|Imagitec Design|GameTek|General Audience|Cartridge|Gamepad|Genesis
+Hurricanes|NOID|deccc874|x|0|1994|Platformer|Europe|Arc Developments|Arc Developments|General Audience|Cartridge|Gamepad|Genesis
+IMG International Tour Tennis|4454|e04ffc2b|x|0|1994|Sports/Tennis|USA|High Score Productions|High Score Productions|General Audience|Cartridge|Gamepad|Genesis
+Immortal|489|f653c508|x|0|1993|Adventure|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Incredible Crash Dummies|4669|1f6e574a|x|0|1993|Platformer|USA|Gray Matter|Gray Matter|General Audience|Cartridge|Gamepad|Genesis
+Incredible Hulk|1988|84a5a2dc|x|0|1994|Platformer|USA|Probe Entertainment|Probe Entertainment Limited|General Audience|Cartridge|Gamepad|Genesis
+Indiana Jones and the Last Crusade|4455|3599a3fd|x|0|1992|Platformer|USA|Tiertex Design Studios|Tiertex Design Studios|General Audience|Cartridge|Gamepad|Genesis
+Insector X|490|70626304|x|0|1990|Shooter|USA|Taito|Taito Corporation|General Audience|Cartridge|Gamepad|Genesis
+Instruments of Chaos Starring Young Indiana Jones|4744|4e384ef0|x|0|1994|Platformer|USA|Waterman Design|Waterman Design|Everyone|Cartridge|Gamepad|Genesis
+International Rugby|NOID|d97d1699|x|0|1993|Sports|Europe|Tiertex Design Studios|Tiertex Design Studios|General Audience|Cartridge|Gamepad|Genesis
+International Superstar Soccer Deluxe|NOID|9bb3b180|x|0|1996|Sports/Soccer|Europe|Tec Toy|Konami|General Audience|Cartridge|Gamepad|Genesis
+Ishido the Way of Stones|NOID|b1de7d5e|x|0|1990|Puzzle|region-unknown|Accolade|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Izzy's Quest for the Olympic Rings|4457|77b416e4|x|0|1995|Platformer|USA|Alexandria|Alexandria|General Audience|Cartridge|Gamepad|Genesis
+Jack Nicklaus' Power Challenge Golf|4458|5545e909|x|0|1993|Sports/Golf|USA|Accolade|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+James Bond 007 The Duel|4459|4e614548|x|0|1990|Sports/Boxing|USA|Taito|The Kremlin|General Audience|Cartridge|Gamepad|Genesis
+James Pond Underwater Agent|4461|d0e7b466|x|0|1991|Platformer|USA|Millenium Interactive|Millennium Interactive|General Audience|Cartridge|Gamepad|Genesis
+James Pond 3|NOID|26f64b2a|x|0|1993|Platformer|region-unknown|Millenium Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+James Pond II Codename Robocod|NOID|f4abedba|x|0|1991|Platformer|USA|Millennium|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+James 'Buster' Douglas Knockout Boxing|NOID|87bbcf2a|x|0|1993|Platformer|region-unknown|Domark|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Jammit|1993|d91b52b8|x|0|1994|Sports/Basketball|USA|GTE Entertainment|GTE Vantage|General Audience|Cartridge|Gamepad|Genesis
+Jennifer Capriati Tennis|4464|ab2abc8e|x|0|1992|Sports/Tennis|USA|System Sacom|Telnet Japan|General Audience|Cartridge|Gamepad|Genesis
+Jeopardy!|4465|56cff3f1|x|0|1992|Game Show|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+Jeopardy! Deluxe Edition|4466|25e2f9d2|x|0|1993|Game Show|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+Jeopardy! Sports Edition|4467|13f924d2|x|0|1993|Game Show|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+Jerry Glanville's Pigskin Footbrawl|NOID|e7f48d30|x|0|1992|Sports/Football|USA|Developer Resources|Developer Resources|General Audience|Cartridge|Gamepad|Genesis
+Jewel Master|NOID|cee98813|x|0|1991|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Jimmy White's Whirlwind Snooker|NOID|0aef5b1f|x|0|1991|Sports/Billiards|Europe|Virgin Interactive|Virgin Games|General Audience|Cartridge|Gamepad|Genesis
+Joe and Mac|NOID|85bcc1c7|x|0|1991|Platformer|region-unknown|Eden Entertainment Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Joe Montana Football|4468|8aa6a1dd|x|0|1990|Sports/Football|USA|Park Place Productions|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Joe Montana II Sports Talk Football|NOID|a45da893|x|0|1991|Sports/Football|region-unknown|Bluesky Innovations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+John Madden Football|286|90fb8818|x|0|1991|Sports/Football|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+John Madden Football Championship Edition|4469|ca534b1a|x|0|1992|Sports/Football|region-unknown|Looking Glass Studios|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+John Madden Football '92|629|046e3945|x|0|1991|Sports/Football|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+John Madden Football '93|630|ca323b3e|x|0|1990|Sports/Football|USA|Park Place Productions|Looking Glass Studios|General Audience|Cartridge|Gamepad|Genesis
+Jordan vs Bird|NOID|4d3ddd7c|x|0|1992|Sports/Basketball|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Joshua and the Battle of Jericho|NOID|da9e25aa|x|0|1992|Platformer|region-unknown|Wisdom Tree|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Judge Dredd|4471|ea342ed8|x|0|1995|Platformer|USA|Probe Entertainment|Probe Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Junction|4472|94cdce8d|x|0|1990|Puzzle|USA|Micronet|Micronet|General Audience|Cartridge|Gamepad|Genesis
+Jungle Book|NOID|3fb6d92e|x|0|1994|Platformer|USA|Eurocom Entertainment Software|Eurocom Entertainment Software|General Audience|Cartridge|Gamepad|Genesis
+Jungle Strike|536|a5d29735|x|0|1993|Platformer|USA|High Score Productions|High Score Productions|General Audience|Cartridge|Gamepad|Genesis
+Jurassic Park|537|7b31deef|x|0|1994|Platformer|USA|Bluesky Innovations|Blue Sky Software|General Audience|Cartridge|Gamepad|Genesis
+Jurassic Park Rampage Edition|4473|98b4aa1b|x|0|1993|Adventure|USA|Blue Sky Software|Blue Sky Software|General Audience|Cartridge|Gamepad|Genesis
+Justice League Task Force|4474|2a60ebe9|x|0|1995|Fighter|USA|SunSoft|SunSoft|Everyone|Cartridge|Gamepad|Genesis
+Ka-Ge-Ki Fists of Steel|4475|effc0fa6|x|0|1991|Action|USA|Kaneko|Kaneko|General Audience|Cartridge|Gamepad|Genesis
+Kawasaki Superbike Challenge|4476|631cc8e9|x|0|1994|Driving|USA|Lankhor|Lankhor|Everyone|Cartridge|Gamepad|Genesis
+Kick Off 3 European Challenge|NOID|bc37401a|x|0|1994|Sports/Soccer|region-unknown|Anco Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Kid Chameleon|4477|ce36e6cc|x|0|1992|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+King of the Monsters|4478|f390d406|x|0|1993|Fighter|USA|SPS|SPS|General Audience|Cartridge|Gamepad|Genesis
+King of the Monsters 2|4479|ee1638ac|x|0|1994|Fighter|region-unknown|SNK|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Genesis
+King Salmon The Big Catch|538|f516e7d9|x|0|1993|Sports/Fishing|USA|Sage's Creation|Sage's Creation|General Audience|Cartridge|Gamepad|Genesis
+King's Bounty the Conqueror's Quest|NOID|aa68a92e|x|0|1991|Strategy|region-unknown|New World Computing|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Klax|539|248cd09e|x|0|1990|Puzzle|USA|Tengen|Tengen|General Audience|Cartridge|Gamepad|Genesis
+Krusty's Super Fun House|4481|56976261|x|0|1993|Puzzle|region-unknown|Audiogenic|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+La Russa Baseball 95|NOID|3f848a92|x|0|1994|Sports/Baseball|region-unknown|High Score Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Lakers versus Celtics and the NBA Playoffs|2250|0e33fc75|x|0|1991|Sports/Basketball|region-unknown|Electronic Arts|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Landstalker|540|fbbb5b97|x|0|1992|Role Playing|USA|Sega|Climax Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Last Action Hero|541|15357dde|x|0|1993|Beat-'Em-Up|USA|Bits Studios|Bits Studios|General Audience|Cartridge|Gamepad|Genesis
+Last Battle|4482|bbfaad77|x|0|1989|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Lawnmower Man|4671|a7cacd59|x|0|1994|Platformer|USA|Atod AB|Atod AB|General Audience|Cartridge|Gamepad|Genesis
+Legend of Galahad|4672|679557bc|x|0|1992|Platformer|USA|Psygnosis|Psygnosis|General Audience|Cartridge|Gamepad|Genesis
+Lemmings|4483|68c70362|x|0|1992|Puzzle|USA|SunSoft|Psygnosis|General Audience|Cartridge|Gamepad|Genesis
+Lemmings 2 The Tribes|4484|de59a3a3|x|0|1994|Puzzle|region-unknown|Digital Developments|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Lethal Enforcers|4485|51d9a84a|x|0|1993|Gun|USA|Konami|Konami|Parental Guidance|Cartridge|Light Gun|Genesis
+Lethal Enforcers II Gun Fighters|NOID|e5fdd28b|x|0|1994|Gun|USA|Konami|Konami|Parental Guidance|Cartridge|Light Gun|Genesis
+LHX Attack Chopper|4486|70c3428d|x|0|1993|Simulation|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Liberty or Death|4487|2adb0364|x|0|1994|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+Light Crusader|2575|beb715dc|x|0|1995|Role Playing|USA|Treasure|Treasure|General Audience|Cartridge|Gamepad|Genesis
+Lightening Force Quest for the Darkstar|543|c8f8c0e0|x|0|1992|Shooter|region-unknown|TechnoSoft|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Lion King|669|5696a5bc|x|0|1994|Platformer|USA|Westwood Studios|Westwood Studios|General Audience|Cartridge|Gamepad|Genesis
+Lost Vikings|544|7ba49edb|x|0|1992|Puzzle|NOID|Silicon and Synapse|Silicon Lost Vikings|General Audience|Cartridge|Gamepad|7ba49edb
+Lost World Jurassic Park|537|140a284c|x|0|1997|Platformer|region-unknown|Appaloosa Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Lotus II|545|1d8ee010|x|0|1993|Driving|USA|Gremlin Interactive|Gremlin Interactive|General Audience|Cartridge|Gamepad|Genesis
+Lotus Turbo Challenge|546|a3cf6e9c|x|0|1992|Driving|USA|Gremlin Interactive|Gremlin Interactive|General Audience|Cartridge|Gamepad|Genesis
+M-1 Abrams Battle Tank|4488|1e2f74cf|x|0|1991|Action|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Madden NFL 95|NOID|db0be0c2|x|0|1994|Sports/Football|region-unknown|High Score Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Madden NFL 96|4490|f126918b|x|0|1995|Sports/Football|region-unknown|High Score Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Madden NFL 97|4492|c4b4e112|x|0|1997|Sports/Football|region-unknown|High Score Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Madden NFL 98|4491|e051ea62|x|0|1997|Sports/Football|region-unknown|Tiertex Design Studios|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Madden NFL '94|631|d14b811b|x|0|1994|Sports/Football|USA|High Score Productions|High Score Productions|General Audience|Cartridge|Gamepad|Genesis
+Magic School Bus|NOID|1a5d4412|x|0|1995|Adventure|USA|Magic Pen|Novotrade International|Everyone|Cartridge|Gamepad|Genesis
+Man Overboard!|NOID|cae0e3a6|x|0|1994|Platformer|Europe|Codemasters|Zeppelin Games|General Audience|Cartridge|Gamepad|Genesis
+Marble Madness|4493|79eba28a|x|0|1993|Platformer|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Mario Andretti Racing|4494|7f1dc0aa|x|0|1994|Driving|USA|Stormfront Studios|Stormfront Studios|General Audience|Cartridge|Gamepad|Genesis
+Mario Lemieux Hockey|4495|f664eb6c|x|0|1991|Sports/Hockey|USA|Ringler Studios|Ringler Studios|General Audience|Cartridge|Gamepad|Genesis
+Marko|NOID|2b8c8cce|x|0|1994|Platformer|USA|The Kremlin|The Kremlin|General Audience|Cartridge|Gamepad|Genesis
+Marsupilami|633|c76558df|x|0|1995|Platformer|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Marvel Land|4497|cd7eeeb7|x|0|1991|Platformer|USA|Namco|Namco|General Audience|Cartridge|Gamepad|Genesis
+Mary Shelley's Frankenstein|4498|48993dc3|x|0|1994|Platformer|USA|Bits Studios|Bits Studios|General Audience|Cartridge|Gamepad|Genesis
+Master of Monsters|4499|91354820|x|0|1991|Strategy|USA|OperaHouse|OperaHouse|General Audience|Cartridge|Gamepad|Genesis
+Math Blaster Episode 1|NOID|d055a462|x|0|1994|Adventure|region-unknown|Western Technologies|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mazin Saga Mutant Fighter|635|1bd9fef1|x|0|1993|Beat-'Em-Up|USA|Almanic Corp.|Almanic Corp.|General Audience|Cartridge|Gamepad|Genesis
+McDonald's Treasure Land Adventure|636|04ef4899|x|0|1993|Platformer|USA|Treasure|Treasure|General Audience|Cartridge|Gamepad|Genesis
+Mega Bomberman|5484|4bd6667d|x|0|1994|Platformer|USA|Hudson|Hudson|Everyone|Cartridge|Gamepad|Genesis
+Mega Games 1|NOID|db753224|x|0|1993|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mega Games 2|NOID|30d59f2f|x|0|1993|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mega Games 3|NOID|b4247d98|x|0|1993|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mega Games 6 Vol. 1|NOID|b66fb80d|x|0|1995|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mega Games 6 Vol. 2|NOID|e8d10db9|x|0|1995|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mega Games 6 Vol. 3|NOID|fe3e7e4f|x|0|1995|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mega Man The Wily Wars|2281|dcf6e8b2|x|0|1994|Platformer|Europe|Capcom|Capcom|General Audience|Cartridge|Gamepad|Genesis
+Mega SWIV|NOID|78c2f046|x|0|1994|Shooter|USA|Sales Curve Interactive|Sales Curve Interactive|General Audience|Cartridge|Gamepad|Genesis
+Mega Turrican|2217|fe898cc9|x|0|1994|Platformer|USA|Factor 5|Factor 5|General Audience|Cartridge|Gamepad|Genesis
+Menacer 6-Game Cartridge|4500|936b85f7|x|0|1992|Gun|USA|Sega|SEGA|General Audience|Cartridge|Menacer|Genesis
+Mercs|4501|16113a72|x|0|1991|Action|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Michael Jackson's Moonwalker|128|11ce1f9e|x|0|1990|Platformer|USA|Ultimate Productions|Ultimate Productions|General Audience|Cartridge|Gamepad|Genesis
+Mick and Mack as the Global Gladiators|4502|40f17bb3|x|0|1992|Platformer|region-unknown|Virgin Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mickey Mania The Timeless Adventures of Mickey Mouse|637|629e5963|x|0|1994|Platformer|USA|Traveller's Tales|Traveller's Tales|General Audience|Cartridge|Gamepad|Genesis
+Mickey's Ultimate Challenge|4503|30b512ee|x|0|1994|Platformer|USA|Designer Software|Designer Software|General Audience|Cartridge|Gamepad|Genesis
+Micro Machines|4504|7ffbd1ad|x|0|1993|Driving|USA|Codemasters|Codemasters|General Audience|Cartridge|Gamepad|Genesis
+Micro Machines 2 Turbo Tournament|NOID|42bfb7eb|x|0|1994|Driving|region-unknown|Codemasters|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Micro Machines Military|NOID|b3abb15e|x|0|1996|Driving|Europe|Supersonic Software|Supersonic Software|General Audience|Cartridge|Gamepad|Genesis
+Micro Machines Turbo Tournament 96|18743|23319d0d|x|0|1995|Driving|region-unknown|Supersonic Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Midnight Resistance|652|187c6af6|x|0|1991|Shooter|USA|OperaHouse|OperaHouse|General Audience|Cartridge|Gamepad|Genesis
+MIG-29 Fighter Pilot|4505|59ccabb2|x|0|1993|Simulation|USA|Tiertex Design Studios|Tiertex Design Studios|General Audience|Cartridge|Gamepad|Genesis
+Might and Magic Gates to Another World|4506|f509145f|x|0|1991|Role Playing|region-unknown|New World Computing|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mighty Morphin Power Rangers|4507|715158a9|x|0|1995|Beat-'Em-Up|USA|Sims|Bandai|General Audience|Cartridge|Gamepad|Genesis
+Mighty Morphin Power Rangers The Movie|4508|aa941cbc|x|0|1994|Beat-'Em-Up|USA|Bandai|Sims|Everyone|Cartridge|Gamepad|Genesis
+Mike Ditka Power Football|NOID|6078b310|x|0|1991|Sports/Football|USA|Accolade|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Minnesota Fats Pool Legend|4510|38174f40|x|0|1995|Sports/Billiards|USA|Data East|Data East|Everyone|Cartridge|Gamepad|Genesis
+MLBPA Baseball|2582|14a8064d|x|0|1992|Sports/Baseball|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Monopoly|4513|c10268da|x|0|1992|Board Games|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Mortal Kombat|653|33f19ab6|x|0|1993|Fighter|USA|Probe Entertainment|Probe Entertainment Limited|Mature|Cartridge|Gamepad|Genesis
+Mortal Kombat 3|651|dd638af6|x|0|1995|Fighter|USA|Sculptured Software|Sculptured Software|Mature|Cartridge|Gamepad|Genesis
+Mortal Kombat II|642|a9e013d8|x|0|1994|Fighter|USA|Probe Entertainment|Probe Entertainment Limited|Mature|Cartridge|Gamepad|Genesis
+Mr. Nutz|NOID|0786ea0b|x|0|1994|Platformer|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Ms. Pac-Man|1958|af041be6|x|0|1991|Platformer|USA|Innerprise Software|Innerprise Software|General Audience|Cartridge|Gamepad|Genesis
+Muhammad Ali Heavyweight Boxing|654|b638b6a3|x|0|1992|Sports/Boxing|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+MUSHA Metallic Uniframe Super Hybrid Armor|NOID|58a7f7b4|x|0|1990|Shooter|region-unknown|Compile|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Mutant League Football|1969|dce29c9d|x|0|1993|Sports/Football|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Mutant League Hockey|1970|3529180f|x|0|1994|Sports/Hockey|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Mystic Defender|2594|50fd5d93|x|0|1989|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Mystical Fighter|4514|b2f2a69b|x|0|1992|Beat-'Em-Up|USA|Kid|Dreamworks INC.|General Audience|Cartridge|Gamepad|Genesis
+NBA Action '94|NOID|99c348ba|x|0|1994|Sports/Basketball|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+NBA Action '95 Starring David Robinson|NOID|aa7006d6|x|0|1995|Sports/Basketball|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+NBA All-Star Challenge|655|c4674adf|x|0|1992|Sports/Basketball|region-unknown|Beam Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NBA Hang Time|NOID|176b0338|x|0|1996|Sports/Basketball|USA|Funcom|Funcom|Everyone|Cartridge|Gamepad|Genesis
+NBA Jam|657|eb8360e6|x|0|1993|Sports/Basketball|USA|Iguana Entertainment|Iguana Entertainment|General Audience|Cartridge|Gamepad|Genesis
+NBA Jam Tournament Edition|656|e9ffcb37|x|0|1995|Sports/Basketball|USA|Iguana Entertainment|Iguana Entertainment|General Audience|Cartridge|Gamepad|Genesis
+NBA Live 95|4518|66018abc|x|0|1994|Sports/Basketball|region-unknown|Hitmen Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+NBA Live 96|2251|49de0062|x|0|1995|Sports/Basketball|region-unknown|Hitmen Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+NBA Live 97|4519|7024843a|x|0|1996|Sports/Basketball|region-unknown|NuFX|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+NBA Live 98|4520|23473a8a|x|0|1997|Sports/Basketball|region-unknown|NuFX|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+NBA Showdown '94|4521|160b7090|x|0|1994|Sports/Basketball|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+NCAA Final Four Basketball|4523|ed0c1303|x|0|1994|Sports/Basketball|region-unknown|Bitmasters|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NCAA Football|NOID|081012f0|x|0|1994|Sports/Football|region-unknown|Mindscape|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+New Horizons|658|ead69824|x|0|1994|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+Newman Haas Indy Car Featuring Nigel Mansell|NOID|1233a229|x|0|1994|Driving|region-unknown|Gremlin Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NFL 98|4491|f73ec54c|x|0|1997|Sports/Football|region-unknown|Farsight Technologies|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+NFL Football '94 Starring Joe Montana|659|0d486ed5|x|0|1993|Sports/Football|region-unknown|Bluesky Innovations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NFL Quarterback Club|4528|94542eaf|x|0|1994|Sports/Football|USA|Iguana Entertainment|Iguana Entertainment|Everyone|Cartridge|Gamepad|Genesis
+NFL Quarterback Club 96|NOID|d5a37cab|x|0|1996|Sports/Football|region-unknown|Iguana Entertainment|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+NFL Sports Talk Football '93 Starring Joe Montana|NOID|ce0b1fe1|x|0|1992|Sports/Football|region-unknown|Bluesky Innovations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NFL '95|632|b58e4a81|x|0|1994|Sports/Football|USA|Sega|High Score Productions|Everyone|Cartridge|Gamepad|Genesis
+NHL 95|NOID|e8ee917e|x|0|1995|Sports/Hockey|region-unknown|High Score Productions|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+NHL 96|NOID|8135702c|x|0|1995|Sports/Hockey|region-unknown|High Score Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NHL 97|NOID|f067c103|x|0|1996|Sports/Hockey|region-unknown|High Score Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NHL 98|4531|7b64cd98|x|0|1997|Sports/Hockey|region-unknown|High Score Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NHL All-Star Hockey '95|4532|e6c0218b|x|0|1995|Sports/Hockey|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+NHL Hockey|4533|2641653f|x|0|1991|Sports/Hockey|USA|Park Place Productions|Park Place Productions|General Audience|Cartridge|Gamepad|Genesis
+NHL '94|661|9438f5dd|x|0|1993|Sports/Hockey|region-unknown|High Score Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+NHLPA Hockey 93|NOID|f361d0bf|x|0|1992|Sports/Hockey|region-unknown|Park Place Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Nigel Mansell's World Championship Racing|4534|6bc57b2c|x|0|1993|Driving|region-unknown|Gremlin Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+No Escape|4535|44ee5f20|x|0|1994|Platformer|USA|Bits Studios|Bits Studios|General Audience|Cartridge|Gamepad|Genesis
+Nobunaga's Ambition|4536|b9bc07bc|x|0|1993|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+Normy's Beach Babe-O-Rama|4537|b56a8220|x|0|1994|Platformer|USA|Realtime Associates|Realtime Associates|General Audience|Cartridge|Gamepad|Genesis
+Olympic Gold|670|339594b4|x|0|1992|Sports|USA|U.S. Gold|U.S. Gold|General Audience|Cartridge|Gamepad|Genesis
+Olympic Summer Games|4538|9e470fb9|x|0|1996|Sports|USA|Tiertex Design Studios|Tiertex Design Studios|Everyone|Cartridge|Gamepad|Genesis
+Onslaught|4539|9f19d6df|x|0|1991|Platformer|USA|Nextgrand|Nextgrand|General Audience|Cartridge|Gamepad|Genesis
+Ooze|2220|1c0dd42f|x|0|1995|Platformer|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Operation Europe Path to Victory 1939-45|NOID|e7cba1d8|x|0|1994|Strategy|region-unknown|Koei|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Ottifants|NOID|41ac8003|x|0|1993|Platformer|Europe|Graftgold|Graftgold|General Audience|Cartridge|Gamepad|Genesis
+Out of This World|4540|2da36e01|x|0|1993|Platformer|USA|Delphine Software International|Delphine Software International|General Audience|Cartridge|Gamepad|Genesis
+Outlander|4542|c5ba7bbf|x|0|1992|Platformer|USA|Mindscape|Mindscape|General Audience|Cartridge|Gamepad|Genesis
+OutRun|NOID|fdd9a8d2|x|0|1991|Driving|USA|Sanritsu|Sanritsu|General Audience|Cartridge|Gamepad|Genesis
+OutRun 2019|4543|e32e17e2|x|0|1993|Driving|USA|Sims|Sims|General Audience|Cartridge|Gamepad|Genesis
+OutRunners|672|ede636b9|x|0|1994|Driving|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+P.T.O Pacific Theater of Operations|NOID|d9d4c6e2|x|0|1993|Puzzle|region-unknown|Namco|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Pac-Attack|673|5df382f7|x|0|1993|Strategy|USA|Koei|Namco|General Audience|Cartridge|Gamepad|Genesis
+Pac-Man 2 The New Adventures|674|fe7a7ed1|x|0|1994|Platformer|region-unknown|Namco|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Pac-Mania|4546|74bba09b|x|0|1991|Platformer|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Pagemaster|4547|75a96d4e|x|0|1994|Platformer|USA|Probe Entertainment|Probe Entertainment Limited|General Audience|Cartridge|Gamepad|Genesis
+Paperboy|4548|0a44819b|x|0|1991|Platformer|USA|MotiveTime,|MotiveTime, Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Paperboy 2|4549|1de28bb1|x|0|1992|Platformer|region-unknown|Tengen|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Pat Riley Basketball|4551|3d9318a7|x|0|1990|Sports/Basketball|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Pebble Beach Golf Links|675|95823c43|x|0|1993|Sports/Golf|NOID|TandE Soft|TPebble Beach Golf Links|General Audience|Cartridge|Gamepad|95823c43
+Pele II World Tournament Soccer|4553|05a486e9|x|0|1994|Sports/Soccer|USA|Radical Entertainment|Radical Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Pele!|4552|5a8abe51|x|0|1993|Sports/Soccer|USA|Accolade|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Pete Sampras Tennis|NOID|9ef5bbd1|x|0|1994|Sports/Tennis|USA|Codemasters|Codemasters|General Audience|Cartridge|Gamepad|Genesis
+PGA European Tour|4554|8ca45acd|x|0|1994|Sports/Golf|USA|Polygames|Polygames|General Audience|Cartridge|Gamepad|Genesis
+PGA Tour 96|4555|9698bbde|x|0|1995|Sports/Golf|region-unknown|NuFX|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+PGA Tour Golf|677|c1f0b4e1|x|0|1991|Sports/Golf|USA|Sterling Silver Software|Sterling Silver Software|General Audience|Cartridge|Gamepad|Genesis
+PGA Tour Golf II|676|e82b8606|x|0|1992|Sports/Golf|USA|Polygames|Polygames|General Audience|Cartridge|Gamepad|Genesis
+PGA Tour Golf III|4556|aeb3f65f|x|0|1994|Sports/Golf|USA|Polygames|Polygames|General Audience|Cartridge|Gamepad|Genesis
+Phantasy Star II|678|904fa047|x|0|1989|Role Playing|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Phantasy Star III Generations of Doom|679|c6b42b0f|x|0|1990|Role Playing|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Phantasy Star IV|127|fe236442|x|0|1994|Role Playing|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Phantom 2040|4558|fb36e1f3|x|0|1995|Platformer|USA|Viacom New Media|Viacom New Media|General Audience|Cartridge|Gamepad|Genesis
+Phelios|2583|11c79320|x|0|1990|Shooter|USA|Namco|Namco|General Audience|Cartridge|Gamepad|Genesis
+Pink Goes to Hollywood|2489|b5804771|x|0|1993|Platformer|USA|HeadGames|HeadGames|General Audience|Cartridge|Gamepad|Genesis
+Pinocchio|4559|cd4128d8|x|0|1996|Platformer|USA|Virgin Interactive|Virgin Interactive|Everyone|Cartridge|Gamepad|Genesis
+Pirates of Dark Water|712|0a62de34|x|0|1994|Platformer|USA|Iguana Entertainment|Iguana Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Pirates! Gold|969|ed50e75c|x|0|1993|Strategy|USA|MicroProse|MicroProse|General Audience|Cartridge|Gamepad|Genesis
+Pit-Fighter|680|d48a8b02|x|0|1994|Platformer|USA|Activision|Sterling Silver Software|General Audience|Cartridge|Gamepad|Genesis
+Pitfall The Mayan Adventure|667|f917e34f|x|0|1991|Fighter|region-unknown|Sterling Silver Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Pocahontas|4560|6ddd1c6d|x|0|1996|Platformer|USA|Funcom|Funcom|Everyone|Cartridge|Gamepad|Genesis
+Populous|4561|bd74b31e|x|0|1991|Strategy|USA|Bullfrog Productions|Bullfrog Productions|General Audience|Cartridge|Gamepad|Genesis
+Power Drive|NOID|8c00ad61|x|0|1994|Driving|Europe|Rage Software|Rage Software|General Audience|Cartridge|Gamepad|Genesis
+Power Monger|4562|fb599b86|x|0|1993|Strategy|USA|Sprytes|Sprytes|General Audience|Cartridge|Gamepad|Genesis
+Powerball|4563|7adf232f|x|0|1991|Sports|USA|Namco|Namco|General Audience|Cartridge|Gamepad|Genesis
+Predator 2|4564|bdba113e|x|0|1992|Shooter|USA|Teeny Weeny Games|Teeny Weeny Games|General Audience|Cartridge|Gamepad|Genesis
+Premier Manager|NOID|303b889f|x|0|1995|Sports/Soccer|Europe|Gremlin Interactive|Gremlin Interactive|General Audience|Cartridge|Gamepad|Genesis
+Premier Manager 97|NOID|fccbf69b|x|0|1996|Sports/Soccer|region-unknown|Gremlin Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Primal Rage|666|2884c6d1|x|0|1995|Fighter|USA|Probe Entertainment|Probe Entertainment Limited|Teen|Cartridge|Gamepad|Genesis
+Prime Time NFL Starring Deion Sanders|NOID|5aa53cbc|x|0|1995|Sports/Football|region-unknown|Farsight Technologies|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Prince of Persia|4105|13c181a4|x|0|1993|Platformer|USA|Broderbund|Broderbund|General Audience|Cartridge|Gamepad|Genesis
+Pro Quarterback|4565|cc8b2b69|x|0|1992|Sports/Football|USA|Tradewest|Tradewest|General Audience|Cartridge|Gamepad|Genesis
+Psycho Pinball|18745|d704784b|x|0|1994|Pinball|Europe|Codemasters|Codemasters|General Audience|Cartridge|Gamepad|Genesis
+Puggsy|4566|70132168|x|0|1993|Platformer|USA|Traveller's Tales|Traveller's Tales|General Audience|Cartridge|Gamepad|Genesis
+Punisher|386|695cd8b8|x|0|1994|Beat-'Em-Up|USA|Sculptured Software|Sculptured Software|Teen|Cartridge|Gamepad|Genesis
+Quackshot Starring Donald Duck|4581|1801098b|x|0|1991|Platformer|USA|Sega|Disney Interactive|General Audience|Cartridge|Gamepad|Genesis
+Quad Challenge|4582|74736a80|x|0|1991|Driving|USA|Namco|Namco|General Audience|Cartridge|Gamepad|Genesis
+R.B.I. Baseball 3|NOID|4840348c|x|0|1993|Sports/Baseball|region-unknown|Tengen|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+R.B.I. Baseball 4|682|fecf9b94|x|0|1994|Sports/Baseball|region-unknown|Tengen|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+R.B.I. Baseball '93|4591|beafce84|x|0|1991|Sports/Baseball|region-unknown|Tengen|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+R.B.I. Baseball '94|4592|4eb4d5e4|x|0|1992|Sports/Baseball|region-unknown|Tengen|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Race Drivin'|4583|d737cf3d|x|0|1993|Driving|USA|Polygames|Polygames|General Audience|Cartridge|Gamepad|Genesis
+Radical Rex|4584|2e6eec7e|x|0|1994|Platformer|USA|Beam Software|Beam Software Pty|General Audience|Cartridge|Gamepad|Genesis
+Raiden Trad|4585|f839a811|x|0|1993|Shooter|USA|Micronet|Seibu Kaihatsu|General Audience|Cartridge|Gamepad|Genesis
+Rambo III|4586|4d47a647|x|0|1989|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Rampart|4587|9c4dd057|x|0|1991|Platformer|USA|Tengen|Atari Games|General Audience|Cartridge|Gamepad|Genesis
+Ranger X|681|55915915|x|0|1993|Shooter|region-unknown|Gau Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Rastan Saga II|4588|c7ee8965|x|0|1990|Platformer|USA|OperaHouse|Taito|General Audience|Cartridge|Gamepad|Genesis
+Red Zone|4593|56512ee5|x|0|1994|Platformer|USA|Zyrinx|Zyrinx|General Audience|Cartridge|Gamepad|Genesis
+Ren and Stimpy Show Presents Stimpy's Invention|732|d9503ba5|x|0|1993|Platformer|region-unknown|Blue Sky Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Revenge of Shinobi|4673|4d35ebe4|x|0|1989|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Revolution X|668|5fb0c5d4|x|0|1995|Shooter|USA|Rage Software|Midway|Teen|Cartridge|Menacer; Gamepad|Genesis
+Richard Scarry's Busytown|4594|7bb60c3f|x|0|1994|Platformer|USA|Novotrade|Pearson Software|General Audience|Cartridge|Gamepad|Genesis
+Rings of Power|4595|41fcc497|x|0|1991|Role Playing|USA|Naughty Dog|Naughty Dog|General Audience|Cartridge|Gamepad|Genesis
+Rise of the Robots|NOID|5650780b|x|0|1994|Fighter|Europe|Data Design Interactive|Mirage|Everyone|Cartridge|Gamepad|Genesis
+Risk|683|80416d0d|x|0|1994|Board Games|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Risky Woods|4596|d975e93c|x|0|1992|Platformer|USA|Dinamic Software|Dinamic Multimedia|General Audience|Cartridge|Gamepad|Genesis
+Ristar|2269|6511aa61|x|0|1995|Platformer|USA|Sonic Team|Sonic Team|General Audience|Cartridge|Gamepad|Genesis
+Road Rash|4598|dea53d19|x|0|1992|Driving|USA|Electronic Arts|Electronic Arts, Inc.|General Audience|Cartridge|Gamepad|Genesis
+Road Rash 3|4599|15785956|x|0|1995|Driving|region-unknown|Electronic Arts|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Road Rash II|734|0876e992|x|0|1993|Driving|USA|Electronic Arts|Electronic Arts, Inc.|General Audience|Cartridge|Gamepad|Genesis
+RoadBlasters|4597|ec6cd5f0|x|0|1991|Driving|region-unknown|Sterling Silver Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+RoboCop 3|2047|34fb7b27|x|0|1993|Platformer|region-unknown|Eden Entertainment Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Robocop versus The Terminator|4600|bbad77a4|x|0|1994|Platformer|region-unknown|Virgin Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Rock N' Roll Racing|4601|6abab577|x|0|1994|Driving|NOID|Blizzard Entertainment|Silicon Rock n' Roll Racing|General Audience|Cartridge|Gamepad|6abab577
+Rocket Knight Adventures|685|a6efec47|x|0|1993|Platformer|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Roger Clemens MVP Baseball|NOID|83699e34|x|0|1992|Baseball/Sports|region-unknown|Sculptured Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Rolling Thunder 2|2595|3ace429b|x|0|1991|Shooter|region-unknown|Namco|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Rolling Thunder 3|2596|64fb13aa|x|0|1993|Shooter|region-unknown|Namco|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Rolo to the Rescue|4606|306861a2|x|0|1992|Platformer|USA|Vectordean|Vectordean|General Audience|Cartridge|Gamepad|Genesis
+Romance of the Three Kingdoms II|4602|3d842478|x|0|1991|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+Romance of the Three Kingdoms III Dragon of Destiny|4603|7e41c8fe|x|0|1993|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+Rugby World Cup 95|4604|61f90a8a|x|0|1994|Sports|region-unknown|EA Sports|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sagaia|4607|f1e22f43|x|0|1991|Shooter|USA|Taito|Taito Corporation|General Audience|Cartridge|Gamepad|Genesis
+Saint Sword|4608|44f66bff|x|0|1991|Platformer|USA|Taito|Taito|General Audience|Cartridge|Gamepad|Genesis
+Sampras Tennis 96|NOID|14e3fb7b|x|0|1995|Sports/Tennis|region-unknown|Codemasters|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Samurai Shodown|4609|5bb8b2d4|x|0|1994|Fighter|USA|Saurus|Saurus|General Audience|Cartridge|Gamepad|Genesis
+Saturday Night Slammasters|NOID|2fb4eaba|x|0|1994|Fighter|region-unknown|Capcom|dev-unknown|Teen|media-unknown|controller-unknown|Genesis
+Scooby-Doo Mystery|4611|7bb9dd9b|x|0|1995|Adventure|region-unknown|Illusions Gaming Company|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+SeaQuest DSV|4612|25b05480|x|0|1994|Platformer|USA|Sculptured Software|Sculptured Software, Inc.|Everyone|Cartridge|Gamepad|Genesis
+Second Samurai|NOID|78e92143|x|0|1994|Beat-'Em-Up|Europe|Vivid Image|Vivid Image|General Audience|Cartridge|Gamepad|Genesis
+Sega Sports 1|NOID|07fedaf1|x|0|1995|Miscellaneous|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sensible Soccer|NOID|f9b396b8|x|0|1994|Sports/Soccer|Europe|Renegade|Sensible Software|General Audience|Cartridge|Gamepad|Genesis
+Sensible Soccer International Edition|NOID|04e3bcca|x|0|1993|Sports/Soccer|region-unknown|Renegade|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sesame Street Counting Cafe|4613|0a4f48c3|x|0|1994|Adventure|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Shadow Blasters|688|713d377b|x|0|1990|Platformer|USA|Sigma|Sage's Creation|General Audience|Cartridge|Gamepad|Genesis
+Shadow Dancer The Secret of Shinobi|2597|ebe9ad10|x|0|1990|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Shadow of the Beast|689|bd385c27|x|0|1991|Platformer|USA|WJS Design|Psygnosis Limited|General Audience|Cartridge|Gamepad|Genesis
+Shadow of the Beast II|4614|2dede3db|x|0|1992|Adventure|region-unknown|WJS Design|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Shadowrun|1306|fbb92909|x|0|1994|Role Playing|USA|Blue Sky Software|BlueSky Software|Parental Guidance|Cartridge|Gamepad|Genesis
+Shanghai II Dragon's Eye|4615|ebe9e840|x|0|1994|Puzzle|USA|Activision|Activision|General Audience|Cartridge|Gamepad|Genesis
+Shaq-Fu|NOID|499955f2|x|0|1994|Fighter|USA|Delphine Software International|Home Data|General Audience|Cartridge|Gamepad|Genesis
+Shining Force|183|e0594abe|x|0|1992|Strategy|USA|Climax Entertainment|Camelot Software Planning|General Audience|Cartridge|Gamepad|Genesis
+Shining Force II|184|4815e075|x|0|1994|Strategy|USA|Climax Entertainment|Camelot Software Planning|General Audience|Cartridge|Gamepad|Genesis
+Shining in the Darkness|697|4d2785bc|x|0|1991|Role Playing|USA|Climax Entertainment|Climax Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Shinobi III Return of the Ninja Master|120|5381506f|x|0|1993|Beat-'Em-Up|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Shove It! ...The Warehouse Game|NOID|c51f40cb|x|0|1990|Puzzle|region-unknown|Dreamworks/NCS|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Side Pocket|4616|af9f275d|x|0|1992|Sports/Billiards|USA|Data East|Data East Corporation|General Audience|Cartridge|Gamepad|Genesis
+Simpsons Bart vs the Space Mutants|NOID|db70e8ca|x|0|1992|Platformer|USA|Arc Developments|Imagineering/Arc Developments|General Audience|Cartridge|Gamepad|Genesis
+Simpsons Bart's Nightmare|713|24d7507c|x|0|1993|Platformer|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Skeleton Krew|4617|c2e05acb|x|0|1995|Platformer|USA|Core Design|Core Design Ltd.|Everyone|Cartridge|Gamepad|Genesis
+Skitchin'|4618|f785f9d7|x|0|1993|Sports/Skating|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Slaughter Sport|4619|af9f9d9c|x|0|1991|Fighter|USA|Activision|Activision|General Audience|Cartridge|Gamepad|Genesis
+Smurfs Travel the World|NOID|b28bdd69|x|0|1996|Platformer|Europe|Infogrames|Virtual Studio|General Audience|Cartridge|Gamepad|Genesis
+Smurfs|9741|88b30eff|x|0|1995|Platformer|Europe|Virtual Studio|Infogrames|General Audience|Cartridge|Gamepad|Genesis
+Snake Rattle n Roll|NOID|543bed30|x|0|1993|Platformer|region-unknown|Rare|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Socket|4620|3c14e15a|x|0|1994|Platformer|USA|Vic Tokai|Vic Tokai, Inc.|General Audience|Cartridge|Gamepad|Genesis
+Sol-Deace|4621|a77e4e9f|x|0|1992|Shooter|USA|Wolf Team|Wolf Team|General Audience|Cartridge|Gamepad|Genesis
+Soldiers of Fortune|4622|a84d28a1|x|0|1993|Shooter|USA|Bitmap Brothers|Bitmap Brothers|General Audience|Cartridge|Gamepad|Genesis
+Sonic and Knuckles|733|0658f691|x|0|1994|Platformer|region-unknown|Sonic Team|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sonic and Knuckles + Sonic the Hedgehog|114|e01f6ed5|x|0|1994|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sonic and Knuckles + Sonic the Hedgehog 2|142|2ac1e7c6|x|0|1994|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sonic and Knuckles + Sonic the Hedgehog 3|691|63522553|x|0|1994|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sonic 3D Blast|2284|44a2ca44|x|0|1996|Platformer|USA|Sega|Traveller's Tales|General Audience|Cartridge|Gamepad|Genesis
+Sonic Classics|4624|95b5e8d7|x|0|1997|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Sonic Spinball|NOID|677206cb|x|0|1993|Puzzle|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Sonic the Hedgehog|114|f9394e97|x|0|1991|Platformer|Update Hack (USA)|Sonic Team|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+Sonic the Hedgehog 2|142|7b905383|x|0|1992|Platformer|USA|Sonic Team|Sonic Team|General Audience|Cartridge|Gamepad|Genesis
+Sonic the Hedgehog 3|691|9bc192ce|x|0|1994|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Sorcerer's Kingdom|4627|bb1fc9ce|x|0|1992|Role Playing|USA|Treco|Treco|General Audience|Cartridge|Gamepad|Genesis
+Space Harrier II|2598|e5c9cbb0|x|0|1989|Shooter|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Space Invaders '91|698|bb83b528|x|0|1991|Shooter|USA|Taito|Taito Corporation|General Audience|Cartridge|Gamepad|Genesis
+Sparkster|4629|6bdb14ed|x|0|1994|Platformer|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Speedball 2 Brutal Deluxe|4630|9fc340a7|x|0|1991|Sports|region-unknown|Bitmap Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Spider-Man|611|11b5b590|x|0|1995|Platformer|USA|Acclaim|Software Creations|General Audience|Cartridge|Gamepad|Genesis
+Spider-Man|611|70ab775f|x|0|1991|Platformer|USA|Recreational Brainware|Software Creations|General Audience|Cartridge|Gamepad|Genesis
+Spider-Man and Venom Maximum Carnage|4631|8fa0b6e6|x|0|1994|Beat-'Em-Up|region-unknown|Software Creations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Spider-Man and Venom Separation Anxiety|7465|512ade32|x|0|1995|Beat-'Em-Up|region-unknown|Software Creations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Spider-Man and X-Men Arcade's Revenge|NOID|4a4414ea|x|0|1994|Platformer|region-unknown|Software Creations|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Spiritual Warfare|4632|d9a364ff|x|0|1994|Role Playing|Unlicensed (USA)|Wisdom Tree|Wisdom Tree, Inc.|General Audience|Cartridge|Gamepad|Genesis
+Spirou|NOID|6634b130|x|0|1996|Platformer|Europe|Infogrames|Infogrames|General Audience|Cartridge|Gamepad|Genesis
+Splatterhouse 2|2285|2d1766e9|x|0|1992|Beat-'Em-Up|USA|Namco|Namco Limited|General Audience|Cartridge|Gamepad|Genesis
+Splatterhouse 3|4633|00f05d07|x|0|1993|Beat-'Em-Up|USA|Namco|Now Production Co., Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Sports Talk Baseball|700|0deb79c2|x|0|1992|Sports/Baseball|USA|Sega|dev-unknown|General Audience|Cartridge|Gamepad|Genesis
+Spot Goes To Hollywood|701|bdad1cbc|x|0|1995|Platformer|USA|Eurocom Entertainment Software|Eurocom Entertainment Software|General Audience|Cartridge|Gamepad|Genesis
+Star Control|548|8e2bceaf|x|0|1991|Strategy|USA|Toys for Bob|Eurocom|General Audience|Cartridge|Gamepad|Genesis
+Star Trek Deep Space Nine Crossroads of Time|NOID|a771e1a4|x|0|1995|Adventure|region-unknown|Novotrade International|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Star Trek The Next Generation Echoes from the Past|4635|ef840ef2|x|0|1994|Adventure|region-unknown|MicroProse|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Starflight|4636|1217dbea|x|0|1991|Strategy|USA|Blue Sky Software|Binary Systems|General Audience|Cartridge|Gamepad|Genesis
+Stargate|4637|e587069e|x|0|1994|Platformer|USA|Probe Entertainment|Probe Entertainment|Everyone|Cartridge|Gamepad|Genesis
+Steel Empire|4676|d0e7a0b6|x|0|1992|Shooter|USA|Hot-B|Hot B|General Audience|Cartridge|Gamepad|Genesis
+Steel Talons|4638|10e4ec63|x|0|1992|Shooter|USA|Polygames|Atari Games|General Audience|Cartridge|Gamepad|Genesis
+Stormlord|4639|39ab50a5|x|0|1990|Platformer|USA|Punk Development|Punk Development|General Audience|Cartridge|Gamepad|Genesis
+Street Fighter II' Special Champion Edition|NOID|13fe08a1|x|0|1993|Fighter|region-unknown|Capcom|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Street Racer|NOID|1a58d5fe|x|0|1995|Driving|Europe|Vivid Image|Vivid Image|General Audience|Cartridge|Gamepad|Genesis
+Street Smart|4640|b1dedfad|x|0|1991|Fighter|USA|Treco|SNK|General Audience|Cartridge|Gamepad|Genesis
+Streets of Rage|971|4052e845|x|0|1991|Beat-'Em-Up|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Streets of Rage 2|694|e01fa526|x|0|1992|Beat-'Em-Up|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Streets of Rage 3|1310|d5bb15d9|x|0|1994|Beat-'Em-Up|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Strider|702|b9d099a4|x|0|1990|Platformer|USA|Sega|Tiertex Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Strider Returns Journey from Darkness|NOID|42589b79|x|0|1990|Platformer|region-unknown|Tiertex Design Studios|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Striker|NOID|cc5d7ab2|x|0|1994|Sports/Soccer|Europe|Rage Software|Rage Software Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Sub-Terrania|2584|dc3c6c45|x|0|1994|Platformer|USA|Zyrinx|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Summer Challenge|NOID|d7d53dc1|x|0|1993|Sports|USA|MindSpan|MindSpan|General Audience|Cartridge|Gamepad|Genesis
+Sunset Riders|695|ac30c297|x|0|1992|Shooter|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Super Baseball 2020|4641|c17acee5|x|0|1994|Sports/Baseball|USA|NuFX|SNK|General Audience|Cartridge|Gamepad|Genesis
+Super Battleship|549|99ca1bfb|x|0|1993|Board Games|USA|Synergistic Software|Synergistic|General Audience|Cartridge|Gamepad|Genesis
+Super Battletank War in the Gulf|NOID|b0b5e3c9|x|0|1992|Platformer|region-unknown|Imagineering|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Super Fantasy Zone|NOID|927975be|x|0|1993|Shooter|Europe|SunSoft|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Super Hang-On|4643|3877d107|x|0|1989|Driving|USA|Sega|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Super High Impact|703|b870c2f7|x|0|1992|Sports/Football|USA|Iguana Entertainment|Beam Software|General Audience|Cartridge|Gamepad|Genesis
+Super Hydlide|4644|1335ddaa|x|0|1989|Role Playing|NOID|TandE Soft|TSuper Hydlide|General Audience|Cartridge|Gamepad|1335ddaa
+Super Kick Off|NOID|f43793ff|x|0|1992|Sports/Soccer|Europe|Tiertex Design Studios|Tiertex Design Studios|General Audience|Cartridge|Gamepad|Genesis
+Super Monaco GP|18747|725018ee|x|0|1990|Driving|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Super Off Road|1484|8f2fdada|x|0|1994|Driving|USA|Software Creations|Tradewest|General Audience|Cartridge|Gamepad|Genesis
+Super Skidmarks|18748|4a9c62f9|x|0|1995|Driving|Europe|Acid|Acid Software|General Audience|Cartridge|Gamepad|Genesis
+Super Smash T.V.|4645|f22412b6|x|0|1992|Shooter|region-unknown|Probe Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Super Street Fighter II the New Challengers|NOID|165defbf|x|0|1994|Fighter|USA|Capcom|Capcom|General Audience|Cartridge|Gamepad|Genesis
+Super Thunder Blade|704|b13087ee|x|0|1988|Shooter|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Super Volley Ball|NOID|85102799|x|0|1991|Sports/Volleyball|region-unknown|Micronics|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Superman|4647|543a5869|x|0|1992|Beat-'Em-Up|USA|SunSoft|SunSoft|General Audience|Cartridge|Gamepad|Genesis
+Sword of Sodan|4648|9cb8468f|x|0|1990|Beat-'Em-Up|USA|Innerprise Software|Innerprise|General Audience|Cartridge|Gamepad|Genesis
+Sword of Vermilion|705|ea1bc9ab|x|0|1989|Role Playing|USA|Sega-AM2|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Syd of Valis|4649|37dc0108|x|0|1992|Platformer|USA|Laser Soft|Telenet Japan|General Audience|Cartridge|Gamepad|Genesis
+Sylvester and Tweety in Cagey Capers|4650|9d9c786b|x|0|1993|Platformer|region-unknown|Alexandria|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Syndicate|706|95bbf87b|x|0|1994|Strategy|USA|Bullfrog Productions|Bullfrog Productions|General Audience|Cartridge|Gamepad|Genesis
+T2 Terminator 2 Judgment Day|4662|2f75e896|x|0|1991|Action|region-unknown|Bits Studios|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+T2 The Arcade Game|4651|a1264f17|x|0|1992|Gun|USA|Acclaim|Midway|General Audience|Cartridge|Menacer; Gamepad|Genesis
+TaleSpin|707|f5c0c8d0|x|0|1992|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Target Earth|708|cddf62d3|x|0|1990|Platformer|USA|NCS|Nippon Computer Systems Corporation|General Audience|Cartridge|Gamepad|Genesis
+Task Force Harrier EX|4653|c8bb0257|x|0|1991|Shooter|USA|Treco|Treco|General Audience|Cartridge|Gamepad|Genesis
+Taz in Escape from Mars|NOID|62009f8c|x|0|1994|Platformer|USA|HeadGames|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Taz-Mania|2288|0e901f45|x|0|1992|Platformer|USA|Recreational Brainware|SEGA|Everyone|Cartridge|Gamepad|Genesis
+Team USA Basketball|709|a0caf97e|x|0|1992|Sports/Basketball|USA|Electronic Arts|Electronic Arts|General Audience|Cartridge|Gamepad|Genesis
+Techno Clash|NOID|4e65e483|x|0|1993|Platformer|region-unknown|Blue Sky Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Technocop|NOID|7459ad06|x|0|1990|Platformer|USA|Punk Development|Gremlin Graphics|General Audience|Cartridge|Gamepad|Genesis
+Tecmo Super Baseball|2490|227a1178|x|0|1994|Sports/Baseball|USA|Sculptured Software|Tecmo|General Audience|Cartridge|Gamepad|Genesis
+Tecmo Super Bowl|4655|21f27d34|x|0|1993|Football/Sports|USA|Tecmo|Tecmo|General Audience|Cartridge|Gamepad|Genesis
+Tecmo Super Bowl II Special Edition|NOID|0a0e67d8|x|0|1994|Sports/Football|region-unknown|Tecmo|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Tecmo Super Bowl III Final Edition|4657|aae4089f|x|0|1995|Sports/Football|USA|Tecmo|Tecmo|Everyone|Cartridge|Gamepad|Genesis
+Tecmo Super Hockey|4658|5f86ddc9|x|0|1994|Sports/Hockey|USA|Tecmo|Tecmo|Everyone|Cartridge|Gamepad|Genesis
+Tecmo Super NBA Basketball|4659|53913991|x|0|1993|Platformer|USA|Sculptured Software|Tecmo|General Audience|Cartridge|Gamepad|Genesis
+Tecmo World Cup|NOID|caf8eb2c|x|0|1990|Sports/Soccer|USA|Sims|Tecmo|General Audience|Cartridge|Gamepad|Genesis
+Teenage Mutant Ninja Turtles The Hyperstone Heist|1971|679c41de|x|0|1992|Beat-'Em-Up|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Teenage Mutant Ninja Turtles Tournament Fighters|4661|95b5484d|x|0|1993|Fighter|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Terminator|4600|31a629be|x|0|1991|Platformer|USA|Probe Entertainment|Interplay Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Test Drive II the Duel|NOID|f9bdf8c5|x|0|1992|Driving|region-unknown|Distinctive Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Theme Park|4679|289da2c5|x|0|1995|Strategy|USA|Bullfrog Productions|Bullfrog Productions|Everyone|Cartridge|Gamepad|Genesis
+Thomas the Tank Engine and Friends|4680|1a406299|x|0|1993|Adventure|region-unknown|THQ|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Thunder Force II|714|9b1561b3|x|0|1989|Shooter|USA|TechnoSoft|TechnoSoft|General Audience|Cartridge|Gamepad|Genesis
+Thunder Force III|4681|1b3f399a|x|0|1990|Shooter|USA|TechnoSoft|TechnoSoft|General Audience|Cartridge|Gamepad|Genesis
+Thunder Fox|4682|5463f50f|x|0|1991|Beat-'Em-Up|USA|Aisystem Tokyo|Taito|General Audience|Cartridge|Gamepad|Genesis
+Tick|4678|425132f0|x|0|1994|Beat-'Em-Up|USA|Software Creations|Software Creations|General Audience|Cartridge|Gamepad|Genesis
+Time Killers|4683|4b5f52ac|x|0|1996|Fighter|USA|Incredible Technologies|Incredible Technologies|Mature|Cartridge|Gamepad|Genesis
+Tinhead|4684|d6724b84|x|0|1993|Platformer|USA|MicroProse|Spectrum Holobyte|General Audience|Cartridge|Gamepad|Genesis
+Tintin au Tibet|NOID|4243caf3|x|0|1995|Platformer|Europe|Infogrames|Infogrames|General Audience|Cartridge|Gamepad|Genesis
+Tiny Toon Adventures ACME All-Stars|4685|2f9faa1d|x|0|1994|Sports|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+Tiny Toon Adventures Buster's Hidden Treasure|715|a26d3ae0|x|0|1993|Platformer|USA|Konami|Konami|General Audience|Cartridge|Gamepad|Genesis
+TNN Bass Tournament of Champions|4686|c83ffa1b|x|0|1993|Sports/Fishing|USA|Imagitec Design|Imagitec Design, Inc.|Everyone|Cartridge|Gamepad|Genesis
+TNN Outdoors Bass Tournament '96|2574|5c523c0b|x|0|1996|Sports/Fishing|USA|Imagitec Design|Imagitec Design, Inc.|Everyone|Cartridge|Gamepad|Genesis
+Todd's Adventures in Slime World|NOID|652e8b7d|x|0|1991|Platformer|USA|Epyx|Epyx|General Audience|Cartridge|Gamepad|Genesis
+ToeJam and Earl|2289|7a588f4b|x|0|1992|Platformer|region-unknown|ToeJam and Earl Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+ToeJam and Earl in Panic on Funkotron|716|aa021bdd|x|0|1993|Platformer|region-unknown|ToeJam and Earl Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Toki Going Ape Spit|717|7362c3f4|x|0|1991|Platformer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Tom and Jerry Frantic Antics|NOID|3044460c|x|0|1994|Platformer|USA|Beam Software|Beam Software|General Audience|Cartridge|Gamepad|Genesis
+Tommy Lasorda Baseball|718|4fb50304|x|0|1989|Sports/Baseball|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Tony La Russa Baseball|4688|24629c78|x|0|1993|Sports/Baseball|USA|SSI|High Score Productions|General Audience|Cartridge|Gamepad|Genesis
+Top Gear 2|4690|bd3074d2|x|0|1994|Driving|USA|Gremlin Interactive|Gremlin Interactive|General Audience|Cartridge|Gamepad|Genesis
+Total Football|18753|8360b66a|x|0|1995|Sports/Football|Europe|Domark|Domark|General Audience|Cartridge|Gamepad|Genesis
+Toughman Contest|4691|e19fbc93|x|0|1995|Sports|USA|Visual Concepts|Visual Concepts Entertainment, Inc.|Teen|Cartridge|Gamepad|Genesis
+Toxic Crusaders|2149|11fd46ce|x|0|1992|Beat-'Em-Up|USA|Infogrames|Infogrames|General Audience|Cartridge|Gamepad|Genesis
+Toy Story|NOID|829fe313|x|0|1996|Platformer|USA|Traveller's Tales|Traveller's Tales|Everyone|Cartridge|Gamepad|Genesis
+Toys|4693|cbc9951b|x|0|1993|Platformer|USA|Imagineering|Imagineering Inc.|General Audience|Cartridge|Gamepad|Genesis
+Trampoline Terror!|4694|aabb349f|x|0|1990|Platformer|USA|NCS|NCS|General Audience|Cartridge|Gamepad|Genesis
+Traysia|719|96184f4f|x|0|1992|Role Playing|USA|Riot|Williams Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Triple Play Gold Edition|720|bbe69017|x|0|1995|Sports/Baseball|USA|Extended Play Productions|Extended Play Productions|Everyone|Cartridge|Gamepad|Genesis
+Triple Play 96|2491|f1748e91|x|0|1996|Sports/Baseball|region-unknown|Extended Play Productions|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Trouble Shooter|2623|becfc39b|x|0|1991|Shooter|USA|Vic Tokai|Vic Tokai|General Audience|Cartridge|Gamepad|Genesis
+Troy Aikman NFL Football|4696|015f2713|x|0|1994|Sports/Football|USA|Williams|Leland Interactive Media|General Audience|Cartridge|Gamepad|Genesis
+True Lies|4697|18c09468|x|0|1995|Platformer|USA|Beam Software|Beam Software|Teen|Cartridge|Gamepad|Genesis
+Truxton|721|5bd0882d|x|0|1989|Shooter|USA|Sega|Toaplan|General Audience|Cartridge|Gamepad|Genesis
+Turbo OutRun|NOID|0c661369|x|0|1992|Driving|Europe|Tiertex Design Studios|SEGA-AM2|General Audience|Cartridge|Gamepad|Genesis
+Turrican|NOID|634d67a6|x|0|1991|Platformer|USA|Accolade|Factor 5|General Audience|Cartridge|Gamepad|Genesis
+Twin Cobra Desert Attack Helicopter|NOID|2c708248|x|0|1991|Shooter|region-unknown|GRC|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Twin Hawk|4700|a2ec8c67|x|0|1992|Beat-'Em-Up|Europe|OperaHouse|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Two Crude Dudes|4701|721b5744|x|0|1993|Strategy|USA|Panelcomp|Data East|General Audience|Cartridge|Gamepad|Genesis
+Two Tribes Populous II|NOID|ee988bd9|x|0|1992|Strategy|region-unknown|Sensible Software|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Tyrants Fight Through Time|4702|a744921e|x|0|1996|Action|USA|Avalanche Software|Sensible Software|General Audience|Cartridge|Gamepad|Genesis
+Ultimate Mortal Kombat 3|651|7290770d|x|0|1996|Fighter|USA|Midway|Midway Games|Mature|Cartridge|Gamepad|Genesis
+Ultimate Qix|722|d83369d9|x|0|1993|Puzzle|USA|Rage Software|Taito|General Audience|Cartridge|Gamepad|Genesis
+Ultimate Soccer|NOID|83db6e58|x|0|1994|Strategy|Europe|Koei|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Uncharted Waters|4704|4edaec59|x|0|1992|Strategy|USA|Koei|Koei|General Audience|Cartridge|Gamepad|Genesis
+Universal Soldier|4706|352ebd49|x|0|1992|Platformer|USA|The Code Monkeys|Carolco|General Audience|Cartridge|Gamepad|Genesis
+Unnecessary Roughness '95|NOID|9920e7b7|x|0|1994|Sports/Football|USA|Accolade|Accolade|Everyone|Cartridge|Gamepad|Genesis
+Urban Strike|723|cf690a75|x|0|1994|Platformer|USA|Granite Bay Software|Foley Hi-Tech|General Audience|Cartridge|Gamepad|Genesis
+Valis|4649|13bc5b72|x|0|1991|Action|USA|Riot|Telenet Japan|General Audience|Cartridge|Gamepad|Genesis
+Valis III|724|59a2a368|x|0|1991|Platformer|USA|Telenet Japan|Telnet|General Audience|Cartridge|Gamepad|Genesis
+Vapor Trail|4708|c49e3a0a|x|0|1991|Shooter|USA|Data East|Data East|General Audience|Cartridge|Gamepad|Genesis
+Vectorman|4709|d38b3354|x|0|1995|Platformer|USA|Blue Sky Software|Blue Sky Software|General Audience|Cartridge|Gamepad|Genesis
+Vectorman 2|547|c1a24088|x|0|1996|Platformer|USA|Blue Sky Software|Blue Sky Software|Everyone|Cartridge|Gamepad|Genesis
+Viewpoint|2492|59c71866|x|0|1994|Shooter|USA|Nexus Interact|Nexus Productions|General Audience|Cartridge|Gamepad|Genesis
+Virtua Fighter 2|4710|937380f3|x|0|1997|Fighter|USA|Sega|SEGA-AM2|General Audience|Cartridge|Gamepad|Genesis
+Virtua Racing|4711|7e1a324a|x|0|1994|Driving|USA|Sega-AM2|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Virtual Bart|2586|8db9f378|x|0|1994|Platformer|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+Virtual Pinball|725|d63473aa|x|0|1993|Pinball|USA|Electronic Arts|BudgeCo|General Audience|Cartridge|Gamepad|Genesis
+VR Troopers|4712|2f35516e|x|0|1995|Fighter|USA|Syrox Developments|Saban Inc.|Everyone|Cartridge|Gamepad|Genesis
+Wacky Worlds Creativity Studio|NOID|8af4552d|x|0|1994|Adventure|USA|HeadGames|Headgames|Everyone|Cartridge|Gamepad|Genesis
+Wardner|4714|1e369ae2|x|0|1991|Platformer|USA|Visco|Visco|General Audience|Cartridge|Gamepad|Genesis
+Warlock|726|0a46539b|x|0|1994|Platformer|USA|Realtime Associates|Realtime Associates|Everyone|Cartridge|Gamepad|Genesis
+WarpSpeed|4715|143697ed|x|0|1993|Platformer|USA|Accolade|Accolade|General Audience|Cartridge|Gamepad|Genesis
+Warrior of Rome|4716|5be10c6a|x|0|1991|Strategy|USA|Micronet|Micronet|General Audience|Cartridge|Gamepad|Genesis
+Warrior of Rome II|4717|cd8c472a|x|0|1992|Strategy|USA|Micronet|Micronet|General Audience|Cartridge|Gamepad|Genesis
+Warsong|4718|4b680285|x|0|1991|Strategy|USA|NCS|CareerSoft|General Audience|Cartridge|Gamepad|Genesis
+Wayne Gretzky and the NHLPA All-Stars|4719|c2c13b81|x|0|1995|Sports/Hockey|region-unknown|Time Warner Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+Wayne's World|2174|d2cf6ebe|x|0|1993|Platformer|USA|Gray Matter|Gray Matter|General Audience|Cartridge|Gamepad|Genesis
+WeaponLord|4720|b9895365|x|0|1995|Fighter|USA|Visual Concepts|Visual Concepts|Teen|Cartridge|Gamepad|Genesis
+Whac-a-Critter|NOID|1bdd02b8|x|0|1995|Platformer|Unlicensed (USA)|Realtec|Realtec|General Audience|Cartridge|Gamepad|Genesis
+Wheel of Fortune|727|c8d8efc3|x|0|1992|Game Show|USA|Imagitec Design|GameTek|General Audience|Cartridge|Gamepad|Genesis
+Where in the World is Carmen Sandiego|NOID|eef372e8|x|0|1992|Puzzle|USA|EA Canada|Broderbund|General Audience|Cartridge|Gamepad|Genesis
+Where in Time is Carmen Sandiego|NOID|ea19d4a4|x|0|1992|Puzzle|USA|Distinctive Software|Broderbund|General Audience|Cartridge|Gamepad|Genesis
+Whip Rush|4724|7eb6b86b|x|0|1990|Shooter|USA|Vic Tokai|Vic Tokai|General Audience|Cartridge|Gamepad|Genesis
+Williams Arcade's Greatest Hits|4726|d68e9c00|x|0|1996|Miscellaneous|USA|Digital Eclipse|Digital Eclipse|General Audience|Cartridge|Gamepad|Genesis
+Wimbledon Championship Tennis|4727|f9142aee|x|0|1993|Sports/Tennis|USA|Sims|SEGA|General Audience|Cartridge|Gamepad|Genesis
+Wings of Wor|4728|210a2fcd|x|0|1991|Shooter|USA|NCS|NCS|General Audience|Cartridge|Gamepad|Genesis
+Winter Challenge|4729|f57c7068|x|0|1992|Sports|USA|MindSpan|Ballistic|General Audience|Cartridge|Gamepad|Genesis
+Winter Olympic Games|NOID|c5834437|x|0|1993|Sports|region-unknown|U.S. Gold|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Wiz'n'Liz|NOID|df036b62|x|0|1993|Platformer|region-unknown|Raising Hell|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Wolfchild|4731|eb5b1cbf|x|0|1993|Platformer|USA|Core Design|Core Design Ltd.|General Audience|Cartridge|Gamepad|Genesis
+Wolverine Adamantium Rage|2221|d2437bb7|x|0|1994|Platformer|USA|Teeny Weeny Games|dev-unknown|Everyone|Cartridge|Gamepad|Genesis
+Wonder Boy III Monster Lair|4732|c24bc5e4|x|0|1991|Shooter|Europe|Sega|Westone Co.|General Audience|Cartridge|Gamepad|Genesis
+Wonder Boy in Monster World|729|1592f5b0|x|0|1992|Platformer|USA|West One|West One|General Audience|Cartridge|Gamepad|Genesis
+World Championship Soccer|4733|bf84ede6|x|0|1994|Sports/Soccer|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+World Championship Soccer II|4734|c1dd1c8e|x|0|1992|Sports/Soccer|USA|Access Software|SEGA|General Audience|Cartridge|Gamepad|Genesis
+World Class Leaderboard Golf|4735|53434bab|x|0|1992|Sports/Golf|USA|U.S. Gold|Access Software|General Audience|Cartridge|Gamepad|Genesis
+World Cup USA 94|4736|0171b47f|x|0|1994|Sports/Soccer|region-unknown|Tiertex Design Studios|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+World Heroes|4737|0f4d22ec|x|0|1994|Fighter|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+World of Illusion Starring Mickey Mouse and Donald Duck|139|921ebd1c|x|0|1992|Platformer|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+World Series Baseball|730|57c1d5ec|x|0|1996|Sports/Baseball|USA|Blue Sky Software|Blusky Software|General Audience|Cartridge|Gamepad|Genesis
+World Series Baseball 98|2493|05b1ab53|x|0|1997|Sports/Baseball|region-unknown|Blue Sky Software|dev-unknown|Everyone|media-unknown|controller-unknown|Genesis
+World Series Baseball '95|4738|25130077|x|0|1994|Sports/Baseball|USA|Blue Sky Software|Bluesky Software|General Audience|Cartridge|Gamepad|Genesis
+World Series Baseball '96|4739|04ee8272|x|0|1995|Sports/Baseball|USA|Blue Sky Software|Bluesky Software|Everyone|Cartridge|Gamepad|Genesis
+World Trophy Soccer|4740|6e3edc7c|x|0|1992|Sports/Soccer|USA|Game Arts|Novotrade International|General Audience|Cartridge|Gamepad|Genesis
+Worms|NOID|b9a8b299|x|0|1995|Strategy|Europe|EastPoint|Team17 Software Limited|General Audience|Cartridge|Gamepad|Genesis
+Wrestle War|NOID|2d162a85|x|0|1991|Fighter|Europe|Sega|SEGA|General Audience|Cartridge|Gamepad|Genesis
+WWF Raw|2222|4ef5d411|x|0|1994|Fighter|USA|Sculptured Software|Sculptured Software|Everyone|Cartridge|Gamepad|Genesis
+WWF Royal Rumble|4741|b69dc53e|x|0|1994|Fighter|USA|Acclaim|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+WWF Super WrestleMania|4742|b929d6c5|x|0|1992|Fighter|USA|Sculptured Software|Sculptured Software|General Audience|Cartridge|Gamepad|Genesis
+WWF WrestleMania The Arcade Game|731|a5d023f9|x|0|1995|Fighter|USA|Sculptured Software|Sculptured Software|Everyone|Cartridge|Gamepad|Genesis
+X-Men|665|f71b21b4|x|0|1993|Action|USA|Western Technologies|Software Creations|General Audience|Cartridge|Gamepad|Genesis
+X-Men 2 Clone Wars|972|710bc628|x|0|1995|Platformer|USA|HeadGames|Headgames|Everyone|Cartridge|Gamepad|Genesis
+X-Perts|4743|57e8abfd|x|0|1996|Platformer|USA|Abalone|SEGA|Teen|Cartridge|Gamepad|Genesis
+Xenon 2 Megablast|NOID|59abe7f9|x|0|1992|Platformer|region-unknown|Bitmap Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Yogi Bear Cartoon Capers|NOID|204f97d8|x|0|1994|Action|region-unknown|Blue Turtle|dev-unknown|General Audience|media-unknown|controller-unknown|Genesis
+Ys III|NOID|ea27976e|x|0|1991|Role Playing|USA|Riot|Riot|General Audience|Cartridge|Gamepad|Genesis
+Zany Golf|4747|74ed7607|x|0|1990|Sports/Golf|USA|Sandcastle|Sandcastle|General Audience|Cartridge|Gamepad|Genesis
+Zero the Kamikaze Squirrel|4748|423968df|x|0|1994|Platformer|USA|Iguana Entertainment|Iguana Entertainment|General Audience|Cartridge|Gamepad|Genesis
+Zero Tolerance|4749|23f603f5|x|0|1994|Shooter|Prototype (Europe)|Technopop|Technopop|General Audience|Cartridge|Gamepad|Genesis
+Zero Wing|17125|89b744a3|x|0|1991|Shooter|Europe|Toaplan|Toaplan|General Audience|Cartridge|Gamepad|Genesis
+Zombies Ate My Neighbors|2757|2bf3626f|x|0|1993|Platformer|USA|LucasArts|LucasArts|General Audience|Cartridge|Gamepad|Genesis
+Zool Ninja of the 'Nth' Dimension|4750|cb2939f1|x|0|1993|Platformer|USA|Gremlin Interactive|Gremlin Graphics|General Audience|Cartridge|Gamepad|Genesis
+Zoom!|4751|724d6965|x|0|1989|Puzzle|USA|Discovery Software|Discovery Software|General Audience|Cartridge|Gamepad|Genesis
+Zoop|4752|a899befa|x|0|1995|Puzzle|USA|Panelcomp|Hookstone|Everyone|Cartridge|Gamepad|Genesis
+A Bug's Life|9413|dfc3abe6|x|0|No Date|Christian|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Aa Harimadana|NOID|065f6021|x|0|1993|Sports , Wrestling|Japan|SEGA|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Aaahh!!! Real Monsters|NOID|2029f510,fdc80bfc|x|0|1995|Platformer|USA|Viacom New Media|Realtime Associates|No Rating|Cartridge|Gamepad|Genesis
+Advanced Dungeons and Dragons Warriors of the Eternal Sun|4330|af4a9cd7|x|0|1992|Role Playing Game|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Advanced Military Commander|NOID|785b8f9a|x|0|2006|Strategy|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Adventurous Boy Mao Xian Xiao Zi|NOID|d4403913|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gameplay|Genesis
+Aero the Acro-Bat|4237|f3ac3d85,a3a7a8b5|x|0|1993|Platformer|USA|SunSoft|Iguana Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Aero the Acro-Bat 2|4238|06569f95,39eb74eb|x|0|1994|Platformer|USA|SunSoft|Iguana Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Aladdin II|4240|be5f9397|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Alien III|NOID|7378c290,b327fd1b|x|0|1993|Platformer|USA|Arena|Probe Entertainment Limited|No Rating|Cartridge|Gamepad|Genesis
+Art Alive!|450|8234d13a,f1b72cdd|x|0|1991|Educational|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Asterix and the Great Rescue|4251|59ae297b,7f112cd8|x|0|1993|Platformer|USA|SEGA|Core Design Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Baby's Day Out|NOID|b2e7cc49|x|0|1994|Platformer|Prototype (USA)|Hi Tech Expressions|Jimmy Huey|No Rating|Cartridge|Gamepad|Genesis
+Back To the Future Part III|NOID|66a388c3|x|0|1991|Movie Adaption|USA|Arena|Probe Entertainment Limited|No Rating|Cartridge|Gamepad|Genesis
+Balloon Boy|NOID|51df933c|x|0|1993|Platformer|Unlicensed (USA)|Realtec|Realtec|No Rating|Cartridge|Gamepad|Genesis
+Ballz 3D the Battle of the Ballz|451|56675088,b362b705|x|0|1994|VS Fighter|USA|Accolade|PF.Magic|No Rating|Cartridge|Gamepad|Genesis
+Barbie Vacation Adventure|NOID|54eb876c,10e0ba69|x|0|1994|Action|USA|Hi Tech Expressions|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Bare Knuckle 3|NOID|68917751|x|0|2009|Beat 'em Up|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Barkley Shut Up and Jam!|4274|63fbf497,d34c435f|x|0|1993|Sports , Basketball|USA|Accolade|Accolade|No Rating|Cartridge|Gamepad|Genesis
+Bass Masters Classics|NOID|d7b02ca1|x|0|1995|Sports , Fishing|USA|Black Pearl|Black Pearl|No Rating|Cartridge|Gamepad|Genesis
+Battle Frenzy|NOID|d61eba75,f9f2bceb|x|0|1994|Action , Sci-Fi|Europe|Acclaim|Domark|No Rating|Cartridge|Gamepad|Genesis
+Battle Mania Daiginjou|NOID|fab20c39|x|0|2006|Shooter|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Battletech A Game of Armored Combat|NOID|52e36110,409e5d14|x|0|1994|Action|USA|Extreme Entertainment Group|Malibu|No Rating|Cartridge|Gamepad|Genesis
+Beavis and Butt-head|4285|2657a72b,f5d7b948|x|0|1994|Adventure|USA|Viacom New Media|Radical Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Berzerk|NOID|24ecf033|x|0|Unreleased|Maze|Homebrew|Unreleased|Paul Lee|No Rating|Cartridge|Gamepad|Genesis
+Beyond Zero Tolerance|4749|f1729a1e|x|0|Unreleased|Shooter , First|Prototype (Europe)|Unreleased|Technopop|No Rating|Cartridge|Gamepad|Genesis
+Bill Walsh College Football '95|NOID|a9d42952,a582f45a|x|0|1994|Sports , Football|USA|EA Sports|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+Bio-Hazard Battle|3874|dd10dd1a,95b0ea2b|x|0|1992|Shooter|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Bio-Ship Paladin|NOID|c511e8d2|x|0|1991|Shooter|Japan|UPL|Aisystem Tokyo|No Rating|Cartridge|Gamepad|Genesis
+Bishoujo Senshi Sailor Moon|NOID|5e246938|x|0|1993|Beat 'em Up|Japan|Ma-Ba|Ma-Ba|No Rating|Cartridge|Gamepad|Genesis
+Blades of Vengence|NOID|825bacbe,74c65a49|x|0|1993|Action|USA|Electronic Arts|Beam Software|No Rating|Cartridge|Gamepad|Genesis
+Blaster Master II|NOID|5587dfd3,cb938872,c11e4ba1|x|0|1993|Platformer|USA|SunSoft|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Block Out|NOID|f9297f83,5e2966f1|x|0|1991|Puzzle|USA|Electronic Arts|California Dreams|No Rating|Cartridge|Gamepad|Genesis
+Bonanza Bros|4290|de1a9615,20d1ad4c|x|0|1991|Action|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Brave Battle Saga Legend of the Magic Warrior|NOID|104b6ef1|x|0|2010|Role Playing Game|Translated (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Brian Lara Cricket '96|NOID|5f3dd72f,fa3024af|x|0|1996|Sports , Cricket|Europe|Codemasters|Audiogenic Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Bubba N Stix A Strategy Adventure|NOID|d45cb46f|x|0|1993|Strategy|USA|Core Design Ltd.|Core Design Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Bubble And Squeek|NOID|245370fe,28c4a006|x|0|1994|Action|USA|SunSoft|Audiogenic Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Bubsy Claws Encounters|NOID|3e30d365|x|0|1993|Platformer|USA|Accolade|Accolade|No Rating|Cartridge|Gamepad|Genesis
+Buck Rogers Countdown to Doomsday|3884|990d6753,44e3bfff|x|0|1991|Strategy|USA|Electronic Arts|SSI|No Rating|Cartridge|Gamepad|Genesis
+Bulls vs Blazers And the NBA Playoffs|NOID|110f1102,d4e4b4e8|x|0|1993|Sports , Basketball|USA|EA Sports|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+Cal Ripken Jr Baseball|NOID|9b1c96c0|x|0|1992|Sports , Baseball|USA|Mindscape|Mindscape|No Rating|Cartridge|Gamepad|Genesis
+Caliber .50|3890|44f4fa05,f4434dcd|x|0|1991|Shooter|USA|Mentrix Software, Inc.|Visco|No Rating|Cartridge|Gamepad|Genesis
+Captain Planet And the Planeteers|NOID|311d5d56,7672efa5|x|0|1993|Platformer|Europe|SEGA|NovaLogic|No Rating|Cartridge|Gamepad|Genesis
+Castle of Illusion Starring Mickey Mouse|115|bc84f08b,2895d0c2,adfde883|x|0|1990|Platformer|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Chakan the Forever Man|NOID|046a48de|x|0|1992|Platformer|USA|SEGA|Extended Play Productions|No Rating|Cartridge|Gamepad|Genesis
+Championship Pro-Am|4310|b496de28|x|0|1992|Racing , Cars|USA|Tradewest|Rare Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Chaos Engine 2|NOID|3fb045c2|x|0|Unreleased|Shooter|Prototype (Europe)|Unreleased|Bitmap Brothers|No Rating|Cartridge|Gamepad|Genesis
+Chase HQ II|NOID|50a17840,f39e4bf2|x|0|1992|Racing|USA|Taito Corporation|Taito Corporation|No Rating|Cartridge|Gamepad|Genesis
+Chess|NOID|47380edd|x|0|1998|Board Game ,|Unlicensed (Unknown)|BS Comp ltd|PADiS ltd|No Rating|Cartridge|Gamepad|Genesis
+ChuChu Rocket|NOID|9a291f00|x|0|Unreleased|Puzzle|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+ClayFighter|NOID|f80929b1,bad5c7e8,b12c1bc1|x|0|1994|VS Fighter|USA|Interplay|Ringler Studios|No Rating|Cartridge|Gamepad|Genesis
+College Football USA '96|NOID|93f5b2ae,b9075385|x|0|1995|Sports , Football|USA|EA Sports|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+College Football USA '97|NOID|2ebb90a3|x|0|1996|Sports , Football|USA|EA Sports|EA Tiburon|No Rating|Cartridge|Gamepad|Genesis
+Congo the Game|NOID|13746716|x|0|Unreleased|Shooter|Prototype (Europe)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Crayon Shin-Chan Arashi o Yobu Enji|NOID|97fc42d2|x|0|1994|Platformer|Japan|Ma-Ba|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+CrazyBus|NOID|e9a3c4d3,308a2e8e|x|0|No Date|Platformer|Pirate (Venezuela)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+CrossFire|4324|cc73f3a9|x|0|1991|Shooter|USA|Kyugo Boueki|AI|No Rating|Cartridge|Gamepad|Genesis
+Curse|NOID|a4fbf9a9|x|0|1989|Shooter|Japan|Micronet|Micronet|No Rating|Cartridge|Gamepad|Genesis
+Cutey Suzuki's Ringside Angel|NOID|7b62d910,13795dca|x|0|1990|Sports , Wrestling|USA|Asmik Ace Entertainment, Inc|Asmik Corporation of America|No Rating|Cartridge|Gamepad|Genesis
+Cutie Suzuki no Ringside Angel|NOID|No CRC|x|0|1990|Sports , Wrestling|Japan|MAsmik Ace Entertainment, Inc|Asmik Corporation of America|No Rating|Cartridge|Gamepad|Genesis
+Cutthroat Island|4325|ebabbc70|x|0|1995|Action|USA|Acclaim|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Cyber-Cop|468|0f34d75c,01e719c8|x|0|1992|Action|USA|Virgin Games|Core Design Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Cyberball|4326|8fbea6ea,76120e96|x|0|1990|Sports , Football|USA|SEGA|Tengen|No Rating|Cartridge|Gamepad|Genesis
+Dahna Megami Tanjou|NOID|4602584f|x|0|1991|Shooter|Japan|IGS|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Dangerous Seed|NOID|a2990031|x|0|1990|Shooter|USA|Namco|Namco|No Rating|Cartridge|Gamepad|Genesis
+Darwin 4081|NOID|7a33b0cb|x|0|No Date|Shooter|Japan|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Davis Cup World Tour Tennis|4329|5ba3ac9b,894686f0|x|0|1993|Sports , Tennis|USA|Tengen|Loriciels|No Rating|Cartridge|Gamepad|Genesis
+Davis Cup World Tour Tennis II|NOID|c8a1a655,76f2bed8|x|0|No Date|Sports , Tennis|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Daze Before Christmas|NOID|317c9491,b95e25c9|x|0|1994|Platformer|Unlicensed (Australia)|SunSoft|Funcom|No Rating|Cartridge|Gamepad|Genesis
+Decap Attack|NOID|5de606c4,73dc0dd8|x|0|1990|Platformer|USA|SEGA|Vic Tokai|No Rating|Cartridge|Gamepad|Genesis
+Devil Hunter Yohko|NOID|10bb359b|x|0|1991|Platformer|Japan|NCS|KLON|No Rating|Cartridge|Gamepad|Genesis
+Dick Vitale's College Hoops|NOID|0d0d7953,1312cf22|x|0|1994|Sports , Basketball|USA|Time Warner Interactive|Time Warner Interactive|No Rating|Cartridge|Gamepad|Genesis
+Dinosaurs for Hire|2216|072fcd5a,39351146|x|0|1993|Action|USA|SEGA|Malibu|No Rating|Cartridge|Gamepad|Genesis
+Disney's Aladdin|157|2ef50542,7cf79841,ed427ea9|x|0|1993|Platformer|USA|SEGA|Virgin Interactive|No Rating|Cartridge|Gamepad|Genesis
+Disney's Ariel The Little Mermaid|449|db43202d,58e297df|x|0|1992|Action|USA|SEGA|Bluesky Innovations|No Rating|Cartridge|Gamepad|Genesis
+Disney's Beauty and The Beast Belle's Quest|4284|c8411304,befb6fae|x|0|1993|Platformer|USA|SunSoft|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Disney's Beauty and The Beast Roar of the Beast|684|464e0ae4,13e7b519|x|0|1993|Platformer|USA|SunSoft|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Disney's Bonkers|4291|d1e66017|x|0|1994|Platformer|USA|Capcom|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Disney's Mulan|NOID|d801b441|x|0|Unreleased|Platformer|Prototype (USA)|Unreleased|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Disney's Pinocchio|4559|cd4128d8|x|0|1995|Platformer|USA|SEGA|Virgin Interactive|No Rating|Cartridge|Gamepad|Genesis
+Disney's Pocahontas|4560|6ddd1c6d|x|0|1996|Platformer|USA|Disney Interactive|Funcom|No Rating|Cartridge|Gamepad|Genesis
+Disney's The Jungle Book|1578|0b453e2f,3fb6d92e|x|0|1994|Platformer|USA|Virgin Interactive|Eurocom Entertainment Software|No Rating|Cartridge|Gamepad|Genesis
+Disney's the Lion King|669|4252dfc5,5696a5bc|x|0|1994|Action|USA|Virgin Interactive|Westwood Studios|No Rating|Cartridge|Gamepad|Genesis
+Dominus|NOID|66c35d72,10041ac8|x|0|1994|Strategy|Unlicensed|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Donald Duck in Maui Mallard|NOID|b2dd857f|x|0|1992|Platformer|Europe|SEGA|Eurocom Entertainment Software|No Rating|Cartridge|Gamepad|Genesis
+Doom Troopers the Mutant Chronicles|NOID|67a0d5e0,11194414|x|0|1995|Action|USA|Playmates|Adrenalin Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Double Dragon II the Revenge|NOID|a8bfdbd6|x|0|1991|Beat 'em Up|Japan|PalSoft|Technos Japan|No Rating|Cartridge|Gamepad|Genesis
+Double Dragon III the Arcade Game|NOID|b36ab75c|x|0|1992|Beat 'em Up|USA|Flying Edge|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Dr Robotnik's Mean Bean Machine|NOID|c7ca517f|x|0|1993|Puzzle|USA|SEGA|Compile|No Rating|Cartridge|Gamepad|Genesis
+Dragon Ball Z L'Appel du Destin|NOID|f035c737,877b4e2a|x|0|1994|VS Fighter|Europe|Bandai|TOSE|No Rating|Cartridge|Gamepad|Genesis
+Dragon's Eye Plus Shanghai III|NOID|81f0c3cf|x|0|No Date|Puzzle|Japan|Home Data|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Duke Nukem 3D|NOID|6bd2accb|x|0|1998|Shooter , First|Pirate (Brazil)|Tec Toy|Tec Toy|No Rating|Cartridge|Gamepad|Genesis
+Dune The Battle for Arrakis|4349|937f8050,4dea40ba|x|0|1993|Strategy|USA|Virgin Interactive|Westwood Studios|No Rating|Cartridge|Gamepad|Genesis
+Dyno Blaze|NOID|d625e584|x|0|Unreleased|VS Fighter|Prototype (USA)|Unpublished|Bonsai Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Earth Defend|NOID|3519c422|x|0|1995|Shooter|Unlicensed (USA)|Realtec|Realtec|No Rating|Cartridge|Gamepad|Genesis
+Earthworm Jim II|NOID|35f29fc0,d57f8ba7|x|0|1995|Platformer|USA|Playmates|Shiny Entertainment|No Rating|Cartridge|Gamepad|Genesis
+ECCO II|NOID|b5d64817|x|0|Unreleased|Sports , Tennis|Prototype (USA)|Unreleased|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Ecco the Dolphin|2900|45547390,479430b1|x|0|1993|Action|USA|SEGA|Novotrade International|No Rating|Cartridge|Gamepad|Genesis
+Ecco The Tides of Time|4354|7b1bf89c,ccb21f98|x|0|1994|Action|USA|SEGA|Novotrade International|No Rating|Cartridge|Gamepad|Genesis
+El Viento|4356|53f0e771,070a1ceb|x|0|1991|Platformer|USA|Renovation|Wolf Team|No Rating|Cartridge|Gamepad|Genesis
+Elf Wor|NOID|e24ac6b2|x|0|No Date|Action|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Eliminate Down|18739|48467542|x|0|1993|Shooter|Japan|Soft Vision International|Aprinet|No Rating|Cartridge|Gamepad|Genesis
+ESPN Baseball Tonight Pennant Fever Edition|NOID|e88772c8,96d8440c|x|0|1995|Sports , Baseball|USA|Sony Interactive Studios America|Park Place Productions|No Rating|Cartridge|Gamepad|Genesis
+ESPN Speedworld|NOID|4e1cb3eb,f50be478|x|0|1994|Racing , Cars|USA|Sony Imagesoft|Park Place Productions|No Rating|Cartridge|Gamepad|Genesis
+ESWAT Cyber Police City Under Siege|NOID|773659eb,e72f8a36|x|0|1990|Platformer|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Evander Holyfield's Real Deal Boxing|NOID|3581aa52,4fef37c8|x|0|1992|Sports , Boxing|USA|SEGA|ACME Interactive|No Rating|Cartridge|Gamepad|Genesis
+EXO-Squad|NOID|40954e90,10ec03f3|x|0|1995|Action|USA|Playmates|Novotrade|No Rating|Cartridge|Gamepad|Genesis
+F-117 Stealth Operation Night Storm|NOID|e2cfad05,1bf67a07|x|0|1993|Flight Simulator ,|USA|Electronic Arts|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+F1 Circus MD|NOID|5d30befb|x|0|1991|Racing|Japan|Nichibutsu|Nihon Bussan|No Rating|Cartridge|Gamepad|Genesis
+Fastest 1|NOID|bb43f0de|x|0|1991|Racing , Cars|Japan|Human Entertainment|Human Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Fatal Fury II|NOID|ac5d7610,1b1754cb|x|0|1994|VS Fighter|USA|TAKARA Co., Ltd.|SNK Corporation|No Rating|Cartridge|Gamepad|Genesis
+Ferias Frustradas Do Pica Pau|NOID|7b2e416d|x|0|No Date|Platformer|Pirate (Brazil)|Tec Toy|Tec Toy|No Rating|Cartridge|Gamepad|Genesis
+Fido Dido|13675|c6d4a240|x|0|1993|Platformer|USA|Kaneko|Teeny Weeny Games|No Rating|Cartridge|Gamepad|Genesis
+FIFA Soccer '95|NOID|8a8227e0,b389d036|x|0|1994|Sports , Football|USA|Electronic Arts|Extended Play|No Rating|Cartridge|Gamepad|Genesis
+FIFA Soccer '96|NOID|bad30ffa|x|0|1995|Sports , Football|USA|EA Sports|Extended Play Productions|No Rating|Cartridge|Gamepad|Genesis
+FIFA Soccer '97 Gold Edition|NOID|0b50017e,a33d5803|x|0|1996|Sports , Football|USA|Electronic Arts|Extended Play|No Rating|Cartridge|Gamepad|Genesis
+FIFA Soccer '98 Road to World Cup|NOID|96947f57|x|0|1997|Sports , Football|USA|Electronic Arts|EA Canada|No Rating|Cartridge|Gamepad|Genesis
+FIFA Soccer 2000 Gold Edition|NOID|647df504|x|0|No Date|Action|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Fire Mustang|10802|eb7e36c3|x|0|1991|Shoot 'em Up|Japan|Taito|NMK|No Rating|Cartridge|Gamepad|Genesis
+Flashback The Quest for Identity|4378|27d415a5,23a9616d,6f311c83|x|0|1993|Platformer|USA|U.S. Gold|Delphine Software|No Rating|Cartridge|Gamepad|Genesis
+Foreman For Real|4380|77075b1e,36248f90|x|0|1995|Sports , Boxing|USA|Acclaim|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Fun Car Rally|NOID|e29995bb,42e27845|x|0|Unreleased|Racing , Cars|Prototype (USA)|Unreleased|Accolade|No Rating|Cartridge|Gamepad|Genesis
+Fun'n'Games|NOID|fb038e87,b5ae351d|x|0|1993|Educational|USA|Tradewest|Leland Interactive Media|No Rating|Cartridge|Gamepad|Genesis
+G-LOC Air Battle|4396|ef3749da,f2af886e|x|0|1990|Flight Simulator|USA|SEGA|SEGA-AM2|No Rating|Cartridge|Gamepad|Genesis
+Genghis Khan II Clan of Gray Wolf|NOID|b661f984,87a281ae|x|0|1993|Strategy , Turnbased|USA|Koei|Koei|No Rating|Cartridge|Gamepad|Genesis
+Ghost Hunter|NOID|05d07acf,76c62a8b|x|0|1994|Sports , Boxing|Unlicensed (Unknown Region)|Senchi Technology|Senchi Technology|No Rating|Cartridge|Gamepad|Genesis
+Gleylancer|NOID|1b744d15|x|0|2007|Shooter|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Gods|4397|c5ecc54f,fd234ccd|x|0|1992|Platformer|USA|Mindscape|Bitmap Brothers/Graftgold|No Rating|Cartridge|Gamepad|Genesis
+Golden Axe III|968|c7862ea3,44f6a48f|x|0|1993|Beat 'em Up|Japan|SEGA|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Gouketuji Ichizoku|NOID|abe9c415|x|0|1994|VS Fighter|Japan|Atlus Co.|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Greatest Heavyweights of the Ring|NOID|6e3621d5|x|0|1993|Sports , Boxing|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+GRIND Stormer|4401|29ea9a6a,7e6bef15|x|0|1994|Shoot 'em Up|USA|Tengen|Toaplan|No Rating|Cartridge|Gamepad|Genesis
+Gynoug|18740|03405102|x|0|1991|Shooter|Europe|SEGA|NCS|No Rating|Cartridge|Gamepad|Genesis
+HardBall '94|4445|83fcf261|x|0|1994|Sports , Baseball|USA|Accolade|MindSpan|No Rating|Cartridge|Gamepad|Genesis
+HardBall '95|4446|343229f8,5ba25382|x|0|1995|Sports , Baseball|USA|Accolade|MindSpan|No Rating|Cartridge|Gamepad|Genesis
+HardBall III|4444|2c7b1f5f,a4f2f011|x|0|1993|Sports , Baseball|USA|Accolade|MindSpan|No Rating|Cartridge|Gamepad|Genesis
+HardBall!|4447|525cebe6,bd1b9a04|x|0|1991|Sports , Baseball|USA|Ballistic|Accolade|No Rating|Cartridge|Gamepad|Genesis
+Harry Potter|NOID|a184fc76|x|0|No Date|Action|Pirate (Russian)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Haunting Starring Polterguy|484|cf71d5b2,c9fc876d|x|0|1993|Action|USA|Electronic Arts|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+Head-On Soccer|4448|d4f91423,dcffa327|x|0|1995|Sports , Football|USA|U.S. Gold|U.S. Gold|No Rating|Cartridge|Gamepad|Genesis
+Heavy Unit Mega Drive Special|NOID|1acbe608|x|0|1988|Shoot 'em Up|Japan|Toho|Toho|No Rating|Cartridge|Gamepad|Genesis
+Hercules 2|NOID|292623db|x|0|No Date|Action|Pirate (Unknown Region)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Herzog Zwei 100 Year War Edition|NOID|8e111f11|x|0|2008|Strategy|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Herzog Zwei Bloodbath Edition|NOID|2569021d|x|0|2008|Strategy|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Home Alone II Lost in New York|NOID|cbf87c14|x|0|1993|Action|USA|THQ|Imagineering|No Rating|Cartridge|Gamepad|Genesis
+Honoo no Doukyuuji Dodge Danpei|NOID|630f07c6|x|0|1992|Sports , Dodgeball|Japan|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Indiana Jones and the Last Crusade|4455|b9f9187e,3599a3fd|x|0|1992|Action|USA|U.S. Gold|Tiertex Design Studios|No Rating|Cartridge|Gamepad|Genesis
+Insane Paradise|NOID|8d40d64f|x|0|No Date|Action|Pirate (Unknown Region)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Instruments of Chaos starring Young Indiana Jones|4744|bbeb9ce0,4e384ef0|x|0|1994|Platformer|USA|SEGA|Waterman Design|No Rating|Cartridge|Gamepad|Genesis
+International Sensible Soccer LE World Champions|NOID|04e3bcca|x|0|1994|Sports , Soccer|Europe|Sony Imagesoft|Sensible Software|No Rating|Cartridge|Gamepad|Genesis
+Iraq War 2003|NOID|49dd6f52|x|0|No Date|Action|Pirate (Unknown Region)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Ishido The Way of the Stones|4456|b1de7d5e|x|0|1990|Puzzle|USA|Accolade|Accolade|No Rating|Cartridge|Gamepad|Genesis
+It Came From the Desert|NOID|8b652fd7,25AFB4F7|x|0|Unreleased|Action|Prototype (USA)|None|New World Computing|No Rating|Cartridge|Gamepad|Genesis
+Izzy's Quest for the Olympic Rings|4457|a14f8a10,77b416e4|x|0|1995|Platformer|USA|U.S. Gold|Alexandria|No Rating|Cartridge|Gamepad|Genesis
+James Buster Douglas KO Boxing|NOID|ea8f499e,87bbcf2a|x|0|1990|Sports , Boxing|USA|Taito|Taito|No Rating|Cartridge|Gamepad|Genesis
+James Pond III Operation Starfish|NOID|9d61ed79,26f64b2a|x|0|1993|Platformer|USA|Electronic Arts|Millennium Interactive|No Rating|Cartridge|Gamepad|Genesis
+Jelly Boy|NOID|7a3bf0a0,7cfadc16|x|0|1991|Platformer|Protoype (Europe)|Ocean Software|Probe Software|No Rating|Cartridge|Gamepad|Genesis
+Jim Power the Arcade Game|NOID|7cc88762,1cf3238b|x|0|Unreleased|Shoot 'em Up|Prototype (USA)|Loriciels|Loriciels|No Rating|Cartridge|Gamepad|Genesis
+Joe and Mac Caveman Ninja|17156|85bcc1c7|x|0|1994|Platformer|USA|Elite Systems|Data East|No Rating|Cartridge|Gamepad|Genesis
+Joe Montana NFL '94|NOID|d4991d9f,0d486ed5|x|0|1993|Sports , Football|USA|SEGA|Bluesky Innovations|No Rating|Cartridge|Gamepad|Genesis
+Joe Montana Sports Talk Football|NOID|d7d1dfc9,ce0b1fe1|x|0|1991|Sports , Football|USA|SEGA|BlueSky Software|No Rating|Cartridge|Gamepad|Genesis
+Joe Montana Sports Talk Football II|NOID|a4c52590,a45da893|x|0|1994|Sports , Football|USA|SEGA|BlueSky Software, Inc.|No Rating|Cartridge|Gamepad|Genesis
+John Madden Football '93 Championship Edition|NOID|a2a05241,ca534b1a|x|0|1992|Sports , Football|USA|EA Sports|Looking Glass Studios|No Rating|Cartridge|Gamepad|Genesis
+Jordan vs Bird Super One-on-one|NOID|713bc4e0,22d77e6d,4d3ddd7c|x|0|1992|Sports , Basketball|USA|Electronic Arts|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+Journey from Darkness Strider Returns|2650|42589b79,289fa863,e85e5270|x|0|1993|Platformer|USA|U.S. Gold Ltd.|Tiertex Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Judge Dredd the Movie|NOID|4f10dbc3,ea342ed8|x|0|1995|Movie Adaption|USA|Acclaim Entertainment|Probe Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Jurassic Park II the Lost World|NOID|140a284c|x|0|1997|Platformer|USA|SEGA|Appaloosa Interactive|No Rating|Cartridge|Gamepad|Genesis
+Kick Off III European Challenge|NOID|bc37401a|x|0|1994|Sports , Soccer|Europe|Vic Tokai|Anco Software|No Rating|Cartridge|Gamepad|Genesis
+King Colossus|NOID|016afd40|x|0|2006|Role Playing Game|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+King of Fighters '98|NOID|c79e1074,cbc38eea|x|0|No Date|VS Fighter|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+King of the Monsters II|NOID|8c675cb8,ee1638ac|x|0|1994|VS Fighter|USA|Takara|SNK|No Rating|Cartridge|Gamepad|Genesis
+Klax|539|248cd09e|x|0|1990|Puzzle|USA|Tengen|Tengen|No Rating|Cartridge|Gamepad|Genesis
+Knuckles in Sonic the Hedgehog|114|57a6ddb3|x|0|2005|Platformer|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Kokushin|NOID|6ba670f2|x|0|Unreleased|Shooter|Homebrew|Unreleased|Koutetsu Teikoku|No Rating|Cartridge|Gamepad|Genesis
+Lakers vs Celtics and the NBA Playoffs|NOID|56ae995b,0e33fc75|x|0|1991|Sports , Basketball|USA|Electronic Arts|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+Landstalker the Treasures of King Nole|NOID|b4191bab,fbbb5b97,70483d03,e4726691|x|0|1993|Role Playing Game|USA|SEGA|Climax Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Langrisser II|2652|c68aa624,bfed56a7|x|0|2008|Role Playing Game|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Lemmings II the Tribes|NOID|630ad549,de59a3a3|x|0|1994|Puzzle|USA|Psygnosis|DMA Design|No Rating|Cartridge|Gamepad|Genesis
+Liberty or Death|4487|6d00be04,2adb0364|x|0|1992|Strategy , Turnbased|USA|Koei|Koei|No Rating|Cartridge|Gamepad|Genesis
+Lightening Force Quest for Darkstar|NOID|c8f8c0e0|x|0|1992|Role Playing Game|USA|TechnoSoft|TechnoSoft|No Rating|Cartridge|Gamepad|Genesis
+Link Dragon|NOID|1b86e623|x|0|1993|Puzzle|Pirate (China)|No Publisher|Jumbo Team|No Rating|Cartridge|Gamepad|Genesis
+Lion King II|NOID|721b4981|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Lion King III|NOID|8e0555e4|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Lobo|NOID|b5e09338|x|0|Unreleased|VS Fighter|Prototype (USA)|Ocean|Ocean|No Rating|Cartridge|Gamepad|Genesis
+M.U.S.H.A.|NOID|e3624678,8fde18ab|x|0|1990|Shoot 'em Up|USA|Seismic|Compile|No Rating|Cartridge|Gamepad|Genesis
+Madden NFL '95|632|0204abb8,db0be0c2|x|0|1994|Sports , Football|USA|Electronic Arts|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+Madden NFL '96|NOID|f126918b|x|0|1995|Sports , Football|USA|EA Sports|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+Madden NFL '97|NOID|c4b4e112|x|0|1996|Sports , Football|USA|EA Sports|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+Madden NFL '98|NOID|e051ea62|x|0|1997|Sports , Football|USA|EA Sports|Tiertex Design Studios|No Rating|Cartridge|Gamepad|Genesis
+Magic Bubble|NOID|503e0718|x|0|1993|Puzzle|Unlicensed (China)|C&E|C&E|No Rating|Cartridge|Gamepad|Genesis
+Magic Girl|NOID|22e45b9f,e849a92e,be49a92e,8e49a92e|x|0|No Date|Shoot 'em Up|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Magical * Taru Ruto-Kun|NOID|f11060a5|x|0|1992|Platformer|Japan|SEGA|Game Freak|No Rating|Cartridge|Gamepad|Genesis
+Marko's Magic Football|4496|2b8c8cce|x|0|1994|Platformer|USA|Domark|The Kremlin|No Rating|Cartridge|Gamepad|Genesis
+Master of Weapon|NOID|12ad6178|x|0|1991|Shoot 'em Up|Japan|Taito Corporation|Taito Corporation|No Rating|Cartridge|Gamepad|Genesis
+Math Blaster Episode I|634|d055a462|x|0|1994|Educational|USA|Davidson & Associates|Western Technologies, Inc.|No Rating|Cartridge|Gamepad|Genesis
+McDonald's Treasure Land Adventure|636|246d5938,04ef4899|x|0|1993|Beat 'em Up|USA|SEGA|Treasure|No Rating|Cartridge|Gamepad|Genesis
+Mega Bomberman 8 Player Demo|NOID|2a45e948,d41c0d81|x|0|No Date|Action , Top|Prototype (USA)|Prototype|Factor 5|No Rating|Cartridge|Gamepad|Genesis
+MegaPanel|NOID|6240f579|x|0|1990|Puzzle|Japan|Namco|Namco|No Rating|Cartridge|Gamepad|Genesis
+Mercs|4501|442b51d3,16113a72|x|0|1991|Action , Run|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Mick and Mack as the Global Gladiators|4502|a9c4f774,40f17bb3,08c2af21|x|0|1992|Platformer|USA|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Gamepad|Genesis
+Micro Machines II Turbo Tournament|NOID|38d215d4,b1759d95,01c22a5d,42bfb7eb|x|0|1994|Racing , Top|Europe|Codemasters|Codemasters|No Rating|Cartridge|Gamepad|Genesis
+Micro Machines Turbo Tournament '96|NOID|d9968727,3137b3c4|x|0|1995|Racing , Top|Europe|Codemasters|Supersonic Software|No Rating|Cartridge|Gamepad|Genesis
+MIG-29 Fighter Pilot|4505|3688511a,59ccabb2|x|0|1993|Flight Simulator|USA|Domark|Tiertex Design Studios|No Rating|Cartridge|Gamepad|Genesis
+Might And Magic II Gates to Another World|4506|890636f2,f509145f|x|0|1991|Role Playing Game|USA|Electronic Arts|New World Computing|No Rating|Cartridge|Gamepad|Genesis
+Might And Magic III Isles of Terra|NOID|58fcd069,e2af0c6f,6ef7104a|x|0|1995|Role Playing Game|Prototype (USA)|FCI|Iguana Entertainment|No Rating|Cartridge|Gamepad|Genesis
+MLBPA Sports Talk Baseball|700|0deb79c2|x|0|1992|Sports , Baseball|USA|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Monster World IV|2649|5980acc1,c94a35bf|x|0|2001|Action , Adventure|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Mortal Kombat II Unlimited|NOID|8a1c9cf2|x|0|2009|VS Fighter|USA (Update Hacks)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Mortal Kombat V|NOID|11e367a1,41203006|x|0|No Date|VS Fighter|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Mr Nutz|NOID|88dc36a9,0786ea0b|x|0|1994|Platformer|Europe|Ocean|Ocean|No Rating|Cartridge|Gamepad|Genesis
+NBA Allstar Challenge|NOID|5ddef27f,c4674adf|x|0|1992|Sports , Basketball|USA|Flying Edge|Beam Software|No Rating|Cartridge|Gamepad|Genesis
+NBA Live '95|NOID|18c180f0,66018abc|x|0|1994|Sports , Basketball|USA|EA Sports|Hitmen Productions|No Rating|Cartridge|Gamepad|Genesis
+NBA Live '96|NOID|71971aa0,49de0062|x|0|1995|Sports , Basketball|USA|Electronic Arts|Hitmen Productions|No Rating|Cartridge|Gamepad|Genesis
+NBA Live '97|NOID|7024843a|x|0|1996|Sports , Basketball|USA|EA Sports|NuFX|No Rating|Cartridge|Gamepad|Genesis
+NBA Live '98|NOID|23473a8a|x|0|1997|Sports , Basketball|USA|EA Sports|NuFX|No Rating|Cartridge|Gamepad|Genesis
+NCAA College Football|NOID|2f316972,081012f0|x|0|1994|Sports , Football|USA|Mindscape|Mindscape|No Rating|Cartridge|Gamepad|Genesis
+NCAA Final Four College Basketball|NOID|72c9c60d,ed0c1303|x|0|1994|Sports , Basketball|USA|Mindscape|Bitmasters|No Rating|Cartridge|Gamepad|Genesis
+NEW Sonic the Hedgehog|114|2f59b3af|x|0|2008|Platformer|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+New Zealand Story|NOID|1c77ad21|x|0|1990|Platformer|Japan|Taito Corporation|Taito Corporation|No Rating|Cartridge|Gamepad|Genesis
+Newman-Haas IndyCar Racing|NOID|6b5e98ef,1233a229|x|0|1994|Racing|USA|Acclaim|Gremlin Interactive|No Rating|Cartridge|Gamepad|Genesis
+NFL '98|NOID|f73ec54c|x|0|1997|Sports , Football|USA|EA Sports|Tiertex Design Studios|No Rating|Cartridge|Gamepad|Genesis
+NFL Quarterback Club '96|4529|b26b7865|x|0|1996|Sports , Football|USA|Acclaim|Iguana Entertainment|No Rating|Cartridge|Gamepad|Genesis
+NHL Hockey '94|NOID|f268ebd2,9438f5dd|x|0|1993|Sports , Hockey|USA|Electronic Arts|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+NHL Hockey '95|NOID|0de8c48e,e8ee917e|x|0|1995|Sports , Hockey|USA|Electronic Arts|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+NHL Hockey '96|NOID|a04d8a4a,8135702c|x|0|1995|Sports , Hockey|USA|Electronic Arts|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+NHL Hockey '97|NOID|4ef9775e,f067c103|x|0|1996|Sports , Hockey|USA|EA Sports|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+NHL Hockey '98|NOID|7b64cd98,04f6db0f|x|0|1997|Sports , Hockey|USA|EA Sports|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+NHLPA Hockey '93|664|4c03e6ec,f361d0bf,cbbf4262|x|0|1992|Sports , Hockey|USA|EA Sports|Park Place Productions|No Rating|Cartridge|Gamepad|Genesis
+Nightmare Circus|NOID|a93d39b6,06da3217|x|0|1995|Beat 'em Up|USA|SEGA|Funcom|No Rating|Cartridge|Gamepad|Genesis
+Ninja Gaiden|18828|0d7f74ba|x|0|1992|Beat 'em Up|Prototype (Japan)|Unreleased|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Olympic Gold Barcelona '92|18701|7c000ebc,339594b4,af639376|x|0|1992|Sports , Competitive|USA|U.S. Gold|U.S. Gold|No Rating|Cartridge|Gamepad|Genesis
+Olympic Summer Games Atlanta '96|NOID|1bc99537,9e470fb9|x|0|1996|Sports , Competitive|USA|Black Pearl|Tiertex Design Studios|No Rating|Cartridge|Gamepad|Genesis
+Olympic Winter Games Lillehammer '94|NOID|c5834437|x|0|1993|Sports , Competitive|USA|U.S. Gold|U.S. Gold|No Rating|Cartridge|Gamepad|Genesis
+Platform Sega Genesis|NOID|No CRC|x|0|2006|Strategy|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Osomatsu-kun Hachamecha Gekijou|NOID|2453350c|x|0|1988|Platformer|Japan|SEGA|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Pac-Man II the New Adventures|NOID|9c00bb2c,fe7a7ed1|x|0|1994|Maze|USA|Namco|Namco|No Rating|Cartridge|Gamepad|Genesis
+Pacific Theater of Operations|NOID|b92b0690,d9d4c6e2|x|0|1993|Strategy , Turnbased|USA|Koei|Koei|No Rating|Cartridge|Gamepad|Genesis
+Panorama Cotton|NOID|9e57d92e|x|0|1994|Shooter|Japan|SunSoft|Success|No Rating|Cartridge|Gamepad|Genesis
+Paperboy II|NOID|2f84cb7c,1de28bb1|x|0|1992|Shooter|USA|Tengen|Tengen|No Rating|Cartridge|Gamepad|Genesis
+Pepenga Pengo|NOID|d1e2324b|x|0|1995|Puzzle|Japan|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+PGA Tour '96|NOID|9448a5c1,9698bbde|x|0|1995|Sports , Golf|USA|EA Sports|NuFX|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star 2 Anne's Adventure|NOID|81d7ef8b|x|0|2007|Role Playing Game|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star 2 Huey's Adventure|NOID|cd012be4|x|0|2008|Role Playing Game|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star 2 Kind's Adventure|NOID|cfe19ce4,6261be66|x|0|2008|Role Playing Game|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star 2 Shilka's Adventure|NOID|fc3f3624,b909d7cc|x|0|2007|Role Playing Game|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star II Evil Overload|NOID|4f5dafb3|x|0|2007|Role Playing Game|USA (Update Hacks)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star II Numan Revolution|NOID|039b47a7|x|0|2007|Role Playing Game|USA (Update Hacks)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star III Generation of Doom|NOID|55048689,54d99a4f,c6b42b0f|x|0|1990|Role Playing Game|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Phantasy Star IV Arranged Version|NOID|3363b296|x|0|2008|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Pink Goes to Hollywood|2489|b5804771,56087cff|x|0|1993|Platformer|USA|TecMagik|HeadGames|No Rating|Cartridge|Gamepad|Genesis
+Pitfall! the Mayan Adventure|NOID|a3c8403a,f917e34f|x|0|1994|Platformer|USA|Activision|Activision|No Rating|Cartridge|Gamepad|Genesis
+Pocket Monster|NOID|5c8dadd8|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Pocket Monster II|NOID|c0f348eb|x|0|No Date|Platformer|Pirate (Hong Kong)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Pokemon Crazy Drummer|NOID|8838a25d|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Pokemon Stadium|NOID|7ebac09a|x|0|No Date|Action|Pirate (Unknown Region)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Populous II Two Tribes|NOID|7968e6cd,ee988bd9|x|0|1993|Strategy , Realtime|Europe|Virgin Interactive|Panelcomp|No Rating|Cartridge|Gamepad|Genesis
+Premier Manager '97|NOID|fccbf69b|x|0|1996|Shoot 'em Up|Europe|SEGA|Gremlin Interactive|No Rating|Cartridge|Gamepad|Genesis
+Prime Time NFL with Deion Sanders|NOID|5aa53cbc|x|0|1995|Sports , Football|USA|SEGA|Farsight Technologies|No Rating|Cartridge|Gamepad|Genesis
+Prince of Persia 2|NOID|3ab44d46|x|0|No Date|Platformer|Prototype (Europe)|Unreleased|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Pulseman|14961|a8e0de99|x|0|2007|Platformer|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Puyo Puyo|NOID|7f26614e,0bdf9bba|x|0|1992|Puzzle|Japan|SEGA|Compile|No Rating|Cartridge|Gamepad|Genesis
+Puyo Puyo II|NOID|25b7b2aa,51ad7797|x|0|1994|Puzzle|Japan|Compile|Compile|No Rating|Cartridge|Gamepad|Genesis
+Quackshot Starring Donald Duck|4581|4106a65b,49afed9b,1801098b,a5c946b3|x|0|1991|Platformer|USA|SEGA|Disney Interactive|No Rating|Cartridge|Gamepad|Genesis
+Rainbow Islands Bubble Bobble II|NOID|416332a2,c74dcb35|x|0|1987|Platformer|Japan|Taito|Taito|No Rating|Cartridge|Gamepad|Genesis
+Ranger-X|NOID|9656fdb3,55915915|x|0|1993|Platformer|USA|SEGA|GAU Entertainment|No Rating|Cartridge|Gamepad|Genesis
+RBI Baseball '93|NOID|201f76d4,beafce84|x|0|1993|Sports , Baseball|USA|Tengen|Tengen|No Rating|Cartridge|Gamepad|Genesis
+RBI Baseball '94|NOID|4eb4d5e4|x|0|1994|Sports , Baseball|USA|Tengen|Atari Games|No Rating|Cartridge|Gamepad|Genesis
+RBI Baseball III|NOID|273052f6,4840348c|x|0|1991|Sports , Baseball|USA|Tengen|Tengen|No Rating|Cartridge|Gamepad|Genesis
+RBI Baseball IV|NOID|330bfd25,fecf9b94|x|0|1992|Sports , Baseball|USA|Tengen|Tengen|No Rating|Cartridge|Gamepad|Genesis
+Ren and Stimpy Stimpy's Invention|NOID|d9503ba5|x|0|1993|Platformer , Action|USA|SEGA|Blue Sky Software|No Rating|Cartridge|Gamepad|Genesis
+ResQ|NOID|558e35e0|x|0|1993|Platformer|Prototype (USA)|Psygnosis|Tempest Software|No Rating|Cartridge|Gamepad|Genesis
+Richard Scarry's Busytown|4594|e021d676,7bb60c3f|x|0|1993|Educational|USA|Simon & Schuster|Pearson Software|No Rating|Cartridge|Gamepad|Genesis
+Rings of Power the Hand of Nexus|NOID|b9112e4b|x|0|2008|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Risk|683|01c8b8eb,80416d0d|x|0|1994|Board Game|USA|Parker Bros|Sculptured Software|No Rating|Cartridge|Gamepad|Genesis
+Ristar the Shooting Star|NOID|7284ee98,6511aa61|x|0|1995|Platformer|USA|SEGA|Sonic Team|No Rating|Cartridge|Gamepad|Genesis
+Road Blasters|NOID|17662a83,ec6cd5f0|x|0|1991|Racing , Cars|USA|Tengen|Sterling Silver Software|No Rating|Cartridge|Gamepad|Genesis
+Road Rash III|NOID|319373aa,15785956|x|0|1995|Racing|USA|Electronic Arts|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+RoboCop III|NOID|34fb7b27|x|0|1993|Racing|USA|Flying Edge, Inc.|Ocean Software Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Robocop vs the Terminator|4600|ecebff29,bbad77a4|x|0|1993|Racing|USA|Virgin Games|Interplay Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Robot Wreckage|NOID|c67ddb14|x|0|1993|Platformer|Prototype (USA)|Unreleased|Novotrade|No Rating|Cartridge|Gamepad|Genesis
+Robotnik's Revenge|NOID|9e750896|x|0|2008|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Rock N' Roll Racing|4601|647203b5,6abab577|x|0|1993|Racing|USA|Interplay Entertainment|Silicon & Synapse|No Rating|Cartridge|Gamepad|Genesis
+Rockman X3|4605|4467b527|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Roger Clements' MVP Baseball|NOID|83699e34|x|0|1992|Sports , Baseball|USA|Flying Edge|Sculptured Software|No Rating|Cartridge|Gamepad|Genesis
+Rolling Thunder II|NOID|e63624ef,3ace429b|x|0|1992|Sports , Baseball|USA|Namco|Namco|No Rating|Cartridge|Gamepad|Genesis
+Rolling Thunder III|NOID|64fb13aa|x|0|1993|Sports , Baseball|USA|Namco|Namco|No Rating|Cartridge|Gamepad|Genesis
+Rolo to the Rescue|4606|abf9caf5,306861a2|x|0|1992|Platformer|USA|Electronic Arts|Vectordean|No Rating|Cartridge|Gamepad|Genesis
+Rugby World Cup '95|NOID|aae98ea1,61f90a8a|x|0|1994|Sports , Rugby|USA|Electronic Arts, Inc.|Electronic Arts, Inc.|No Rating|Cartridge|Gamepad|Genesis
+S.S. Lucifer Man Overboard!|NOID|f7b90ff4,cae0e3a6|x|0|1993|Platformer|Europe|Zeppelin Premier|Zeppelin Games|No Rating|Cartridge|Gamepad|Genesis
+Sampras Tennis '96|NOID|2a74f0e5,14e3fb7b|x|0|1995|Sports , Tennis|Europe|Codemasters|Codemasters|No Rating|Cartridge|Gamepad|Genesis
+Samurai Spirits|NOID|dde8c55d|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gameplay|Genesis
+Saturday Night Slam Masters|4610|2fb4eaba|x|0|1994|Sports , Wrestling|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|Genesis
+Scholastic's The Magic School Bus Space Exploration Game|711|0fc357aa,1a5d4412|x|0|1995|Sports , Wrestling|USA|SEGA|Novotrade International|No Rating|Cartridge|Gamepad|Genesis
+Scooby Doo Mystery|NOID|cf7f985e,7bb9dd9b|x|0|1995|Sports , Wrestling|USA|Acclaim Entertainment|Sunsoft|No Rating|Cartridge|Gamepad|Genesis
+SCRABBLE|NOID|360b2610|x|0|No Date|Board Game|Prototype (Europe)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+SeaQuest DSV|4612|ae56a848,25b05480|x|0|1994|Shoot 'em Up|USA|Black Pearl Software|Sculptured Software, Inc.|No Rating|Cartridge|Gamepad|Genesis
+Sensible Soccer European Champions|NOID|f9b396b8|x|0|1993|Sports , Soccer|Europe|Sony Imagesoft|Sensible Software|No Rating|Cartridge|Gamepad|Genesis
+Shadow of the Beast 2|NOID|0c98810e,2dede3db|x|0|1992|Platformer|USA|Electronic Arts, Inc., Psygnosis|Reflections Interactive Limited|No Rating|Cartridge|Gamepad|Genesis
+Shining Force II Challenge Mode|NOID|c1406ddb|x|0|2008|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Shinobi III Return of Ninja Master|NOID|1a8546e3,5381506f|x|0|1993|Beat 'em Up|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Ship|NOID|4cdc9f16|x|0|Unreleased|Board Game|Prototype (Europe)|No Publisher|Technopop|No Rating|Cartridge|Gamepad|Genesis
+Shove It! The Warehouse Game|696|4e6564db,c51f40cb|x|0|1990|Puzzle|USA|Dreamworks/NCS|Dreamworks/NCS|No Rating|Cartridge|Gamepad|Genesis
+Shui Hu Feng Yun Zhuan|NOID|3e9e010c|x|0|1994|Role Playing Game|Pirate (Taiwan)|C&E INC.|C&E INC.|No Rating|Cartridge|Gamepad|Genesis
+Slam Shaq vs the Legends|NOID|c19c200e|x|0|Unreleased|Sports , Basketball|Prototype (Europe)|No Publisher|Tiburon|No Rating|Cartridge|Gamepad|Genesis
+Slap Fight|NOID|d6695695|x|0|1986|Shoot 'em Up|Japan|Tengen|Toaplan|No Rating|Cartridge|Gamepad|Genesis
+Snake Rattle 'n Roll|NOID|f345077f,543bed30|x|0|1990|Platformer|Europe|SEGA|Rare|No Rating|Cartridge|Gamepad|Genesis
+Snow Bros Nick and Tom|NOID|c13c4d24,11b56228|x|0|No Date|Platformer|Japan|Tengen|Toaplan Co., Ltd.|No Rating|Cartridge|Gamepad|Genesis
+Soleil|NOID|08dc1ead|x|0|1994|Role Playing Game|Europe|Atlus|NexTech|No Rating|Cartridge|Gamepad|Genesis
+Sonic and Crackers|NOID|3c3c67cc,7fada88d|x|0|1994|Platformer|Prototype (USA)|SEGA|Sonic Team|No Rating|Cartridge|Gamepad|Genesis
+Sonic and Knuckles and Sonic II|NOID|2ac1e7c6|x|0|1994|Platformer|USA|SEGA|Sonic Team|No Rating|Cartridge|Gamepad|Genesis
+Sonic and Knuckles and Sonic III|NOID|63522553|x|0|1994|Platformer|USA|SEGA|Sonic Team|No Rating|Cartridge|Gamepad|Genesis
+Sonic and Knuckles and Sonic the Hedgehog|114|e01f6ed5|x|0|1994|Platformer|USA|SEGA|Sonic Team|No Rating|Cartridge|Gamepad|Genesis
+Sonic 1 Megamix|NOID|66ecb4f4|x|0|2007|Platformer|USA (Update Hacks)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic 1 Pixel Perfect|NOID|52cc8aba|x|0|2008|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic 2 Delta II|NOID|85486e22|x|0|2004|Platformer|USA (Update Hacks)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic Gaiden|NOID|61bdaba1|x|0|2003|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic I Easy Mode|NOID|e2c293e7|x|0|2003|Action|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic II|NOID|39faaa70|x|0|Unreleased|Platformer|Prototype (USA)|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Sonic Jam VI|NOID|87d86501|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic Remastered|NOID|ebcbd3c6|x|0|2007|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic the Hedgehog Westside Island|NOID|9af540dc|x|0|2008|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic the Lost Land|NOID|f948d926|x|0|2007|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Sonic the Lost Land 2|NOID|892fb8a5|x|0|2007|Role Playing Game|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Soul Blade|NOID|f26f88d1|x|0|No Date|VS Fighter|Pirate|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Space Harrier 2|NOID|e5c9cbb0,dc3fb2d6|x|0|1988|Shoot 'em Up|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Sparkster Rocket Knight Adventures 2|NOID|d63e9f2d,6bdb14ed|x|0|1994|Platformer|USA|Konami|Konami|No Rating|Cartridge|Gamepad|Genesis
+Speedball II Brutal Deluxe|NOID|9fc340a7|x|0|1990|Sports , Fictional|USA|Arena|Bitmap Brothers|No Rating|Cartridge|Gamepad|Genesis
+Speedy Gonzales Cheese Cat-Astrophe|NOID|ff634b28|x|0|1995|Platformer|Europe|SEGA Enterprises Ltd.|Time Warner Interactive, Inc.|No Rating|Cartridge|Gamepad|Genesis
+Spider-Man and the X-Men Arcade's Revenge|NOID|15a6bc1e,4a4414ea|x|0|1993|Platformer|USA|Flying Edge|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Spider-Man vs the Kingpin|NOID|22a5a485,70ab775f|x|0|1991|Platformer|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Spider-Man The Animated Series|2620|11b5b590|x|0|1993|Platformer|USA|Acclaim|Acclaim|No Rating|Cartridge|Gamepad|Genesis
+Spot Goes To Hollywood|701|fc2688c6,bdad1cbc|x|0|1995|Platformer|USA|Virgin Interactive Entertainment, Inc|Eurocom Entertainment Software|No Rating|Cartridge|Gamepad|Genesis
+Squirrel King|NOID|8a0123f3|x|0|No Date|Platformer|Pirate (Russia)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Story of Thor|NOID|b97cca1c|x|0|1994|Role Playing Game|Europe|SEGA|Ancient|No Rating|Cartridge|Gamepad|Genesis
+Street Fighter II Special Champion Edition|7394|13fe08a1|x|0|1993|VS Fighter|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|Genesis
+Streets of Rage III Ash Edition|NOID|91da0858|x|0|No Date|Beat 'em Up|USA (Update Hacks)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Streets of Rage III Special Edition|NOID|5cc2bcbb|x|0|1994|Beat 'em Up|USA (Update Hacks)|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Super Battle Tank War in the Gulf|NOID|af6dd73c,b0b5e3c9|x|0|1992|Vehicular Combat|USA|Absolute Entertainment|Absolute Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Super Donkey Kong '99|NOID|5b9f7237|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gameplay|Genesis
+Super Mario Bros. II|NOID|ec7884e7|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Super Mario World|NOID|4891e445|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gameplay|Genesis
+Super Smash TV|9101|d44cd504,4ff1fd41,f22412b6|x|0|1992|Shoot 'em Up|USA|Flying Edge|Probe Entertainment Limited|No Rating|Cartridge|Gamepad|Genesis
+Super Volleyball|4646|e67381f3,a88fee44|x|0|1991|Sports , Volleyball|USA|Video System|Micronics|No Rating|Cartridge|Gamepad|Genesis
+Tails in Sonic the Hedgehog|114|62f862a5|x|0|2007|Platformer|USA (Update Hacks)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Task Force Harrier EX|4653|a380f307,c8bb0257|x|0|1991|Shoot 'em Up|USA|Treco|Treco|No Rating|Cartridge|Gamepad|Genesis
+Taz in Escape From Mars|NOID|62083ffd,62009f8c|x|0|1994|Platformer|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+Technoclash|710|4e65e483|x|0|1993|Role Playing Game|USA|Electronic Arts|Blue Sky Software|No Rating|Cartridge|Gamepad|Genesis
+TechnoCop|NOID|7459ad06|x|0|1988|Shoot 'em Up|USA|Gremlin Graphics|Gremlin Graphics|No Rating|Cartridge|Gamepad|Genesis
+Tecmo Cup Football|NOID|88fdd060,e889e218|x|0|1992|Sports , Soccer|Europe|Tecmo|Tecmo|No Rating|Cartridge|Gamepad|Genesis
+Tekken III Special|NOID|7fcae658|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gameplay|Genesis
+Terminator 2 Judgment Day|4662|c3c0bd28,2f75e896|x|0|1994|Shoot 'em Up|USA|Flying Edge, LJN|Bits Studios, Probe Entertainment,|No Rating|Cartridge|Gamepad|Genesis
+Tetris|NOID|4ce90db0|x|0|1989|Puzzle|Prototype (Japan)|SEGA|Pageantsoft, Dr. Pepper Studio|No Rating|Cartridge|Gamepad|Genesis
+The Addams Family|4232|2803a5ca,71f58614|x|0|1994|Movie Adaption|USA|Flying Edge|Ocean|No Rating|Cartridge|Gamepad|Genesis
+The Adventures of Batman and Robin|9415|9f537a90,0caaa4ac|x|0|1995|Action|USA|SEGA|Clockwork Games|No Rating|Cartridge|Gamepad|Genesis
+The Adventures of Mighty Max|4235|55f13a00|x|0|1994|Platformer|USA|Ocean|WJS Design|No Rating|Cartridge|Gamepad|Genesis
+The Adventures of Rocky and Bullwinkle|NOID|ef02d57b|x|0|1993|Platformer|USA|Absolute Entertainment|Imagineering Inc|No Rating|Cartridge|Gamepad|Genesis
+The Aquatic Games with James Pond|NOID|f7777f53,400f4ba7|x|0|1992|Sports , Competitive|USA|Electronic Arts|Millenium Interactive|No Rating|Cartridge|Gamepad|Genesis
+The Chaos Engine|NOID|bd9eecf4,9a2d5e96|x|0|1992|Shooter|Europe|Virgin Interactive|Bitmap Brothers|No Rating|Cartridge|Gamepad|Genesis
+The Death and Return of Superman|4647|982242d3|x|0|1994|Beat 'em Up|USA|SunSoft|Blizzard Entertainment|No Rating|Cartridge|Gamepad|Genesis
+The Duel Test Drive II|1908|f9bdf8c5|x|0|1992|Racing|USA|Accolade|Distinctive Software|No Rating|Cartridge|Gamepad|Genesis
+The Faery Tale Adventure Book I|NOID|60eb3a7c,963f4969|x|0|1991|Racing|USA|Electronic Arts|MicroIllusions|No Rating|Cartridge|Gamepad|Genesis
+The Great Circus Mystery Starring Mickey and Minnie|301|14744883|x|0|1994|Platformer|USA|Capcom|Capcom|No Rating|Cartridge|Gamepad|Genesis
+The Humans|488|a0cf4366|x|0|1992|Strategy , Turnbased|USA|Imagitec Design|GameTek|No Rating|Cartridge|Gamepad|Genesis
+The Immortal|489|c367b07e,f653c508|x|0|1993|Adventure|USA|Electronic Arts|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+The Killing Gameshow 1993 Remix|NOID|b8e7668a|x|0|1993|Platformer|Japan|Electronic Arts Victor|Raising Hell|No Rating|Cartridge|Gamepad|Genesis
+The Lawnmower Man|4671|b9f22f26,a7cacd59|x|0|1994|Movie Adaption|USA|Time Warner Interactive|Atod AB|No Rating|Cartridge|Gamepad|Genesis
+The Lost Vikings|544|110e12bc,7ba49edb|x|0|1992|Puzzle|USA|Interplay|Silicon & Synapse|No Rating|Cartridge|Gamepad|Genesis
+The Miracle Piano Teaching System|4511|a719542e|x|0|1992|Educational|USA|Software Toolworks|Software Toolworks|No Rating|Cartridge|Keyboard|Genesis
+The Misadventures of Flink|18744|2a3985cb,bef9a4f4|x|0|1994|Platformer|USA|Vic Tokai|Psygnosis|No Rating|Cartridge|Gamepad|Genesis
+The Ooze|2220|0cf52629,1c0dd42f|x|0|1995|Platformer|USA|SEGA|SEGA|No Rating|Cartridge|Gamepad|Genesis
+The Ottifants|NOID|41ac8003,c6e3dd23|x|0|1993|Platformer|Europe|SEGA|Graftgold|No Rating|Cartridge|Gamepad|Genesis
+The Pagemaster|4547|c5dee3b8,75a96d4e,29895e3d|x|0|1994|Platformer|USA|Fox Interactive|Probe Entertainment Limited|No Rating|Cartridge|Gamepad|Genesis
+The Pirates of Dark Water|712|fbcdf25d,0c45b9f7,0a62de34|x|0|1994|Platformer|USA|SunSoft|Iguana Entertainment|No Rating|Cartridge|Gamepad|Genesis
+The Punisher|386|05d14885,695cd8b8|x|0|1994|Beat 'em Up|USA|Capcom|Sculptured Software|No Rating|Cartridge|Gamepad|Genesis
+The Simpsons Bart vs the Space Mutants|NOID|2dd4eb8e,db70e8ca|x|0|1992|Beat 'em Up|USA|Acclaim/Ocean Software|Imagineering/Arc Developments|No Rating|Cartridge|Gamepad|Genesis
+The Simpsons Bart's Nightmare|713|d1447bf3,24d7507c|x|0|1993|Beat 'em Up|USA|Acclaim Entertainment|Sculptured Software|No Rating|Cartridge|Gamepad|Genesis
+The Simpsons Itchy and Scratchy Game|302|6813c6ac,81b7725d|x|0|1995|Beat 'em Up|USA|Acclaim|Bits Studios|No Rating|Cartridge|Gamepad|Genesis
+The Simpsons Krusty's Super Funhouse|NOID|06afc653,56976261|x|0|1993|Beat 'em Up|USA|Acclaim Entertainment|Fox Williams|No Rating|Cartridge|Gamepad|Genesis
+The Simpsons Virtual Bart|2586|8db9f378|x|0|1994|Beat 'em Up|USA|Acclaim|Sculptured Software|No Rating|Cartridge|Gamepad|Genesis
+The Smurfs|9741|55369946|x|0|1994|Platformer|Europe|Infogrames|Infogrames|No Rating|Cartridge|Gamepad|Genesis
+The Smurfs Travel the World|NOID|f5f4c809,88b30eff|x|0|1996|Platformer|Europe|Infogrames|Virtual Studio|No Rating|Cartridge|Gamepad|Genesis
+The Terminator|4600|31a629be|x|0|1992|Platformer|USA|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Gamepad|Genesis
+The Tick|4678|425132f0|x|0|1994|Beat 'em Up|USA|Fox Interactive|Software Creations|No Rating|Cartridge|Gamepad|Genesis
+Thunder Force IV|17124|02ad64fb|x|0|1992|Shooter|Europe|TechnoSoft|TechnoSoft|No Rating|Cartridge|Gamepad|Genesis
+Thunder Pro Wrestling Retsuden|NOID|24408c73|x|0|1992|Sports , Wrestling|USA|Human Entertainment|Human Entertainment|No Rating|Cartridge|Gamepad|Genesis
+Time Dominator 1st|NOID|3c14e15a,7eba7a5c|x|0|1993|Platformer|Japan|Vic Tokai Corporation|Vic Tokai, Inc.|No Rating|Cartridge|Gamepad|Genesis
+Tiny Toon Adventures ACME All-Stars|4685|2f9faa1d|x|0|1994|Sports|USA|Konami|Konami|No Rating|Cartridge|Gamepad|Genesis
+ToeJam and Earl|2289|d1b36786|x|0|1992|Platformer|USA|SEGA|Johnson Voorsanger Productions|No Rating|Cartridge|Gamepad|Genesis
+Toejam and Earl 2 Panic on Funkotron|NOID|baae11d8,aa021bdd|x|0|1993|Platformer|USA|SEGA|Johnson Voorsanger Productions|No Rating|Cartridge|Gamepad|Genesis
+Tom And Jerry Frantic Antics|NOID|107a37bf,3044460c|x|0|1994|Platformer|USA|High Tech Expressions|Beam Software|No Rating|Cartridge|Gamepad|Genesis
+Tony La Russa Baseball '95|NOID|3f848a92|x|0|1994|Sports , Baseball|USA|Electronic Arts|High Score Productions|No Rating|Cartridge|Gamepad|Genesis
+Top Fighter 2000 MK VIII|NOID|aef68d31|x|0|No Date|Beat 'em Up|Pirate (Taiwan)|X-Boy|X-Boy|No Rating|Cartridge|Gamepad|Genesis
+Top Pro Golf|NOID|62bad606|x|0|1992|Sports , Golf|Japan|Soft Vision International|Soft Vision International|No Rating|Cartridge|Gamepad|Genesis
+Top Shooter|NOID|8541f16c|x|0|No Date|Sports , Basketball|Pirate (Unknown Region)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Toys Let the Toy Wars Begin!|NOID|cbc9951b|x|0|1993|Movie Adaption|USA|Absolute Entertainment|Imagineering Inc.|No Rating|Cartridge|Gamepad|Genesis
+Triple Play '96|NOID|f1748e91|x|0|1995|Sports , Baseball|USA|Electronic Arts, Inc.|Extended Play Productions|No Rating|Cartridge|Gamepad|Genesis
+Turbo Outrun|NOID|06524ee8,0c661369|x|0|1989|Racing|Europe|SEGA|SEGA-AM2|No Rating|Cartridge|Gamepad|Genesis
+Twinkle Tale|14706|0c43b66b|x|0|2007|Shooter|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Twisted Flipper|NOID|6dd47554|x|0|1992|Pinball|Prototype (USA)|Electronic Arts|Nu FX|No Rating|Cartridge|Gamepad|Genesis
+Tyrants Fight Through Time|4702|a4de2926,a744921e|x|0|1992|Simulation , Strategy|USA|Virgin Interactive|Sensible Software|No Rating|Cartridge|Gamepad|Genesis
+Ultimate Mortal Kombat Trilogy|NOID|847c3471|x|0|No Date|VS Fighter|Update Hack (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Ultimate Tetris|NOID|5e2adcf8,29ee8ab9|x|0|Unreleased|Puzzle|Homebrew|Unreleased|Haroldo de Oliveira Pinheiro|No Rating|Cartridge|Gamepad|Genesis
+Ultraman|NOID|83b4d5fb|x|0|1993|Puzzle|Japan|Ma-Ba|Tsuburaya|No Rating|Cartridge|Gamepad|Genesis
+Uncharted Waters II New Horizons|658|c297b0c1,ead69824|x|0|1994|Role Playing Game|USA|Koei|Koei|No Rating|Cartridge|Gamepad|Genesis
+Undead Line|14772|53b9e72f|x|0|2007|Shooter|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Uzu Keobukseon|NOID|a7255ba8|x|0|No Date|Shooter|Pirate (Korea)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Valis the Fantasm Soldier|NOID|13bc5b72,b40f1f6e|x|0|1992|Platformer|USA|Telenet|Telenet|No Rating|Cartridge|Gamepad|Genesis
+Vapor Trail Hyper Offence Formation|NOID|c49e3a0a|x|0|1991|Shoot 'em Up|USA|Renovation|Data East|No Rating|Cartridge|Gamepad|Genesis
+Verytex|NOID|bafc375f|x|0|1991|Shoot 'em Up|Japan|Asmik Corporation|Opera House|No Rating|Cartridge|Gamepad|Genesis
+Virtua Fighter vs Tekken II|NOID|2cdb499d|x|0|No Date|VS Fighter|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Wacky Races|NOID|1b173f09|x|0|Unreleased|Platformer|Prototype (USA)|Unreleased|Eden Entertainment Software|No Rating|Cartridge|Gamepad|Genesis
+Wani Wani World|NOID|56f0dbb2|x|0|No Date|Platformer|Japan|SEGA|Kaneko|No Rating|Cartridge|Gamepad|Genesis
+Waterworld|NOID|51c80498|x|0|1995|Role Playing Game|Prototype (USA)|Ocean|Data Design Interactive|No Rating|Cartridge|Gamepad|Genesis
+Wayne Gretzsky NHLPA All-stars|NOID|de62bee8,c2c13b81|x|0|1995|Sports , Hockey|USA|Time Warner Interactive|Time Warner Interactive|No Rating|Cartridge|Gamepad|Genesis
+We're Back! A Dinosaur's Tale|4721|70155b5b|x|0|1993|Movie Adaption|USA|Hi Tech Expressions|Funcom|No Rating|Cartridge|Gamepad|Genesis
+Whac-A-Critter|NOID|9c81e67f|x|0|1995|Action|Unlicensed (USA)|Realtec|Realtec|No Rating|Cartridge|Gamepad|Genesis
+Whip Rush 2222 AD|NOID|7eb6b86b|x|0|1990|Shoot 'em Up|USA|Renovation Products|Vic Tokai|No Rating|Cartridge|Gamepad|Genesis
+Wild Snake|NOID|0c1a49e5|x|0|1993|Puzzle|Unlicensed|Bullet-Proof Software|Leadfilm|No Rating|Cartridge|Gamepad|Genesis
+Wiz 'n' Liz|4730|f4bee118,df036b62|x|0|1993|Platformer|USA|Psygnosis|Raising Hell|No Rating|Cartridge|Gamepad|Genesis
+World Cup USA '94|NOID|0171b47f|x|0|1994|Sports , Football|USA|U.S. Gold Ltd.|Tiertex Ltd.|No Rating|Cartridge|Gamepad|Genesis
+World Series Baseball '98|NOID|05b1ab53|x|0|1997|Sports , Baseball|USA|SEGA|Bluesky Software|No Rating|Cartridge|Gamepad|Genesis
+WWF Raw|2222|4ef5d411|x|0|1995|Sports , Wrestling|USA|Acclaim|Sculptured Software|No Rating|Cartridge|Gamepad|Genesis
+XDR X-Dazedly-Ray|NOID|ab22d002|x|0|No Date|Shoot 'em Up|Japan|Unipacc|Unipacc|No Rating|Cartridge|Gamepad|Genesis
+Xenon II Megablast|NOID|59abe7f9|x|0|1990|Shoot 'em Up|Europe|Virgin Games|The Bitmap Brothers|No Rating|Cartridge|Gamepad|Genesis
+Yang Jia Jiang Yang Warrior Family|NOID|6604a79e|x|0|No Date|Platformer|Pirate (China)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Yie Ar Kung-Fu|NOID|d8216a96,124d535d|x|0|No Date|Beat 'em Up|Pirate (Unknown Region)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Yogi Bear's Cartoon Capers|NOID|204f97d8|x|0|1994|Platformer|Europe|GameTek|Empire Interactive|No Rating|Cartridge|Gamepad|Genesis
+Young Indiana Jones Chronicles|NOID|44f6be35|x|0|No Date|Platformer|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Ys III Wanderers from Ys|4746|ea27976e|x|0|No Date|Platformer|USA|Renovation|Riot|No Rating|Cartridge|Gamepad|Genesis
+Yuu Yuu Hakusho Makyo Toitsusen|NOID|0f041d2e|x|0|2007|VS Fighter|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Gamepad|Genesis
+Zombie High|NOID|54342b39|x|0|Unreleased|Platformer|Prototype (USA)|Electronic Arts|Electronic Arts|No Rating|Cartridge|Gamepad|Genesis
+16t|NOID|537f04b6|x|0|1991|Action|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Aworg Hero in the Sky|NOID|069c27c1|x|0|1991|Action|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Doki Doki Penguin Land|NOID|22736650|x|0|1991|Action|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Hyper Marbles|NOID|83bb2799|x|0|1991|Action|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Kiss Shot|NOID|e487088c|x|0|1991|Action|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Paddle Fighter|NOID|ebef05a4|x|0|1991|Action|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Putter Golf|NOID|20f168a6|x|0|1991|Sports , Golf|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Pyramid Magic|NOID|306d839e|x|0|1991|Puzzle|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Pyramid Magic II|NOID|c9ddac72|x|0|1991|Puzzle|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Pyramid Magic III|NOID|8329820a|x|0|1991|Puzzle|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Pyramid Magic Special|NOID|153a3afa|x|0|1991|Puzzle|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Robot Battler|NOID|fdf23eff|x|0|1991|Action|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+Sonic Eraser|NOID|26d9bc32|x|0|2004|Puzzle|Translated (Japan)|No Publisher|dev-unknown|No Rating|SegaNET|Gamepad|Genesis
+Teddy Boy Blues|NOID|733d2eb3|x|0|1991|Puzzle|Japan|SEGA|SEGA|No Rating|SegaNET|Gamepad|Genesis
+R-Type|119|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Joe Montana Football II Sports Talk Football|534|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Jordan vs. Bird|535|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Lethal Enforcers II Gunfighters|542|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+NHL '95|662|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+NHL '96|663|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Roger Clemens' MVP Baseball|686|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Shaq Fu|690|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Sonic the Hedgehog Spinball|692|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Spider-Man/X-Men Arcade's Revenge|699|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Winter Olympics Lillehammer 94|728|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Battletoads and Double Dragon The Ultimate Team|1035|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Adventures of Yogi Bear|1533|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Tom Mason's Dinosaurs for Hire|2216|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Ghouls'n Ghosts|2592|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Gley Lancer|2611|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Tougi-Ou King Colossus|2651|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Bare Knuckle III|2653|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Comical Machine Gun Joe|2720|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Dallyeora Pigu Wang|2725|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+16 Tiles Mahjong|5581|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Awesome Possum Kicks Dr. Machino's Butt|3868|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Battle Master|3870|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Bubba 'n' Stix|3882|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+AAAHH!! Real Monsters|4184|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Brett Hull Hockey 95|4294|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Bulls versus Lakers and the NBA Playoffs|4300|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Devilish:The Next Possession|4336|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Dick Vitale's Awesome Baby! College Hoops|4337|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Doom Troopers Mutant Chronicles|4341|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Escape From Mars Starring Taz|4358|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+E-SWAT City Under Siege|4361|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Evander 'Real Deal' Holyfield's Boxing|4362|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+ExoSquad|4365|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Frank Thomas' Big Hurt Baseball|4382|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Fun 'N Games|4384|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+James 'Buster' Douglas Knock Out Boxing|4460|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+James Pond 2 Codename RoboCod|4462|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+James Pond 3 Operation Starfish|4463|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+NBA Hangtime|4517|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Newman Haas IndyCar Featuring Nigel Mansell|4524|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+NHL '97|4530|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Out Run|4541|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+P.T.O. Pacific Theater of Operations|4544|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+RBI Baseball 3|4589|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+RBI Baseball 4|4590|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Star Trek Deep Space 9 Crossroads of Time|4634|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Techno Cop|4654|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Berenstain Bears Camping Adventure|4663|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Simpsons Bart vs. The Space Mutants|4674|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Tom and Jerry Frantic Antics!|4687|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Tony La Russa Baseball 95|4689|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Disney's Toy Story|4692|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Unnecessary Roughness 95|4705|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Mallet Legend's Whac-A-Critter|4722|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Where in Time is Carmen Sandiego?|4723|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+777 Casino|5582|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+A-Ressha de Ikou MD|5583|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Slam Shaq Vs. The Legends|11156|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Aq Renkan Awa|13676|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Sonic the Hedgehog 3 and Knuckles|14066|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Sonic the Hedgehog 2 and Knuckles|14067|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Knuckles' Chaotix|15622|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Star Wars Arcade|15623|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Sonic the Hedgehog and Knuckles|16924|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Dune II The Building of a Dynasty|17959|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Pete Sampras Tennis 96|18746|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Wonderboy 6 Monster World 4|18752|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis
+Virtua Racing Deluxe|19088|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Genesis

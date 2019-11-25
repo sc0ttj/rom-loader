@@ -1,0 +1,51 @@
+It's a bird, a plane, no it's Mr. Pac-Man and boy is he hungry. It has new graphics, a new palette, and even 11 new levels plus 6 old levels reused as different levels for a total of 17 altered levels. And new ghosts, too. It also has new title screen made by Googie.
+
+http://www.romhacking.net/hacks/271/
+Gobble, gobble, gulp. Ms. Pac-Man chows a power pellet and it's dinner time. Fly around the mazes at top speed while you dine on ghosts and score big points. Watch out! Don't let those little haunters get their hands on you or you're history.
+
+http://www.gamefaqs.com/console/nes/home/587474.html
+Is a level hack of Ms. Pac-Man it may be complete created by Googie.
+
+Ms. Pac-Man G is my first level hack using DahrkDaiz's online level editor, it was made using the missing apple editor I think cool.
+
+http://www.datacrystal.org/wiki/Ms._Pac-Man_G
+This is one of Tengen's few licensed games, before they cracked Nintendo's protection and made games as they wished.
+
+Pac-Man is a primal video game that is all about trade-offs. Every possible move has good and bad qualities. Eat pellets to complete the level, but you slow down and a ghost might catch you. Grab a power pellet and eat ghosts, you are not completing the level and the ghosts could turn while you are hunting them. Greedy for the fruit? Pac-Man has you making decisions at every turn in less than a second. Wakka-wakka indeed.
+
+Directions - 
+Navigate Pac-Man through the maze and eat all the pellets. Avoid the ghosts moving about the maze unless you've eaten a big Power Pellet that turns them dark blue. Grab the fruit that appears occasionally for extra points.
+
+Controls - 
+A Button - Nothing
+B Button - Nothing
+Start Button - Pause
+Select Button - Select one or two player game
+
+Hints - 
+Ghost Behavior
+Blinkey(Red)-
+Blinkey is the most aggressive of the ghosts. He'll follow you around corners and stay on your tail like no other. He speeds up at you eat more pellets.
+
+Pinky(Pink)-
+Pinky leads the pack in and out of scatter mode. She's the first to chase you and the first to back away. She runs around corners counter-clockwise(Working with clockwise circling Blinky and Clyde to trap you).
+
+Inky(Blue)-
+Unpredictable.
+
+Clyde(Orange)-
+Clyde is often aloof from the group. He's the worst at following Pac-Man. Don't waste your time hunting him if you got a power pellet, as his job seems to be distraction.
+
+Reviewer - Agoaj
+http://consoleclassix.com/nes/pac_man.html
+This is an interesting hack of Ms. Pac-Man that completely changes the graphical style of the game. The simplistic graphics of the mazes have been changed to look like a city. There are less dots to eat in the mazes, but the new layouts make it more difficult to get them than it was in the original game.
+
+http://www.romhacking.net/hacks/502/
+Pac-Man III is an inventive hack of the NES version of Ms. Pac-Man that adds new boards, new colors, new features, and new eyeballs.
+
+Yes, new eyeballs. Ms. Pac-Man has appropriately been changed to Mr. Pac-Man for this hack, but for some reason DahrkDaiz, in his ceaseless quest for NES graphical enhancement perfection, decided to give Pac-Man bulging white eyeballs (if you'll recall, Pac-Man was originally eyeless in the first Pac-Man). After playing this game for about thirty minutes, those disturbingly googly eyes have a startling way of being permanently etched into your brain.
+
+Nightmares aside, this is a really fun hack. DahrkDaiz designed 32 new levels for a wide-eyed Pac-Man to chomp his way through. Some of them are on the traditional side of things (ho-hum square-ish), while some are quite devious (invisible walls!). Never one to just modify a few tiles and walk away, DD had to provide a completely new feature or two. In this case, he provided a new way to play the levels - on the title screen, you can select either "Linear" play, which takes you through the boards in sequential order, or "Random" play, in which (surprise!) you play the boards in a random order. DD also added a pellet counter in the upper-right portion of the screen which keeps track of how many pellets you have left to eat before completing the board.
+
+http://www.vintagecomputing.com/index.php/archives/category/retrogaming/nes-famicom/page/7/
+Update on the classic Pac-Man.  ~Rx

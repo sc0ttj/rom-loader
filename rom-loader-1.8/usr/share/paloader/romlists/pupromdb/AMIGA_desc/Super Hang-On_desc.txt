@@ -1,0 +1,15 @@
+This is a conversion of Sega's popular motorcycle racing arcade game.  In this game you race a motorcycle around the world, completing each section of track within a time limit. There are other bikes on the road, but beating this is not important, so they can be thought of as moving obstacles. Each continent is a different difficulty level: Africa is beginner, Asia is junior, the Americas are senior, and Europe is expert.  
+
+This is a very simple and straightforward game, viewed from behind the bike in 2D (so the screen does not tilt with the bike). The right/left controls are steering, and up/down are gear changes. Your cycle is always moving, and your speed strictly depends on the gear you are in, although contact or running off the road slows the bike down.
+ 
+http://www.mobygames.com/game/amiga/super-hang-on
+
+Game music composed by Katsuhiro Hayashi (aka "Funky K. H." from SEGA Sound Team).
+Graphics by Saul Marchese of FOCUS C. E. Ltd. (it is not known whether other FOCUS members were additionally involved).
+
+http://hol.abime.net/2188
+_________________________
+CHEATS:
+
+Cheat mode:
+Begin game play in Africa and achieve the highest score on this track. Enter 750J as a name at the high score screen and press Fire. The name will change to .... to confirm correct code entry. Hold [Ctrl] + [Left Alt] + Z + T while the credits screen is changing into the options screen. After a brief pause, the screen will turn black. Release all keys. If done correctly, a prompt for new outer and inner road turn effect coefficients values will appear. Enter the values with the numeric keypad, which determine how well your bike corners. Enter a high number for more skidding, enter a low number to handle corners better. Enabling cheat mode will also activate a machine gun that can be used to destroy other bikes or obstacles. Press [Left Amiga] during game play to fire the gun.

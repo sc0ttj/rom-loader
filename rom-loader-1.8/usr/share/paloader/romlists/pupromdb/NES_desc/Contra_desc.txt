@@ -1,0 +1,36 @@
+In the year 2631, a small meteorite has fallen into the Galuga archipelago, located 20km northeast off the coast of New Zealand. Two years later, a terrorist group known as Red Falcon has seized the island in preparation for an alien invasion. The earth's marines sent two members of their elite Contra unit, Bill Rizer and Lance Bean, to neutralize the terrorists.
+
+As either, Bill (player 1) or Lance (player 2), the player must get to the end of each stage, shooting everything in sight, while avoiding enemy fire themselves. The player can upgrade their standard-issue rifle into one of four different weapons, including the powerful spread shot.
+
+Controls - 
+A Button - Jump
+B Button - Shoot Weapon
+Start Button - Pause, Unpause
+Select Button - Select 1 or 2 Players
+
+Hints - 
+30 Lives
+- At the Title Screen press Up, Up, Down, Down, Left, Right, Left, Right, B, A, Start.
+
+Stage Select Mode
+- At the title screen, hold the D-pad up-left along with the Select and A button, and push Start.
+
+Reviewer - grimjockey
+http://www.consoleclassix.com/nes/conquest_of_crystal_palace.html
+Well damn, what more can you say about this game? It's Contra! It kicks ass! There's a flimsy plotline in the Japanese version! The 30-man code still works! Seriously, this game is a blast.. I'm sure everyone knows that though. This is of course the Japanese release of Contra, and there are some extra bonus things that don't really amount to much in the end, but they're still pretty cool, and they make you wonder why Konami took that stuff out of the U.S. release. Anyway, go play dammit! And get a second player, for God's sake.. It's twice as fun!
+
+Translation Description - 
+The MadHacker calls this Gryzor, for reasons mentioned in the readme. I'd go with Gryzor too, if nothing more than the fact that it has a cooler title screen.
+
+There's two patches. One is for Contra, the other for Gryzor. The only differences are in the title screen and some slight text changes due to the name change. (This is the Contra Version)
+
+Reviwer - Spinner 8
+http://www.romhacking.net/trans/155/
+This is a new patch for the Japanese version of Contra. This project has nothing in common with the old patch by the MadHacker. I do not mean to insult the old patch, but I wanted to show just how far ROM hacking has come in the past ten years.
+
+http://www.romhacking.net/trans/1451/
+MahaRaja! This is the BETA translation patch for Maharaja c. 1989 Sunsoft Famicom/NES adventure RPG. Venture through time to ancient India in this exciting text and graphic RPG! The wicked sorceror Indrajeet is conjuring the demon Ravana who threatens the cosmos, the princess, and all of humanity. Taraka, a great demon and his three sons guard the pieces to a divine weapon that can defeat Ravana. With magic weapons, mantras, and Shiva at your side defeat demons and wild beasts in jungles and ruined palaces!
+
+This PATCH is beta which means that some spell, monster, and item names may be abbreviated due to space limitations. Refer to readme for full names.
+
+http://www.romhacking.net/trans/1453/

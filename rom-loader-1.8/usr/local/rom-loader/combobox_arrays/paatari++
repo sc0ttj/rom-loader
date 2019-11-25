@@ -1,0 +1,54 @@
+MACHINE_ARRAY=(Default 800 1200 XL XE 5200)
+MACHINE_ITEMS="<item>$MACHINE</item>" #stored value should be first in list
+for i in "${MACHINE_ARRAY[@]}"
+do
+	if [ "$i" != "$MACHINE" ];then # if not already the selected value
+		MACHINE_ITEMS=`echo "$MACHINE_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+BASIC_ARRAY=(Default true false)
+BASIC_ITEMS="<item>$BASIC</item>" #stored value should be first in list
+for i in "${BASIC_ARRAY[@]}"
+do
+	if [ "$i" != "$BASIC" ];then # if not already the selected value
+		BASIC_ITEMS=`echo "$BASIC_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+MODE_ARRAY=(Default ntsc pal)
+MODE_ITEMS="<item>$MODE</item>" #stored value should be first in list
+for i in "${MODE_ARRAY[@]}"
+do
+	if [ "$i" != "$MODE" ];then # if not already the selected value
+		MODE_ITEMS=`echo "$MODE_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+FS_ARRAY=(Default true false)
+FS_ITEMS="<item>$FS</item>" #stored value should be first in list
+for i in "${FS_ARRAY[@]}"
+do
+	if [ "$i" != "$FS" ];then # if not already the selected value
+		FS_ITEMS=`echo "$FS_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+DBUFFER_ARRAY=(Default true false)
+DBUFFER_ITEMS="<item>$DBUFFER</item>" #stored value should be first in list
+for i in "${DBUFFER_ARRAY[@]}"
+do
+	if [ "$i" != "$DBUFFER" ];then # if not already the selected value
+		DBUFFER_ITEMS=`echo "$DBUFFER_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SOUND_ARRAY=(Default true false)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then # if not already the selected value
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+

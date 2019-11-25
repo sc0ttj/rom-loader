@@ -1,0 +1,29 @@
+VectorMan is back, and the robot sludge barge pilot is more awesome than ever! New morphs, power-ups, and special weapons equip VectorMan to battle with Earth's most prolific enemy... mutant insects! Change into the shape of mutant insects with the special Assimilation Morph. Blast enemies with VectorMan's deadly Laser Cannon, Pulse Beam, Fire Ball and Super Shot! Experience fluid, real-time "Vector-Piece" animation, pulsating sounds and vibrant graphics through 25 levels of gameplay!
+
+Directions:
+
+Sidescrolling game. You must search around the levels, getting different weapons and powerups. Some will be difficult to get, and will require some time to acquire! Some of the baddies will be difficult to destory, so that will be something to look forward to, if you're a true gamer.
+
+Gameplay:
+
+The gameplay is similar to the previous game. Vectorman has a different set of weapons, including a pulse beam, energy shot, and supershot guns. Vectorman can also now transform into insect forms such as a fire ant, a rhino, and "shield bug" that repels attacks. Unlike the original Vectorman, the full-level transformations featured in this game are not used to combat bosses as that is left to the human-form Vectorman. There are 22 levels divided into 7 parts in all.
+
+Controls:
+
+A Button: Shoot
+B Button: Shoot
+C Button: Jump, press again to jump in midair
+
+Hints:  
+
+Level Select - Pause the game and press Up, Right, A, B, A, Down, Left, A, Down.
+
+Refill Energy - Pause the game and press B, A, B, A, Left, Up, Up.
+
+Weapon Select - Pause the game and press C, A, Left, Left, Down, A, Down. 
+
+Repeat this code until you get the weapon you want. 
+
+Reviewer: LinkOfHyrule
+http://www.consoleclassix.com/genesis/vectorman_2.html
+http://en.wikipedia.org/wiki/Vectorman_2

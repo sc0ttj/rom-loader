@@ -1,0 +1,37 @@
+A great little game starring a couple of everyone's favorite Loony Toons headliners. Sound effects, music and paraphernalia all accumulate to give you the impression of watching a cartoon with these two zany characters in it. You get to choose sides... Are you a Wile E. fan, or are you on the Road Runner's side?
+
+The look is as vibrant and colorful as you would want the cartoon to be, with lots of ACME devices to interact with (or avoid). Not only will it make any fan happy with the amount it was true to the cartoon, but the game itself is fun to play. It's not overly challenging or long, but it is still worth trying out.
+
+Directions:
+
+First, you choose which character you prefer to be. Press left and right to highlight the name of the character you want to play, and then press Start. Both characters will have to avoid traps and obstacles.
+
+As Wile E. you can try to catch the Road Runner, though it's not essential to game completion. If you catch the Road Runner then he'll explode into ACME flags and a clock.
+
+As Road Runner you have to try to avoid being caught by Wile E. As you'd expect and hope, you can sneak up behind Wile E. as the Road Runner and BEEP BEEP! behind his back by pressing A. As you'd predict, he'll leap up in surprise, knocking his head on any ceilings over him.
+
+Your health will be displayed as a bar next to your character's face in the top left corner of the screen. As you take damage form running into traps or knocking your head on the ceiling, this bar will decrease. If it completely empties then you'll lose a life. Replenish it with blue bottles for Wile E. and piles of bird seed for Road Runner. Press down while standing next to bird seed to eat it.
+
+There is a clock displayed in the bottom of the screen with a time underneath it. You must complete the level within this time limit, or you'll lose a life. Find clocks in the level to replenish your time.
+
+Flags with the word ACME written on them are worth points. A red circle with a lightening bolt through it is a turbo. If you are Wile E. Coyote, the boxes with the word ACME on them contain different ACME devices to help you along, like roller skates or springs. If you are the Road Runner, you have to avoid these, since Wile E. will come springing up out of them to chase you. Pick up the face of your character for an extra life.
+
+For Wile E. press A and down next to a plunger detonator to detonate dynamite and remove objects from your path. Be careful! If you stand too close to the detonation you'll explode too! Also, keep in mind that what goes up.... must come down.
+
+There will be plenty of other objects to manipulate in the game. If you see something interesting, try standing next to it and pressing A. 
+
+Controls:
+
+A Button: Action
+B Button: Turbo
+C Button: Jump
+Start Button: Pause Game
+
+Hints:
+
+- Invincible -
+Pause game play and press C, A, Left(2), Down, A, Down.
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/desert_demolition_starring_road_runner_and_wile_e_coyote.html
+http://www.gamefaqs.com/console/genesis/review/R18498.html

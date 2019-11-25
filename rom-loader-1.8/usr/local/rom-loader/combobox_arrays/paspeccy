@@ -1,0 +1,18 @@
+SCALE_ARRAY=(Default 1 2 3 4)
+SCALE_ITEMS="<item>$SCALE</item>" #stored value should be first in list
+for i in "${SCALE_ARRAY[@]}"
+do
+	if [ "$i" != "$SCALE" ];then # if not already the selected value
+		SCALE_ITEMS=`echo "$SCALE_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SOUND_ARRAY=(Default true false)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then # if not already the selected value
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+

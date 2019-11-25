@@ -1,0 +1,9 @@
+This is a top down vertically scrolling shooter, in which you start off as a motorbike. You are quite vulnerable to attack at first, but power ups come in the form of a Sega van which you have to dock with. The first time you dock you get double fire, the second time gives you a rocket, the third gives a rear force field and the fourth invulnerablility.
+
+There are also letters A-F which you can collect. Collecting A through to D allows you change into a sportscar which is less vunerable to attack, but not as nimble. Collect all of them and you are automatically transformed into a sportscar.
+
+Picking up flags gives you bonus points with 10,000 points gaining you an extra life.
+
+Eventually as you get further into the level you will transform into a high tech plane.
+
+http://www.mobygames.com/game/sega-master-system/action-fighter

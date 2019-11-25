@@ -1,0 +1,490 @@
+#!/bin/sh
+
+# enable joypad support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/padosboxrc
+# set some vars as defaults
+export FULLSCREENGUI='';
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.exe$|\.bat$|\.rom$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_dos' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "padosbox $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: padosbox [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	MACHINE=Default # hercules, cga, tandy, pcjr, ega, vgaonly, svga_s3, svga_et3000, svga_et4000, svga_paradise, vesa_nolfb, vesa_oldvbe.
+	FS=true
+	FSDOUBLE=true
+	OUTPUT=Default   #surface, overlay
+	USERCONF=""
+	SCALER=Default  # none, normal2x, normal3x, advmame2x, advmame3x, advinterp2x, advinterp3x, hq2x, hq3x, 2xsai, super2xsai, supereagle, tv2x, tv3x, rgb2x, rgb3x, scan2x, scan3x.
+	FORCESCALER=false
+	ASPECT=true
+	FSKIP=Default
+	CYCLES=Default		# auto, fixed or max
+	STARTMAPPER=false
+	RESETMAPPER=false
+	NOAUTOEXEC=false
+	SECUREMODE=false
+	WORD1=""
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#padosbox config file' > $CONFIG
+	echo DIR="\"$DIR\"" >> $CONFIG
+	echo CMD="\"$CMD\"" >> $CONFIG
+	echo MACHINE=$MACHINE >> $CONFIG # hercules, cga, tandy, pcjr, ega, vgaonly, svga_s3, svga_et3000, svga_et4000, svga_paradise, vesa_nolfb, vesa_oldvbe.
+	echo FS=$FS >> $CONFIG
+	echo FSDOUBLE=$FSDOUBLE >> $CONFIG
+	echo OUTPUT=$OUTPUT >> $CONFIG   #surface, overlay
+	echo USERCONF=$USERCONF >> $CONFIG
+	echo SCALER=$SCALER >> $CONFIG  # none, normal2x, normal3x, advmame2x, advmame3x, advinterp2x, advinterp3x, hq2x, hq3x, 2xsai, super2xsai, supereagle, tv2x, tv3x, rgb2x, rgb3x, scan2x, scan3x.
+	echo ASPECT=$ASPECT >> $CONFIG
+	echo FSKIP=$FSKIP >> $CONFIG
+	echo FORCESCALER=$FORCESCALER >> $CONFIG
+	echo CYCLES=$CYCLES >> $CONFIG		# auto, fixed or max
+	echo STARTMAPPER=$STARTMAPPER >> $CONFIG
+	echo RESETMAPPER=$RESETMAPPER >> $CONFIG
+	echo NOAUTOEXEC=$NOAUTOEXEC >> $CONFIG
+	echo SECUREMODE=$SECUREMODE >> $CONFIG
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+	## editing dosbox config file directly, update its settings here
+
+	#machine
+	[ "$MACHINE" = "true" ] && sed -i "s|machine=false|machine=true|g" /root/.dosbox/dosbox-0.73.conf
+	[ "$MACHINE" = "false" ] && sed -i "s|machine=true|machine=false|g" /root/.dosbox/dosbox-0.73.conf
+
+	#fullscreen
+	[ "$FS" = "true" ] && sed -i "s|fullscreen=false|fullscreen=true|g" /root/.dosbox/dosbox-0.73.conf
+	[ "$FS" = "false" ] && sed -i "s|fullscreen=true|fullscreen=false|g" /root/.dosbox/dosbox-0.73.conf
+
+	#fulldouble
+	[ "$FSDOUBLE" = "true" ] && sed -i "s|fulldouble=false|fulldouble=true|g" /root/.dosbox/dosbox-0.73.conf
+	[ "$FSDOUBLE" = "false" ] && sed -i "s|fulldouble=true|fulldouble=false|g" /root/.dosbox/dosbox-0.73.conf
+
+	#output
+	if [ "$OUTPUT" != "Default" ];then
+		OLDOUTPUT="`cat /root/.dosbox/dosbox-0.73.conf | grep -m1 ^output=`"
+		sed -i "s|$OLDOUTPUT|output=$OUTPUT|g" /root/.dosbox/dosbox-0.73.conf
+	fi	
+
+	#aspect
+	[ "$ASPECT" = "true" ] && sed -i "s|aspect=false|aspect=true|g" /root/.dosbox/dosbox-0.73.conf
+	[ "$ASPECT" = "false" ] && sed -i "s|aspect=true|aspect=false|g" /root/.dosbox/dosbox-0.73.conf
+
+	#frameskip
+	if [ "$FSKIP" != "Default" ];then
+		OLDFSKIP="`cat /root/.dosbox/dosbox-0.73.conf | grep -m1 ^frameskip=`"
+		sed -i "s|$OLDFSKIP|frameskip=$FSKIP|g" /root/.dosbox/dosbox-0.73.conf
+	fi	
+
+	#cycles
+	if [ "$CYCLES" != "Default" ];then
+		OLDCYCLES="`cat /root/.dosbox/dosbox-0.73.conf | grep -m1 ^cycles=`"
+		sed -i "s|$OLDCYCLES|cycles=$CYCLES|g" /root/.dosbox/dosbox-0.73.conf
+	fi	
+
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	[ "$FS" = true ] && C="$C -fullscreen"	
+	
+	if [ "$USERCONF" != "Default" -a "$USERCONF" != "" -a -f "$USERCONF" ];then
+		C="$C -userconf \"$USERCONF\""
+	fi
+	
+	if [ "$SCALER" != "Default" ];then
+		C="$C -scaler $SCALER"
+	fi
+
+	if [ "$FORCESCALER" = true ];then
+		C="$C -forcescaler"
+	fi
+
+	[ "$STARTMAPPER" = true ] && C="$C -startmapper"	
+
+	[ "$RESETMAPPER" = true ] && C="$C -resetmapper"	
+
+	[ "$NOAUTOEXEC" = true ] && C="$C -noautoexec"	
+
+	[ "$SECUREMODE" = true ] && C="$C -securemode"	
+
+	# enable joypad support
+	rejoystick1cc --load --profile dos &>/dev/null
+	rejoystick2cc --load --profile dos &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	echo "dosbox \"$DIR$CHOOSER\" -exit $C $WORD1"  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+
+	# enable joypad support
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${DOS_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# define and build comboboxes - so they remember the previous selection
+. /usr/local/rom-loader/combobox_arrays/$SELF
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+#build gui
+S='
+<window title="Puppy Arcade - DOS Games loader (dosbox)" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+
+	<vbox>
+		<frame>
+			<vbox>
+
+				<hbox>
+					<text><label>Machine:</label></text>
+					<combobox width-request="100" tooltip-text="This will affect your sound cards and VGA/graphics output">
+						 <variable>MACHINE</variable>
+						 '$MACHINE_ITEMS'
+					</combobox>
+					<text width-request="20"><label>""</label></text>
+
+				   <checkbox tooltip-text="Enable fullscreen output">
+						<label>Fullscreen</label>
+						<variable>FS</variable>
+						<default>"'$FS'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+				   <checkbox tooltip-text="Enable double buffering in fullscreen mode">
+						<label>FS Double Buffer</label>
+						<variable>FSDOUBLE</variable>
+						<default>"'$FSDOUBLE'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+					<text><label>Output:</label></text>
+					<combobox width-request="100" tooltip-text="Output module, overlay stretches screen more">
+						 <variable>OUTPUT</variable>
+						 '$OUTPUT_ITEMS'
+					</combobox>
+					<text width-request="20"><label>""</label></text>
+
+				</hbox>
+				<hbox>
+
+					<text width-request="80"><label>""</label></text>
+					<text><label>Config file:</label></text>
+					<entry tooltip-text="Choose a custom config file (not recommended using this program - use dosboxgui)" width-request="100">
+						<input>echo "'$USERCONF'"</input>
+						<variable>USERCONF</variable>
+					</entry>
+					<button>
+						<input file icon="gtk-open"></input>
+						<action type="fileselect">USERCONF</action>
+					</button>
+
+					<text><label>Scaler:</label></text>
+					<combobox width-request="100" tooltip-text="Scaler used to enlarge/enhance low resolution modes. If forced is appended,the scaler will be used even if the result might not be desired.">
+						 <variable>SCALER</variable>
+						 '$SCALER_ITEMS'
+					</combobox>
+					<text width-request="20"><label>""</label></text>
+
+				   <checkbox tooltip-text="If enabled, the scaler will be forced into use, even if the result might not be desired.">
+						<label>Force Scaler</label>
+						<variable>FORCESCALER</variable>
+						<default>"'$FORCESCALER'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+				</hbox>
+				<hbox>
+
+				   <checkbox tooltip-text="Do aspect correction, if your output method doesnt support scaling this can slow things down!">
+						<label>Fix Aspect Ratio</label>
+						<variable>ASPECT</variable>
+						<default>"'$ASPECT'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+					<text><label>Frame Skip:</label></text>
+					<combobox width-request="100" tooltip-text="How many frames DOSBox skips before drawing one.">
+						 <variable>FSKIP</variable>
+						 '$FSKIP_ITEMS'
+					</combobox>
+					<text width-request="20"><label>""</label></text>
+
+					<text><label>Cycles:</label></text>
+					<combobox width-request="100" tooltip-text="Auto or default recommended. Amount of instructions DOSBox tries to emulate each millisecond. Setting this value too high results in sound dropouts and lags.">
+						 <variable>CYCLES</variable>
+						 '$CYCLES_ITEMS'
+					</combobox>
+					<text width-request="20"><label>""</label></text>
+
+				</hbox>
+				<hbox>
+
+				   <checkbox tooltip-text="Enter the mapper directly on startup. Useful for people with keyboard or joystick problems. ">
+						<label>Start Mapper</label>
+						<variable>STARTMAPPER</variable>
+						<default>"'$STARTMAPPER'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+				   <checkbox tooltip-text="removes the mapperfile used by the default clean configuration file. ">
+						<label>Reset Mapper</label>
+						<variable>RESETMAPPER</variable>
+						<default>"'$RESETMAPPER'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+				   <checkbox tooltip-text="Skips the [autoexec] section of the loaded configuration file">
+						<label>No Exec</label>
+						<variable>NOAUTOEXEC</variable>
+						<default>"'$NOAUTOEXEC'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+				   <checkbox tooltip-text="Same as -noautoexec, but adds config.com -securemode at the bottom of AUTOEXEC.BAT (which in turn disables any changes to how the drives are mounted inside DOSBox).">
+						<label>Secure Mode</label>
+						<variable>SECUREMODE</variable>
+						<default>"'$SECUREMODE'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+				</hbox>
+
+			</vbox>
+			<vbox>
+
+			<text height-request="40"><label>""</label></text>
+			<text><label>Custom Options:</label></text>
+	
+				<hbox>
+					<entry editable="true">
+						<variable>WORD1</variable>
+						  <default>"'$WORD1'"</default>
+					</entry>
+					<button tooltip-text="Clear entry box">
+						<input file icon="gtk-clear"></input>       
+						<action type="clear">WORD1</action>
+						<label>Clear</label>
+					</button>
+					<text width-request="40"><label>""</label></text>
+				</hbox>
+
+			</vbox>
+		</frame>
+	</vbox>
+		
+	## H E L P
+
+	<vbox>
+		<edit can-focus="no" editable="false" indent="15">
+			<variable>EDITOR</variable>
+			<width>350</width><height>150</height>
+			<default>"DOSBox Help:
+=======================
+
+Browse to a folder containing your DOS game(s), 
+and then double click on the .exe or .com file.
+
+DOSBox will then mount your game as a drive in DOS 
+and will execute it immediately.
+
+If nothing happens when you clicked on a game,
+it may have been the wrong file, or not supported 
+by DOSBox.
+
+You can run the following command in a linux terminal 
+to see what the error message is, if any.. Example:
+
+dosbox /path/to/my/game.exe
+
+-----------------------------------------------------------
+
+DosBox Emulator controls:
+
+Controls for DOSBox are generally the same 
+as a normal PC keyboard setup.
+
+Joysticks are enabled by default, but you will
+have to setup controls *within* each game, if 
+possible, and probably also Escape, Enter, .. 
+
+Also:
+
+Alt-Enter 	Switch to full-screen (and back).
+Alt-Pause 	Pause emulation. 
+Ctrl-F9 		Kill (close) DOSBox. 
+
+"</default>
+		</edit>		
+		</vbox>
+	
+	
+	</notebook>
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>rox /usr/share/doc/dosbox/ &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export padosbox="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p padosbox $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset panes
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

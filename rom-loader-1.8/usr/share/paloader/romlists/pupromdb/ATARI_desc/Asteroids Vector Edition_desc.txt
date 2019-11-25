@@ -1,0 +1,5 @@
+Unlike the Atari 5200 prototype, the objects in this Asteroids hack are rendered with vector-like outlines, making it more closely resemble the original arcade game.  It may sound trivial, but it makes a difference - the rocks no longer look like popcorn.  Asteroids fans will probably find this worthwhile.  
+
+Copyright 2001 The Video Game Critic.
+
+http://www.videogamecritic.net/2600aa.htm

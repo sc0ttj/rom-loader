@@ -1,0 +1,19 @@
+The player takes the role of a captain on a research mission in outer space. An emergency signal has been intercepted from the planetary system "Apano Sin" Now the player's job is to deactivate the out-of-control defense system of Apano Sin.
+
+To do this, the player takes control of a small space fighter and destroys enemy space craft on top of vertical scrolling backgrounds. The ship can carry up to two different weapons systems. In total there are four different weapons: Green Flash, Blue Blizzard, Bomber and Power Cannon.
+
+After successfully completing the moons of Apano Sin in arbitrary order, the player faces the final level on the planet itself. One unusual feature for a shoot 'em up is that enemy patterns are randomized, so that they can't be learned by heart.
+ 
+http://www.mobygames.com/game/amiga/apano-sin
+
+Originally scheduled for release in 1993 by neo Software, coders Alex Piko and Alexander Eberl terminated their agreement with the publisher when neo insisted on being credited as the developer also. The game was eventually published in 2000 by V.A.K. Entertainment.
+
+Game concept/idea, level design & coding by Alex Piko and Alexander Eberl. Graphics by Alex Piko; titlescreen & level gfx by Martin Weinknecht; end sequence animation by Michael Sormann. Sound by Alex Piko; music & sound FX by David Gschmeidler and Martin Weinknecht. 
+
+The game was declared freeware in 2006 by the developers, and is available for legal download from these sources:
+
+- APANO SIN (English/German, extended ADF / WHDLoad disk images)
+
+- APANO SIN (full WHDLoad release)
+
+http://hol.abime.net/4653

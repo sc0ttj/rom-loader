@@ -1,0 +1,19 @@
+This has similar Gauntlet-influenced gameplay to the original Alien Breed (and the Alien Breed Special Edition '92), but with many new features. As an Interplanetary Corps soldier, you must visit a remote alien-infested colony and destroy the alien invaders. The game is split over 14 zones, each featuring numerous different aliens. As you go through the game you collect credits, which can be traded for weapons, ammunition and other enhancements through the in-game computers. Keys are collected as you progress, which must be used wisely, as there are many rooms containing bonuses that dont have to be entered.
+ 
+http://www.mobygames.com/game/amiga/alien-breed-ii-the-horror-continues
+_________________________
+CHEATS:
+
+Cheat mode (ECS and AGA versions):
+Enter one of the following passwords to activate the
+corresponding cheat function.
+
+Effect|Password
+
+Fifty keys|378829
+
+10 extra lives, 50 keys, 50,000 credits|736353
+
+10 extra lives and 50 keys|098654
+
+Press N during game play for level skip|243433

@@ -1,0 +1,3 @@
+The Miracle Piano Teaching System teaches piano to beginning / intermediate players using a combination of scripted lessons, dynamically created lessons, and piano-themed video games. The original version came bundled with a custom piano keyboard. Later versions work with any MIDI keyboard.
+
+http://www.mobygames.com/game/genesis/miracle-piano-teaching-system

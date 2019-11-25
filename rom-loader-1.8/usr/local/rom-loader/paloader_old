@@ -1,0 +1,447 @@
+#!/bin/sh
+
+cd /root # v1.8 set in root as default
+
+# enable joypad rom support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+# set icon directory, based on screen res
+SCREEN_RES=`xwininfo -root | grep -m 2 '\geometry' | cut -f4 -d ' ' | cut -f2 -d ' ' | cut -f1 -d '+'`
+if [ "$SCREEN_RES" = "1024x768" ];then
+	ICONDIR="/usr/share/pixmaps/paloader/big"
+elif [ "$SCREEN_RES" = "1024x600" ];then
+	ICONDIR="/usr/share/pixmaps/paloader/big"
+elif [ "$SCREEN_RES" = "800x600" ];then
+	ICONDIR="/usr/share/pixmaps/paloader/med"
+elif [ "$SCREEN_RES" = "640x480" ];then
+	ICONDIR="/usr/share/pixmaps/paloader/small"
+elif [ "$SCREEN_RES" = "640x400" ];then
+	ICONDIR="/usr/share/pixmaps/paloader/small"
+elif [ "$SCREEN_RES" = "320x240" ];then
+	ICONDIR="/usr/share/pixmaps/paloader/none" # 1.8, dont load icons, res is too small
+else
+	ICONDIR="/usr/share/pixmaps/paloader/big"
+fi
+
+echo "The resolution is $SCREEN_RES"
+echo "Using icon dir: $ICONDIR"
+
+# set some vars as defaults
+export DECORATED='decorated="true"'
+export ENABLESPLASH=true
+export FORCESPLASH=false
+export FULLSCREENGUI=''
+export VERSION="1.8"
+export RCFILE=/root/.paloader/paloader.cfg
+export RCLIST=/root/.paloader/rclist.txt
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -s|--splash) FORCESPLASH="true";;
+         -sk|--skip-splash) ENABLESPLASH="false";;
+         -f|--fullscreen) FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "paloader $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: paloader [OPTION]
+
+Options
+  -s    Force the splash screen to appear
+  -sk    Skip the splash screen
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+# set the options to load pa*** in fullscreen or not
+if [ "$FULLSCREENGUI" != "" ];then
+	C=' -f'
+else 
+	C=''
+fi
+
+# add full gui param here, so all sub GUIs know they were loaded from romloader.. so they will return to romloader on exit
+C="${C} -fgui"
+
+# export all functions
+set -a
+
+# get main rc file option(s)
+if [ -f "$RCFILE" ];then #get profile being used right now
+	. "$RCFILE" 	# read config file
+else 
+	# no config file, set default vars, add to a new config file
+
+	# if settings directory not found, create it
+	[ ! -d /root/.paloader ] && mkdir -p /root/.paloader
+
+	#backends/emus
+	export AMIGA_BACKEND=uae_nogui
+	export AMSTRAD_BACKEND=arnold
+	export ARCADE_BACKEND=sdlmame
+	export ATARI_BACKEND=atari++
+	export ATARI2600_BACKEND=stella
+	export ATARIST_BACKEND=hatari
+	export COLECO_BACKEND=colem
+	export COM_BACKEND=frodo
+	export DOOM_BACKEND=prboom
+	export DOS_BACKEND=dosbox
+	export GBA_BACKEND=mednafen
+	export GEN_BACKEND=gens
+	export N64_BACKEND=mupen64plus-dev
+	export NEOCD_BACKEND=neocd-1.3
+	export NGP_BACKEND=mednafen
+	export NES_BACKEND=mednafen
+	export PCE_BACKEND=hugo
+	export PCFX_BACKEND=mednafen
+	export PSX_BACKEND=pcsx
+	export SCUMM_BACKEND=scummvm
+	export SEGA8BIT_BACKEND=mednafen
+	export SNES_BACKEND=snes9x-gtk
+	export WSWAN_BACKEND=mednafen
+	export ZXSPEC_BACKEND=speccy
+
+	#themes
+	export MAIN_THEME=maschine_orange
+
+	#default options, override options set in other parts of rom-loader
+	export DEF_ROMPATH=/root/roms
+	export DEF_CDDEV=/dev/cdrom
+	export DEF_REGION=ntsc
+	export DEF_SOUND=true
+	export DEF_SOUNDDEV=alsa
+	export DEF_FS=false
+	export DEF_OGL=false
+	export DEF_ASPECT=4:3
+	export DEF_KEEPASPECT=false
+	export DEF_STRETCH=true
+	export DEF_WRES=1024x768
+	export DEF_RES=1024x768
+	export DEF_OSD=false
+	export DEF_JOY=true
+
+fi
+
+# get the splash value (true or false)
+[ "$SHOWSPLASH" = "" ] && SHOWSPLASH=true
+export SHOWSPLASH="$SHOWSPLASH"
+echo "Splash Screen = $SHOWSPLASH"
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+
+THEME="$MAIN_THEME"
+echo "`cat \"/root/.paloader/themes/${THEME:-maschine_orange}\"`" > /tmp/gtkrc
+export GTK2_RC_FILES=/tmp/gtkrc:/root/.gtkrc-2.0
+
+# build functions
+
+# enable or disable the popup splash screen, if clicked
+hide_show_splash () {
+	# get current config
+	[ -f $RCFILE ] && . $RCFILE
+	if [ "$SHOWSPLASH" = true ] && [ "$FORCESPLASH" = false ];then # update showplash to false only if here not by force
+		sed -i "s|SHOWSPLASH=true|SHOWSPLASH=false|" $RCFILE
+		Xdialog --title 'Splash screen disabled' --msgbox 'You will not see this splash screen next time you restart\nTo enable it again, you can edit this file:\n\n"'$RCFILE'"\n\n Or you can run this in the terminal: rom-loader --splash\n' 0 0
+	else 
+		sed -i "s|SHOWSPLASH=false|SHOWSPLASH=true|" $RCFILE
+		Xdialog --title 'Splash screen enabled' --msgbox 'You will see this splash screen next time you restart\n' 0 0
+	fi
+}
+
+auto_load () {
+# if startup file not exist
+if [ ! -e "/root/Startup/paloaderexec" ];then
+	# make it, write all variable values to config file
+	echo "#!/bin/sh" > /root/Startup/paloaderexec
+	echo '#Rom-Loader $VERSION startup file' >> /root/Startup/paloaderexec
+	echo 'yaf-splash -font "-misc-dejavu sans-bold-r-normal--15-0-0-0-p-0-iso10646-1" -timeout 8 -placement center -outline 0 -bg green -text "Rom-Loader '$VERSION' is starting..." &' >> /root/Startup/paloaderexec
+	echo "sleep 8" >> /root/Startup/paloaderexec
+	echo "paloader -f -sk &"	 >> /root/Startup/paloaderexec # 1.8 paloader now runs as background process
+	echo "exit"	 >> /root/Startup/paloaderexec # 1.8 added exit command to startup script
+	# make it executable
+	chmod -c 755 /root/Startup/paloaderexec
+	Xdialog --title "Auto-start enabled" --msgbox "Rom-Loader will start automatically when you boot.\n\nTo stop it, delete '/root/Startup/paloaderexec'\n\n Or you can just use this tool again.\n" 0 0
+else
+	if [ ! -x "/root/Startup/paloaderexec" ];then # if file not exec
+		# make it executable
+		chmod -c 755 /root/Startup/paloaderexec
+		Xdialog --title "Auto-start enabled" --msgbox "Rom-Loader will start automatically when you boot.\n\nTo stop it, delete '/root/Startup/paloaderexec'\n\n Or you can just use this tool again.\n" 0 0
+	else 
+		# make non executable
+		chmod -c 644 /root/Startup/paloaderexec
+		Xdialog --title "Auto-start disabled" --msgbox "Rom-Loader will not start automatically when your desktop loads." 0 0
+	fi
+fi
+}
+
+# present list of all systems, on one line .. example :  amiga amstrad atari atari2600 atarist dos .. 
+list_systems () {
+	 cat $RCLIST | grep -v '^#' | grep -v ^$ | cut -f1 -d '|' | sort | uniq
+}
+
+backend_to_gui () {
+	# for each emulated system 
+	GUI_LIST=""
+	for sys in `list_systems`
+	do
+		# if a system was found
+		if [ "$sys" != "" -a "$sys" != " " ];then
+			# get name of romloader gui for the system from rcfile, based on the backend being used for that system
+			backend="`cat \"$RCFILE\" | grep -v '^#' | grep -v ^$ | grep '_BACKEND=' | grep -i ^$sys | cut -f2 -d'='`"
+			echo $sys: $backend
+			# get the romloader gui listed in the romloader database for that backend
+			gui="`cat \"$RCLIST\" | grep -v '^#' | grep -v ^$ | grep \"^$sys|\" | grep \"|$backend|\" | cut -f4 -d'|'`" || gui=""
+			#build a list of system|gui, each on a new line .. can be accessed like `echo "$GUI_LIST" | grep $system | cut -f2 -d'|'`
+			export GUI_LIST="$GUI_LIST
+$sys|$gui"
+		fi
+	done
+	echo "$GUI_LIST" | grep -v ^$ > /root/.paloader/sys_to_gui.txt
+}
+
+# disable splash from param -sk (--skip-splash)
+if [ "$ENABLESPLASH" = false ];then
+	SHOWSPLASH=false
+	FORCESPLASH=false
+fi
+## splash screen
+if [ "$SHOWSPLASH" = true ] || [ "$FORCESPLASH" = true ];then
+	export SPLASH='<window title="Rom-Loader '$VERSION'">
+	<vbox>
+		<frame>
+			<text><label>Welcome to the "Rom-Loader"</label></text>
+		</frame>
+		<frame>
+			<text><label>Rom-Loader is a multi-emulator frontend and rom browser. It uses many emulators, can store your settings and supports joypad navigation.</label></text>
+		</frame>
+		<frame>
+			<hbox>
+				<text><label>Auto load Rom-Loader at startup</label></text>
+				<button tooltip-text="Click this button to enable/disable auto-start for Rom-Loader, when your desktop boots.">
+					<input file>/usr/local/lib/X11/pixmaps/24x24/Clock.png</input>
+					<action>auto_load &</action>
+				</button>
+			</hbox>
+			<hbox>
+				<text><label>Read the help guide and controls</label></text>
+				<button tooltip-text="Read the help file and learn how to use all the features of Rom-Loader, including joypad navigation">
+					<input file>/usr/local/lib/X11/pixmaps/24x24/Help.png</input>
+					<action>defaulttexteditor /usr/local/rom-loader/HELP.txt &</action>
+				</button>
+			</hbox>
+			<hbox>
+				<text><label>Setup joypad navigation</label></text>
+				<button tooltip-text="Edit the Rom-Loaders profile in rejoystick, to enable joypad navigation. You must map the keyboard controls of Rom-Loader to your joypad.">
+					<input file>/usr/local/lib/X11/pixmaps/24x24/Game controller.png</input>
+					<action>rejoystickcc --edit --profile romloader &</action>
+				</button>
+			</hbox>
+			<hbox>
+				<text><label>Enable or disable this splash-screen</label></text>
+				<button tooltip-text="Click this button to enable or disable this splash screen!">
+					<input file>/usr/local/lib/X11/pixmaps/24x24/Favourites.png</input>
+					<action>hide_show_splash &</action>
+				</button>
+			</hbox>
+		</frame>
+	</vbox>
+	</window>'
+	gtkdialog3 -p SPLASH --center
+	unset SPLASH
+fi
+
+backend_to_gui #get the romloader gius to be used for each system
+
+### main gui
+export CHOOSER='<window title="Puppy Arcade Rom Loader '$VERSION'" icon-name="gtk-cdrom" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+<vbox>
+
+	<button visible="false" use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+		<action>/usr/bin/rejoystick1cc --load --profile None</action>
+		<action>/usr/bin/rejoystick2cc --load --profile None</action>
+		<action type="exit">EXIT_NOW</action>
+	</button>
+
+	<text height-request="5"><label>""</label></text> 
+	<text use-markup="true"><label>"<b>Puppy Arcade Rom Loader '$VERSION'</b>"</label></text> 
+
+		<frame>
+		
+			<hbox homogeneous="true">
+
+				<vbox>
+					<button relief="2" tooltip-text="Many Amiga systems supported">
+						<input file>'$ICONDIR'/amiga.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^amiga|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>Amiga</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="Atari 400, 800, XL, 5200, others">
+						<input file>'$ICONDIR'/atari.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^atari|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="Atari 400, 800, XL, 5200, others"><label>Atari</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="Atari 2600">
+						<input file>'$ICONDIR'/atari.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^atari2600|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>Atari 2600</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="Atari ST, Atari TT, Atari Falcon">
+						<input file>'$ICONDIR'/atari.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^atari|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="Atari ST, Atari TT, Atari Falcon"><label>Atari ST</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="Colecovision">
+						<input file>'$ICONDIR'/colecovision.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^coleco|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>ColecoVision</label></text> 
+				</vbox>
+			
+			</hbox>
+			<hbox homogeneous="true">
+
+				<vbox>
+					<button relief="2" tooltip-text="Doom (WAD files)">
+						<input file>'$ICONDIR'/doom.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^doom|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="Doom (WAD files)"><label>Doom</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="Gameboy systems (GB, GBC, GBA)">
+						<input file>'$ICONDIR'/gba3.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^gba|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="All Gameboy systems (GB, GBC, GBA)"><label>Gameboy</label></text> 
+				</vbox>
+				<vbox>
+					<button has-focus="true" relief="2" tooltip-text="Genesis, SEGA 32X, SEGA CD">
+						<input file>'$ICONDIR'/genesis.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^gen|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>Genesis</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="MAME - supports many different arcade machines">
+						<input file>'$ICONDIR'/arcade.png</input>
+						<action>/usr/bin/rejoystickcc --load --profile mame</action>
+						<action>'`echo "$GUI_LIST" | grep -i "^arcade|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="MAME - supports many different arcade machines"><label>MAME</label></text> 
+				</vbox>
+
+			</hbox>
+			<hbox homogeneous="true">
+
+				<vbox>
+					<button relief="2" tooltip-text="Nintendo 64">
+						<input file>'$ICONDIR'/N64.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^n64|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="Nintendo 64"><label>N64</label></text>
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="NeoGeoCD">
+						<input file>'$ICONDIR'/rom.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^neocd|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>NeoGeoCD</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="NeoGeo Pocket - handheld console">
+						<input file>'$ICONDIR'/rom.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^ngp|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>NeoGeo Pocket</label></text> 
+				</vbox>
+				<vbox> 
+					<button relief="2" tooltip-text="NES or Famicom, from Nintendo">
+						<input file>'$ICONDIR'/nes.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^nes|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>NES</label></text>
+				</vbox>
+
+			</hbox>
+			<hbox homogeneous="true">
+
+				<vbox>
+					<button relief="2" tooltip-text="PC Engine/TurboGrafx and PC-FX/TurboGrafx FX">
+						<input file>'$ICONDIR'/pce.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^pce|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="PC Engine/TurboGrafx and PC-FX/TurboGrafx FX"><label>PC Engine</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="Sony PlayStation">
+						<input file>'$ICONDIR'/psx.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^psx|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text><label>PlayStation</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="SEGA 8-bit - Master System 1 and 2, GameGear, SG-1000, etc">
+						<input file>'$ICONDIR'/sega8bit.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^sega8bit|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="SEGA 8-bit - Master System 1 and 2, GameGear, SG-1000, etc"><label>SEGA 8bit</label></text> 
+				</vbox>
+				<vbox>
+					<button relief="2" tooltip-text="SNES - Super Nintendo Entertainment System">
+						<input file>'$ICONDIR'/snes.png</input>
+						<action>'`echo "$GUI_LIST" | grep -i "^snes|" | cut -f2 -d'|'`$C' & sleep 0.6</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="SNES - Super Nintendo Entertainment System"><label>SNES</label></text> 
+				</vbox>
+
+				<vbox>
+					<button relief="2" tooltip-text="Settings">
+						<input file>'$ICONDIR'/snes.png</input>
+						<action>paloader_settings -sk '$C' & sleep 0.75</action>	
+						<action type="exit">EXIT_NOW</action>
+					</button>
+					<text tooltip-text="Change the Rom Loader settings"><label>Settings</label></text> 
+				</vbox>
+						
+			</hbox>
+
+		</frame>
+
+</vbox>
+</window>'
+
+CHOOSER2==`gtkdialog3 "$FULLSCREENGUI" --program=CHOOSER --center`
+unset CHOOSER
+exit 0 # 1.8 always exit at this point

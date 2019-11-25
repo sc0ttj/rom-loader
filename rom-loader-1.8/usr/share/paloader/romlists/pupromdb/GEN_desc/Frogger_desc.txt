@@ -1,0 +1,28 @@
+The object of the game is to direct frogs to their homes one by one. To do this, each frog must avoid cars while crossing a busy road and navigate a river full of hazards. The skillful player may obtain many bonuses along the way.
+
+Directions:
+
+Move Frogger from the bottom to the top while avoiding some obstacles. Eat the fly at the top or touch the second frog on a log and get bonus points. Reach the top before time runs out.
+
+Gameplay:
+
+The player starts with three frogs (lives). The player guides a frog which starts at the bottom of the screen. The lower half of the screen contains a road with motor vehicles, which in various versions include cars, trucks, buses, taxis, bicyclists, and/or motorcycles, speeding along it horizontally. The upper half of the screen consists of a river with logs, alligators, and turtles, all moving horizontally across the screen. The very top of the screen contains five "frog homes" which are the goals for each frog. Every level is timed; the player must act quickly to finish each level before the time expires.
+
+The only player control is the joystick used to navigate the frog; each push in a direction causes the frog to hop once in that direction. On the bottom half of the screen, the player must successfully guide the frog between opposing lanes of trucks, cars, and other vehicles, to avoid becoming roadkill.
+
+The middle of the screen, after the road, contains a median where the player must prepare to navigate the river.
+
+By jumping on swiftly moving logs and the backs of turtles, the player can guide his or her frog safely to one of the empty lilypads. The player must avoid alligators, snakes, and otters in the river, but may catch bugs or escort a lady frog for bonuses. When all five frogs are directed home, the game progresses to the next, harder level.
+
+Frogger is available as a standard upright or cocktail cabinet. The controls consist solely of a 4-direction joystick used to guide the frog's jump direction. The number of simultaneous players is one, and the game has a maximum of two players.
+
+Interestingly, the game's opening tune is the first verse of a Japanese children's song called Inu No Omawarisan (The Policeman's Dog). The song remained intact in the US release. Other Japanese tunes that are played during gameplay include the themes to the anime Hana no Ko Lunlun and Araiguma Rascal.
+
+Hints:  
+
+- Trouble -
+If you get into trouble remember that you can hop backwards and start over. 
+
+Reviewer:
+
+http://www.consoleclassix.com/genesis/frogger.html

@@ -1,0 +1,3 @@
+Epic created a 3d ship shooter back when it was just starting to become all the rage. You are one lone ship versus an entire alien race (haven't we heard this before?). Features a fully 2.5-D environment with texture mapping.
+
+http://www.mobygames.com/game/dos/radix-beyond-the-void

@@ -1,0 +1,17 @@
+SimCity sets you as the mayor of a new municipality, with the responsibility of building and maintaining a place where citizens can move to and work and be happy. The first task is to place essentials such as housing, transport links, schools, factories and shops. There are 50 types of these, allowing for homes of all standards and different types of businesses. Make sure to consider which sites are effective for which tasks. Some power sources pollute, others don't but are more expensive. Taxes must be raised to ensure an income, and then portions allocated to public services such as policing and roads. Earthquakes, floods and fires are all emergency situations that must be dealt to contain any damage.
+
+Successful mayoring will cause the small village to grow into a town, then a city and finally a metropolis. As the city's size grows so do it's needs. Commercial buildings may suddenly find that they need an airport to expand trade, or housing may find itself changing rapidly as vast amounts of people come and leave.
+
+The game also includes 8 pre-defined time-limited scenarios, with specific challenges and targets. The environment varies in each game (especially if you have the Terrain Editor add on), and this should affect your choices.
+
+Trivia:
+
+The original game's source was released under a GPL license in January 2008. The game's name was changed to Micropolis because Electronic Arts holds the license, and plane crashes have been removed because of the 9/11 incident.
+
+The Commodore 64 version of the this game is awful, and is missing features that even the Spectrum version has. Some of the things missing are fire and police stations, the eval stat screen, stadiums, and meltdowns.
+
+In the original DOS release of Simcity, the copy protection was handled a bit different than most games. 
+
+The game gave you 3 square symbols, and then asked you to enter a City and Population. The copy protection itself was printed on dark red papers (therefore uncopyable).
+
+http://www.mobygames.com/game/dos/simcity

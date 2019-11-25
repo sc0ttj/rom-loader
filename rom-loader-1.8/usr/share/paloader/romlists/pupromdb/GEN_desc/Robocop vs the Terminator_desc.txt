@@ -1,0 +1,43 @@
+In the crumbling ruins of a world under siege, man-machine meets machine-man as legendary cyborgs clash to decide the fate of the Earth. As Robocop, you must travel across time into a bloody future ruled by the mechanical forces of Skynet. You'll face attack from every angle, every moment. An unwavering army of Terminators, robotic dogs, spiders, Endoskeletons and a relentless arsenal of automated weapons await you in this veritable hell on earth. To destroy this enemy, free its hostages and finally pierce the dark heart of a killer computer. It will take something more powerful than plasma rifles and laser guns: the human mind that still burns within you.
+
+Gameplay:
+
+The Dark Horse comic book crossover of the two famous 80s cyborgs spawned various different game adaptations. RoboCop versus The Terminator on the Genesis is only loosely based on the comic.
+
+The player controls RoboCop who during his duty of policing the streets of Detroit is lured into a trap by Terminators sent from the future. By uploading himself into the computer network, he becomes the seed from which the malevolent Skynet grows. Years later, in the post-apocalyptic future, RoboCop is reactivated and must help the human resistance by attacking and defeating Skynet once and for all.
+
+The game is a platformer with heavy shooting elements and consists of 10 levels. Many enemies stand in RoboCop's way and must be destroyed via 8 different weapons. RoboCop begins the game with only a basic pistol, but other weapons can be found, including flame and grenade throwers, laser guns, self-seeking missiles and others. While all guns have unlimited ammo, only two can be carried at the same time and being killed means the currently equipped gun is lost.
+
+The game is evenly split between present and future levels. Enemies in present Detroit include mostly street punks and other criminal elements while the future is of course populated by deadly machines: Terminators, robotic dogs and spiders and many automated guns. Each level ends with a boss battle, featuring Terminators, heavy tanks and RoboCop's famous adversaries ED-209 and Cain (aka RoboCop 2).
+
+Some levels feature optional goals besides getting to the exit, like freeing hostages or destroying security cameras.
+
+Hints:
+
+- Fall Through the Floor -
+Pause the game then press A,B,C,C,C,B,A. Hold down the D-Pad and press C.
+
+- Immortality Level -
+Enter Turbo Cop mode, begin the trainer level, then move RoboCop all the way to the left. Hold Up on the D-Pad and press C to jump to find the new level.
+
+- Run faster and jump higher -
+Pause the game and press A, B, C, C, B, A, C, B, A, C, B, A, A, A, C, A, C, B, C, A, C, A, C,A, B, C, B. This will let you run faster and jump higher.
+
+- Start with 54 Lives -
+Enter the following code at the Pause Screen....
+C - C - A - A - B - B - C - C - A - A - B - B
+Then when you play the game you should have 54 lives
+
+- Unlock All Weapons -
+Enter the following code at the Pause Screen....
+B - A - C - C - C - A - B - B - A - C - C - C - A - B
+Then when you play the game you will have all of the weapons
+
+- Violent Mode -
+Enter the following code at the Pause Screen....
+C - B - A - B - B - A - B - B - C - B - B - C - C - B - B - C - B - C - A - C - C - A - A - A - B - B - B - A - C - A
+Then when you play the game there should me more enemies with more gore.
+
+http://www.gamefaqs.com/console/genesis/home/586429.html
+http://www.gamefaqs.com/console/genesis/code/586429.html
+http://www.mobygames.com/game/genesis/robocop-versus-the-terminator_

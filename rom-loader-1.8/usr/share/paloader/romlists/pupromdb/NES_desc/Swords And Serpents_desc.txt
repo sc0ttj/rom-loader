@@ -1,0 +1,39 @@
+Swords and serpents chronicles the journey of four adventurers through the dark depths of a foreboding dungeon. Fierce Monsters, mind numbing puzzles, and crusty old men who give cryptic advice, all stand between our heroes and the riches they seek. In the greatest depths of the dungeon lies the Serpent King, who has plagued the land for hundreds of years. Your quest is simple - Destroy the Serpent King.
+
+Directions - 
+You begin your quest with the creation of your own party, by rolling stats and choosing each character's class. Both the character generation and combat systems closely resemble popular D&D games. The player must create four characters, choosing from Warrior, Wizard, and Thief classes.
+
+To create these characters, you must first roll for your abilities, which consist of Strength, Intelligence, and Agility. The top score is 19 and the bottom is 1. Then you must choose the character's name and class. The Warrior is more or less the tank of the group, running into combat and beating everything with his sword. His main strength is his... well, Strength. The Thief will help you evade traps, relying on his Agility. The Wizard is the spell caster, with both combat and healing spells. He needs high Intelligence to cast effectively. Your choice of party members determines the experience of the game.
+
+After the party has been created, you begin your exploration of the dungeon. You must take your characters through sixteen levels of mazes, monsters and traps before you can face the mighty Serpent King. To reach and finally defeat him, you will need to build your party into an effective fighting machine, combining the best elements of brawn and brains. 
+
+Controls - 
+A Button - Action / Attack
+B Button - Spell List (Combat only)
+Start Button - Game Menu
+Select Button - Character menu
+
+Hints - 
+Password
+To continue the game you are given five passwords to input, one for each player and the fifth for the overall game progress. 
+
+Reviewer - grimjockey
+http://consoleclassix.com/nes/swords_and_serpents.html
+*
+********************************************** T **********************************************
+*
+54c4f37e,7fd4109c,b312f5a6,5e8e83b2,a35f30a3
+T&C Surf Designs 2 - Thrilla's Surfari
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Action
+Release Year - 1992
+Developer - Sculptured Software
+@END
+T&C Surf Designs II - Thrilla's Surfari is a sequel to the original, Town & Country Surf Designs - Wood & Water Rage for the Nintendo Entertainment System (NES) video game system. The game features Thrilla Gorilla, a surfing/skateboarding mascot of the company, Town & Country Surf Designs , on a quest to save his girlfriend who has been kidnapped, as you find out in the opening scenes.
+
+Gameplay involves steering Thrilla around obstacles, over pits and past creatures while collecting coconuts used in the shell game to gain extra lives, bananas to gain extra life, and powerups such as the handstand powerup which grants temporary invulnerability to all manners of danger but pitfalls.
+
+http://en.wikipedia.org/wiki/T%26C_Surf_Designs_2:_Thrilla%27s_Surfari

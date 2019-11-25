@@ -1,0 +1,5 @@
+This patch should translate the entire game into English. But it is possible that some text may have been missed.
+
+This is the SRAM saving version.
+
+http://www.romhacking.net/trans/1306/

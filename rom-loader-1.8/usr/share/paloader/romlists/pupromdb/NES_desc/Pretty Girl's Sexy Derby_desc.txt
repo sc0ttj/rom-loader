@@ -1,0 +1,24 @@
+This game plays like crap, and involves incessantly mashing the A button to move your horse forward, and you always lose anyways (unless you've got some Turbo thing enabled). So, it's a typical hentai game in that respect. Once you win a certain amount of money, the chick you chose takes off a little bit of her clothes, and.. yeah. Anyway, that's the game for you. Sounds like tons of fun, right? Well it's not.
+
+Translation Description - 
+This translation's first release essentially translated all the Japanese verbatim, so it ended up sounding pretty dumb. The new 1.3 release goes back in and cleans up almost every text string so it actually makes sense. Also the hidden bonus text was reworded, cause stupid Japanese puns are not fun to translate.
+
+Reviewer - Spinner 8
+http://www.romhacking.net/trans/7/
+*
+********************************************** R **********************************************
+*
+e269fca3
+Reflect World
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Shooter
+Release Year - 1987
+Developer - East Cube
+Manufacturer - East Cube
+@END
+Reflect World is a Shoot-'Em-Up game, developed and published by East Cube, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578430.html

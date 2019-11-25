@@ -1,0 +1,19 @@
+There is a fine art to watching Jeopardy!, as any know-it-all could tell you. It used to mean shouting at the television (in question form) or turning to anyone within earshot, nodding and calmly saying "I knew that..." GameTek changes all that by giving Jeopardy! fans everywhere an opportunity to really buzz in. Alex Trebek hosts this all-new video game version of television's longest-running game show. Featuring the digitized TV studio, theme music, voice and photgraphy of Alex himself, this Jeopardy! takes full advantage of the graphic and sound capabilities of the Sega Genesis. With over 3,500 new questions and answers (or is that answers and questions?) and 700 categories, it's sure to last many seasons without reruns!
+
+Gameplay:
+
+A game based on the television quiz show and featuring the show's music and the voice of host Alex Trebek. Multiplayer or vs. the Computer games are available, and the game progresses through two rounds. Categories are made available to the player(s) and the questions are in the form of brief descriptions. Answers are limited to extremely short phrases. The harder the question, the better the cash reward. Answering a question wrong results in a deduction of money from your score.
+
+Hints:
+
+- Catagory Select -
+Choose your combinations of catagories
+A,B,A,B,B,A,B at title screen
+Opens catagory selection menu.
+
+- Failing CPU -
+When you get an answer incorrect, hold A+B+C until time runs out to stop the CPU from getting any points.
+
+http://www.gamefaqs.com/console/genesis/home/586255.html
+http://www.mobygames.com/game/genesis/jeopardy__
+http://www.gamefaqs.com/console/genesis/code/586255.html

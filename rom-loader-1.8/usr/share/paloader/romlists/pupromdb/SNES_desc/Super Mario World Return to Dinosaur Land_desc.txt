@@ -1,0 +1,3 @@
+This is a complete hack of Super Mario World. All the levels and worlds are new, and some of the worlds have themes not present in the original, such as a water world and an ice world. Don't expect any new graphics here, though. This hack is all about the level design. The game is moderately challenging, and some of the last levels can get very hard.
+
+http://romhacking.net/hacks/120/

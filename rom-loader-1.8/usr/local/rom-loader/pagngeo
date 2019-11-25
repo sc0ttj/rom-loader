@@ -1,0 +1,663 @@
+#!/bin/sh
+
+###### initial setup vars and cli interface #####
+{
+# enable joypad rom browsing
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#get settigns for this gui
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/pagngeorc
+# set some vars as defaults for pagngeo command line interface
+export FULLGUI=''
+export FSGUI=''
+export FULLSCREENGUI='';
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.bin$|\.a52$|\.atr$|\.zip$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_neogeo' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "pagngeo $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: pagngeo [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    		Start the rom loader GUI in fullscreen
+  -h    		Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+}
+
+######  load config file or defaults #####
+{
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	#SYSTEM
+	BIOS_PATH=/usr/lib/games/neogeo
+	NGSYSTEM=Default #home or arcade ..version 0.8 also has 'unibios'
+	COUNTRY=Default #japan, asia, usa, europe
+	FORCEPC=Default
+	RASTER=Default
+	ROMDIR="$HOME"
+	ROMRC=Default		#path to rom rc file  ... NOT in 0.8
+	ROMRCDIR="$HOME"  #  ... NOT in 0.8
+	#OVERCLOCK
+	SEKCLOCK=Default #percentage to over or under clock .. 0 is normal..
+	Z80CLOCK=Default #percentage to over or under clock .. 0 is normal..
+	#GFX
+	BLITTER=Default   #soft, opengl, yuv
+	FRAMESKIP=Default
+	VSYNC=Default   # NOT in 0.7
+	EFFECT=Default   # none, scanline, scanline50, scale2x, scale2x50, scale2x75, doublex, sai, supersai, eagle
+	FS=Default
+	HWSURFACE=Default
+	INTERPOLATION=Default
+	SHOWFPS=Default
+	SCREEN320=Default 
+	SCALE=Default #scale by n
+	#sound
+	SOUND=Default
+	#Inputs
+	JOYSTICK=Default
+	JOY1=Default   # give the device number ... 0 is /dev/js0, 1 is /dev/js1 and so on
+	JOY2=Default # give the device number ... 0 is /dev/js0, 1 is /dev/js1 and so on
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+}
+
+#####     F U N C T I O N S     ######
+{
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#pagngeo config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	echo BIOS_PATH="$BIOS_PATH" >> $CONFIG
+	echo NGSYSTEM="$NGSYSTEM" >> $CONFIG  
+	echo COUNTRY="$COUNTRY" >> $CONFIG
+	echo FORCEPC="$FORCEPC" >> $CONFIG
+	echo RASTER="$RASTER" >> $CONFIG
+	echo ROMDIR="$ROMDIR" >> $CONFIG  
+	echo ROMRC="$ROMRC" >> $CONFIG
+	echo ROMRCDIR="$ROMRCDIR" >> $CONFIG
+	echo BLITTER="$BLITTER" >> $CONFIG
+	echo FRAMESKIP="$FRAMESKIP" >> $CONFIG
+	echo VSYNC="$VSYNC" >> $CONFIG
+	echo EFFECT="$EFFECT" >> $CONFIG
+	echo FS="$FS" >> $CONFIG
+	echo HWSURFACE="$HWSURFACE" >> $CONFIG
+	echo INTERPOLATION="$INTERPOLATION" >> $CONFIG
+	echo SHOWFPS="$SHOWFPS" >> $CONFIG
+	echo SCREEN320="$SCREEN320" >> $CONFIG
+	echo SCALE="$SCALE" >> $CONFIG
+	echo SEKCLOCK="$SEKCLOCK" >> $CONFIG
+	echo Z80CLOCK="$Z80CLOCK" >> $CONFIG
+	echo SOUND="$SOUND" >> $CONFIG
+	echo JOYSTICK="$JOYSTICK" >> $CONFIG
+	echo JOY1="$JOY1" >> $CONFIG
+	echo JOY2="$JOY2" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	
+	write_config #keep settings for next startup/next game, write to config file
+
+	C=""
+	
+	case $BIOS_PATH in
+	Default) C="$C --biospath=/usr/lib/games/neogeo" ;;
+	*) C="$C --biospath=$BIOS_PATH" ;;
+	esac
+	
+	case $NGSYSTEM in
+	Default) C="$C" ;;
+	*) C="$C --system=$NGSYSTEM" ;;
+	esac
+	
+	case $COUNTRY in
+	Default) C="$C" ;; 
+	*) C="$C --country $COUNTRY" ;;
+	esac
+	
+	case $FORCEPC in
+	true) C="$C --forcepc" ;;
+	false) C="$C --no-forcepc" ;;
+	*) C="$C" ;;
+	esac
+	
+	case $RASTER in
+	true) C="$C --raster" ;;
+	false) C="$C --no-raster" ;;
+	*) C="$C" ;;
+	esac
+	
+	#case $ROMDIR in
+	#Default) C="$C --rompath=\"$DIR\"" ;; 
+	#*) C="$C --rompath=\"$ROMDIR\"" ;;
+	#esac
+	C="$C --rompath=\"$DIR\""
+	OLDROMPATH="`cat /root/.gngeo/gngeorc | grep -m1 rompath | cut -f2 -d' '`"
+	sed -i "s@rompath $OLDROMPATH@rompath \"${DIR/%\//}\"@g" /root/.gngeo/gngeorc
+	
+	[ "$ROMRC" = "" ] && ROMRC=Default
+	case $ROMRC in
+	Default) C="$C" ;; 
+	*) C="$C --romrc=\"$ROMRC\"" ;;
+	esac
+	
+	[ "$ROMRCDIR" = "" ] && ROMRCDIR=Default
+	case $ROMRCDIR in
+	Default) C="$C" ;; 
+	*) C="$C --romrcdir=\"$ROMRCDIR\"" ;;
+	esac
+	
+	case $BLITTER in
+	Default) C="$C" ;; 
+	*) C="$C --blitter=$BLITTER" ;;
+	esac
+	
+	case $FRAMESKIP in
+	true) C="$C --autoframeskip" ;;
+	false) C="$C --no-autoframeskip" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $VSYNC in
+	true) C="$C --vsync" ;;
+	false) C="$C --no-vsync" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $EFFECT in
+	Default) C="$C" ;;
+	*) C="$C --effect=$EFFECT" ;; 
+	esac
+	
+	case $FS in
+	true) C="$C --fullscreen" ;;
+	false) C="$C --no-fullscreen" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $HWSURFACE in
+	true) C="$C --hwsurface" ;;
+	false) C="$C --no-hwsurface" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $INTERPOLATION in
+	true) C="$C --interpolation" ;;
+	false) C="$C --no-intepolation" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $SHOW_FPS in
+	true) C="$C --showfps" ;;
+	false) C="$C --no-showfps" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $SCREEN320 in
+	true) C="$C --screen320" ;;
+	false) C="$C --no-screen320" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $SCALE in
+	Default) C="$C" ;;
+	*) C="$C --scale=$SCALE" ;;
+	esac
+	
+	case $SEKCLOCK in
+	Default) C="$C" ;;
+	*) C="$C --68kclock=$SEKCLOCK" ;;
+	esac
+	
+	case $Z80CLOCK in
+	Default) C="$C" ;;
+	*) C="$C --z80clock=$Z80CLOCK" ;;
+	esac
+	
+	case $SOUND in
+	true) C="$C --sound" ;;
+	false) C="$C --no-sound" ;;
+	*) C="$C" ;; 
+	esac
+	
+	case $JOYSTICK in
+	true) C="$C --joystick" ;;
+	false) C="$C --no-joystick" ;;
+	*) C="$C" ;; 
+	esac
+	
+	#case $JOY1 in
+	#Default) C="$C" ;; 
+	#*) C="$C --p1joydev $JOY1" ;;
+	#esac
+	
+	#case $JOY2 in
+	#Default) C="$C" ;; 
+	#*) C="$C --p2joydev $JOY2" ;;
+	#esac
+	
+	 #enable BIOS in rom folder
+	 TMPBIOS=false
+	 if [ -f /usr/lib/games/neogeo/neogeo.zip -a ! -e "${DIR}neogeo.zip" ];then
+	 	cp /usr/lib/games/neogeo/neogeo.zip "${DIR}neogeo.zip" && echo "Added tmp bios in ${DIR}neogeo.zip.. "
+	 	TMPBIOS=true
+	 fi
+	 
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile gngeo &>/dev/null
+	rejoystick2cc --load --profile gngeo &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+	 
+	 #this is the actual command
+	 cd "$DIR"
+	 mkdir -p /tmp/paloader
+	 echo "gngeo $C ${CHOOSER%.*}" > /tmp/paloader/${SELF}_cmd
+	 . /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	#remove temp bios if added by rom-loader
+	[ "$TMPBIOS" = true ] && echo "Removing tmp bios.. " && rm "${DIR}neogeo.zip"
+
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+}
+
+#####     P R O G R A M     ######
+{
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${NEOGEO_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+}
+
+###### build gui #####
+{
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+# check for bios file
+if [ ! -e "/usr/lib/games/neogeo/neogeo.zip" ];then
+	. /usr/local/rom-loader/func/func_get_bios
+	get_bios_neogeo
+fi
+
+#main gui
+S='<window title="Puppy Arcade - NeoGeo loader (gngeo)" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+  <vbox>
+
+	<frame System options>
+		<hbox>
+			<text><label>System:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the system you want to emulate. UniBIOS requires the unibios file in the BIOS dir, which is /usr/lib/games/neogeo by default.">
+				<variable>NGSYSTEM</variable>
+				'$NGSYSTEM_ITEMS'
+			</combobox>
+			<text width-request="15"><label>""</label></text> 
+			<text><label>Country:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the country for the system">
+				<variable>COUNTRY</variable>
+				'$COUNTRY_ITEMS'
+			</combobox>
+		</hbox>
+
+		<hbox>
+			<text><label>Force PC:</label></text>
+			<combobox width-request="120" tooltip-text="Force the PC to a correct value at startup">
+				<variable>FORCEPC</variable>
+				'$FORCEPC_ITEMS'
+			</combobox>
+			<text width-request="23"><label>""</label></text> 
+			<text><label>Raster:</label></text>
+			<combobox width-request="120" tooltip-text="Enable the raster interrupt">
+				<variable>RASTER</variable>
+				'$RASTER_ITEMS'
+			</combobox>
+		</hbox>
+
+		<hbox>
+			<text><label>Overclock 68K by %:</label></text>
+			<combobox width-request="120" tooltip-text="The higher the faster, use the negative numbers to slow it down">
+				<variable>SEKCLOCK</variable>
+				'$SEKCLOCK_ITEMS'
+			</combobox>
+		</hbox>
+
+		<hbox>
+			<text><label>Overclock Z80 by %:</label></text>
+			<combobox width-request="120" tooltip-text="The higher the faster, use the negative numbers to slow it down">
+				<variable>Z80CLOCK</variable>
+				'$Z80CLOCK_ITEMS'
+			</combobox>
+		</hbox>
+	</frame>
+  
+  	<frame Display options>
+
+		<hbox>
+
+			<text><label>Enable fullscreen</label></text>
+			<combobox width-request="120" tooltip-text="Enable fullscreen display">
+				<variable>FS</variable>
+				'$FS_ITEMS'
+			</combobox>
+			<text width-request="28"><label>""</label></text> 
+			<text><label>Blitter:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the preferred blitter effect.. YUV does not support Effects, you must choose Soft or OpenGL if you want to use any effects below...">
+				<variable>BLITTER</variable>
+				'$BLITTER_ITEMS'
+			</combobox>
+
+		</hbox>
+
+		<hbox>
+			<text><label>Hardware Surface:</label></text>
+			<combobox width-request="120" tooltip-text="Enable video hardware usage">
+				<variable>HWSURFACE</variable>
+				'$HWSURFACE_ITEMS'
+			</combobox>
+			<text width-request="32"><label>""</label></text> 
+			<text><label>Effect:</label></text>
+			<combobox width-request="120" tooltip-text="Choose your preferred graphics effects. Note, you must not be using the YUV blitter. If using the YUV blitter, choose none or Default here.">
+				<variable>EFFECT</variable>
+				'$EFFECT_ITEMS'
+			</combobox>
+
+		</hbox>
+
+		<hbox>
+
+			<text><label>Frameskip</label></text>
+			<combobox width-request="120" tooltip-text="Enable frameskipping... this can be disabled when Vsync is enabled.">
+				<variable>FRAMESKIP</variable>
+				'$FRAMESKIP_ITEMS'
+			</combobox>
+			<text width-request="38"><label>""</label></text> 
+			<text><label>Vsync</label></text>
+			<combobox width-request="120" tooltip-text="Enable Vsync to reduce screen tearing.. this affects playback speed..">
+				<variable>VSYNC</variable>
+				'$VSYNC_ITEMS'
+			</combobox>
+
+		</hbox>
+
+		<hbox>
+
+			<text><label>Interpolation:</label></text>
+			<combobox width-request="120" tooltip-text="This should be enabled if possible, as the NeoGeo could not do transparency, so interpolation is used to combine the current and previous frame to achieve a similar effect.">
+				<variable>INTERPOLATION</variable>
+				'$INTERPOLATION_ITEMS'
+			</combobox>
+			<text width-request="5"><label>""</label></text> 
+			<text><label>Show FPS:</label></text>
+			<combobox width-request="120" tooltip-text="Show on screen FPS data or not">
+				<variable>SHOWFPS</variable>
+				'$SHOWFPS_ITEMS'
+			</combobox>
+
+		</hbox>
+
+		<hbox>
+
+			<text><label>Use 320x224:</label></text>
+			<combobox width-request="120" tooltip-text="If enabled the emulator resolution will be set to 320x244, instead of 304x244">
+				<variable>SCREEN320</variable>
+				'$SCREEN320_ITEMS'
+			</combobox>
+			<text width-request="35"><label>""</label></text> 
+			<text><label>Scale:</label></text>
+			<combobox width-request="120" tooltip-text="Choose the preferred scale for the graphics... Higher is bigger..">
+				<variable>SCALE</variable>
+				'$SCALE_ITEMS'
+			</combobox>
+		</hbox>
+
+	</frame>
+
+	<frame Sound and Input options>
+		<hbox>
+			<text><label>Sound:</label></text>
+			<combobox width-request="120" tooltip-text="Enable or disable sound">
+				<variable>SOUND</variable>
+				'$SOUND_ITEMS'
+			</combobox>
+		</hbox>
+
+		<hbox>
+			<text><label>Enable Joysticks:</label></text>
+			<combobox width-request="120" tooltip-text="Enable or disable joypads">
+				<variable>JOYSTICK</variable>
+				'$JOYSTICK_ITEMS'
+			</combobox>
+		</hbox>
+##		<hbox>
+##			<text><label>Joypad 1:</label></text>
+##			<combobox width-request="120" tooltip-text="Choose your input device for player 1">
+##				<variable>JOY1</variable>
+##				'$JOY1_ITEMS'
+##			</combobox>
+##			<text width-request="25"><label>""</label></text> 
+##			<text><label>Joypad2:</label></text>
+##			<combobox width-request="120" tooltip-text="Choose your input device for player 2">
+##				<variable>JOY2</variable>
+##				'$JOY2_ITEMS'
+##			</combobox>
+##		</hbox>
+	</frame>
+  
+  
+  </vbox>
+## H E L P
+  <vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"GnGeo Help:
+=======================
+
+You need to have the neogeo.zip BIOS in the same folder 
+as your ROMS.. If you have installed the NeoGeo BIOS though 
+BIOS-Checker or Rom-Loader, then the neogeo.zip file will be 
+added and removed automatically for you.
+
+-----------------------------------------------
+Keyboard configuration:
+
+You can setup joypads by editing the file 
+/root/.gngeo/gngeorc.
+
+Or, easier, you can map the controls below to 
+the desired joypad buttons instead:
+----------------------------------
+Player 1
+
+3			Insert coin
+
+W,S,A,D		up, down, left, right
+B			A button
+N			B button
+V			C button
+G			D button
+Enter		Start button
+
+----------------------------------
+Player 2
+
+4			Insert coin
+
+Cursor keys	up, down, left, right
+(all keys below on numpad)
+2			A button
+3			B button
+1			C button
+5			D button
+Enter		Start button
+
+
+=====================
+
+You can supposedly configure your keyboard like this:
+
+    Start gngeo with a game, press the F4 key. Now, every time you 
+    press a key, its scancode is printed on screen. Press the buttons 
+    you want to use, and note the associated scancode somewhere. 
+    Now edit the /root/.gngeo/gngeorc file at the line p1key or p2key, 
+    and modify the default scancode with yours.
+    
+When you know what the keyboard controls are, you can map them to 
+your joypad using Rejoystick, in the Settings page of Rom-Loader.
+  
+"</default>
+	</edit>		
+  </vbox>
+
+ </notebook>
+
+## B U T T O N S
+
+	<hbox height-request="30">
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/share/doc/gngeo/README /usr/share/doc/gngeo/USAGE &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+}
+
+### run gui ####
+export pagngeo="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p pagngeo $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset pagngeo
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

@@ -1,0 +1,25 @@
+Cool Spot was a low budget game, and was very short. There were only 10 levels and each level was about 5 minutes long. Total game-play was about an hour but a good game more or less. A good thing about it is it had photo realistic graphics and 5 bonus levels!! Cool Spot had some strange level designs, and this game also appeared on the (SNES). The game had some great ideas on enemies they range from birds, crabs and some very strange ones later on. Cool Spot is a game everyone has to try at least once! (6/10 stars)
+
+Directions:
+
+The adorable 7Up mascot has found his way onto Sega Genesis as the star of his own game, COOL SPOT. After seeing all of his friends get kidnapped, the last remaining Spot sets out on an adventure of rescue and redemption through 10 levels of platforming excitement. A game you'll be playing for years to come!
+
+Controls:
+
+A Button: Fire Weapon
+B Button: Jump 
+
+Hints:
+
+- Debug Mode -
+Enter the following code at the Options screen....
+A - A - B - B - C - C - C - C - B - B - A - A - A - A - B - B - C - C
+Then when you play the game you should be able to debug it.
+
+- Level Select -
+Pause the game and then enter the following code....
+A - B - C - B - A - C - A - B - C - B - A - C
+Then you should have access to any level
+
+http://www.consoleclassix.com/genesis/cool_spot.html
+http://www.gamefaqs.com/console/genesis/home/586116.html

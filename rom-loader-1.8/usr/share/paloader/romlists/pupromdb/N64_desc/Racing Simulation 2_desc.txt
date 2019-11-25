@@ -1,0 +1,17 @@
+Description
+
+Innovative 4-point physics engine calculates and monitors all 4 tires independently, creating the most precise simulation of Grand Prix style racing you will ever experience. 16 international courses, and all tracks to scale with realistic dimensions, scenery and environments. Up to 22 racers competing on each track. Arcade, Amateur, Expert and Pro modes. Indestructible cars or real-life damage, dents and shrapnel. Weather effects and multiple road conditions. Start as an inexperienced driver with an entry-level team. As your skill improves, you're invited to race for more prestigious teams.
+
+Monaco Grand Prix known in Europe as Monaco Grand Prix: Racing Simulation 2 is a Formula one racing game for the Nintendo 64, Sony Playstation, and Sega Dreamcast. It was released in 1999. The game is based on the Formula One World Championship, but does not have the licence to use drivers names, official cars etc. (The licence was held by Video System at the time who made F-1 World Grand Prix and F-1 World Grand Prix II.) The game does however have a licence to use Formula One's official sponsors; Schweppes and Castrol among others[citation needed]. This helps to add to the authenticity of the game.
+
+The sequel to F1 Racing Simulation recreates the 1997 season, featuring 17 authentic tracks, 11 teams and cars with their 22 drivers. The Monaco license is used, although the teams themselves are not licensed. A total of 22 camera views are provided. Telemetry is stored and analysed in a similar way to Grand Prix 2, and physics are modeled to be realistic. There are eight different modes to race, the new ones being a career mode in which you start with a poor team and must drive well enough to earn competitive rides, and scenarios recreating key races for particular drivers. Returning from the first game are Time Attack, a full championship, and a 50s retro mode. There is also a track editor to create your own tracks.
+[edit] Trivia
+
+    * Ubisoft did not have the official FIA license. Therefore they licensed only the Monaco track and named the game after it. All other F1 tracks are also included, but using different names.
+    * In the United Kingdom the title is 'Racing Simulation: Monaco Grand Prix'
+    * In Germany the game is just know as 'Racing Simulation 2' and has a different cover.
+
+
+
+http://en.wikipedia.org/wiki/Monaco_Grand_Prix_%28video_game%29
+http://www.gamefaqs.com/n64/197968-monaco-grand-prix/data

@@ -1,0 +1,24 @@
+The original Kick Off was expanded on in many ways for this sequel. The game now features full tournament modes (although the players on the teams are fictitious) and four different pitches (including an implementation of plastic pitches, whose uneven bounce cause controversy when several British clubs tried them in the 1980s).
+
+Viewed top-down, the controls involve trapping the ball under your foot, giving you time to prepare passes. Running with the ball is tricky at first, as it doesn't stick to your foot the way it did in contemporary football games. Complex moves such as overhead kicks, back-heels and long-range through-ball passes can be completed with practice.
+ 
+http://www.mobygames.com/game/amiga/kick-off-2
+_________________________
+CHEATS:
+
+Forced miss:
+Repeatedly tap Fire while a player on the opposing
+team makes a shot. The ball will be blocked, knocked over the
+net, or saved by your goal keeper. Note: Enabling an auto-fire
+joystick will also have the same result.
+
+View penalty shot aim:
+Keep pressing R when your team takes a penalty
+to view where the players are going to kick the ball. 
+
+Substitute CPU goal keeper:
+Press [F1] [F2] [F3] [F4] [F5] [F6] [F7] [F8] [F9]
+[F10] during game play. The text "S12" or "S14"
+will appear in the top right corner to confirm correct code entry.
+Substitute the CPU goal keeper for easy scoring. Note: Two substitutions
+may be needed for this trick.

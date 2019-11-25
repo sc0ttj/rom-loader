@@ -1,0 +1,54 @@
+The evil scientist Dr. Robotnik has unleashed his most diabolical plot yet to turn the animals of Planet Mobius into robots. His monstrous contraption, the Veg-O-Fortress, built on Mt. Mobius, is already transforming happy creatures into mindless slaves!
+
+Robotnik's fiendish machine draws its power from the mountain's volcano. Fiery lava fuels the lethal Pinball Defense System that protects the Fortress.
+
+Sonic and his pal Tails mount an air assault on the Fortress, only to be blasted in mid-flight by Robotnik's cannons. Sonic is knocked into deep waters near the volcano. But he has friends in wet places -- and is saved at the last moment!
+
+Sonic sneaks into the Toxic Caves below the Fortress. From there, he infiltrates Robotnik's vast and deadly defenses. In no time at all, Sonic starts swiping Emeralds, freeing the animals of Mobius and dishing out hedgehog justice!
+
+Yo, Robotnik! You're in for a mountain of trouble now. Sonic is spinning into action!
+
+--from the Genesis Sonic Spinball instruction booklet
+
+Sonic Spinball is a lot of fun to play! It mixes two things people love: Sonic the Hedgehog, and Pinball. The graphics and sounds were pretty good. I used to play this game a lot. It's cool because you can try to beat the game, or you can just see who can get the highest score. If you like Sonic or Pinball, Sonic Spinball is right up your alley!
+
+Directions:
+
+The evil Dr Robotnik is back again. Now Sonic (and you) must stop him, in this pinball style game!
+
+Gameplay:
+
+Sonic Spinball is essentially the logical continuation of a tradition of pinball themed levels that started with Spring Yard Zone on Sonic the Hedgehog. The game features four large pinball 'tables' - a sewer level, a geothermal power station, a robot factory, and a launchpad system. The player must guide Sonic through each of the four levels and collect all of the Chaos Emeralds, then fight Dr. Robotnik.
+
+Once all of the Chaos Emeralds in a level are collected (3 in the first two levels, 5 in the last two levels), Sonic gains access to the boss room and has to defeat a boss to advance onwards.
+
+The main difference between this game and an actual pinball game is the ability to influence the "ball" (Sonic) directly by using the D-pad. The A, B and C buttons operate the flippers and can be assigned in the Options menu. Sometimes the player can control Sonic on foot, but for the majority of the time he is rolled into a ball controlled by the flippers. The traditional Sonic the Hedgehog platformer gameplay is kept to a very low minimum.
+
+- Levels -
+Sonic in The Machine Zone.
+
+- Zones -
+    - Toxic Caves (known as Toxic Pools on the 8-bit versions): Sonic is flushed into a cavern full of toxic waste and mine carts, which happens to be the place where Robotnik dumps all of the industrial waste. There are 3 Chaos Emeralds to collect here that must be obtained by hitting multiple switches. In 8-bit versions, the design for this level has completely changed.
+
+    - Lava Powerhouse: Sonic ascends to the next level, a power station of sorts that uses magma and steam energy to run various machines. There are 3 emeralds here.
+
+    - The Machine: There are 5 emeralds here in this high-tech level. Sonic can also find a giant-sized animal prison in the very middle of this zone.
+
+    - Showdown: Sonic has to find 5 Chaos Emeralds and reach the top of the Launch site to defeat Dr. Robotnik before he manages to escape.
+
+- Special stages -
+At the end of each of the first three stages, Sonic gets to play a bonus round. These bonus rounds are set up like real pinball machines, with Sonic at the controls. The player is given a task to complete and three balls to play with. Flipper controls are the same as in the normal game, but the ball cannot be controlled with the D-pad like Sonic. Pressing all the flipper buttons at once will make Sonic shake the machine, though repeated shakes will cause a tilt and lock the flippers.
+
+Completing the bonus stages are optional and serves only to increase the player's score. The three bonus rounds, in corresponding order to the normal zones, are:
+
+The Game Gear version of Toxic Caves (renamed Toxic Pools in this version).
+
+    - Trapped Alive: The object is to destroy all the robot machines and free the helpless animals trapped inside them and then destroy Robotnik. Among the prisoners are Sonic's Freedom Fighter pals from the SatAM cartoon: Tails, Bunnie Rabbot, Sally Acorn, and Rotor Walrus.
+    - Robo Smile: A grinning Robotnik face moves across the machine. The objective is to knock out all of Robotnik's teeth.
+    - The March: Similar to Trapped Alive, the object is to destroy the capsule and free the animals and Freedom Fighters within. The capsule is circled by a ring of Scratch robots.
+
+Additionally, a hidden multi-ball bonus game, called The Clucker's Defense, can be played on any stage, but only if the player manages to collect every ring in the zone. Several star circles will appear in the stage, hidden at various points on the board. By leaping into them Sonic will be warped to this bonus round. The object is to destroy a crab Badnik who is protected by a pair of Cluckers.
+
+Reviewer: Adrian
+http://www.consoleclassix.com/genesis/sonic_spinball.html
+http://en.wikipedia.org/wiki/Sonic_Spinball

@@ -1,0 +1,27 @@
+In this sequel to the original Doom, you play the same hero - the last remaining space marine. After having single-handedly saved Mars from demonic threat, you return to Earth, only to find out that the demons have already invaded it, killed all its inhabitants or turned them into demons. It's your task to kill all the demons and to save the Earth.
+
+Doom II looks and plays very similarly to its predecessor, utilizing the same 3D graphical engine with 2D sprites for enemies. The gameplay once again consists entirely of navigating the hero from first-person view through 3D environments and shooting at the demons while attempting to find your way out by flipping switches and looking for keys. Unlike in Doom, which is divided into three episodes, the 30 levels of Doom II (plus the 2 secret levels) form one long episode. 
+
+You have the same weapons as in the first Doom, plus a new one: a super shotgun. There are also some new demons in this sequel, such as the chaingun-toting Heavy Weapon Dudes, the skeletal Revenants who launch homing missiles and the Arch-Viles who have a highly damaging fire attack. There is also one new power-up, a Megasphere which boosts your health and armor to the max. 
+
+Trivia:
+
+DOOM II actually preceded the retail release of its predecessor. While the shareware version of DOOM was available before DOOM II's box release, it wasn't until the release of The Ultimate DOOM in 1995 that the full version of DOOM was finally available on retail shelves.
+
+DOOM II features two secret levels. Both pay homage to earlier id Software titles. Level 31 - "Wolfenstein" (accessible from Level 15 - "Industrial Zone") is a recreation of the first level of the first episode of id's Wolfenstein 3D in the DOOM engine. The map layout is almost identical. Even the secret areas from the original game can be found in the same places, and some additional secret areas have been added. The brown-uniformed guards from the original are replaced by blue-uniformed SS troopers (complete with re-recordings of their original exclamations "Schutzstaffel!" and "Mein Leben!") and dogs are replaced by "pinky" demons. 
+
+When using the secret exit (also present in the original), Level 32 - "Grosse" can be accessed. This is a recreation of the last level of Wolf3Ds first episode. The end boss Hans Grosse (hence the level name) is replaced by a Cyberdemon. In the room behind him, there is another reference to an earlier id title: four Commander Keens are hanging by their necks on ropes. They have to be shot and killed to reveal the button that exits the level. The sound effects heard when shooting at them are renditions of PC speaker effects from the first three Keen games. According to John Romero (source), this gag was artist Adrian Carmack's idea, who never wanted to work on Keen again.
+
+Both levels also feature music taken from Wolfenstein, rearranged from the original FM sound to General MIDI.
+
+The levels are missing from the version of the game sold in Germany due to restrictions on the use of swastikas and other Nazi symbols. The Game Boy Advance version does feature the levels, but removes all Nazi symbolism.
+
+In April 2005 a full port of this game was brought to XBOX as part of the Doom 3 special edition. Also see The Ultimate Doom.
+
+Doom II was the first game to be rated by the ESRB, as its predecessor naturally inspired it due to the violence controversy.
+
+The US Marine Core created their own Doom2 wad files for training in 4 man co-op levels. You can find more information at the following website. http://www.tec.army.mil/TD/tvd/survey/Marine_Doom.html
+
+Did you know there is an interesting, well-written novel series based on the games? The books are about the aventures of Flynn Taggart, a Marine Corps. member sent to Phobos, the moon of Mars to stop the aliens from conquering earth. The books are very good, but unfortunately are hard to find.
+
+http://www.mobygames.com/game/doom-ii-hell-on-earth

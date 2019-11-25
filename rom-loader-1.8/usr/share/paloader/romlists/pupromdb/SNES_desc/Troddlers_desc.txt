@@ -1,0 +1,27 @@
+Troddlers is a great puzzler in which the heroes run and jump around the screen, pushing boulders, picking up and moving blocks, in an effort to collect gems, guide your tiny allies to safety, and smash enemies.
+
+Directions:
+
+In many ways Troddlers is similar in style to Lemmings. Each level is one screen, and the objectives are laid out before the level begins. Push Up or A to Jump. Hold down B or X and push a direction to bring up a cursor over a block you want to move, then release the button to pick up the block.  
+
+The same action can be used on an empty space to put a block there. Push boulders into position to climb on, or drop them to create gems. Dropping a boulder onto another boulder creates green gems, dropping it on ally Troddlers creates red, and dropping it on enemies creates blue. Later in the game new blocks are introduced, some of which explode when a Troddler steps on them, others made of ice which Troddlers can slip off of, and springs which can save Troddlers from a long fall. Also, of course, there is a time limit, what would a puzzler be without a time limit? But in this case, you can still see the screen while resting, so you can plan your strategy without wasting time.
+
+There are two different 2-players modes in Troddlers. One is cooperative, in which both players work together to accomplish the goals of each level. The other is War, the two players trying to destroy one another's Troddlers, competing for gems, etc. 
+
+Controls:
+
+A Button - Jump
+B Button - Grab or Drop Block
+X Button - Not used
+Y Button - Grab or Drop Block
+Start Button - Accept Selection, Pause
+Select Button - Accept Selection
+
+Hints:
+
+Jump-and-Pull
+
+One of the most difficult, counter-intuitive techniques in the game, you must sometimes stand on a block, pick it up, and pull it up with you, without falling. This means mastering the timing so that you jump after the command to pick the block up, but before it disappears. With two blocks you can use this technique to climb all the way up the screen without touching any stable platforms.
+
+Tips:
+

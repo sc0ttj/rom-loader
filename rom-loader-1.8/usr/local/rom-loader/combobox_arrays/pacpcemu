@@ -1,0 +1,20 @@
+# FULLSCREEN combobox
+FULLSCREEN_ARRAY=(Default true false)
+FULLSCREEN_ITEMS="<item>$FULLSCREEN</item>" #stored value should be first in list
+for i in "${FULLSCREEN_ARRAY[@]}"
+do
+	if [ "$i" != "$FULLSCREEN" ];then
+		FULLSCREEN_ITEMS=`echo "$FULLSCREEN_ITEMS<item>$i</item>"`
+	fi
+done
+
+# AUTOLOAD combobox
+AUTOLOAD_ARRAY=(Default true false)
+AUTOLOAD_ITEMS="<item>$AUTOLOAD</item>" #stored value should be first in list
+for i in "${AUTOLOAD_ARRAY[@]}"
+do
+	if [ "$i" != "$AUTOLOAD" ];then
+		AUTOLOAD_ITEMS=`echo "$AUTOLOAD_ITEMS<item>$i</item>"`
+	fi
+done
+

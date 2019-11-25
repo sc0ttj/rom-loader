@@ -1,0 +1,73 @@
+Sonic The Hedgehog 3 takes place on the mysterious Floating Island which holds many special powers. The source of these powers are Chaos Emeralds. In Sonic The Hedgehog 2, Sonic and Tails thought that they had destroyed the Death Egg, which was Dr. Robotnik's heavily armored ship. Instead, Dr. Robotnik managed to crash land on the Floating Island. After learning that the island is able to float in the sky by harnessing the power of the emeralds, the Doc decides to steal the emeralds so he can repair his Death Egg ship.
+
+To obtain the emeralds, Dr. Robotnik tricks Knuckles, the guardian of the Floating Island's Chaos Emeralds. He also tells Knuckles that Sonic and Tails are the ones trying to steal the emeralds.
+
+Between battling the new types of Badniks and trying to outsmart Knuckles, Sonic and Tails have their work cut out for them once they arrive on the Floating Island and search for Dr. Robotnik.
+
+--From the Genesis Sonic The Hedgehog 3 instruction manual.
+
+Overview:
+
+The third in the "original trilogy" of Sonic The Hedgehog games, this one certainly delivers, and it remains a favorite to this very day. The graphics have been improved from the previous game in a few ways, Sonic sporting a brand new look as well as many other new enemies that just look great.
+
+Every stage is designed well. The music is just as great, fitting to the series, and enhances the gaming experience. From the original Power Shoe speedup music to the new stage tunes, it just rocks in general. Most important to any Sonic game, the speed is still there, even heightened a few notches. Bottom line, if you love Sonic and haven't even played this title, it's a must!
+
+Directions:
+
+Everything that you love about Sonic is still there, along with a couple of additions. The object of the game remains: to reach the end of the level as fast as you can to advance. In order to effectively clear a level, you'll need to collect rings which will serve as a lifeline of sorts.
+
+As long as you hold at least one, you'll be able to be hit without dying. However, once you do get hit, your rings fall all over, which leaves you just a chance of retrieving them before they vanish. If you manage to keep them and reach a total of 100 rings, you have earned an extra life.
+
+Just like the previous game, after the end of the two acts you are greeted to a fight with Dr. Robotnik and it's up to you to defeat him to move on. If you take the time to strategize his attack patterns, then you'll have an easier time.
+
+Power-ups are scattered about in the levels in the form of computer monitors which you have to jump on to activate. While some monitors just give you rings, others have the infamous Power Shoe that grants you super speed for a limited time, or the Stars that grant you temporary invincibility. There are also ones that were new at the time, each one working as a defense shield, good for one hit. The Flame grants you a fire shield that you can also use in a fireball technique to zoom across, the Bubble which lets you breath underwater and gives the ability of a bounce jump, or the Lightning that causes you to attract nearby rings.
+
+If you're spent on the single player adventure, you can go to a two player game where you and another player can compete head to head in different fields. You can choose from three characters: Sonic, Tails and Knuckles. The first to accomplish the set number of laps wins. 
+
+Gameplay:
+
+In single player mode, the player can choose to play solo, as either Sonic or Tails, or as a team, controlling Sonic, with the AI controlling Tails, which is the default configuration. Another player may take control of Tails at any time by using a controller plugged into port 2. The object of the game is to progress through the levels. In order to completely finish the game, seven Chaos Emeralds must also be collected from the special stages.
+
+The gameplay builds on the formula laid down in Sonic 2. Sonic and Tails are now equipped with special moves that are activated by pressing the jump button a second time while in mid air. Tails will fly if he's out of water, or swim if he's in water, both for a limited amount of time. In a team game, a second player can use Tails to "airlift" Sonic for a short amount of time. Both characters can gain one of three elemental shields (fire, lightning, and water) which protects against damage from that element, with sonic gaining an additional attack from each one. If Sonic has no shield equipped, he can generate an Insta-Shield, giving him a split second burst of protection from projectiles and increasing Sonic's attack radius.
+
+Based on an improved Sonic 2 game-engine, Sonic 3 included more scope than any other game in the series to date: the play fields were three times larger than previous games, with multiple paths for different characters, more environmental elements with which to interact, faster maximum speeds, more end-of-level bosses, and more set pieces, all without any of the framerate issues that plagued certain parts of Sonic 2.
+
+The game introduced many staples to the series, such as an increasingly story-driven game, multiple shield types, several musical indents and themes used in most subsequent games, and introduced Jun Senoue to the series, who would later become sound director of the 3D Sonic games, lending them their signature rock-inspired soundtracks.
+
+Each stage connects to the next, via continuation or a cutscene, to convey spatial relation between the levels. The game conveys a sense of existing in an interconnected geographical location, as opposed to separate, disconnected zones. With these transitions between the levels, the game developer expanded the idea initiated in the 8-bit version of Sonic 1. Knuckles has also become a firm fan favourite, alternating roles between rival, antagonist, and partner.
+
+- Bonus & Special Stages -
+
+As in previous Sonic games, star posts are scattered throughout each level to act as restart points. If Sonic has collected at least 50 rings when touching a star post, a bright halo of stars will float above it, which Sonic can then jump through to access a bonus stage based on a gumball machine, where rings, 1-Ups and shields can be won.
+
+A diagram of how rings may be generated by walking the perimeter of a group of blue spheres.
+
+Hidden in most acts, are multiple large golden rings, which act as special stage entrances.
+
+Each of the special stages are based on a 3-dimensional, checkered sphere, of which only a small surface portion is visible at any given time. The surface of this sphere is covered in rings and smaller spheres which the player can collect. The smaller spheres are coloured blue, which need to be collected, red, which results in instant retirement, or red-and-white stars, which act as bumpers, and will send the player backwards.
+
+The player moves across the surface automatically, following the edges of the checkered squares. At each corner, they can turn left, right, carry on straight, or jump forward by a distance of one square. As players collect blue spheres, they will turn into red spheres behind him. However, if the player goes around the outline of a group of spheres with at least one blue sphere inside (see diagram), all the spheres in that group will turn into rings. As time goes on, the player will move increasingly faster, making it easier to make a wrong move and run into a red sphere.
+
+The stage ends when all the blue spheres are collected, which results in a Chaos Emerald, or a red sphere is touched, which prematurely ends the stage. In addition, earning 50 rings grants the player a continue, and collecting the maximum amount of rings in a stage results in a perfect clear, which adds 50,000 points to the total score, granting an automatic extra life.
+
+There are 7 special stages, one for each emerald. When all emeralds are collected, Sonic can become Super Sonic by collecting 50 rings and performing a double jump. At this point, any addition giant rings found will add 50 rings to the player's total, instead of starting a special stage.
+
+Super Sonic is nigh-invulnerable, and can run faster and jump higher than normal Sonic. Whilst playing as Super Sonic, the ring count is drained down to zero at a rate of one ring per second, and once all rings are lost, Sonic reverts to his normal form.
+
+- Multi-player -
+Sonic 3 has a head-to-head, split-screen 2-player mode similar to the one in Sonic the Hedgehog 2. However, Instead of using levels from the single player game, a set of short wrap-around tracks and scaled-down character sprites were created, in addition to making Knuckles a playable character. Players can select to play a Grand Prix of all five tracks, a single track to race on, or race the clock in time trial. The aim of all modes is to complete 5 laps of the track as fast as possible.
+
+Controls:
+
+A, B, or C Buttons: Jump
+Down and A, B, or C: Super Spin
+A, B, and C x2: Special Midair attack
+
+Hints:
+
+- Infinite Lives -
+Get up to Launch Base Zone. Sound any of the alarms, so that the Kamikaze birds come after you. Charge up a Super Sonic Dash in between the alarm, but do not let go of the button. The birds will continually crash into you. After about 30 seconds, you will have gained enough points to get an extra life. Continue the process for as many lives as you want.
+
+Reviewer: LinkOfHyrule
+http://www.consoleclassix.com/genesis/sonic_the_hedgehog_3.html
+http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_3

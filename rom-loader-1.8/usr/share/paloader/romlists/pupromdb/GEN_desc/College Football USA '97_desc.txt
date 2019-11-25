@@ -1,0 +1,11 @@
+College Football USA 97 is a college football game featuring 111 Division 1-A teams. The game has exhibition, season, tournament, and tiebreaker modes. It also contains a create a player feature. Basically it is an updated version of College Football USA 96 with similar gameplay.
+
+Hints:
+
+- View All Team Endings Code -
+At the game select screen, press ''B-B-C-A-A-C-A-B''. You will then be able to select from all teams, and view their special ending.
+
+This was found by playing an entire season as ''Division 1-AA'', including a victory in its bowl game. Its special ending has cheerleaders holding up signs that spell the above code.
+
+http://www.mobygames.com/game/college-football-usa-97
+http://www.gamefaqs.com/console/genesis/home/915985.html

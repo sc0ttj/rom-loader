@@ -1,0 +1,40 @@
+For offending mighty Ra by not offering enough sacrifices, you have been turned into a scarab beetle and imprisoned in a pyramid. To return to a normal life as a human being, you have to escape the pyramid by solving the riddles within. This is done by removing all stones, marked with a symbol, in each level of the pyramid. Only two stones with the same symbol can be removed at once and they have to be on a straight horizontal or vertical line. Some stones can be moved to match the required conditions for their removal. To move a stone the player has to walk onto the stone and hold down the fire button on the joystick. Now, instead of just moving the scarab, the player moves the scarab with the stone underneath it. To remove a pair of stones, the scarab has to be on one stone. Pressing the fire button releases a crosshair which can now be moved to a matching stone. Pressing the fire button again with the cross hairs over the second stone will remove them both. After all stones have been removed, the scarab has to return to the start-stone which is marked with an Ankh-symbol. This is the basic concept of the game, which can be played in a logic-mode or in an arcade-mode.
+
+_________________________
+CHEATS:
+
+    (LEVEL CODES)
+
+ 01----------"WOBBLER"  34---------"VON KOCH"  67------"DRAGONLANCE"
+ 02--------------"YEG"  35---------"CHRISTUS"  68------"HATHEGA KLA"
+ 03----------"CTHULHU"  36-----------"JEHOVA"  69---------"INQUANOK"
+ 04--------"LOVECRAFT"  37------"92E2JMP92E2"  70------------"KIRAN"
+ 05----"TOMMYKNOCKERS"  38-------"RAWHEADREX"  71---------"OUKRANOS"
+ 06---------"WATCHERS"  39-------"HELLRAISER"  72------------"THRAN"
+ 07----------"MIDGRAD"  40----------"PINHEAD"  73-----------"ULTHAR"
+ 08----------"UNICORN"  41-----------"DEVPAC"  74--------"THALARION"
+ 09-------------"ISIS"  42------"EINSTEINIUM"  75----------"NGRANEK"
+ 10---------"MIDNIGHT"  43-----"PROTACTINIUM"  76--------"CHATHURIA"
+ 11--------"KAZGAROTH"  44-------"PROMETHIUM"  77---------"ENTROPIE"
+ 12-------"MISCATONIC"  45----------"JS BACH"  78------"HEISSENBERG"
+ 13--------"THORBADIN"  46--"TOCCATA ET FUGA"  79----------"LAPLACE"
+ 14---------"MISHAKAL"  47------"BRANDENBURG"  80---------"SONA NYL"
+ 15-------"ABANASINIA"  48--"COLONIA CLAUDIA"  81-----"DIFFERENTIAL"
+ 16------"EARTHMOTHER"  49------"VOLKSGARTEN"  82---------"INTEGRAL"
+ 17----------"AZATOTH"  50------------"TERRA"  83------"HYPERZYKLUS"
+ 18-------"AKALLABETH"  51------------"64738"  84-------"APFEL MANN"
+ 19-----"SILMARILLION"  52------------"67802"  85------------"CHAOS"
+ 20------------"DRAUG"  53-------"NIBELUNGEN"  86----------"DYAKHEE"
+ 21---------"SINDARIN"  54-"HAGEN VON TRONJE"  87----------"DENDRIT"
+ 22--------"OSSIRIAND"  55------------"DONAR"  88-----------"NEURON"
+ 23----------"MITHRIL"  56------"SKIDBLADNIR"  89---------"DANKREAS"
+ 24---------"GLAURUNG"  57------------"DAGON"  90---------"PANAKREA"
+ 25---------"ELBERETH"  58--------"SLAWOTSKI"  91--------"UNORDNUNG"
+ 26-----------"THORON"  59--------"CULLINANA"  92------"DEUTSCHLAND"
+ 27-----------"AMARTH"  60-----"ARTA MYRDHYN"  93----------"GERMANY"
+ 28-------"THARGELION"  61---"ANNA MAGDALENA"  94-"MUSIC TELEVISION"
+ 29----------"NAUGRIM"  62--"PHILLIP EMANUEL"  95-----"JOHN BELUSHI"
+ 30---------"MEREMONT"  63--------"GRACELAND"  96---"RHYTHM N BLUES"
+ 31-------"CAERWEDDIN"  64------"SOLLY ROGER"  97----"GLEICHRICHTER"
+ 32-------"STAHLRATTE"  65--------"GET FUNKY"  98------"TRANSLATION"
+ 33-------"MANDELBROT"  66---------"TWILIGHT"  99-----------"CTHUGA"

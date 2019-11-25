@@ -1,0 +1,8 @@
+Space-based shoot 'em up that puts you in command of a craft that increases its power by equipping a spinning ring that circles it.
+
+HINTS:
+
+- Secret Stage -
+At the very beginning of Stage 5 move your ship as far left as possible and start bombing the floor. If done correctly, a power-up box with the letters "EX" will appear. Fly into it. This will warp you to Extra Stage 5. Once there, immediately switch your ship's speed to its highest setting as this stage scrolls at a highly accelerated rate. The stage is filled with bonus points and power-ups. It is almost totally devoid of enemies except a few crawling along the floor and ceiling. At the end of the stage you with face off against the regular 5th stage boss.
+
+http://www.pcengine.co.uk/HTML_Games/W-Ring.htm

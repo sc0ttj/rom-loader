@@ -1,0 +1,35 @@
+#!/bin/sh
+. $RCFILE
+set_rom_descr() {
+	if [ -f "$desc_file" ];then # if the current rom has a matching descr file in /usr/share/paloader/romlists/pupromdb/$SYSTEM_descr/
+		
+		#for parecent/popup func .. if using parecent, we symlink the desc file to the RECENT folder .. 
+		# to do this we need to record and read the file, cos export wont do it..?
+		echo "$desc_file" > /tmp/paloader/desc_file
+		
+		WIDTH_SCREEN=`xwininfo -root | grep -m 1 '\geometry' | cut -f4 -d ' ' | cut -f1 -d 'x' | cut -f1 -d '+'`
+		
+		#get the width we need ... if box art is disabled, take the full scren width, otherwise, dont... 
+		if [ "$ROM_BOXART_ENABLE" = true ];then
+			WIDTH_SCREEN=$(($WIDTH_SCREEN / 11))
+		else
+			WIDTH_SCREEN=$(($WIDTH_SCREEN / 8))
+		fi
+		
+		#wrap text param for the 'fold' command
+		fold_width="-w $WIDTH_SCREEN"
+		
+		cat "$desc_file" | fold -s $fold_width  > $WORKDIR/info1
+		#remove utf chars to ascii, cos gtk[dialog] breaks (or akita breaks)
+		if [ "`which iconv`" != "" ];then
+			iconv -c -f utf-8 -t ascii $WORKDIR/info1 > $WORKDIR/info
+		else
+			mv $WORKDIR/info1 $WORKDIR/info
+		fi
+	else
+	
+		#update info-field with some info when click on file in file-browser
+		[ -f "$DIR$CHOOSER" ] && find "$DIR$CHOOSER" -maxdepth 1 -type f -printf "Filename\t: %p\nSize\t\t: %k kb\n" > $WORKDIR/info
+
+	fi		
+}

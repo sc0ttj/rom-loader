@@ -1,0 +1,40 @@
+Are you tough enough for the ultimate fighting challenge? Only the toughest and meanest will survive the King of Fighters Tournament. Battle through South Town as day turns to night. Use your street-fighting skills to beat your opponents. These fighters are tough - some can change shape, and even toss tornadoes or bolts of flame at you. And one can even magically change shape to increase the challenge. Strike hard until all have been defeated. For only through deadly combat can you be crowned the King of Fighters!
+
+Directions:
+
+Southtown City plays host to the King of Fighters Tournament. Andy & Terry Bogard take part in the tournament cause winning the tournament is the only way they can defeat Geese Howard. Geese Howard controls Southtown City and killed their father several years ago. Also taking part is Joe Higashi, a Japanese kickboxer. Select either Joe, Andy or Terry, visit several locations in Southtown City and win that tournament!
+
+Gameplay:
+
+Fatal Fury is a 2D fighter and is the first game in a series of one-on-one fighting games by SNK. It's a conversion of the original Fatal Fury arcade game. This first game does not yet feature the series' trademark pseudo 3D mode (which allows you to move between the foreground & background while fighting). Includes a two-player vs. mode.
+
+Hints:
+
+- Disable the round timer -
+In the options menu highlight the "time limit" option. Hold A and left until it reads 00. Now the timer will be blank and the fights will only end when a fighter is knocked out. This cheat works in any mode.
+
+- Infinite Continues -
+At the continue screen enter the following code....
+Hold Start and press A + B + C
+Doing this will give you one more continue
+Note: This can be done up to nine times in one continue.
+
+- Select CPU opponent in 1P VS COM mode -
+Usually in the player vs. CPU mode, the CPU will randomly select a character for you to fight against. However, whilst highlighting the 1P VS COM, hold the C button on pad 2. With C held down on pad 2, press start on pad 1. You'll now go into the character select screen, and you can choose who you want to fight by using pad 2 to move through the fighters.
+
+- Select fighters in CPU VS CPU Mode code -
+Usually when you go on the CPU VS CPU option, the CPU will choose the fighters. However, highlight CPU VS CPU and hold down the C button on pads 1 and 2 and with those held down, press start. You can now choose the fighters you want to watch fight each other.
+
+- Set player to require 99,999 wins in versus mode -
+Highlight the "Point" option in the "Control" section of the options menu. Press and hold B and left until the counter reads 0. Now in versus mode that player will have to win 99,999 times to win the fight (effectively making victory impossible). This cheat can be used on one or both players.
+
+- Unlocking Geese Howard -
+Choose VS mode, then select your game play (1p vs 2p or either). Right before you select your gameplay, hold LEFT for both players, then press start. Now Geese Howard should be playable on VS mode.
+Note: This code works ONLY on VS mode. If you play '1p vs Com' or 'Com vs Com' mode, then you enter this code, it will done. It is possible for CPU to play as Geese Howard in VS mode.
+
+- Extended Ending -
+Complete the 1 player game mode under the hard difficulty level setting without using a continue. The ending will have an additional sequence showing all of the fighters.
+
+http://www.mobygames.com/game/genesis/fatal-fury
+http://www.gamefaqs.com/console/genesis/home/586176.html
+http://www.gamefaqs.com/console/genesis/code/586176.html

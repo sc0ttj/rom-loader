@@ -1,0 +1,27 @@
+SpellCaster is an action/adventure game where you play the role of Kane, who has been summoned by Daikak, the great leader of the Summit Temple, where he trained in the ancient art of battle, to check on a group of warriors that were sent by him to guard a temple, but as he left, he felt grim certainty that the coming events would not be pleasant. Whatever the future held would forge him as certain as fire forges a strong sword.
+
+The game takes place in two adventure formats: action and adventure scenes. In the action scenes, you take on a horde of enemies as you make your way toward the temple, being careful not to use up all your strength. Some of the enemies will drop one of two spheres: a blue sphere that, when collected, increases your strength; and an orange sphere that increases your energy. More often than not, there will be a boss waiting inside the temple, and you have to defeat them to continue with your journey. When you defeat them, a giant blue ball will be dropped, and that will give you maximum strength.
+
+The adventure scenes allow you to select a series of commands that allow you to travel to new locations, talk to characters, look at various objects, take items, and use existing items. When you decide to look, you can either look at the terrain, or some other object. When you decide to look at any object, a pointing finger will allow you to highlight the object which you are interested in. You can also use various spells throughout the game, which can be used to defeat someone, help them. But they can be used to help you instead. These spells include:
+
+- HAKUJI - Focuses your "Ki" energy into a beam of destructive light!
+
+- INDRA - Calls on the Thunder God to storm lightning on your enemies.
+
+- FUDO - Calls forth a great ball of fire!
+
+- KANNON - A kinder spell that returns the walking dead to the underworld. But it is not effective against all evil spirits.
+
+- MARS - Calls on the God of War to restore your strength.
+
+- HATTEN - Calls on the God of Winds to send a tornado or high winds against your enemies.
+
+- MAKIRI - Gives you the power to fly!
+
+- NOBOTA - Creates a shield impervious to all the enemy's missile at.
+
+- PASSWORD - Allows you to password a point in the game, so that you can resume at that point later.
+
+Spellcaster is essentially the same game as the Japanese-only Kujakuo, with references to the original comic removed.
+
+http://www.mobygames.com/game/sega-master-system/spellcaster

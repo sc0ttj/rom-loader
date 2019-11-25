@@ -1,0 +1,36 @@
+Alisia Dragoon is a side scrolling fighter with awesome graphics and gorgeous jewel tones that make it very enjoyable to watch. The animation is very smooth and the controls are very simple and easy to use, which adds a bit to the game, not to mention the music is decently composed. Throw in companions like the dragon, raven, fireball and lizard, and this game becomes quite fun. You must learn to use each of you creatures to their full potential to make it through.
+
+Bring the thunder down (look, I know thunder is just a noise and lightning is the real damaging bit, but this is the game's word not mine) on your enemies as you make your way through colorful and interesting places. Search for power-ups and fight bosses. Find the silver star and save the world. I know, not much of a plot, but you'll find out more as you play.
+
+Directions:
+
+Move Alisia with the control pad and press down to make her crouch. Press C to jump. Use your electrical abilities to shock your enemies, (press B to do this) but watch your gauge so you don't run out in pivotal moments.
+
+In the top right hand corner of the screen is your HP (hit points) gauge. It does just what it sounds like, that is, keep track of how much you've been hit. The more damage you take the more HP you lose and when it drops to nothing Alisia will die and you'll be taken to the most annoying Game Over screen ever, before the game shows you a Ranking screen where it'll tell you how you did. If you have picked up a little Alisia doll you'll be able to continue in the stage where she died, but you don't have any of these extra lives unless you find them.
+
+You can gain some items that will give you a bigger HP gauge during the game. Refill your HP gauge with little blue bottles that will drop out of flying circles with a star on them when you hit them. All items will be found in these star-marked circles with wings.
+
+The word LEVEL beneath your HP indicates the level of your thunder magic. You can gain items to increase this as well, to a max of 8. Next to that is the gauge that shows how much thunder energy you currently have to attack with. If you use it continuously, it will run out. However, it does refill while you are not attacking.
+
+In the top left portion of the screen you'll notice a similar set up. This is for your companion and tells you those things about them. Companion's gauges are affected in the same way that Alisia's are except that the companions cannot gain as many levels. Pick up blue stars to increase your companion's level to a max of 3 for each companion. If your companion dies you'll have to revive them with an item before you'll be able to use them again. Refill your companion's HP gauge with meat. You can only have one companion on screen at a time. Alternate through them by pressing A. The word SELECT will then appear on the screen and the game will be paused. Press up or down and the picture of the current monster will change. When you have the one you want just press A again. Each monster companion has their own way to help you out.
+
+The dragon is an attack companion and will shoot fire balls at your enemies. Be careful with him as he is easily damaged since, at his size, they can hardly fail to hit him. The raven has a great screen-clearing blast attack that will take out many small enemies at once. However, it does take forever to recharge and takes a while to execute as well. Also, he is hit easily as well. The fireball doesn't take damage unless its level meter is empty. The fireball deals damage to anything it touches. When it touches an enemy it will shrink in size until it recharges. The lizard recharges the quickest and has a nice range on its boomerang attack as well.
+
+Look around a bit and you will find some helpful power-ups around the place. A circle boxed in by yellow bars will give Alisia another HP bar, and a circle surrounded by squiggly lightening bolts will increase her thunder level. A red fairy will make Alisia invincible for a short time and a blue one will make your thunder gauge refill after every time you use it, giving you more powerful attacks.
+
+At the end of a stage you'll have to fight a boss fight. Bosses will hit harder than other enemies and take more hits to bring down. There may be more than one boss in a boss fight. Decide on the right companion for each boss fight and try very hard not to be hit. Defeat the boss and you'll be given a bit more information on the story, and you'll move on to the next stage. 
+
+Controls:
+
+A Button: Change Monster Companion
+B Button: Attack
+C Button: Jump
+Start Button: Start/Pause
+
+Hints:
+
+Walls Aren't Always Walls
+Trying walking through everything! Some walls aren't really there and you can find loads of power-ups behind them. In stages 1-2 you may find a place that had two stars on the outside (one with meat and one with a potion) and then you walked a ways into a column. If you jump and press into the column you'll jump over a hidden obstacle and continue down a hallway. Now you find you just ran into a column and nothing was there. Jump repeatedly while pressing into the column and you'll make your way up to a secret place that has a level for your monster! From there (you should be in a room that has grey bricks and skinny windows) make your way to the back of this room and then turn around when you reach a break in the brick. Notice how there are column shapes between windows and turn around. Jump towards the second column and you'll be able to find another place where you can keep jumping and reach a even higher secret room with an extra HP bar and a thunder level power up for Alisia! 
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/alisia_dragoon.html

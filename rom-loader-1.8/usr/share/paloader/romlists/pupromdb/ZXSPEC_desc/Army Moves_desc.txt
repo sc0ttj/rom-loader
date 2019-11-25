@@ -1,0 +1,14 @@
+Army Moves is a one-player game which is divided into two parts. In part one, you drive a jeep and must avoid collision with other jeeps and being shot at by helicopters. Then, you fly around in a helicopter and the oject is to bring down airplanes without being shot at by the airplanes themselves, submarines, and any other ground fire. Make sure you land on the pad near the end.
+
+In part two, you start out in the jungle and must jump from rock to rock without crashing into toucans (shoot at them to make them fly higher) and being blown to bits. Then you have to make your way to the general's offices shooting soldiers on the way, and finally, locate the secret documents. When you complete the seven sections of Army Moves, you'll receive a higher bonus.
+
+Some versions have a high score table to record your achievements. The second section must be loaded seperately, using a code attained from completing part one, on some versions.
+
+Trivia:
+
+Spanish company Dinamic Software originally created the ZX Spectrum, Amstrad, PC and MSX versions. When the game got distributed in the UK by Imagine, Imagine themselves developed versions for the C64, the Atari ST and the Amiga to maximize the profits. 
+
+Those systems were not popular in Spain at the time, which explains why Dinamic didn't bother to port the game for them. Eventually, though, most Spanish companies, Dinamic included, ended up programing for them. 
+
+
+http://www.mobygames.com/game/zx-spectrum/army-moves

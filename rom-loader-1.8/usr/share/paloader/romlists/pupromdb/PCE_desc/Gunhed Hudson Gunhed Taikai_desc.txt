@@ -1,0 +1,9 @@
+Most of you who owned or played the Turbografx-16 will recognize this as the great shooter Blazing Lazers. Released in Japan as Gunhed, this particular ROM is a special edition of that game.
+
+This is a neat little ROM - this was the official game of the 1989 Hudson Travelling Caravan, a traveling gaming contest in Japan not completely unlike the old Blockbuster Championships we had here. Every summer, from 1985 to 1998, Hudson ran contests featuring a different game every year that travelled across Japan. The proper name of these contests was HUDSON ZENKOKU CARAVAN, which literally translates to Hudson's All Japan Caravan.
+
+Like most of the Nintendo World Championship games, this game is identical to the release version with a few new rules added. First off, you only have two options - a two or a five minute game. The game will end at the finish of the chosen time period. The other change this game has from the released version is that you can only play one level of the game. The game begins and ends on the third level and no other levels seem accessable, especially since the stage select has been disabled.
+
+From a playability standpoint, this certainly isn't the most interesting ROM on the page. However, within the last few years as collectors are finishing off their commercially released game collection, games like this start getting more and more valuable. ROMs, while not valuable like the actual cart, do provide us with a method of playing such limited edition games such as this one...
+
+http://my.ais.net/~xtreme/SF/PCEngine/Gunhed_Special/index.html

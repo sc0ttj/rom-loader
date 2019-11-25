@@ -1,0 +1,40 @@
+#!/bin/sh
+
+set -a 
+
+# this func manages a few different things... it is called each time we click on a rom (to highlight it, not load it up)
+# this func gets the searchable rom name, then finds a matching box art image, and description
+# it also then updates those 2 things with the latest info for the current rom
+# this info all appears in the bottom panel of the rom loader guis
+
+filecheck ()  {
+	
+	if [ "$CHOOSER" != ".." -a -f "$DIR$CHOOSER" ];then
+
+		romname="${CHOOSER%.*}"
+		romname="`sanitise_romname \"$romname\"`"
+
+		if [ -f "$DIR$CHOOSER" ];then
+			#rom descrptions
+			if [ "$ROM_DESCR_ENABLE" = true ];then
+				get_rom_descr
+			fi
+			#boxart
+			if [ "$ROM_BOXART_ENABLE" = true ];then
+				DL_SPLASH=true get_rom_boxart
+				set_rom_boxart
+			fi
+		fi
+
+	else
+		# no rom, selected a dir at that moment, so remove the boxart
+		rm /root/.paloader/tmp/boxart.jpg
+		ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+		#reset description too
+		desc_file=''
+		echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+	fi
+		
+	SYSTEM=$SYSTEM set_rom_descr
+
+}

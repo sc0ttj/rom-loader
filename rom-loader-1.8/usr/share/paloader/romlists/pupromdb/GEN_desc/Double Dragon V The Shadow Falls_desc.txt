@@ -1,0 +1,41 @@
+Double Dragon 5 is very different from its predecessors. This is the first Double Dragon that wasn't a side scroller. This game was actually a fighter. It's a lot like Street Fighter, or Mortal Kombat. There are three modes of gameplay, tournament, versus, and quest mode. In tournament mode, you will fight people at random, it's a good way to prepare for quest mode. In versus mode, you will need a friend to beat up. In quest mode, it will tell you a sort of cheesy story as to why you have to fight all these people. It's not a bad game except for the fact it's been done a million times, but I guess it's a decent change from the same old Double Dragon story. If you are a fan of fighting games or a fan of Double Dragon, this game is for you. The only difference I can see between this one and the SNES version is that this version features blood.
+
+Directions:
+
+Fight your way through tournament mode, or battle head to head with a friend. 
+
+Controls:
+
+A Button: Fast Kick
+B Button: Med. Kick
+C Button: Strong Kick
+X Button: Fast Punch
+Y Button: Med. Punch
+Z Button: Strong Punch
+Start Button: Start/Pause
+Mode Button: None
+
+Hints:
+
+- Disable "Dizzies" -
+At the Menu Screen, enter Left, A, Down, Down, A, Right. Neither character can become dizzy.
+
+- Disable Throws -
+At the Menu Screen, enter B, A, Down, Left, Up, C. Neither character can throw.
+
+- Fight as a Boss -
+Enter the following code at the Main Menu screen....
+C - Right - A - B - A - B - B - Left
+Then go into the Vs. Battle and you should have bosses available.
+
+- Nine Continues -
+At the Menu Screen, enter A, Left, Left, Down, A, A, Left, Left, Down, A. You will have nine continues at the start of the game.
+
+- Two More Reserve Points -
+Enter the following code at the Main Menu screen....
+Up - C - B - A - Down - A - B - C - Left - C - B - A - Right - A - B - C
+Then when you play the game you should have two more reserve points.
+
+Reviewer: Adrian
+
+http://www.gamefaqs.com/console/genesis/review/R76045.html

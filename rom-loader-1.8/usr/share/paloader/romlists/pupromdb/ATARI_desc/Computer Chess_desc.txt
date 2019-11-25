@@ -1,0 +1,3 @@
+Computer Chess for anyone from novice to master. Play chess against the computer and set your own levels of difficulty. Make your moves using an Atari Joystick Controller, so you concentrate on the board, not which keys to press. Do special moves like "castle" or "en passant" (but don't forget, so can the computer). Set up the board for a particular chess problem or a famous game situation.
+
+~From a game ad

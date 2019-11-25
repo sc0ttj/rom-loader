@@ -1,0 +1,36 @@
+This is the first ever "complete" hack of Mario 64. None of the original
+levels have been used and the gamplay has been changed in many aspects.
+
+
+Main Features:
+--------------
+
+- 38 stars in about 10 levels
+- A Day/night cycle replacing (most) act selectors
+- Choose to play as Mario or Luigi
+- Modified enemies, objects and bosses (too many to list!)
+- Custom music, including one original song (the town "night" music).
+- A new final boss fight
+
+To switch between Mario and Luigi in the title screen, press D-pad Left
+(Luigi) or D-Pad Right (Mario).
+
+There are also many 'invisible' modifications that make make this hack work:
+extended memory support, a new collision pointer system (lookup tables instead
+of hardcoded pointers), modified script commands and a bunch of other minor
+stuff. The source code for all these hacks will be available on my site futurely.
+
+Thanks to the people who have contributed to this hack:
+
+Celux - Secret Woods level and major help on the underground area.
+RDX - Some music ports made with mml2m64
+VL-Tone - Luigi model, as available from TT64 v0.5.9 onwards.
+ZZT32 - a pretty cool guy :D who helped me working with MIPS-GCC.
+Darkdata - Title screen background and name suggestion.
+Stevoisiak - Beta testing some early versions and suggesting some nice improvements
+Kostecki - Correcting some text.
+
+
+
+http://www.romhacking.net/forum/index.php?topic=8418.0
+http://sites.google.com/site/messiaen64/themissingstars

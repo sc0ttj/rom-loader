@@ -1,0 +1,13 @@
+This is a platform game with puzzle elements. You have to guide Jacek, the Electro Man, around the levels, using such things as teleporters, while shooting enemies and collecting weapon power-ups. This latter activity is essential - over a period of time, your weapon downgrades itself, until you can't actually fire at all.
+
+The game features in total 8 levels, on which there are three microchips that must be collected in order to proceed to the next. The difficulty level is very steep, and each death sets you back to your previously visited checkpoint, but fortunately already collected microchips stay collected. Checkpoints also serve as an additional difficulty factor, as once touched, they remove all your weapons, leaving you unarmed.
+
+Unlike many platformers, you can't control your jumping mid-air, and the main protagonist can only jump and fall at a given angle. This proves an extra challenge as when there are enemies above or below you, perfect timing is essential in order to succeed. 
+
+The game suffers from almost no sound at all, and only the last level, which really is just a credit to the producers, has music. 
+
+Trivia:
+
+In its original release, Electro Man came with an audio cassette with in-game music, for the benefit of people without sound cards. 
+
+http://www.mobygames.com/game/dos/electro-man

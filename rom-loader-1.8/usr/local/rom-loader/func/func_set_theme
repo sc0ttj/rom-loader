@@ -1,0 +1,92 @@
+#!/bin/bash
+
+# this func will auto update the current theme with different font sizes
+# and icon sizes, based on the screen resolution..
+# if we DONT do this, what looks nice in one resolution might literally not
+# work at all, or may even crash, in a lower resolution...
+
+#get settings
+. $RCFILE
+
+set_theme (){
+	# we need the screen height and width
+	. /usr/local/rom-loader/func/func_get_resolution
+	get_resolution # this will set SCREEN_RES, SCREEN_HEIGHT, SCREEN_WIDTH
+	
+	#get the theme name from main gui, or work it out from rcfile
+	if [ "$SELF" = "paloader" -o "$SELF" = "paloader_new" -o "$SELF" = "paloader_settings" ];then
+		THEME=${MAIN_THEME:-maschine_orange}
+	else
+		THEME_NAME=${SYSTEM^^}_THEME
+		THEME="`cat $RCFILE | grep -m1 \"^$THEME_NAME\" | cut -f2 -d'='`"
+	fi
+		
+	#get size of title for this theme
+	OLDTITLESIZE=`cat /tmp/gtkrc | grep 'font_name' | grep '#titlefont' | cut -f2 -d'=' | cut -f2 -d'"'`
+	OLDTITLESIZE=${OLDTITLESIZE##* }
+	#set size of title font in main menu
+	case "$SCREEN_RES" in  # SCREEN_RES will be something like 1024x768
+	*x4*) TITLESIZE=$(($OLDTITLESIZE-20)) ;;
+	*x6*) TITLESIZE=$(($OLDTITLESIZE-12)) ;;
+	*x72*) TITLESIZE=$OLDTITLESIZE ;;
+	*x76*) TITLESIZE=$(($OLDTITLESIZE+8)) ;;
+	*) TITLESIZE=$(($OLDTITLESIZE+12)) ;;
+	esac
+
+	#get size of subtitle for this theme
+	OLDSUBTITLESIZE=`cat /tmp/gtkrc | grep 'font_name' | grep '#subtitlefont' | cut -f2 -d'=' | cut -f2 -d'"'`
+	OLDSUBTITLESIZE=${OLDSUBTITLESIZE##* }
+	#set size of subtitle font in main menu
+	case "$SCREEN_RES" in 
+	*x4*) SUBTITLESIZE=$(($OLDSUBTITLESIZE-10)) ;;
+	*x6*) SUBTITLESIZE=$(($OLDSUBTITLESIZE-5)) ;;
+	*x72*) SUBTITLESIZE=$OLDSUBTITLESIZE ;;
+	*x76*) SUBTITLESIZE=$(($OLDSUBTITLESIZE+5)) ;;
+	*) SUBTITLESIZE=$(($OLDSUBTITLESIZE+10)) ;;
+	esac
+
+	#get size of main tree font for this theme
+	OLDMAINTREEFONTSIZE=`cat /tmp/gtkrc | grep 'font_name' | grep '#maintreefont' | cut -f2 -d'=' | cut -f2 -d'"'`
+	OLDMAINTREEFONTSIZE=${OLDMAINTREEFONTSIZE##* }
+	#set size of MAIN font in main menu
+	case "$SCREEN_RES" in 
+	*x4*) MAINTREEFONTSIZE=$(($OLDMAINTREEFONTSIZE-4)) ;;
+	*x6*) MAINTREEFONTSIZE=$(($OLDMAINTREEFONTSIZE-2)) ;;
+	*x72*) MAINTREEFONTSIZE=$OLDMAINTREEFONTSIZE ;;
+	*x76*) MAINTREEFONTSIZE=$(($OLDMAINTREEFONTSIZE+2)) ;;
+	*) MAINTREEFONTSIZE=$(($OLDMAINTREEFONTSIZE+4)) ;;
+	esac
+
+	#set size of main font in main menu
+	OLDMAINFONTSIZE=`cat /tmp/gtkrc | grep 'font_name' | grep '#mainfont' | cut -f2 -d'=' | cut -f2 -d'"'`
+	OLDMAINFONTSIZE=${OLDMAINFONTSIZE##* }
+	case "$SCREEN_RES" in 
+	*x4*) MAINFONTSIZE=$(($OLDMAINFONTSIZE-2));;
+	*x6*) MAINFONTSIZE=$(($OLDMAINFONTSIZE-1));;
+	*x72*) MAINFONTSIZE=$OLDMAINFONTSIZE;;
+	*x76*) MAINFONTSIZE=$(($OLDMAINFONTSIZE+1));;
+	*) MAINFONTSIZE=$(($OLDMAINFONTSIZE+2));;
+	esac
+
+	export TITLESIZE
+	export SUBTITLESIZE
+	export MAINTREEFONTSIZE
+	export MAINFONTSIZE
+
+	#now we customise whatever theme we're using, make some changes to font sizes
+	# the theme files contain 	`blah = "fontname 12" #titlename`    
+	# ..... we use the #titlename (etc) tags to edit font sizes based on resolution... so gtkdialog wont crash!!
+	echo "`cat \"/root/.paloader/themes/${THEME:-maschine_orange}\" |  \
+	sed \"s@ [0-9][0-9]\\\" #titlefont@ $TITLESIZE\\\" #titlefont@\" |  \
+	sed \"s@ [0-9][0-9]\\\" #subtitlefont@ $SUBTITLESIZE\\\" #subtitlefont@\" | \
+	sed \"s@ [0-9][0-9]\\\" #maintreefont@ $MAINTREEFONTSIZE\\\" #maintreefont@\" | \
+	sed \"s@ [0-9][0-9]\\\" #mainfont@ $MAINFONTSIZE\\\" #mainfont@\"`" > /tmp/gtkrc
+	
+	#set big icons for main menu
+	if [ "$SELF" = "paloader" -o "$SELF" = "paloader_new" ];then
+		echo "gtk-icon-sizes = \"panel-menu=64,64:panel=64,64:gtk-menu=64,64:gtk-large-toolbar=64,64\
+	:gtk-small-toolbar=64,64:gtk-button=64,64\"" >> /tmp/gtkrc
+	fi
+
+	export GTK2_RC_FILES=/root/.gtkrc-2.0:/tmp/gtkrc
+}

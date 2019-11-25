@@ -1,0 +1,11 @@
+Combine the gameplay ideas of Hack/NetHack with the Eye of the Beholder III game engine and you get a graphical version of Hack: Dungeon Hack. Largely based on a construction set, the player can create their own dungeons and then crawl through them. 
+
+This is ultimate dungeon crawl with over 4 billion possible dungeon configurations thanks to the random level generator. The generator has the ability to regenerate the entire dungeon structure, or just the items, the style, monster frequency, trap frequency... or any combination thereof.
+
+Also includes a "realism" option that, when a character dies, completely deletes the character and saved games.
+
+Trivia:
+
+For many people who play this game the hardest part is finding food. Interestingly enough, you can not die of starvation in the game. Having the food bar at empty simply means you will not be able to rest. So the best strategy regarding food use is to only consume rations when resting is required. Use the "vending machine" shrines which can be found on every level to regain health whenever possible, and try to only rest when you need to memorize/pray for spells.
+
+http://www.mobygames.com/game/dos/dungeon-hack

@@ -1,0 +1,27 @@
+# create a new combobox item for each array item
+RENDER_ARRAY=("Default" "Double" "Scanline" "Scanline-50%" "Scanline-25%" "Interpolated" "Interpolated-Scanline" "Interpolated-Scanline-50%" "Interpolated-Scanline-25%" "Scale2x" "Scale3x" "HQ2x")
+RENDER_ITEMS="<item>$RENDER</item>" #stored value should be first in list
+for i in "${RENDER_ARRAY[@]}"
+do
+	if [ "$i" != "$RENDER" ];then
+		RENDER_ITEMS=`echo "$RENDER_ITEMS<item>$i</item>"`
+	fi
+done
+
+FSKIP_ARRAY=("Default" "Auto" "Off" "1" "2" "3" "4" "5" "6" "7" "8" "9")
+FSKIP_ITEMS="<item>$FSKIP</item>" #stored value should be first in list
+for i in "${FSKIP_ARRAY[@]}"
+do
+	if [ "$i" != "$FSKIP" ];then
+		FSKIP_ITEMS=`echo "$FSKIP_ITEMS<item>$i</item>"`
+	fi
+done
+
+SRATE_ARRAY=(Default 11025Hz 22050Hz 44100Hz)
+SRATE_ITEMS="<item>$SRATE</item>" #stored value should be first in list
+for i in "${SRATE_ARRAY[@]}"
+do
+	if [ "$i" != "$SRATE" ];then
+		SRATE_ITEMS=`echo "$SRATE_ITEMS<item>$i</item>"`
+	fi
+done

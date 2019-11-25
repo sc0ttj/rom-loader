@@ -1,0 +1,24 @@
+Barroom Baseball is an interesting prototype in that it was never intended for home use.  As the name suggests Barroom Baseball was a special version of Realsports Baseball modified for use in 5200 arcade units.  These special 5200's were modified to run off of a coin operated timer and were intended for use in bars and in Latin American countries where such machines were popular.  It is unknown if any of these units were actually produced, but according to internal company memos at least one may have been field tested.  To date no other specially modified games have been found.
+
+Aside from the different name on the title screen, Barroom Baseball is virtually identical to RS Baseball.  The only real difference is that players have to pay to play.  Three minutes of play time cost 25 cents (what a bargain!), and players could purchase extra minutes at the end of the original three.  This is the same "Pay As You Play" technique is used in many sports games today.  Not surprisingly, most of the options have been removed from this version.  Players can no longer choose the difficulty of the computer (it seems to default to intermediate) or opt to turn off the voice. 
+
+Despite what the title screen says, this prototype plays all nine innings without interruption and there is no way to insert any coins (please don't try cramming quarters into your 5200).  This is because the 5200 arcade unit was going to use a special modified OS that would have handled the play timer and detect when coins were inserted into the machine.  To date no EPROM with this special OS has been found, but it is widely believed it was programmed.
+
+As it stands Barroom Baseball is just plain old RealSports Baseball with a different title screen and less options.  Still, this prototype proves that once again Atari was ahead of its time with the idea of putting home units in arcade machines.  It wasn't until almost four years later that Nintendo would revive the idea with its Play Choice units.  To date no other Barroom sports titles have been found, but internal documents suggest that Barroom versions of RS Soccer, RS Tennis, and RS Basketball were also planned.
+
+http://www.atariprotos.com/5200/software/barroom/barroom.htm
+Baseball is an action game which can be played by two players or one player against the computer. The game allows you to bunt the ball or try for a homerun, steal bases, and throw several types of pitches from a fast ball to a curve ball.
+
+Several game variations are included which allow you to select whether the home or visiting team is at bat first, and whether or not a player can swing only at pitches that are a strike, or they can swing at any pitch.
+
+Easter Egg: At the main game option screen, spell out the word "baseball" on your keypad (22732255) and the author's credits will appear.
+
+http://www.mobygames.com/game/atari-5200/realsports-baseball
+At last! The ultimate baseball game for your Atari 400/800 home computer. Baseball gives you individual player control, fully detailed animation and a scrolling outfield on home runs. Choose from a full range of pitches and try and outwit your opponent. Revel in the adoration of a hysterical crowd as you hit the winning run in the bottom of the ninth  Baseball is far superior to any video baseball game you may have seen!
+Hardball is a baseball action game for one or two players. You can throw a variety of pitches from fast balls to curve balls, steal bases, select team members, and substitute players as the game is played.
+
+http://www.mobygames.com/game/atari-8-bit/hardball
+Hardball is a baseball action game for one or two players. You can throw a variety of pitches from fast balls to curve balls, steal bases, select team members, and substitute players as the game is played.
+
+http://www.mobygames.com/game/atari-8-bit/hardball
+No description

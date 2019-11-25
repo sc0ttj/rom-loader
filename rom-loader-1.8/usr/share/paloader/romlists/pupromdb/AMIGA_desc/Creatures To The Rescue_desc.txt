@@ -1,0 +1,31 @@
+Based on 1990 Apex Computer Productions/Thalamus C64/128 release.
+
+Creatures relied on 'cutesy' graphics interspersed with very bloody 'torture screens' where between each level a single screen puzzle was presented to the player, who had to solve it (often in highly humorous fashion) or run out of time and lose the game, together with a very bloody end for the recipient of the torture.
+
+The CREATURES acronym stands for Clyde Radcliffe Exterminates All The Unfriendly Replusive Earth-ridden Slime.
+
+Game designed by Apex Computer Productions.
+
+Game contents contained a large A3 size CREATURES poster.
+
+A Spectrum conversion was planned, but never released.
+
+The sequel CREATURES 2: TORTURE TROUBLE was released on the C64/128 in 1992, but didn't appear on the Amiga (or any other platform) despite a planned conversion by WJS Design [Source: Amiga Power preview (Oct 92, p46), courtesy of the Amiga Magazine Rack (AMR)].
+
+N.B. A Spectrum conversion was planned, but never released.
+
+http://hol.abime.net/3120
+_________________________
+CHEATS:
+
+Unlimited lives:
+Load the game and wait for the opening music to start. When the Clydes on the high score screen stop moving, rotate the Joystick in port two in all directions.  The Clydes will dance and turn gray to confirm correct code entry.  
+Note: Unlimited lives are not available on the torture sequences.
+
+Cheat mode:
+Pause game play and type "a fine kettle of fish" to enable cheat mode and unlimited lives.  Then, press one of the following keys to activate the corresponding cheat function.
+
+   'F1'______STAGE 1.1   'F4'______STAGE 2.1'   F7'______STAGE 3.1
+   'F2'______STAGE 1.2   'F5'______STAGE 2.2'   F8'______STAGE 3.2
+   'F3'______TORTURE 1   'F6'______TORTURE 2'   F9'______TORTURE 3
+   'F10'__Skips to next level.        'C'__Shuts cheat off (WHY?).

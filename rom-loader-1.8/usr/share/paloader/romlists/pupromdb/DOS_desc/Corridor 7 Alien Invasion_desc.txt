@@ -1,0 +1,11 @@
+In the year 2012 it was finally possible to send a space ship to Mars. The scientists returned with a small object of unknown origin, which was supposed to be a proof for the existence of life on the planet. The object was taken to a special underground research facility and secured in its lowest labs, down "Corridor 7". Exposed to gamma radiation, the mysterious object caused a portal to appear, which connected two worlds. The Alien invasion began. It's time for you, a brave Special Forces agent, to descend to Corridor 7, where the fate of humanity must be decided.
+
+Corridor 7 is a first-person shooter that uses an enhanced version of the Wolfenstein 3D engine. New features include transparent and animated textures, an auto map and distance shading.
+
+Unlike Wolfenstein 3D, your goal is not to find the exit, but to kill all the aliens on the map.
+
+There are two versions of Corridor 7, a disk version and a CD version. Both versions feature the 30 levels of the research base, but the CD version adds an additional 10 single player levels with additional weapon and alien types.
+
+The CD version also comes with multiplayer in the form of Deathmatch and 8 additional maps made specially for it. In Deathmatch, the player can take control of one of 8 or so Corridor 7 characters which all have slightly different starting stats (different speed and starting health) but all 8 characters use the same weapons.
+
+http://www.mobygames.com/game/dos/corridor-7-alien-invasion

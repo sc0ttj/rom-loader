@@ -1,0 +1,18 @@
+Meebzork is one of the more unusual prototypes for the 5200.  With its unique mix of action and adventure, Meebzork is as close to an RPG as the 5200 ever got.  However did you know that there were two completely different versions of Meebzork created?  Meebzork was originally a fast paced shooting game before being retooled into an adventure game.  This is unusual since many prototypes get retooled after play testing, but few ever get totally redesigned like Meebzork.
+
+Most people are familiar with the adventure version of Meebzork since it's the one available on the 5200 multi-cart.  This version isn't as complete as the earlier shooter version, but it's a much larger and better designed game.  The adventure version is an action/adventure quest in which you play the role of Meebzork, a hero with a huge task ahead of him (or is it a her?).  You must make your way through seven stages of deadly obstacles and make his way to the forbidden castle and recover the treasure hidden within.
+
+From the title screen you're given the chance to either start your adventure or to practice each of the different levels.  This is the only way you can play some of the later levels since the game isn't finished.  Oddly the seventh level (the Stairs) isn't selectable from this screen, but more on this later.  The player also has the ability to turn the auto fire feature on (this can also be done during the game by pressing the '3' key), or watch a short demo of the first level.  Turning the auto fire on makes the game a little easier, but it may be linked to a bug which causes your character not to fire.  If the Adventure option is selected, the game will begin with a short scene of Meebzork running out of a castle (drawn in some of the best pseudo 3-D graphics ever seen on the 5200) and off the screen.
+
+At the bottom of the screen is your status bar which shows Meebzork's current energy level, the amount of lives left, and the total time you've been playing (it's unknown if this affects the game).  Incidentally you may notice a gap in the status bar as if something is missing.  This gap is where another display was located in the earlier version, but was taken out of this version.  Pay it no heed...
+
+Although the adventure version of Meebzork was never fully completed, the prototype shows alot of promise.  According the programmer, Meebzork was cancelled because it didn't do well in focus group testing.  How could a great game like Meebzork fail to win over the hearts and minds of our nations impressionable youths, you ask?  Apparently the version of the game they were given to test had a nasty bug in it that prevented the players from getting past the first level.  This means they never saw the rest of the levels and based their entire opinions only on level 1.  It's a shame this happened, because the 5200 could have used more original games like this.
+
+http://www.atariprotos.com/5200/software/meebzork/meebzork.htm
+ 
+Easter Eggs:
+
+According to the programmer, there is a way to get a secret screen of names, although he doesn't remember how.
+
+http://www.gamefaqs.com/console/a5200/home/585319.html
+http://www.atariprotos.com/5200/software/meebzork/meebzork.htm

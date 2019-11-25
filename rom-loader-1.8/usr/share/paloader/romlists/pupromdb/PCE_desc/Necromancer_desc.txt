@@ -1,0 +1,3 @@
+Ghoulish role-playing game with turn based random battles.
+
+http://www.pcengine.co.uk/HTML_Games/Jaseiken_Necromancer.htm

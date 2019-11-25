@@ -1,0 +1,3 @@
+This hack makes a number of major changes to the game, including a re-map of all 100 levels, a requirement of four same-color bubbles to pop (instead of the usual three), and the addition of "unpoppable" bubbles.
+
+http://www.zophar.net/hacks/snes/bust-a-move/bust-m-up.html

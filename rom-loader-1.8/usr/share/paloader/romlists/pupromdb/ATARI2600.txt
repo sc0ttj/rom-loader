@@ -1,0 +1,664 @@
+2005 Minigame Multicart|NOID|401F769B|x|0|2005|Mini-Games|region-unknown|AtariAge - Zach Matley, Bob Montgomery, Fred Quimbey and Chris Walton|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+3-D Tic-Tac-Toe|14683|58805709|x|0|1980|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+32 in 1 Game Cartridge|NOID|EAEF28EA|x|0|1988|Compilation|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+A-Team|NOID|389BD695|x|0|1984|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+A-VCS-tec Challenge|NOID|128898C3|x|0|2006|Action|region-unknown|AtariAge - Simon Quernhorst and Paul Slocum|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Acid Drop|16991|14CDDAC7|x|0|1992|Puzzle|region-unknown|Salu|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Actionauts|NOID|CEDDF26B|x|0|1984|Action|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Activision Decathlon|9245|3FEB39B1|x|0|1983|Sports/Track and Field|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+AdVenture|1358|A6DB4B3A|x|0|1980|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Adventures of TRON|10859|1B8019D6|x|0|1982|Platformer|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Air Raid|8353|B0E53814|x|0|1982|Shoot-'Em-Up|region-unknown|Men-A-Vision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Air Raiders|17494|BB16539D|x|0|1982|Simulation|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Air-Sea Battle|5296|1FC6C0F1|x|0|1977|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Airlock|10860|25C90CE7|x|0|1982|Platformer|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Alfred Challenge|NOID|9F8C676E|x|0|1998|Platformer|region-unknown|Ebivision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Alien|19020|6D61059F|x|0|1982|Maze|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Alien Greed|NOID|E895E0BD|x|0|2007|Adventure|region-unknown|Neotokeo2001 and Atari2600land|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Alien Greed 2|NOID|4D2A7EBA|x|0|2008|Adventure|region-unknown|Neotokeo2001 and Atari2600land|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Alien Greed 3|NOID|EF4DB11A|x|0|2010|Adventure|region-unknown|Neotokeo2001 and Atari2600land|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Allia Quest|NOID|0D6C9729|x|0|2001|Shoot-'Em-Up|region-unknown|Ebivision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Alligator People|NOID|B3F6D395|x|0|1983|Action|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Alpha Beam with Ernie|NOID|27C6B897|x|0|1983|Educational|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Amidar|1341|8EB5BD72|x|0|1982|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+AquaVenture|1358|87A8CB8B|x|0|1983|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Armor Ambush|17495|FC35704B|x|0|1982|Shooter|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Artillery Duel|17496|1D0F7E8D|x|0|1983|Shooter|region-unknown|Xonox - K-Tel Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+AStar|NOID|054710B7|x|0|2006|Action|region-unknown|AtariAge - Aaron Curtis|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Asterix|9243|B238706D|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Asteroid Fire|NOID|58010BE3|x|0|1983|Shoot-'Em-Up|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Asteroids|1342|C7D64C94|x|0|1981|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Astroblast|17500|1DE25331|x|0|1982|Shooter|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Astrowar|NOID|E83F5848|x|0|1983|Shooter|region-unknown|Dimax - Sinmax|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Atari Video Cube|17501|272AE37F|x|0|1982|Puzzle|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Atlantis|9272|92560498|x|0|1982|Shoot-'Em-Up|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Atlantis II|NOID|BA5566AA|x|0|1982|Shoot-'Em-Up|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Atom Smasher|NOID|1712423A|x|0|1983|Shooter|region-unknown|Video Soft|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+AVGN K.O. Boxing|7945|53F02C00|x|0|2009|Sports/Boxing|region-unknown|Devin Cook - Cinemassacre.com|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bachelor Party|NOID|D9CD6C95|x|0|1982|Mature|region-unknown|Mystique - American Multiple Industries|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Bachelorette Party|NOID|E8189EEB|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Backfire|NOID|DCEAD99A|x|0|2003|Shooter|region-unknown|AtariAge - Chad Lare|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Backgammon|17502|E2A7FFA6|x|0|1979|Board Games|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bank Heist|17503|7AA79D1E|x|0|1983|Action|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Barnstorming|7944|4A005181|x|0|1982|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Base Attack|17504|81F1E5DD|x|0|1983|Shooter|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Basic Math|10861|D48EBAC0|x|0|1977|Educational|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+BASIC Programming|17505|26A3C844|x|0|1979|Educational|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Basketball|NOID|B31D49F0|x|0|1978|Sports/Basketball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Battlezone|1343|9155DD1D|x|0|1983|Simulation|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Beamrider|17506|1618565B|x|0|1984|Shooter|region-unknown|Activision - Cheshire Engineering|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Beany Bopper|NOID|B722BC8F|x|0|1982|Shooter|region-unknown|20th Century Fox Video Games - Sirius Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Beat 'Em and Eat 'Em|NOID|C90D4F84|x|0|1982|Mature|region-unknown|Mystique - American Multiple Industries|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Bee-Ball|NOID|EB4B9CA9|x|0|2007|Sports/Futuristic|region-unknown|AtariAge - Ivan Machado|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Berenstain Bears|NOID|29D28BAF|x|0|1983|Action|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bermuda Triangle|17507|0FCB5B94|x|0|1982|Shooter|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Berzerk|5297|2E8B4B5F|x|0|1982|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Big Bird's Egg Catch|NOID|96DC9A9C|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bionic Breakthrough|NOID|928E4B47|x|0|1984|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Blackjack|1344|4B0EE010|x|0|1977|Casino|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+BLiP Football|NOID|4FEE07B9|x|0|2006|Sports/Football|region-unknown|AtariAge - David Galloway, Bob and Tommy Montgomery|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bloody Human Freeway|5304|7AFB2277|x|0|1981|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Blueprint|17508|DA7B9DFA|x|0|1983|Action|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+BMX Air Master|17509|B4017EE3|x|0|1989|Sports/Biking|region-unknown|TNT Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bobby is Going Home|9242|F061E27F|x|0|1983|Platformer|region-unknown|Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Boggle|NOID|26B6BFEF|x|0|1978|Board Games|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Boing!|NOID|AD380487|x|0|1983|Action|region-unknown|First Star Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Boulder Dash|NOID|9BA60C62|x|0|2011|Action|region-unknown|AtariAge - Andrew Davie and Thomas Jentzsch |dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bowling|NOID|FEA0D6D5|x|0|1978|Sports/Bowling|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Boxing|7945|9ECE0021|x|0|1980|Sports/Boxing|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Brain Games|5298|150709C2|x|0|1978|Strategy|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Breakout|5299|3037638C|x|0|1978|Breakout|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bridge|NOID|8DB95D1E|x|0|1980|Strategy|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Buck Rogers Planet of Zoom|NOID|2030F686|x|0|1983|Shooter|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bugs|NOID|1202427C|x|0|1982|Shooter|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bugs Bunny|NOID|BD164019|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bump 'n' Jump|NOID|DF2BC303|x|0|1983|Driving|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Bumper Bash|NOID|B1A6A23E|x|0|1983|Pinball|region-unknown|Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+BurgerTime|7610|C183FBBC|x|0|1982|Platformer|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Burning Desire|NOID|F2593D9B|x|0|1982|Mature|region-unknown|Mystique - American Multiple Industries|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Cabbage Patch Kids Adventures in the Park|NOID|7025D30D|x|0|1984|Platformer|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cakewalk|NOID|73494211|x|0|1983|Action|region-unknown|CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+California Games|5300|E9A3FDC3|x|0|1987|Sports|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Canyon Bomber|NOID|E914B8CA|x|0|1978|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Carnival|NOID|7AC3C700|x|0|1982|Shooter|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Casino|1345|420B8248|x|0|1978|Casino|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cat Trax|NOID|C847E5EC|x|0|1983|Maze|region-unknown|UA Limited|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cathouse Blues|NOID|3C4E3F41|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Cave in|NOID|9734537E|x|0|2010|Adventure|region-unknown|AtariAge - Steve Engelhardt|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Centipede|1346|77396102|x|0|1982|Shooter|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Challenge|NOID|086A0CB2|x|0|1980|Action|region-unknown|Funvision - Fund. International Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Challenge of.... Nexar|NOID|74CC37D4|x|0|1982|Simulation|region-unknown|Spectravision - Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Championship Soccer|NOID|3F59BB60|x|0|1980|Sports/Soccer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Chase the Chuckwagon|NOID|63E4FC7F|x|0|1983|Maze|region-unknown|Spectravideo - Video Games Industries Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Checkers|NOID|E74F1B59|x|0|1980|Board Games|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cheese|NOID|6BF197C0|x|0|1982|Action|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+China Syndrome|NOID|A714E79C|x|0|1982|Action|region-unknown|Spectravision - Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Chopper Command|7612|1DFA64DF|x|0|1982|Shooter|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Chuck Norris Superkicks|NOID|96210C6C|x|0|1983|Beat-'Em-Up|region-unknown|Xonox - K-Tel Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Circus Atari|5301|D2A330A3|x|0|1980|Breakout|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Climber 5|NOID|A85CE2DB|x|0|2004|Action|region-unknown|XYPE and AtariAge - Dennis Debro|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Coco Nuts|NOID|B3E44E5C|x|0|1982|Action|region-unknown|Telesys|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Codebreaker|NOID|947EDB18|x|0|1978|Strategy|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Colony 7|NOID|1C7EDAE7|x|0|2007|Shooter|region-unknown|AtariAge - Manuel Rotschkar|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Combat|4887|9C326A97|x|0|1977|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Combat Two|NOID|8CABE1FD|x|0|1982|Shooter|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Commando|206|8D3025DC|x|0|1988|Shooter|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Commando Raid|NOID|E46583E6|x|0|1982|Shooter|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Communist Mutants from Space|NOID|D64EC816|x|0|1982|Shooter|region-unknown|Arcadia Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+CompuMate|NOID|BBE1F661|x|0|1983|Educational|region-unknown|Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Computer Chess|NOID|0C44D49A|x|0|1978|Board Games|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Condor Attack|9244|B6C582EB|x|0|1982|Shooter|region-unknown|Ultravision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Confrontation|NOID|C2DBCEFE|x|0|1983|Strategy|region-unknown|Answer Software Corporation - TY Associates|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Congo Bongo|NOID|3F6E7E0C|x|0|1983|Platformer|region-unknown|Sega - Beck-Tech|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Conquest of Mars|NOID|6E88A7D6|x|0|2006|Shooter|region-unknown|AtariAge - John W. Champeau|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cookie Monster Munch|17510|97BA488F|x|0|1983|Educational|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cosmic Ark|NOID|CB374F0E|x|0|1982|Shooter|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cosmic Commuter|NOID|4939BA40|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cosmic Creeps|NOID|47AAA2DD|x|0|1983|Action|region-unknown|Telesys|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cosmic Invaders|NOID|5FBB70B0|x|0|2008|Shoot-'Em-Up|region-unknown|Neotokeo2001 and Atari2600land|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cosmic Swarm|NOID|27F1AE48|x|0|1982|Shoot-'Em-Up|region-unknown|CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crack'ed|NOID|1B5E52A7|x|0|1988|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crackpots|NOID|ECD891B3|x|0|1983|Shoot-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crash Dive|NOID|59FE4666|x|0|1983|Shoot-'Em-Up|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crazy Balloon|NOID|0366F144|x|0|2005|Action|region-unknown|AtariAge - Manuel Rotschkar|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crazy Climber|8352|A3A3C009|x|0|1982|Climbing|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crazy Valet|NOID|00F7C122|x|0|2000|Puzzle|region-unknown|AtariAge - Brian Prescott|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Criminal Persuit|NOID|B93A7346|x|0|1983|Platformer|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cross Force|17492|41B0D615|x|0|1982|Shoot-'Em-Up|region-unknown|Spectravision - Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crossbow|NOID|1F233140|x|0|1988|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crypts of Chaos|NOID|C5B29962|x|0|1982|Maze|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Crystal Castles|8351|9007B5AC|x|0|1984|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cubicolor|NOID|D5D43A7A|x|0|1982|Puzzle|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Cubis|NOID|34AF49DA|x|0|1997|Puzzle|region-unknown|Hozer Video Games - Eckhard Stolberg|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Custer's Revenge|NOID|21283941|x|0|1982|Mature|region-unknown|Mystique - American Multiple Industries|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Dancing Plate|NOID|250C4E3F|x|0|1982|Action|region-unknown|Puzzy - Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dark Cavern|NOID|0481078C|x|0|1982|Shooter|region-unknown|M Network|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dark Chambers|1366|83900281|x|0|1988|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dark Mage|NOID|2B38B9DE|x|0|1997|Adventure|region-unknown|AtariAge - Greg Troutman|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Deadly Duck|NOID|F33A9A2D|x|0|1982|Shooter|region-unknown|20th Century Fox Video Games - Sirius Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Death Trap|NOID|FDF79A60|x|0|1983|Shoot-'Em-Up|region-unknown|Avalon Hill|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Defender|1347|0DF43D8E|x|0|1981|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Demolition Herby|NOID|E9305AE2|x|0|1983|Driving|region-unknown|Telesys|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Demon Attack|9271|31C9DF5E|x|0|1982|Shooter|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Demons To Diamonds|14689|9B97C3DA|x|0|1982|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Desert Falcon|1368|CAA0054E|x|0|1987|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dice Puzzle|NOID|F691B853|x|0|1983|Puzzle|region-unknown|Sancho - Tang's Electronic Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dig Dug|207|EE7B80D1|x|0|1983|Action|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dodge 'Em|7946|0C74479B|x|0|1980|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dolphin|NOID|9E38A7B9|x|0|1983|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Donald Duck's Speedboat|NOID|8DB92C76|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Donkey Kong|2876|F331B069|x|0|1982|Platformer|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Donkey Kong Junior|NOID|9EF649E5|x|0|1983|Platformer|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Double Dragon|10878|8320BB37|x|0|1989|Beat-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Double Dunk|5302|208F6C20|x|0|1988|Sports/Basketball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dragon Defender|1347|0D57E23D|x|0|1983|Shooter|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dragonfire|NOID|BA5DC02C|x|0|1982|Action|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dragonstomper|NOID|291F7F92|x|0|1982|Adventure|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dragster|NOID|4042D3AB|x|0|1980|Driving|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Duck Attack|NOID|3E6530AF|x|0|2010|Adventure|region-unknown|AtariAge - Will Nichols|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dukes of Hazzard|NOID|2DB406DC|x|0|1983|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dukes of Hazzard|NOID|2E09A905|x|0|1980|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dumbo's Flying Circus|NOID|AE915725|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Dungeon|NOID|2C6CAD4C|x|0|2009|Adventure|region-unknown|AtariAge - David Weavil|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+E.T. the Extra-Terrestrial|7611|6D0A475F|x|0|1982|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Earth Dies Screaming|NOID|8A6C65F0|x|0|1983|Shoot-'Em-Up|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Edtris 2600|NOID|AA91D59C|x|0|1995|Puzzle|region-unknown|Hozer Video Games - Ed Federmeyer|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Eggomania|14280|C78EC927|x|0|1982|Action|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Elevators Amiss|NOID|4EE28C1B|x|0|2007|Platformer|region-unknown|AtariAge - Bob and Tommy Montgomery|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Eli's Ladder|NOID|2C5E6932|x|0|1982|Educational|region-unknown|Simage|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Elk Attack|NOID|02DDDE9F|x|0|1987|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Encaved|NOID|C6CB6BD4|x|0|2007|Maze|region-unknown|AtariAge - Simon Quernhorst|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Encounter at L-5|NOID|E78FE552|x|0|1982|Shoot-'Em-Up|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Enduro|8357|2EF17B2E|x|0|1983|Driving|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Enigma Machine|NOID|B8727A06|x|0|2005|Educational|region-unknown|Hozer Video Games - Mark VandeWettering|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Entity|NOID|3366CCB7|x|0|1983|Action|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Entombed|17764|E48EC9DC|x|0|1982|Maze|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Escape from the Mindmaster|NOID|FD0C8BFC|x|0|1982|Maze|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Espial|NOID|1F95351A|x|0|1984|Shoot-'Em-Up|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Euchre|NOID|B600AE88|x|0|2002|Casino|region-unknown|AtariAge - Erik Eid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Evil Magician Returns|NOID|F9BA742C|x|0|2009|Adventure|region-unknown|Byte Knight|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Exocet|NOID|5CC39028|x|0|1982|Shooter|region-unknown|Sancho - Tang's Electronic Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Extra Terrestrials|NOID|3889D018|x|0|1984|Maze|region-unknown|Skill Screen Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fall Down|NOID|C349C11F|x|0|2005|Action|region-unknown|AtariAge - Aaron Curtis|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fantastic Voyage|NOID|A60E153F|x|0|1982|Shoot-'Em-Up|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Farmyard Fun|NOID|38F28235|x|0|1983|Action|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fast Eddie|NOID|0C0A7A02|x|0|1982|Platformer|region-unknown|20th Century Fox Video Games - Sirius Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fast Food|NOID|62388455|x|0|1982|Action|region-unknown|Telesys|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fatal Run|NOID|991D2348|x|0|1989|Driving|region-unknown|Atari - Sculptured Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fathom|NOID|93DA13CC|x|0|1983|Action|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Final Approach|NOID|FF23F469|x|0|1982|Simulation|region-unknown|Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fire Fighter|17511|E361FB42|x|0|1982|Action|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fire Fly|NOID|7A8E4EC7|x|0|1983|Shoot-'Em-Up|region-unknown|Mythicon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fireball|NOID|B32AE162|x|0|1982|Breakout|region-unknown|Arcadia Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Firebug|NOID|533B59DE|x|0|1983|Action|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Fishing Derby|NOID|204C928F|x|0|1980|Sports/Fishing|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Flag Capture|NOID|8AA1C41E|x|0|1978|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+FlapPing|NOID|33BC76BD|x|0|2005|Ball and Paddle|region-unknown|AtariAge - Kirk Israel|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Flash Gordon|NOID|0D61CE7D|x|0|1983|Shoot-'Em-Up|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Football|NOID|3B73EE02|x|0|1978|Sports/Football|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Forest|NOID|1AAAB749|x|0|1983|Action|region-unknown|Sancho - Tang's Electronic Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Four-Play|NOID|FE99657A|x|0|2006|Board Games|region-unknown|AtariAge - Zach Matley and Bob Montgomery|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Frankenstein's Monster|5303|AD44DFF9|x|0|1983|Platformer|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Freeway|5304|B13EC413|x|0|1981|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Frisco|NOID|5B47448C|x|0|1983|Action|region-unknown|Home Vision - Gem International Corp. - R.J.P.G.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Frog Pond|NOID|5874385A|x|0|1982|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Frogger|1369|F5E1AF92|x|0|1982|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Frogger II Threeedeep!|8355|3BA0D9BF|x|0|1984|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Frogs and Flies|18549|6476C136|x|0|1982|Action|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Front Line|NOID|C352F290|x|0|1984|Shooter|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Frostbite|8356|B61BE7A3|x|0|1983|Puzzle|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Funky Fish|NOID|B53B33F1|x|0|1983|Shoot-'Em-Up|region-unknown|UA Limited|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+G.I. Joe Cobra Strike|NOID|6BCBCD37|x|0|1983|Shooter|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Galaxian|5305|4E9FE271|x|0|1983|Shoot-'Em-Up|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gamma-Attack|NOID|D1EFE8BB|x|0|1983|Shoot-'Em-Up|region-unknown|Gammation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gangster Alley|NOID|03C2452C|x|0|1982|Shooter|region-unknown|Spectravision - Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Garfield|NOID|F20CADCF|x|0|1984|Platformer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gas Hog|NOID|40699CA5|x|0|1983|Shoot-'Em-Up|region-unknown|Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gauntlet|NOID|C7AC23C7|x|0|1983|Action|region-unknown|Answer Software Corporation - TY Associates|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+General Re-Treat|NOID|72A59BE5|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Ghost Manor|NOID|6FC46219|x|0|1983|Action|region-unknown|Xonox - K-Tel Software - Beck-Tech|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ghostbusters|1292|45443D13|x|0|1985|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ghostbusters II|17512|A3C342B8|x|0|1992|Action|region-unknown|Salu - Avantgarde Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gigolo|NOID|4E16A8DC|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Gingerbread Man|NOID|FE54844E|x|0|2007|Action|region-unknown|AtariAge - Fred Quimby|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Glacier Patrol|NOID|44E77FD6|x|0|1989|Shoot-'Em-Up|region-unknown|Telesys|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Glib Video Word Game|NOID|50BB03A4|x|0|1983|Board Games|region-unknown|Selchow and Righter - QDI|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Go Fish!|NOID|B99FC2BF|x|0|2005|Action|region-unknown|AtariAge - Bob and Tommy Montgomery|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Go Go Home Monster|NOID|C161F53B|x|0|1983|Maze|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Golf|7947|46A9F200|x|0|1980|Sports/Golf|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gopher|NOID|AC8321D8|x|0|1983|Action|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gorf|NOID|9BD137AA|x|0|1982|Shoot-'Em-Up|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+GoSub|NOID|3A4CAF44|x|0|2007|Maze|region-unknown|AtariAge - Chris Read, Micheal Rideout and Fred Quimby|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Grand Prix|NOID|E855273D|x|0|1982|Driving|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gravitar|1348|C87FCCBE|x|0|1983|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gremlins|NOID|48D5991F|x|0|1984|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Grover's Music Maker|NOID|E1372B28|x|0|1983|Miscellaneous|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Guardian|NOID|121738F5|x|0|1982|Shoot-'Em-Up|region-unknown|Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gunfight|NOID|C3D655AD|x|0|2001|Shooter|region-unknown|XYPE and AtariAge - Manuel Rotschkar|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Gyruss|NOID|0D78E8A9|x|0|1984|Shoot-'Em-Up|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+H.E.R.O.|10128|721E95B7|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Halloween|NOID|B1B11806|x|0|1983|Action|region-unknown|Wizard Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Halo 2600|NOID|3978A823|x|0|2010|Shooter|region-unknown|CGE - Ed Fries|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Hangman|NOID|C2BCC789|x|0|1978|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Harem|NOID|E4466537|x|0|1982|Mature|region-unknown|Multivision|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Haunted House|1370|AA62D961|x|0|1981|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Holey Moley|NOID|3BB2E71D|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Home Run|9236|45ACE998|x|0|1978|Sports/Baseball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Human Cannonball|7948|F05A41E1|x|0|1978|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Hunchy II|NOID|66148936|x|0|2005|Adventure|region-unknown|AtariAge - Chris Walton|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Hunt and Score|17514|17DE8070|x|0|1978|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+I Project|NOID|85A008EA|x|0|2008|Action|region-unknown|AtariAge - Simon Quernhorst|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ice Hockey|7949|ADAB8CDF|x|0|1981|Sports/Hockey|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ikari Warriors|NOID|5B7CE555|x|0|1989|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Immies and Aggies|NOID|86244C24|x|0|1983|Shooter|region-unknown|ZiMAG - Emag - Vidco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Inca Gold Spider Monster|NOID|AC53D608|x|0|1982|Platformer|region-unknown|Funvision - Fund. International Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Incoming!|NOID|E32F154E|x|0|2010|Action|region-unknown|AtariAge - Ben Larson|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Indy 500|1349|B43DA2A3|x|0|1977|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Infiltrate|NOID|612BD4DA|x|0|1981|Platformer|region-unknown|Apollo - Games by Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Innerspace|NOID|02D00DAD|x|0|1983|Shoot-'Em-Up|region-unknown|VentureVision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+International Soccer|9246|B9D549A2|x|0|1982|Sports/Soccer|region-unknown|M Network|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+INV|NOID|DCF35785|x|0|1998|Shoot-'Em-Up|region-unknown|AtariAge - Erik Mooney and Piero Cavina|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+INV+|NOID|8EBDE037|x|0|2004|Shoot-'Em-Up|region-unknown|AtariAge - Erik Mooney and Piero Cavina|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+IQ 180|NOID|4DC2A674|x|0|1983|Puzzle|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ixion|NOID|B311E13F|x|0|1984|Shooter|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+James Bond 007|NOID|34D3FFC8|x|0|1983|Shoot-'Em-Up|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Jammed|NOID|CAFF296A|x|0|2001|Board Games|region-unknown|XYPE and AtariAge - Thomas Jentzch|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Jawbreaker|NOID|FC11BF67|x|0|1982|Maze|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Journey Escape|7950|52FF8027|x|0|1982|Action|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Joust|1350|A07B3304|x|0|1983|Platformer|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+JoustPong|NOID|0C2F567F|x|0|2004|Ball and Paddle|region-unknown|AtariAge - Kirk Israel|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Jr. Pac-Man|4889|5C345BAC|x|0|1986|Maze|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Jungle Fever|NOID|0123617B|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Jungle Hunt|1351|9C3E8734|x|0|1983|Action|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Juno First|NOID|30BAA209|x|0|2008|Shoot-'Em-Up|region-unknown|AtariAge - Chris Walton|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+K.O. Cruiser|NOID|F096C385|x|0|2010|Sports/Boxing|region-unknown|AtariAge - Devin D. Cook|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Kabobber|NOID|9517EE0E|x|0|1983|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Kaboom!|1371|813F00F6|x|0|1981|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Kamikaze Saucers|NOID|85CB187C|x|0|1983|Shoot-'Em-Up|region-unknown|Syncro|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Kangaroo|1352|B9AB57E6|x|0|1983|Platformer|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Karate|NOID|AC0A9CE0|x|0|1982|Fighter|region-unknown|Ultravision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Keystone Kapers|5307|3E55F3A1|x|0|1983|Platformer|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Killer Satellites|NOID|BDD932DC|x|0|1983|Shoot-'Em-Up|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+King Kong|17515|CB6F5617|x|0|1982|Platformer|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Klax|5308|A8AAF68B|x|0|1990|Puzzle|region-unknown|Atari - Axlon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Knight on the Town|NOID|ACEA70A6|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Kool-Aid Man|NOID|D9BD009B|x|0|1983|Action|region-unknown|M Network - Kool Aid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Krull|15245|1A67E6ED|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Kung-Fu Master|NOID|5FEA6E51|x|0|1987|Beat-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lady Bug|NOID|622D813A|x|0|2006|Maze|region-unknown|AtariAge - John W. Champeau|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lady in Wading|NOID|F197BBCC|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Laser Blast|NOID|99365F26|x|0|1981|Shooter|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Laser Gates|NOID|4B7865AF|x|0|1983|Shoot-'Em-Up|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lasercade|NOID|EF4FF656|x|0|1983|Shooter|region-unknown|20th Century Fox Video Games - Videa|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Last Starfighter|NOID|7E30DDC0|x|0|1984|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lead|NOID|6D494ECE|x|0|2008|Shooter|region-unknown|AtariAge - Simone Serra|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lilly AdVenture|1358|3544C6D6|x|0|1983|Platformer|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lochjaw|NOID|B2A2FF31|x|0|1981|Maze|region-unknown|Apollo - Games by Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lock 'n' Chase|NOID|7994BF16|x|0|1982|Maze|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+London Blitz|NOID|D23CD66C|x|0|1983|Maze|region-unknown|Avalon Hill|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Looping|NOID|F9B23F09|x|0|1983|Action|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lord of the Rings Fellowship of the Ring|NOID|75633F22|x|0|2002|Adventure|region-unknown|IntroComp 2002 - Adan Thornton|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lord of the Rings Journey to Rivendell|NOID|59B96DB3|x|0|1983|Adventure|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Lost Luggage|17518|551BDD37|x|0|1981|Action|region-unknown|Apollo - Games by Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+M.A.D.|NOID|5CB68FE5|x|0|1982|Shoot-'Em-Up|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+M.A.S.H|NOID|13E1C83D|x|0|1983|Shooter|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+MagiCard|NOID|14F126C0|x|0|1981|Utility|region-unknown|Computer Magic - CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Malagai|NOID|65790EF9|x|0|1983|Maze|region-unknown|Answer Software Corporation - TY Associates|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mangia'|NOID|B807B775|x|0|1983|Action|region-unknown|Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Marauder|NOID|F8A8B470|x|0|1982|Shooter|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Marble Craze|NOID|E521497F|x|0|2002|Maze|region-unknown|XYPE and AtariAge - Paul Slocum|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Marine Wars|17519|4D281EE3|x|0|1983|Shooter|region-unknown|Konami|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mario Bros.|5309|8FBF7E90|x|0|1983|Platformer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Master Builder|NOID|DD196D6C|x|0|1983|Action|region-unknown|Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Masters of the Universe The Power of He-Man|NOID|0603E177|x|0|1983|Action|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Math Gran Prix|17520|CCC90C98|x|0|1982|Educational|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Maze Craze A Game of Cops 'n Robbers|NOID|0098E428|x|0|1980|Maze|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Medieval Mayhem|NOID|98D3AEB9|x|0|2006|Action|region-unknown|AtariAge - Darrell Spice Jr., David Vazquez and Erik Ehrling|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mega Force|7951|9E6AE8C2|x|0|1982|Shoot-'Em-Up|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+MegaBoy|NOID|26914CE0|x|0|1991|Educational|region-unknown|Dynacom|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+MegaMania A Space Nightmare|NOID|33EDC33E|x|0|1982|Shoot-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Meltdown|NOID|7955B3BE|x|0|1983|Puzzle|region-unknown|20th Century Fox Video Games - Videa|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mental Kombat|NOID|13F4B30D|x|0|2002|Puzzle|region-unknown|AtariAge - Simon Quernhorst|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Merlin's Walls|NOID|50486785|x|0|1999|Maze|region-unknown|Ebivision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Meteoroids|NOID|40D6BBB2|x|0|1982|Shoot-'Em-Up|region-unknown|Arcadia Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Midnight Magic|5311|5C5447B9|x|0|1984|Pinball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Millipede|5312|CCC82DD0|x|0|1984|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mind Maze|NOID|7CC6C991|x|0|1984|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mine Sweeper|NOID|7C5BDCF2|x|0|2006|Strategy|region-unknown|Soren Gust|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Miner 2049er Starring Bounty Bob|NOID|19F9EF1C|x|0|1982|Platformer|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Miner 2049er Volume II|NOID|71E814E9|x|0|1983|Platformer|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mines of Minos|NOID|C799E944|x|0|1982|Maze|region-unknown|CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Miniature Golf|7947|28562315|x|0|1979|Sports/Golf|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Missile Command|5313|CFF14904|x|0|1981|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Missile Control|NOID|AC80976B|x|0|1983|Shooter|region-unknown|Video Gems|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mission 3,000 A.D.|NOID|55B140FE|x|0|1983|Shoot-'Em-Up|region-unknown|Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mission Survive|NOID|B70F52DC|x|0|1983|Shooter|region-unknown|Video Gems|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mogul Maniac|NOID|50AFE04B|x|0|1983|Sports/Skiing|region-unknown|Amiga|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mondo Pong|NOID|2A6E0A08|x|0|1997|Ball and Paddle|region-unknown|Piero Cavina|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Montezuma's Revenge Featuring Panama Joe|NOID|E680A1C9|x|0|1984|Platformer|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Moon Patrol|1353|D641EF2D|x|0|1983|Shooter|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Moonsweeper|1363|450B5C57|x|0|1983|Shoot-'Em-Up|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Motocross|NOID|B0AE97EC|x|0|1983|Motorcycle|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Motocross Racer|NOID|0D1BC1CB|x|0|1983|Motorcycle|region-unknown|Xonox - K-Tel Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+MotoRodeo|NOID|89998E29|x|0|1990|Driving|region-unknown|Atari - Axlon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mountain King|NOID|ED778991|x|0|1983|Platformer|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mouse Trap|NOID|9DDD45D3|x|0|1982|Maze|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mr. Do!|NOID|860A47A1|x|0|1983|Action|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mr. Do!'s Castle|NOID|044735B9|x|0|1984|Platformer|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mr. Postman|NOID|16980CB8|x|0|1983|Action|region-unknown|Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ms. Pac-Man|4889|B2D08FC9|x|0|1982|Maze|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Music Machine|NOID|BD133D59|x|0|1983|Action|region-unknown|Sparrow - HomeComputer Software Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+My Golf|7947|0D2CBD53|x|0|1990|Sports/Golf|region-unknown|HES|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Mysterious Thief|NOID|8755C57C|x|0|1983|Platformer|region-unknown|ZiMAG - Emag - Vidco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Name This Game|17524|A86E1AD8|x|0|1982|Shooter|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Night Driver|7952|600D8A96|x|0|1980|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Nightmare|NOID|B733F921|x|0|1983|Platformer|region-unknown|Sancho - Tang's Electronic Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+No Escape!|17525|8941CAEA|x|0|1982|Action|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Nuts|NOID|D76D5F14|x|0|1983|Shooter|region-unknown|TechnoVision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Obelix|NOID|29A51EA4|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Off the Wall|NOID|A09779EA|x|0|1989|Breakout|region-unknown|Atari - Axlon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Off Your Rocker|NOID|066EC995|x|0|1983|Puzzle|region-unknown|Amiga|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Official Frogger|1369|1228E48C|x|0|1983|Action|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Oink!|7953|86F99B5E|x|0|1982|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Okie Dokie|NOID|5AA23B4C|x|0|1996|Puzzle|region-unknown|AtariAge - Bob Colbert|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Omega Race|NOID|E9876116|x|0|1983|Shoot-'Em-Up|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Open Sesame|NOID|D01B5A1F|x|0|1982|Platformer|region-unknown|Puzzy - Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Oscar's Trash Race|NOID|34721D7B|x|0|1983|Educational|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Othello|NOID|171AE72F|x|0|1980|Tabletop|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Out of Control|NOID|CA4D03FB|x|0|1983|Action|region-unknown|Avalon Hill|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Outlaw|5315|68DD7ACD|x|0|1978|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Oystron|NOID|8155DCCF|x|0|1998|Shoot-'Em-Up|region-unknown|XYPE and AtariAge - Piero Cavina|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pac-Man|4889|DDC9A881|x|0|1981|Maze|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pac-Man 4K|NOID|76876F98|x|0|2011|Maze|region-unknown|AtariAge - Dennis Debro|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Panda Chase|NOID|AF417A00|x|0|1983|Platformer|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Parachute|NOID|40E4BC6A|x|0|1983|Action|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Party Mix|NOID|8B8AE545|x|0|1983|Mini-Games|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Peek-A-Boo|NOID|07594314|x|0|1984|Educational|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pengo|NOID|7667E739|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pepsi Invaders Coke Wins|NOID|7AC99B5C|x|0|1983|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pesco|NOID|73B5550A|x|0|1999|Maze|region-unknown|Ebivision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pete Rose Baseball|NOID|D0C6FC32|x|0|1988|Sports/Baseball|region-unknown|Absolute Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Phantom II Pirate|NOID|6618810C|x|0|2006|Mini-Games|region-unknown|AtariAge - David Weavil|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Phantom Tank|NOID|9213493B|x|0|1982|Shooter|region-unknown|Puzzy - Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pharaoh's Curse|NOID|C6B82FC6|x|0|1983|Action|region-unknown|TechnoVision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Phaser Patrol|NOID|EAF31BD7|x|0|1982|Shooter|region-unknown|Arcadia Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Philly Flasher|NOID|6AC647A1|x|0|1982|Mature|region-unknown|PlayAround - J.H.M.|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Phoenix|10129|6AE1B66C|x|0|1982|Shoot-'Em-Up|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pick 'n' Pile|NOID|CB76A9D4|x|0|1990|Puzzle|region-unknown|Salu - Ubi Soft|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pick Up|NOID|0CDD8475|x|0|1983|Action|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Picnic|NOID|1D507A61|x|0|1982|Action|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Piece o' Cake|NOID|40355166|x|0|1982|Action|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pigs in Space Starring Miss Piggy|NOID|27673D7C|x|0|1983|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pirate Special Edition|NOID|21ABEB51|x|0|2007|Adventure|region-unknown|AtariAge - David Weavil|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pitfall II Lost Caverns|17529|097CE7AD|x|0|1983|Platformer|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pitfall! - Pitfall Harry's Jungle AdVenture|1358|42AD47BF|x|0|1982|Platformer|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pizza Chef|NOID|A240F751|x|0|1983|Action|region-unknown|ZiMAG - Emag - Vidco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Planet of the Apes|NOID|EEA8B688|x|0|1983|Action|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Planet Patrol|17530|1E8EBB51|x|0|1982|Shoot-'Em-Up|region-unknown|Spectravision - Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Plaque Attack|10130|D5A5EB9E|x|0|1983|Shoot-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pleiades|NOID|35589CEC|x|0|1983|Shoot-'Em-Up|region-unknown|UA Limited|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Poker Squares|NOID|DCBDBC59|x|0|2005|Casino|region-unknown|AtariAge - Brian Watson|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Polaris|1364|25B78F89|x|0|1983|Shooter|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pole Position|5571|BD822518|x|0|1983|Driving|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Polo|NOID|8C0B57D9|x|0|1978|Sports|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pooyan|NOID|FE24BE60|x|0|1983|Shooter|region-unknown|Konami|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Popeye|NOID|7D287F20|x|0|1983|Platformer|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Porky's|NOID|ADD0B98A|x|0|1983|Action|region-unknown|20th Century Fox - Lazer Micro Systems - Dunhill Electronic Media Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Power Off!|NOID|9BDD0B28|x|0|2004|Platformer|region-unknown|Ebivision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pressure Cooker|NOID|CCF597D8|x|0|1983|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Pressure Gauge|NOID|D96BF85A|x|0|2000|Action|region-unknown|John K. Harvey|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Private Eye|14281|EA3BFF1C|x|0|1983|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Q-bert|5318|54142E3E|x|0|1983|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Q-bert's Qubes|NOID|D9F499C5|x|0|1984|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Qb|NOID|0DA0D447|x|0|2001|Puzzle|region-unknown|RetroActive and XYPE - Andrew Davie|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Quadrun|NOID|8D3C887B|x|0|1983|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Quest for Quintana Roo|NOID|F9F58DD3|x|0|1984|Action|region-unknown|Sunrise Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Quick Step!|NOID|057440FE|x|0|1983|Puzzle|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rabbit Transit|NOID|517E5561|x|0|1983|Action|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Racing Car|NOID|18954066|x|0|1983|Driving|region-unknown|Home Vision - Gem International Corp. - R.J.P.G.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Racquetball|NOID|7EEF9AC0|x|0|1981|Sports/Tennis|region-unknown|Apollo - Games by Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Radar Lock|NOID|C29F7285|x|0|1989|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Raft Rider|NOID|3D1292F8|x|0|1982|Action|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Raiders of the Lost Ark|5319|E05FE273|x|0|1982|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rainbow Invaders|NOID|CE31AB8C|x|0|2006|Shoot-'Em-Up|region-unknown|AtariAge - Silvio Mogno|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ram It|NOID|582D5B62|x|0|1982|Shooter|region-unknown|Telesys|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rampage!|NOID|F0B446AC|x|0|1989|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Raster Fahndung|NOID|B72D422C|x|0|2007|Puzzle|region-unknown|AtariAge - Simon Quernhorst|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Reactor|5321|1619E222|x|0|1982|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+RealSports Baseball|NOID|3C5A1B5F|x|0|1982|Sports/Baseball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+RealSports Basketball|NOID|364FEAA6|x|0|1983|Sports/Basketball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+RealSports Boxing|7945|3398A1B2|x|0|1987|Sports/Boxing|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+RealSports Football|15888|F89F64EF|x|0|1982|Sports/Football|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+RealSports Soccer|17533|02D89819|x|0|1983|Sports/Soccer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+RealSports Tennis|5322|379001A0|x|0|1983|Sports/Tennis|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+RealSports Volleyball|17532|54FC9EB2|x|0|1982|Sports/Volleyball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Reindeer Rescue|NOID|7C90B0D5|x|0|2006|Action|region-unknown|AtariAge - Bob Montgomery and Nathan Strum|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rescue Bira Bira|NOID|DD99E5C4|x|0|1997|Action|region-unknown|Hozer Video Games - CRACKERS|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rescue Terra I|NOID|A509AD53|x|0|1982|Shooter|region-unknown|VentureVision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Revenge of the Apes|NOID|2F56A760|x|0|2003|Action|region-unknown|AtariAge - John Marvin|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Revenge of the Beefsteak Tomatoes|NOID|243A36DF|x|0|1982|Shooter|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Riddle of the Sphinx|NOID|183A87E3|x|0|1982|Adventure|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+River Patrol|NOID|C820BD75|x|0|1984|Driving|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+River Raid|1365|C3EB7E1E|x|0|1982|Shoot-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+River Raid II|17534|27D2DF2C|x|0|1988|Shoot-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Road Runner|NOID|CB79C061|x|0|1989|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Robin Hood|NOID|DF96102B|x|0|1983|Shooter|region-unknown|Xonox - K-Tel Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Robot Tank|5323|E127C012|x|0|1983|Shooter|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Roc 'N Rope|5324|9D51C969|x|0|1984|Platformer|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rocky and Bullwinkle|NOID|91434DC6|x|0|1983|Action|region-unknown|M Network|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Room of Doom|NOID|F27FC3BE|x|0|1982|Shooter|region-unknown|CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rubik's Cube 3-D|NOID|47BFD42C|x|0|1982|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Rush Hour|NOID|E681F62E|x|0|1983|Shooter|region-unknown|CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Saboteur|NOID|7EFE0286|x|0|1983|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Save Mary!|NOID|01E18F53|x|0|1989|Action|region-unknown|Atari - Axlon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Save Our Ship|NOID|C422160A|x|0|1983|Action|region-unknown|TechnoVision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Save the Whales|NOID|9A346CE2|x|0|1983|Shooter|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+SCSIcide|NOID|46EC7863|x|0|2005|Action|region-unknown|Hozer Video Games and AtariAge - Joe Grand|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sea Battle|NOID|83B4EB19|x|0|1983|Simulation|region-unknown|Intellivision Productions - M Network|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sea Monster|NOID|3A1A392B|x|0|1982|Shooter|region-unknown|Puzzy - Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Seahawk|NOID|5D3C699E|x|0|1982|Shoot-'Em-Up|region-unknown|Sancho - Tang's Electronic Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Seaquest|NOID|8658E8D9|x|0|1983|Shoot-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Seawolf|NOID|B157A5C3|x|0|2004|Shooter|region-unknown|XYPE and AtariAge - Manuel Rotschkar|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Secret Agent|NOID|D16C45F9|x|0|1983|Action|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Secret Quest|5325|93C9EB47|x|0|1989|Adventure|region-unknown|Atari - Axlon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sentinel|NOID|D457B245|x|0|1990|Gun|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Shootin' Gallery|NOID|B89AFF8B|x|0|1982|Shooter|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Shooting Arcade|NOID|6F6FB3D6|x|0|1989|Gun|region-unknown|Atari - Axlon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Shuttle Orbiter|NOID|253D6396|x|0|1983|Miscellaneous|region-unknown|Avalon Hill|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sinistar|NOID|8E81A2A4|x|0|1984|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sir Lancelot|NOID|EB792891|x|0|1983|Shooter|region-unknown|Xonox - K-Tel Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Skate Boardin'|NOID|6EE721F7|x|0|1987|Sports/Skateboarding|region-unknown|Absolute Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Skeet Shoot|NOID|57D69B13|x|0|1981|Shooter|region-unknown|Apollo - Games by Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Skeleton|NOID|72D48641|x|0|2002|Maze|region-unknown|AtariAge - Eric Ball|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Skeleton+|NOID|69666409|x|0|2003|Maze|region-unknown|AtariAge - Eric Ball|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ski Hunt|NOID|5DF00A09|x|0|1983|Sports/Skiing|region-unknown|Home Vision - Gem International Corp. - R.J.P.G.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ski Run|NOID|E20A00B3|x|0|1983|Sports/Skiing|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Skiing|7954|35F80A22|x|0|1980|Sports/Skiing|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Skindiver|NOID|9A98888C|x|0|1983|Action|region-unknown|Sancho - Tang's Electronic Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sky Alien|19020|A23EAAC5|x|0|1983|Shoot-'Em-Up|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sky Diver|NOID|00312EA9|x|0|1979|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sky Jinks|15891|96F8CF59|x|0|1982|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sky Skipper|NOID|CC6E0F22|x|0|1983|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Slot Machine|NOID|CB378D95|x|0|1979|Casino|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Slot Racers|14694|177DBDF8|x|0|1978|Maze|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Smurf Rescue in Gargamel's Castle|NOID|E0624A7F|x|0|1982|Platformer|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Smurfs Save the Day|NOID|AD89C697|x|0|1983|Educational|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Snail Against Squirrel|NOID|5C5B9E1A|x|0|1983|Platformer|region-unknown|Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sneak 'n Peek|NOID|93B17C39|x|0|1982|Puzzle|region-unknown|U.S. Games Corporation - Vidtec|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Snoopy and the Red Baron|NOID|D1039967|x|0|1983|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Snow White and the Seven Dwarfs|NOID|38598A9A|x|0|1982|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Solar Fox|NOID|D2CA6CE8|x|0|1983|Action|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Solar Plexus|NOID|2BAD11CA|x|0|2005|Action||AtariAge - JessCREATIONS*, Co.||General Audience|||
+Solar Storm|NOID|A970B3E3|x|0|1983|Shoot-'Em-Up|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Solaris|18880|2B87850E|x|0|1986|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sorcerer|NOID|C7734BE6|x|0|1983|Shooter|region-unknown|Mythicon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sorcerer's Apprentice|NOID|E5DBFED1|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Attack|NOID|B34A3E57|x|0|1982|Shooter|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Battle|NOID|FB6BF29C|x|0|2006|Shoot-'Em-Up|region-unknown|AtariAge - Dave Neuman|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Cavern|NOID|3B0FFD89|x|0|1981|Shooter|region-unknown|Apollo - Games by Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Instigators|NOID|E10B1CF9|x|0|2002|Shoot-'Em-Up|region-unknown|XYPE and AtariAge - Christoper Tumber|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Invaders|4890|A6E867B3|x|0|1980|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Jockey|15890|AB24D73E|x|0|1982|Shoot-'Em-Up|region-unknown|U.S. Games Corporation - Vidtec|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Shuttle A Journey into Space|5326|DD210CF3|x|0|1983|Simulation|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Treat|NOID|28D0BB87|x|0|2002|Action|region-unknown|CGE and Hozer Video Games - Fabrizio Zavagli|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Treat Deluxe|NOID|9A2357CB|x|0|2003|Action|region-unknown|AtariAge - Fabrizio Zavagli|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space Tunnel|NOID|28BC5A4D|x|0|1982|Shoot-'Em-Up|region-unknown|Puzzy - Bit Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Space War|5327|65622F2A|x|0|1978|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spacechase|NOID|2954D22D|x|0|1981|Shoot-'Em-Up|region-unknown|Apollo - Games by Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+SpaceMaster X-7|NOID|E554D7D0|x|0|1983|Shooter|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spectracube Invasion|NOID|6D842F66|x|0|1985|Shooter|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spider Fighter|1354|BF0941F6|x|0|1982|Shoot-'Em-Up|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spider-Man|2957|4DFEA848|x|0|1982|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spike's Peak|NOID|50EFEA8D|x|0|1983|Action|region-unknown|Xonox - K-Tel Software - Beck-Tech|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spinning Fireball|NOID|FA40C6D3|x|0|1983|Action|region-unknown|ZiMAG - Emag - Vidco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spitfire Attack|NOID|093507D8|x|0|1983|Shooter|region-unknown|Milton Bradley Company|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Springer|NOID|DD183A4F|x|0|1982|Platformer|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sprint Master|NOID|C495904E|x|0|1988|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Spy Hunter|NOID|4F804E49|x|0|1984|Shoot-'Em-Up|region-unknown|Sega - Bally Midway|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Squeeze Box|NOID|D37F3FB3|x|0|1982|Shooter|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Squish 'Em|NOID|BCF9A418|x|0|2007|Climbing|region-unknown|AtariAge - Bob Montgomery|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sssnake|NOID|1B5B0212|x|0|1982|Shoot-'Em-Up|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stampede|7955|740800F3|x|0|1981|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Fire|NOID|07D45188|x|0|2003|Shoot-'Em-Up|region-unknown|XYPE and AtariAge - Manuel Rotschkar, Thomas Jentzsch and Paul Slocum|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Fox|14700|915EC040|x|0|1983|Shoot-'Em-Up|region-unknown|Mythicon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Raiders|5328|2AE193EE|x|0|1982|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Ship|1355|6609267E|x|0|1977|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Strike|NOID|936A596D|x|0|1983|Shooter|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Trek Strategic Operations Simulator|NOID|820EA8A2|x|0|1983|Shooter|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Voyager|NOID|4FE8477F|x|0|1982|Shooter|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Wars Jedi Arena|5329|9E36D347|x|0|1983|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Wars Return of the Jedi Death Star Battle|NOID|0886A55D|x|0|1983|Shooter|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Wars Return of the Jedi Ewok AdVenture|1358|939550E7|x|0|1983|Shoot-'Em-Up|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Wars The Arcade Game|NOID|65C31CA4|x|0|1984|Shooter|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Star Wars The Empire Strikes Back|2959|EE8C9A89|x|0|1982|Shoot-'Em-Up|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stargate|NOID|CDE3530E|x|0|1984|Shoot-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stargunner|NOID|FCA9C17B|x|0|1982|Shoot-'Em-Up|region-unknown|Telesys|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Starmaster|1357|25248B4B|x|0|1982|Shooter|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Steeplechase|NOID|6AAD3F22|x|0|1983|Sports/Horse Racing|region-unknown|Video Gems|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Steeplechase|NOID|5F6C32C3|x|0|1980|Sports/Horse Racing|region-unknown|Sears Tele-Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stell-A-Sketch|NOID|C5D7FCEB|x|0|1997|Multimedia|region-unknown|RetroWare - Bob Colbert|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stellar Track|NOID|A76E93BF|x|0|1980|Strategy|region-unknown|Sears Tele-Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stone Age|NOID|8BCDB222|x|0|1983|Action|region-unknown|CCE|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Strat-O-Gems Deluxe|NOID|671CF801|x|0|2005|Strategy|region-unknown|AtariAge - John Payson|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Strategy X|NOID|2AF91A81|x|0|1983|Shooter|region-unknown|Konami|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Strawberry Shortcake Musical Match-Ups|NOID|FB29E31F|x|0|1983|Educational|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Street Racer|7956|47592880|x|0|1977|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stronghold|NOID|BB91FFA6|x|0|1983|Shooter|region-unknown|CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Stunt Cycle|NOID|6354FF4C|x|0|1980|Motorcycle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sub-Scan|NOID|5069D7DA|x|0|1982|Shooter|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Submarine Commander|NOID|3262960A|x|0|1982|Simulation|region-unknown|Sears Tele-Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Subterranea|NOID|2AB951F7|x|0|1983|Shoot-'Em-Up|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Suicide Mission|NOID|B92C49E3|x|0|1982|Shoot-'Em-Up|region-unknown|Arcadia Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Summer Games|NOID|B9CD3F86|x|0|1987|Sports|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Super Breakout|5299|B0F20D31|x|0|1981|Breakout|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Super Challenge Baseball|NOID|F7E88EC2|x|0|1982|Sports/Baseball|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Super Challenge Football|NOID|55F02EFE|x|0|1982|Sports/Football|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Super Cobra|NOID|DE97103D|x|0|1982|Shoot-'Em-Up|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Super Football|5331|C9B16F3C|x|0|1988|Sports/Football|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Superman|5332|AFD7317B|x|0|1979|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Surf's Up|NOID|0CFD04D9|x|0|1983|Sports/Surfing|region-unknown|Amiga|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Surfer's Paradise But Danger Below!|NOID|8C68F2AE|x|0|1983|Sports/Surfing|region-unknown|Video Gems|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Surround|NOID|DCB11F23|x|0|1977|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Survival Island|NOID|8AB91D6B|x|0|1983|Action|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Survival Run|NOID|8C0EEA30|x|0|1983|Action|region-unknown|Milton Bradley Company|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+SWOOPS!|NOID|5292F31E|x|0|2005|Mini-Games|region-unknown|AtariAge - Thomas Jentzsch|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sword of Saros|NOID|D96A3632|x|0|1983|Adventure|region-unknown|Starpath Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Swordfight|NOID|F1AD77BE|x|0|1983|Fighter|region-unknown|Intellivision Productions - M Network|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Swordquest Earthworld|1372|9031A479|x|0|1982|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+SwordQuest FireWorld|NOID|6AE46A0C|x|0|1982|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+SwordQuest WaterWorld|NOID|CA7B4685|x|0|1983|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Sync|NOID|62BF3A88|x|0|2007|Compilation|region-unknown|AtariAge - Simone Serra|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Synthcart|NOID|5DDD1EBA|x|0|2002|Rhythm|region-unknown|AtariAge - Paul Slocum|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tac-Scan|NOID|A2A42BEC|x|0|1982|Shoot-'Em-Up|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tapeworm|NOID|D63474B3|x|0|1982|Action|region-unknown|Spectravision - Spectravideo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tapper|NOID|D28AFB2C|x|0|1984|Action|region-unknown|Sega - Bally Midway - Beck-Tech|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Targ|NOID|676CC394|x|0|1983|Shooter|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tax Avoiders|NOID|468D734C|x|0|1982|Platformer|region-unknown|American Videogame - Dunhill Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Taz|NOID|C9D7EC9B|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Telepathy|NOID|A0996A0D|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tennis|NOID|0A42515B|x|0|1981|Sports/Tennis|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tetris 26|NOID|D04C9050|x|0|1998|Strategy|region-unknown|Hozer Video Games - Colin Hughes|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Texas Chainsaw Massacre|NOID|EC389CAA|x|0|1983|Action|region-unknown|Wizard Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+This Planet Sucks|NOID|DD768E46|x|0|1998|Action|region-unknown|Hozer Video Games and AtariAge - Greg Troutman|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Threshold|NOID|CE5097FD|x|0|1982|Shoot-'Em-Up|region-unknown|Tigervision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Thrust+ DC Edition|NOID|C6BA1BC6|x|0|2002|Shoot-'Em-Up|region-unknown|XYPE and AtariAge - Thomas Jentzsch|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Thrust+ Platinum|NOID|70B25FB7|x|0|2003|Shoot-'Em-Up|region-unknown|XYPE and AtariAge - Thomas Jentzsch and Paul Slocum|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Thunderground|NOID|9E67C699|x|0|1983|Shooter|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Thwocker|NOID|B60AB310|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Time Pilot|NOID|21EE7DB4|x|0|1983|Shooter|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Time Warp|NOID|551E2144|x|0|1982|Shoot-'Em-Up|region-unknown|Funvision - Fund. International Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Title Match Pro Wrestling|NOID|EF708C03|x|0|1987|Sports/Wrestling|region-unknown|Absolute Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tomarc the Barbarian|NOID|B5B5AC84|x|0|1983|Action|region-unknown|Xonox - K-Tel Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tomcat The F-14 Fighter Simulator|NOID|8987C473|x|0|1988|Simulation|region-unknown|Absolute Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tooth Protectors|NOID|FD8C81E5|x|0|1983|Action|region-unknown|DSD-Camelot - Johnson and Johnson|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Topy|NOID|90EFF841|x|0|1983|Action|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Towering Inferno|NOID|2C7B86B8|x|0|1982|Action|region-unknown|U.S. Games Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Toyshop Trouble|NOID|EE004557|x|0|2007|Action|region-unknown|AtariAge - John Payson, Zach Matley, Bob Montgomery, Thomas Jentzsch and Nathan Strum|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Track and Field|NOID|21827056|x|0|1984|Sports/Olympic|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Treasure Below|NOID|D2CEA797|x|0|1983|Action|region-unknown|Video Gems|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Treasure Island|NOID|907F1D90|x|0|1983|Shoot-'Em-Up|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Trick Shot|NOID|D1CE4634|x|0|1982|Sports/Pool and Dart|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+TRON Deadly Discs|NOID|D35B22F9|x|0|1982|Shoot-'Em-Up|region-unknown|M Network - INTV|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tunnel Runner|NOID|A02745F8|x|0|1983|Maze|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Turmoil|NOID|8C65298A|x|0|1982|Shooter|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Tutankham|NOID|EC959BF2|x|0|1983|Shooter|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Ultra SCSIcide|NOID|6C8EB07A|x|0|2005|Action|region-unknown|AtariAge - Joe Grand|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Universal Chaos|NOID|25EFA169|x|0|1989|Shooter|region-unknown|Telegames|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Unknown 20th Century Fox Game|NOID|0748817D|x|0|1983|Driving|region-unknown|20th Century Fox Video Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Unknown Activision Game #1|NOID|6B0672A6|x|0|1982|Puzzle|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Unknown Activision Game #2|NOID|5C009EA0|x|0|1983|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Unknown Datatech Game #2 AKA Mazy Match|NOID|95C37983|x|0|1983|Action|region-unknown|Datatech|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Up 'n Down|NOID|C04C2B58|x|0|1984|Action|region-unknown|Sega - Bally Midway - Beck-Tech|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Vanguard|NOID|C4BEC521|x|0|1982|Shooter|region-unknown|Atari - GCC|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Vault Assault|NOID|856A6EFB|x|0|2001|Shooter|region-unknown|CGE and AtariAge - Brian Prescott|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Venture|1358|85E0CA62|x|0|1982|Action|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Venture II The Abysmal Abyss|NOID|AE961885|x|0|2001|Action|region-unknown|AtariAge - Tim Snider|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Checkers|NOID|3DF33335|x|0|1980|Board Games|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Chess|15889|B6226A54|x|0|1979|Board Games|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Jogger|NOID|28FA8D77|x|0|1983|Sports|region-unknown|Exus Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Life|NOID|34B0B5C2|x|0|1981|Educational|region-unknown|CommaVid|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Olympics|7957|E4BC89C4|x|0|1977|Ball and Paddle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Pinball|7958|10D95426|x|0|1981|Pinball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Reflex|NOID|77B8B0D1|x|0|1983|Puzzle|region-unknown|Exus Corporation|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Video Simon|NOID|C3A4BD27|x|0|2000|Strategy|region-unknown|Hozer Video Games - Mark De Smet|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Vong|NOID|A42C52C8|x|0|2008|Ball and Paddle|region-unknown|Rick Skrbina|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Wabbit|NOID|2D07ED77|x|0|1982|Shooter|region-unknown|Apollo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Walker|NOID|DA8E49FB|x|0|1983|Platformer|region-unknown|Suntek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Wall Ball|NOID|9AC6A295|x|0|1983|Breakout|region-unknown|Avalon Hill|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Wall Break|NOID|727408CD|x|0|1983|Shooter|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Warlords|1359|CF174B57|x|0|1981|Breakout|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Warplock|NOID|6531D4E1|x|0|1982|Shoot-'Em-Up|region-unknown|Data Age|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Warring Worms|NOID|E203B5B6|x|0|2002|Action|region-unknown|AtariAge - C.W. Eno and Baroque Gaming|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Warring Worms The Worm Turns|NOID|2E2D85B3|x|0|2005|Action|region-unknown|AtariAge - C.W. Eno and Baroque Gaming|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Wing War|NOID|CFEBEF9E|x|0|1983|Shooter|region-unknown|Imagic|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Winter Games|NOID|DDFF6850|x|0|1987|Sports/Olympic|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Wizard|NOID|A0BCC502|x|0|1980|Maze|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Wizard of Wor|1360|926F6F11|x|0|1982|Shooter|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Word Zapper|NOID|A11EEEAB|x|0|1982|Shooter|region-unknown|U.S. Games Corporation - Vidtec|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Words-Attack|NOID|77975BAA|x|0|1983|Educational|region-unknown|Sancho - Tang's Electronic Co.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+World End|NOID|DCC36508|x|0|1983|Shoot-'Em-Up|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Worm War I|NOID|97B83A54|x|0|1982|Shoot-'Em-Up|region-unknown|20th Century Fox Video Games - Sirius Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+X'Mission|NOID|EEF374C2|x|0|1984|Shoot-'Em-Up|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+X-Man|NOID|91659AF1|x|0|1983|Mature|region-unknown|Universal Gamex Corporation|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|ATARI2600
+Xenophobe|NOID|F875C406|x|0|1990|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Yahtzee|NOID|5C93F4D0|x|0|2000|Board Games|region-unknown|Hozer Video Games - Russell Babylon|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Yars' Revenge|3598|DFA1C825|x|0|1982|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Z-Blocks|NOID|18AB024B|x|0|2002|Strategy|region-unknown|Hozer Video Games - Alex G.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Zaxxon|15077|265AA87F|x|0|1982|Shoot-'Em-Up|region-unknown|Coleco|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Zoo Fun|NOID|C1DA05F6|x|0|1983|Platformer|region-unknown|Homevision - Gem International Corp.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI2600
+Defender II|1367|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Maze Craze A Game of Cops and Robbers|5310|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Pelé's Soccer|5316|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Donkey Kong Jr.|7613|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+David's Midnight Magic|8354|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Star Castle|17300|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Action Force|17491|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Night Stalker|17493|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Astro Attack|17499|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Hell Driver|17513|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Laser Base|17516|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Missile War|17522|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Pac Kong|17526|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Phantom Panzer|17527|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Sprintmaster|18879|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600
+Xonox Ghost Manor/Spike's Peak|18881|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI2600

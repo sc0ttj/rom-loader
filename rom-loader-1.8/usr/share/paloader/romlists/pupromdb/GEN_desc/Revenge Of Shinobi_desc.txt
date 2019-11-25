@@ -1,0 +1,71 @@
+The Neo Zeed has assassinated your sensei and kidnapped your beautiful fiance, Naoko. You are Joe Musashi, the master ninja. The secrets of Shinobi are at your disposal; the art of stealth and Ninjitsu (the ninja magic). You must destroy a vicious army while rescuing her from the clutches of their evil leader.
+
+The graphics in Revenge of Shinobi were state-of-the-art. It features exotic locations, multi-scrolling game-play, cool backgrounds, and sprites galore! The character animation is great too, as Musashi and his foes have many unique moves. All the way around, The Revenge of Shinobi was an excellent game.
+
+Directions:
+
+Using the secrets of Shinobi, fight through the levels to avenge your master and rescue your fiance.
+
+The controls of this game were excellent. The Revenge of Shinobi has a simple control system which can be learned quickly. At your disposal are Ninjitsu (ninja Magic), attack (different types depending on position and power-up), and jump. You can also crouch, double jump (for extra height), 8 shuriken spread, and jump down.
+
+You'll come across Power Packs that will increase strength and abilities. Some of the jumps needed to advance are tricky, but the tight control and practice will get you there. The eight districts you'll need to navigate are Ibaraki Province, Tokyo, The Military Base, Detroit, Area Code 818, Chinatown, New York, and the Neo Zeed Marine Stronghold. Each has a unique look, and is chock full of various enemies and bosses. My favorite locale is the Tokyo Waterfall. I was amazed at the graphic that makes the water move and it appeared very realistic. 
+
+Gameplay:
+
+The game is a traditional side-scrolling platform game. The player controls Joe Musashi and must complete 8 districts before the final confrontation with the head of Neo Zeed. Each district consists of 3 scenes, the last of which is a battle against a unique boss-character.
+
+The D-pad moves Musashi around while the A, B and C buttons are used to perform a ninjitsu technique, attack and jump respectively. A key move in The Revenge of Shinobi is the somersault, performed by pressing the jump button and then pressing it again at the height of a jump. The somersault maximizes Musashi's jumping height and enables him to throw 8 shuriken at once in mid-air. Additionally, some stages consist of multiple layers, such as the first scene of the Military Base and the freeway in Area Code 818. Switching between layer (outdoor/indoor, or on-the-highway/next-to-it) is also done with the somersault move.
+
+- Ninjutsu Techniques -
+
+Besides his regular assortment of moves and attacks, Musashi has the ability to perform four special ninjutsu techniques. Only one can be used in each level, unless an additional bonus was picked up or the ninjutsu of Mijin was used to reset your life total. The four ninpo techniques employed by Joe Musashi are as follows:
+
+    - Ninjutsu of Ikazuchi (the art of thunder): Envelopes Musashi with a shield of lightning energy that sustains damage for four consecutive hits.
+
+    - Ninjutsu of Karyu (the art of fire): Summons four dragon-shaped columns of flame that move across the screen and damage all enemies in their path.
+
+    - Ninjutsu of Fushin (the art of floating): Improves Musashi's agility by heightening his jumping capability.
+
+    - Ninjutsu of Mijin (the art of pulverizing): The most powerful ninjutsu technique in the game. Musashi explodes, damaging all enemies on screen at the cost of one life. If the player does not have a life to spare Mijin becomes inaccessible.
+
+- Bonus Crates -
+
+A variety of bonus crates can be found in each level, some hidden in the scenery. These include simple power-ups such as extra shuriken or health packs, as well as special items to gain lives or extra ninjutsu turns. Besides power-ups, some crates may contain time bombs: explosives that detonate when their fuse runs out or if Musashi comes too close (though he can walk out of the blast radius if the player is quick enough).
+
+- Options -
+
+The game is divided into four difficulties: Easy, Normal, Hard, and Hardest. As difficulty increases, more enemies appear per stage, Musashi's life bar grows shorter and the amount of starting lives decreases from 10 to 1. From the options menu, the player can also choose the amount of starting shurikens from 0 to 90.
+
+- Stages -
+
+    - Ibaraki Province, Japan: This bamboo forest is where the game begins. Through these ancient ruins Musashi must make his way to The House of Confusion. At the end of this district, he is confronted by the mighty samurai Blue Lobster.
+
+    - Tokyo: Musashi begins this stage near a rocky canyon. Winged ninja swoop down from the sky to attack Joe. Once he makes it past the waterfalls, the district moves on to the darkened roof tops of Tokyo, and eventually into a blinding disco where Shinobi must battle with the Shadow Dancer.
+
+    - The Military Base: This military complex of Neo Zeed is heavily guarded by armed soldiers. Musashi will encounter light infantry as well as flame throwers and attack dogs. The second scene takes Musashi on board an air carrier. If he touches one of the air locks, he dies. The aircraft is controlled by a powerful supercomputer that houses a human brain.
+
+    - Detroit: Detroit is one big junkyard, heaps upon heaps of cars, running through conveyor belts and into a melting furnace. A tough Terminator-like android guards this wreckage.
+
+    - Area code 818: This stage takes Musashi past skyscrapers and freeways. The final battle is fought on top of an armoured vehicle carrying a gigantic ballistic missile.
+
+    - Chinatown: After a showdown with the kung-fu gangs of Chinatown, Musashi hops on board a speeding train. Eventually he finds himself in the clutches of characters resembling Spider-Man and Batman.
+
+    - New York: Ninja and machine gunners guard the breakwater of New York's dockside. Leaping from boat to boat, Joe infiltrates Neo Zeed's container ship and comes face to face with a flame-spewing monster.
+
+    - Neo Zeed Marine Stronghold: Here is where Musashi faces his final enemy, who appears to be the leader of Zeed himself. The beautiful Naoko is trapped somewhere beneath the cellar maze of this stronghold, and Joe must terminate Zeed quickly before the cell trap kills Naoko.
+
+Controls:
+
+A Button: Ninjitsu
+B Button: Attack
+C Button: Jump
+Start Button: Start/Pause
+
+Hints:
+
+- Unlimited Knives -
+At The very beginning of the game go to the options menu and change the number of weapons to 00, then do not do ANYTHING for ten seconds, then the 00 will become an infinity sign and your weapons will never run out.
+
+Reviewer: Adrian
+http://www.consoleclassix.com/genesis/revenge_of_shinobi.html
+http://en.wikipedia.org/wiki/The_Revenge_of_Shinobi

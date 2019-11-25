@@ -1,0 +1,224 @@
+No information online about this Super Metroid hack. ~Rx
+No information online about this Super Metroid hack. ~Rx
+This is a complete Super Metroid hack, that alone makes it worth playing. It features new maps, layouts, item placements, and enemy placements. The areas in the beginning are similar to the originals, the farther you advance the more it changes. The difficulty is about the same as the original, and the puzzles are decent. There is a minor glitch where parts of the map won't be displayed when reloading your save.
+
+http://romhacking.net/hacks/109/
+Broken Peace The galaxy once enjoyed a period of peace and prosperity. Trade lines were open, the citizens were happy and the Galactic Federation kept a watchful eye over the planets. Not long ago, that peace was broken by a startling discovery.
+
+The Dawn of the Metroids On a routine survey mission of the planet SR388, the crew of a Galactic Federation vessel discovered a new airborne life form and gave it the name "Metroid". These creatures, which could engulf other living beings and take away their energy, proved to be strong and prolific. After just a few seconds of Beta-Ray bombardment, a single Metroid became two Metroids, and then four. Several Metroid specimens were gathered so that the survey vessel crew could take them to Galactic Federation Headquarters for further examination. As the crew sped towards headquarters, they were ambushed by space pirates from the planet Zebes. The pirates stole the Metroids and took them to their home planet, where the planet-leading Mother Brain created a Metroid force.
+
+Enter Samus Bounty hunter Samus Aran was commissioned by the Galactic Federation to eliminate the space pirates and do away with the dangerous Metroids. Samus landed on Zebes alone and carried out her mission with speed and precision. After the skirmish on Zebes, a special corps was assigned by the Galactic Federation to destroy the Metroids on SR388. That corps was never heard from again. The Supreme Council gave Samus the job to fly to SR388 and do what the special corps could not do--make the Metroids extinct.
+
+RETRUN TO SR388 The Metroids on SR388 were more advanced than the creatures on Zebes. These monsters could shed their skins and grow even stronger. Samus worked deep below the surface and blasted all of the Metroids in her path. Her final victory was against the enormous Metroid Queen. When the queen was defeated, Samus discovered a Metroid egg which hatched before her eyes. Even this hardened bounty hunter could not destroy the Metroid larva. When the larva sensed Samus' presence, it clung to her as though it had found its mother. Samus packed up the Metroid larva and took it with her to the Space Science Academy on the Galactic Federation Space Colony where scientists could study the creature and understand its special organic structure.
+
+A New Discovery The Science Academy scientists found out that the energy- producing properties of the Metroid could benefit humankind. Their report suggested that the Metroids may have originally been created for peaceful purposes. Just when it seemed peace and order had been restored, Samus received an emergency directive from the Galactic Federation:
+
+EMERGENCY! EMERGENCY! Return immediately to the Space Science Academy!
+
+WhenSamus made her way to the research facility, she found the building in ruins and the Metroid larve was nowhere to be found. Out of the darkness came a group of Zebesian space pirates and their leader, Ridley, who had the Metroid larva in tow. The pirates fled to a rebuilt planet Zebes and Samus followed them, resolving to finish them off and save the hatchling!
+
+--From the SNES Super Metroid instruction manual.
+
+Overview:
+
+Super Metroid was a great addition to the series. It had a great story, just like the other Metroid games, but with better graphics, sound, and controls. It was an absolute joy to play and made you want to keep playing all night long. This may have been the greatest Metroid game ever made. If you have played any of the Metroid games and enjoyed them, you must play Super Metroid. Good luck and have fun playing.
+
+Directions:
+
+Explore the caverns of Zebes searching for the last Metroid. When you first arrive on Zebes, you can't do much. As you explore, you will gain new abilities that will allow you to dive deeper into the planet.
+
+Controls:
+
+A Button - Jump
+B Button - Run
+X Button - Shoot
+Y Button - Cancel/Deselect weapon
+L Button - Angle Down
+R Button - Angle Up
+Start Button - Pause
+Select Button - Select Item
+
+Tips:
+
+Crystal Flash
+This allows you to refill your Energy Tanks.
+1. You must have 49 or less energy units.
+2. You must have 10 or more missiles, 10 or more Super Missiles, and 11 or more Power Bombs.
+3. Choose the Power Bomb icon, and morph.
+4. Press and hold the L, R, and shot buttons and hold DOWN on the control pad.  You will absorb the blast and refill your energy.
+
+Secret Attacks
+First, Equip the Charge Beam and ONE other beam ability e. g. ice or wide (NOT two) Select the power Bombs but do not enter morph ball mode.  Charge your beam up and you should use one of the following secret attacks
+
+Ice-  A shield will form around you damaging enemies you touch
+Wave- Energy Balls circle you then Fire away from you in various directions
+Plasma- Same as wave but with Plasma effect
+Spazer- Large beams fire away from you like shrapnel This will use up one of your Power Bombs
+
+(It may not work if you've just finished charging, give it another second)
+
+Samus clones
+First, you need the speed boots and X ray visor. This is fairly easy to pull off.
+
+Switch to the weapon that is before the Visor. Start holding the boost button while running until you see those silhouettes of Samus. Now, still holding the boost button, switch to the X ray visor. You will stop, and you will see those silhouettes in full color, mimicking your every move.  Once you let go of the button, the silhouettes will disappear.
+
+Murder Beam
+By equipping all five beams at the game time you can kill Motherbrain pretty easily.
+
+To equip all five beams at the same time go into the equipment screen in the Sub-Menu. You will notice that the Spazar Beam in unequipped because the Plazma Beam cancels out the Spazar. Equip the Spazar Beam (thus unequipping the Plazma Beam) then move the curser over to one of the Boot Upgrades. Hit Left and the A Button at the same time to equip the Plazma Beam. If you did it right then the letters Var should appear next to the Plazma Beam.
+
+To complete the glitch you must first charge your beam before equiping all five beams. After your beam is charged all the way , equip all five beam the way I decribed above the fire it at say Motherbrains head (when it's laying on the ground). If you did it right then an orange orb should stay behind and constantly hit Motherbrain. Equip your beams regularly.
+
+NOTE: This beam can crash your game if not done correctly.
+
+Viewing the Endings
+
+Best Ending :  Beat the game in under 3 hours 
+2nd Best Ending :  Beat the game within 3: 01-10: 00 
+Easiest ending :  Beat the game making sure your file has more  than 10 hours on it.
+
+Kill Draygon in one hit
+As soon as the boss fight with Draygon begins, note the four turrets firing electricity from the walls-two on either side. Before Draygon even shows up, blast away all four turrets with charge shots. See how the turrets spew out electricity after being killed? Equip the Grapple Beam and get ready to use this to your advantage.
+
+Instead of fighting Draygon the normal way, allow him to grab you. While he's swinging you about the room, use the Grapple Beam to latch on to one of the panels on the wall that was once occupied by a turret.  The electricity will go through the Grapple Beam, through your suit, and to Draygon himself. Samus will stay locked on until Draygon dies.
+
+Save the Zebes Critters
+When you are escaping during the countdown at the very end of the game, don't go straight to your ship from Crateria's caves. Instead, go to the room where you first acquired the morph ball bombs. Inside should be the critters that helped you escape certain rooms earlier in the game. Once they leave the room, you can exit too from where you entered. Saving them will affect the ending.
+
+Higher Jump
+In Super Metroid, when you get the Gravity Suit, you can move underwater freely. However, there is a trick that you can use to jump higher underwater. First, find a location that is fully submerged in water. Try a room in Maridia or the room before Lower Norfair (the ones with filled with Lava) Next, hold the jump button. Immediately after you press it, press pause. Go to the inventory menu and switch off the gravity suit.  Hold the jump button and unpause the game. You will jump higher than normal. Use this trick to get the screw attack before the space jump.
+
+Green Gate Glitch
+This is a glitch that exploits an error in the detection of valid hits in the various green gates scattered across Zebes.
+
+Make sure the gate's tab faces to the left, and you are on its right. Stand some distance, maybe 5-6 tiles or more, from the gate. Hold the run button and right before you reach the gate tap the jump button while simultaneously aiming up and to the left and firing a super missile. With patience and skill you will open the gate from the 'wrong' side.
+
+Exploit this glitch to obtain the Screw Attack without facing Golden Torizo, or to obtain the Grapple Beam by an alternate path, or even beat the game without shattering the Maridian tube.
+
+http://www.consoleclassix.com/snes/super_metroid.html
+No information online about this Super Metroid hack. ~Rx
+No information online about this Super Metroid hack. ~Rx
+This small hack only changes the control setup for the game, to something closer to the newer GBA Metroid games. The opening Options menus have been altered to show the new controls for the game. Item pickup messages and Japanese text have not been altered however.
+
+Control Changes
+
+- Run is now toggleable between Run and Walk.
+
+- Moonwalk has been deleted, and the setting is now used to toggle Auto Run.
+
+- Aim Up is now the only aim button, 'Aimlock'. Holding it will make Samus aim at a certain angle, and aim higher or lower if you tap up or down.
+
+- Samus also has the ability to run and aim straight up at the same time now.
+
+- Select Item is still used to select missiles, super missiles, power bombs, or the grapple beam. It no longer selects X-ray, which now has its own button. Items that are empty can be selected, but of course will not be used. Beams can still be used at any time, even when missiles and super missiles are selected.
+
+- Item cancel has also been removed, as it now activates the x-ray scope.
+
+- Aim Down has become Brandish, which, when held, will toggle between Beams and the item currently selected. This is somewhat? abusable.
+
+- Smile Beams can be charged and remain charged while you fire missiles, but you still have to wait for cooldown till you can release a charged shot, or else you'll just waste your charge.
+
+- Powerbomb attacks are also now easy to control, just tap Brandish when you want to trigger them.
+
+- Spinjump controls have also been improved a bit - Walljumping should be a bit easier on a d-pad, and Samus will fire in the direction you're pressing instead of just forward, if you press fire.
+
+- The controls are configurable to ANY combination. Aim is not limited to L and R.
+
+http://www.romhacking.net/hacks/405/
+'Cliffhanger' has a double meaning. One is the primary focus of wall jumping.
+
+The second is uncovering the truth behind your mission.
+
+For each map station you encounter, you will also receive Chozo Lore.
+
+The canonical storyline is also changed, in that there never was a M1, M2 or SM.
+
+Nor was there ever a Mother Brain.
+
+http://m2k2.taigaforum.com/post/sm_super_metroid_cliffhanger_e.html
+'Cliffhanger' has a double meaning. One is the primary focus of wall jumping.
+
+The second is uncovering the truth behind your mission.
+
+For each map station you encounter, you will also receive Chozo Lore.
+
+The canonical storyline is also changed, in that there never was a M1, M2 or SM.
+
+Nor was there ever a Mother Brain.
+
+http://m2k2.taigaforum.com/post/sm_super_metroid_cliffhanger_e.html
+Just what it sounds like, a new Super Metroid level design hack. Take a look at the readme for more important info. There are some graphical kinks that were compromises with the SM code.
+
+Savestates are recommended, as save points are pretty rare, but then, this hack is not as difficult as some of the other SM hacks released recently.
+
+http://romhacking.net/hacks/317/
+Eris goes in a bit of a different direction than the other hacks. It uses all new graphics and some crazy room design to make a very eerie, moody, and atmospheric hack. There are debilitated statues and dead trees everywhere and honestly it can feel like a Castlevania game at times. The music is hand picked for every environment (rather than most hacks where it's Norfair music for Norfair, Brinstar music for Brinstar, etc) which goes a long way towards enhancing the ambiance. The good thing about Eris is that its difficulty comes from slightly beefed up baddies rather than hard-to-traverse rooms. This streamlines exploration and makes for less headaches. Eris is a very well-done hack with some excellent, scary level design and a nice sense of progression.
+
+Notable features
+
+-Scary and atmospheric level design
+
+Nearly 7 months in the making, and it's finally finished. Every room has been disassembled and remade, and several areas of the planet bear no resemblance to what they once were.
+
+Walljumping is absolutely required from the very beginning. Other techniques that are required to complete the game are "infinite" single-wall walljumping (only in a couple of places though), single bombjumping, and the midair morph. Some insane crumble block skills are also required. As with most hacks, "infinite" bombjumping is not required.
+
+There's some early difficulty with crumble blocks but if you do have problems, you can try to abuse savestates to get through it and move on to the juicy exploration-based center.
+
+Save states are required because of the lack of save points, they cause bad errors when inserted into this game.
+
+http://romhacking.net/hacks/318/
+This hack will bring Super Metroid (and even general video-gaming) into a absolute, never experienced before, new level of difficulty. Everybody who thinks Super Metroid is easy, will find the perfect solution with this hack. Most rooms are designed to be harder to pass, the entire route is changed to make you feel like literally going through hell, and the Bosses are so hard, that you will only get a minimal chance to win!
+
+http://romhacking.net/hacks/316/
+"JUSTIN BAILEY  " was the famous password that allowed you to play as Samus without her armor suit in Metroid, a reward normally reserved for those who can finish the game in under three hours.
+
+To the disappointment of many, there was no armorless Samus in Super Metroid. But this patch restores that feature- each sprite, and every graphic of Samus has been redrawn by hand to make armorless Samus playable once again.
+
+http://romhacking.net/hacks/342/
+Samus has been hired to investigate MockingBird Station.  Others have come before her, but none of them have returned.  Upon arrival the station sealed the hanger doors blocking her way out.  After scanning her systems, Samus finds that she must disable the stations power generator before she can leave.  Unfortunately the most direct route to the generator has been blocked and she must take a more roundabout path.  The only thing that she knows is that much of the station is in lock down and she will need to release bulkheads to open more of the station.  A larger bulkhead in engineering is blocking the alternate route.  Disabling the generator will destroy the station, but there is no other option.
+
+http://m2k2.taigaforum.com/post/sm_sm_mockingbird_station_mini.html
+This hack is NOT a skill based hack, hell, its not even a hard hack, its aimed at those of you have beaten Super Metroid, and want to play alittle more, but ALL those other hacks are to hard;) That being said, theres still plenty of tricky puzzles for you experts, so give this a go either way, you will not be dissapointed.  
+
+Thanks for playing, good luck, and MOST importantly, have fun!;)
+
+SKILLS NEEDED: Walljumping, Mid-air morphball (w/ bombing)
+
+MISC: There are no savestations except your ship, so that means using Savestates.  I'm sorry if you don't like using them, there is a very good reason for not having them.
+
+http://m2k2.taigaforum.com/post/sm_super_metroid_pantheon.html
+From Drewseph's site:
+
+Metroid: Redesign is a total overhaul of Super Metroid by Drewseph with major coding done by Kejardon, MathOnNapkins and Jathys. The Planet Zebes, now bigger than we've previously seen it, is filled with many mysteries. Sleeping within the depths of the planet is a secret heavily protected by the last standing symbols of the great Chozo race?
+
+New Features:
+
+- Physics Changes
+- New Items
+- Abilities
+
+http://romhacking.net/hacks/131/
+Welcome to Super Metroid: Stardust!
+
+Special thanks to Deep_Space_Observer! Without him this would have never been released!
+
+If you wish to see videos of this hack go to my Youtube channel (tyjet66).
+
+Tricks required to beat the game:
+
+Mid-air Morph
+
+Double Bomb Jump
+
+Walljumping
+
+Infinite Single Walljumping
+
+This hack is about as non-linear as they come (if I'm correct) and it has the same amount of final items as the original. The difficulty of this hack is kinda on the low end, so if you want more of a challenge let me know, I might make a harder version. This is my first hack so tell me what you think!
+
+http://m2k2.taigaforum.com/post/sm_super_metroid_stardust.html
+The hack totally changes the order in which you play the game (for example, you start by collecting power bombs instead of missiles and going into the middle of brinstar).
+
+The storyline is: After Samus' last mission to Zebes, the whole planet was destroyed and Samus assumed that she would never have to face its familiar terrain again. However, a powerful creature called Regenertron was secretly regenerating Zebes in every detail, as the space pirate Ridley asked him to. Regenertron was able to recreate everything on Zebes, but not quite as it was before. He was also able to recreate the Space Colony and the friendly Metroid from SR-388. Samus did not realise this was going on as she was on a mission to investigate an all new type of Metroid that had just been discovered. However, it was a fake and then Samus received a distress signal she knew all too well. CERES STATION WAS UNDER ATTACK!!
+
+http://romhacking.net/hacks/119/

@@ -1,0 +1,35 @@
+Sure, driving a real high performance car can be quite a blast. But where can you go to do vertical loops, high-speed races and high flying jumps? In Hard Drivin', that's where! Hard Drivin' is so real you'll feel like you're burning up the road in a high-powered car. Two tracks provide plenty of challenge - put the pedal to the metal on the Speed Track or get airborne on the radical Stunt Track! Jump a drawbridge! Do a 360 loop! The true 3D screen display will have you hanging on for dear life! If you lose it, you get to see an instant replay of your accident. Like the incredible arcade hit, this Hard Drivin' is looking for a few hard drivers. No license - or cars - required!
+
+Gameplay:
+
+The gameplay resembles a driving game, featuring a car similar in appearance to the Ferrari Testarossa. The screen shows a first person perspective from inside the car, throgh the windshield. To separate it from other driving titles of that era, stunt loops and other road hazards were added. The game generally consists of 1 or 2 laps around the stunt track. In certain modes, the player races against the computer controlled car, Phantom Photon. The game challenges the players in a daredevil fashion and broke away from traditional racing games like Out Run or Pole Position. Stunts, a racing game produced later, has similar visuals, controls and tracks.
+
+It also features a realistic manual transmission mode and force feedback steering wheel, in which the driver would have to properly operate the car as they would in real life.
+
+A notable feature of the game is the "instant replay" display that is presented after a crash, which sets Hard Drivin' apart from most driving games of its time, which after a crash would just put the player back on the road, stopped, and let them accelerate again. Before resuming play after a crash, Hard Drivin' would run an approximately ten second animation, captioned "Instant Replay", which showed a wide aerial view of the movements of the player's car and surrounding vehicles leading up to the crash, with the player's car always centered on the screen. During the replay, the player could not change the action on screen, but the replay could be aborted to immediately get back to active gameplay. The replay would continue for about two or three seconds after the crash, showing a polygon-rendered fireball and the movement of the car, including any spinning, flipping, or bouncing off the struck obstacle. The replays add to the appeal of the game and actually add a motivation to crash in spectacular ways in order to see them played out from the aerial view.
+
+Besides collisions, a non-survivable landing after going airborne (even if the car landed right-side up), or even going too far off-road, could cause a crash which would be replayed like any other crash, with the car even exploding into the same orange fireball. The game tracks the player's progress around the track by invisible waypoints (denoted by flags on the course map showing the player's progress when the game ends due to time running out), and after a crash, the car is placed back on the track at the last waypoint passed; this sometimes is a significant distance back from the point of collision. (One of the waypoints on each track was the marked checkpoint about halfway around, which when passed granted the player extra time.)
+
+Hard Drivin's approach to collisions or unrealistic events-putting the car back on the road at a standstill-was the norm for driving games until later games such as Cruisin' USA and its successors introduced intentionally artificial physics to force a car to always stay near the road and land right-side up pointing forward.
+
+After going off-road, the player has ten seconds to return to the road, or else he will be stopped and returned to the road, at a standstill, at the last waypoint passed (just like when a crash occurs, but without an instant replay).
+
+Hints:
+
+- Traffic in Practice Mode -
+Finish a regular game, then go into the Options menu and change the race type to Practice. Then enter the following code....
+B + C + Start
+If done correctly you should have traffic when you play in Practice Mode
+
+- Cow Trick -
+Run into the cow at the beginning of the stunt track, and you'll hear her moo.
+
+- Alternate Way to Race Other Cars in Practice -
+Play a normal game and lose on purpose. Now go to the Options Screen and select Practice Mode. There will now be other cars on the track with you.
+
+- Face Phantom Photon -
+On the championship lap of the stunt track, turn left rather than going straight. You'll go through the signs and find yourself facing Phantom Photon on the speed course, where your chances of beating him will greatly improve.
+
+http://en.wikipedia.org/wiki/Hard_Drivin%27
+http://www.gamefaqs.com/console/genesis/code/586225.html
+http://www.gamefaqs.com/console/genesis/home/586225.html

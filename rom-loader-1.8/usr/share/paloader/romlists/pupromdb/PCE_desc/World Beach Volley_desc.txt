@@ -1,0 +1,9 @@
+Cute and colourful volleyball action game.
+
+http://www.pcengine.co.uk/HTML_Games/World_Beach_Volley.htm
+This is a one player volleyball game. You get to pick and modify the player's stats (stamina, strength, speed, etc.) and the type of game to be played (standard, or points for side outs).
+
+This game gets a little harder on the Express, because the ball moves so fast sometimes that it's hard to figure out where it's headed.
+
+REVIEWER: Henry Cross.
+http://baetzler.de/vidgames/Hu-reviews.var

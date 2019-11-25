@@ -1,0 +1,267 @@
+AMIGA_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^amiga|" | cut -f2 -d '|' | tr '\n' ' '`)
+AMIGA_BACKEND_ITEMS="<item>$AMIGA_BACKEND</item>" #stored value should be first in list
+for i in "${AMIGA_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$AMIGA_BACKEND" ];then
+		AMIGA_BACKEND_ITEMS=`echo "$AMIGA_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+ARCADE_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^arcade|" | cut -f2 -d '|' | tr '\n' ' '`)
+ARCADE_BACKEND_ITEMS="<item>$ARCADE_BACKEND</item>" #stored value should be first in list
+for i in "${ARCADE_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$ARCADE_BACKEND" ];then
+		ARCADE_BACKEND_ITEMS=`echo "$ARCADE_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+ATARI_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^atari|" | cut -f2 -d '|' | tr '\n' ' '`)
+ATARI_BACKEND_ITEMS="<item>$ATARI_BACKEND</item>" #stored value should be first in list
+for i in "${ATARI_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$ATARI_BACKEND" ];then
+		ATARI_BACKEND_ITEMS=`echo "$ATARI_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+COLECO_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^coleco|" | cut -f2 -d '|' | tr '\n' ' '`)
+COLECO_BACKEND_ITEMS="<item>$COLECO_BACKEND</item>" #stored value should be first in list
+for i in "${COLECO_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$COLECO_BACKEND" ];then
+		COLECO_BACKEND_ITEMS=`echo "$COLECO_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+COM_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^com|" | cut -f2 -d '|' | tr '\n' ' '`)
+COM_BACKEND_ITEMS="<item>$COM_BACKEND</item>" #stored value should be first in list
+for i in "${COM_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$COM_BACKEND" ];then
+		COM_BACKEND_ITEMS=`echo "$COM_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+DOOM_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^doom|" | cut -f2 -d '|' | tr '\n' ' '`)
+DOOM_BACKEND_ITEMS="<item>$DOOM_BACKEND</item>" #stored value should be first in list
+for i in "${DOOM_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$DOOM_BACKEND" ];then
+		DOOM_BACKEND_ITEMS=`echo "$DOOM_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+NDS_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^nds|" | cut -f2 -d '|' | tr '\n' ' '`)
+NDS_BACKEND_ITEMS="<item>$NDS_BACKEND</item>" #stored value should be first in list
+for i in "${NDS_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$NDS_BACKEND" ];then
+		NDS_BACKEND_ITEMS=`echo "$NDS_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+DOS_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^dos|" | cut -f2 -d '|' | tr '\n' ' '`)
+DOS_BACKEND_ITEMS="<item>$DOS_BACKEND</item>" #stored value should be first in list
+for i in "${DOS_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$DOS_BACKEND" ];then
+		DOS_BACKEND_ITEMS=`echo "$DOS_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+GAMEGEAR_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^gamegear|" | cut -f2 -d '|' | tr '\n' ' '`)
+GAMEGEAR_BACKEND_ITEMS="<item>$GAMEGEAR_BACKEND</item>" #stored value should be first in list
+for i in "${GAMEGEAR_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$GAMEGEAR_BACKEND" ];then
+		GAMEGEAR_BACKEND_ITEMS=`echo "$GAMEGEAR_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+GBA_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^gba|" | cut -f2 -d '|' | tr '\n' ' '`)
+GBA_BACKEND_ITEMS="<item>$GBA_BACKEND</item>" #stored value should be first in list
+for i in "${GBA_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$GBA_BACKEND" ];then
+		GBA_BACKEND_ITEMS=`echo "$GBA_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+GEN_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^gen|" | cut -f2 -d '|' | tr '\n' ' '`)
+GEN_BACKEND_ITEMS="<item>$GEN_BACKEND</item>" #stored value should be first in list
+for i in "${GEN_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$GEN_BACKEND" ];then
+		GEN_BACKEND_ITEMS=`echo "$GEN_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+N64_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^n64|" | cut -f2 -d '|' | tr '\n' ' '`)
+N64_BACKEND_ITEMS="<item>$N64_BACKEND</item>" #stored value should be first in list
+for i in "${N64_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$N64_BACKEND" ];then
+		N64_BACKEND_ITEMS=`echo "$N64_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+NEOCD_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^neocd|" | cut -f2 -d '|' | tr '\n' ' '`)
+NEOCD_BACKEND_ITEMS="<item>$NEOCD_BACKEND</item>" #stored value should be first in list
+for i in "${NEOCD_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$NEOCD_BACKEND" ];then
+		NEOCD_BACKEND_ITEMS=`echo "$NEOCD_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+NEOGEO_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^NEOGEO|" | cut -f2 -d '|' | tr '\n' ' '`)
+NEOGEO_BACKEND_ITEMS="<item>$NEOGEO_BACKEND</item>" #stored value should be first in list
+for i in "${NEOGEO_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$NEOGEO_BACKEND" ];then
+		NEOGEO_BACKEND_ITEMS=`echo "$NEOGEO_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+NGP_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^ngp|" | cut -f2 -d '|' | tr '\n' ' '`)
+NGP_BACKEND_ITEMS="<item>$NGP_BACKEND</item>" #stored value should be first in list
+for i in "${NGP_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$NGP_BACKEND" ];then
+		NGP_BACKEND_ITEMS=`echo "$NGP_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+NES_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^nes|" | cut -f2 -d '|' | tr '\n' ' '`)
+NES_BACKEND_ITEMS="<item>$NES_BACKEND</item>" #stored value should be first in list
+for i in "${NES_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$NES_BACKEND" ];then
+		NES_BACKEND_ITEMS=`echo "$NES_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+PCE_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^pce|" | cut -f2 -d '|' | tr '\n' ' '`)
+PCE_BACKEND_ITEMS="<item>$PCE_BACKEND</item>" #stored value should be first in list
+for i in "${PCE_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$PCE_BACKEND" ];then
+		PCE_BACKEND_ITEMS=`echo "$PCE_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+PSX_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^psx|" | cut -f2 -d '|' | tr '\n' ' '`)
+PSX_BACKEND_ITEMS="<item>$PSX_BACKEND</item>" #stored value should be first in list
+for i in "${PSX_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$PSX_BACKEND" ];then
+		PSX_BACKEND_ITEMS=`echo "$PSX_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+SMS_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^sms|" | cut -f2 -d '|' | tr '\n' ' '`)
+SMS_BACKEND_ITEMS="<item>$SMS_BACKEND</item>" #stored value should be first in list
+for i in "${SMS_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$SMS_BACKEND" ];then
+		SMS_BACKEND_ITEMS=`echo "$SMS_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+SEGA32X_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^sega32x|" | cut -f2 -d '|' | tr '\n' ' '`)
+SEGA32X_BACKEND_ITEMS="<item>$SEGA32X_BACKEND</item>" #stored value should be first in list
+for i in "${SEGA32X_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$SEGA32X_BACKEND" ];then
+		SEGA32X_BACKEND_ITEMS=`echo "$SEGA32X_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+SEGACD_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^segacd|" | cut -f2 -d '|' | tr '\n' ' '`)
+SEGACD_BACKEND_ITEMS="<item>$SEGACD_BACKEND</item>" #stored value should be first in list
+for i in "${SEGACD_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$SEGACD_BACKEND" ];then
+		SEGACD_BACKEND_ITEMS=`echo "$SEGACD_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+SNES_BACKEND_ARRAY=(`cat $RCLIST | grep -i "^snes|" | cut -f2 -d '|' | tr '\n' ' '`)
+SNES_BACKEND_ITEMS="<item>$SNES_BACKEND</item>" #stored value should be first in list
+for i in "${SNES_BACKEND_ARRAY[@]}"
+do
+	if [ "$i" != "$SNES_BACKEND" ];then
+		SNES_BACKEND_ITEMS=`echo "$SNES_BACKEND_ITEMS<item>$i</item>"`
+	fi
+done
+
+# enable db or not .. in pa* guis
+ROM_DATABASE_ARRAY=(true false)
+ROM_DATABASE_ITEMS="<item>$ROM_DATABASE</item>" #stored value should be first in list
+for i in "${ROM_DATABASE_ARRAY[@]}"
+do
+	if [ "$i" != "$ROM_DATABASE" ];then
+		ROM_DATABASE_ITEMS=`echo "$ROM_DATABASE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# enable db or not .. in pa* guis
+ROM_LIST_POS_ARRAY=(top bottom)
+ROM_LIST_POS_ITEMS="<item>$ROM_LIST_POS</item>" #stored value should be first in list
+for i in "${ROM_LIST_POS_ARRAY[@]}"
+do
+	if [ "$i" != "$ROM_LIST_POS" ];then
+		ROM_LIST_POS_ITEMS=`echo "$ROM_LIST_POS_ITEMS<item>$i</item>"`
+	fi
+done
+
+# enable box art or not .. in pa* guis
+ROM_BOXART_ENABLE_ARRAY=(true false)
+ROM_BOXART_ENABLE_ITEMS="<item>$ROM_BOXART_ENABLE</item>" #stored value should be first in list
+for i in "${ROM_BOXART_ENABLE_ARRAY[@]}"
+do
+	if [ "$i" != "$ROM_BOXART_ENABLE" ];then
+		ROM_BOXART_ENABLE_ITEMS=`echo "$ROM_BOXART_ENABLE_ITEMS<item>$i</item>"`
+	fi
+done
+# enable box art dwnld all at once, or not .. in pa* guis
+ROM_BOXART_DL_ARRAY=(one all both disable)
+ROM_BOXART_DL_ITEMS="<item>$ROM_BOXART_DL</item>" #stored value should be first in list
+for i in "${ROM_BOXART_DL_ARRAY[@]}"
+do
+	if [ "$i" != "$ROM_BOXART_DL" ];then
+		ROM_BOXART_DL_ITEMS=`echo "$ROM_BOXART_DL_ITEMS<item>$i</item>"`
+	fi
+done
+
+# enable rom descriptions or not .. in pa* guis
+ROM_DESCR_ENABLE_ARRAY=(true false)
+ROM_DESCR_ENABLE_ITEMS="<item>$ROM_DESCR_ENABLE</item>" #stored value should be first in list
+for i in "${ROM_DESCR_ENABLE_ARRAY[@]}"
+do
+	if [ "$i" != "$ROM_DESCR_ENABLE" ];then
+		ROM_DESCR_ENABLE_ITEMS=`echo "$ROM_DESCR_ENABLE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# enable rom descriptions or not .. in pa* guis
+ROM_HSCROLLBAR_ARRAY=(true false)
+ROM_HSCROLLBAR_ITEMS="<item>$ROM_HSCROLLBAR</item>" #stored value should be first in list
+for i in "${ROM_HSCROLLBAR_ARRAY[@]}"
+do
+	if [ "$i" != "$ROM_HSCROLLBAR" ];then
+		ROM_HSCROLLBAR_ITEMS=`echo "$ROM_HSCROLLBAR_ITEMS<item>$i</item>"`
+	fi
+done
+
+# enable rom descriptions or not .. in pa* guis
+ROM_ASKBIOS_ARRAY=(true false)
+ROM_ASKBIOS_ITEMS="<item>$ROM_ASKBIOS</item>" #stored value should be first in list
+for i in "${ROM_ASKBIOS_ARRAY[@]}"
+do
+	if [ "$i" != "$ROM_ASKBIOS" ];then
+		ROM_ASKBIOS_ITEMS=`echo "$ROM_ASKBIOS_ITEMS<item>$i</item>"`
+	fi
+done
+

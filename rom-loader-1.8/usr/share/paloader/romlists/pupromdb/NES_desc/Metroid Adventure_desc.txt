@@ -1,0 +1,3 @@
+Another hack of Metroid. This hack features a difficulty theme and arranges the levels and hacks the AI of the game.
+
+http://www.zophar.net/hacks/nes/metroid-1/metroid-adventure.html

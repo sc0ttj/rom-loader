@@ -1,0 +1,69 @@
+Dr. Ivo Robotnik, the mad scientist, is snatching innocent animals and turning them into evil robots! Only one tough dude can put an end to the demented scientist's fiendish scheme. It's Sonic, the real cool hedgehog with the spiked haircut and power sneakers that give him super speed.
+
+Help Sonic fight hordes of metal maniacs and do the loop with the Super Sonic Spin Attack. Speed down twisting tunnels and swing over dangerous booby traps. Leap across lava pits and dodge burning rocks. Then splash through the chilling waters in an underground cavern. And if you're lucky, you can warp to the secret zone where you spin around in a floating maze! your greatest challenge lurks in a secret lab where you come face to face with Dr. Robotnik himself!
+
+Spin through space, loop 'til you're dizzy, save the animals and become the super hero. Be Sonic! Be atomic!
+
+--From the Genesis Sonic The Hedgehog instruction manual.
+
+Overview:
+
+Sonic the Hedgehog is Sega's number one claim to fame. As one of the biggest games ever, it carried Sega through some rough times. While the Sega Genesis sold like hotcakes, its younger brothers (Saturn and Dreamcast) flopped. Sega is now out of the console business, and Sonic The Hedgehog is still alive. That's almost all Sega does today. They have released a Sonic game on almost every system out right now.
+
+Sonic the Hedgehog is a lot of fun to play. I always thought of it as Mario on crack. It was a platformer that was just super fast. There were plenty of levels and a lot of baddies to get through. The bosses were always Dr. Robotnik in a new machine. Sonic the Hedgehog is a cornerstone of classic gaming, and if you've never played it, I suggest you get going!
+
+Directions:
+
+Save all the woodland animals from the evil Dr. Robotnik, he is using them to do his bidding by enslaving them in robots. On your way through seven zones that are split up into sections, and five bonus levels, there are several items of interest.
+
+First are rings. Rings need to be collected for two reasons, points and life. The more rings you have at the end of a level, the more points you will get. While you have rings on you, if you get hit you won't die but you'll have them knocked out of you. Try to get as many back as you can. You will also get an extra life for every hundred you collect.
+
+The other items will be found in TVs after jumping on them. The super ring gives you ten rings. The speed shoes give you super sonic speed. The shield wraps you in a protective layer of energy that is good for one hit. There is also an invincibility power-up that will make you invulnerable for a short time. You will still be able to be crushed or fall off the edge, though. There is also a Sonic face that is good for a one-up. At the end of each zone you will have to go up against Dr. Robotnik and his latest creation.
+
+Gameplay:
+
+-Overview-
+
+In the game, Sonic has to prevent Dr. Robotnik from collecting six (seven in the later games) of the Chaos Emeralds in an attempt to rule South Island. He must traverse six "zones", each comprising three stages or "acts", until he confronts Robotnik for the last time in the Final Zone.
+
+The gameplay centers around elements that exploit the increased performance of the 16-bit console over its 8-bit forebears. It is notable for being both simplistic and engaging for players.
+
+Sonic could run, jump, and roll at significantly higher speeds than most platformers of the time. Unlike other platformers, the game's levels were designed to encourage the player to progress quickly. Springs, slopes, high falls and loop-de-loops were all available to both boost and challenge the player to reach high speeds. This was all accomplished without any slowdown in framerates, adding to the experience.
+
+- Features -
+
+Essential to the gameplay are the golden rings the player collects along his/her way in each level; a feature which would become one of the defining characteristics of the series. These items are regularly placed around the level map and serve multiple functions. First, the player collects rings to protect Sonic. As long as they have at least one ring, the player will not lose a life when injured. Instead, when hit, up to 40 of the rings the player has collected will fly outward and scatter around the immediate area, some of which can then be retrieved before they disappear. If the player runs into an enemy without a single ring, they will lose a life. If the player collects 100 rings they will gain a life, and gain an additional life for every 100 rings after that, provided the rings are not lost.
+
+If the player has at least 50 rings at the end of an act, a giant golden ring will float above the finishing sign which can be jumped through to enter one of the Special Stages (this excludes the final act of a stage, when Sonic will enter a boss fight). At the end of each act, the total number of rings the player has is multiplied by 100 and added to the player's score. During the score-tallying, the player can also jump through the air to find hidden emblems which can range from 100 to 10,000 points.
+
+Also scattered throughout each level are monitors which, when broken by the character, reward the player with one of a variety of bonuses. These include a shield which will protect Sonic from a single hit, a 10-ring bonus, an extra life, temporary invincibility (accompanied with a temporary change in music), and "Super Sneakers", which give the player a temporary speed boost (and increase the tempo of the music for the duration). The item monitors have become another long-lasting feature in the series, though they have been changed to bubble-like containers in later games.
+
+Despite the various types of protection available, neither the shield, rings, nor invincibility will prevent the player losing a life if Sonic is crushed (by a trap or between a wall and a moving platform), drowned, runs out of time (each act has a ten-minute time limit), or falls into a bottomless pit.
+
+Progression through the game is made easier for the player by lamp posts that act as checkpoints. When Sonic passes a lamp post, its color changes from blue to red, and the next time a life is lost, gameplay will restart at that point rather than at the beginning of the act. In the Japanese version, if a checkpoint is activated and a life is lost as a result of running out of time, the time at the checkpoint will reset to 0:00.
+
+Hazards the player experiences include a wide variety of "badniks" - these appear as animals trapped inside mechanical bodies which are released the moment the player hits them. Each badnik takes one hit to destroy, but they vary greatly from Zone to Zone; some will walk in a set path, others will try blasting the player, and some cannot be avoided at all. The player must also avoid rows of sharp spikes, cliffs, and elaborate death traps. There is also the threat of drowning, as the player can only survive approximately 30 seconds underwater (locating air bubbles can extend this).
+
+The game features no game saves or passwords. This means that the game has to be restarted from the beginning when the player runs out of continues or turns off the system unless the player uses a cheat code to access the level select screen.
+
+Controls:
+
+A Button: Jump
+B Button: Jump
+C Button: Jump
+Start Button: Pause
+
+Hints:
+
+- Level Select -
+Press up down left right on the title screen, then hold A and press start.
+
+- Debug Mode -
+At the title screen press- UP, C, DOWN, C, LEFT, C, RIGHT, C then hold A and press start. You will be in debug mode. In Debug mode, you use B to turn into the cursor. Press A to change the item, and press C to place it. Hitting B will return you to Sonic.
+
+- Mess up Computer -
+While the computer is playing during demos, you can hold down A+B+C to make the computer mess up and run into enemies, etc. 
+
+Reviewer: Adrian
+http://www.consoleclassix.com/genesis/sonic_the_hedgehog.html
+http://en.wikipedia.org/wiki/Sonic_the_Hedgehog_(16-bit)#Gameplay

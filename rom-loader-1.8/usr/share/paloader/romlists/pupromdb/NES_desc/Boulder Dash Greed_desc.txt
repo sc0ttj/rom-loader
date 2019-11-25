@@ -1,0 +1,3 @@
+This is a hack of Boulder Dash, a fairly obscure game for the NES. New levels have been added using "Quarry" the Boulder Dash level editor created by Dan.
+
+http://www.zophar.net/hacks/nes/boulder-dash.html

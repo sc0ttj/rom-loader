@@ -1,0 +1,28 @@
+The year is 1999, and a radical terrorist group called DAGGER has neutralized the communication system connecting the world's military bases. They have somehow gained control of the satellite communication network, and are now holding the entire planet hostage under threat of using nuclear bombs to destroy the world's great cities. The superpowers of East and West are paralyzed, and the helpless citizens of Earth hold their breath as the doomsday clock ticks away! A ransom demand has been received on the computer screen at NORAD, the USA's defense command center: "If all governments do not surrender to us within ten days, we will destroy the entire world with nuclear missiles, and all that will remain of your great cities will be piles of ash!" The President makes the decision to call in the Special Forces air unit, code named "Vapor Trail." Somewhere in the Pacific Ocean, alert-sirens wail away inside of a secret Special Forces aircraft carrier.
+
+Operation VAPOR TRAIL has been initiated... and you are the world's last hope for freedom!
+
+Gameplay:
+
+The game features 2 players controlling the jet fighters simultaneously for battle across numerous levels. There are 3 types of jets varying from different classes of speeds and firepower. The Silph is the midrange plane with the most balance. While the Valkyrie carries the most firepower, and the Seylen jet is capable of flying at the highest mach speed. Weapon upgrades are available throughout the game, ranging from homing missiles, ring guns, flame throwers and many more. Each jet may also activate the shield manually in times of trouble.
+
+Players have a choice between four different standard pick-up weapons: Vulcan - the player's default weapon which fires straight forward, but can flare out to destroy larger groups of enemies depending on the jet selected. Bombs - a straight firing, explosive weapon that retains the same firing pattern for all jets, but increases in launch count (number of times it can be fired at once) when upgraded. Defender - an explosive cluster-shot weapon that encircles the player's jet and remains the same when upgraded, but increases in count much like the Bombs. Missiles - homing missiles that fire from multiple directions of the jet. Similar to the Vulcan, the Missiles fire in different directions depending on the jet that is used.
+
+Every jet is equipped with a roll device that allows them to kamikaze safely into other jets. The roll must be re-charged after every use.
+
+Players also have the choice to pick-up the S-Unit, a weapon attachment that empowers the jet's firing no matter what weapon is picked-up previously and every jet's S-Unit attack differs from the others.
+
+Silph S-Unit: Fires diagonal wave shots in a V formation.
+
+Valkyrie's S-Unit: Fires rapid-fire flame blasts in a straight direction.
+
+Seylen's S-Unit: Fires an array of arrow-head shots with four firing from the front, two firing from the sides and front and two firing from behind.
+
+Once the S-Unit is equipped, the player cannot use their previous weapons unless the S-Unit is detonated. Detonating the S-Unit does not harm the player, but it does harm the enemy as the unit will detonate in a large and powerful explosion.
+
+Trivia:
+
+Sound effects from the game were sampled in the Snazin Smith song "Doctor Rhino"
+
+http://www.gamefaqs.com/console/genesis/home/586577.html
+http://en.wikipedia.org/wiki/Vapor_Trail:_Hyper_Offence_Formation

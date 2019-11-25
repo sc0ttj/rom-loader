@@ -1,0 +1,21 @@
+This is a really great game. Check her out. The graphics are better than a lot of what you'll see on supposedly superior systems like the SNES, and the music is pretty rockin' too. The control is spot on, other than the inaccurate jumping.
+
+Here's a quick break down of what's gonna happen in every level: Begin level, battle off onslaught of cheap enemies (level 2 especially bothers me. Even though your chest cannon (hold I+II) is devastatingly weak, you have to use it against these guys, and they all die from it before getting a shot off. Boring!), go through the middle of the level, probably dodging some lasers and/or missiles, reach boss, blast him a new one, finish level and go to Veigues Command Center, where you can use your points gained (based off a formula of enemies killed and remaining shields) to upgrade your mech in a variety of ways. Go again.
+
+On the one hand you could argue that this is a boring archetypal action game, but on the other hand, no game is quite like this, though the closest would probably be Atomic Robo Kid. If you're reading this review you're already interested. Indulge yourself, you won't regret it. 
+
+HINTS:
+
+- Continue code -
+Right after you turn the game on, press and hold Left and Down and Select. "Continue Mode" will appear on the screen. The number of continue is determined by the following equation: your score (at the time when you were first kill) divided by 1,000,000 points plus 3
+
+- Difficult Mode -
+At the title screen, press I + II and then quickly press RUN + SELECT to reset the game. Immediately hold RIGHT + DOWN + SELECT until the title screen appears. "DIFFICULT MODE" will appear on the screen if done correctly.
+
+- Easy mode (Double power and units) -
+Reset the game (By hitting Run and Select simultaneously) after hitting I and II simultaneously. The press and hold Right and Up and Select until the title screen appears
+
+- Music Mode -
+During play, hit I and reset the game. Press and hold Left,Up, and Select until the title screen appears. You'll be in Music Mode; you can play any music in the game by pressing I or II
+
+http://www.gamefaqs.com/console/turbo16/review/R70333.html

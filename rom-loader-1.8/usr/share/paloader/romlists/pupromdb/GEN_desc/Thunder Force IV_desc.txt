@@ -1,0 +1,29 @@
+You must lead the battle against the evil Lohun Empire. Their computer system is poised to destroy your Galaxy Federation's defenses. Lead the attack on their heavily defended military planet. Knock out the planet's command center to pave the way for the invasion force. Take the fight underwater to destroy massive marine battlecruisers. Launch magnetically-charged photon blasts at alien bio-machines. Twist through the labyrinthine structure of the enemy's Bio-Base. There you'll meet your final objective, the destructive regenerating computer. Cut loose with the Thunder Sword, your most powerful energy beam, as you battle this ultimate weapon!
+
+Gameplay:
+
+The game format is mostly unchanged from the previous game (horizontally oriented and forward scrolling). However, many of the stages now stretch beyond the height of a TV screen, which allow the player more space to maneuver and dodge incoming fire (but also makes it easier to miss power-ups). Also, the player now has the option choosing the play order of the first four stages, instead of just the starting stage like in Thunder Force III.
+
+The weapon system is also similar to Thunder Force III. Featuring the same upgradeable defaults, and unique extra weapons that are either exclusive, or were in previous games. Again, upon ship destruction, the weapon currently being used is lost, apart from the defaults. The CLAWs return, and basically have the exact same function as their Thunder Force III counterparts. The speed setting also returns, although it is represented by a percent gauge from twenty-five (lowest speed) to one-hundred (highest speed). Tapping the speed button will increase speed by 25 percent and holding it down will increase speed gradually by one percent.
+
+The most significant addition to the ship arsenal is the Thunder Sword, a very powerful lightning-based frontal attack. At the game's halfway point, the ship receives an add-on part which enables the use of the Thunder Sword. From here, the one requirement of using the Thunder Sword is that the ship be equipped with CLAWs. When the ship is not firing any weapons, a charging noise is heard (followed by a chime when fully charged) and the CLAWs will appear to be surrounded with electricity. The next press of the fire button will discharge the Thunder Sword. The blast is stronger if charged longer and is at its strongest when fully charged.
+
+Trivia:
+
+Thunder Force IV had a more sophisticated regional lockout chip than most Mega Drive games, meaning that you could not play the Japanese version on a European Mega Drive, and vice versa, with a Bridge Adapter. However, a Mega Key adapter or a Game Genie would enable you to do so. Thunder Force IV also has the distinction of being one of the only European Mega Drive games to have been properly optimised for PAL televisions, meaning that it ran at the correct speed, unlike most games which ran 16.7% slower than their NTSC counterparts due to sloppy conversion between TV systems. The game still featured black borders however.
+
+Hints:
+
+- 99 Lives -
+At the Title Screen, wait for the words ''Press Start'' to appear. When they do, press A and Start simulanteously. Go to the config screen and set ''Stock Ship'' to zero. Start the game and you'll now have 99 lives.
+
+- All Weapons -
+Enter the following code at the Pause Screen....
+Up - Right - A - Down - Right - A - Down - Right - A - C - Left - Up - B - Up
+When you un-pause the game you should have all of the weapons
+
+- Omake BGM -
+Complete the game once on any difficulty. Then go to the options screen (A+Start during the opening or title screen) and go to the Music option. You will notice that in addition to the added staff roll and ending songs, you also get to listen to 10 really cool songs that can't be found anywhere else in the game.
+
+http://www.gamefaqs.com/console/genesis/home/586290.html
+http://en.wikipedia.org/wiki/Thunder_Force_IV

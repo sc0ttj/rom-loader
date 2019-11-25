@@ -1,0 +1,14 @@
+After Bored of the Rings parodied JRR Tolkien's classic Lord of the Rings series, Delta 4 did the same thing with its predecessor The Hobbit, preceding New Line Cinema's identical sequence by 20 years. There is a logical 3-part structure to the adventure, but there are also jokes such as the Old Ford location on the map being near a New Ford - a new Ford Sierra car.
+
+This interactive fiction with graphics game thus features reluctant adventurer Bimbo Faggins and devious magician Grandalf attempting to gain treasure, ultimately by appearing on a TV game show. VERB NOUN inputs are used for most instructions, although you have to TALK someone before SAYing anything to them. EXAMINEing objects is crucial to progress, and to finding the best jokes.
+
+Trivia:
+
+Unusually for UK games of the time, there are a couple of Easter Eggs in this one. 
+
+Type 'WHY' and the game will reply '42' - the answer to 'Life, the Universe and Everything' in The Hitchhiker's Guide to the Galaxy.
+
+Also, in part two you can type DELTA 4 to explore a rendition of the company's house.
+
+
+http://www.mobygames.com/game/zx-spectrum/boggit

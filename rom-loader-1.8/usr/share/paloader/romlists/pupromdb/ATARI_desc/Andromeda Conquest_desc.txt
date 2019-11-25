@@ -1,0 +1,5 @@
+A strategy / conquest game in which one to four players build galactic empires by establishing and defending space colonies, managing resources, and battling other players for control of star systems.
+
+The layout is grid-based, and the package includes a pad of graph paper for keeping track of ship and colony locations.
+
+http://www.mobygames.com/game/atari-8-bit/andromeda-conquest

@@ -1,0 +1,1 @@
+Will NOT work without the Chalk Board PowerPad. This device is not yet supported by emulators.

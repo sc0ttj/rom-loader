@@ -1,0 +1,120 @@
+Baseball Stars Color|NOID|FFA7E88D|x|0|1999|Baseball/Sports|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Biomotor Unitron|NOID|3807DF4F|x|0|1999|Strategy|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Bust-A-Move Pocket|NOID|85FE6AE3|x|0|1999|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Cool Boarders Pocket|NOID|833F9C22|x|0|2000|Snowboarding/Sports|region-unknown|SNK|dev-unknown|Everyone 3+|media-unknown|controller-unknown|NGP
+Crush Roller|NOID|6200C65E|x|0|1999|Action|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Dark Arms Beast Buster 1999|NOID|6F353F34|x|0|1999|Role Playing|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Dive Alert Becky's Version|NOID|83DB5772|x|0|2000|Role Playing|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Dive Alert Matt's Version|NOID|EF75081B|x|0|2000|Role Playing|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Dynamite Slugger|NOID|7F1779CD|x|0|2000|Baseball/Sports|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Evolution Eternal Dungeons|NOID|BE47E531|x|0|2000|Role Playing|region-unknown|SNK|dev-unknown|Everyone 3+|media-unknown|controller-unknown|NGP
+Fantastic Night Dreams Cotton|NOID|1BF412F5|x|0|2000|Shoot-'Em-Up|region-unknown|SNK|dev-unknown|Everyone 3+|media-unknown|controller-unknown|NGP
+Faselei!|NOID|E705E30E|x|0|2000|Strategy|region-unknown|SNK|dev-unknown|Everyone 12+|media-unknown|controller-unknown|NGP
+Fatal Fury F-Contact|NOID|A9119B5A|x|0|1999|Fighter|region-unknown|SNK|dev-unknown|Teen|media-unknown|controller-unknown|NGP
+King of Fighters R-2|NOID|47E490A2|x|0|1999|Fighter|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Last Blade Beyond the Destiny|NOID|94FCFD1E|x|0|2000|Fighter|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Magical Drop Pocket|NOID|72184DE7|x|0|1999|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Metal Slug 1st Mission|NOID|4FF91807|x|0|1999|Shooter|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Metal Slug 2nd Mission|NOID|AC549144|x|0|2000|Shooter|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Neo 21 Real Casino Series|NOID|0A2A2F28|x|0|1999|Casino|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Neo Baccarat Real Casino Series|NOID|22AAB454|x|0|2000|Casino|region-unknown|SNK|dev-unknown|Everyone 3+|media-unknown|controller-unknown|NGP
+Neo Cherry Master Color Real Casino Series|NOID|A6DCA584|x|0|1999|Casino|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Neo Dragon's Wild Real Casino Series|NOID|5D028C99|x|0|1999|Casino|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Neo Geo Cup '98 Plus|NOID|C0DA4FE9|x|0|1998|Soccer/Sports|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Neo Mystery Bonus Real Casino Series|NOID|E79DC5B3|x|0|1999|Casino|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Neo Turf Masters|NOID|317A66D2|x|0|1999|Golf/Sports|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Pac-Man|NOID|21E8CC15|x|0|1999|Action|region-unknown|Namco|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Picture Puzzle|NOID|67E6DC56|x|0|2000|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Pocket Reversi|NOID|20F09880|x|0|2000|Board Games|region-unknown|SNK|dev-unknown|Everyone 3+|media-unknown|controller-unknown|NGP
+Pocket Tennis Color Pocket Sports Series|NOID|D8590B96|x|0|1999|Sports/Tennis|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Puyo Pop|NOID|5C649D1E|x|0|1999|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Puzzle Bobble Mini|NOID|E69EAE3E|x|0|1999|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Puzzle Link|NOID|FE95938C|x|0|1999|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Puzzle Link 2|NOID|E2A09BB7|x|0|2000|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Samurai Shodown! 2 Pocket Fighting Series|NOID|4F7FB156|x|0|1999|Fighter|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Shanghai Mini|NOID|90732D53|x|0|2000|Puzzle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+SNK Gals' Fighters|NOID|B02C2BE7|x|0|2000|Fighter|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+SNK vs. Capcom Card Fighters' Clash Capcom Version|NOID|80CE137B|x|0|1999|Card Battle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+SNK vs. Capcom Card Fighters' Clash SNK Version|NOID|94B63A97|x|0|1999|Card Battle|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+SNK vs. Capcom The Match of the Millennium|NOID|B173030A|x|0|1999|Fighter|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Sonic the Hedgehog Pocket Adventure|NOID|356F0849|x|0|1999|Platformer|region-unknown|SNK|dev-unknown|Everyone|media-unknown|controller-unknown|NGP
+Dokodemo Mahjong|NOID|78c21b5e|x|0|1999|Board Game|Japan|ADK|ADK|No Rating|Cartridge|Neo-Geo|NeoGeoPocket
+King of Fighters R-1|NOID|dceb7e11|x|0|1999|VS Fighter|Europe|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocket
+Neo Cherry Master Real Casino Series|NOID|5c067579|x|0|1998|Casino|Europe|SNK|Dyna Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocket
+Pocket Tennis Pocket Sports Series|NOID|89410850|x|0|1999|Sports, Tennis|Europe|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocket
+Renketsu Puzzle Tsunagete Pon!|NOID|37e79afc|x|0|1998|Puzzle|Japan|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocket
+Samurai Shodown! Pocket Fighting Series|NOID|32e4696a|x|0|1998|VS Fighter|Europe|SNK|Saurus|No Rating|Cartridge|Neo-Geo|NeoGeoPocket
+Shougi no Tatsujin|NOID|f34d0c9b|x|0|1998|Board Game|Japan|ADK|ADK|No Rating|Cartridge|Neo-Geo|NeoGeoPocket
+Baseball Stars Color|NOID|ffa7e88d|x|0|1999|Sports, Baseball|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Big Bang Pro Wrestling|NOID|b783c372|x|0|2000|Sports, Wrestling|Japan|SNK|S-Neo|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Biomotor Unitron|NOID|3807df4f,ecee99f3|x|0|1999|Role Playing Game|USA|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Bust-A-Move Pocket|NOID|85fe6ae3|x|0|1999|Puzzle|USA|SNK|Ukiyotei|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Cool Boarders Pocket|NOID|833f9c22|x|0|2000|Sports, Competitive Events|Europe|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Cool Cool Jam|NOID|4fda5d8a|x|0|2000|Sports, Competitive Events|Japan|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Crush Roller|NOID|6200c65e,4640235c|x|0|1999|Maze|USA|SNK|ADK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Dark Arms Beast Buster 1999|NOID|6f353f34|x|0|1999|Role Playing Game|USA|SNK|Noise Factory|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Delta Warp|NOID|add4fdff|x|0|2000|Puzzle|Japan|Iosys|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Densetsu no Ogre Battle Gaiden Zenobia no Ouji|NOID|eeeefd6a|x|0|2000|Strategy, Fantasy, Turnbased|Japan|SNK|Riverhillsoft|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Densha de Go! 2|NOID|d5ced9e9|x|0|1999|Strategy, Fantasy, Turnbased|Japan|SNK|Taito Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Dive Alert Becky's Version|NOID|83db5772,3c4af4f5|x|0|2000|Role Playing Game|USA|SNK|Sacnoth|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Dive Alert Matt's Version|NOID|ef75081b,c213941d|x|0|2000|Role Playing Game|USA|SNK|Sacnoth|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Dynamite Slugger|NOID|7f1779cd|x|0|2000|Sports, Baseball|Europe|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Evolution Eternal Dungeons|NOID|be47e531,e006f42f|x|0|2000|Role Playing Game|Europe|SNK|Sting|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Fantastic Night Dreams Cotton|NOID|1bf412f5,b8a12409|x|0|2000|Shooter, Scrolling|Europe|SNK|Success|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Faselei!|NOID|e705e30e,8f585838|x|0|2000|Strategy|Europe|SNK|Sacnoth|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Fatal Fury First Contact|NOID|a9119b5a|x|0|1999|VS Fighter|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Ganbare Neo Poke-kun|NOID|6df986a3|x|0|2000|VS Fighter|Japan|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Infinity Cure|NOID|32dc2aa2|x|0|2000|Action|Japan|Kid|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Kikou Seiki Unitron Sono Tsuide. Hikari Umareru Chi Yori|NOID|84580d66|x|0|2000|Role Playing Game|Japan|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+King of Fighters R-2|NOID|47e490a2,17f8e61e|x|0|1999|VS Fighter|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Koi Koi Mahjong|NOID|b51c3eba|x|0|2000|Board Game|Japan|Visco|Visco|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Magical Drop Pocket|NOID|72184de7,6c465716|x|0|1999|Puzzle|USA|SNK|SAS Sakata|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Memories Off Pure|NOID|a7926e90|x|0|2000|Strategy|Japan|Kid|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Metal Slug 1st Mission|NOID|4ff91807,da00865a|x|0|1999|Platformer|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Metal Slug 2nd Mission|NOID|ac549144|x|0|2000|Platformer|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Mezase! Kanji Ou|NOID|a52e1c82|x|0|2000|Platformer|Japan|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Mizuki Shigeru no Youkai Shashinkan|NOID|dde08335|x|0|1999|Strategy|Japan|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo 21 Real Casino Series|NOID|0a2a2f28|x|0|2000|Casino|USA|SNK|Dyna Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Baccarat Real Casino Series|NOID|22aab454|x|0|2000|Casino|USA|SNK|Dyna Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Cherry Master Color Real Casino Series|NOID|a6dca584|x|0|1999|Casino|USA|SNK|Dyna Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Derby Champ Daiyosou|NOID|5a053559|x|0|1999|Racing|Japan|Dyna Corporation|Dyna Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Dragon's Wild Real Casino Series|NOID|225fd7f9,5d028c99|x|0|1999|Casino|USA|SNK|Dyna Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Geo Cup '98 Plus|NOID|c0da4fe9|x|0|1998|Sports, Soccer|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Mystery Bonus Real Casino Series|NOID|e79dc5b3|x|0|1999|Casino|USA|SNK|Dyna Corporation|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Poke Pro Yakyuu|NOID|f4d78f12|x|0|1999|Sports, Baseball|Japan|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Neo Turf Masters|NOID|317a66d2|x|0|1999|Sports, Golf|USA|SNK|Saurus|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Nigeronpa|NOID|3cc3e269|x|0|2000|Role Playing Game|Japan|Dennou Club|Dennou Club|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pac-Man|NOID|21e8cc15|x|0|1999|Maze|USA|Namco|Namco|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket Azteca|NOID|c56ef8c3|x|0|2000|Casino|Japan|Aruze Corp|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket Dekahel 2|NOID|346f3c46|x|0|2001|Casino|Japan|Aruze Corp|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket Delsol 2|NOID|1ea69db1|x|0|2000|Casino|Japan|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket e-Cup|NOID|0a7c32df|x|0|2001|Casino|Japan|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket Hanabi|NOID|cfd1c8f2|x|0|1999|Casino|Japan|Aruze Corp|Aruze Corp|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket Oohanabi|NOID|8a88c50f|x|0|2000|Casino|Japan|Aruze Corp|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket Porcano 2|NOID|96ddfbe3|x|0|2000|Casino|Japan|Aruze Corp|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachi-Slot Aruze Oukoku Pocket Ward of Lights|NOID|d46cbc54|x|0|2000|Casino|Japan|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pachinko Hisshou Guide Pocket Parlor|NOID|c3d6b28b|x|0|1999|Casino|Japan|Vistec|Vistec|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Party Mail|NOID|4da8a1c0|x|0|1999|Casino|Japan|ADK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Picture Puzzle|NOID|67e6dc56,59ab1e0f|x|0|2000|Puzzle|USA|SNK|Success|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pocket Love if|NOID|c2ee1ee5|x|0|1999|Adventure|Japan|Kid|Kid|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pocket Reversi|NOID|20f09880,fb0b55b8|x|0|2000|Board Game|Europe|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Pocket Tennis Color Pocket Sports Series|NOID|d8590b96|x|0|1999|Sports, Tennis|USA|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Puyo Pop|NOID|3090b2fd,5c649d1e|x|0|1999|Puzzle|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Puzzle Bobble Mini|NOID|c4b173a,e69eae3e|x|0|1999|Puzzle|USA|SNK|Ukiyotei|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Puzzle Link|NOID|fe95938c,615f1f2f|x|0|1999|Puzzle|USA|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Puzzle Link 2|NOID|e2a09bb7,98acc37a|x|0|2000|Puzzle|USA|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Rockman Battle and Fighters|NOID|9c861e49,373e9e15|x|0|2000|Action|Japan|Capcom|Capcom|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Samurai Shodown! 2 Pocket Fighting Series|NOID|4f7fb156,d356e6f8|x|0|1999|VS Fighter|USA|SNK|Saurus|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Shanghai Mini|NOID|90732d53|x|0|2000|Puzzle|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Shougi no Tatsujin Color|NOID|1f2872ed|x|0|1999|Board Game|Japan|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+SNK Gals' Fighters|NOID|b02c2be7,6a9ffa47|x|0|2000|VS Fighter|USA|SNK|Yumekobo|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+SNK vs Capcom Card Fighters 2 Expand Edition|NOID|37cac3f1|x|0|2008|Strategy, Card Battle|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+SNK vs Capcom Card Fighters' Clash Capcom Version|NOID|80ce137b,9217159b|x|0|1999|Strategy, Card Battle|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+SNK vs Capcom Card Fighters' Clash SNK Version|NOID|94b63a97,7065295c|x|0|1999|Strategy, Card Battle|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+SNK vs Capcom the Match of the Millennium|NOID|b173030a|x|0|1999|VS Fighter|USA|SNK|SNK|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Sonic the Hedgehog Pocket Adventure|NOID|356f0849|x|0|1999|Platformer|USA|SNK|SEGA|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Soreike!! Hanafuda Doujou|NOID|05fa3eb0|x|0|1999|Platformer|Japan|Daina|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Super Real Mahjong Premium Collection|NOID|c6e620c3|x|0|2001|Board Game|Japan|SNK|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+The King of Fighters Battle de Paradise|NOID|77e37bac|x|0|2000|Board Game|Japan|Board Games|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+The Last Blade Beyond the Destiny|NOID|94fcfd1e,12afacb0|x|0|2000|VS Fighter|USA|SNK|Saurus|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC
+Wrestling Madness|NOID|16b0be9b|x|0|No Date|VS Fighter|USA|No Publisher|dev-unknown|No Rating|Cartridge|Neo-Geo|NeoGeoPocketC

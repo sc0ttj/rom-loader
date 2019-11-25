@@ -1,0 +1,15 @@
+Afterlife is is a humorous strategy game similar to SimCity where the afterlife is subject to market-based economy. The player has to make it work by managing heaven and hell simultaneously.
+
+In both hell and heaven the player constructs zones which deal with one of the seven capital sins respectively the corresponding virtues. Through the gates new souls arrive regularly which were sinful or virtues in one specific aspect. These go to the appropriate zones to receive their gifts or punishment - but only if the player constructed a street system. If there is no place left they wander through hell/heaven which is of course bad for business. After some time they get sent back to the home planet. These souls are the source of the player's income. 
+
+Of course these facilities also need personnel. These can be either hired or trained by building special training facilities. There are also additional things the player has to keep in mind, e.g. the satisfaction of each soul and the energy supply. Every buildings has to be micro-managed by adjusting their settings but there is also the possibility to use a tool which does it automatically - for a price. 
+
+Random disasters like "Birds of Paradise" (excrement rain down on the facilities) break the economic circle and challenge the player to repair the damage. Besides the free playing mode there are also five scenarios where the player has to solve certain tasks.
+
+Trivia:
+
+By typeing SAMNMAX three times, you can make Max trounce your poor little afterlife...it's quite amuseing.
+
+SAVE FIRST!
+
+http://www.mobygames.com/game/dos/afterlife

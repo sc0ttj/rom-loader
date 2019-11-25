@@ -1,0 +1,3 @@
+Albatross is a top view golf game that consists of an 18 holes course. You can select your own clubs from 14 drivers, irons and a putter. Further you can adjust your stance, how you hit the ball and your swing. The features a split screen with two views, an overhead view of the entire hole and the other an more detailed zoom of your balls current position. The screen also contains a status bar with all necessary information. The gameplay options include 1 player stroke play, multi player stroke play, or multi player match play.
+
+http://www.mobygames.com/game/msx/albatross

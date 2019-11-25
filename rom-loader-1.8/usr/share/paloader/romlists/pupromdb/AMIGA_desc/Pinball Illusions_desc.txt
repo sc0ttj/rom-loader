@@ -1,0 +1,40 @@
+After the success of Pinball Dreams on several systems, a sequel featuring four new tables was created. The gameplay is much the same as the first game, with realistic physics, multi-player options and a high score table to aim for. The tables are Partyland, Speed Devils, Billion Dollar Gameshow and Stones 'n' Bones, taking in a funfair, racing cars, a tacky game-show, and a graveyard. Each one has a range of ramps, combos, light sequences and targets to shoot, as well as general themes which are less influenced by real tables than those in Pinball Dreams.
+ 
+http://www.mobygames.com/game/amiga/pinball-fantasies
+_________________________ 
+CHEATS: 
+
+Always get extra ball:
+Hold Red as soon as the third ball drops. Alternatively, press Yellow the same number of times that is displayed
+at the top of the screen when the last ball is lost.
+
+Note: A keyboard is required to activate the following codes. Enter one of the following codes to activate the corresponding cheat function.
+
+Effect|Code
+
+Two extra balls|extra balls
+
+Ball is extra responsive to gravity| gravity
+Pinball Illusions is the successor to the Pinball Fantasies, using an upgraded game engine. The tables are Babewatch, Law & Justice, Extreme Sports and (on PC CD versions) The Vikings. These contain ramps, bonus areas and combo sequences to set up. All the artwork were produced in true 256 colors from the ground up for AGA Amigas and the PC, rather than originating in 32 colors on older Amigas.
+
+New to this version is multiball: Pinball Illusions supports up to six balls simultaneously, in which case it switches to high resolution mode. CD versions use CD audio for music.
+ 
+http://www.mobygames.com/game/amiga/pinball-illusions
+_________________________ 
+CHEATS: 
+
+Unlimited balls:
+Select a table, then press [Ctrl] + [Help]
+before starting the first ball. Press [Enter] to shoot the ball, then press [Ctrl] for another ball. Start that ball and repeat to get up to three balls in play at once. Press [Help] again to have unlimited balls. Press [Ctrl]
+to get another ball each time a ball is lost. Press [Help] + [Return], launch a ball, then press [Ctrl] to have more than three balls in play.
+
+Press [Keypad 0] to enable cheat mode. Then press one of the following keys during game play to activate the
+corresponding cheat function.
+
+Effect|Key
+
+Slow motion|1
+
+Add zero to counter|D
+
+Extra ball on the table| [Help]

@@ -1,0 +1,29 @@
+An army of demons terrorizes the land. Bone-hurling skeletons wait to torture your mere flesh and blood. Mythgard's only salvation rests in the hands of the JEWEL MASTER. Capture the rings of Earth, Wind, Fire and Water. Each ring holds an elemental magic. Combine the rings to attain many mystical weapons. But choose carefully - only certain combinations can protect you. Battle an onrush of Sandworms, Moth-Bats, and Subterranean Ogres. Face the fiery heat of the Red Phoenix. Fight Ghouls, Dragons, and giant Scorpions. Force them to taste the fire of the Jewels!
+
+Gameplay:
+
+The game is a sidescrolling action adventure. It introduces the ability to constantly customize your attacks and movement styles through various equippable rings. Using the "A" and "B" buttons as his left and right hands, you can then equip two rings to the corresponding hand. The "C" button is used for jumping. The nature of each attack varies greatly, and as a result, different attacks are suitable for different situations. A player familiar with the game can usually figure out which attack and combination of rings will be effective. For example, one enemy is weak to water and immune to fire, but other than, this enemies are not susceptible to specific elements
+
+- Levels -
+
+    - Forest Ruins: Once a great city, now overrun with goblins and golems lurking in every shadow. Even the wildlife that reside there have a thirst for blood. This stage marks the first challenge of many laid before the Jewel Master on his quest to overthrow the evil Jardine. From thick forests to decaying buildings, crossing the unforgivng land while doing battle with goblins, orcs, carnivorous plants and golems big and small, while dodging flesh-eating ravens and fish. No terrain is truly safe.
+
+    - Desert Of Despair: A vast sea of sand and death riddled with quicksand and hungry sandworms, and the caverns that reside underneath. With the grueling heat and deadly foes, this desert will test any hero's survival skills to their limit. Facing locusts, scorpion rats, sandworms, living statues and reanimated skeletons, the only thing not in short supply... is danger.
+
+    - Frozen Caverns: As The Jewel Master gets closer to Jardine's Castle, we see it takes a drastic effect on the environment. Once a lush forest full of life, now turned into a frozen wasteland, filled with Ice Demons, Frozen Hedgehogs, and even a Fearsome Yeti. As our hero travels through the frozen forest and across the solid lake, he enters the caverns. In here you are greeted with deadly electric jellyfish. You must venture forth through this frigid deathtrap filled with jagged frozen terrain, deadly falling stalactites, and pits filled with sharp stalagmites.
+
+    - Crimson Valley: The Valley is one of the final trials of the Jewel Master. Filled with hundreds of goblins, golems, fire spitting statues, and armored birds. The falling rocks and broken bridges can make short work of The Jewel Master if you're not careful.
+
+    - Castle Jardine: The Embodiment of Darkness itself. This is the final test for those who believe themselves to be true Jewel Masters. Filled with dark dragon statues, and Flail Swinging Skeletons, this is no playground. Before facing Jardine, the Jewel Master must fight the god of each element to test his strength.
+
+- Bosses -
+
+    - Demon Panther ("Spier Tiger"): The White Tiger of the Forest Ruins. This is the first boss, and it will do everything in its power to prevent The Jewel Master from leaving the ruins alive. Jumps when the player is close, and charges when the player is far away.
+    - Phoenix ("Firebird"): The second boss, and the ruler of the Desert of Despair. A bird set aflame that flies at high speeds. this is immune to fire but the player is safe in the far left of the screen.
+    - Rock Carapace ("King Turtle"): Using its entire body to block the passage in the Frozen Caverns, this deadly turtle will spit beams of ice, and cause frozen rocks to fall and crush The Jewel Master. the player is safe and can attack with fire vipers from the far right of the turtles back.
+    - DragonSpawn: The Final Guardian before Jardine's Castle. Using its immense size and speed, it can prove to be very challenging. The one thing this dragon is hungry for... is the flesh of The Jewel Master.
+    - Chaos Dragon: Even after its defeat, the Dragon's rage lives on, causing its bones to reanimate for its final showdown against The Jewel Master. unlike the other bosses there is no real means of dodgeing its attacks and it takes a long time to kill, however if the player uses the jewel dropped by the chaos dragon to make "blade weapon" this boss can be defeated before it even starts attacking. Can be destroyed with regular attacks by atting each bone segment approximately 12 times.
+    - Demon King, Jardine the Mad: The true face of evil. He commands the darkest of spells, and only truly has one weakness (blade). This is the battle that decides the fate of The Jewel Master and all of Mythgard.
+
+http://www.gamefaqs.com/console/genesis/home/586258.html
+http://en.wikipedia.org/wiki/Jewel_Master

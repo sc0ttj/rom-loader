@@ -1,0 +1,38 @@
+Dr. Robotnik is at it again! But this time, he's got hold of all the Flickies and turned them into robots. Only Sonic The Hedgehog can save them!
+
+Sonic 3-D Blast is a lot of fun once you get used to playing a 3-D Sonic game. The graphics were pretty good for the Genesis. I think they got the idea for this game from the 3-D looking bonus levels from Sonic 2 and 3. Sonic 3-D blast is a lot fun to play and pleasing to the eyes, so give it a try!
+
+Directions:
+
+Kinda similar to the other Sonic games. You have to jump on enemies to kill them, but you have to collect the Flickies, too. Once you collect them all, go to the ring, and go to the next level.
+
+Gameplay:
+
+The game is played from an isometric viewpoint in a 2D environment and uses pre-rendered 3D sprites. Sonic must collect Flickies (first featured in the 1984 Sega arcade game Flicky) and bring them to a warp ring in order to advance in a zone. Each zone consists of two regular acts and one boss act. There are 10 or 15 Flickies in each zone's regular acts, barring Panic Puppet's, while in each zone's third act the player faces Doctor Robotnik (Dr Eggman in some regions) in one of his many machines.
+
+- Chaos Emeralds -
+The Chaos Emeralds seen in the Mega Drive version are Emerald cut instead of the usual Brilliant cut (coincidentally, the Sol Emeralds are also Emerald cut).
+
+To warp to a bonus level where the player can try for a Chaos Emerald, either Knuckles or Tails must be located within the regular levels. The player must have 50 rings or more, and must stand next to either Tails or Knuckles. At this point, the player's rings will be absorbed, and the player will be transported to the Chaos Emerald level.
+
+Sega Genesis Bonus Level: Sonic must run down a bridge, collecting rings and avoiding bombs.
+
+- Flicky Types -
+The Flickies Sonic rescues in each level come in four different colours. Each colour has its own personality.
+
+    - Blue Flickies make a conscious effort to find Sonic. If they cannot find him, they fly around in a tight circle, making them easy to locate.
+
+    - Pink Flickies act largely like blue ones, but fly around in bigger circles if unable to find Sonic. In the Volcano Valley Zone in the Mega Drive version, the pink Flickies are replaced with bright orange, flaming Flickies, presumably due to colour palette limitations.
+
+    - Red Flickies constantly move between two close points, not making any effort to find Sonic. Their movement range is small, but they jump very high and can thus be hard to catch.
+
+    - Green Flickies wander randomly with no interest in finding Sonic, they even sometimes appear to try to avoid Sonic.
+
+Hints:
+
+- Level Select -
+Go to the Press Start screen and enter the code: B,A, Right, A, C, Up, Down, A (or baracuda). You should then be taken to the main screen. Press the Start Option ad the level select will appear next. Choose your level and begin play. 
+
+Reviewer: Adrian
+http://www.consoleclassix.com/genesis/sonic_3_d_blast.html
+http://en.wikipedia.org/wiki/Sonic_3D

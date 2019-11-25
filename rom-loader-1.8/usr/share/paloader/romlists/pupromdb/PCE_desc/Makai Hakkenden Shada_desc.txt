@@ -1,0 +1,3 @@
+Fantasy action RPG that uses the Ys style combat system where you bump into enemies to attack them.
+
+http://www.pcengine.co.uk/HTML_Games/Shada.htm

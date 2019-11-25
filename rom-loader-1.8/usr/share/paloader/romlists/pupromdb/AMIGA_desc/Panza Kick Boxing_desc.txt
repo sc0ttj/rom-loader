@@ -1,0 +1,37 @@
+Endorsed by André Panza, this game brings Thai kick boxing to the PC, and gives you nice graphics and smooth animations along with over 35 moves.
+
+Use the training gym to build up your character's abilities until you feel ready to take on an opponent. You also have the ability to customize your attacks.
+
+When you are ready, go to the ring to take on various opponents as you try to become the best kick boxer in the game. Punch, kick, block... can you survive the fight and emerge as the winner?
+ 
+http://www.mobygames.com/game/amiga/panza-kick-boxing
+_________________________ 
+CHEATS:
+
+Hint: Stay undefeated:
+Press [Esc] after your fighter has been knocked
+down to avoid a loss.
+
+Hint: Recommended moves:
+Try using the upper cut, round house, low leg kick
+often. The low leg kick can be used to keep your opponent out
+of range and on target for a follow-up combo, such as the round
+house followed by an upper cut. The double backfist is very powerful
+and can result in a knockout. 
+
+Hint: Recommended settings:
+Use the following settings to create a powerful boxer:
+
+A: 34
+B: 05
+C: 17
+D: 11
+E: 08
+F: 32
+G: 04
+H: 33
+I: 01
+J: 55
+K: 10
+L: 25
+M: 16

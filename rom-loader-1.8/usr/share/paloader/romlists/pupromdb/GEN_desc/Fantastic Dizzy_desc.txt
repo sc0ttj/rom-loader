@@ -1,0 +1,58 @@
+Dizzy's cartoon adventure in Zakeria - a magical kingdom ruled by the evil wizard Zaks. Explore the mysterious diamond mines, fabulous caverns, dragon's lair, cloud castle, find secret treasure maps, encounter strange magicians, wizards, trolls, pirates, leprechauns and many other weird and wonderful creatures.
+
+Gameplay:
+
+- Characters -
+
+Fantastic Dizzy contains all of the characters in the series, 16 in total. While most of the Yolkfolk were harmed by Zaks, others have other problems. Other characters include Good Wizard Theodore, which grant an extra life to Dizzy if he completes his puzzle, Blackheart the Pirate, who has his ship docked in Keldor, the Palace Guard, who lets Dizzy get inside the city if he bargains with him, Prince Clumsy, looking for a princess, Rockwart the Troll, Shamus the Leprechaun and the Shop Owner.
+
+- Locations -
+
+There are several places for Dizzy to visit, including the whole complex of the Yolkfolk secret treehouse, with its lifts and houses, the mine, where a dragon lives, the neighbour city of Keldor, where the Pirate ship and the Castle are, the grasslands, Carber Bay, the cemetery (including inside a grave) and finally Zaks' Cloud Castle.
+
+The game engine is able to scroll horizontally, but most areas do not scroll vertically. As soon as Dizzy climbs a ladder or jumps to an off-screen platform, new screens are loaded to memory. It is also able to render day and night cycles and also rain (which gives Dizzy a sad face).
+
+- Concept -
+
+The game is hard to qualify in a genre: while it seems at first a platform game, Dizzy is vulnerable to all enemies while unable to eliminate them, and puzzles are completed by bringing an object to a location (in the same fashion as Gods and adventure games), and also has to capture all 250 stars scattered in the game. The game can also be seen as a union of all the previous games where user can find a lot of familiar puzzles (e.g. Elevators, magic beans) and places (e.g. mines, deep sea) as well has several arcade minigames based on older games in the series (like Bubble Dizzy).
+
+- Stars -
+
+Scattered around the game world are 100 or 250 stars (depends on version) which must be collected to grant access to the final confrontation with Zaks. While most of them are accessible in the regular parts of the game, others are placed inside the minigames, which forces the player to run through them as many times needed to get all stars. If the player tries to reach the tower without the stars, Dizzy is stunned by the electric door. This element of the game is similar to the Super Mario Series.
+
+- Objects -
+
+To complete the game, Dizzy has to carry items (three at a maximum) like keys and objects to be used to solve puzzles like a match, a weight or cymbals to certain spots in the game. Some objects are not meant to be traded, given to another characters or placed, but used to reach other destinations (like the rope, the swimfins or the aqua-lung) or to protect from danger (the umbrella). This element is similar to the game Puggsy, also released for Sega.
+
+- Minigames -
+
+While most of the game is passed in the slower platform sections, there are three minigames required to complete it, plus one to get all the stars.
+
+    - Mine carts: Dizzy can travel in the carts found in the mine into other places in the game, collecting stars along the way. There are a number of dangers in the rails, from falling rocks, dead ends and carts in the opposite direction. Nearing the end, both cart speed and number of dead ends increase.
+    - Dizzy Down the Rapids: Some versions of Fantastic Dizzy feature a section where Dizzy must ride a barrel down a river avoiding a pursuing troll and several natural hazards while riding surface currents and attempting to collect stars. This minigame is omitted from several versions, including the Mega Drive/Genesis and PC releases.
+    - Castle Capers: A minigame based on the Operation Wolf concept, Dizzy, armed with a crossbow, has to get a 5 hit advantage over the trolls, who are occupying the castle. However, if the trolls get the same advantage, Dizzy loses a life.
+    - Bubble Trouble: Dizzy has to reach a small island before his oxygen wears out. To do so, he has to ride air bubbles formed in the sea bed, and jumping into the platforms in the sides or other bubbles before they burst. Larger bubbles endure more, but are slower, while smaller ones are fast but burst shortly after Dizzy rides them. This minigame was adapted into a standalone title, called Bubble Dizzy however due to further development required on Fantastic Dizzy and Dizzy Down the Rapids, Bubble Dizzy was released November 1990.
+    - Theodore's magic puzzle: The extra life minigame is a regular 4x4 shuffling puzzle, which has to be completed in inside a time limit. As the number of lives increase, so does the complexity of the puzzles.
+
+- Lives -
+
+Dizzy can be harmed by all enemies in the game, but also by staying underwater for too long without an aqua-lung. He also dies immediately on contact with some parts of the game which require an object to be safely traversed, such as the spikes at ground level in the Yolkfolk tree house or the plant near his house or some other parts in the game where Dizzy isn't supposed to go. While he is unharmed by butterflies of any kind of falls, he becomes dazed and can be harmed by a rat or a snail in a potentially dangerous situation. In some versions contact with a butterfly caused Dizzy to move in reverse to the player's input for a short time. Fruit restores some of Dizzy's health, while a gemstone clears the damage gauge.
+
+- Dead ends -
+
+It is possible to reach a dead end in the game if, for instance :
+
+    - The rope is dropped at a platform that can only be reached with it.
+    - The fire to save Denzil is started at the wrong place. (As a consequence, Denzil cannot be saved, you don't get the flippers and so on.)
+    - If the crossbow is left inside the trolls' castle, but there was something that still needed to be done (e.g. picking up all the stars and the bridge building kit inside)
+
+Hints:
+
+- Extra life ??-
+Pause the game and press C, Right, A, B, B, A, Left, Left, Start - Extra Life (note: this can only be used once per game)
+
+- Hidden menu -
+At title screen press Right, Up, B, A, Down, Up, B, Down, Up, B - Hidden Menu
+
+http://en.wikipedia.org/wiki/Fantastic_Dizzy
+http://www.gamefaqs.com/console/genesis/home/586175.html

@@ -1,0 +1,3 @@
+Notes: Has a built in 256kBit sample ROM and DAC (NEC D7756C) to play samples. It's mostly voices (STRIKE!, OUT!, etc.) and sound effects (bat hitting ball)
+
+http://www.generation-msx.nl/msxdb/softwareinfo/844

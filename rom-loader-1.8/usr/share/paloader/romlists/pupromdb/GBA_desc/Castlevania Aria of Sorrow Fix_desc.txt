@@ -1,0 +1,3 @@
+This patch fixes the enemy/item names that were incorrectly translated, and some general errors in item/monster/soul descriptions. Some enemy names were also changed to match Symphony of the Night.
+
+http://www.romhacking.net/hacks/94/

@@ -1,0 +1,6 @@
+This is adventure #3 in Scott Adam's text adventure series. It takes place in a nuclear power plant. You must race against time to fulfill your mission or the reactor may be doomed. You use one or two word commands to move around and manipulate objects.
+
+Trivia:
+When a certain TV show going by the same name as this game threatened legal action, AI was forced to changed the name, hence the vast array of names seen for this game. Because many boxes had already been printed with the now-illegal name however, rather than just junking them, they rather comically covered up the old name with a horribly ugly gold sticker with the name Secret Mission on it. Apparently this was enough to satisfy the lawyers...
+
+http://www.mobygames.com/game/secret-mission

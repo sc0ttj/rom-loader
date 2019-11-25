@@ -1,0 +1,32 @@
+The end of the world is here, can you stop it?
+
+Directions:
+
+Normal Mode:
+First, choose a character, then out of the six remaining, choose the one you wish to fight. When you defeat them you will be able to upgrade yourself.
+
+Arms: More powerful punch
+
+Legs: More powerful kick
+
+Defense: The damage you take is reduced
+
+Vitality: Quickens recovery
+
+Soul Power: More powerful special moves
+
+Watch out! It's not over if you beat the 6 main fighters, new challengers await! 
+
+Controls:
+
+A Button - Nothing
+B Button - Jump
+X Button - Kick
+Y Button - Punch
+L Button - Block
+R Button - Block
+Start Button - Pause
+Select Button - None
+
+Tips:
+

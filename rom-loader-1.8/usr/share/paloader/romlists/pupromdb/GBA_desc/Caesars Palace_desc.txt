@@ -1,0 +1,3 @@
+This game allows you to play in the Caesar's Palace casino. You wander around the casino and play poker, roulette, or slot machines. You bet and win chips and then exchange them for money whenever you like. The interaction is done via a cursor, everything is viewed from first-person perspective. You come to the casino on a taxi - will you be able to leave it in your own limousine?
+
+http://www.mobygames.com/game/gameboy/caesars-palace

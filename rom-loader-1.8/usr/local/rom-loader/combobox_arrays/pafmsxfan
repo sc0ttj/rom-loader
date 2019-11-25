@@ -1,0 +1,100 @@
+# MSXSYSTEM combobox
+MSXSYSTEM_ARRAY=(Default auto-detect msx1 msx2 msx2+)
+MSXSYSTEM_ITEMS="<item>$MSXSYSTEM</item>" #stored value should be first in list
+for i in "${MSXSYSTEM_ARRAY[@]}"
+do
+	if [ "$i" != "$MSXSYSTEM" ];then
+		MSXSYSTEM_ITEMS=`echo "$MSXSYSTEM_ITEMS<item>$i</item>"`
+	fi
+done
+
+# RAM combobox
+RAM_ARRAY=(Default 4 8)
+RAM_ITEMS="<item>$RAM</item>" #stored value should be first in list
+for i in "${RAM_ARRAY[@]}"
+do
+	if [ "$i" != "$RAM" ];then
+		RAM_ITEMS=`echo "$RAM_ITEMS<item>$i</item>"`
+	fi
+done
+
+# VRAM combobox
+VRAM_ARRAY=(Default 2 8)
+VRAM_ITEMS="<item>$VRAM</item>" #stored value should be first in list
+for i in "${VRAM_ARRAY[@]}"
+do
+	if [ "$i" != "$VRAM" ];then
+		VRAM_ITEMS=`echo "$VRAM_ITEMS<item>$i</item>"`
+	fi
+done
+
+# NTSC combobox
+NTSC_ARRAY=(Default auto-detect true false)
+NTSC_ITEMS="<item>$NTSC</item>" #stored value should be first in list
+for i in "${NTSC_ARRAY[@]}"
+do
+	if [ "$i" != "$NTSC" ];then
+		NTSC_ITEMS=`echo "$NTSC_ITEMS<item>$i</item>"`
+	fi
+done
+
+# PRINTERFILE combobox
+PRINTERFILE_ARRAY=(Default none ~/msx_printfile1 ~/msx_printfile2 ~/msx_printfile3)
+PRINTERFILE_ITEMS="<item>$PRINTERFILE</item>" #stored value should be first in list
+for i in "${PRINTERFILE_ARRAY[@]}"
+do
+	if [ "$i" != "$PRINTERFILE" ];then
+		PRINTERFILE_ITEMS=`echo "$PRINTERFILE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SERIALFILE combobox
+SERIALFILE_ARRAY=(Default none ~/msx_serialfile1 ~/msx_serialfile2 ~/msx_serialfile3)
+SERIALFILE_ITEMS="<item>$SERIALFILE</item>" #stored value should be first in list
+for i in "${SERIALFILE_ARRAY[@]}"
+do
+	if [ "$i" != "$SERIALFILE" ];then
+		SERIALFILE_ITEMS=`echo "$SERIALFILE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# AUTOFIRE combobox
+AUTOFIRE_ARRAY=(Default true false)
+AUTOFIRE_ITEMS="<item>$AUTOFIRE</item>" #stored value should be first in list
+for i in "${AUTOFIRE_ARRAY[@]}"
+do
+	if [ "$i" != "$AUTOFIRE" ];then
+		AUTOFIRE_ITEMS=`echo "$AUTOFIRE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# JOY combobox
+JOY_ARRAY=(Default 1,0 2,0 3,0 0,1 0,2 3,0 1,2 1,3 2,1 2,3 3,1 3,2)
+JOY_ITEMS="<item>$JOY</item>" #stored value should be first in list
+for i in "${JOY_ARRAY[@]}"
+do
+	if [ "$i" != "$JOY" ];then
+		JOY_ITEMS=`echo "$JOY_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SOUND combobox
+SOUND_ARRAY=(Default disabled 22050 44100)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SOUNDFILE combobox
+SOUNDFILE_ARRAY=(Default none ~/msx_soundfile1.mid ~/msx_soundfile2.mid ~/msx_soundfile3.mid)
+SOUNDFILE_ITEMS="<item>$SOUNDFILE</item>" #stored value should be first in list
+for i in "${SOUNDFILE_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUNDFILE" ];then
+		SOUNDFILE_ITEMS=`echo "$SOUNDFILE_ITEMS<item>$i</item>"`
+	fi
+done
+

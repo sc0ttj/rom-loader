@@ -1,0 +1,617 @@
+#!/bin/sh
+
+###### initial setup vars and cli interface #####
+# enable joypad support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/pagenesisrc
+# set some vars as defaults
+export FULLSCREENGUI='';
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.zip$|\.smd$|\.gen$|\.gg$|\.sms$|\.bin$|\.fig$|\.32x$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export SYSTITLE="Genesis / 32X / SegaCD"
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_genesis' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "PAgenesis $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: pagenesis [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	GENDIR="$HOME" #default browser dir
+	SEGA32XDIR="$HOME" #32x
+	SEGACDDIR="$HOME" #default browser dir
+	# display
+	FULL="true";
+	STRETCH="true";
+	BLIT="false"
+	BLUR="false"
+	PSYNCHRO="false"
+	RENDER="Default";
+	FSKIP="Off" # 0 - 9, -1 is auto (Auto, 0, 1, 2, ..., 9)
+	# sound
+	SOUND=true;
+	SRATE="Default"
+	STEREO="true"
+	# other
+	OSD="true"
+	WORD1=""
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+case "$SELF" in 
+	pagenesis) EXT_LIST="\.zip$|\.smd$|\.gen$|\.gg$|\.sms$|\.bin$|\.fig$|\.32x$"; SYSTEM=GEN; THEME="$GEN_THEME"; ROMICON="cartridge_genesis"; SYSTITLE="Genesis"; DIR="${GENDIR:-$HOME}";;
+	pasega32x) EXT_LIST="\.32x$|\.bin$|\.zip$"; SYSTEM=SEGA32X; THEME="$SEGA32X_THEME"; ROMICON="cartridge_genesis"; SYSTITLE="Sega 32X"; DIR="${SEGA32XDIR:-$HOME}";;
+	pasegacd) EXT_LIST="\.iso$|\.bin$|\.zip$"; SYSTEM=SEGACD; THEME="$SEGACD_THEME"; ROMICON="rom"; SYSTITLE="Sega CD"; DIR="${SEGACDDIR:-$HOME}";;
+esac
+export EXT_LIST
+export SYSTEM
+export THEME
+export ROMICON
+export SYSTITLE
+export DIR
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAgenesis config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	# keep all dirs for each system the same (if not running for a system, it wont have it dir reset)
+	echo GENDIR="\"$GENDIR\""	 >> $CONFIG
+	echo SEGA32XDIR="\"$SEGA32XDIR\""	 >> $CONFIG
+	echo SEGACDDIR="\"$SEGACDDIR\""	 >> $CONFIG
+	# now update the current system with last used dir (remove value from above, and update)
+	case "$SELF" in 
+		pagenesis) echo "`cat \"$CONFIG\" | grep -v '^GENDIR='`" > $CONFIG; echo GENDIR="\"$DIR\"" >> $CONFIG ;;
+		pasega32x) echo "`cat \"$CONFIG\" | grep -v '^SEGA32XDIR='`" > $CONFIG; echo SEGA32XDIR="\"$DIR\"" >> $CONFIG ;;
+		pasegacd) echo "`cat \"$CONFIG\" | grep -v '^SEGACDDIR='`" > $CONFIG; echo SEGACDDIR="\"$DIR\"" >> $CONFIG ;;
+	esac
+	# display
+	echo OGL=$OGL >> $CONFIG
+	echo FULL=$FULL >> $CONFIG
+	echo STRETCH=$STRETCH >> $CONFIG
+	echo BLIT=$BLIT >> $CONFIG
+	echo BLUR=$BLUR >> $CONFIG
+	echo PSYNCHRO=$PSYNCHRO >> $CONFIG
+	echo RENDER=$RENDER >> $CONFIG
+	echo FSKIP=$FSKIP >> $CONFIG
+	# sound
+	echo SOUND=$SOUND >> $CONFIG
+	echo SRATE=$SRATE >> $CONFIG
+	echo STEREO=$STEREO >> $CONFIG
+	# other
+	echo OSD=$OSD >> $CONFIG
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	# setopengl
+	if [ "$OGL" = true ];then
+	  sed -i "s|Render Opengl=0|Render Opengl=1|g" /root/.gens/gens.cfg
+	else
+	  sed -i "s|Render Opengl=1|Render Opengl=0|g" /root/.gens/gens.cfg
+	fi
+
+	# set fullscreen
+	if [ "$FULL" = true ];then
+	  C="--fs"
+	else
+	  C="--window"
+	fi
+
+	# set stretch
+	if [ "$STRETCH" = true ];then
+	  C="$C --enable-stretch"
+	else
+	  C="$C --disable-stretch"
+	fi
+
+	# set blitter
+	if [ "$BLIT" = true ];then
+	  C="$C --enable-swBlit"
+	else
+	  C="$C --disable-swBlit"
+	fi
+
+	# set blur
+	if [ "$BLUR" = true ];then
+	  C="$C --enable-fastblur"
+	else
+	  C="$C --disable-fastblur"
+	fi
+
+	# set blur
+	if [ "$PSYNCHRO" = true ];then
+	  C="$C --enable-perfectsynchro"
+	else
+	  C="$C --disable-perfectsynchro"
+	fi
+
+	# set rendermode
+	if [ "$RENDER" = "Default" ];then
+	  C="$C --render-mode 0"
+	elif [ "$RENDER" = "Double" ];then
+	  C="$C --render-mode 1"
+	elif [ "$RENDER" = "Scanline" ];then
+	  C="$C --render-mode 2"
+	elif [ "$RENDER" = "Scanline-50%" ];then
+	  C="$C --render-mode 3"
+	elif [ "$RENDER" = "Scanline-25%" ];then
+	  C="$C --render-mode 4"
+	elif [ "$RENDER" = "Interpolated" ];then
+	  C="$C --render-mode 5"
+	elif [ "$RENDER" = "Interpolated-Scanline" ];then
+	  C="$C --render-mode 6"
+	elif [ "$RENDER" = "Interpolated-Scanline-50%" ];then
+	  C="$C --render-mode 7"
+	elif [ "$RENDER" = "Interpolated-Scanline-25%" ];then
+	  C="$C --render-mode 8"
+	elif [ "$RENDER" = "Scale2x" ];then
+	  C="$C --render-mode 9"
+	elif [ "$RENDER" = "Scale3x" ];then
+	  C="$C --render-mode 10"
+	elif [ "$RENDER" = "HQ2x" ];then
+	  C="$C --render-mode 11"
+	else
+	  C="$C --render-mode 0"
+	fi
+
+	# set frame skip
+	if [ "$FSKIP" = "Auto" ];then
+	  C="$C --frameskip -1"
+	elif [ "$FSKIP" = "None" ];then
+	  C="$C --frameskip 0"
+	elif [ "$FSKIP" = "Default" ];then
+	  C="$C"
+	else
+	  C="$C --frameskip $FSKIP" # add the number chosen
+	fi
+
+	# set sound
+	if [ "$SOUND" = true ];then
+	  C="$C --enable-sound"
+	else
+	  C="$C --disable-sound"
+	fi
+
+	# set sound rate
+	if [ "$SRATE" = "11025Hz" ];then
+	  C="$C --soundrate 11025"
+	elif [ "$SRATE" = "22050Hz" ];then
+	  C="$C --soundrate 22050"
+	elif [ "$SRATE" = "44100Hz" ];then
+	  C="$C --soundrate 44100"
+	else
+	  C="$C"
+	fi
+
+	# set stereo
+	if [ "$STEREO" = true ];then
+	  C="$C --enable-soundstereo"
+	else
+	  C="$C --disable-soundstereo"
+	fi
+
+	# set OSD
+	if [ "$OSD" = true ];then
+	  C="$C --enable-message"
+	else
+	  C="$C --disable-message"
+	fi
+
+	# enable joypad support
+	rejoystick1cc --load --profile gens &>/dev/null
+	rejoystick2cc --load --profile gens &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	echo "gens --rompath \"$DIR\" $C $WORD1 --quickexit \"$DIR$CHOOSER\""  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad support
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo -e 'Select a valid ROM the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/pagenesis
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+# check for BIOS
+BIOS_FILE_CHECK='skip'
+BIOS_FUNC=''
+case ${SYSTEM^^} in
+SEGA32X) BIOS_FILE_CHECK='/usr/lib/games/sega32x/32X - Genesis BIOS.bin' ; BIOS_FUNC='get_bios_sega32x' ;;
+SEGACD) BIOS_FILE_CHECK='/usr/lib/games/segacd/us_scd1_9210.bin' ; BIOS_FUNC='get_bios_segacd' ;;
+esac
+if [ ! -f "$BIOS_FILE_CHECK" -a "$BIOS_FILE_CHECK" != "skip" ];then
+	. /usr/local/rom-loader/func/func_get_bios
+	$BIOS_FUNC 
+fi
+
+#build gui
+S='
+<window title="Puppy Arcade - Gens loader ('$SYSTITLE')" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+
+	<entry visible="false">
+	<variable>GENDIR</variable>
+	<default>"'$GENDIR'"</default>
+	<visible>disabled</visible>
+	</entry>
+
+	<entry visible="false">
+	<variable>SEGA32XDIR</variable>
+	<default>"'$SEGA32XDIR'"</default>
+	<visible>disabled</visible>
+	</entry>
+
+	<entry visible="false">
+	<variable>SEGACDDIR</variable>
+	<default>"'$SEGACDDIR'"</default>
+	<visible>disabled</visible>
+	</entry>
+
+    <notebook labels="ROMs|Settings|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+
+## S E T T I N G S
+
+	<vbox>
+
+		<frame>
+			<vbox>
+				<text><label>DISPLAY SETTINGS:</label></text>
+
+				  <hbox>
+					   <checkbox tooltip-text="Enable OpenGL rendering.. this will enable to video to fill the screen, if you are having problems.">
+							<label>OpenGL Rendering</label>
+							<variable>OGL</variable>
+							<default>"'$OGL'"</default>
+						</checkbox>
+					<text width-request="20"><label>""</label></text>
+					   <checkbox tooltip-text="Enable fullscreen display">
+							<label>Fullscreen</label>
+							<variable>FULL</variable>
+							<default>"'$FULL'"</default>
+						</checkbox>
+					<text width-request="20"><label>""</label></text>
+						<checkbox tooltip-text="Stretch display to fill window or screen">
+							<label>Stretch</label>
+							<variable>STRETCH</variable>
+							<default>"'$STRETCH'"</default>
+						</checkbox>
+					<text width-request="20"><label>""</label></text>
+					</hbox>
+					<hbox>
+						<checkbox tooltip-text="Enable the fast-blur for smoother graphics">
+							<label>Blur</label>
+							<variable>BLUR</variable>
+							<default>"'$BLUR'"</default>
+						</checkbox>
+					<text width-request="20"><label>""</label></text>
+						<checkbox tooltip-text="Enable the perfect synchronisation option">
+							<label>Perfect Sync</label>
+							<variable>PSYNCHRO</variable>
+							<default>"'$PSYNCHRO'"</default>
+						</checkbox>
+					<text width-request="20"><label>""</label></text>
+						<checkbox tooltip-text="Enable the software blitter, if needed!">
+							<label>Blitter</label>
+							<variable>BLIT</variable>
+							<default>"'$BLIT'"</default>
+						</checkbox>
+					<text width-request="20"><label>""</label></text>
+					</hbox>
+					<text height-request="10"><label>""</label></text>
+					<hbox>
+						<text>
+							<label>Display Filters:</label>
+						</text>
+						<combobox>
+							 <variable>RENDER</variable>
+							 '$RENDER_ITEMS'
+						</combobox>
+					<text width-request="20"><label>""</label></text>
+						<text>
+							<label>Frameskip:</label>
+						</text>
+						<combobox width-request="75">
+							 <variable>FSKIP</variable>
+							 '$FSKIP_ITEMS'
+						</combobox>
+					<text width-request="20"><label>""</label></text>
+					</hbox>
+			</vbox>
+
+			<vbox>
+				<text height-request="40"><label>""</label></text>
+				<text><label>SOUND SETTINGS</label></text>
+
+				<hbox>
+					   <checkbox tooltip-text="Enable sound">
+						  <label>Enable Sound</label>
+						  <variable>SOUND</variable>
+						  <default>"'$SOUND'"</default>
+					  </checkbox>
+					   <checkbox tooltip-text="Enable stereo">
+						  <label>Enable Stereo</label>
+						  <variable>STEREO</variable>
+						  <default>"'$STEREO'"</default>
+					  </checkbox>
+					<text width-request="20"><label>""</label></text>
+				</hbox>
+				<text height-request="10"><label>""</label></text>
+				<hbox>
+					<text>
+						<label>Sound Rate:</label>
+					</text>
+					<combobox>
+						 <variable>SRATE</variable>
+						 '$SRATE_ITEMS'
+					</combobox>
+					<text width-request="20"><label>""</label></text>
+				</hbox>
+			</vbox>
+
+			<vbox>
+				<text height-request="40"><label>""</label></text>
+				<text><label>OSD SETTINGS:</label></text>
+			<hbox>
+					   <checkbox tooltip-text="Enable sound">
+						  <label>Enable the on screen display messages</label>
+						  <variable>OSD</variable>
+						  <default>"'$OSD'"</default>
+					  </checkbox>
+					<text width-request="20"><label>""</label></text>
+				</hbox>
+			</vbox>
+
+			<vbox>
+				<text height-request="40"><label>""</label></text>
+				<text><label>CUSTOM SETTINGS:</label></text>
+			<hbox>
+					<entry editable="true">
+						<variable>WORD1</variable>
+						  <default>"'$WORD1'"</default>
+					</entry>
+					<button tooltip-text="Clear entry box">
+						<input file icon="gtk-clear"></input>       
+						<action type="clear">WORD1</action>
+						<label>Clear</label>
+					</button>
+					<text width-request="40"><label>""</label></text>
+				</hbox>
+			</vbox>
+
+		</frame>
+
+	</vbox>
+		
+	## H E L P
+	<vbox>
+		<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Gens ('$SYSTITLE') Help:
+=======================
+Emulator controls:
+
+Escape		Quit
+----------------------------------
+In-game controls:
+
+Player 1
+
+W,S,A,D		up, down, left, right
+Enter		Start button
+R_Shift		Select button
+v			A button
+b			B button
+n			C button
+#			Mode button
+f			X button
+g			Y button
+h			Z button
+
+Player 2
+
+Cursor keys		up, down, left, right
+Numpad Enter	Start button
+Numpad +		Select button
+Numpad 1		A button
+Numpad 2		B button
+Numpad 3		C button
+Numpad -		Mode button
+Numpad 4		X button
+Numpad 5		Y button
+Numpad 6		Z button
+---------------------------------------
+
+More Emulator Controls
+
+Alt+Enter	Toggle fulscreen
+F2			Set auto frameskip
+F3			Decrease frameskip
+F4			Increase frameskip
+F5			Save state to chosen slot
+F6			Cycle up though slots
+F7			Cycle down through slots
+F8			Load state from chosen slot
+F9			Toggle fastblur
+F12			Cycle through display filters
+
+Shift+F3		Toggle Vsync
+Shift+F10	Toggle DAC sound settings
+Shift+F12	Toggle PSG sound settings
+Shift+F12	Toggle YM2612 sound settings
+
+Tab			Reset
+F12		Quit
+"</default>
+	</edit>		
+	</vbox>
+
+	
+	
+</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>rox /usr/share/doc/gens &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export pagenesis="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p pagenesis $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset panes
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

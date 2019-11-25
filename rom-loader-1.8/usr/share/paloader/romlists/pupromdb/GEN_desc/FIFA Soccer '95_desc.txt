@@ -1,0 +1,22 @@
+After the first game proved to be a worldwide success, EA developed this sequel exclusively for Sega's 16-bit console. The biggest change from FIFA International Soccer are obviously the dozens of club teams from England, France, Germany, Italy, The Netherlands, United States, Spain and Brazil, taking the team number tally to over 200. This also increased the number of competitions, with each country having it's own League, Tournament and Playoff. Also new, a battery backup allowed to save up to four competitions in the cartridge, replacing passwords. For those who want to settle things the fast way, a Penalty Shootout training mode was added.
+
+While graphically the game only received minor changes to the isometric sprite engine, gameplay feature new moves such as volley kicks and more detailed headers (now more effective), as well as general controls being more responsive facilitating passing play, and goalkeepers now are smarter when chasing balls. Set pieces also received a new format, and instead of just kicking the ball the player can choose to play a predefined set piece.
+
+Hints:
+
+- Cheat Codes -
+Start a game, pause, go to Options screen and press one of the codes below to access various cheats:
+Invisible Walls : buttons C, C, C, B, A, A, A, B
+Curve Ball : buttons B, A, C, B, C, C
+Crazy Ball : buttons C, A, B, C, C, B, A, C
+Super Power : buttons B, A, B, B, B, B, B, B, B, B
+Super Goalie : buttons A, A, A, A, A, B, B, B, B, B
+Super Defense : buttons B, B, B, B, B, C, B
+Super Offense : buttons A, A, A, A, A, B, C
+Dream Team : buttons A, A, B, B, C, C, A, A
+Stupid Team : buttons A, B, C, A, B, C
+Penalty Shootout: buttons A, B, A, C, A, B
+If you did correctly, you'll hear a sound. Now press Start to go back to Main Menu and press A to enter the Cheat Code screen and activate the respective code.
+
+http://www.gamefaqs.com/console/genesis/code/366919.html
+http://www.mobygames.com/game/genesis/fifa-soccer-95

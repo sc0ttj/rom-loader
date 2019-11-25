@@ -1,0 +1,3 @@
+In this basic, top-down shoot-em-up set in space the player can move the ship anywhere on the screen to shoot the incoming enemy ships. There are also static mines that do not attack the player but explode when collided with. As time goes on different types of enemy ship target the player and more of them to shoot.
+ 
+http://www.mobygames.com/game/msx/battle-ship-clapton-ii

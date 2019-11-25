@@ -1,0 +1,43 @@
+Battle Squadron is a classic arcade style shooter for 1 or 2 players.You take a space ship and fly it over a high tech hostile surface, and then into an organic setting.  
+
+You can control the number of 'credits' you have from 1 to 3.  You choose how many lives you get.  You also get to choose the max number of enemy bullets and their speed.
+
+You get powerups along the way that modify your weapons, and also the "Nova Smart Bomb".
+ 
+http://www.mobygames.com/game/amiga/battle-squadron
+
+Taking place many years in the future in another star system, a century long war is waging between the Earth Defense Fleet and the Barrax Empire. Two Earth Defense Commanders, Lori Bergin and Barry Mayers, were returning from a research and destroy mission regarding the latest Barrax technologies on planet Urania, when suddenly a Barrax cruiser materialized behind them, brought their ship in and took the commanders hostage on planet Terrainia. The player's mission is to rescue the Commanders and eliminate all Barrax threats in the process.
+
+Battle Squadron supports both mouse- and joystick-controlled styles of play. Players play the game from the perspective of elite fighter pilots of the Earth Defense Fleet, known as the Battle Squadron sent to rescue two human agents, Commanders Berry D. Mayers and Lori Bergin, from the clutches of the ruthless alien empire, known as the Barrax. The player's fighters carry unlimited projectile weaponry and a finite number of Nova Smart Bombs.
+
+Notable features of the game are relatively big sprites (with Predator-esque cloaking effects applied to a few) and numerous weapon upgrades (supposedly 25 in total). Barraxian opponents consist of ground installations (generally gun turrets and launch platforms), ground vehicles, aircraft and numerous genetically-engineered living weapons.
+
+Specific enemies of note include:
+
+    * Cargo vehicles that drop weapon upgrades upon destruction.
+    * Four-craft squadrons of Barrax fighters that will release an extra, collectable Nova Bomb upon destruction of the entire squadron.
+    * Two different varieties of gigantic, apparently-robotic terror machines, functioning as the bosses of two separate levels.
+    * What appear to be several giant faces in the terrain, once again, serving as end-of-level bosses.
+    * The Barrax Nova Cruiser, the end-game boss.
+
+http://en.wikipedia.org/wiki/Battle_Squadron
+_________________________
+CHEATS:
+
+Type castor during game play to enable cheat mode and invincibility. The screen will flash green to confirm correct code entry. Then, press [F6], [F7], [F8], [F9], or [F10] to change weapons. Press [F1], [F2], [F3], [F4], or [F5] to change the power level of the selected weapon.
+
+Debug options:
+Type electronic at the title screen to display the debug options. Alternatively, type electronic followed by [Space]
+Hybris is a classic vertically scrolling shoot-em-up which has its roots firmly with arcade stalwarts like Capcoms 1942.
+
+The back story takes place in 2461 A. D. and concerns an Earth colony being lost on an alien planet known as Jurica. The space station Hybris cannot establish communications with the colony. So a scout ship must be sent on a rescue mission over this seemingly desolate desert-like expanse to find the colonists, and subsequently return them to safety. Warning: Inbound Hostiles . .!
+
+The game is for one, and the player can select from two Ace pilots  - J.P. Maverick or K. Lovett. You navigate the scout ship around the screen at will. The aim is to shoot everything that moves, whilst outmanoeuvring enemy fire. One contends with spiralling waves of alien nasties which move into the play area from multiple directions something akin to Galaga, as well as stationary gun turrets & other surface installations that periodically spew projectiles.
+
+At times a power cube bonus will drift onto the screen. Which upon being shot by the player, will reveal a strength upgrade feature for the scout ship. Each subsequent upgrade collected will progressively beef up the ship (which is visually realised in real-time), in turn increasing your firepower. The scout ship can also be expanded on the fly into unique power configurations attributed to which cube bonus has been collected. You also have control of a smart-bomb feature which can relieve sticky situations.
+ 
+http://www.mobygames.com/game/amiga/hybris
+_________________________
+CHEATS:
+
+Once the game is loaded and prompts you to press fire, press the "SPACE BAR" instead.  You will be able to change the speed of the enemy bullets and other stuff, with the mouse and keyboard.  On the high score table, type "COMMANDER" on the high score screen (not as your name) press 'F7' to activate the super weapons 'F1-F6'.  You should also be invincible.  'F10' turns cheat on/off and 'F8' advances a level.  On the title screen press 'SPACE' or 'ESC' for an options menu.

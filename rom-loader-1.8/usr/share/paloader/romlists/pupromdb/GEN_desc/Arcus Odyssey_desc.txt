@@ -1,0 +1,38 @@
+Arcus Odyssey is a fantasy action game with plenty of worlds to explore and items to pick up. If you like to walk around flinging sword blasts (I would really like to know how a sword is always a long-range weapon in these games) or slinging a chain or shooting a bow or throwing magic, opening chests, and using magical items, you'll probably enjoy this game. The coolest thing is that you get to choose from four different characters that you can play.
+
+The look of the game is pretty good, though it does tend to be boxy and monochromatic. It has your basic generic heroic fantasy music and the sound effects are a bit weak and unimaginative, but that's generally the way games of this era are. Animation runs mostly smoothly, though when you get too many things on the screen at once you will have a bit of a problem with things flashing on and off the screen. Again this is a pretty common problem and won't ruin the game for most people.
+
+Directions:
+
+Choose your character. The first one is Jedda, a swordsman. He's in the middle as far as attack and magic go. The next is Erin and she uses a chain weapon that's pretty awesome since it has the unique ability to swing around you in an arc when you press the attack button twice quickly, taking out all of the enemies standing near you.
+
+Her attack is the strongest of the four. The next is an archer named Diane. She has the highest magic in the beginning and the longest ranged weapon. Her weapon has the added benefit of bouncing off walls. You can use this to take out enemies before they get anywhere near you. The last is Bead, a sorcerer. He also has an unlimited range attack and he is the most powerful magic user. There's something for every playing style.
+
+Your health bar is displayed at the bottom left corner of the screen. Each time you are hit, one of the blue pieces will turn into an empty red outline. When you lose all of these it's game over.... that is unless you have a Doll of Life....
+
+Access your items menu by pressing A. Press A again to equip an item. You will find all the the magical bits and bobs you pick up from defeating enemies and from treasure chests (mostly from treasure chests) here in this menu. Sadly, the game will not post a name over an object to let you know what it is or what it does. I recommend saving and then experimenting. It's the tried and true method. You can only carry six magical items at once. The stars at the top of the items list are called Magical Power Crystals and are what the M in the bubble will use. Select how ever many you wish to equip and you will be ready to use them. They will send balls of flame out from you in four directions. After you have equipped an item or magical object you can leave the menu by pressing C and then use the item by pressing B. Most items only have one use. The number of uses you have will be at the bottom center of the screen along with the picture of the item.
+
+Some items will be used automatically, such as the Doll of Life (a vaguely brown grenade-looking thing) which is activated the moment you lose all of your life. These items will be displayed in your menu as well and can be equipped but cannot be used by pressing B. Game event items that will be used automatically and cannot be equipped are stored in the bottom section of your items menu. Some items will be used automatically when you find them.
+
+Your current score is displayed over your health bar. Pick up points by killing monsters. You will get another health bar every 10,000 points.
+
+At certain points in the game you will run into bosses. Bosses will have more life and stronger attacks than regular enemies. Use the environment to your advantage in these fights and avoid getting hit at all costs. Bosses will do much more damage than the other guys. Every boss will be different and fight in a different way. Figure out a strategy that works with each one.
+
+Other people will come in and out of your party. They will have their own weapons and will use their weapon when you use yours. Some may have useful traits like a longer range to their weapon (though getting them to face the direction you want is another matter entirely).
+
+You may have noticed a bar and box to the right of the screen at the bottom that are always empty. These are the second player's stats. Play with a friend and you can cooperate to make your way through the world of Arcus. In a two player game, there will be more enemies and more treasure chests. 
+
+Controls:
+
+A Button: Open Item Menu/ Equip Item
+B Button: Use Item/ Close Menu
+C Button: Use Weapon/ Guard/ Close Menu
+Start Button: Pause Game
+
+Hints:
+
+Hidden Key
+You can spend hours wandering around the bridges area, after you've picked up the guy from the prison who wants you to help him find his friend, looking for a key to open the red doors. This key is not visible and is located at the end of a red wood plank bridge. You will pick the key up just by walking onto the bridge, but only after you have picked the guy up from his cell. 
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/arcus_odyssey.html

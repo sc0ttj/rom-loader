@@ -1,0 +1,3 @@
+This is a english translation patch for a 3D-ish shooter for the Famicom. It translates a credit in the ending and fixes up what I thought was engrish. Thanks goes out to FlashPV who came up and hacked in the graphic for the credits.
+
+http://romhacking.net/trans/1354/

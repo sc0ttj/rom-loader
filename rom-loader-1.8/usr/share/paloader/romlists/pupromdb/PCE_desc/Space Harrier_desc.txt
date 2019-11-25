@@ -1,0 +1,21 @@
+One of the first of Sega's revolutionary 'super scaler' machines, Space Harrier is set in a bizarre fantasy world very much influenced by movies such as 'The NeverEnding Story'. You control a lone warrior equipped with a flying cannon and your mission to defend the Fantasy Zone from pretty much everything in sight. Enemies come in all shapes and sizes: scaly wormlike dragons, rock heads, giant robots and bouncing octopus-like creatures, all out to get you and most willing to throw missiles or fireballs in your direction.
+
+Now and again the flying-into-the-screen action is split up with bonus stages where you ride on a dragon's back, trying to guide him into obstacles for points. Also, there are several levels where a ceiling drops down from above and you have to dodge wave after wave of increasingly fast pillars and other ground or sky based objects, which takes some skill as they can speed up to quite intense levels. Death is instant on contact with anything aside from low ground objects, but you are back into the action in seconds with no loss of progress.
+
+COMMENT:
+
+Converting from a game that requires so much scaling is often a dodgy business, but NEC Avenue have pulled off this conversion with great success. Although the graphics are generally a little smaller than the arcade and a tad messy in places, the scaling is far better than expected for a HuCard and there is little or no clash to be seen. The distinctive checkerboard floor from the arcade has unfortunately gone, which is a big shame, and it is replaced by a far less interesting striped and colour-cycled ground pattern.
+
+Sound is generally good, but while the sound effects are very faithful to the original, the fantastic Space Harrier music is arranged a little too lightly at times and I dislike the white-noise drums that NEC Avenue insist on using in all their games. All the speech samples from the arcade are included too, albeit in a very scratchy manner.
+
+Space Harrier is simplistic blasting fun. And that, rather than a weakness, is where its strengths lay. Forget pretentious storylines, forget fancy power-ups, this is pure gameplay and this is heart pounding fun. The thrill from narrowly missing towers or rocks is just as powerful here as it was in the arcade and it rockets along at such a speed on later levels that you'll be lucky if your heart doesn't jump out of your mouth. For some people, they may get bored with it fairly quickly, but it's the kind of game that you can put on for a quick blast every now and again, and you'll be playing it for years to come and enjoying it just the same. 
+
+HINTS:
+
+- Continue and Hidden Options -
+Use the following initials in the high score screen.
+CNT : Continues gameplay from level 6 or level 13 (you first have to reach those levels before though)
+MD[Blank] : Reveals hidden options (sound menu, more lives, difficulty levels) in the Jap. version.
+[Blank]MD : Reveals hidden options (sound menu, more lives, difficulty levels) in the US version.
+
+http://www.pcengine.co.uk/HTML_Games/Space_Harrier.htm

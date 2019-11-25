@@ -1,0 +1,181 @@
+NGSYSTEM_ARRAY=(Default home arcade unibios)
+NGSYSTEM_ITEMS="<item>$NGSYSTEM</item>" #stored value should be first in list
+for i in "${NGSYSTEM_ARRAY[@]}"
+do
+	if [ "$i" != "$NGSYSTEM" ];then # if not already the selected value
+		NGSYSTEM_ITEMS=`echo "$NGSYSTEM_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+COUNTRY_ARRAY=(Default usa japan asian europe)
+COUNTRY_ITEMS="<item>$COUNTRY</item>" #stored value should be first in list
+for i in "${COUNTRY_ARRAY[@]}"
+do
+	if [ "$i" != "$COUNTRY" ];then # if not already the selected value
+		COUNTRY_ITEMS=`echo "$COUNTRY_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+FORCEPC_ARRAY=(Default true false)
+FORCEPC_ITEMS="<item>$FORCEPC</item>" #stored value should be first in list
+for i in "${FORCEPC_ARRAY[@]}"
+do
+	if [ "$i" != "$FORCEPC" ];then # if not already the selected value
+		FORCEPC_ITEMS=`echo "$FORCEPC_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+RASTER_ARRAY=(Default true false)
+RASTER_ITEMS="<item>$RASTER</item>" #stored value should be first in list
+for i in "${RASTER_ARRAY[@]}"
+do
+	if [ "$i" != "$RASTER" ];then # if not already the selected value
+		RASTER_ITEMS=`echo "$RASTER_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SEKCLOCK_ARRAY=(Default 100 90 80 70 60 50 40 30 20 10 -10 -20 -30 -40 -50 -60 -70 -80 -90 -100)
+SEKCLOCK_ITEMS="<item>$SEKCLOCK</item>" #stored value should be first in list
+for i in "${SEKCLOCK_ARRAY[@]}"
+do
+	if [ "$i" != "$SEKCLOCK" ];then # if not already the selected value
+		SEKCLOCK_ITEMS=`echo "$SEKCLOCK_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+Z80CLOCK_ARRAY=(Default 100 90 80 70 60 50 40 30 20 10 -10 -20 -30 -40 -50 -60 -70 -80 -90 -100)
+Z80CLOCK_ITEMS="<item>$Z80CLOCK</item>" #stored value should be first in list
+for i in "${Z80CLOCK_ARRAY[@]}"
+do
+	if [ "$i" != "$Z80CLOCK" ];then # if not already the selected value
+		Z80CLOCK_ITEMS=`echo "$Z80CLOCK_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+
+BLITTER_ARRAY=(Default soft opengl yuv)
+BLITTER_ITEMS="<item>$BLITTER</item>" #stored value should be first in list
+for i in "${BLITTER_ARRAY[@]}"
+do
+	if [ "$i" != "$BLITTER" ];then # if not already the selected value
+		BLITTER_ITEMS=`echo "$BLITTER_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+FS_ARRAY=(Default true false)
+FS_ITEMS="<item>$FS</item>" #stored value should be first in list
+for i in "${FS_ARRAY[@]}"
+do
+	if [ "$i" != "$FS" ];then # if not already the selected value
+		FS_ITEMS=`echo "$FS_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+FRAMESKIP_ARRAY=(Default true false)
+FRAMESKIP_ITEMS="<item>$FRAMESKIP</item>" #stored value should be first in list
+for i in "${FRAMESKIP_ARRAY[@]}"
+do
+	if [ "$i" != "$FRAMESKIP" ];then # if not already the selected value
+		FRAMESKIP_ITEMS=`echo "$FRAMESKIP_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+VSYNC_ARRAY=(Default true false)
+VSYNC_ITEMS="<item>$VSYNC</item>" #stored value should be first in list
+for i in "${VSYNC_ARRAY[@]}"
+do
+	if [ "$i" != "$VSYNC" ];then # if not already the selected value
+		VSYNC_ITEMS=`echo "$VSYNC_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+EFFECT_ARRAY=(Default none scanline scanline50 scale2x scale3x scale4x scale2x50 scale2x75 hq2x lq2x hq3x lq3x doublex sai supersai eagle)
+EFFECT_ITEMS="<item>$EFFECT</item>" #stored value should be first in list
+for i in "${EFFECT_ARRAY[@]}"
+do
+	if [ "$i" != "$EFFECT" ];then # if not already the selected value
+		EFFECT_ITEMS=`echo "$EFFECT_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+HWSURFACE_ARRAY=(Default true false)
+HWSURFACE_ITEMS="<item>$HWSURFACE</item>" #stored value should be first in list
+for i in "${HWSURFACE_ARRAY[@]}"
+do
+	if [ "$i" != "$HWSURFACE" ];then # if not already the selected value
+		HWSURFACE_ITEMS=`echo "$HWSURFACE_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+INTERPOLATION_ARRAY=(Default true false)
+INTERPOLATION_ITEMS="<item>$INTERPOLATION</item>" #stored value should be first in list
+for i in "${INTERPOLATION_ARRAY[@]}"
+do
+	if [ "$i" != "$INTERPOLATION" ];then # if not already the selected value
+		INTERPOLATION_ITEMS=`echo "$INTERPOLATION_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SHOWFPS_ARRAY=(Default true false)
+SHOWFPS_ITEMS="<item>$SHOWFPS</item>" #stored value should be first in list
+for i in "${SHOWFPS_ARRAY[@]}"
+do
+	if [ "$i" != "$SHOWFPS" ];then # if not already the selected value
+		SHOWFPS_ITEMS=`echo "$SHOWFPS_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SCREEN320_ARRAY=(Default true false)
+SCREEN320_ITEMS="<item>$SCREEN320</item>" #stored value should be first in list
+for i in "${SCREEN320_ARRAY[@]}"
+do
+	if [ "$i" != "$SCREEN320" ];then # if not already the selected value
+		SCREEN320_ITEMS=`echo "$SCREEN320_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SCALE_ARRAY=(Default 1 2 3 4 5)
+SCALE_ITEMS="<item>$SCALE</item>" #stored value should be first in list
+for i in "${SCALE_ARRAY[@]}"
+do
+	if [ "$i" != "$SCALE" ];then # if not already the selected value
+		SCALE_ITEMS=`echo "$SCALE_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SOUND_ARRAY=(Default true false)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then # if not already the selected value
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+JOYSTICK_ARRAY=(Default true false)
+JOYSTICK_ITEMS="<item>$JOYSTICK</item>" #stored value should be first in list
+for i in "${JOYSTICK_ARRAY[@]}"
+do
+	if [ "$i" != "$JOYSTICK" ];then # if not already the selected value
+		JOYSTICK_ITEMS=`echo "$JOYSTICK_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+JOY1_ARRAY=(Default 0 1 2 3 4)
+JOY1_ITEMS="<item>$JOY1</item>" #stored value should be first in list
+for i in "${JOY1_ARRAY[@]}"
+do
+	if [ "$i" != "$JOY1" ];then # if not already the selected value
+		JOY1_ITEMS=`echo "$JOY1_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+JOY2_ARRAY=(Default 0 1 2 3 4)
+JOY2_ITEMS="<item>$JOY2</item>" #stored value should be first in list
+for i in "${JOY2_ARRAY[@]}"
+do
+	if [ "$i" != "$JOY2" ];then # if not already the selected value
+		JOY2_ITEMS=`echo "$JOY2_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+

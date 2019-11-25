@@ -1,0 +1,7 @@
+The gameplay making up Dicing Knight is a queer combination of hectic action and roguelike strategy. When you first start the game, you have one dungeon to go after (that of the Lindwurm) and you have one slot for an Orb, although you won't have anything to put in it at first. After you complete the first dungeon you should have enough total experience to be level 2, and you can go after the next dungeon (and use the lottery ticket from the boss to acquire a powerup orb in a game of chance) and so the game progresses.
+
+Sure, it's simplistic in nature, but it's one hell of a lot of fun. You unlock another game mode for completing it, and there's a huge bonus dungeon as well. It's all randomly generated as most roguelikes are, but it removes a lot of the element of chance by running everything in realtime and giving you almost complete control over your destiny. All in all, Dicing Knight is a fantastic game, and is not to be missed!
+
+The patch is simple, small and complete, but mostly untested. If you notice any funky picture text, please say something!
+
+http://www.romhacking.net/trans/1073/

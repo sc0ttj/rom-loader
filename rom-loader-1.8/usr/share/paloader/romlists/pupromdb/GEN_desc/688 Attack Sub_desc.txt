@@ -1,0 +1,3 @@
+An early submarine game that allowed you to command both American and Soviet attack submarines. Numerous stations were at your disposal (sonar, weapons, navigation, helm, radio and periscope) with a play style that balanced realism and fun. Graphics were impressive for the day featuring digitized images of surface ships and crew.
+
+http://www.mobygames.com/game/688-attack-sub

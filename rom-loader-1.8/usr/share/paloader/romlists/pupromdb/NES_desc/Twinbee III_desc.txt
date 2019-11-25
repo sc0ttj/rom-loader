@@ -1,0 +1,29 @@
+It's Twinbee! Everybody loves Twinbee. This is a cutesy shooter, where you have to shoot bells to get cooler powerups, like in Parodius and Cotton and stuff. Wait, were bells in Parodius? I can't remember. I think so though. Anyway, Twinbee 3.
+
+Translation Description - 
+I don't know if this is complete or not, thanks to Neo Demiforce's lovely new layout, so I'll leave this here until proven otherwise. Anyway, this patch was dedicated to Sardu and Bloodlust Software, since version 0.42 of NESticle was able to play the game flawlessly (and also turned out to be the last release). From the start it's obvious that Demi translated it, since you'll see various things like "k" and "oh!" as you're flying around. That kinda stuff was really cool in Konami World, but it just seems out of place here. Oh well, enough bitching. Have fun with the game, and somebody let me know if it's finished or not.
+
+Reviewer - Spinner 8
+http://www.romhacking.net/trans/231/
+*
+********************************************** U **********************************************
+*
+32be8847,5f71cecd
+U-Force Power Games
+Platform - Nintendo Entertainment System
+Region - Unreleased (USA)
+Media - Cartridge
+Controller - U-Force
+Genre - Sports , Competitive Events
+Release Year - 1990
+Developer - Broderbund
+Players - 1
+@END
+U-Force Power Games included four games specifically developed for the accessory -- Power Field B-Ball, Nuclear Rat Attack, Rock on Air, and Hose'Em Down. The title was previewed by at least six magazines, according to Universal Videogame List, which described the four activities - 
+- "Power Field B-Ball was a one-on-one basketball game requiring two U-Force controllers to be fully enjoyed.
+
+- Nuclear Rat Attack was a sci-fi game. The player had to defend a spaceship from mutant space rats. (Speculation - 3D whack-a-mole?)
+
+- Rock on Air was a rock band simulation featuring a music synthesizer. Hand movements were translated into sounds to compose songs.
+
+- Hose 'Em Down was a comedy fire-fighting game. Described as Keystone Cops with firefighters. The goal was to rescue people from burning buildings with a focus on disparate jumpers. If any civilians in distress did not want to jump, the player could convince them with a high powered water cannon."

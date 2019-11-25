@@ -1,0 +1,19 @@
+An arcade conversion of Konami's classic shoot 'em up, Gradius is simple, no frills shooting action. The weapon system is fairly unique to the series, with power-up pod that cycles through a list of weapons at the bottom of the screen, allowing you to choose what you want, when you want it.
+
+The weapons themselves are fairly simple and range from bombs to diagonal shots or thin lasers. Given time, you can also amass a squad of 'options' that follow your ship and shoot when you shoot - very useful little buddies indeed. The levels are all space based, with lava-spewing volcanoes, mysterious Easter Island heads and destroyable walls to block your path.
+
+COMMENT:
+
+Gradius is a fine conversion of a classic, albeit an old classic. Your enjoyment will probably depend on how much you were into the original. I personally can take it or leave it - the design is a little bland and dated, although the interesting weapon system and sometimes intense action work in its favour.
+
+The main problem with Gradius is the terrible slowdown that the game suffers, which is a pity as it does affect the gameplay enough to become annoying and disruptive at times. Thankfully, Konami pulled their finger out for Parodius which does not suffer in the same way. So it's a good shooter, not exceptional, but mostly one for the existing fans.
+
+HINTS:
+
+- Get full options, missile and shield -
+Pause the game, then enter the following code: Up, up, down, down, left, right, left, right, II, I.
+
+- Start with 30 lives -
+On the title screen, hold down Up on the d-pad and press II three times. Press RUN to start with 30 lives.
+
+http://www.pcengine.co.uk/HTML_Games/Gradius.htm

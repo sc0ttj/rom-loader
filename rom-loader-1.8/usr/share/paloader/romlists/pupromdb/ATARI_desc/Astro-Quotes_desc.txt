@@ -1,0 +1,3 @@
+Fascinating game in which you guess vocabulary words from clues and the computer takes each letter from the words and puts it where it belongs in a famous quotation, 3 versions: easy, medium, hard.
+
+[From the box back]

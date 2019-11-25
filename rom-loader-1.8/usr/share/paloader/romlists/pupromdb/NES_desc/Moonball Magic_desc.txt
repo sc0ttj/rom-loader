@@ -1,0 +1,38 @@
+Moon Ball Magic is a Pinball game, developed by System Sacom and published by SquareSoft, which was released in Japan in 1988.
+
+http://www.gamefaqs.com/console/fds/home/578615.html
+*
+********************************************** O **********************************************
+*
+31dc1c4a
+Otocky
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Action
+Release Year - 1987
+Developer - ASCII Entertainment
+Manufacturer - ASCII Entertainment
+Players - 1
+@END
+Otocky is a Rhythm / Music game, developed and published by ASCII Entertainment, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578393.html
+*
+********************************************** P **********************************************
+*
+65e47753
+Pachi Com
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Casino
+Release Year - 1988
+Developer - Shouei
+Manufacturer - Toshiba EMI
+@END
+Pachicom is a Casino game, developed by Shouei and published by Toshiba EMI, which was released in Japan in 1988.
+
+http://www.gamefaqs.com/console/fds/home/579337.html

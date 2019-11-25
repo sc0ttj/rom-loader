@@ -1,0 +1,16 @@
+Jim Power was a hero who one day while travelling through the forest, encountered a dimensional rift into a strange new world. Luckily Jim always travels armed and now he'll need to fight his way past several monsters into a monster stronghold to find his way back home.
+
+Gameplay:
+
+Jim Power is a side-scrolling platform game, a side-scrolling shooter and a top-view shooter game depending on the level. All the games graphics are also compatible with paper 3-D glasses. Jim Power for the most part can jump and has an upgradable gun weapon. He must find fight enemies, bosses and obtain various keys to progress through the levels. Jim also has a "Smart Bomb" power attack which can clear the screen of enemies. In shooter levels, Jim's spaceship only has the ability to shoot and move around the screen avoiding obstacles.
+
+Hints:
+
+- Infinite Lives and Keys -
+
+In the options menu, press all three buttons (A, B, C) at the same time. You should hear a ringing-type confirmation noise. You only need to do this once; pressing the buttons again doesn't add more affects or anything. Anyway, when you start the game, you will have infinite lives. You can still "die", but your lives won't run any lower. Also, you will have an unlimited number of keys. Even if it says zero, you can use a key. It'll increase to 1 and stay there. Unless you collect more keys. But no matter how many keys you use, the number will never reduce to 0.
+
+Reviewer:
+
+http://www.mobygames.com/game/genesis/jim-power-in-mutant-planet
+http://www.gamefaqs.com/console/genesis/code/924245.html

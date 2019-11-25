@@ -1,0 +1,10 @@
+Fire Mustang is a fast side-scrolling shooter set during World War II. The player controls a P-51D Mustang plane through different missions, with many enemies on the screen at the same time and a large aircraft as a boss at the end of every mission. The Mustang has an unlimited amount of bullets, but one hit is sufficient to lose a life. There are different power-ups to collect, providing additional fire power and new firing patterns. Regardless of the power-ups, the Mustang shoots forward and drops bombs to the ground at the same time, targeting ground troops. There is a limited amount of forgers, large blasts damaging many enemies at once.
+
+Gameplay:
+
+Players were sent around stages in Europe and Asia against either of the two featured Axis powers. Every level was filled with a wide variety of different fighter craft and ground forces that all preceeded the end-level boss (generally a large aircraft).
+
+Players had a typical vulcan weapon that could be upgraded three times in order for the shot pattern to widen. Players also had an unlimited amount of ground force bombs that would increase in firing speed with the vulcan. The player's bomb weapon was a weapon called "The Forcer" that fired a large fireball straight forward.
+
+http://en.wikipedia.org/wiki/Fire_Mustang
+http://www.mobygames.com/game/genesis/fire-mustang

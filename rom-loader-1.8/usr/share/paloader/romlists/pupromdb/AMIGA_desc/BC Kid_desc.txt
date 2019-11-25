@@ -1,0 +1,24 @@
+Originally based on Japanese 1989 PC Engine release 'PC GENJIN', which became BONK'S ADVENTURE outside
+Japan. First English version released in the US in 1990. The arcade version was published by Kaneko in 1994.
+
+Coding by Nils Meier; additional code by Holger Schmidt and Thomas Engel. Graphics by Sven Meier. Music & surround technology by Rudi Stember; sound support by Chris H?lsbeck; and 7 voice technology by Jochen Hippel.
+
+The Japanese title PC Genjin is actually a play on words, rhymes with 'PC ENGINE' and translates to "primitive man".
+
+http://hol.abime.net/81
+
+Prehistoric platform game where you are in control of a baby and have to guide him through the levels avoiding all manner of strange nasties.
+
+The game is very similar to every other platform game you have ever played, but it does have its own unique features such as the ability to climb vertical walls with your teeth and do a diving head butt from a jump. Power ups come in the form of lumps of meat and give extra speed and invulnerability in the later stages.
+
+If you have ever played chuck rock then you know what to expect from this, a bog standard platform game with a prehistoric theme.
+ 
+http://www.mobygames.com/game/amiga/bonks-adventure
+_________________________
+CHEATS:
+
+Unlimited lives:
+Select "Options" from the title screen. Then press Up, Up, Down, Down, Left, Right, Left, Right on the Joystick.
+
+Flying:
+This requires a joystick with an autofire feature. Jump up in the air and enable autofire. Your character can fly through the air while rapidly spinning, allowing him to avoid dinosaurs and volcanoes.

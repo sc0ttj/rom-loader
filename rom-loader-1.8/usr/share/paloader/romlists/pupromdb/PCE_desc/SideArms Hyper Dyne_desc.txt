@@ -1,0 +1,14 @@
+Forerunner to Forgotten Worlds. The control method allows you use the fire buttons to shoot in opposite directions, defending yourself from attacks from the rear.
+
+The power ups are selectable and if you collect an alpha symbol you combine with another ship for a super robot.
+
+HINTS:
+
+(Enter these codes at the title screen)
+- Black and White mode -
+Hold down Up, Buttons I and II, and press Run
+
+- Slow motion/frame skip -
+Down, I, II, Run
+
+http://www.pcengine.co.uk/HTML_Games/Side_Arms.htm

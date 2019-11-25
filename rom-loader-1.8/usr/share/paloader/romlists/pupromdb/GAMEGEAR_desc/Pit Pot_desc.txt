@@ -1,0 +1,5 @@
+The princess has been kidnapped and held captive inside the castle, and your job is to navigate each room by collecting all the goodies, and killing monsters using the hammer that a witch gave you. Once you have done that, you must get through one of the open doorways. To navigate the room, you can walk either on the gray tiles, or the yellow ones that surround them. Monsters also can walk on these gray tiles, but you can make them fall down if you smash a tile that they're on. The monsters will regenerate in the room after five seconds.
+
+Be careful of dragons that will throw fireballs at you. If you get hit by a dragon, its fireball, or one of the monsters, you will lose a life. You can collect keys that will open locked doorways, so that you can exit through them. Some power-ups can also be collected. Collecting hearts, for example, will freeze all monsters on screen for a limited amount of time, giving you the opportunity of killing them. 
+
+http://www.mobygames.com/game/sega-master-system/pit-pot-the-magical-castle

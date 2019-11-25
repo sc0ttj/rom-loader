@@ -1,0 +1,9 @@
+Translation Description:
+
+Full English release in typical MIJET fashion. That means, VWF, dual language support by region, and top quality work. No known issues. A patcher program is available on the author's website if you prefer it over the typical IPS patching solution.
+
+Update:
+
+A major overhaul of what some critics are calling "the Blade Runner of very short text adventures."
+
+http://www.romhacking.net/trans/1150/

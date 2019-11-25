@@ -1,0 +1,16 @@
+A conversion of an old arcade game with updated graphics. Navigate 60 different mazes and uncover their mysteries while bopping the occasional slime on the head with your sword.
+
+You say... It's a rather popular game in Japan (at least on some level since they're STILL using characters from it like Lizardman in Soul Caliber and even using the story for new games such as Nightmare of Druaga)...have spotted this a while back and wondering what all the fuss was about, I decided to force myself to play the arcade version on Namco Museum. After having my nuts handed to me in a plastic bag multiple times, I decided to look some info up on the game.
+
+Turns out that half the game is 'hidden'...in other words, it's less about fighting and about solving the mystery of each floor. While you get no clues, you get the 'idea' of what they are looking for after you learn how to solve 2 or 3 floors. By solving the 'mystery', a chest with an item to help you along the way is revealed. In fact, you MUST find a lot of these chests or you'll be in the dog's den. Case in point, in floor 2's chest are the hyper boots which drastically speed you up. If you somehow move up a floor without this item, you might as well call it quits. But even just finding the item may not be enough. Some have uses which are quite cryptic, but become insanely obvious when activated, usually by accident the first time.
+
+There's something addictive about the game where you just HAVE to know why a chest showed up one time and not another. The PC Engine version added a nice bit of flavor from its sequel (which is REALLY weird, but in a cool way) in the way the graphics are presented and the fact that Gil's hit points are actually seen. As well, the stats are a welcome addition, though they only help you so much, since later you must earn better weapons to even hurt certain enemies.
+
+Translation Description:
+
+This is the very first ROM translation that I've ever performed. The Tower of Druaga for the PC-Engine is a remake of the original 1984 Namco arcade game. It was wildly popular in Japan, and completely overlooked in America. I discovered the PC-Engine version while researching information about the original game and it's variants. In order to do well at this game, you need to know each of the seemingly random methods necessary to reveal the treasure chests on each floor. A character provides you with hints before each floor, but if you can't understand what she's saying, it's of little help.
+
+Everything that I could possibly find and locate has been translated. If there is any remaining untranslated text, I don't know how to make it appear. I welcome any notes about spelling mistakes or things that I might have missed, so don't hesitate to contact me. Please enjoy this patch, and enjoy the game.
+
+http://romhacking.net/trans/1104/
+http://www.pcengine.co.uk/HTML_Games/Tower_of_Druaga.htm

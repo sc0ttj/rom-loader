@@ -1,0 +1,34 @@
+This is another great space shooter for Genesis, very similar to Air Buster (also for Genesis). You fly around in your spaceship that can transform into a Gundam-ish human-ish robot as well, shooting down enemies and picking up cool power ups. The look isn't as great as Air Buster, but isn't that bad.
+
+Animation is smooth, though it does get really difficult to tell what's going on on the screen with the tons of weapon fire and crazy psychedelic backgrounds that come around. The music is simple and not too bad, with no horrifyingly bad noises or sound effects involved. Sound effects are what you'd expect from this kind of game.
+
+Directions:
+
+Your default weapon, while unimpressive at first, can be modified to the point of insanity with power ups you will pick up along the way. In addition to the main central firing weapon, you have Arrow Flash.
+
+This powerful weapon sends a wave of powerful shots, in the shape of an arrow, at your enemies when you are in ship form, and allows you to charge your enemies while glowing with the power to destroy them on contact when you are in the robot form. You can change the way the Arrow Flash works on the options screen before you begin the game. You can either choose Stock, which allows you to collect items for it and the number of these that you have picked up will determine the number of times you can use it, or Charge, which allows you to charge it up before shooting and which gives you varying intensities of shot depending on the amount of time you hold the button down. The stock of your Arrow Flash is displayed in the top left side of the screen. The Bar next to the letters AF shows you how many Arrow Flashes you currently have. Blue bars are Arrow Flashes and red dots are empty slots. You can carry a max of 16.
+
+You can pick up many different kinds of power ups that will do different things like affect your weapons. Power ups will be red globes until you shoot them and then will have a letter on them that tells you what they do. They are as follows:
+
+F- This one gives you an extra gun that is outside and unattached to the ship. It will fire simultaneously with your default weapon. Picking up multiple F's will give you multiple extra guns.
+
+I- This one changes your main weapon into a more powerful laser type. Picking up multiple I's will give you multiple laser shots. If you pick up a third I (yeah, pun intended) your F guns will begin firing laser shots as well.
+
+E- This one gives you a shield. As the shield takes hits it will turn pink. This means it is about to vanish.
+
+A- This is will give you another Arrow Flash stock if you have chosen this mode of play in the Options screen.
+
+M- This one gives you missiles that will come out diagonally a bit and then fly straight forward from your ship, and, you guessed it, multiple M's means multiple missiles.
+
+II- This power up gives you a powerful arrow shaped weapon fire.
+
+S- This one seems to only be worth extra points.
+
+Power ups stack with each other to form a truly impressive barrage of weaponry. You keep your weapons until you lose a life, at which point you have to start over picking up power ups. Earn enough points and you'll be rewarded with an extra life.
+
+After fighting you way through a bunch of small one-shot-kill enemies, you will run into a boss. Bosses will take many more hits to bring down and often require that you hit them in specific places to destroy them. Pick up plenty of power ups before the boss battles and you'll be fine. As you progress through the stages enemies will have bigger and meaner weapons and will be harder to hit. 
+
+Controls:
+
+A Button: Transform
+B Button: Fire

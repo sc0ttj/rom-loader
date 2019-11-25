@@ -1,0 +1,3 @@
+The goal of this game is the bump ships into some kind of electrical fences with your own ship.
+
+http://www.hidden-palace.org/?releases/13

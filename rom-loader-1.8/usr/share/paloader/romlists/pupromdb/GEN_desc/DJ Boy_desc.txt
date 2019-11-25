@@ -1,0 +1,12 @@
+DJ Boy is one of the few beat 'em ups that takes place on roller-skates, Rollergames for the NES is the only other one I know of. You're almost always scrolling across the screen - beating down a bunch of enemies while avoiding obstacles like traffic cones, oil slick, or sticks of dynamite. After beating each stage (which won't be happening very often), you get to spend the coins dropped by fallen enemies on items that restore your health, increase your speed, strength, etc. The ho-hum rating is due to a single issue in DJ Boy - the lack of lives or even a continue system. You're expected to transverse the entire game with a couple of bars of health against swarms of enemies and lethal bosses.
+
+I could have possibly accepted a single life per level, but dying on the third stage and going back to the title screen is ridiculous. Granted there is a lot of health lying around, and you can buy life-bar upgrades between levels - but a single blow from a boss can chip off two sections of your vitality. Even the inclusion of a cheap attack (the jump-kick) doesn't always guarantee you a shot at winning a fight due to the often unpredictable arc your character will travel when using it. It is too bad that an otherwise OK brawler has to suffer because the programmers for this port decided to increase the difficulty in the worst way possible.
+
+Controls:
+
+A Button: Punch
+B Button: Kick
+C Button: Jump
+Start Button: Start, Pause
+
+http://www.gamefaqs.com/console/genesis/review/R116579.html

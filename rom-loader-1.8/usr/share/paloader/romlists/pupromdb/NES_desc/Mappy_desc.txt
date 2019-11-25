@@ -1,0 +1,8 @@
+You control Mappy a police-mouse whose job is to collect valuables (consumer electronics)from a cat's house. You are being pursued by a gang of five pink cats. Doors are your only defense against the cats. You get from floor to floor by jumping on one of the trampolines. Points are earned by recovering stolen goods. Other ways of earning points are bouncing on a trampoline, putting cats in the microwave, striking a cat with a door, striking cats with a bell, retrieving a treasures from the Boss cat Goro or dropping cats through a hole in the floor. 
+
+http://www.mobygames.com/game/nes/mappy
+This hack is based on a comic strip that I made back in 1992, and this is my first attempt at making my own graphics also.
+
+Please read the readme that's in the zip file for more information, other than that enjoy the hack?
+
+http://www.romhacking.net/hacks/249/

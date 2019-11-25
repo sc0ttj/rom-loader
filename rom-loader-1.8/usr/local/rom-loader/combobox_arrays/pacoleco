@@ -1,0 +1,20 @@
+# DMODE combobox
+DMODE_ARRAY=(Default Bilinear Scanlines Bilinear/Scanlines)
+DMODE_ITEMS="<item>$DMODE</item>" #stored value should be first in list
+for i in "${DMODE_ARRAY[@]}"
+do
+	if [ "$i" != "$DMODE" ];then
+		DMODE_ITEMS=`echo "$DMODE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# DSCALE combobox
+DSCALE_ARRAY=(1x 2x 3x 4x)
+DSCALE_ITEMS="<item>$DSCALE</item>" #stored value should be first in list
+for i in "${DSCALE_ARRAY[@]}"
+do
+	if [ "$i" != "$DSCALE" ];then
+		DSCALE_ITEMS=`echo "$DSCALE_ITEMS<item>$i</item>"`
+	fi
+done
+

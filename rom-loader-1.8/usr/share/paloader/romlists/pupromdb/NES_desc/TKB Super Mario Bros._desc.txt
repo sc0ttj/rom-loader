@@ -1,0 +1,3 @@
+This is mostly a level hack of Super Mario Bros. with a bit of hex editing. It is somewhat harder than the original SMB1 (but not hard like Kaizo or Air).
+
+http://www.romhacking.net/hacks/531/

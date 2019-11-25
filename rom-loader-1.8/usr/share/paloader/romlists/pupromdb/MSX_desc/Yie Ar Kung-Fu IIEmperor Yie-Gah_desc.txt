@@ -1,0 +1,3 @@
+Sequel of the popular arcade game, Yie Ar Kung-Fu. It follows Oolong's quest to become a Kung-Fu master. This involves fighting with a wide range of opponents in a traditional one-on-one 2D environment. Oolong has a wide range of attack moves he can use to lower his opponent's life bar, including traditional punching and kicking attacks as well as jumping ones. Opponents are well equipped with unique weapons and attacks.
+ 
+http://www.mobygames.com/game/msx/yie-ar-kung-fu-2-the-emperor-yie-gah

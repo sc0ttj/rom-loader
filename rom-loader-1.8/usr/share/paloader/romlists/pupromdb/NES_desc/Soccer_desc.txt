@@ -1,0 +1,170 @@
+Kick and Run is a Soccer Sim game, developed and published by Taito Corporation, which was released in Japan in 1988.
+
+http://www.gamefaqs.com/console/fds/home/579331.html
+Ballblazer is a one-on-one soccer match set in the future. You control a robot and try to snare a floating ball called a Plasmorb, which could then be fired or carried into the opponent's goal. You play on a simple 3d playfield which is split in half. You can play against the computer or against another robot controlled by a human player.
+
+http://www.mobygames.com/game/nes/ballblazer
+Captain Tsubasa 2 - Super Dream Team
+
+Captain Tsubasa 2 is a great game. But after a few matches you may find it very difficult. Also your team leveling up is very slow. And the CPU goal keepers tend to catch all your shots. Another point to note is your stamina - it drains very quick. I've hacked this game a bit to make it more enjoyable (under my personal criteria :P) - 
+- All your characters have Infinite Stamina.
+
+- All your characters have the Max Level.
+
+- When you press select when playing a match, the timer will reset to 00:00.
+
+- When you press start when playing a match, you will add 5 goals to your score.
+
+- You start with the following team - 
+Normal Team - 
+- The GK is Wakabayashi
+- Player 2 is Kapilman
+- Player 3 is Zagalo
+- Player 4 is Napoleon
+- Player 5 is Diaz
+- Player 6 is Pierr
+- Player 7 is Schneider
+- Player 8 is Carlos (Santana)
+- Player 9 is Coimbra
+- Player 10 is Tsubasa
+- Player 11 is Hyuga
+
+And when you reach the Asian Cup - 
+- Bench (Reserve) - Player 12 is Riverio
+- Player 13 is Nei
+- Player 14 is Santamaria
+- Player 15 is Toninho
+- Player 16 is Jethrio
+- Player 17 is Souda
+- Player 18 is Matsuyama
+- Player 19 is Nitta
+- Player 20 is Wakashimazu
+- Player 21 is Lennart
+
+Thanks a lot to Pugsy and Ugetab, and all the cool people at GSHI. Without their support, I never could make this hack possible.
+
+http://www.romhacking.net/hacks/412/
+The basic stuff from the first Tsubasa game is here; you've basically got a big game of Blitzball going on. There's a lot more going for this version though, especially since you can actually see other players now! And apparently there's a lot more plot, that is, a lot more I had to fast forward through before I could actually play the game. Naturally, if you had to pick which Tsubasa Famicom game to play, I'd pick this one. So there.
+
+Reviewer - Spinner 8
+Reviewer - http://www.romhacking.net/trans/1182/
+No information online about this pirate game.  ~Rx
+No information online about this Pirate NES game.  ~Rx
+The clock ticks down. The roar of the crowd rises in a deafening chant of "U-S-A! U-S-A!" Suddenly, your winger breaks free, and spots the open man in the middle. Pass... shot... GOAL!
+
+It's America's favorite new sport, soon to become your favorite new home video game, thanks to Jaleco! Because GOAL! brings soccer to life like you've never seen it. You play with a full team of 11 players, each one rated in 7 different skill categories. You can match them against a team controlled by the computer or another player. You can even team up with a friend and match your combined skills against the best computer team. So if you want soccer at its best, tune in to the undisputed champion of home soccer software - GOAL!
+
+Gameplay - 
+The game has four modes - World Cup, Tournament, Shoot Competition, and Vs. Mode. The object of the game is the same as in real football; one team must score more goals than the other to win.
+
+In World Cup mode, players must choose one of sixteen international football teams and compete to advance to the finals. The teams are - Algeria, Argentina, Belgium, Brazil, Denmark, England, France, Germany, Italy, Japan, the Netherlands, Poland, Spain, Uruguay, United States, and the USSR. 
+
+In Tournament mode, players must choose one of eight American teams and compete in a standard single elimination tournament. 
+
+In Shoot Competition mode, players must choose one of three characters and try to score as many shots out of five as possible. 
+
+In Vs. Mode, two human players face off against each other. 
+
+When playing World Cup or Tournament mode with two players, the players can either play on the same team or against each other.
+
+http://en.wikipedia.org/wiki/Goal!_(video_game)
+Goal! Two is the sequel to Goal!. It is a football/soccer game for one or two players and changed the top-down perspective from the first game to an angled overhead point of view with a scrolling screen. Play modes include a single-player "Super Cup" tournament and several single-game options, including two players against the CPU.
+
+Eight additional teams have been added, increasing the roster to 24, but some club teams have been taken out. The game modes include Exhibition Match and Super Cup (tournament). The 2-on-2 Shootout mode from the previous game has been removed. A new ability allows the player to choose 11 players from a squad of 15, with different characteristics.
+
+http://www.mobygames.com/game/nes/goal-two
+J-League Fighting Soccer - The King of Ace Strikers is a Soccer Sim game, developed by Graphic Research and published by IGS, which was released in Japan in 1993.
+
+http://www.gamefaqs.com/console/nes/home/570721.html
+J-League Super Top Players is a Soccer Sim game, published by Bandai, which was released in Japan in 1994.
+
+http://www.gamefaqs.com/console/nes/home/570738.html
+This is a complete translation patch for the soccer/football game.
+
+http://www.romhacking.net/trans/1363/
+J-League Winning Goal is a Soccer Sim game, developed by GRC and published by Electronic Arts Victor, which was released in Japan in 1994.
+
+http://www.gamefaqs.com/console/nes/home/570741.html
+Kick Off was the first football game of its kind, having a top down view and unlike other football games of that time the ball was not glued to the feet of the players. Playing Kick Off requires skills in boll control. There is an option to learn these skills without being harassed by the opposition. The set pieces like corner kicks, passing, sliding tackles and dribbling can be practiced to perfection. Each player on the pitch has a unique combination of 4 attributes, namely Pace, Stamina, Accuracy and Aggression. As you progress you will need to adapt to to different types of players. You can play in a league consisting of 8 teams. The teams in the league are on the whole evenly matched but have different styles of play with players attribute to match that style. There is 12 different referees in the game.
+
+http://www.mobygames.com/game/nes/kick-off
+Konami's Hyper Soccer is a soccer game in the Hyper Sports series. This is an action game for one or two players against the computer or each other.
+
+You can play the game in tournament mode or play just one match in demonstration mode. You can choose from several different national teams, select the start formation of the team and other player parameters as speed, technique, offense, defense, kick and even luck.
+
+Soccer features throw-ins, goal kicks, corner kicks, penalty kicks and an overhead view of the field which scrolls to follow the action.
+
+http://www.mobygames.com/game/nes/konami-hyper-soccer
+Like almost everything Technos has ever made, Kunio Kun Soccer is a tribute to violence. It's a sequel to World Cup Soccer, which is the American bastardization of another Kunio game.
+
+Along with all the normal violence you'd come to expect from a Kunio sports game (namely, the ability to beat up other players to gain possession of the ball), this game offers some other interesting features. You have some weather effects, which make things more difficult by adding stuff like wind gusts and lightning strikes (which fry anyone who happens to be standing in a puddle). ALl the weather effects seem to tax the NES, however  thanks to good old slowdown. YOu also get to strategize, and tell the other players what to do, though most oftne they'll ignore you and run in circles and pass the ball to absolutely no one.
+
+It's an alright game, but there's probably much more soccer fun to be had elsewhere.
+
+Translation Description - 
+Well, as far as everybody knows, there is no Japanese left in this game. It's definitely playable, all the menus and such are in english and readable. However, the nitpicky-ness in me must point out the non-menu stuff sounds kind of odd, and there are plenty abbreviations which seem to be the result of a lack of screen real estate. Given that fixing all that would require major-league reprogramming, you can't totally knock PentarouZero for it. In short  it's playable.
+
+~Version 1.2 adds some fixes and such~
+
+Reviewer - wraith
+http://www.romhacking.net/trans/569/
+World Cup Soccer was produced by the same company that made River City Ransom (American Technos), licensed by Nintendo for a US release. The japanese name for this game is Nekketsu Koukou Dodgeball-bu Soccer-hen.
+
+http://www.nesguide.com/games/worldcupsoccer/
+This hack allows any of the thirteen teams in the game to be used in VS Match Mode with the proper graphics and statistics. In order to accomplish this, it expands the CHR-ROM portion of the ROM file to create space for the graphics of the team combinations not originally present. It replaces the team select screen from VS Match Mode with the one from Tournament Mode. It also changes the palette used when both players select the same team so that the second team does not use the palette of England. This is done for clarity in case both players elect to play as England.
+
+http://www.romhacking.net/hacks/414/
+Power Soccer is a Soccer game, developed and published by Tokuma Shoten, which was released in Japan in 1990.
+
+http://www.gamefaqs.com/console/nes/home/579579.html
+Soccer is an action game for two players or one player against the computer. You can play the game in one of five skill levels, choose from several different teams, and select the amount of time the match will take. Soccer features throw-ins, goal kicks, corner kicks, penalty kicks and an overhead view of the field which scrolls to follow the action.
+
+http://www.mobygames.com/game/nes/soccer
+Soccer League - Winner's Cup is a Soccer Sim game, developed and published by Data East, which was released in Japan in 1988.
+
+http://www.gamefaqs.com/console/nes/home/578626.html
+Tecmo Cup Soccer Game (known as Captain Tsubasa in Japan) is a video game for the Nintendo Entertainment System. Released in 1992 by Tecmo, it is a football (soccer) game. In the game you must fight your way from junior league all the way to the finals of World Cup.
+
+Tecmo Cup Soccer Game is a heavily Americanized version of Japanese Captain Tsubasa football (soccer) game released for the Famicom system, featuring a different main character, a different introduction and more western-looking players. The game contains elements from role-playing games as the players have skill levels and are mostly controlled by different kinds of text commands. Because of the unusual interface and presentation, Tecmo Cup Soccer Game did not attract casual gamers in its time and therefore had a relatively small fanbase.
+
+Controls - Control Pad - move selected player
+A button - confirm selection
+B button - bring up menu while in possession/cancel selection
+Start - pause game
+
+http://en.wikipedia.org/wiki/Tecmo_Cup_Soccer_Game
+Tecmo Cup Soccer Game (known as Captain Tsubasa in Japan) is a video game for the Nintendo Entertainment System. Released in 1992 by Tecmo, it is a football (soccer) game. In the game you must fight your way from junior league all the way to the finals of World Cup.
+
+Tecmo Cup Soccer Game is a heavily Americanized version of Japanese Captain Tsubasa football (soccer) game released for the Famicom system, featuring a different main character, a different introduction and more western-looking players. The game contains elements from role-playing games as the players have skill levels and are mostly controlled by different kinds of text commands. Because of the unusual interface and presentation, Tecmo Cup Soccer Game did not attract casual gamers in its time and therefore had a relatively small fanbase.
+
+Controls - Control Pad - move selected player
+A button - confirm selection
+B button - bring up menu while in possession/cancel selection
+Start - pause game
+
+http://en.wikipedia.org/wiki/Tecmo_Cup_Soccer_Game
+Sixteen unique representative teams compete for the world championship. Can the team you choose get an amazing 15 consecutive wins and become the best in the world? You yourself actually control all 11 players on the screen! Control various techniques such as the sliding and overhead shots, as well as the running directions! TECMO WORLD CUP SOCCER is packed full of the exciting world of soccer. With a wide variety of ball control techniques, set plays, and penalty kick shoot-offs, anyone can become a superstar in no time!
+
+http://www.gamefaqs.com/console/nes/home/587687.html
+Yes it's ULTIMATE LEAGUE SOCCER with one of the highest stakes in international sport. Get into the action of Ultimate League Soccer, made up of the top players from around the world, play soccer with more power and determination than it's ever been seen in the history of the game. Now you can join these great international players as they compete in the most exciting sport ever. Choose from eight of the world's top teams. Play against the computer or take on a friend in a head to head contest of skill that will challenge you as never before.
+
+http://www.gamefaqs.com/console/nes/home/587745.html
+Soccer is an sports game for two players or one player against the computer. You can play the game in one of five skill levels, choose from several different teams, and select the amount of time the match will take. Soccer features throw-ins, goal kicks, corner kicks, penalty kicks and an overhead view of the field which scrolls to follow the action.
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.mobygames.com/game/nes/soccer
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

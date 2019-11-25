@@ -1,0 +1,3 @@
+Converted from BBC Micro.
+
+Press keys 1, 2 and 3 to control game speed.

@@ -1,0 +1,365 @@
+#!/bin/sh
+
+# enable joypad support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/pacolecorc
+# set some vars as defaults
+export FULLSCREENGUI='';
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.zip$|\.col$|\.rom$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_coleco' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "PAcoleco $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: pacoleco [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	DMODE="Default"
+	DSCALE="Default"
+	VSYNC="false"
+	AUTOFA="false"
+	AUTOFB="false"
+	WORD1=""
+
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAcoleco config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	echo DMODE="$DMODE" >> $CONFIG
+	echo DSCALE="$DSCALE" >> $CONFIG
+	echo VSYNC="$VSYNC" >> $CONFIG
+	echo AUTOFA="$AUTOFA" >> $CONFIG
+	echo AUTOFB="$AUTOFB" >> $CONFIG
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	# set vsync
+	if [ "$VSYNC" = true ];then
+	  C="-sync 60"
+	else
+	  C="-nosync"
+	fi
+
+	# set graphics mode
+	if [ "$DMODE" = "Bilinear" ];then
+	  C="$C -soft"
+	elif [ "$DMODE" = "Scanlines" ];then
+	  C="$C -tv"
+	elif [ "$DMODE" = "Bilinear/Scanlines" ];then
+	  C="$C -soft -tv"
+	else
+	  C="$C"
+	fi
+
+	# set graphics scale
+	if [ "$DSCALE" = "2x" ];then
+	  C="$C -scale 2"
+	elif [ "$DSCALE" = "3x" ];then
+	  C="$C -scale 3"
+	elif [ "$DSCALE" = "4x" ];then
+	  C="$C -scale 4"
+	else
+	  C="$C -scale 1"
+	fi
+
+	# set auto button A
+	if [ "$AUTOFA" = true ];then
+	  C="$C -autoa"
+	else
+	  C="$C -noautoa"
+	fi
+
+	# set auto button B
+	if [ $AUTOFB = true ];then
+	  C="$C -autob"
+	else
+	  C="$C -noautob"
+	fi
+
+	# enable joypad support
+	rejoystick1cc --load --profile coleco &>/dev/null
+	rejoystick2cc --load --profile coleco &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	echo "/usr/local/colem/colem32 -home /usr/local/colem $C $WORD1 \"$DIR$CHOOSER\""  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad support
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo -e 'Select a valid ROM the browser and execute' > $WORKDIR/info
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${COLECO_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+#build gui
+S='
+<window title="Puppy Arcade - ColecoVision loader" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+
+## S E T T I N G S
+
+	<vbox>
+
+	<frame>
+
+		<frame Display Options:>
+
+			<hbox>
+				<text>
+				<label>Filter:</label>
+				</text>
+				<combobox width-request="300" tooltip-text="Choose your display mode">
+				<variable>DMODE</variable>
+				'$DMODE_ITEMS'
+				</combobox>   
+			</hbox>
+			
+			<hbox>
+				<text>
+				<label>Scale:</label>
+				</text>
+				<combobox tooltip-text="Scale 4x is about the same as a fullscreen 1024x768 window.">
+				   <variable>DSCALE</variable>
+				   '$DSCALE_ITEMS'
+				</combobox>   
+				<checkbox tooltip-text="This will stop any graphical tears on the game">
+				<label>Enable Vsync</label>
+				<variable>VSYNC</variable>
+				<default>"'$VSYNC'"</default>
+				</checkbox>
+			</hbox>
+		
+		</frame>
+
+		<frame Control Options:>
+		  <hbox>
+			 <checkbox width-request="350" tooltip-text="Enable auto-fire for Button A">
+			  <label>Check the box to enable autofire A</label>
+			  <variable>AUTOFA</variable>
+			  <default>"'$AUTOFA'"</default>
+			</checkbox>
+		  </hbox>
+		  <hbox>
+			 <checkbox width-request="350" tooltip-text="Enable auto-fire for Button B">
+			  <label>Check the box to enable autofire B</label>
+			  <variable>AUTOFB</variable>
+			  <default>"'$AUTOFB'"</default>
+			</checkbox>
+		  </hbox>
+		</frame>
+
+		<frame Entry box for custom tags>
+			<hbox>
+		  		<entry editable="true">
+		  			<variable>WORD1</variable>
+			  		<default>"'$WORD1'"</default>
+		   		</entry>
+			  </hbox>
+		 </frame>
+ 
+	</frame>
+	</vbox>
+
+## H E L P
+
+	<vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Colem Help:
+=======================
+[ALT]          - Hold to switch to the second controller
+[SPACE]        - FIRE-R button (also: [SHIFT],A,S,D,F,G,H,J,K,L)
+[CONTROL]      - FIRE-L button (also: Z,X,C,V,B,N,M)
+[Q]            - SuperAction PURPLE button (also: E,T,U,O)
+[W]            - SuperAction BLUE button (also: R,Y,I,P)
+[0]-[9]        - Digit buttons
+[-]            - [*] button
+[=]            - [#] button
+[PGUP]         - Fast-forward emulation (also: [F9])
+[ESC]          - Quit emulation (also: [F12])
+[F2]           - Turn soundtrack log on/off
+[F3]           - Toggle FIRE-R autofire on/off
+[F4]           - Toggle FIRE-L autofire on/off
+[F5]           - Invoke configuration menu
+[F6]           - Load emulation state
+[F7]           - Save emulation state
+[F9]           - Fast-forward emulation (also: [PGUP])
+[F11]          - Reset hardware
+[F12]          - Quit emulation (also: [ESC])
+[ALT]+[PGUP]   - Increase audio volume
+[ALT]+[PGDOWN] - Decrease audio volume
+"</default>
+	</edit>		
+	</vbox>
+
+	</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaultbrowser /usr/local/colem/ColEm.html &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+  </vbox>
+</window>'
+
+export pacoleco="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p pacoleco $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset pacoleco
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

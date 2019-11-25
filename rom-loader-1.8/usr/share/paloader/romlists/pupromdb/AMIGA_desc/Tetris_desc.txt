@@ -1,0 +1,12 @@
+Based on 1985 AcademySoft Electronica 60 and 1985/86 AcademySoft PC pre-commercial releases. Based on 1987 Spectrum HoloByte PC/Tandy commercial release.
+
+Licensed game based on the pre-commercial version of TETRIS ? 1985/86 AcademySoft, ? 1987 V/O Electronorgtechnica (ELORG).
+Spectrum HoloByte (Sphere) sub-licensed TETRIS to Infogrames for European publication.
+TETRIS includes a quit back to WB option.
+Last known release: V1.1 [11-Mar-89 (Infogrames) or 16-Feb-90 (Spectrum HoloByte)]
+
+TETRIS was originally designed & written in 1985 on the Electronica 60 by computer engineer, Alexey Pajitnov (Pazhitnov). It was inspired by a puzzle game, Pentaminoes, conceived by mathematician Solomon W. Golomb in 1953, which involves arranging puzzle pieces made of five squares. In 1985, TETRIS was ported to the PC by 16 year-old high school student, Vadim Gerasimov, who worked with Pajitnov at the Computer Centre (AcademySoft) of the Russian Academy of Sciences in Moscow. In 1985/86, Pajitnov & Gerasimov continued TETRIS development by adding extra features, which culminated in the final pre-commercial release, TETRIS V3.12. 
+
+Pajitnov attempted to sell TETRIS together with a 2-player version for the PC, but failed. Free copies of the games were given to friends, which led to the game being ported in 1986 to the Apple II & C64 by Hungarian coders. This attracted the attention of Robert Stein, president of UK software publisher, Andromeda, who proceeded to license the computer rights for TETRIS in July 1986 to Mirrorsoft UK and its US affiliate, Spectrum HoloByte, before officially securing them. Stein eventually secured a license to the computer rights in June 1987 after an offer for all the rights was rejected by Pajitnov in November 1986. In the meantime, the first commercial version of TETRIS had already been released by Spectrum HoloByte and Mirrorsoft for the PC.
+
+http://hol.abime.net/1359

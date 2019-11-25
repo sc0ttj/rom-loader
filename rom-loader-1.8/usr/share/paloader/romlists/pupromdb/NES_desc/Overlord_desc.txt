@@ -1,0 +1,27 @@
+Go to up to four different galaxies, fight evil aliens in their spaceships, and eventually conquer their starbase so that the humans can colonize the entire universe.
+
+This game is similar to SimEarth except currency is used instead of natural planet energy and wars are manually controlled by the player, instead of being waged out automatically by the CPU. The more advanced the galaxy is and the harder the warlord is, the more freedom the player receives in purchasing spaceships. Also, a player must watch the energy and food usage of his colonists (because a growing population means more tax dollars that can be re-routed to headquarters).
+
+http://www.nesguide.com/games/overlord/
+*
+********************************************** P **********************************************
+*
+74cbadb7,b221f49f
+P'radikus Conflict
+Platform - Nintendo Entertainment System
+Region - USA (Unlicensed)
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Shooter
+Release Year - 1990
+Developer - Color Dreams
+Manufacturer - Color Dreams
+Players - 1
+@END
+One day, the peaceful nation of the Lextorians discovers the planet P'radikus, where numerous uncivilized tribes are constantly at war with one another. When they steal a spaceship and start to expand their wars across the solar systems, you are trained by the elders to halt their dominance and destroy the home planet with a secret weapon known as "Thunderbolt".
+
+Using the typical thrust movement from the Asteroids games, you roam space with your starship to return the peace by force. Starting as a rookie, many enemy ships need to be destroyed to earn credits that can be exchanged for fuel, armor, weapons, shields and warp drives. The commander instructs you with specific missions, such as destroying outposts or freeing alien groups. However, your ultimate goal is to find the Toson Drive, the only device powerful enough to reach P'radikus.
+
+To spice things up, there are many weapons such as shock waves, mines, missiles, cloaking devices and atomic cannons. As your fuel constantly depletes, you often need to orbit new planets to refuel and stock weapons.
+
+http://www.nesguide.com/games/pradikusconflict/

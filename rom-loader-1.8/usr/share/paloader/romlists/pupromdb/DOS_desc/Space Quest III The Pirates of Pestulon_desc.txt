@@ -1,0 +1,17 @@
+Narrowly escaping the events of Space Quest II: Vohaul's Revenge, Roger Wilco's escape pod floats through space. As just another metallic item of junk, it's soon picked up by an interstellar garbage hauler. Waking up in a pile of trash, quite familiar for this janitor-turned-hero, Roger Wilco must somehow escape. Once given access to the rest of the galaxy, he'll soon find himself having to avoid a collections cyborg for payments overdue, dealing with the corporate prison of software company Scummsoft, and having to digest the greasy food from the galaxy's finest hamburger joint. All this and he might be expected to get the high score playing Astro Chicken (tm) also!
+
+Space Quest 3 is a graphical adventure. The mouse is functional for movement and inventory access, however the game primarily relies on a text parser for specific commands and manipulation of objects on screen. In addition to the regular game, there is also a simple non-scrolling Astro Chicken game that's playable, as well as a radar screen representation for ship-to-ship space combat.
+
+Trivia:
+
+The logo for Scum Soft is a spoof of the logo for Strategic Simulations Inc, which was a popular software company back at the time that Space Quest 3 was released.
+
+This is the first Space Quest game to make use of digitized speech, although it's only in one small part of the game. During the game's introduction you can hear Roger say "Where I am?"
+
+There's a TIE fighter (from Star Wars) in the garbage ship. However, it's been renamed to a bow-tie fighter from the cologne wars (the original movie mentions the Clone Wars). 
+
+Also in the garbage ship, the ship Jupiter 2 is from the old "Lost in Space" series. 
+
+Fester has a postcard from Arrakis in his shop. Arrakis is the planet from the movie "Dune". 
+
+http://www.mobygames.com/game/space-quest-iii-the-pirates-of-pestulon

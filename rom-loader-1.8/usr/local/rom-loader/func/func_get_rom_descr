@@ -1,0 +1,32 @@
+#!/bin/sh
+# get the description of the current rom, stored in a text file of a matching name
+get_rom_descr() {
+	if [ "$CHOOSER" != ".."  -a -d "/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc" ];then
+		romname="${CHOOSER%.*}"
+		romname="`sanitise_romname \"$romname\"`"
+		#romname="`basename \"$romname\"`"
+		export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname}_desc.txt\" 2>/dev/null | sort | head -1`"
+
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"*${romname}_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname}*_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname//2/II}*_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname//3/III}*_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname//4/IV}*_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname// the / }*_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname#*:}*_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"${romname#*-}*_desc.txt\" 2>/dev/null | sort | head -1`"
+		[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"*${romname}*_desc.txt\" 2>/dev/null | sort | head -1`"
+
+		# if we found no extra info .. lets try a few more searches, just in case.. 
+		if [ ! -f "$desc_file" ];then
+			newsearch="$romname" 
+			for x in 1 2
+			do
+				#remove the last word, try again.. repeat.. 
+				newsearch="${newsearch% *}"
+				[ ! -f "$desc_file" ] && export desc_file="`find \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc\" -iname \"*${newsearch}*_desc.txt\" 2>/dev/null | sort | head -1`" || break
+			done
+		fi		
+
+	fi	
+}

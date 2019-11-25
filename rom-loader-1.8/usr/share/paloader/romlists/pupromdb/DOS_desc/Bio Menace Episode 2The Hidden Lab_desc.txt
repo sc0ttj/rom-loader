@@ -1,0 +1,24 @@
+The CIA has learned that gigantic mutants are wreaking havoc in Metro City and their sources say that the destruction is caused by a scientist calling himself Dr. Mangle. For this reason, they send Snake Logan, the CIA's top secret agent, on a dangerous mission: fly over Metro City, investigate what’s going on, then report back to the captain. Unfortunately, Snake’s plane is shot down, forcing Snake to walk the streets and kill mutants.
+
+There are three episodes in this game: In “Dr. Mangle's Lab” and “The Hidden Lab”, Snake must destroy two labs and Dr. Mangle himself. Just before he dies, Mangle tells him that he is forced by somebody known as Master Cain to do his bidding, or he would be killed, so in “Master Cain”, Snake sets out and destroy the creator himself.
+
+All three episodes use the Commander Keen engine, which id Software used. It has a similar score box located at the top-left of the action screen, same menu system, same on-line help, and the same start-up screen where the game detects your sound card, video card, I/O devices, and the amount of memory you have. It even allows you to view the old status screen if you press [Space] during gameplay.
+
+But the only differences are that Snake has eight units of health, so each time Snake collides with a mutant, he doesn’t get killed straight away unless he had one unit left. There are 12 levels in each episode. When you start a new game, as well as choosing the three difficulty modes, you get to practice every level except the very last one, which is the episode’s final boss.
+
+Snake can use more than one weapon. For example, beside his trusty machine gun, he can also use lasers to fire through mutants, place land mines on the ground or throw grenades to blow them up.
+
+Snake has to make his way through each level by blasting mutants while finding the exit. But to find it, he must first free a hostage located on each level. Some parts of each level are blocked off by a laser gate, and these include passages where the hostages are kept. To turn these off, Snake must search for a keycard or a crystal shard. There are lockers which store these, and can only be opened by obtaining gold keys.
+
+Also in these locked doors are goodies that can boost your score, which could give you an extra life. You can also get an extra life by either collecting 50 gems or a mini-Snake. A few of the levels have a color sequence. This involves finding five different colors in a line, and then finding five switches that must be flipped in the correct order that corresponds to the sequence of colors. Doing this will allow you to get goodies that add many points to your score. However, failure to switch in the correct order will result in Snake falling down a pit of spikes or toxic waste. In some areas, you can also get a flask full of liquid that will make your invincible for 30 seconds. As normally, it does not work when Snake falls down a pit.
+
+Trivia:
+
+Among the hostages you have to save is Commander Keen, from id Software's series of games of the same name. When you rescue him (he's on level 6 of the 2nd episode) you say "Just doing my duty, Captain Keen" to which he replies "It's COMMANDER Keen!" For the curious, people mixing up Commander Keen's title is one of the in-jokes of the series.
+
+On December 23, 2005, Apogee/3D Realms made this game available as freeware. It was a "Christmas present" to their fans. The full registered game contains all three episodes and can be downloaded from their FTP server.
+
+It took two years to create the game, mainly because Jim Norwood created practically every asset on his own, from game code, to art, to sound, to level design. The one significant area not created by Norwood is the game's engine. It was created by id Software, and was the engine original used for the second trilogy of Commander Keen games, starting with "Goodbye, Galaxy."
+
+
+http://www.mobygames.com/game/dos/bio-menace

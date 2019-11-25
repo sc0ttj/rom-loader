@@ -1,0 +1,7 @@
+You're on a jungle safari packed full of wild and zany adventures. Climb the cliffs to the top of Monkey Mountain as you try to reach the jungle's most mischievous gorilla. Don't get clobbered by the coconuts he'll throw your way. Watch out for menacing monkeys. Beyond Monkey Mountain you'll come to Lazy Lake where you'll see raging rhinos and hollering hippos. Leap from lily pad to lily pad across the treacherous lake filled with ferocious man-eating fish and other jungle dangers, but be careful... one slip and it's safari heaven!
+
+An extremely faithful port of the famous jump-n-run platform arcade game. Run, jump, and climb your way through a dangerous jungle while avoiding various animals and projectiles.
+
+Includes the introductory animations and features the arcade version's sliding screen transitions.
+
+http://www.mobygames.com/game/atari-5200/congo-bongo

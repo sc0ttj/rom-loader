@@ -1,0 +1,3 @@
+The goal of the game was to drive the tank around the playfield, collecting ten flags by driving over them, while avoiding obstacles (including rotating windmills) and the shots of computer-generated enemy tanks.
+
+http://en.wikipedia.org/wiki/Spectre_(video_game)

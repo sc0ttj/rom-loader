@@ -1,0 +1,3 @@
+A top view racing game. You have to reach the finish line before time reaches out. Don't crash into the wall, cars or trucks. Because if you do you will loose gasoline. You can get additional gasoline by picking up the hearts. Especially avoid the purple cars, they do change lanes! And remember... oil makes road slippery...
+
+http://www.mobygames.com/game/nes/road-fighter

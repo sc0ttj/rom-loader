@@ -1,0 +1,76 @@
+Wizkid is the sequel to Wizball.
+
+This game deviates from the original in many ways. The screen does not scroll and Wizkid does not bounce around like his predecessor. You have full control over Wizkid and his movements. You have to move him around the screen, bashing into bricks (which comes in different shapes and sizes) so that the flying bricks collide with the onscreen enemies. Once you have cleared the screen of all the enemies, coins are dropped. You must pick these up quickly before the disappear and you proceed to the next screen. 
+
+Killing multiple enemies with a single brick releases a bubble. this will sometimes offer a nose (to juggle bricks) or teeth (letting you grab hold of bricks), but more often it releases a coloured bubble. These go together to form tunes, as patterned at the top of the screen. Once you complete a tune, you are taken to a shop where you can buy items needed to progress to the next stage.
+
+If you bash all the bricks on a screen and haven't removed all the enemies, you are often taken to a puzzle screen, where you must solve Crossword 2091 for bonus money. You have a number of words you must put on the screen but they must all overlap each other and use each other's letters. Each move has a time limit. If you don't complete it you are taken back to the game.
+
+Wizkid also features pockets in which you can store items. When exiting a shop you can choose either to exit as a head, or a body, which is Wizkid with arms and legs. You are now limited by gravity and can jump around and use onscreen objects such as ringing bells or cranking wells. You may also come across interactive elements which you will need to use with items in your pockets. You will need to solve puzzles to complete most levels.
+ 
+http://www.mobygames.com/game/amiga/wizkid-the-story-of-wizball-ii
+_________________________
+CHEATS:
+
+Unlimited money:
+Enter to the shop with all five stars and over a hundred
+pounds. Purchase another star to receive an extra hundred pounds.
+Note: This may also be done by bringing the balloon back to the
+shop before buying another balloon. Repeat this as much as needed
+to get unlimited money.
+
+Cheat mode:
+A hidden room in the first section of the game serves
+as a cheat mode. Purchase the token from the shop and exit as
+the body. Climb down the well and enter the men's bathroom. Use
+the token on the bubble gum machine and to fly up to a secret
+room with another men's bathroom door and an exit. Enter the bathroom
+door to appear in a room with a women's and men's bathroom door.
+Move over to the far right and enter an invisible door at that
+location. Finally, enter the men's room door and use the following
+door patters to advance to the corresponding game level or activate
+the corresponding cheat function. Note: If the wrong door is chosen,
+or to return to the first screen, enter the invisible door to
+the far right.
+
+Effect: Room
+Doors
+
+Level 2: 046
+Ladies, Mens, Mens, Mens, Ladies
+
+Level 3: 051
+Mens, Ladies, Ladies, Mens, Mens
+
+Level 4: 058
+Mens, Mens, Ladies, Mens, Ladies
+
+Level 5: 067
+Ladies, Ladies, Ladies, Ladies, Mens, Mens
+
+Level 6: 078
+Ladies, Ladies, Mens, Mens, Mens, Ladies
+
+Level 7: 091
+Ladies, Mens, Mens, Ladies, Mens, Mens
+
+Level 8: 106
+Mens, Ladies, Mens, Ladies, Mens, Ladies
+
+Level 9: 123
+Mens, Mens, Mens, Ladies, Mens, Mens
+
+Continue option: 124 
+Mens, Mens, Mens, Mens, Ladies, Ladies
+
+Sound test: 076
+Ladies, Ladies, Mens, Mens, Ladies, Ladies
+
+Wizardoids mini-game: 206 
+Mens, Ladies, Ladies, Mens, Mens, Mens, Ladies
+
+Warp equation: 102
+Mens, Ladies, Ladies, Mens, Mens, Ladies
+
+Game clue: 099
+Mens, Ladies, Ladies, Ladies, Mens, Mens

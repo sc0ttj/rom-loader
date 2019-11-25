@@ -1,0 +1,59 @@
+Your ship has crash landed on an odd sticky slime planet appropriately named Slime World! Now it is your objective to escape, intact, and stay very alive.
+
+Directions:
+
+Using your squirt gun, jet pack and slime shield try escaping Slime World without being killed by the horrible toxic slime. Watch out for enemies that will eat you, and especially their slime. Make it out alive!
+
+Gameplay:
+
+Players in Slime World are armed with a water cannon that can be fired at many angles and can kill most enemies in one hit, and they can also cling to and climb most walls, as well as perform high and long jumps. Although nominally an action game, many rooms require excellent knowledge of the player's abilities and can only be navigated in certain ways, frequently giving it an air of a puzzle game.
+
+The design of Slime World is especially unique for its use of carefully moderated levels of danger. A player can sustain ordinary damage from many sources, and it adds up quickly, but there are also common invulnerability shields and pools of water that remove all damage taken when used. But there are also red enemies that, when shot, result in a spray of red slime that can instantly kill even a shielded player, creating circumstances when it is best not to shoot foes.
+
+There is also a type of enemy called a Hidden Snapper, that instantly kills players that step over it. Snappers are often undetectable until triggered, and instantly fatal if set off. Canny players, however, may often detect subtle design cues left in the world by the designer, and safely jump over the lethal spots of ground. Players (usually) have infinite lives to explore the world, but lose all their inventory items and are also sent back to the last checkpoint arrow passed.
+
+The game contains seven "levels" that are more akin to game variations, each possessing not just its own map but its own variation on the basic rules. The variations are:
+
+    - Easy: A relatively simple mode with little red slime or snapjaws, good for learning the game.
+
+    - Exploration: Players are given a huge map with a great number of secret passages, and many enemies.
+
+    - Action: The hardest level in terms of enemy opposition.
+
+    - Logic: A slower-paced, solo-only mode in which the water gun doesn't work. Players must instead avoid, dodge or outrun foes, or find other ways of defeating them like mega bombs. While checkpoint arrows work, everything else in the world is reset when you die.
+
+    - Suspense: The player is given a severe time limit within which to escape Slime World. It starts at 3 minutes, but it can be extended by one minute for each mushroom collected. While the route to the exit is mostly linear, there are a number of false routes to confound players.
+
+    - Combat: Most of the modes can be played cooperatively, but this one is competitive. Everyone gets five lives, and the last player in the game wins. Players may find slime guns to replace their water guns, that are capable of directly harming the other players. There are also other weapons to use, with room-destroying mega bombs at the top of the list. The Combat map is also just as packed with environmental dangers as the other modes.
+
+    - Arcade: The greatest challenge of Slime World, in this mode the map is almost as dangerous as Action, but the checkpoint arrows don't work. While the map is shorter than some of the other modes, it's still fairly substantial, and the player must start over from the beginning every time a life is lost. In the Lynx version of the game, there is a second, secret exit from the map that, if found, gives the player an address to write to at Epyx Games for a special reward.
+
+The items in the game are:
+
+    - Slime Gem: Very common items that award a large score bonus and also heal the player a bit.
+
+    - Red Slime Gem: Rarer bonus item that awards a tremendous number of points, completely heals the player and gives him an invincibility shield for a while, but if accidentally shot, pops in a spray of deadly red slime.
+
+    - Triple Shot: Upgrades the water gun to fire three streams of water, useful for tough foes and crowded rooms.
+
+    - Slime Gun: Changes the player's ammo to slime, capable of harming the other players instead of cleaning them off. Strangely, the many slime monsters of the game are still killed by it.
+
+    - Shield: Makes the player invulnerable to slime for a limited period and completely heals all damage, but provides no protection against red slime or Snappers. (It does protect against red monsters, though.)
+
+    - Cleanser: Permanently turns a pool of normal, damaging slime into pure water, capable of healing the player.
+
+    - Enemy Bait: Draws enemies in the room to its location, where they are killed automatically. Doesn't work on some monsters, and red monsters still burst in a spray of red slime when killed in this way.
+
+    - Mega Bomb: When used, is thrown onto the ground a short distance in front of the player, waits a few seconds, then destroys everything in its room in a gigantic explosion. While the explosion doesn't work on Hidden Snappers (since they lurk in the ground, not in the room), everything else in the game can be destroyed by bombs: monsters, players, items, pools of slime and water, and even checkpoint arrows.
+
+    - Jet Pack: Gives the player the ability to fly for a limited time. Players cannot fire while flying, and pools are incredibly dangerous while using a Jet Pack, causing an explosion like a Mega Bomb if one is flown into liquid.
+
+Controls:
+
+A Button: Computer
+B Button: Shoot
+C Button: Jump
+Start Button: Pause
+
+http://www.consoleclassix.com/genesis/todds_adventures_in_slime_world.html
+http://en.wikipedia.org/wiki/Todd%27s_Adventures_in_Slime_World

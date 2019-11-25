@@ -1,0 +1,33 @@
+The UFOs are invading our skies! Reports of human and bovine abductions are increasing daily! Cities are terrorized! Something must be done!
+
+XCOM, or eXtraterrestrial COMbat unit, was founded as an international force to combat the alien menace. Start with one base, two fighters, one transport, and a few soldiers, you must stop the alien threat... once and for all.
+
+X-COM: UFO Defense is a strategy game featuring separate but interlinked elements. On the strategic side, called GeoScape, you get a rotating view of the globe, where you see all visible UFOs (those that are within your detection range) as well as major cities and your base(s). You order movements from here, such as sending out fighters to intercept UFOs, transports with soldiers to assault/recover UFOs, and perhaps assaults on alien bases (if you find any). You also control your research, as you must invent better weapons (the Terran weapons are just no match against the alien weapons) quickly, not to mention all the other cool tech you can recover from the aliens. You also need to control your budget, as you can't afford to overextend your reach. Researchers need to be paid, engineers (who build the new toys) need to be paid, base(s) need to be be built/expanded, planes need to be bought/maintained, supplies need to be replenished... 
+
+You can earn money by selling unneeded stuff, and you receive funding from the nations of the world; however, a nation can decrease its funding if it decides you aren't operating efficiently enough within its region. It's even possible that a nation gets so fed up with you that it signs a pact with the aliens and ceases funding altogether. 
+
+Once you join a ground battle, the game switches to Battlescape, which is an isometric view of the battlefield with realistic line-of-sight calculations and turn-based combat. Your mission is usually extermination of all aliens on the battlefield, though if you can capture a few it would surely help your research efforts. If you win, you also recover any alien artifacts left on the field, which can then be researched.
+
+In combat, each of your soldiers has a specific number of Time Units. Doing anything (moving, shooting, turning around, rearranging objects in the inventory etc.) costs a number of TUs. Once a soldier is out of TUs, he cannot act any more this turn (he gets all his TUs back on the next turn, though). 
+
+The game aims to mix strategic considerations, resource management, and tactical combat considerations, along with plenty of authentic UFO lore.
+
+http://www.mobygames.com/game/x-com-ufo-defense
+
+Game designed by Julian & Nick Gollop.
+
+Game requires a min. 2Mb ram on AGA machines with WB 3.x. Extra memory is recommended, however, to access additional features (e.g. HD gameplay without the need for a boot disk).
+
+The U.S. release X-COM: UFO DEFENSE reportedly has fixed bugs that prevented completion of the European release.
+
+Magazine Publisher: Amiga Format no. 109 (CD no. 25), Apr 1998.
+
+The German release of the game is freely available for download HERE [Source: Amiga Land].
+
+The game initially began life as LASER SQUAD 2 on the Atari ST. Game designer Julian Gollop shared these revealing insights on the early beginnings and subsequent development of Mythos' best-selling title:
+
+'We showed a demo of Laser Squad 2 on the Atari ST to Microprose in 1991. The idea was to produce a sequel to Laser Squad but with much neater graphics using an isometric style very similar to Populous. They liked what we had done so far, but they explained that they wanted a big game. I said "what do you mean by big" and they said "well, you know  BIG". They also said that it had to be set on earth, like Civilisation or Railroad Tycoon, because people could relate to it much more. So we went away, scratched our heads and thought about it. Then we came up with the idea of adding on a grand strategic element to the game, very firmly set on earth, in which the player managed an organisation that defended the planet against UFO incursions. I bought quite a few books on UFOs for research purposes so that we could give the game an even more authentic basis.
+
+The project started reasonably well with myself and Nick designing and programming, while the art was to be done by John Reitze and Martin Smillie at MicroProse. Soon we had some problems because Microprose did not understand our game design and they asked for clarification. Several documents later we were not much better off and I had wasted a lot of time. Certain creature types were removed, including the Men In Black and others added. Then the whole project was nearly axed when MicroProse made some cutbacks due to financial difficulties. Everything proceeded reasonably smoothly for a while until Spectrum Holobyte acquired Bill Stealeys shares in the company. Our producer was made redundant and the game was nearly axed again. Finally we had to spend a couple of months working very long hours at MicroProse in Chipping Sodbury to get the game finished by the end of March in 1994' [Source: Mythos Games' old website, courtesy of the Internet Archive].
+
+http://hol.abime.net/1789

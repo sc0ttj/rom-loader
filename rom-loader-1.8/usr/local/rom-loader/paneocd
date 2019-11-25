@@ -1,0 +1,140 @@
+#! /bin/bash
+
+# enable joypad rom browsing
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+# set some vars as defaults
+export FULLSCREENGUI='';
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.iso$|\.bin$|\.cue$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f ";;
+         -v|--version)echo "PANeoCD $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: paneocd [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${NEOCD_THEME}" > /tmp/gtkrc
+export GTK2_RC_FILES=/tmp/gtkrc:/root/.gtkrc-2.0
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# check for BIOS
+if [ ! -e /usr/lib/games/neocd/neocd.bin ];then
+	. /usr/local/rom-loader/func/func_get_bios
+	get_bios_neocd
+fi
+
+export CHOOSER="
+<window title=\"PupNeoCD \"icon-name=\"gtk-cdrom\">
+<vbox>
+
+<frame Please Read:>
+<hbox>
+<text>
+<label>Please insert an actual NeoGeo CD into your CD or DVD drive before you continue.</label>
+</text>
+</hbox>
+</frame>
+
+<hbox>
+  <button>
+   <input file icon=\"gtk-ok\"></input>
+        <label>Play Now</label>
+        <action type=\"exit\">EXIT_OK</action>
+   </button>
+   <button>
+   <input file icon=\"gtk-quit\"></input>
+        <label>Exit</label>
+		<action>if [ $FULLGUI != '' ];then exec paloader -sk $FSGUI & fi</action>
+		<action type=\"exit\">EXIT_NOW</action>
+      </button>
+</hbox>
+</vbox>
+</window>
+"
+
+CHOOSER2==`gtkdialog3 --program=CHOOSER --center`
+
+if [ "`echo $CHOOSER2 | grep EXIT_NOW`" != "" ]; then
+exit 0
+fi
+
+#based on the wonderful Technosaurus's guide to gtkdialog gui for bash
+cd /usr/local/neocd
+/usr/local/neocd/neocd
+
+unset CHOOSER
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

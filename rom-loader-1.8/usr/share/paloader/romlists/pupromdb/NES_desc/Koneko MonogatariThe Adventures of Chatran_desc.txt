@@ -1,0 +1,42 @@
+Koneko Monogatari is an Adventure game, developed and published by Pony Canyon, which was released in Japan in 1986.
+
+http://www.gamefaqs.com/console/fds/home/578316.html
+*
+********************************************** L **********************************************
+*
+23d325e5
+Lutter
+Platform - Famicom Disk System
+Region - Japan (Translated)
+Media - Disk
+Controller - NES Gamepad
+Genre - Platformer
+Release Year - 2003
+Original Title - Lutter
+Translated By - Mute
+Version - 1.0
+@END
+Whoever thought crossing Lode Runner with Hydlide must have been wasted out of his mind. Oddly though, it works out pretty nice. You're a guy who runs around in this dungeon, I don't know why. You can't jump, which makes your running-around options kind of limited. There's monsters running around too, which you attack by (get this) running into them. Get enough experience from running into monsters, and you go up a level. You can also find equipment scattered around the place, which improves your abilities as well as making you look cooler.
+
+Honestly, that's pretty much it.
+
+Translation Description - 
+Well it doesn't look like there was much to translate in the first place, but what IS translated is nice enough to be indistinguishable from the rest of the English text that was in the game to begin with. And really, what more could a translator want?
+
+Reviewer - Spinner 8
+http://www.romhacking.net/trans/658/
+*
+********************************************** M **********************************************
+*
+4a3e7f59
+Mato no Hokai - The Hero of Babel
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Platformer
+Release Year - 1988
+Developer - Pony Canyon
+Manufacturer - Pony Canyon
+@END
+No information online about this game.  ~Rx

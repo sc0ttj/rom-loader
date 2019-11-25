@@ -1,0 +1,40 @@
+The game begins doing flashes of the adventures of Yusuke team, more specifically in the part where Yusuke and Kuwabara was in Tarukane's Mansion where Yukina was imprisoned and Toguro's Brothers forged your defeat and now you have to win the Black Martial Arts Tournament, with the main objective of defeat Toguro Otouto !!! Yusuke fires out his Rei Gan and it brings you to the Title Screen.
+
+http://www.gamefaqs.com/console/nes/file/570729/17097
+*
+********************************************** Z **********************************************
+*
+b8c979a4,a46959a7,ec3ffef7,91ec9101,d35e0aaf,2a007b33,2165c0c2
+Zanac
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Shoot 'em Up , Horizontal
+Release Year - 1987
+Developer - Compile
+Manufacturer - FCI, Inc.
+Players - 1
+@END
+The "system" was created by an organic intelligence body many millenniums ago and began attacking the human race. The earth was thrown into turmoil with only one hope for salvation. Fighter model AFX-6502 ZANAC was perfected by the 256th Riot Fleet to ward off the enemy system. It's your job, as ZANAC, to save the human race. Using eight special weapons and secret power forces buried along the way, guide ZANAC through 12 screens of enemy creatures to victory.
+
+Storyline - 
+First it was probably a tiny dot. A few thousand years later, it grew gigantic enough to cover the whole universe. The system created by an organic intelligence body a long time agp was still active even after the organic intelligence body perished. The system had a purpose - giving wisdom to those who opened the icon properly, and giving punishment of ruin to those who opened it improperly.
+
+One day, someone opened the icon improperly. The system started operation and startted attacking them. Then, they opened it properly. The icon ordered the system to suspend the attack. The system however ignored this order and became a slaughter device. The human beings who opened the icon fell into crisis. The attack from the system overwhelmed the offensive power of the human beings. When they were about to perish, there was one hope - the system is basically a strategic machine and is equipped for fighting against a multitude. If a single object confronts the system by itself, the system might not be able to cope with it effectively.
+
+It was a risky gamble, yet it was carried out in hope of success. They produced the fighter model AFX-6502-ZANAC which took off to begin fighting alone against the system.
+
+--From the NES Zanac instruction manual.
+
+Controls - 
+D-Pad - Move
+A - Special
+B - Fire
+Start - Pause
+Select - Not Used
+
+Hints - 
+Periodically, you will find a weapon upgrade. The Conventional Weapon is usually upgraded by collecting the POWER CHIPS dropped by Boxes. You can upgrade or switch Special Weapons by collecting the numbered bonus, which you receive, from Ground Targets or WEAPON DROPs.
+
+http://www.consoleclassix.com/nes/zanac.html

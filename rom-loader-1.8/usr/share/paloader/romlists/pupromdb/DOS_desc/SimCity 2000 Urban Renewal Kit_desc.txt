@@ -1,0 +1,14 @@
+SimCity 2000 Urban Renewal Kit is an add-on to SimCity 2000. It's an utility that allows the user to modify any prebuilt cities or design his/her own which can be loaded into SimCity 2000. Customize the buildings, terrain and artwork or create them from the scratch as you want.
+
+The DOS version of the game only works with the DOS version of SimCity 2000. The Windows version only works with the Windows SimCity 2000.
+
+Trivia:
+
+The SimCity 2000 Urban Renewal Kit (a.k.a. SCURK) was also designed for future Maxis releases which would be using SimCity 2000 cities. Here is the excerpt from the manual that tells this trivia:
+
+"Not only will SCURK help you get more out of SimCity 2000, it'll help you get more out of a number of other yet-to-be-released games as well. SCURK will work with and enhance a number of future Maxis games. You'll be able to use SCURK to create city raceways for driving simulations, targets and obstacles courses for flying simulations, and the playfields for games that...well, you'll just have to wait and see."
+
+Well, we waited and saw SimCopter (flying simulation) and Streets of SimCity (driving simulation) and we were able to import our modified creations to these games just as promised.
+
+
+http://www.mobygames.com/game/simcity-2000-urban-renewal-kit

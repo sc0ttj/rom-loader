@@ -1,0 +1,24 @@
+This horizontally-scrolling shoot 'em up features six long levels, all with detailed and mellow background graphics, aiming for a less hectic feel than contemporaries such as Project X. As a magician's apprentice, you have been turned into an owl to give you the best chance of destroying the many dark creatures to be faced, and thus discovering the secret of cosmic strength.
+
+These dark creatures include piranhas, giant ants and mosquitoes. Extra weapons and invincibility periods can be collected.  The technical details include 3 layers of multi-directional parallax scrolling, background animation, and different title and in-game music.
+ 
+http://www.mobygames.com/game/amiga/agony
+
+_________________________
+CHEATS:
+
+Type fantasy while the piano song is playing at the main title screen to enable cheat mode. Press one of the following keys to activate the corresponding cheat function.
+
+Effect
+Key
+Lower sword[F1]
+
+Upper sword[F2]
+
+Weapon power-up[F3]
+
+Extra life [F4] three times
+
+Level skip[Enter]
+
+Unknown[F5]

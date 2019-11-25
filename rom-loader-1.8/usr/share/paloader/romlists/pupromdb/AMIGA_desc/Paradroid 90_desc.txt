@@ -1,0 +1,37 @@
+Paradroid 90 is a remake of the game Paradroid (released in 1985 for the Commodore 64) for the 16bit platforms Amiga and Atari ST.
+
+A fleet of space freighters carry a cargo of battle and security robots to help in the defence of Basmyth. Alien ships were bombarding the freighters with disorienting beams which drove the robots crazy. The human officers were eliminated, leaving the ships open for occupation by alien forces. At this point the players mission starts...
+
+You control a cybernetic influence device (ID) which has been teleported aboard the first freighter to eliminate all the droids and robots. Two ways are possible to clean the ship decks representing the action part and the more strategy part of the game: Shooting (action) to destroy the robots or connecting itself into an other robot's brain (strategy) and take temporarily control of it.
+
+It's possible to play the game as a simple shoot-em-up game, but the main part of Paradroid 90 is the transfer game to take control of other droids.
+ 
+http://www.mobygames.com/game/amiga/paradroid-90
+_________________________ 
+REVIEW: 
+
+Back in 1991, I visited a friend of mine who had an Amiga. He showed me the game called Paradroid 90. I was simply impressed - wonderful colourful graphics, with nice sounds, great variety of enemies and weapons.... I knew I had some game called Paradroid at my C64 cassette at home. I hurried from my friend, found the game and... was disappointed. A short time later I sold my C64 and bought Amiga 600. Some people tell that the original C64 Paradroid is much better than the later Amiga remake. I don't think so. But I don't want to compare both versions, I only want to highlight Paradroid 90 to Amiga players.
+
+The title screen. Influence device in the middle.
+
+The story is poor, like from sci-fi B-movies: there is a fleet of ships, full of men and droids. Some unknown alien power turned droids against men and these droids eliminated the whole crew of each ship. The fleet's flagship is called USS Paradroid. To prevent the fleet and its droids to be used against a peaceful planet, one small device has been sent onto the deck of one of the ships and it should takeover the control of the fleet. The only way is to clear all the ships from revolting droids.
+
+You play - at first - the role of the Influence Device (I.D.). It is the small anti-droid unit, which is capable to take control of the other droids. The range of opponents is really wide - from basic unarmed cleaning and servant droids, through medium maintenance robots up to the security and battle machines, equipped with powerful weapons. Your basic I.D. is equipped only with weak beam, which is good against weakest droids.  But it has a powerful ability to take control over the brains of its opponents and then use their body, all their equipment, their shield, speed and knowledge. To gain this, you have to catch your opponent with a kind of tractor beam and then defeat his mind in the transfer game. When you have a sufficient weapon, you can then destroy the other droids more effectively. The aim of the game is clear all the decks and then leave the ship to get to the following one. The fleet has 5 ships + there is a bonus pirate ship.
+
+Each ship has its own deck colour scheme. On the left there are cleaner and servant.
+
+To keep the game well balanced, you are limited in usage of the droids. You can't control any of them at any time. They have a strict hierarchy, where the lowest are cleaning droids and the highest is the Command cyborg, the commander of the ship. If you want to climb up through their hierarchy and to control the droid on the higher level than you currently are, you need to have enough transfer points to win the transfer game. Basically - better droid you have, better chance you will get yet better one. You are forced to keep weaker droids alive until you are not sure you will not need them later, because stronger droids have stronger shields and weapons, but their body constantly looses energy and when this energy is out, you are automatically rejected and the body is destroyed. If you didn't find equal body in time, you are degraded back to basic weak Influence device and you have to search at least for the cleaning droid as soon as possible.
+
+The game is played from top view, you see the large area of the current ship's deck with your actual body in the centre. You can move in any direction, but the background scrolls only up and down, because the environment is only 1 screen wide. Each deck is divided by many walls and doors, the whole ship consists of several decks. Every deck is inhabited with the given amount of droids and the decks are connected by the system of lifts. When the deck is clear off droids, its lights dim. You can always check your current progress in the game in any of the ship terminals. You will see there informations about the remaining droids in the ship and at the current deck, the status of the alarm (higher status means that the droids are more aggressive, but you get more points). And you can also browse through the droids library, where you can get the detailed informations about any type of the droid on the ship, which is on the same (or less) hierarchy level. The droids differ not only in weapons and shields, but also in brains and sensors. Some have aural, some visual and other types, which determine the tactics that you have to use against them. Some can see you, so you have to approach them from their back, some can hear you, so it is not clever to use your weapons too early etc. 
+
+A difficult battle: the droids there are 734 mine layer and 476 maintenance droid who fires beams, I am 821 in the middle and under fire of the 614 sentinel droid's machine gun.
+
+For those who are annoyed by the transfer game there is an option to turn it off. It makes the game A LOT easier, but still well balanced. And there is also a secret - every ship contains a small golden key, hidden somewhere in any deck. When you complete the game with all five keys, it will bring you to the bonus sixth ship, called Pirate mothership, where you will need all your skills to fight to death. There are also other great surprises like raiders, but I don't want to disclose everything.
+
+The game has a nice and precise graphics with a good sound effects. The system of the droids hierarchy is unique and the game is also very professionally programmed, in the best Graftgold traditions. It runs on unexpanded A500, but if you have 1MB or more RAM, the game uses it for extra graphics in Droids library, which is really wonderful. Despite the 8bit original, I think this is a top sequel / remake of the C64 classic and it became a classic among the Amiga games.
+
+http://www.lemonamiga.com/
+_________________________ 
+CHEATS:
+
+Press [F3] at the title screen to display the game options.

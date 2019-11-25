@@ -1,0 +1,9 @@
+Cleanse your homeworld's city of evil as you progress toward stopping the mighty Malkor. Learn new forms as you progress, each with different abilities, to help you in your journey.
+
+The CD-ROM enhanced version features enhanced redbook audio narration, two new levels, and 3-D rendered cutscenes.
+
+Trivia:
+
+ShadowCaster used a heavily modified version of the Wolfenstein 3-D engine, licensed from id Software and written during the summer of 1992. The original ShadowCaster was published in 1993; this makes it the first commercial game released with classic "2.5D Doom engine" improvements (distance fogging, non-orthogonal walls, textured ceilings and floors) before DOOM itself came out.
+
+http://www.mobygames.com/game/dos/shadowcaster

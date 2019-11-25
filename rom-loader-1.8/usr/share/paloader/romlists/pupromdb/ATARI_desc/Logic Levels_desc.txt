@@ -1,0 +1,3 @@
+Based on the LLV-AT coin-op. Get the ball from the top floor to the bottom by placing trapdoors, walls, springs, etc. into the proper positions. An awful lot like Linking Logic but you have control over the parts you place once things are set in motion.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=7646

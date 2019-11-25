@@ -1,0 +1,5 @@
+Platform game based on the Disney Animated feature of the same name.
+
+This is a Beta version of the game, development was stopped due to the introduction of newer 32bit consoles and the demise of the Genesis/Mega-Drive. Unfortunately it shows, poor graphics (especially for a Disney game) and sound with poor level design make this more of a curiosity than anything else.
+
+http://www.genesisproject-online.com/Genesis/L-m/Mulan.html

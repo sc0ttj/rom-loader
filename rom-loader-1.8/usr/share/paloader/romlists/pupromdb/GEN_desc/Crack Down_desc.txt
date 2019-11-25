@@ -1,0 +1,23 @@
+Crack Down is a port of an older arcade game. In it, you and a friend command two characters, and have to plant bombs in a number of sensitive facilities and escape before the time limit expires. The game is visually uninteresting, has poor sound (Especially the voices! gah!) compared to the arcade version, and isn't very replayable. The real joy comes later, once you start playing the game.
+
+There are a number of smooth control innovations that improve the gameplay -- being able to push yourself up against walls to dodge bullets, swinging doors that can be used to confuse enemies (the AI is rather lame for most enemies, and downright demonic for others). In addition, the levels are graphically diverse -- from a fight in a stereotypical military base to the crumbling rooftop of another building, and through an electrical facility to the eventual conclusion.
+
+The levels are quite obviously designed for two-player use; they are wide-open and provide two paths to complete each map, each with the same number of bomb points. Smooth teams will break up and take each path individually, whereas the lone single player with no friends will have to cut the time limit a bit closer and hoof it to every bomb point. While great in two-player mode, quite obviously this isn't something you want to concern yourself with while the clock is ticking down.
+
+The game's challenge is fairly minimal (except for one highly irritating point where you must dodge electrical bolts that are almost indistinguishable from the floor), and a variety of enemies will keep you occupied. Thankfully, the game gives you a quick readout of each type of enemy in one of the panes when you're playing in one-player mode, so you can quickly figure out which palette swap is the challenging sword-wielding kind and which kind will just shoot at you with a bazooka.
+
+Since this game is relatively cheap nowadays, you should be able to pick it up for a weekend or two of fun with your friends. It's not Shakespeare, and probably won't keep you occupied for longer than the time it takes to play it, but the game has a definite charm under its rough exterior.
+
+Controls:
+
+A Button: Change Weapon
+B Button: Shoot
+C Button: Super Bomb
+
+Hints:
+
+RELAX!
+Try not to be frustrated while playing this game. It will limit your thinking, and you will never see beyond stage 2!
+
+mrseigen
+http://www.gamefaqs.com/console/genesis/review/R73181.html

@@ -1,0 +1,607 @@
+10th Frame|NOID|D39A4E05|x|0|0|1987|No Rating|x|Paragon Programming Ltd|Sports/Bowling|UK|US Gold Ltd|media-unknown
+180|NOID|1635465|x|0|0|No Date|No Rating|x|dev-unknown|Sports/Darts|UK|No Publisher|Tape
+19 Part 1 Boot Camp|NOID|AE022874|x|0|0|1988|No Rating|x|Paul Laidlaw, Tony Warriner,|Arcade/Action|UK|Cascade Games Ltd|Tape
+1942|18641|82B77807|x|0|0|1986|No Rating|x|Syrox (Dominic Wood)|Arcade/Vertical|UK|Elite Systems Ltd|Snapshot
+1943 the Battle of Midway|NOID|C97F9144|x|0|0|1988|No Rating|x|Capcom Co., Ltd.|Shooter/Vertical|UK|Go!|Snapshot
+1985 the Day After|NOID|62D7A944|x|0|0|1985|No Rating|x|Severn Software|Shoot 'em Up|UK|Mastertronic Ltd|Tape
+1994 Ten Years After|NOID|E4584086|x|0|0|1984|No Rating|x|Kevin J. Bezant|Platformer/Fixed|UK|Visions Software Factory|Tape
+1999|NOID|DD38C276|x|0|0|1987|No Rating|x|Ice Cool Coders (Chris|Shoot 'em Up|UK|EDOS|Tape
+1st Division Manager|NOID|57FED4FA|x|0|0|1991|No Rating|x|Nick Thompson, Michael Sanderson,|Sports/Managerial|UK|Code Masters Ltd|Snapshot
+2088|NOID|DECAEB6E|x|0|0|1988|No Rating|x|Ian Beynon, Michael Owens|Shoot 'em Up|UK|Zeppelin Games Ltd|Tape
+2112 AD|NOID|CA5A76F1|x|0|0|1985|No Rating|x|Graham Stafford, Stuart Ruecroft|Arcade/Adventure|UK|Design Design Software|Tape
+3-D Monster Chase|NOID|788CB9D4|x|0|0|1984|No Rating|x|Dave Noonan|Arcade/Maze|UK|Romik Software|Tape
+3D Bat Attack|NOID|BBF24257|x|0|0|1984|No Rating|x|Mark C. Jones|Action/Maze|UK|Cheetahsoft Ltd|Tape
+3D Combat Zone|NOID|5296E736|x|0|0|1983|No Rating|x|Jon Ritman|Arcade/Tank|UK|Artic Computing Ltd|Tape
+3D Construction Kit Plus|NOID|007B790A,aa27de62,e775b63f,521b4b35|x|0|0|No Date|No Rating|x|Unknown|Arcade/Tank|region-unknown|Unknown|Tape
+3D Deathchase|17940|2553781C|x|0|0|1983|No Rating|x|Mervyn J. Estcourt|Racing/Arcade|UK|Micromega|Tape
+3D Grand Prix|NOID|BB04FCEB|x|0|0|1991|No Rating|x|Ace Software [2] (Alan|Racing/Arcade|UK|Zeppelin Games Ltd|Tape
+3D Lunattack|NOID|136f75fe|x|0|0|1984|No Rating|x|Graftgold Ltd (Steve Turner)|Shoot 'em Up|UK|Hewson Consultants Ltd|Tape
+3D Pinball Pinball Power|NOID|018f2184|x|0|0|1989|No Rating|x|Active Magic (Davor Magdic)|Pinball|UK|Mastertronic Plus|Tape
+3D Pool|NOID|7a62dcd6|x|0|0|1989|No Rating|x|Aardvark Software (Orlando M.|Sports/Pool|UK|Firebird Software Ltd|Tape
+3D Seiddab Attack|NOID|22e97ea1|x|0|0|1984|No Rating|x|Graftgold Ltd (Steve Turner)|Shoot 'em Up|UK|Hewson Consultants Ltd|Tape
+3D Snooker|NOID|EABB499A|x|0|0|1990|No Rating|x|The Burble Fish|Sports/Pool|UK|Players Premier Software|Tape
+3D Space-Wars|NOID|2493b21a|x|0|0|1983|No Rating|x|Graftgold Ltd (Steve Turner)|Shoot 'em Up|UK|Hewson Consultants Ltd|Tape
+3D Starfighter|NOID|4F3F2FBE|x|0|0|1988|No Rating|x|The Oliver Twins, Mervin|Shoot 'em Up|UK|Code Masters Ltd|Tape
+3D Starstrike I|NOID|22561F4B|x|0|0|1984|No Rating|x|Ian Oliver, Andrew Onions,|Shoot 'em Up|UK|Realtime Games Software Ltd|Tape
+3D Starstrike II|NOID|2472807E|x|0|0|1986|No Rating|x|Ian Oliver, Graeme Baird|Shoot 'em Up|UK|Realtime Games Software Ltd|Snapshot
+3D Stock Car Championship|NOID|614D2827|x|0|0|1988|No Rating|x|Ace Software|Racing/Cars|UK|Firebird Software Ltd|Snapshot
+3D Tank Duel|NOID|64af6a2f|x|0|0|1984|No Rating|x|Ian Oliver, Andrew Onions,|Shoot 'em Up|UK|Realtime Games Software Ltd|Tape
+3DC|NOID|9B1F7C10|x|0|0|1987|No Rating|x|Fatman, Dobbin, Neil Strudwick|Adventure/Arcade|UK|Hit-Pak|Tape
+4 Soccer Simulators|NOID|5de4a2b8 ,2fe922ed,83559AEE,950005AA|x|0|0|1988|No Rating|x|Supersonic Software Ltd|Sports/Soccer|UK|Code Masters Gold|Snapshot
+4x4 Off-Road Racing|NOID|928366FA|x|0|0|1988|No Rating|x|Steve Marsden, David Cooke|Racing/Arcade|UK|US Gold Ltd|Tape
+720 Degrees|NOID|858FB94D|x|0|0|1987|No Rating|x|Tiertex Ltd|Sports/Skateboard|UK|US Gold Ltd|Tape
+750cc Grand Prix|NOID|B2A43A03|x|0|0|1991|No Rating|x|W.A.S.P.|Racing/Motorcycles|UK|Code Masters Ltd|Snapshot
+911 TS|NOID|7F25B3F2|x|0|0|1985|No Rating|x|Elite Systems Ltd|Racing/Arcade|UK|Elite Systems Ltd|Snapshot
+A.M.C. Astro Marine Corps|NOID|2152942a|x|0|0|1989|No Rating|x|Creepsoft|Shoot 'em Up|UK|Dinamic Software|Tape
+Aaargh!|NOID|11417dd7|x|0|0|1989|No Rating|x|Binary Design Ltd|Arcade/Action|UK|Melbourne House|Tape
+Abadia del Crimen|NOID|7bd1ab11|x|0|0|1988|No Rating|x|Paco Menendez, Juan Delcan|Adventure|Spain|Opera Soft S.A.|Tape
+Abe's Mission Escape|NOID|3f3bb9af|x|0|0|2002|No Rating|x|Brothers|Action/Adventure|Russia|Perspective Group|Tape
+Abu Simbel Profanation|NOID|a2660f5f|x|0|0|1985|No Rating|x|Victor Ruiz Tejedor, Florentino|Platformer|Spain|Dinamic Software|Tape
+Academy Tau Ceti II|NOID|fe7218ca|x|0|0|1987|No Rating|x|Pete Cooke, Ian Ellery|Arcade/Shooter|UK|CRL Group PLC|Tape
+Accelerator|NOID|018831f6|x|0|0|1984|No Rating|x|Curtis Jacobs Software Design|Shoot 'em Up|UK|Century City Software Ltd|Snapshot
+ACE 2088|NOID|4ebb46a9|x|0|0|1989|No Rating|x|Andrew Tuley, John Cassells,|Arcade/Shooter|UK|Cascade Games Ltd|Tape
+ACE 2 the Ultimate Head to Head Conflict|NOID|4f850b86|x|0|0|1987|No Rating|x|Contec (Keith Jackson, Paul|Simulation/Flight|UK|Encore|Tape
+Ace of Aces|NOID|2bfbb756|x|0|0|1986|No Rating|x|Paragon Programming Ltd|Flight Simulator ,|UK|US Gold Ltd|Snapshot
+ACE Air Combat Simulator|NOID|d8a583d6|x|0|0|1986|No Rating|x|Paul Laidlaw, Ian Martin,|Simulation/Flight|UK|Cascade Games Ltd|Tape
+Acro Jet|NOID|7d5adb46|x|0|0|1987|No Rating|x|F. William, J.R. Denman,|Simulation/Flight|UK|MicroProse Software Ltd|Snapshot
+Action Biker|NOID|1a62419a|x|0|0|1985|No Rating|x|M.J. Child|Action/Motorcycles|UK|Mastertronic Ltd|Tape
+Action Fighter|NOID|5eedf02c|x|0|0|1989|No Rating|x|CORE Design Ltd|Shoot 'em Up|UK|Firebird Software Ltd|Tape
+Action Force I|NOID|30847930|x|0|0|1987|No Rating|x|Gang of Five|Shoot 'em Up|UK|Virgin Games Ltd|Snapshot
+Action Force II International Heroes|NOID|3d4139b7|x|0|0|1988|No Rating|x|Gang of Five|Shoot 'em Up|UK|Virgin Games Ltd|Tape
+Action Reflex|NOID|aada6209|x|0|0|1986|No Rating|x|Christian F. Urquhart, Medusa|Action|UK|Mirrorsoft Ltd|Tape
+Ad Astra|NOID|2008e900|x|0|0|1984|No Rating|x|Carter Follis Software Associates|Shoot 'em Up|UK|Gargoyle Games|Snapshot
+Addams Family, The|NOID|f4d1671a|x|0|0|1992|No Rating|x|Andrew P. Deakin, Ivan|Platformer/Action|UK|Ocean Software Ltd|Snapshot
+Adidas Championship Football|NOID|8936485|x|0|0|1990|No Rating|x|David Spicer, Jason Brashill,|Sports/Soccer|UK|Ocean Software Ltd|Snapshot
+Adidas Championship Tie Break|NOID|74aacd26|x|0|0|1990|No Rating|x|Probe Software Ltd|Sports/Tennis|UK|Ocean Software Ltd|Snapshot
+Advanced Pinball Simulator|NOID|36a88ced2|x|0|0|1988|No Rating|x|The Oliver Twins|Pinball|UK|Code Masters Ltd|Snapshot
+Advanced Soccer Simulator|NOID|4a1eaa7b|x|0|0|1989|No Rating|x|Steven Hannah|Simulation/Soccer|UK|Mastertronic Plus|Tape
+Adventure Quest|NOID|b4547361|x|0|0|1983|No Rating|x|Pete Austin, Mike Austin,|Adventure/Text|UK|Level 9 Computing Ltd|Tape
+Adventureland|NOID|fa4788b2|x|0|0|1985|No Rating|x|Scott Adams|Adventure/Text|UK|Adventure International|Tape
+African Trail Simulator|NOID|de589840|x|0|0|1990|No Rating|x|Crom Software|Racing/Motorcycles|Spain|Positive|Tape
+After the War|NOID|8e11946d,16faf57d|x|0|0|1989|No Rating|x|Enrique Cervera Mateu, Snatcho,|Action/Side-Scrolling|Spain|Dinamic Software|Tape
+Afterburner|NOID|bba36351|x|0|0|1988|No Rating|x|Software Studios, Foursfield, Focus|Arcade/Shooter|UK|Activision Inc|Tape
+Afteroids|NOID|53f59e66|x|0|0|1988|No Rating|x|Made in Spain|Shoot 'em Up|Spain|Zigurat Software|Tape
+Agent Orange|NOID|112aedd9|x|0|0|1987|No Rating|x|Icon Design Ltd|Action|UK|A'n'F Software|Tape
+Agent X in the Brain Drain Caper|NOID|7fe581ab|x|0|0|1986|No Rating|x|Zarathrustha Software|Action/Multi-Screen|UK|Mastertronic Ltd|Tape
+Agent X II the Mad Prof's Back!|NOID|0bf80a16,58aa9102,0edbfeef|x|0|0|1987|No Rating|x|Software Creations|Shoot 'em Up|UK|Mastertronic Ltd|Snapshot
+Ah Diddums|NOID|d9d9d420|x|0|0|1983|No Rating|x|David H. Lawson|Action|UK|Imagine Software Ltd|Tape
+Ahhh!!!|NOID|6783e2ee|x|0|0|1984|No Rating|x|Adam, Jay Derrett|Shoot 'em Up|UK|CRL Group PLC|Tape
+Airborne Ranger|NOID|a82ed5c5|x|0|0|1988|No Rating|x|Canvas|Shoot 'em Up|UK|MicroProse Software Ltd|Tape
+Airwolf|NOID|f322ce6a|x|0|0|1984|No Rating|x|Richard Wilcox|Shoot 'em Up|UK|Elite Systems Ltd|Snapshot
+Airwolf II|NOID|8f6671ec|x|0|0|1987|No Rating|x|Neil Latarche|Shoot 'em Up|UK|Hit-Pak|Snapshot
+Aladdin's Cave|NOID|2f97f7ee|x|0|0|1985|No Rating|x|Keith A. Purkiss, D.J.|Platformer/Multi-Screen|UK|Artic Computing Ltd|Snapshot
+Albatrossity|NOID|a8e781f2|x|0|0|2008|No Rating|x|Jonathan Cauldwell, Matthew Westcott|Puzzle|UK|Jonathan Cauldwell|Tape
+Alcatraz Harry|NOID|6356ece5|x|0|0|1984|No Rating|x|Scorpio Gamesworld Ltd|Action|UK|Mastertronic Ltd|Tape
+Alcatraz II the Doomsday Mission|NOID|e9dd2fd7|x|0|0|1984|No Rating|x|Barry Jones|Action/Adventure|UK|Scorpio Gamesworld Ltd|Tape
+Alchemist|NOID|e6f0df00|x|0|0|1983|No Rating|x|Ian Weatherburn, Paul Lindale|Adventure|UK|Imagine Software Ltd|Snapshot
+Alien|NOID|87f35c09|x|0|0|1984|No Rating|x|Concept Software Ltd|Strategy/Turnbased|UK|Mind Games|Tape
+Alien 8|NOID|8cce2d97|x|0|0|1985|No Rating|x|Tim Stamper, Chris Stamper|Adventure/Isometric|UK|Ultimate Play The Game|Snapshot
+Alien Evolution|NOID|af521d93|x|0|0|1987|No Rating|x|Marco Paulo Carrasco, Rui|Action/Isometric|UK|Gremlin Graphics Software Ltd|Tape
+Alien Highway|NOID|f5a22737|x|0|0|1986|No Rating|x|Mark Haigh-Hutchinson|Shoot 'em Up|UK|Vortex Software|Tape
+Alien Storm|NOID|8aa6b74d|x|0|0|1991|No Rating|x|Tiertex Ltd|Arcade/Action|UK|US Gold Ltd|Tape
+Alien Syndrome|NOID|11c4832e|x|0|0|1988|No Rating|x|Pamela Roberts, Jack Wilkes,|Arcade/Action|UK|ACE Software|Snapshot
+Aliens|NOID|5b06a851|x|0|0|1986|No Rating|x|Software Studios (Mevlut Dinc,|Adventure|UK|Electric Dreams Software|Snapshot
+Aliens US Version|NOID|d7c22d0d|x|0|0|1987|No Rating|x|Mr. Micro Ltd (Steve|Adventure|UK|Electric Dreams Software|Tape
+Altered Beast|NOID|f4ce807b|x|0|0|1989|No Rating|x|Software Studios (Jason Austin,|Arcade/Action|UK|Activision Inc|Tape
+Alternative World Games|NOID|eb822e8c|x|0|0|1987|No Rating|x|Gremlin Graphics Software Ltd|Sports/Action|UK|Gremlin Graphics Software Ltd|Tape
+Amaurote|NOID|664eb7f8|x|0|0|1987|No Rating|x|Binary Design Ltd (John|Action/Isometric|UK|Mastertronic Added Dimension|Tape
+American Tag Team Wrestling|NOID|afb4c0cc|x|0|0|1992|No Rating|x|Stephen Walters, Tink|Sports/Wrestling|UK|Zeppelin Games Ltd|Snapshot
+American Turbo King|NOID|38544788|x|0|0|1989|No Rating|x|Supersonic Software Ltd|Action|UK|Virgin Mastertronic Ltd|Tape
+Amo del Mundo|NOID|e2f536f2|x|0|0|1990|No Rating|x|Crom Software|Action|Spain|Positive|Tape
+Anarchy|NOID|a48348c3|x|0|0|1987|No Rating|x|Dominic Robinson, Michael Sentinella|Puzzle|UK|Rack-It|Tape
+Android One the Reactor Run|NOID|f7325498|x|0|0|1983|No Rating|x|Costa Panayi|Shoot 'em Up|UK|Vortex Software|Tape
+Android Two|NOID|1fd27088|x|0|0|1983|No Rating|x|Costa Panayi|Shoot 'em Up|UK|Vortex Software|Tape
+Andy Capp|NOID|77f3f490|x|0|0|1988|No Rating|x|Blitter Animations (Nigel Brown,|Adventure/Graphic|UK|Mirrorsoft Ltd|Snapshot
+Anfractuos|NOID|fb71b8bf|x|0|0|1987|No Rating|x|Andrew Severn, Martin Severn|Action/Adventure|UK|Players Software|Snapshot
+Angel Nieto Pole 500|NOID|70985aec,ed22b1a9|x|0|0|1990|No Rating|x|Opera Soft S.A.|Sports/Motorcycles|Spain|Opera Soft S.A.|Tape
+Angle Ball|NOID|bd31af2d|x|0|0|1987|No Rating|x|Ian Heath|Sports/Pool|UK|Mastertronic Added Dimension|Tape
+Ant Attack|NOID|91cbb1dd|x|0|0|1983|No Rating|x|Sandy White, Angela Sutherland|Maze|UK|Quicksilva Ltd|Tape
+Antics|NOID|571d7e4a|x|0|0|1983|No Rating|x|Adrian Sherwin, Tim Lewis,|Action/Maze|UK|Bug-Byte Software Ltd|Tape
+APB All Points Bulletin|NOID|81a2cb39|x|0|0|1989|No Rating|x|Walking Circles|Vehicular Combat ,|UK|Domark Ltd|Snapshot
+Apple Jam|NOID|ad204cab|x|0|0|1984|No Rating|x|Ed Hickman|Action/Static|UK|DK'Tronics Ltd|Tape
+Aquaplane|NOID|1064f32a|x|0|0|1983|No Rating|x|John Hollis|Action|UK|Quicksilva Ltd|Snapshot
+Aquarius|NOID|42287915|x|0|0|1983|No Rating|x|Keith Owens|Action|UK|Bug-Byte Software Ltd|Tape
+Aquasquad|NOID|8d07b136|x|0|0|1988|No Rating|x|The Shaw Brothers|Maze/Multi-Screen|UK|Atlantis Software Ltd|Tape
+Arc of Yesod, The|NOID|99bcff1a|x|0|0|1985|No Rating|x|Steve Wetherill, Colin Grunes,|Adventure|UK|Thor Computer Software|Snapshot
+Arcade Flight Simulator|NOID|834a6586|x|0|0|1989|No Rating|x|Amazing Games|Shoot 'em Up|UK|Code Masters Ltd|Tape
+Arcadia|NOID|b5d98e98|x|0|0|1982|No Rating|x|David H. Lawson|Shoot 'em Up|UK|Imagine Software Ltd|Tape
+Archon I [Ariolasoft UK]|NOID|142f5985|x|0|0|1985|No Rating|x|The RamJam Corporation|Strategy/Action|UK|Ariolasoft UK Ltd|Snapshot
+Archon II Adept|NOID|9e5430be|x|0|0|1989|No Rating|x|Lynsoft|Action/Strategy|UK|Electronic Arts|Tape
+Archon the Light and the Dark|NOID|0f401582|x|0|0|1989|No Rating|x|Lynsoft|Action/Strategy|UK|Electronic Arts|Tape
+Arcticfox|NOID|691270f1|x|0|0|1988|No Rating|x|The Zen Room|Strategy/Turnbased|UK|Electronic Arts|Tape
+Arena|NOID|298a17b0|x|0|0|1985|No Rating|x|Steve Hughes, Roger Lees|Strategy/Turnbased|UK|MC Lothlorien Ltd|Tape
+Arena 3000|NOID|192082c1|x|0|0|1984|No Rating|x|Microdeal|Shoot 'em Up|UK|Microdeal|Tape
+Arkanoid|NOID|5e016415|x|0|0|1987|No Rating|x|Probe Software Ltd|Breakout/Arcade|UK|Imagine Software Ltd|Tape
+Arkanoid Revenge of Doh|NOID|0fa0ffb5|x|0|0|1988|No Rating|x|Mike Lamb, Ronny Fowles,|Breakout/Arcade|UK|Imagine Software Ltd|Snapshot
+Arkos|NOID|f4b5b401,05781df0,e20843d8|x|0|0|1988|No Rating|x|Arcadia Soft|Action|Spain|Zigurat Software|Tape
+Armageddon|NOID|398b3aa5|x|0|0|1983|No Rating|x|David W. Harper|Shoot 'em Up|UK|Fashionsoft|Tape
+Armageddon Man, The|NOID|df5a41a6|x|0|0|1987|No Rating|x|Software Communications Ltd|Strategy|UK|Martech Games Ltd|Snapshot
+Armalyte [Demo]|NOID|faddecf0|x|0|0|No Date|No Rating|x|John Wildsmith, Steven Day|Shoot 'em Up|UK|Thalamus Ltd|Tape
+Army Moves|NOID|dd386d25|x|0|0|1987|No Rating|x|Victor Ruiz Tejedor, Santiago|Shoot 'em Up|Spain|Dinamic Software|Tape
+Artura|NOID|cd577355|x|0|0|1989|No Rating|x|Sentient Software Ltd|Adventure/Action|UK|Gremlin Graphics Software Ltd|Snapshot
+Aspar GP Master|NOID|4185f87a|x|0|0|1988|No Rating|x|Pedro Sudon, Jose Juan|Racing/Motorcycles|Spain|Dinamic Software|Tape
+Assault Course|NOID|ffa21535|x|0|0|1990|No Rating|x|Brian Cross, Sonic Graffiti,|Action|UK|Players Premier Software|media-unknown
+Asterix and the Magic Cauldron|NOID|bd7a64d3|x|0|0|1986|No Rating|x|William Tang, Andrew Pierson,|Adventure/Action|UK|Melbourne House|Snapshot
+Astro Blaster|NOID|00d2b179|x|0|0|1983|No Rating|x|John Edwards, Glenn Flood|Shoot 'em Up|UK|Quicksilva Ltd|Tape
+Astroball|NOID|92699532|x|0|0|1992|No Rating|x|Revelation Software|Action/Platformer|UK|Digital Reality|Tape
+Astroclone|NOID|fc26b426|x|0|0|1985|No Rating|x|Graftgold Ltd|Adventure|UK|Hewson Consultants Ltd|Snapshot
+Athena|NOID|3771addd|x|0|0|1987|No Rating|x|Andrew P. Deakin, Ivan|Platformer/Action|UK|Imagine Software Ltd|Snapshot
+Atic Atac|17938|56520bdf|x|0|0|1983|No Rating|x|Ultimate Play The Game|Adventure|UK|Ultimate Play The Game|Snapshot
+Atom Ant|NOID|bb656d10|x|0|0|1990|No Rating|x|Twilight|Action|UK|Hi-Tec Software Ltd|Tape
+Atomic Robo-Kid [Demo]|NOID|22a0463|x|0|0|No Date|No Rating|x|Activision Inc|Shoot 'em Up|UK|Activision Inc|Tape
+Atomix|NOID|1f97c93c|x|0|0|1991|No Rating|x|Scorpion|Puzzle|Czech|Proxima Software|Snapshot
+Attack of the Killer Tomatoes|NOID|d3d3b7aa|x|0|0|1986|No Rating|x|Fatman, Dobbin, Stuart Ruecroft|Adventure|UK|Global Software|Tape
+Attack on Atlantis|NOID|59e4c3df|x|0|0|1984|No Rating|x|K'Soft Ltd|Shooter/Horizontal|UK|K'Soft Ltd|Tape
+ATV Simulator|NOID|373a50ad|x|0|0|1987|No Rating|x|Tim Miller, James Wilson,|Sports/Bike|UK|All Terrain Vehicle Simulator|Tape
+Auf Wiedersehen Monty|NOID|5ffa988d|x|0|0|1987|No Rating|x|Shaun Hollingworth, Peter M.|Platformer/Action|UK|Gremlin Graphics Software Ltd|Snapshot
+Auf Wiedersehen Pet|NOID|a7b91cd8|x|0|0|1984|No Rating|x|Bob Carr|Action|UK|Tynesoft|Tape
+Australian Games|NOID|83350ff2|x|0|0|1990|No Rating|x|Beam Software|Sports/Action|UK|US Gold Ltd|Tape
+Australian Rules Football|NOID|ff03dd17,bad0a7a2|x|0|0|1989|No Rating|x|Clockwize|Sports/Soccer|UK|Again Again|Tape
+Autocrash|NOID|02fe192c|x|0|0|1991|No Rating|x|Luis Angel Alda Rodriguez|Action|UK|Zigurat Software|Tape
+Automania|NOID|D19128fb|x|0|0|1984|No Rating|x|Chris Hinsley|Platformer|UK|Mikro-Gen Ltd|Snapshot
+Avalon|NOID|ab1d4f7e|x|0|0|1984|No Rating|x|Graftgold Ltd|Adventure|UK|Hewson Consultants Ltd|Snapshot
+Avenger|NOID|9d484c92|x|0|0|1986|No Rating|x|Shaun Hollingworth, Peter M.|Arcade/Maze|UK|Gremlin Graphics Software Ltd|Tape
+Babaliba|NOID|FE7FC680|x|0|0|1984|No Rating|x|Victor Ruiz Tejedor, Luis|Action/Maze|Spain|Dinamic Software|Tape
+Back to Skool|NOID|797ab917|x|0|0|1985|No Rating|x|David S. Reidy, Keith|Adventure|UK|Microsphere|Snapshot
+Back to the Future|NOID|f29bbae6|x|0|0|1985|No Rating|x|Software Images|Adventure|UK|Electric Dreams Software|Tape
+Back to the Future Part II|NOID|c68bd4ee,20951ec1|x|0|0|1990|No Rating|x|Images Ltd|Action|UK|Image Works|Tape
+Back to the Future Part III|NOID|5de2c954|x|0|0|1991|No Rating|x|Probe Software Ltd|Action|UK|Image Works|Tape
+Backpackers Guide to the Universe|NOID|2fdd83bd|x|0|0|1984|No Rating|x|Bob Hamilton, Darren Hamilton,|Action/Platformer|UK|Fantasy Software|Tape
+Badlands|NOID|0b607034|x|0|0|1990|No Rating|x|Teque Software Development Ltd|Vehicular Combat ,|UK|Domark Ltd|Tape
+Ball Breaker|NOID|aa3bffa3|x|0|0|1987|No Rating|x|The Zen Room|Action|UK|CRL Group PLC|Tape
+Ball Breaker II|NOID|ed558aaf|x|0|0|1988|No Rating|x|The Zen Room|Action|UK|CRL Group PLC|Tape
+Ball Crazy|NOID|cb5ee239|x|0|0|1987|No Rating|x|The Firm|Action|UK|Mastertronic Added Dimension|Tape
+Ballblazer|NOID|9f9e9208|x|0|0|1986|No Rating|x|Program Techniques|Sports/Action|UK|Activision Inc|Tape
+Bangers And Mash|NOID|d5225cf2|x|0|0|1992|No Rating|x|Bizarre Developments|Adventure|UK|Alternative Software Ltd|Tape
+Barbarian|NOID|51bf72c1|x|0|0|1988|No Rating|x|Icon Design Ltd|Action|UK|Melbourne House|Tape
+Barbarian II the Dungeon of Drax|NOID|2215c3b7|x|0|0|1988|No Rating|x|MC Lothlorien Ltd|Beat 'em Up|UK|Palace Software|Snapshot
+Barbarian the Ultimate Warrior|NOID|c70af92e,abd20486,44d86f8|x|0|0|1987|No Rating|x|Steve Brown, Shaun Griffiths,|Beat 'em Up|UK|Palace Software|Snapshot
+Bard's Tale, The Tales of the Unknown|NOID|ef07cce1|x|0|0|1988|No Rating|x|Interplay Productions Inc|Role Playing Game|UK|Electronic Arts|Tape
+Barry McGuigan World Championship Boxing|NOID|d3e855c6|x|0|0|1985|No Rating|x|John F. White, Tony|Sports/Boxing|UK|Gamestar|Tape
+Basil the Great Mouse Detective|NOID|b5e12867|x|0|0|1987|No Rating|x|Gary Priest, Kevin Bulmer,|Adventure|UK|Gremlin Graphics Software Ltd|Snapshot
+Batman|NOID|0b7eeca4|x|0|0|1986|No Rating|x|Jon Ritman, Bernie Drummond,|Action/Platformer|UK|Ocean Software Ltd|Tape
+Batman the Caped Crusader|NOID|3102cef1,8591332f|x|0|0|1988|No Rating|x|Special FX Software Ltd|Action|UK|Ocean Software Ltd|Tape
+Batman the Movie|NOID|17ed3d84|x|0|0|1989|No Rating|x|Mike Lamb, Dawn Drake,|Action|UK|Ocean Software Ltd|Snapshot
+Battle Command|NOID|f5b9f406|x|0|0|1990|No Rating|x|Realtime Games Software Ltd|Shoot 'em Up|UK|Ocean Software Ltd|Tape
+Battle For Midway|NOID|8f0bdc4d|x|0|0|1985|No Rating|x|Alan Steel|Strategy/Turnbased|UK|PSS|Tape
+Battle of Britain|NOID|1d0ae0fc|x|0|0|1986|No Rating|x|PSS|Strategy/Turnbased|UK|PSS|Tape
+Battle of the Planets|NOID|60cd78c6|x|0|0|1986|No Rating|x|Chris Hinsley|Shoot 'em Up|UK|Mikro-Gen Ltd|Snapshot
+Battle Ships|NOID|1e9b73a8|x|0|0|1988|No Rating|x|Keith Burkhill, Rory Green,|Strategy/Turnbased|UK|Encore|Snapshot
+Battle Valley|NOID|26771ee9|x|0|0|1988|No Rating|x|Simon Welland, John Wildsmith,|Shoot 'em Up|UK|Rack-it|Tape
+Battlezone|NOID|af085e02|x|0|0|1984|No Rating|x|Bill Witts|Arcade/Tank|UK|Quicksilva Ltd|Tape
+Batty|NOID|bb18300a|x|0|0|1987|No Rating|x|M.C.|Breakout/Action|UK|Hit-Pak|Tape
+Bazooka Bill|NOID|01776be4|x|0|0|1986|No Rating|x|Beam Software|Shoot 'em Up|UK|Melbourne House|Snapshot
+BC Bill|NOID|61b2d9bf|x|0|0|1984|No Rating|x|Eric the Bear, Steve|Action|UK|Imagine Software Ltd|Tape
+BC's Quest for Tires|NOID|fcb53b87|x|0|0|1985|No Rating|x|Michael Davies|Action|UK|Software Projects Ltd|Tape
+Beach Buggy Simulator|NOID|27881499|x|0|0|1988|No Rating|x|Sysoft, JPW|Racing/Cars|UK|Silverbird Software Ltd|Tape
+Beach Volley|NOID|4174e289|x|0|0|1989|No Rating|x|Choice Software Ltd|Sports/Volleyball|UK|Ocean Software Ltd|Snapshot
+Beach-Head|NOID|c1aaad26|x|0|0|1984|No Rating|x|David J. Anderson, Ian|Shoot 'em Up|UK|US Gold Ltd|Tape
+Beach-Head II the Dictator Strikes Back!|NOID|a0eeec5c|x|0|0|1985|No Rating|x|Platinum Productions|Shoot 'em Up|UK|US Gold Ltd|Tape
+Beaky And the Egg Snatchers|NOID|22cb92ea|x|0|0|1984|No Rating|x|Bob Hamilton|Action|UK|Fantasy Software|Tape
+Beamrider|NOID|ef3040cf|x|0|0|1984|No Rating|x|Software Conversions Ltd, Software|Action/Static|UK|Activision Inc|Snapshot
+Bear A Grudge|NOID|25d6de9a|x|0|0|1988|No Rating|x|Chris Wood, J. Dave|Shoot 'em Up|UK|Sinclair User|Tape
+Bear Bovver|NOID|8d63a3c9|x|0|0|1983|No Rating|x|Jon Ritman, Guy Stevens|Action/Platformer|UK|Artic Computing Ltd|Snapshot
+Bedlam|NOID|b5e164fb|x|0|0|1988|No Rating|x|Beam Software|Shooter/Vertical|UK|Go!|Snapshot
+Beebul|NOID|89c1c74e|x|0|0|1984|No Rating|x|Richard Wright|Action/Platformer|UK|Scorpio Gamesworld Ltd|Snapshot
+Benny Hill's Madcap Chase!|NOID|e7a95cef|x|0|0|1985|No Rating|x|Don Priestley, Steve Jerrard|Action|UK|DK'Tronics Ltd|Tape
+Bestial Warrior|NOID|f1fb3cb5|x|0|0|1989|No Rating|x|Zeus Software, Deborah|Action/Adventure|Spain|Dinamic Software|Tape
+BeTiled!|NOID|8eabeb69|x|0|0|2007|No Rating|x|The Mojon Twins|Puzzle|Spain|Computer Emuzone|Tape
+Beverly Hills Cop|NOID|48a1b9bf|x|0|0|1990|No Rating|x|Subway Software|Action|UK|Tynesoft|Tape
+Beyond the Ice Palace|NOID|565cc58c|x|0|0|1988|No Rating|x|Paradise Software|Adventure|UK|Elite Systems Ltd|Tape
+Biff|NOID|6f313ca0|x|0|0|1992|No Rating|x|Steven Nunn, Marx|Adventure|UK|Beyond Belief|Tape
+Big Ben Strikes Again|NOID|33b4110e|x|0|0|1985|No Rating|x|John Prince|Action/Platformer|UK|Tynesoft|Tape
+Big Nose's American Adventure|NOID|64006917|x|0|0|1992|No Rating|x|Martyn Hartley|Action/Platformer|UK|Code Masters Ltd|Tape
+Big Sleaze, The|NOID|30915e9e,c0168581,8c7ccbd9|x|0|0|1987|No Rating|x|Delta 4 Software|Adventure/Text|UK|Piranha|Tape
+Big Trouble in Little China|NOID|5ba135d3|x|0|0|1986|No Rating|x|Software Studios, Focus Creative|Action/Adventure|UK|Electric Dreams Software|Tape
+Bigfoot|NOID|5f68a506|x|0|0|1988|No Rating|x|The Firm|Adventure/Graphic|UK|Code Masters Ltd|Tape
+Biggles|NOID|90bfb9a8,5e3e2558|x|0|0|1986|No Rating|x|Dalali Software Ltd|Shoot 'em Up|UK|Mirrorsoft Ltd|Tape
+Billy the Kid|NOID|bc4e886c|x|0|0|1989|No Rating|x|Gary Priest|Action|UK|Code Masters Ltd|Tape
+Bionic Commando|NOID|8eb507eb|x|0|0|1988|No Rating|x|Software Creations|Arcade|UK|Go!|Snapshot
+Bionic Ninja|NOID|862b4d61|x|0|0|1989|No Rating|x|Brian Cross, Tink|Beat 'em Up|UK|Zeppelin Games Ltd|Tape
+Birds And the Bees, The|NOID|387fec7e|x|0|0|1983|No Rating|x|Adrian Sherwin|Action|UK|Bug-Byte Software Ltd|Tape
+Bismarck|NOID|5045f181|x|0|0|1987|No Rating|x|Alan Steel|Strategy/Turnbased|UK|PSS|Snapshot
+Bite the Dust|NOID|f829e9ec|x|0|0|1988|No Rating|x|John Armstrong|Action/Maze|UK|Crash|Tape
+Black Beard|NOID|a0609069|x|0|0|1988|No Rating|x|Carlos Arias, Jose Manuel|Action/Maze|Spain|Topo Soft|Snapshot
+Black Hawk|NOID|4208032a|x|0|0|1984|No Rating|x|Phil Snell, Dean Lock|Shoot 'em Up|UK|Creative Sparks|Snapshot
+Black Lamp|NOID|04d92b07|x|0|0|1988|No Rating|x|Software Creations, Drew Northcott,|Action/Adventure|UK|Firebird Software Ltd|Snapshot
+Black Magic|NOID|9c5f9edb|x|0|0|1987|No Rating|x|Paragon Programming Ltd|Adventure/Action|UK|US Gold Ltd|Snapshot
+Black Tiger|NOID|22b42c5d|x|0|0|1989|No Rating|x|Tiertex Ltd|Arcade/Action|UK|US Gold Ltd|Snapshot
+Blade Alley|NOID|124cfc17|x|0|0|1983|No Rating|x|PSS|Shoot 'em Up|UK|PSS|Tape
+Blade Runner|NOID|33bf7e7d|x|0|0|1985|No Rating|x|Paul Andrew Stoddart, Ian|Beat 'em Up|UK|CRL Group PLC|Tape
+Blade Warrior|NOID|d8bff571|x|0|0|1988|No Rating|x|Mark Rivers, Antony M.|Action|UK|Code Masters Ltd|Tape
+Blasteroids|NOID|47d4c77d|x|0|0|1989|No Rating|x|Teque Software Development Ltd|Shoot 'em Up|UK|Image Works|Snapshot
+Blazing Thunder|NOID|3be65fd5|x|0|0|1990|No Rating|x|PAL Developments Ltd|Shoot 'em Up|UK|Hi-Tec Software Ltd|Snapshot
+Blinky's Scary School|NOID|b083dac1|x|0|0|1990|No Rating|x|Jimmy Parr, David Taylor,|Adventure|UK|Zeppelin Games Ltd|Snapshot
+Blizzard's Rift|NOID|884eef54|x|0|0|2007|No Rating|x|Jonathan Cauldwell|Action|UK|Jonathan Cauldwell|Tape
+Blob the Clock|NOID|09b3e306|x|0|0|No Date|No Rating|x|dev-unknown|Action|region-unknown|No Publisher|Tape
+Block-Dizzy|NOID|639b4fe8|x|0|0|1992|No Rating|x|Banzai Programming|Puzzle|UK|Your Sinclair|Tape
+Blood 'n' Guts|NOID|84318cbb|x|0|0|1984|No Rating|x|John R. Edmonds|Action/Maze|UK|Quicksilva Ltd|Tape
+Blood Brothers|NOID|9b7a4d9e|x|0|0|1988|No Rating|x|Steve Marsden, David Cooke,|Platformer/Action|UK|Gremlin Graphics Software Ltd|Tape
+Blood Valley|NOID|03e60931|x|0|0|1987|No Rating|x|Imagitec Design Ltd|Adventure/Action|UK|Gremlin Graphics Software Ltd|Tape
+Bloodwych|NOID|cead957e|x|0|0|1990|No Rating|x|Philip Taglione, Pete James,|Role Playing Game|UK|Image Works|Snapshot
+Blue Max|NOID|8085e6b7|x|0|0|1984|No Rating|x|Bob Polin, F. David|Shoot 'em Up|UK|US Gold Ltd|Snapshot
+Blue Thunder|NOID|9870d4ed|x|0|0|1984|No Rating|x|Richard Wilcox|Shoot 'em Up|UK|Richard Wilcox Software|Tape
+BMX Freestyle|NOID|aebc795b|x|0|0|1989|No Rating|x|Supersonic Software Ltd|Racing/Bike|UK|Code Masters Ltd|Snapshot
+BMX Kidz|NOID|1f45be33|x|0|0|1988|No Rating|x|Zeit Corporation, Gigglywurx, Jodie|Racing/Bike|UK|Firebird Software Ltd|Tape
+BMX Ninja|NOID|64ed0d8b|x|0|0|1988|No Rating|x|Richard Stevenson, Paul A.|Racing/Bike|UK|Alternative Software Ltd|Tape
+BMX Racers|NOID|40ec8744|x|0|0|1984|No Rating|x|Mastertronic Ltd|Racing/Bike|UK|Mastertronic Ltd|Tapes
+BMX Simulator|NOID|61e994c0|x|0|0|1987|No Rating|x|Tim Miller, James Wilson,|Racing/Bike|UK|Code Masters Ltd|Snapshot
+BMX Simulator 2|NOID|40e5af8e|x|0|0|1989|No Rating|x|The Oliver Twins, KAL|Racing/Bike|UK|Code Masters Ltd|Snapshot
+Bobby Bearing|NOID|6b6895d2|x|0|0|1986|No Rating|x|Robert Figgins, Trevor Figgins|Action|UK|The Edge Software|Tape
+Bobby Yazz Show, The|NOID|No CRC|x|0|0|1991|No Rating|x|Cybadyne|Puzzle|UK|Crash|Snapshot
+Bobsleigh|NOID|b3956a5c|x|0|0|1987|No Rating|x|Richard Hughes|Sports|UK|Digital Integration|Tape
+Boggit, The|NOID|90d18135,b934f6b5,34c5e25b|x|0|0|1986|No Rating|x|Delta 4 Software|Adventure/Text|UK|CRL Group PLC|Snapshot
+Bomb Jack|NOID|71a8d84|x|0|0|1986|No Rating|x|Paul Holmes, Andy Williams,|Arcade/Platformer|UK|Elite Systems Ltd|Snapshot
+Bomb Jack II|NOID|6327f471|x|0|0|1987|No Rating|x|ROR|Action/Platformer|UK|Elite Systems Ltd|Snapshot
+Bomber|NOID|eb022a42|x|0|0|1982|No Rating|x|Jeff Minter|Shoot 'em Up|UK|Llamasoft|Snapshot
+Bombfusion|NOID|b7fcbc3b|x|0|0|1989|No Rating|x|PAL Developments Ltd|Action/Platformer|UK|Mastertronic Ltd|Tape
+Bombscare|NOID|27291cb3|x|0|0|1986|No Rating|x|Jeffery Bond|Action/Isometric|UK|Firebird Software Ltd|Snapshot
+Bonanza Bros|NOID|b64fe329|x|0|0|1992|No Rating|x|Tiertex Ltd|Arcade/Action|UK|US Gold Ltd|Tape
+Booty|NOID|2bddd5df|x|0|0|1984|No Rating|x|John F. Cain|Action/Platformer|UK|Firebird Software Ltd|Snapshot
+Bored of the Rings|NOID|9361bca3,2f287c8a|x|0|0|1985|No Rating|x|Fergus McNeill|Adventure/Text|UK|Delta 4 Software|Tape
+Bosconian '87|NOID|abcd3a19|x|0|0|1987|No Rating|x|Binary Design Ltd|Arcade/Shooter|UK|Mastertronic Ltd|Snapshot
+Boulder Dash|NOID|3f5bc9cc|x|0|0|1984|No Rating|x|Dalali Software Ltd|Arcade/Strategy|UK|Front Runner|Snapshot
+Boulder Dash Construction Kit|NOID|139289bf|x|0|0|1988|No Rating|x|Peter Liepa, Chris Gray|Construction Kit ,|UK|Databyte|Tape
+Boulder Dash II Rockford's Riot|NOID|bcab1101|x|0|0|1985|No Rating|x|Peter Liepa, Chris Gray|Action/Strategy|UK|Prism Leisure Corporation PLC|Snapshot
+Boulder Dash III|NOID|b61f2fae|x|0|0|1986|No Rating|x|Peter Liepa, Chris Gray|Action/Strategy|UK|Prism Leisure Corporation PLC|Snapshot
+Bounces|NOID|bd312347|x|0|0|1986|No Rating|x|Denton Designs|Beat 'em Up|UK|Beyond Software|Snapshot
+Bounder|NOID|9308e223|x|0|0|1986|No Rating|x|Shaun Hollingworth, Chris Kerry,|Action|UK|Gremlin Graphics Software Ltd|Tape
+Bounty Bob Strikes Back!|NOID|de0b2094|x|0|0|1985|No Rating|x|Bill Hogue, Tim Miller,|Action/Platformer|UK|US Gold Ltd|Snapshot
+Bounty Hunter, The|NOID|91c9c3ba|x|0|0|1989|No Rating|x|Optimus Software|Shoot 'em Up|UK|Code Masters Ltd|Tape
+Brainache|NOID|28592736|x|0|0|1987|No Rating|x|Owen Brunette|Action/Platformer|UK|Code Masters Ltd|Tape
+Brainstorm|NOID|f52bcc89|x|0|0|1985|No Rating|x|Tom Prosser|Action/Maze|UK|Bubble Bus Software|Tape
+Brainstorm [Firebird]|NOID|77bd2f29|x|0|0|1987|No Rating|x|Pete Cooke|Puzzle|UK|Firebird Software Ltd|Tape
+Brat Attack|NOID|0cc23612|x|0|0|1988|No Rating|x|Players Software|Action/Maze|UK|Sinclair User|Tape
+BraveStarr|NOID|e4da9cc1|x|0|0|1987|No Rating|x|Probe Software Ltd|Action|UK|Erbe Software S.A.|Tape
+Braxx Bluff|NOID|352882e5|x|0|0|1984|No Rating|x|Tony Poulter|Action|UK|Micromega|Tape
+Breakthru|NOID|19f2b973|x|0|0|1986|No Rating|x|Paul Houbart, Simon Butler,|Shoot 'em Up|UK|US Gold Ltd|Snapshot
+Brian Bloodaxe|NOID|396688be|x|0|0|1985|No Rating|x|Charles Bystram, Jack Wilkes|Action/Platformer|UK|The Edge Software|Snapshot
+Brian Jacks Superstar Challenge|NOID|3122a10a|x|0|0|1985|No Rating|x|Ian McArdle, Malcolm J.|Sports/Action|UK|Martech Games Ltd|Tape
+Brick Breaker|NOID|d84590e3|x|0|0|1987|No Rating|x|Juliet Software|Breakout/Action|Spain|Dro Soft|Snapshot
+Bride of Frankenstein|NOID|315f6eed|x|0|0|1988|No Rating|x|Viz Design|Adventure|UK|39 Steps|Tape
+Bristles|NOID|3837a8dd|x|0|0|1984|No Rating|x|R. Huddy|Action|UK|State Soft Ltd|Tape
+Bronx|NOID|283cbcba|x|0|0|1990|No Rating|x|Juan Carlos Arevalo Baeza,|Beat 'em Up|Spain|Animagic S.A.|Tape
+Bronx Street Cop|NOID|9884b2f8|x|0|0|1989|No Rating|x|Supersonic Software Ltd|Action|UK|Code Masters Ltd|Tape
+Bruce Lee|NOID|8298df22|x|0|0|1984|No Rating|x|Ocean Software Ltd|Action/Adventure|UK|US Gold Ltd|Snapshot
+Bubble Bobble|17419|e553d82b|x|0|0|1987|No Rating|x|Software Creations|Arcade/Platformer|UK|Firebird Software Ltd|Snapshot
+Bubble Buster|NOID|2452ed7c|x|0|0|1984|No Rating|x|Hudson Soft|Action|UK|Sinclair Research Ltd|Tape
+Bubble Dizzy|NOID|b9086f44|x|0|0|1991|No Rating|x|W.A.S.P.|Action/Platformer|UK|Code Masters Ltd|Snapshot
+Bubble Run|NOID|a245cad7|x|0|0|1986|No Rating|x|Harry S. Price|Action|UK|Tynesoft|Tape
+Bubbler|NOID|6e993cc9|x|0|0|1987|No Rating|x|Ultimate Play The Game|Action|UK|Ultimate Play The Game|Snapshot
+Buccaneer|NOID|9fdacef2|x|0|0|1985|No Rating|x|Insight Software|Shooter/Vertical|UK|Firebird Software Ltd|Tape
+Buck Rogers Planet of Zoom|NOID|93c36f52|x|0|0|1985|No Rating|x|F. David Thorpe|Shoot 'em Up|UK|US Gold Ltd|Tape
+Budokan the Martial Spirit|NOID|0387f7cf,3698fe27,43c5b0db,f9817014|x|0|0|1991|No Rating|x|Marcos Jouron Berzosa, Javier|Beat 'em Up|Spain|Dro Soft|Tape
+Buffalo Bill's Wild West Show|NOID|fc253b18|x|0|0|1989|No Rating|x|Tynesoft|Action|UK|Tynesoft|Tape
+Bugaboo the Flea|NOID|34345dae|x|0|0|1983|No Rating|x|Indescomp S.A.|Action/Platformer|UK|Quicksilva Ltd|Tape
+Buggy Blast|NOID|24cd88e9|x|0|0|1985|No Rating|x|Paul Hibbard, David Lowe|Shoot 'em Up|UK|Firebird Software Ltd|Snapshot
+Buggy Boy|NOID|ca96a039|x|0|0|1988|No Rating|x|Dented Designs|Racing/Action|UK|Elite Systems Ltd|Tape
+Buggy Ranger|NOID|b99a322|x|0|0|1990|No Rating|x|Iron Byte, Javier Cubedo,|Action|Spain|Dinamic Software|Tape
+Bugsy|NOID|f655f6e7,fa21fa5f|x|0|0|1986|No Rating|x|St. Bride's School|Adventure/Text|UK|CRL Group PLC|Tape
+Bulge Battle for Antwerp, The|NOID|56d904d9|x|0|0|1985|No Rating|x|Choice Software, M.C. Lothlorien|Strategy/Realtime|UK|Argus Press Software Ltd.|Tape
+Bully's Sporting Darts|NOID|e72ae9ef|x|0|0|1983|No Rating|x|Paul Griffiths|Sports/Darts|UK|Alternative Software Ltd|Tape
+Bump, Set, Spike!|NOID|cb25269a|x|0|0|1986|No Rating|x|Paul Ranson, Peter J.|Sports/Volleyball|UK|Entertainment USA|Tape
+Butch Hard Guy|NOID|81a69d1a|x|0|0|1987|No Rating|x|Future Concepts|Action/Platformer|UK|Advance Software Ltd|Tape
+Butcher Hill|NOID|20f2abbb|x|0|0|1989|No Rating|x|Imagitec Design Ltd|Shoot 'em Up|UK|Gremlin Graphics Software Ltd|Tape
+By Fair Means...or Foul|NOID|8f8c6d0e|x|0|0|1989|No Rating|x|Charles Goodwin|Sports/Boxing|UK|Superior Software Ltd|Snapshot
+Byte Bitten|NOID|013bda42|x|0|0|1984|No Rating|x|Tony Barber|Action|UK|Firebird Software Ltd|Snapshot
+Cabal|NOID|798f3c55|x|0|0|1989|No Rating|x|Special FX Software Ltd|Shoot 'em Up|UK|Ocean Software Ltd|Tape
+Caesar the Cat|NOID|55751e9f|x|0|0|1984|No Rating|x|Andromeda Software|Educational|Hungary|Novotrade Rt.|Tape
+Cagara|NOID|0082b37b|x|0|0|1986|No Rating|x|Ste L. Cork, Sam|Adventure/Maze|UK|Players Software|Snapshot
+Cage Match|NOID|0931ffa6 |x|0|0|1988|No Rating|x|Icon Design Ltd|Beat 'em Up|UK|Entertainment USA|Tape
+California Games|NOID|52f1cd37|x|0|0|1987|No Rating|x|Choice Software Ltd|Sports/X-Games|UK|US Gold Ltd|Tape
+Camelot Warriors|NOID|5992a515|x|0|0|1986|No Rating|x|Victor Ruiz Tejedor, Florentino|Action/Platformer|Spain|Dinamic Software|Tape
+Cannibals from Outer Space|NOID|2a418708|x|0|0|1987|No Rating|x|Charles Bystram|Adventure|UK|Summit Software|Tape
+Cannon Bubble|NOID|a40b420e,23c3f891|x|0|0|2007|No Rating|x|Utopian, Kendroock, Anjuel, Beyker|Action|UK|Computer Emuzone|Tape
+Canyon Warrior|NOID|5574dd40|x|0|0|1989|No Rating|x|Front Room Team|Shooter/Horizontal|UK|Mastertronic Plus|Tape
+Capitan Trueno|NOID|66c4f79e,f8de5b55|x|0|0|1990|No Rating|x|Gamesoft, Zeus Software, Luis|Action/Multi-Screen|Spain|Dinamic Software|Tape
+Captain America Defies the Doom Tube|NOID|6cb2fdb2|x|0|0|1988|No Rating|x|Adventuresoft UK Ltd|Action/Adventure|UK|Go!|Snapshot
+Captain Blood|NOID|ba65032a|x|0|0|1988|No Rating|x|Imagitec Design Ltd|Adventure/Graphic|UK|Exxos|Tape
+Captain Dynamo|NOID|62855d75|x|0|0|1992|No Rating|x|W.A.S.P.|Adventure|UK|Code Masters Ltd|Tape
+Captain Fizz Meets the Blaster-trons|NOID|88588ac8|x|0|0|1989|No Rating|x|Clockwize|Action/Maze|UK|Psyclapse|Tape
+Captain Kelly|NOID|1aa9f1b9|x|0|0|1986|No Rating|x|Icon Design Ltd|Action/Maze|UK|Quicksilva Ltd|Tape
+Captain Planet and the Planeteers|NOID|0e629f1d|x|0|0|1991|No Rating|x|David Perry, Nick Bruty|Action|UK|Mindscape International Inc|Tape
+Captain Pytron|NOID|c23d8015|x|0|0|1990|No Rating|x|New Breed Developments|Adventure/Action|UK|Sinclair User|Tape
+Carlos Sainz|NOID|3974f703|x|0|0|1990|No Rating|x|Microlook Soft|Racing/Action|Spain|Zigurat Software|Tape
+Carrier Command|NOID|041d3f43|x|0|0|1989|No Rating|x|Realtime Games Software Ltd|Simulation/Flight|UK|Rainbird Software Ltd|Tape
+Castle Master|NOID|63e17cd0|x|0|0|1990|No Rating|x|Ian Andrew, Chris Andrew,|Adventure/Action|UK|Incentive Software Ltd|Tape
+Castle Master II the Crypt|NOID|5a1c6535|x|0|0|1990|No Rating|x|Ian Andrew, Chris Andrew,|Adventure/Graphic|UK|Incentive Software Ltd|Tape
+Catch 23|NOID|765f3048|x|0|0|1987|No Rating|x|Software Communications Ltd|Action/Adventure|UK|Martech Games Ltd|Snapshot
+Cauldron|NOID|ab683428|x|0|0|1985|No Rating|x|The RamJam Corporation, Steve|Adventure|UK|Palace Software|Tape
+Cauldron II the Pumpkin Strikes Back|NOID|c73307f0|x|0|0|1986|No Rating|x|Richard Leinfellner, Steve Brown,|Adventure|UK|Palace Software|Snapshot
+Cavelon|NOID|ba7e5568|x|0|0|1984|No Rating|x|Paul Owens, Christian F.|Action|UK|Ocean Software Ltd|Tape
+Cavemania|NOID|156c837d|x|0|0|1990|No Rating|x|The Shaw Brothers|Action/Platformer|UK|Atlantis Software Ltd|Tape
+Cavern Fighter|NOID|6b46a685|x|0|0|1983|No Rating|x|John K. Jameson|Shooter/Vertical|UK|Bug-Byte Software Ltd|Tape
+Caverns of Kontonia|NOID|847d65b9|x|0|0|1986|No Rating|x|John Shepherd|Adventure|UK|Atlantis Software Ltd|Snapshot
+Caves of Doom, The|NOID|7b403c56|x|0|0|1985|No Rating|x|Mr. Chip Software|Action/Platformer|UK|Mastertronic Ltd|Tape
+Centi-Bug|NOID|8c90f40d|x|0|0|1983|No Rating|x|Paul Johnson|Arcade|UK|DK'Tronics Ltd|Snapshot
+Centipede|NOID|fdd1fe00|x|0|0|1982|No Rating|x|David Heelas|Shoot 'em Up|UK|DK'Tronics Ltd|Tape
+Centurions|NOID|02cea988|x|0|0|1987|No Rating|x|Tony Crowther, Ross Goodley|Action/Maze|UK|Reaktor|Snapshot
+Cerius|NOID|537da3c8|x|0|0|1988|No Rating|x|The Shaw Brothers|Shoot 'em Up|UK|Atlantis Software Ltd|Tape
+Cerius II Interalia|NOID|81fcc941|x|0|0|1990|No Rating|x|The Shaw Brothers|Shoot 'em Up|UK|Atlantis Software Ltd|Tape
+Chain Reaction|NOID|42c4cd17|x|0|0|1987|No Rating|x|Maz H. Spork, Paul|Adventure|UK|Durell Software Ltd|Tape
+Challenge of the Gobots|NOID|ebe97d30|x|0|0|1987|No Rating|x|Tony Crowther, Ross Goodley,|Shooter/Horizontal|UK|Reaktor|Tape
+Championship 3D Snooker|NOID|No CRC|x|0|0|1992|No Rating|x|Andrew Richards, Stephen Walters,|Sports/Pool|UK|Zeppelin Games Ltd|Tape
+Championship Baseball|NOID|8754a6c4|x|0|0|1987|No Rating|x|Software Studios|Sports/Baseball|UK|Gamestar|Tape
+Championship Jet Ski Simulator|NOID|77ead6af,8f6bc8f1|x|0|0|1989|No Rating|x|The Oliver Twins, James|Racing/Action|UK|Code Masters Ltd|Tape
+Championship Run|NOID|7d3d1276|x|0|0|1991|No Rating|x|Impulze|Racing|UK|Impulze|Snapshot
+Championship Sprint|NOID|cc2d3f6a,f557d7f7|x|0|0|1988|No Rating|x|Software Studios, Catalyst Coders|Racing|UK|Electric Dreams Software|Snapshot
+Chaos the Battle of Wizards|NOID|603c624b|x|0|0|1985|No Rating|x|Julian Gollop, Le Doux|Strategy/Turnbased|UK|Games Workshop|Snapshot
+Chase H.Q.|NOID|2c061cb5|x|0|0|1989|No Rating|x|John O'Brien, Bill Harbison,|Vehicular Combat ,|UK|Ocean Software Ltd|Snapshot
+Chase H.Q. II Special Criminal Investigation|NOID|fd47cf79|x|0|0|1990|No Rating|x|ICE Software|Vehicular Combat ,|UK|Ocean Software Ltd|Tape
+Chequered Flag|NOID|17b0ba9c|x|0|0|1983|No Rating|x|Psion Software Ltd|Racing/Cars|UK|Sinclair Research Ltd|Tape
+Cheril of the Bosque|NOID|2e1efa58|x|0|0|2010|No Rating|x|The Mojon Twins|Action/Maze|Spain|Ubhres Productions|Tape
+Cheril Perils|NOID|dc7c8339|x|0|0|2010|No Rating|x|The Mojon Twins|Action/Platformer|Spain|Ubhres Productions|Tape
+Chevy Chase|NOID|6d88b22c|x|0|0|1991|No Rating|x|PAL Developments Ltd|Racing/Cars|UK|Hi-Tec Software Ltd|Snapshot
+Chicago's 30|NOID|bacc03c5|x|0|0|1988|No Rating|x|Jose Manuel Munoz Perez,|Action|Spain|Topo Soft|Snapshot
+Chickin Chase|NOID|No CRC|x|0|0|1985|No Rating|x|Firebird Software Ltd|Action|UK|Firebird Software Ltd|Snapshot
+Chiller|NOID|8cd7c62e|x|0|0|1985|No Rating|x|Richard Wright, Ray Owen|Action/Platformer|UK|Mastertronic Ltd|Tape
+Chimera|NOID|c8ffe39b|x|0|0|1985|No Rating|x|Shahid Ahmad|Action/Maze|UK|Firebird Software Ltd|Tape
+Chinese Juggler, The|NOID|f90c0458|x|0|0|1984|No Rating|x|Sandor Kertesz, Jeno Haberland,|Action|UK|Ocean Software Ltd|Tape
+Chip's Challenge|NOID|fbdd54a2|x|0|0|1990|No Rating|x|Images Ltd|Puzzle|UK|US Gold Ltd|Tape
+Chiron|NOID|c054d385|x|0|0|1988|No Rating|x|Lee Briggs|Shoot 'em Up|UK|Crash|Tape
+Cholo|NOID|a685aaaf|x|0|0|1987|No Rating|x|Solid Image Ltd|Shoot 'em Up|UK|Firebird Software Ltd|Tape
+Choy-Lee-Fut Kung-Fu Warrior|NOID|4af1bacf|x|0|0|1990|No Rating|x|Positive|Beat 'em Up|Spain|Positive|Tape
+Chronos A Tapestry of Time|NOID|0e409d9e|x|0|0|1987|No Rating|x|Steven Tatlock, John Tatlock,|Shoot 'em Up|UK|Mastertronic Ltd|Snapshot
+Chubby Gristle|NOID|46a7bdd3|x|0|0|1988|No Rating|x|Teque Software Development Ltd|Action/Platformer|UK|Grandslam Entertainments Ltd|Tape
+Chuckie Egg|17992|e7f244e2|x|0|0|1984|No Rating|x|Nigel Alderton|Action/Platformer|UK|A'n'F Software|Snapshot
+Chuckie Egg 2|NOID|No CRC|x|0|0|1985|No Rating|x|A'n'F Software|Action/Platformer|UK|A'n'F Software|Snapshot
+Cid, El|NOID|60db8d3d|x|0|0|1987|No Rating|x|Manuel Orcera Valero, Francis|Adventure/Action|Spain|Dro Soft|Tape
+Circus Games|NOID|397fcd73|x|0|0|1988|No Rating|x|Subway Software, Milamber, Shakin,|Action|UK|Tynesoft|Tape
+Cisco Heat|NOID|No CRC|x|0|0|1991|No Rating|x|ICE Software|Racing|UK|Image Works|Snapshot
+City Slicker|NOID|8e6832b1|x|0|0|1986|No Rating|x|Steve Marsden, David Cooke|Adventure|UK|Hewson Consultants Ltd|Snapshot
+CJ in the USA|NOID|No CRC|x|0|0|1991|No Rating|x|Big Red Software Ltd|Action/Platformer|UK|Code Masters Ltd|Tape
+CJ's Elephant Antics|NOID|a44b3da6|x|0|0|1991|No Rating|x|Big Red Software Ltd|Action/Platformer|UK|Code Masters Ltd|Tape
+Classic Muncher|NOID|81f92ce9|x|0|0|1987|No Rating|x|Nick Jones|Action/Maze|UK|Bubble Bus Software|Snapshot
+Clever and Smart|NOID|c390087f|x|0|0|1988|No Rating|x|Micro-Partner|Adventure|UK|Magic Bytes|Snapshot
+Cobra|NOID|No CRC|x|0|0|1986|No Rating|x|Jonathan M. Smith, Steve|Action|UK|Ocean Software Ltd|Snapshot
+Cobra Force|NOID|92eada54|x|0|0|1989|No Rating|x|Simon Hobbs, Ian Sheridan,|Shooter/Horizontal|UK|Players Premier Software|Tape
+Codename MAT|NOID|b4ff6fef|x|0|0|1984|No Rating|x|Derek Brewster|Shoot 'em Up|UK|Micromega|Snapshot
+Codename MAT II|NOID|2f3fbc3f|x|0|0|1984|No Rating|x|Derek Brewster|Shoot 'em Up|UK|Domark Ltd|Snapshot
+Colditz Story, The|NOID|08c44aff|x|0|0|1987|No Rating|x|Barry Jones|Action/Adventure|UK|Atlantis Software Ltd|Tape
+Colin the Cleaner|NOID|43224ecc|x|0|0|1987|No Rating|x|IJK Software Ltd|Action/Platformer|UK|Tynesoft|Tape
+Collision Course|NOID|80c2a8d0|x|0|0|1987|No Rating|x|Black Run Software|Shoot 'em Up|UK|Americana Software Ltd|Tape
+Colony|NOID|No CRC|x|0|0|1987|No Rating|x|Icon Design Ltd|Action/Maze|UK|Bulldog|Snapshot
+Colossal Adventure|NOID|18bfef9a|x|0|0|1983|No Rating|x|Pete Austin, Mike Austin,|Adventure/Text|UK|Level 9 Computing Ltd|Tape
+Colosseum|NOID|ab7da86|x|0|0|1988|No Rating|x|Eugenio Barahona Marciel, Kantxo|Action|Spain|Topo Soft|Snapshot
+Colour of Magic, The|NOID|43a002ab|x|0|0|1986|No Rating|x|Delta 4 Software|Adventure/Graphic|UK|Piranha|Tape
+Columns|NOID|ef5fdc1c|x|0|0|2005|No Rating|x|Iforeve, Anjuel, na_th_an, WYZ|Action/Puzzle|Spain|Computer Emuzone|Tape
+Comando Quatro|NOID|11a8ebc0|x|0|0|1989|No Rating|x|Gamesoft|Action|Spain|Comando Quatro|Tape
+Comando Tracer|NOID|No CRC|x|0|0|1989|No Rating|x|Zeus Software, Javier Cubedo|Shooter/Horizontal|Spain|Dinamic Software|Tape
+Combat School|NOID|c968e9b7|x|0|0|1987|No Rating|x|Mike Lamb, Andrew P.|Action|UK|Ocean Software Ltd|Tape
+Combat Zone|NOID|39db4bed|x|0|0|1988|No Rating|x|The Firm|Shoot 'em Up|UK|Alternative Software Ltd|Tape
+Comet Game, The|NOID|No CRC|x|0|0|1986|No Rating|x|Andrew Glaister|Shoot 'em Up|UK|Firebird Software Ltd|Tape
+Commando|NOID|8fa55b5d|x|0|0|1985|No Rating|x|Keith Burkhill, Nigel Alderton,|Shoot 'em Up|UK|Elite Systems Ltd|Snapshot
+Con-Quest|NOID|3e71f02b|x|0|0|1986|No Rating|x|Derek Brewster|Adventure|UK|Mastertronic Added Dimension|Snapshot
+Confused|NOID|d2229bcd|x|0|0|1991|No Rating|x|Simon Everest|Puzzle|UK|Crash|Snapshot
+Confuzion|NOID|e400ce83|x|0|0|1985|No Rating|x|Brendan Kelly, Paul Shirley,|Puzzle|UK|Incentive Software Ltd|Snapshot
+Conquestador|NOID|No CRC|x|0|0|1986|No Rating|x|Javier Cano Fuente, Emilio|Adventure|UK|Melbourne House|Tape
+Contact Sam Cruise|NOID|No CRC|x|0|0|1986|No Rating|x|David S. Reidy, Keith|Adventure/Graphic|UK|Microsphere|Tape
+Continental Circus|NOID|be5c0729|x|0|0|1989|No Rating|x|Teque Software Development Ltd|Racing/Arcade|UK|Virgin Mastertronic Ltd|Tape
+Convoy Raider|NOID|f2295353|x|0|0|1987|No Rating|x|John Jarvis|Strategy|UK|Gremlin Graphics Software Ltd|Tape
+Cookie|17944|20d4eb49|x|0|0|1983|No Rating|x|Tim Stamper, Chris Stamper|Action|UK|Ultimate Play The Game|Snapshot
+Cop-Out|NOID|27dd134e|x|0|0|1986|No Rating|x|Raffaele Cecco|Shoot 'em Up|UK|Mikro-Gen Ltd|Tape
+CORE|NOID|716221c7|x|0|0|1986|No Rating|x|A'n'F Software|Action/Adventure|UK|A'n'F Software|Tape
+Corruption|NOID|e7e5feaf|x|0|0|1988|No Rating|x|Magnetic Scrolls Ltd|Adventure/Text|UK|Rainbird Software Ltd|Disk
+Corsarios|NOID|b7d7624e,eb25c2a|x|0|0|1989|No Rating|x|Jose Vicente Pons|Beat 'em Up|Spain|Opera Soft S.A.|Snapshot
+Cosmic Cruiser|NOID|adec9baf|x|0|0|1984|No Rating|x|Steve Lavache, Steve Cain|Shoot 'em Up|UK|Imagine Software Ltd|Tape
+Cosmic Debris|NOID|e0597dd3|x|0|0|1983|No Rating|x|Jon Ritman|Shoot 'em Up|UK|Artic Computing Ltd|Tape
+Cosmic Pirate|NOID|de87ebb3|x|0|0|1989|No Rating|x|MC Lothlorien Ltd|Shoot 'em Up|UK|Byte Back|Tape
+Cosmic Sheriff|NOID|a1b49359|x|0|0|1990|No Rating|x|Teddy, Ruben, Gina, Deborah|Shoot 'em Up|Spain|Dinamic Software|Snapshot
+Cosmic Shock Absorber|NOID|1cfe9a01|x|0|0|1986|No Rating|x|Software Communications Ltd|Shoot 'em Up|UK|Martech Games Ltd|Tape
+Cosmic Wartoad|NOID|81e8ae65|x|0|0|1985|No Rating|x|Denton Designs|Action|UK|Ocean Software Ltd|Tape
+Costa Capers|NOID|69030823|x|0|0|1985|No Rating|x|Steve Marsden, David Cooke|Action/Platformer|UK|Firebird Software Ltd|Snapshot
+Count Duckula|NOID|2185ec3a|x|0|0|1989|No Rating|x|Enigma Variations Ltd|Action/Adventure|UK|Alternative Software Ltd|Tape
+Count Duckula 2|NOID|e5c979e1|x|0|0|1992|No Rating|x|Alternative Software Ltd|Action/Platformer|UK|Alternative Software Ltd|Tape
+Countdown to the Death|NOID|30f6a44d|x|0|0|1990|No Rating|x|MGSoft|Action|UK|Crash|Tape
+Covenant, The|NOID|b2014509|x|0|0|1985|No Rating|x|Paul Hutchinson|Action/Platformer|UK|PSS|Tape
+Cowboy Kidz|NOID|13a3ea16|x|0|0|1989|No Rating|x|Active Magic|Shoot 'em Up|UK|Byte Back|Tape
+Crack Down|NOID|c82c010e|x|0|0|1990|No Rating|x|Arc Developments|Action|UK|US Gold Ltd|Tape
+Crack-Up|NOID|0481d7c5|x|0|0|1989|No Rating|x|Atlantis Software Ltd|Action|UK|Atlantis Software Ltd|Tape
+Crash issue 72 Presents 8|NOID|c3dd81a2|x|0|0|1990|No Rating|x|dev-unknown|Adventure/Action|UK|Crash|Tape
+Crash Review Index 1984|NOID|30c5de7e|x|0|0|1984|No Rating|x|Crash|Adventure/Action|UK|Crash|Tape
+Crazy Cars|NOID|d7c58698|x|0|0|1989|No Rating|x|Titus|Racing|UK|Titus|Tape
+Crazy Cars II|NOID|c4f75aca|x|0|0|1988|No Rating|x|Titus|Racing|UK|Titus|Tape
+Crazy Caverns|NOID|cc6d2e0d|x|0|0|1984|No Rating|x|Severn Software|Action|UK|Firebird Software Ltd|Tape
+Crazy Golf|NOID|59cf0fe3|x|0|0|No Date|No Rating|x|dev-unknown|Action|region-unknown|No Publisher|media-unknown
+Cricket Captain|NOID|07d36e71|x|0|0|1990|No Rating|x|PAL Developments Ltd, Steel|Sports/Cricket|UK|Hi-Tec Software Ltd|Tape
+Critical Mass|NOID|6aa5dc0f|x|0|0|1985|No Rating|x|Simon Francis, Julian Breeze|Shoot 'em Up|UK|Durell Software Ltd|Snapshot
+Crossfire|NOID|b8821086|x|0|0|1989|No Rating|x|Pantheon Software|Shoot 'em Up|UK|Atlantis Software Ltd|Tape
+Crosswize|NOID|8959acfa|x|0|0|1988|No Rating|x|Steve Wetherill, Colin Grunes|Shoot 'em Up|UK|Firebird Software Ltd|Snapshot
+Crystal Castles|NOID|No CRC|x|0|0|1986|No Rating|x|Andromeda Software|Arcade/Isometric|UK|US Gold Ltd|Snapshot
+Crystal Kingdom Dizzy|NOID|16fb82f0|x|0|0|1992|No Rating|x|Visual Impact|Adventure|UK|Code Masters Ltd|Snapshot
+Cue Boy|NOID|b13e4188|x|0|0|1992|No Rating|x|Steven Siddle, Michael Sanderson,|Sports/Pool|UK|Code Masters Ltd|Snapshot
+Curro Jimenez|NOID|a70f2953|x|0|0|1989|No Rating|x|Arcadia Soft|Action|Spain|Zigurat Software|Tape
+Curse of Sherwood, The|NOID|c4eac5b4|x|0|0|1987|No Rating|x|Derek Brewster|Adventure|UK|Mastertronic Ltd|Tape
+Custerd's Quest|NOID|d3baf0f3|x|0|0|1986|No Rating|x|The Power House|Adventure/Graphic|UK|Alpha-Omega Software|Tape
+Cyberball|NOID|1e0004d8|x|0|0|1990|No Rating|x|Stephen Wood, Matt Furniss|Arcade/Sci-Fi|UK|Domark Ltd|Snapshot
+Cyberknights|NOID|db94bd09,1a75c256|x|0|0|1988|No Rating|x|Robert T. Smith|Action|UK|CRL Group PLC|Snapshot
+Cybernation|NOID|8eda84ad|x|0|0|1987|No Rating|x|Steve Briggs, Robin Chapman,|Adventure|UK|Players Software|Snapshot
+Cybernoid II the Revenge|NOID|773b8e31|x|0|0|1988|No Rating|x|Raffaele Cecco, Hugh Binns,|Shooter/Vertical|UK|Hewson Consultants Ltd|Snapshot
+Cybernoid the Fighting Machine|NOID|eabf08ae|x|0|0|1988|No Rating|x|Raffaele Cecco, Nick Jones,|Shooter/Vertical|UK|Hewson Consultants Ltd|Snapshot
+Cyberun|NOID|e492cc92|x|0|0|1986|No Rating|x|Ultimate Play The Game|Shoot 'em Up|UK|Ultimate Play The Game|Snapshot
+Cycles, The|NOID|df6dfc03|x|0|0|1989|No Rating|x|Alan Jardine, Chris Lowe|Racing/Motorcycles|UK|Accolade Inc|Snapshot
+Cyclone|NOID|4726857f|x|0|0|1985|No Rating|x|Costa Panayi|Action|UK|Vortex Software|Tape
+D.N.A. Warrior|NOID|86a9a591|x|0|0|1989|No Rating|x|Data Design Systems|Shooter/Vertical|UK|Cascade Games Ltd|Tape
+Dalek Attack|NOID|5b3cd868|x|0|0|1992|No Rating|x|Admiral Software|Action/Adventure|UK|Alternative Software Ltd|Tape
+Daley Thompson's Decathlon|NOID|b4dc2e69|x|0|0|1984|No Rating|x|Paul Owens, Christian F.|Sports/Olympic|UK|Ocean Software Ltd|Tape
+Daley Thompson's Olympic Challenge|NOID|fc2d513f|x|0|0|1988|No Rating|x|Dave Thompson, Bill Harbison,|Sports/Olympic|UK|Ocean Software Ltd|Snapshot
+Daley Thompson's Supertest|NOID|c6bbb38c|x|0|0|1985|No Rating|x|Paul Owens, Dan Hartley,|Sports/Olympic|UK|Ocean Software Ltd|Snapshot
+Dam Busters, The|NOID|a93342b|x|0|0|1985|No Rating|x|Platinum Productions, F. David|Simulation/Flight|UK|US Gold Ltd|Snapshot
+Dan Dare II Mekon's Revenge|NOID|03159016|x|0|0|1988|No Rating|x|Gang of Five, Irwan|Action/Adventure|UK|Virgin Games Ltd|Snapshot
+Dan Dare III the Escape|NOID|ad0767cb|x|0|0|1990|No Rating|x|Probe Software Ltd|Action/Adventure|UK|Virgin Games Ltd|Snapshot
+Dan Dare Pilot of the Future|NOID|9378e2c3|x|0|0|1986|No Rating|x|Gang of Five, Neil|Action/Adventure|UK|Virgin Games Ltd|Snapshot
+Dandy|NOID|dfb16b6d|x|0|0|1986|No Rating|x|The RamJam Corporation|Action/Maze|UK|EDOS|Snapshot
+Danger Mouse in Double Trouble|NOID|691c3c67|x|0|0|1984|No Rating|x|Martin Harris, Nick Burroughs|Action/Adventure|UK|Creative Sparks|Snapshot
+Danger Mouse in Making Whoopee!|NOID|afd98914|x|0|0|1985|No Rating|x|Phil Snell|Action/Maze|UK|Creative Sparks|Tape
+Darius+|NOID|e47f46f1|x|0|0|1990|No Rating|x|Christian Pennycate, Mark Healey|Arcade/Shooter|UK|The Edge Software|Tape
+Dark Fusion|NOID|dad4d1b7|x|0|0|1988|No Rating|x|John O'Brien, Berni, Ben|Shoot 'em Up|UK|Gremlin Graphics Software Ltd|Snapshot
+Dark Sceptre|NOID|364d1c34|x|0|0|1987|No Rating|x|Beyond Software, Maelstrom Games|Strategy/Turnbased|UK|Firebird Software Ltd|Tape
+Dark Side|NOID|No CRC|x|0|0|1988|No Rating|x|Major Developments|Action/Adventure|UK|Incentive Software Ltd|Snapshot
+Dark Star|NOID|38a11d60|x|0|0|1984|No Rating|x|Simon Brattel, JON|Shoot 'em Up|UK|Design Design Software|Tape
+Dark Tower, The|NOID|b6a52c9d|x|0|0|1992|No Rating|x|Jack A. Lockerby|Adventure/Text|UK|River Software|Snapshot
+Darkman|NOID|697be425|x|0|0|1991|No Rating|x|Twilight|Shoot 'em Up|UK|Ocean Software Ltd|Tape
+Day in the Life|NOID|80e1e221|x|0|0|1985|No Rating|x|Stephen J. Redman|Action|UK|Micromega|Tape
+Days of Thunder|NOID|383e0717|x|0|0|1990|No Rating|x|Tiertex Ltd|Racing/Cars|UK|Mindscape International Inc|Snapshot
+Deactivators|NOID|045dedee|x|0|0|1986|No Rating|x|Tigress Marketing Ltd|Action/Maze|UK|Reaktor|Snapshot
+Dead Or Alive|NOID|1de01a5d|x|0|0|1987|No Rating|x|Richard Stevenson|Shoot 'em Up|UK|Alternative Software Ltd|Tape
+Deadringer|NOID|72ab33eb|x|0|0|1987|No Rating|x|Lance R. Mason|Shoot 'em Up|UK|Reaktor|Snapshot
+Death Before Dishonour|NOID|50b72cad|x|0|0|1987|No Rating|x|C. Yau|Shooter/Vertical|UK|Alternative Software Ltd|Tape
+Death Or Glory|NOID|141a5585|x|0|0|1987|No Rating|x|Wise Owl Software|Shooter/Vertical|UK|CRL Group PLC|Tape
+Death Pit|NOID|3a79e1a4|x|0|0|No Date|No Rating|x|Clive Townsend|Action/Platformer|UK|Durell Software Ltd|Tape
+Death Stalker|NOID|5dc6129e|x|0|0|1989|No Rating|x|TAG Computer Games|Action/Adventure|UK|Code Masters Ltd|Snapshot
+Death Star Interceptor|NOID|df3e712|x|0|0|1985|No Rating|x|David Aubrey-Jones, Mark Cale|Shoot 'em Up|UK|System 3 Software Ltd|Tape
+Death Wake|NOID|8544fa62|x|0|0|1985|No Rating|x|Binary Design Ltd|Strategy/Turnbased|UK|Quicksilva Ltd|Tape
+Death Wish 3|NOID|322a1197|x|0|0|1987|No Rating|x|Shaun Hollingworth, Peter M.|Action|UK|Gremlin Graphics Software Ltd|Snapshot
+Death Zone|NOID|e348717a|x|0|0|1989|No Rating|x|Paul Breed, G. Howard|Shoot 'em Up|UK|Sinclair User|Snapshot
+Deathscape|NOID|ae3bccea|x|0|0|1987|No Rating|x|Philip Taglione, Pete James,|Shoot 'em Up|UK|Starlight Software|Snapshot
+Deep Space|NOID|8745ed9d|x|0|0|1984|No Rating|x|A. Tobias|Shoot 'em Up|UK|PSS|Tape
+Deep Strike|NOID|348ea0c0|x|0|0|1986|No Rating|x|Nick Wilson, Maz H.|Flight Simulator ,|UK|Durell Software Ltd|Snapshot
+Deep, The|NOID|bce61066|x|0|0|1988|No Rating|x|Emerald Software Ltd|Action|UK|US Gold Ltd|Tape
+Defcom|NOID|8161547f|x|0|0|1986|No Rating|x|Binary Design Ltd|Shoot 'em Up|UK|Quicksilva Ltd|Tape
+Defenda|NOID|eb115bf7|x|0|0|1984|No Rating|x|Alan J. Lloyd, Peter|Action/Vertical|UK|Interstella Software|Tape
+Defender of the Crown|NOID|3bbc7dd1|x|0|0|1989|No Rating|x|David Taletovics, Tamas Kaproncai,|Strategy/Adventure|UK|The Cat|Tape
+Defenders of the Earth|NOID|e9e91835|x|0|0|1990|No Rating|x|Andrew Swann, Peter Tattersall,|Action|UK|Enigma Variations Ltd|Tape
+Deflektor|NOID|a5a4fd2f|x|0|0|1987|No Rating|x|Vortex Software|Puzzle|UK|Gremlin Graphics Software Ltd|Snapshot
+Deja Vu|NOID|af897141|x|0|0|1989|No Rating|x|Andrew Mark Daly, Huw|Action/Maze|UK|Crash|Tape
+Deja Vu the Remix|NOID|99700cd1|x|0|0|1990|No Rating|x|Andrew Mark Daly|Action/Maze|UK|Crash|Tape
+Delta Charge!|NOID|8cd6d47a|x|0|0|1990|No Rating|x|Twilight|Shooter/Vertical|UK|Thalamus Ltd|Snapshot
+Demon from the Darkside|NOID|411b9a73|x|0|0|1986|No Rating|x|Jon R. Lemmon|Adventure/Graphic|UK|Compass Software|Tape
+Demon's Revenge|NOID|86bec7c3|x|0|0|1988|No Rating|x|Probe Software Ltd|Action/Adventure|UK|Firebird Software Ltd|Tape
+Denizen|NOID|6ae6dff4|x|0|0|1988|No Rating|x|Paul Griffiths, Mike Brown,|Action|UK|Players Software|Tape
+Desert Burner|NOID|375fef44|x|0|0|1985|No Rating|x|Roy Poole, Terry Murray|Vehicular Combat ,|UK|Sparklers|Tape
+Desert Hawk|NOID|e6bc9843|x|0|0|1986|No Rating|x|Michael I. Barnard, Steven|Shoot 'em Up|UK|Players Software|Tape
+Desolator|NOID|9b8bc5ac|x|0|0|1988|No Rating|x|Source Software Ltd|Action/Maze|UK|US Gold Ltd|Snapshot
+Desperado 2|NOID|f1aca40a|x|0|0|1991|No Rating|x|Cinto Ventura, Jaume Altimira,|Shoot 'em Up|Spain|Topo Soft|Tape
+Deus Ex Machina|NOID|549075a7|x|0|0|1984|No Rating|x|Mel Croucher, Andrew Stagg,|Simulation|UK|Automata UK Ltd|Tape
+Devastating Blow|NOID|46dde877|x|0|0|1991|No Rating|x|Jim Scott|Sports/Boxing|UK|Beyond Belief|Tape
+Deviants|NOID|2d05732e|x|0|0|1987|No Rating|x|Colin Swinbourne, Andrew Severn,|Action/Platformer|UK|Players Software|Snapshot
+Devil Diver|NOID|400e8e44|x|0|0|1984|No Rating|x|John R. Edmonds|Action|UK|DK'Tronics Ltd|Tape
+Devil's Crown|NOID|56740b1d|x|0|0|1985|No Rating|x|Brian O'Shaughnessy|Action/Adventure|UK|Mastertronic Ltd|Tape
+Di-Lithium Lift|NOID|c04e50e2|x|0|0|1983|No Rating|x|Simon Cobb|Action|UK|Hewson Consultants Ltd|Tape
+Diamond|NOID|cfa56283|x|0|0|1988|No Rating|x|John Bigelow, Patti Rose|Action/Maze|UK|Destiny Software|Tape
+Dick Tracy|NOID|d11a0185|x|0|0|1990|No Rating|x|Herve Trisson|Shoot 'em Up|UK|Titus|Tape
+Die Alien Slime|NOID|2e3cccb1|x|0|0|1989|No Rating|x|Mongee Boswell|Shoot 'em Up|UK|Mastertronic Plus|Snapshot
+Digger Dan|NOID|2aab0c68|x|0|0|1983|No Rating|x|Oxygen Software|Action/Platformer|UK|Ocean Software Ltd|Tape
+Dimension Destructors|NOID|1507dd8a|x|0|0|1983|No Rating|x|Jon Ritman|Shoot 'em Up|UK|Artic Computing Ltd|Tape
+Dimension Omega|NOID|2080b7cb,69af7abf|x|0|0|1989|No Rating|x|Antonio Freixanet, Pepe Samba,|Action|Spain|Positive|Tape
+Dirt Track Racer|NOID|b2a096de|x|0|0|1991|No Rating|x|Moose, Michael Sanderson, CAT|Racing/ATV|UK|Zeppelin Games Ltd|Tape
+Disco Dan|17942|b3a32600|x|0|0|1984|No Rating|x|Darren White, John Line|Action|UK|Gem Software|Tape
+Discs of Death|NOID|6c04fc6a|x|0|0|1985|No Rating|x|Ian Rich|Action|UK|Artic Computing Ltd|Tape
+Dizzy 3 and a Half|NOID|8a82c837|x|0|0|1991|No Rating|x|Code Masters Ltd|Adventure/Action|UK|Crash|Tape
+Dizzy Down the Rapids|NOID|426abaa3|x|0|0|1991|No Rating|x|Paul Griffiths, Michael Sanderson,|Action|UK|Code Masters Ltd|Snapshot
+Dizzy I Crash Special Edition|NOID|83d585be|x|0|0|1989|No Rating|x|dev-unknown|Adventure/Action|UK|Crash|Tape
+Dizzy the Ultimate Cartoon Adventure|NOID|be2ce225|x|0|0|1987|No Rating|x|The Oliver Twins, Jon|Action/Adventure|UK|Code Masters Ltd|Snapshot
+DJ Puff's Volcanic Caper|NOID|e7fc3d68|x|0|0|1992|No Rating|x|Brian Beuken, Allister Brimble,|Action/Platformer|UK|Code Masters Ltd|Tape
+Doc the Destroyer|NOID|4e55afb5|x|0|0|1987|No Rating|x|Beam Software|Beat 'em Up|UK|Melbourne House|Snapshot
+Doctor What!|NOID|d931af61|x|0|0|1986|No Rating|x|Software Foundation|Adventure|UK|CRL Group PLC|Tape
+Dodgy Geezers|NOID|d4ae3457|x|0|0|1986|No Rating|x|Trevor Lever, Peter Jones|Adventure/Graphic|UK|Melbourne House|Tape
+Dogfight 2187|NOID|b807d4fb|x|0|0|1987|No Rating|x|Timothy Walter|Shoot 'em Up|UK|Starlight Software|Tape
+Dome Trooper|NOID|dc40dbc8|x|0|0|1986|No Rating|x|Matthew Holmes|Adventure/Graphic|UK|Matand Software|Tape
+Dominator|NOID|e2cbf637|x|0|0|1989|No Rating|x|Mark Cale|Shooter/Vertical|UK|System 3 Software Ltd|Snapshot
+Don't Panic|NOID|fff0e256|x|0|0|1985|No Rating|x|Andrew Rogers, Martin Craig|Action/Platformer|UK|Firebird Software Ltd|Snapshot
+Donkey Kong|NOID|f54f6058|x|0|0|1986|No Rating|x|Sentient Software Ltd, Sheik|Arcade/Platformer|UK|Ocean Software Ltd|Tape
+Donkey Kong Jr.|NOID|36f5ca1e|x|0|0|1984|No Rating|x|Thomas Busse, R. Busse|Arcade/Platformer|UK|Thomas Busse|Snapshot
+Doombase|NOID|fab3594e|x|0|0|1986|No Rating|x|Essential Consultants Ltd|Action|UK|Sparklers|Tape
+Doomdark's Revenge|NOID|5ccb6bf3|x|0|0|1984|No Rating|x|Mike Singleton|Strategy|UK|Beyond Software|Snapshot
+Doomskulle|NOID|100c8ae2|x|0|0|1990|No Rating|x|Richard Hutchison|Action/Maze|UK|Crash|Snapshot
+Double Dare|NOID|4a550f83|x|0|0|1991|No Rating|x|Bizarre Developments|Action/Maze|UK|Alternative Software Ltd|Tape
+Double Dash|NOID|347aae2a|x|0|0|1990|No Rating|x|VooDoo, Fuxoft|Action/Puzzle|Slovakia|Ultrasoft|Tape
+Double Dragon|NOID|a38e0c54|x|0|0|1989|No Rating|x|Binary Design Ltd|Beat 'em Up|UK|Melbourne House|Tape
+Double Dragon II the Revenge|NOID|af872e35|x|0|0|1989|No Rating|x|Binary Design Ltd|Beat 'em Up|UK|Virgin Mastertronic Ltd|Tape
+Double Dragon III the Rosetta Stone|NOID|5168212f|x|0|0|1991|No Rating|x|Tom Prosser, Shaun G.|Beat 'em Up|UK|Storm Software|Tape
+Double Take|NOID|c82c0501|x|0|0|1987|No Rating|x|Denton Designs|Action/Vertical|UK|Ocean Software Ltd|Tape
+Down to Earth|NOID|12f4183e|x|0|0|1987|No Rating|x|Probe Software Ltd, MOS|Action/Puzzle|UK|Firebird Software Ltd|Tape
+Downtown|NOID|cfbbf2fb|x|0|0|1991|No Rating|x|The Shaw Brothers|Action/Adventure|UK|Atlantis Software Ltd|Tape
+Dr. Doom's Revenge!|NOID|1554d3ec|x|0|0|1989|No Rating|x|Bedrock Software, Oxford Digital|Beat 'em Up|UK|Empire Software|Tape
+Dr. Jekyll and Mr Hyde|NOID|bb4cbd62,591c8c7e,854e7cfc|x|0|0|1988|No Rating|x|Rod Pike, Shaun G.|Adventure/Graphic|UK|The Essential Myth|Snapshot
+Dr. Maddo!|NOID|25b906c8|x|0|0|1987|No Rating|x|P. Maticevic, M. Novkovic,|Action|UK|US Gold Ltd|Snapshot
+Draconus|NOID|6aeb0e66|x|0|0|1988|No Rating|x|Spike, Michael Owens|Action/Platformer|UK|Zeppelin Games Ltd|Tape
+Dracula|NOID|367583d7,a29a8ff8,f3cade45|x|0|0|1986|No Rating|x|Rod Pike, Ian Ellery|Adventure/Text|UK|CRL Group PLC|Snapshot
+Dragon Breed|NOID|d8515e49|x|0|0|1990|No Rating|x|Bob Pape, Nick Cooke|Shoot 'em Up|UK|Activision Inc|Tape
+Dragon Ninja|NOID|f7171c64|x|0|0|1988|No Rating|x|Paul Owens, Mark R.|Beat 'em Up|UK|Imagine Software Ltd|Snapshot
+Dragon Spirit|NOID|73bb12ed|x|0|0|1989|No Rating|x|Consult Computer Systems|Shoot 'em Up|UK|Domark Ltd|Tape
+Dragon's Lair|NOID|f226d310|x|0|0|1986|No Rating|x|Paul Hodgson, Andy Walker,|Arcade/Action|UK|Software Projects Ltd|Tape
+Dragon's Lair II Singe's Castle|NOID|f1ae27b1|x|0|0|1987|No Rating|x|Andy Walker, Rob Hubbard|Action|UK|Software Projects Ltd|Tape
+Dragons of Flame|NOID|ef1661a9|x|0|0|1990|No Rating|x|John May, Jeremy Nelson|Role Playing Game|UK|US Gold Ltd|Tape
+Dragonsbane|NOID|a16eb3b7|x|0|0|1983|No Rating|x|M. Preston, P. Hunt,|Adventure/Text|UK|Quicksilva Ltd|Tape
+Dragontorc|NOID|c2e5c32e|x|0|0|1985|No Rating|x|Graftgold Ltd|Action/Adventure|UK|Hewson Consultants Ltd|Snapshot
+Draughts Genius|NOID|3d607d47|x|0|0|1987|No Rating|x|Raffaele Cecco, Paolo Malnati,|Board Game ,|UK|Rack-It|Snapshot
+Dream Warrior|NOID|c2eb12f0|x|0|0|1988|No Rating|x|Ashminster Computing Ltd, Stefan|Shoot 'em Up|UK|US Gold Ltd|Snapshot
+Driller|NOID|0387f1c0|x|0|0|1987|No Rating|x|Major Developments|Action/Adventure|UK|Incentive Software Ltd|Tape
+Driller Tanks|NOID|No CRC|x|0|0|1983|No Rating|x|Hudson Soft|Action|UK|Sinclair Research Ltd|Tape
+Droidz|NOID|f4e2c7e7|x|0|0|1988|No Rating|x|David Lyttle, S. Lyttle|Action/Maze|UK|Silverbird Software Ltd|Tape
+Druid|NOID|7d139786|x|0|0|1986|No Rating|x|Dene T. Carter, Andrew|Action/Adventure|UK|Firebird Software Ltd|Tape
+Druid II Enlightenment|NOID|4822960f|x|0|0|1986|No Rating|x|Dene T. Carter, Brian|Action/Adventure|UK|Firebird Software Ltd|Snapshot
+Duck Out!|NOID|2d8955dc|x|0|0|1989|No Rating|x|Josko Soft|Beat 'em Up|Spain|Dro Soft|Tape
+Duct, The|NOID|49a8a96a|x|0|0|1988|No Rating|x|David Pridmore|Action|UK|Gremlin Graphics Software Ltd|Snapshot
+Duel, The Test Drive II|NOID|92a930b3|x|0|0|1989|No Rating|x|Random Access|Racing/Cars|UK|Accolade Inc|Tape
+Duet|NOID|15b43210|x|0|0|1987|No Rating|x|Tony Samuels, Dan Hartley,|Action|UK|Elite Systems Ltd|Snapshot
+Dukes of Hazzard, The|NOID|13c8b197|x|0|0|1985|No Rating|x|Elite Systems Ltd|Racing/Cars|UK|Elite Systems Ltd|Snapshot
+Dun Darach|NOID|4c096fa1|x|0|0|1985|No Rating|x|Carter Follis Software Associates|Adventure/Graphic|UK|Gargoyle Games|Snapshot
+Dungeon Adventure|NOID|No CRC|x|0|0|1983|No Rating|x|Pete Austin, Mike Austin,|Adventure/Text|UK|Level 9 Computing Ltd|Snapshot
+Dungeon Master, The|NOID|45deb64e|x|0|0|1983|No Rating|x|Graham Stafford|Adventure/Text|UK|Crystal Computing|Tape
+Dustin|NOID|778c60fb|x|0|0|1987|No Rating|x|Enrique Cervera Mateu, Snatcho,|Adventure|Spain|Dinamic Software|Snapshot
+Dustman|NOID|8ca7a3bf|x|0|0|1984|No Rating|x|Silicon Kid|Shoot 'em Up|UK|Timescape Software|Tape
+Dynamic Duo|NOID|0d108034|x|0|0|1989|No Rating|x|Probe Software Ltd|Action/Adventure|UK|Firebird Software Ltd|Tape
+Dynamite Dan|NOID|218460b1|x|0|0|1985|No Rating|x|Rod Bowkett|Action/Platformer|UK|Mirrorsoft Ltd|Snapshot
+Dynamite Dan II|NOID|3159e0f3|x|0|0|1986|No Rating|x|Rod Bowkett|Action/Platformer|UK|Mirrorsoft Ltd|Tape
+Dynamite Dux|NOID|c13fc9c0|x|0|0|1989|No Rating|x|CORE Design Ltd|Beat 'em Up|UK|Activision Inc|Tape
+Dynamix|NOID|e8cca35d|x|0|0|1989|No Rating|x|PAL Developments Ltd|Action|UK|Virgin Mastertronic Ltd|Tape
+Dynasty Wars|NOID|bda5db6a|x|0|0|1990|No Rating|x|Tiertex Ltd|Action|UK|US Gold Ltd|Tape
+Dynatron Mission|NOID|b83a4f4c|x|0|0|1987|No Rating|x|Paul Hargreaves|Action/Maze|UK|Mastertronic Ltd|Tape
+E-motion|NOID|cc29fe26|x|0|0|1990|No Rating|x|The Code Monkeys|Puzzle|UK|US Gold Ltd|Snapshot
+E-SWAT|NOID|No CRC|x|0|0|1990|No Rating|x|Creative Materials Ltd|Shoot 'em Up|UK|US Gold Ltd|Tape
+Earth Defence|NOID|4b4f3c35|x|0|0|1984|No Rating|x|Donald Campbell|Action|UK|Artic Computing Ltd|Tape
+Earthlight|NOID|063d61f4|x|0|0|1988|No Rating|x|Nexus Productions Ltd|Shoot 'em Up|UK|Firebird Software Ltd|Tape
+Edd the Duck!|NOID|88029813|x|0|0|1990|No Rating|x|Brian Beuken, David Taylor,|Action/Platformer|UK|Impulze|Snapshot
+Eddie Edwards' Super Ski|NOID|0eda1797|x|0|0|1989|No Rating|x|Microids|Sports/Skiing|France|Loriciels|Tape
+Eidolon, The|NOID|c9da9e20|x|0|0|1986|No Rating|x|P.A.W. Software|Adventure/Sci-Fi|UK|Activision Inc|Snapshot
+Election|NOID|1220d671|x|0|0|1987|No Rating|x|Virgin Games Ltd|Adventure|UK|Virgin Games Ltd|Snapshot
+Elektro Storm|NOID|f4fa67b6|x|0|0|1983|No Rating|x|Stanley Cartwright|Action|UK|PSS|Snapshot
+Elevator Action|NOID|300fcd9|x|0|0|1987|No Rating|x|Binary Design Ltd|Arcade/Action|UK|Quicksilva Ltd|Tape
+Eliminator|NOID|c19dc2b3|x|0|0|1988|No Rating|x|Mark Wallace|Shooter/Vertical|UK|Alternative Software|Tape
+Elite|NOID|f968958b,e3ee9e8e,594daf7a,0764fc1b|x|0|0|1985|No Rating|x|Torus|Strategy/Managerial|UK|Firebird Software Ltd|Tape, Snapshot
+Elven Warrior|NOID|10bcb8c8|x|0|0|1989|No Rating|x|Bizarre Computer Productions|Action/Adventure|UK|Players Premier Software|Tape
+Embassy Assault|NOID|aa146f79|x|0|0|1982|No Rating|x|ICL|Action/3D|UK|Sinclair Research Ltd|Tape
+Emlyn Hughes International Soccer|NOID|6462bede|x|0|0|1989|No Rating|x|Graham Blighe, Nigel Alderton,|Sports/Soccer|UK|Audiogenic Software Ltd|Snapshot
+Empire Fights Back, The|NOID|1de9fdf3|x|0|0|1985|No Rating|x|Clive Brooker, Jim|Shoot 'em Up|UK|Mastertronic Ltd|Snapshot
+Empire Strikes Back, The|NOID|e145641a|x|0|0|1988|No Rating|x|Vektor Grafix|Arcade/Simulation|UK|Domark Ltd|Tape
+Empire!|NOID|cdeeb0fc|x|0|0|1986|No Rating|x|Andrew Glaister|Strategy/Managerial|UK|Firebird Software Ltd|Snapshot
+Enchanted|NOID|e0867890|x|0|0|1989|No Rating|x|Antonio Freixanet, Pepe Samba,|Pinball|UK|Positive|Tape
+Endurance|NOID|0b491102|x|0|0|1985|No Rating|x|G.B. Munday, B.P. Wheelhouse|Simulation/Motorcycles|UK|CRL Group PLC|Tape
+Enduro|NOID|2c9c4f50|x|0|0|1984|No Rating|x|James Software Ltd|Racing/Cars|UK|Activision Inc|Snapshot
+Enduro Racer|NOID|f9d78fc5|x|0|0|1987|No Rating|x|Giga Games, Focus Creative|Racing/Arcade|UK|Activision Inc|Snapshot
+Energy Warrior|NOID|a67e139d|x|0|0|1987|No Rating|x|Binary Design Ltd|Shooter/Vertical|UK|Mastertronic Ltd|Tape
+Enigma Force|NOID|ed2fb8d9|x|0|0|1985|No Rating|x|Denton Designs|Strategy/Tactical|UK|Beyond Software|Snapshot
+Enterprise|NOID|bba36351|x|0|0|No Date|No Rating|x|Software Studios, Foursfield, Focus|Strategy/Tactical|region-unknown|No Publisher|media-unknown
+Equinox|NOID|aaa2864d|x|0|0|1986|No Rating|x|Raffaele Cecco, Chris Hinsley,|Action/Maze|UK|Mikro-Gen Ltd|Snapshot
+Fernando Martin Basket Master|NOID|0d95ed87|x|0|0|1987|No Rating|x|Snatcho, Victor Ruiz Tejedor,|Sports/Basketball|Spain|Dinamic Software|Tape
+Poder Oscuro, El|NOID|38e48cb5|x|0|0|1988|No Rating|x|Arcadia Soft|Action|Spain|Zigurat Software|Tape
+Green Beret|17418|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+New Zealand Story|17420|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Hacker II the Doomsday Papers|17421|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Saboteur|17422|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Wizball|17424|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Saboteur II|17426|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Impossible Mission|17427|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Winter Games|17428|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Sabre Wulf|17926|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Jetpac|17929|No CRC|x|0|0|No Date|No Rating|x|Uknown|Platformer|USA|No Publisher|Cart
+Manic Miner|17934|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Pud Pud|17935|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Lunar Jetman|17936|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Harrier Attack|17937|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Horace And the Spiders|17939|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Hunchback|17941|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Jet Set Willy|17943|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Stonkers|17945|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Pssst|17946|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Ghostbusters|17951|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Wheelie|17978|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Rollercoaster|17991|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Scuba Dive|17994|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Jumping Jack|17995|No CRC|x|0|0|No Date|No Rating|x|dev-unknown|No Genre|region-unknown|No Publisher|media-unknown
+Sex Game|NOID|NOCRC|x|0|0|Unknown|Unknown|x|Unknown|Unknown|Unknown|Unknown|Unknown
+R-Type|NOID|NOCRC|x|0|0|Unknown|Unknown|x|Unknown|Unknown|Unknown|Unknown|Unknown
+Paradise Cafe|NOID|NOCRC|x|0|0|Unknown|Unknown|x|Unknown|Unknown|Unknown|Unknown|Unknown
+DEFAULT|NOID|NOCRC|x|0|1|1982|Good|x|ZX|SYSTEMROM|ALL|ZX|ROM

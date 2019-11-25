@@ -1,0 +1,10 @@
+This game is a ripoff of the classic arcade game Burgertime. You are a hamburger chef and you're out to build delicious hamburgers. As you run through the colorful maze assembling the ingredients, there is nothing that can stop you. Except maybe the menacing egg, hot dog and pickles that are out to ruin the meal! You can bury them under beef patties, lettuce and buns. Or, knock them out with pepper. To complete a level you have to build four burgers.
+
+http://www.mobygames.com/game/msx/macattack
+
+-----------------------------------------------------------------------
+
+masaxi (01-08-2005 10:53) 
+This is well made game, but only reason I haven´t played it a much, is that it is cursed with invisible sausages on later levels when there are too many sprites walking on same level. If you really watch all the time what is going on on screen, it IS possible to see them before they climb ladders to same to form big group and some of them disappear so it is possible to know where they are, but that makes game too much harder... If the programmers just had made sausages flicker, but no.. they are totally invisible... that´s sad for good conversion.
+
+http://www.generation-msx.nl/msxdb/softwareinfo/2394

@@ -1,0 +1,45 @@
+In 2049, the human population of Earth embarks on a migratory voyage to try to colonize other planets. They leave mechanical "orbots" to clean up the mess they made on Earth through littering and pollution. Raster, a high-level orbot who watches Earth through a planetwide computer network, is accidentally attached to a working nuclear missile by a lesser orbot and goes insane, becoming an evil dictator named Warhead. He declares himself ruler of Earth, and begins preparing to execute any humans who dare return to their planet.
+
+Enter Vectorman, a humble orbot in charge of cleaning up toxic sludge by simply discharging it into the sun. As he lands on Earth after his last trip, he finds chaos and confusion. Because all the other Orbots are controlled by Warhead (Vectorman having not been affected because he was away), Vectorman takes it upon himself to destroy the errant orbot and restore peace to Earth.
+
+Overview:
+
+Vectorman, in my view, is one of the the most technically impressive games on the Sega Genesis. The first thing that kind of sticks out amongst the other games for this platform would be the graphics. Using pre-rendered 3D models, the game is given a very cool look and probably goes beyond the threshold that the Genesis is capable of. For those that dig the techno music genre, the soundtrack of the game will appeal to said demographic. And even to those who aren't fans, they can probably agree the music fits the atmosphere. All in all, this is an awesome title to pick up and play, and I recommend it for those that love side-scrolling games with a twist.
+
+Directions:
+
+Vectorman appears to be your typical platformer game, but as you start to play, nothing can be farther from the truth. Many factors make it much different than the typical Genesis game.
+
+For one, the main character, Vectorman, has one main method of attack: firing energy from the palm of his hand. As you progress through the sixteen levels that the game consists of, you'll find yourself coming across new power ups to give Vectorman new attacks like a machine gun and a triple fire as well. Some of these can come from destroying enemies; however, you can also get some from blowing up the several monitors you see.
+
+Along with his unique appearance and ability to fire energy at will, Vectorman also can shift his body into different forms. For example, his body becomes something that resembles that of a drill and is able to cut through certain surfaces. He can also receive a missile-like form that allows him to soar through ceilings.
+
+Starting off in the game, you'll find yourself with four units for life. There's a chance you might lose some health over time and be in dire need of more. This is where you seek out small orbs to help you. If you spot a green one, you can pick it up and a unit of health is restored. There are also those that replenish all your health and one that does the same but also gives you an extra health capsule.
+
+You'll notice that you have a time limit to complete each level in. You need to hustle, no doubt, but you can also find add-ons to help you along the way. If you find extra time clocks floating around, you can collect them and two more minutes are instantly added on for you. As well, you can find checkpoints that are marked with a blue V. If you cross them, instead of starting at the far beginning of the level, you will begin back at the checkpoint which also helps your adventure.
+
+After every few levels or so, you are greeted by a boss battle. Each one, as you might come to expect from platformers, have their own unique patterns that they follow in, and it's up to you to come up with a strategy to fight them. These bosses become even more defensive, as well as being able to take more hits, if you heighten the difficulty level of the game. So make sure you practice before stepping it up. 
+
+Gameplay:
+
+Vectorman uses pre-rendered 3D models in its level and character designs. This gives the game a smooth, computer-generated feel. The original name of the villain, Warhead, was Raster (as in raster graphics, the opposite of vector graphics). Vectorman was considered the answer to Nintendo's Donkey Kong Country at the time, as they both used graphical tricks to look beyond what the console could do.
+
+The game itself is a straightforward 2D action platformer. Vectorman is an orbot (something like a robot) powered with a ball gun in his hand; powerups include a machine gun, "bolo" gun, and triple-fire guns.
+
+Vectorman possesses the ability to transform, through the use of powerups, into several different forms: including a drill, to cut through floors; a bomb, to destroy all surrounding enemies or breakable walls; and an aquatic form, useful for swimming underwater. In addition to powerup transformations, 3 levels host unique morphed forms with which to combat bosses in. Overall, the game consists of 16 levels.
+
+Controls:  
+
+A Button: Fire Weapon
+B Button: Fire Weapon
+C Button: Jump; Again To Double Jump
+Start Button: Pause Game
+
+Hints:  
+
+Refill Health - Pause the game. Now type in this code: A, B, Right, A, C, A, Down, A, B, Right, A. Your health will now be restored. Keep in mind that the use of this code will not get you the real ending of the game!
+
+Blow Up The SEGA Logo - Wait until you get to the screen where you see Vectorman and the SEGA logo. Move to the right a bit and shoot upwards: there is a hidden monitor there. When you break it, jump up and collect the power up. When you do, the SEGA logo will stop working as will the background. A meaningless code, in retrospect, but fun to see nonetheless.
+
+Satellite Dishes - If you find these, you can destroy them. After doing so, you are whisked away to a bonus round. 
+

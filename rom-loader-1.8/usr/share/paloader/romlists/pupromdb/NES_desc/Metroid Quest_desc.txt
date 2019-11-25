@@ -1,0 +1,3 @@
+This is a 95% graphics hack of the NES game, "Metroid." The game features Link (instead of Samus in suit) and a slightly modified Kid Icarus (instead of Samus out of suit). The enemies vary from games like Zelda 2, Super Mario Bros. 2, Super Mario Bros. 3, Mega Man, and a few others. I recommend playing through the whole game to appreciate the full hack.
+
+http://www.derok.net/emulation0/metroid.html

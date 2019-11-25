@@ -1,0 +1,17 @@
+The back-story indicates that the pilot is from another time and place, who appears suddenly when all hope seems lost in a global conflict against a mysterious, evil army. The pilot uses a biplane known as The Tiger Shark modified to use unique weapons to do battle.
+
+Gameplay:
+
+The mission is divided into ten stages, each possessing a different setting. Players must destroy every enemy that crosses their path between kamikaze enemy monoplanes and, land and sea vehicles. Players can increase their bomb count, the speed via pick-ups. Players can hold up to ten bombs and can acquire extra lives from accumulating their score. The game has a checkpoint system that once a player dies, they have to restart at the closest checkpoint they passed.
+
+The weapon pick-ups include the following:
+
+- Wide Shot - the player's standard weapon, symbolized by a blue diamond, which spreads out in a wide V shape.
+
+- Shark Beam - twin, green lasers, symbolized by a green diamond, which fire straight forward in a helix pattern.
+
+- Super Fire - A single column of fire, symbolized by a red diamond, that multiples and spreads out at different angles independently when powered up. Is the only weapon that covers the plane's sides and tail-end.
+
+Once all ten stages are complete, the player is offered a chance to replay the game at a higher difficulty.
+
+http://en.wikipedia.org/wiki/Fire_Shark

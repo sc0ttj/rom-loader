@@ -1,0 +1,22 @@
+Tetris 64 (????64?) is a puzzle game for the Nintendo 64. It was released only in Japan in 1998. The whole game is in English. It is the only Nintendo 64 game that can make use of the Nintendo 64's bio sensor which was included with the game.
+
+Tetris 64 offers a few variations on the original Tetris,
+
+    * Tetris - The standard tetris game not differing from the original.
+    * Giga Tetris - The normal tetris game, but with oversized tetrominoes which break up into smaller pieces.
+    * Bio Tetris - The normal tetris game using the bio sensor. The game is sped up or slowed down depending on the user's heart rate.
+
+Bio Sensor
+
+The bio sensor is a Nintendo 64 accessory produced by SETA and only available in Japan. It was sold on its own or packaged with Tetris 64. The bio sensor looks like a Nintendo 64 controller pak with a wire coming out of it with a clip on the end. One end of the sensor plugs into the extension port on the Nintendo 64 controller, and the other end clips onto the player's ear. The device measures the user's heart rate.
+
+Critical reception
+
+The game was praised for its multiplayer mode, which at the time was the only Nintendo 64 Tetris game which allowed 4 player mode, while most puzzle games still had not made the step into the four-player arena,
+
+    * "Tetris 64 manages to do so and delivers the best possible multiplayer gameplay." (IGN)
+
+The game was also recommended for import to English speaking territories because all in-game text is in English. The game was criticized however for its poor graphics and simple backgrounds which could not compare to other Tetris games out on the system at the same time, such as Magical Tetris Challenge or
+
+
+http://en.wikipedia.org/wiki/Tetris_64

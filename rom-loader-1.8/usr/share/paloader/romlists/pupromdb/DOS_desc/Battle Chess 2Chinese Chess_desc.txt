@@ -1,0 +1,9 @@
+A sequel to the original Battle Chess, this game takes on a more Chinese approach, both in the rules of the game and in the presentation. 
+
+Using a Chinese variation of the game of Chess, pieces like the Queen and Bishop are replaced by Counsellors, Ministers, and Cannon. Pieces behave differently than their European counterparts and even the board is set up differently. Two things remain the same: the ultimate goal of checkmating the opposing player's king and the Battlechess style animated battles that occur when two pieces contend for the same spot on the board.
+
+Trivia:
+
+BC2 actually did NOT implement one of the Chinese chess rules... The "two kings may not face either other across the field" rule. This makes checkmating the king somewhat harder than it should be, esp. in games with very few pieces left on the board.
+
+http://www.mobygames.com/game/battle-chess-ii-chinese-chess

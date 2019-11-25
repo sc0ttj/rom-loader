@@ -1,0 +1,111 @@
+# resolution combobox
+RES_ARRAY=(Default 320X200 320x240 512x384 640x400 640x480 800x600 960x600 960x720 1024x600 1024x768 1280x800 1280x960)
+RES_ITEMS="<item>$RES</item>" #stored value should be first in list
+for i in "${RES_ARRAY[@]}"
+do
+	if [ "$i" != "$RES" ];then # if not already the selected value
+		RES_ITEMS=`echo "$RES_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+# gfx filter combobox
+FILTER_ARRAY=(Default Double Scanlines)
+FILTER_ITEMS="<item>$FILTER</item>" #stored value should be first in list
+for i in "${FILTER_ARRAY[@]}"
+do
+	if [ "$i" != "$FILTER" ];then # if not already the selected value
+		FILTER_ITEMS=`echo "$FILTER_ITEMS<item>$i</item>"`
+	fi
+done
+
+# sound combobox
+SOUND_ARRAY=(Default Interrupts Off)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then # if not already the selected value
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+# sound channel combobox
+SNDCHNL_ARRAY=(Default Mono Stereo Mixed)
+SNDCHNL_ITEMS="<item>$SNDCHNL</item>" #stored value should be first in list
+for i in "${SNDCHNL_ARRAY[@]}"
+do
+	if [ "$i" != "$SNDCHNL" ];then # if not already the selected value
+		SNDCHNL_ITEMS=`echo "$SNDCHNL_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CPU combobox
+CPU_ARRAY=("Default" "68000" "68010" "68020" "68040" "68060")
+CPU_ITEMS="<item>$CPU</item>" #stored value should be first in list
+for i in "${CPU_ARRAY[@]}"
+do
+	if [ "$i" != "$CPU" ];then # if not already the selected value
+		CPU_ITEMS=`echo "$CPU_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CPUSPEED combobox
+CPUSPEED_ARRAY=(Default Maximum Real)
+CPUSPEED_ITEMS="<item>$CPUSPEED</item>" #stored value should be first in list
+for i in "${CPUSPEED_ARRAY[@]}"
+do
+	if [ "$i" != "$CPUSPEED" ];then # if not already the selected value
+		CPUSPEED_ITEMS=`echo "$CPUSPEED_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CPUCOMPAT combobox
+CPUCOMPAT_ARRAY=(Default Yes No)
+CPUCOMPAT_ITEMS="<item>$CPUCOMPAT</item>" #stored value should be first in list
+for i in "${CPUCOMPAT_ARRAY[@]}"
+do
+	if [ "$i" != "$CPUCOMPAT" ];then # if not already the selected value
+		CPUCOMPAT_ITEMS=`echo "$CPUCOMPAT_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CPU24BIT combobox
+CPU24BIT_ARRAY=(Default Yes No)
+CPU24BIT_ITEMS="<item>$CPU24BIT</item>" #stored value should be first in list
+for i in "${CPU24BIT_ARRAY[@]}"
+do
+	if [ "$i" != "$CPU24BIT" ];then # if not already the selected value
+		CPU24BIT_ITEMS=`echo "$CPU24BIT_ITEMS<item>$i</item>"`
+	fi
+done
+
+# EMUFPU combobox
+EMUFPU_ARRAY=(Default Yes No)
+EMUFPU_ITEMS="<item>$EMUFPU</item>" #stored value should be first in list
+for i in "${EMUFPU_ARRAY[@]}"
+do
+	if [ "$i" != "$EMUFPU" ];then # if not already the selected value
+		EMUFPU_ITEMS=`echo "$EMUFPU_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CHIPSET combobox
+CHIP_ARRAY=("Full ECS" "ECS Agnus" "AGA" "OCS")
+CHIP_ITEMS="<item>$CHIP</item>" #stored value should be first in list
+for i in "${CHIP_ARRAY[@]}"
+do
+	if [ "$i" != "$CHIP" ];then # if not already the selected value
+		CHIP_ITEMS=`echo "$CHIP_ITEMS<item>$i</item>"`
+	fi
+done
+
+# KBLANG combobox
+KBLANG_ARRAY=(Default de dk us se fr it es)
+KBLANG_ITEMS="<item>$KBLANG</item>" #stored value should be first in list
+for i in "${KBLANG_ARRAY[@]}"
+do
+	if [ "$i" != "$KBLANG" ];then # if not already the selected value
+		KBLANG_ITEMS=`echo "$KBLANG_ITEMS<item>$i</item>"`
+	fi
+done
+
+

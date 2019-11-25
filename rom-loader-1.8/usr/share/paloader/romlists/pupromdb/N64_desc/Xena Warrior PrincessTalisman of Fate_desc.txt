@@ -1,0 +1,33 @@
+Description
+
+Xena shall choose the defenders of the world. We have seen them in the memories of her exploits. So come together, Earth's greatest heroes and villains. Choose your weapons wisely and let the battles begin! Just remember, each victory only brings you closer to challenging the embodiment of darkness... Despair himself! Each of Xena's 10 characters possess their own unique weapons, attitudes and fighting techniques. Exclusive multi-player feature includes a roster mode, plus team and single battles.
+
+
+
+Characters
+
+    * Xena
+    * Gabrielle
+    * Autolycus
+    * Joxer
+    * Caesar
+    * Ares
+    * Velasca
+    * Lao Ma
+    * Callisto
+    * Ephiny
+    * Despair (original to the game)
+
+
+Debug Mode and codes
+
+At the main menu press Right - Right - Left - Left - Right - Left - Right, then enter any of the following codes:
+
+Fight Gabriella	Left C - Left C - Left C - Left C
+Unlock Bunny Suit Despair	Left-C, Top-C, Right-C, Bottom-C
+Unlock Despair	Left-C, Right-C, Left-C, Right-C
+Unlock Titan Difficulty	C-Up, C-Down, C-Up, C-Down
+
+Mega Man (?)
+http://www.gamefaqs.com/n64/199364-xena-warrior-princess-the-talisman-of-fate/cheats
+http://en.wikipedia.org/wiki/Xena:_Warrior_Princess:_The_Talisman_of_Fate

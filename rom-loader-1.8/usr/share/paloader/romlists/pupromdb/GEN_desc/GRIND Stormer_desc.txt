@@ -1,0 +1,26 @@
+The game takes place in the year 2210 where 'the ultimate arcade machine' Grind Stormer/V-V has finally been released. A VR shooting game, Grind Stormer/V-V becomes so addicting that the government assigns a young man to investigate the arcade phenomenon in order to question it's true purpose and to perform the impossible: to beat the game.
+
+Gameplay:
+
+The game was released on the Sega Genesis/Mega Drive as a 2-in-1 package: players could choose to play either V-V or Grind Stormer, but the only real difference was in the power-up system: In Grind Stormer, the players had the normal weapon layout with instant power-ups and Bomb icons. In V-V, the players collected gems that allowed them to choose power-ups, weapons and even a shield icon in a menu screen a la Gradius. The ship also had Options that accompanied it at all times to provide cover fire.
+
+- Weapons -
+
+Shot - The standard Vulcan weapon, the Shot beam could fire in three different directions, but when the ship's Options moved together the smaller shots would converge into one large beam. This was the ship's default weapon.
+
+Search - A weapon that only affected the Options, this would turn the Options into homing devices that sought out any enemies on the screen (even if they were invulnerable). This item would turn the ship a light violet once equipped.
+
+Missile - This weapon actually fired rockets as none of them had homing capabilities: the rocket's advantage was in their incredible firing rate. This item would turn the ship blue once equipped.
+
+Hints:
+
+- Free Play Mode -
+At the title screen, hold the A, B, and C buttons. Now press the START button 100 times. After this, let go and press the A button. Move down and switch the Credit Limit to ''Free Play'' for unlimited continues.
+
+- Infinite Continues -
+Enter the following code at the Title Screen....
+Hold A + B then Press Start 100 times
+If done corectly you can go into the options menu and change your credit limit to Free Play
+
+http://en.wikipedia.org/wiki/Grind_Stormer
+http://www.gamefaqs.com/console/genesis/code/586222.html

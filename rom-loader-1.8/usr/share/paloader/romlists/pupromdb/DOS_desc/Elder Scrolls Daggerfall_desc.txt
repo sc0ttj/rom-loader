@@ -1,0 +1,13 @@
+Chapter 2 of the acclaimed Elder Scrolls series of RPGs; sequel to Arena. Daggerfall seizes the player and thrusts them into a non-linear world full of plotting, conspiracy and political intrigue. Armed with their wits and their blade, and magic if they so wish to use it, the player is drawn into one of the most immersive worlds ever to grace the PC.
+
+Trivia:
+
+The game was offered as freeware on July 9, 2009 in celebration of fifteen years of Elder Scrolls.
+
+Daggerfall's creature art is an interesting mix of hand-drawn work and rendered material. All of the creatures, in fact, originally had 6 frames to every animation, but this had to be chopped down considerably to compress the size of the game-- which was already monstrously large for the time it was released.
+
+The only remaining trace of these orginal detailed animations is in a 'bestiary' video describing several of the creatures of Daggerfall.
+
+Daggerfall uses the 3-D Xngine library, which was developed in-house, introduced in Terminator: Future Shock, and used in several subsequent Bethesda games.
+
+http://www.mobygames.com/game/elder-scrolls-daggerfall

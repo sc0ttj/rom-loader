@@ -1,0 +1,18 @@
+The follow up to Magnetic Fields' earlier racing game develops the format in several ways. As before, the racing is overhead view and against a field of 9 computer cars, with championship points awarded for finishing positions. The computer drivers now take on the humourous names from Lotus 1, such as 'Ayrton Sendup' and 'T Hairy Bootson'. The most noticeable addition is a split screen 2 player mode. 
+
+The power ups have been changed around from the original, with the handling improvements gone, so as to put more of an emphasis on learning to control the slippery cars. These have been replaced by further weapons and more engine upgrades.
+
+The questions from the original have been replaced by mock driving test questions about stopping distances and the like - as before, money and points are won and lost depending on your answers.
+
+http://www.mobygames.com/game/amiga/supercars-ii
+_________________________
+CHEATS:
+
+Always qualify and have all extras:
+Enter Wonderland as a case-sensitive name for player one and The Seer as a case-sensitive name for player two. 
+
+Always qualify and have 99% of all weapons: 
+Enter I WALK THE HILL as a name for player one and INWARDS as a name for player two. 
+
+Unlimited money:
+Type HARD DRIVING or Hard Driving (case-sensitive) before starting game play.

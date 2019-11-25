@@ -1,0 +1,11 @@
+This version of Jeopardy! focuses more on sports related themes with 700 different categories and 3,500 questions to answer related to sports such as baseball, football, hockey, etc., along with many other sub-categories such as players, sports equipment and the like.
+
+The rules are still the same as the others, there are three rounds where the player buzzes in to answer and spells out the answers using the D-pad. It features digitized photography of sports-themed clad contestants such as baseball, football, volleyball and the like along with authentic digitized studio surroundings and the likeness and voice of long time Jeopardy! host, Alex Trebek.
+
+Hints:
+
+- Block Responses from Computer Opponent -
+Choose one joypad, one player, and one computer player for the game. When the computer buzzes in to question an answer, press and hold C before the computer tries to input a response. It will be incorrect and you will have a chance to buzz in. You can do this anytime the computer buzzes in.
+
+http://www.mobygames.com/game/genesis/jeopardy-sports-edition
+http://www.gamefaqs.com/console/genesis/code/586257.html

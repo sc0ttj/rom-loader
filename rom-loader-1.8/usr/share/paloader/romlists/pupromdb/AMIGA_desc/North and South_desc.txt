@@ -1,0 +1,17 @@
+Based on the Belgian comic book, "Les Tuniques Bleues", this strategy game allows you to replay the American Civil War from both the North and the South sides.
+
+In the strategy part of the game, you can move your troops on a map of the US. If two opposing armies enter the same state, the battle is played out in an action sequence. Additional action sequences must be accomplished when capturing an enemy fort or train.
+
+The game also offers a two-player-mode.
+ 
+http://www.mobygames.com/game/amiga/north-south
+_________________________
+CHEATS:
+
+Easy battles:
+Start battle mode against the CPU, and position your
+infantry to the bottom of the screen. Move backwards to place
+them into retreat formation, then move towards the enemy. The
+enemy troops should not be able to get quite as far down the screen
+as your troops, and will become stuck trying to move downwards.
+Advance and shoot them with minimal losses.

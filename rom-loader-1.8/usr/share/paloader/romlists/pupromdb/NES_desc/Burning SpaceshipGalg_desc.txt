@@ -1,0 +1,3 @@
+This hack changes the level graphics, the amount of lives (9 lives), the ship's weapon (flamethrower) and movement physics. It is now possible fly through upper and lower barriers.
+
+http://www.romhacking.net/hacks/627/

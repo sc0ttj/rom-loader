@@ -1,0 +1,67 @@
+Description
+
+At long last, all of your favorite Pokémon are rady to go head-to-head on the N64®! Whether you're battle a friend, a Gym Leader or a tournament contestant, you're about to witness some of the most spectacular battle scenes in Pokémon history! Select a team from a huge stable of "rental" battlers, or use the included N64 Transfer Pak™ to upload your own team from Pokémon Red, Blue or Yellow! This Stadium is packed and ready to rock!
+
+Gameplay
+
+Pokémon Stadium does not have a storyline. Progress in the game can only be made by winning "Cups" in the Stadium and completing the Gym Leader Castle. When all Cups have been won and the Gym Leader Castle completed, Mewtwo will appear in the sky over the Stadium. Defeating Mewtwo will unlock Round 2, in which the player must re-challenge the Stadium, Gym Leader Castle, and Mewtwo in order to complete the game.
+
+
+Stadium
+
+Pokémon tournaments take place in the Stadium. There are four Cups to participate in. Players choose a team of six Pokémon, in any combination of pregenerated rental Pokémon and Pokémon imported from a Game Boy cartridge. Each round consists of eight three-on-three battles, and the Poké and Prime Cups consist of four rounds, named after Poké Balls (Poké Ball, Great Ball, Ultra Ball, Master Ball), that must be cleared to win that Cup.
+
+    * Pika Cup: Battle using Pokémon from levels 15 to 20.
+    * Petit Cup: Battle using Basic Pokémon from levels 25 to 30 who fall under a certain height and weight. The most restrictive Cup.
+    * Poké Cup: Battle using Pokémon from levels 50 to 55.
+    * Prime Cup: Battle using Pokémon of any level. All opponents' Pokémon are at level 100.
+
+
+
+Gym Leader Castle
+
+The player can challenge the eight Kanto Gym Leaders from the Game Boy games, as well as the Elite Four and the Champion (Rival). However, one must defeat three trainers before battling a Gym Leader. Each time the player defeats the Elite Four, one of eight randomly selected prize Pokémon will be awarded, which can be transferred to the player's Pokémon Red, Blue, or Yellow game using the Transfer Pak. The prize Pokémon are Bulbasaur, Charmander, Squirtle, Hitmonlee, Hitmonchan, Eevee, Kabuto, and Omanyte.
+
+
+
+Versions
+
+
+First (Japan only)
+
+The original title, called Pokémon Stadium (?????????, Pokemon Sutajiamu?), was released in Japan on August 1, 1998. This version featured only 42 Pokémon available for battle, instead of the full 151 Pokémon from the Game Boy versions. The remaining Pokémon were viewable in a Pokédex, but the models lacked the required animations for battle. This version was not released outside of Japan, and as such the numbering of subsequent Japanese releases is ahead of the North America releases. This game was originally intended for the Nintendo 64DD format, but as the Nintendo 64DD was a commercial failure, Pokémon Stadium transferred to cartridge format. There was also a Pocket Monsters Stadium Expansion Disk proposed as an add-on for the Nintendo 64DD but was unreleased.
+
+The first game had met widespread criticism for its difficulty, and in Pokémon Stadium 2 the AI was toned down to make it easier for average players to beat.
+
+Second (first outside of Japan)
+
+The second game was called Pokémon Stadium 2 (?????????2, Pokemon Sutajiamu Tsu?) in Japan and was released as Pokémon Stadium in North America. This version features all 151 original Pokémon from the original Game Boy games. The North American version of this game featured support for transferring Pokémon from Pokémon Red, Blue, and Yellow via the N64 Transfer Pak.
+
+The North American version could also be purchased in a bundle that included the game with Transfer Pak, a Nintendo 64 with a gray controller, a second purple controller, the Pokémon Stadium Official Strategy Guide by Prima Games, and a "Cool Porygon" trading card.
+
+
+
+Optional features
+
+Pokémon Stadium has many features aside from the main battling sequence, such as mini-games and a Game Boy player on the Nintendo 64.
+
+In Free Battle mode, players may conduct practice battles. Players can select rules from any of the tournament cups, or use modified rules. Up to four players may participate, using any combination of rental Pokémon and those imported from cartridges plugged into a Transfer Pak.
+
+At the GB Tower, the player can play Pokémon Red, Blue, or Yellow on the Nintendo 64. Winning tournament cups in the Stadium will eventually unlock Doduo Mode (double speed) and Dodrio Mode (triple speed).
+
+Victory Palace contains statues of Pokémon who have beaten the Elite Four in Gym Leader Castle or completed the highest round of a tournament in the Stadium.
+
+Battle Now! is a battle arena for a quick battle with one or two players.
+
+In an Event Battle, two players with Transfer Paks plugged in can use Pokémon from their Game Boy games and battle with custom rules.
+
+Gallery is where you can snap photos of your Pokémon to be printed at a Pokémon Snap Station.
+
+The Pokémon Lab is only accessible if a Game Boy cartridge is plugged into the Transfer Pak. If the game is saved in a Pokémon Center, the player may access the PC and can arrange boxed Pokémon and items. The Lab also features an interactive Pokédex and a machine for trading between two cartridges connected by Transfer Pak. Players cannot, however, transfer rental Pokémon from Pokémon Stadium. Certain Pokémon, such as Mew, could only be obtained at a Nintendo Promotional Event using a Transfer Pak; a rental Mew could be obtained in an event, but, as previously stated, cannot be transferred to Pokémon Red, Blue, and Yellow.
+
+Kids Club is an area where nine Pokémon themed mini-games can be played, either as stand-alone games or as part of a tournament. One to four human players may participate, with the remaining players controlled by the computer. Many of the games utilize button mashing. A higher difficulty level could be obtained by beating the CPUs five times in a row on hard 
+
+
+
+http://en.wikipedia.org/wiki/Pok%C3%A9mon_Stadium
+http://www.gamefaqs.com/n64/198312-pokemon-stadium

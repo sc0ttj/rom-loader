@@ -1,0 +1,35 @@
+Ice hockey is hard hitting, fast-action competition. Each team tries to put the puck into its opponent's goal. A game consists of three periods, and the team with the most points at the end of the game wins. When the score is tied at the end of the three periods, the game is decided with penalty shots. If the score is still tied following the penalty shots, the game goes into over- time without goalkeepers.
+
+--From the NES Ice Hockey instruction manual.
+
+Overview - 
+You can choose from 6 international teams - U.S.A., Sweden, Poland, Canada, Russia, and "TCH". The forms of players come in thin (fast), medium (average), and fat (slow). The object of this game is to get more goals than your opponent. The game will seem frustrating at times, but with practice, you'll get better! Change players on the game screen with A and B before the ref shows up!
+
+Directions - 
+Play one of the greatest sports of all time, in this game of ice-skating, puck-hitting action! 
+
+Controls - 
+A Button - Pass the puck
+B Button - Shoot puck
+Start Button - Pause/Unpause
+
+Hints - 
+Non-Stop Puck and No goalies!
+On the title screen, hold down the A and B buttons on controllers 1 and 2, then press start on controller 1, now you'll have a puck that never stops moving, and no goalies at the nets.
+
+Reviewer - LinkOfHyrule
+http://consoleclassix.com/nes/ice_hockey.html
+Stick Hunter is an Ice Hockey Sim game, developed and published by K Amusement Leasing, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/nes/home/578528.html
+I was fortunate enough to play this game on cart at the 2002 Classic Gaming Expo, where Sardius very narrowly beat me. However, I thoroughly trounced him in another game that night, so I guess we're even. If you can call a sound defeat "even."
+
+Anyway, this is a game in the glorious Technos series of games, in which people beat the hell out of each other while doing various things. Think Nintendo World Cup on ice, I guess. Except with a lot more beatings, and variety and stuff. You're the hockey team at school, and you're playing all the other sports teams at school. It sounds odd, but who cares - when you beat a team you get the option of using their uniforms, which also includes the ability to use their special attacks. It's a hell of a lot of fun, believe you me. As you can well imagine, beating your opponent unconscious is one of life's little pleasures, and this game manages to faithfully reproduce that same experience. And the first game is soooo much fun, because you can easily kick their ass. Who says only challenging games are fun?
+
+Oh, and this is the game that was almost going to be released in the States as "Crash n the Boys - Ice Challenge". In case you were dying to know.
+
+Translation Description - 
+TransBRC's translation is pretty odd, especially the "Americanization" of a lot of the names. Look out Kunio, here comes Ric! Oh well, it's complete and it's playable, so who cares? Right?
+
+Reviewer - Spinner 8
+http://www.romhacking.net/trans/225/

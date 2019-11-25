@@ -1,0 +1,34 @@
+As the title implies, this is a game about breaking into banks, as well as a Break-Out clone.
+
+Each level is a bank, consisting of several rooms. You can only leave a room after your ball hits a key. As a burgler, you are symbolised by a pair of eyes, on top of which a paddle rests. Similarly to Woody Pop, parts of the bottom of the screen is covered up, so that you need not guard the ball as much as in other games. Unlike most Break-Out clones, you can move freely over the entire screen so as to hit the ball at the perfect spot. If you miss the ball and it passes through the void at the bottom, it falls back into the earlier rooms, just like in the Amiga classic, Poing. If you catch it there, you can send it back to the room your were in. In the last room of each bank, you should hit the money that is in there, before you hit the square with a calculator, which will calculate your score for that bank. Later vaults feature a bell which must not be hit, or it will wake a guardian that will hunt you across the screen.
+
+As in all post-Arkanoids, powerups are available, in the shape of a circle that bounces across the screen, all the while changing colours. Depending on which colour it is when you pick it up with your paddle, you get one bonus out of a range which corresponds to the basics of most games in the genre, such as wider paddle, sticky paddle, multiball and firepower.
+ 
+http://www.mobygames.com/game/msx/break-in
+No synopsis information for this game. If you can supply more information on this game go to http://www.emuxtras.net
+The subtitle "The moving puzzle game" should be interpreted literally; this is a puzzle game where the picture on the puzzle pieces are constantly animated. This can make piecing together the pieces quite difficult, or at least call for strategies not used in conventional puzzles.
+
+There are ten puzzles to choose from, and these can be divided into anything from 2x2 to 12x8 pieces. The pieces are not only scattered, they may also be turned upside down. 
+
+As you play the puzzle, your score starts to count down, and the rate of the countdown is heightened when you execute moves, turn the pieces or use the special features which will reveal a glimpse of the finished puzzle, automatically lay out pieces, or halt the animation. If the score reaches zero, the game is over.
+
+http://www.mobygames.com/game/msx/confused
+No synopsis information for this game. If you can supply more information on this game go to http://www.emuxtras.net
+No synopsis information for this game. If you can supply more information on this game go to http://www.emuxtras.net
+You are a pair of trousers. The screen is filled with a board game that has been subdivided into blue tiles. You can walk over them, but only once! The will disappear when you've walked over them. Remember that! You have to collect them all... and don't get stuck! The randomly placed green rolling dam stones-like objects are also to be collected. But that's not all. The board contains three types of hazards. The first ones are the purple monsters, don't step on them or you 'll get killed. The second hazard is the Man With The Hat, who is moving around the board. Don't let him catch you! The third danger are the randomly placed bombs on the board. You have thirty seconds to disarm them by grabbing them. If all tiles have been collected and you didn't get stuck: congratulations! Your off to the next level! The game contains digitized speech, which you will hear when the game starts, when your walked into an hazard and at Game Over.
+
+http://www.mobygames.com/game/msx/kick-it
+This game is a ripoff of the classic arcade game Burgertime. You are a hamburger chef and you're out to build delicious hamburgers. As you run through the colorful maze assembling the ingredients, there is nothing that can stop you. Except maybe the menacing egg, hot dog and pickles that are out to ruin the meal! You can bury them under beef patties, lettuce and buns. Or, knock them out with pepper. To complete a level you have to build four burgers.
+
+http://www.mobygames.com/game/msx/macattack
+
+-----------------------------------------------------------------------
+
+masaxi (01-08-2005 10:53) 
+This is well made game, but only reason I haven´t played it a much, is that it is cursed with invisible sausages on later levels when there are too many sprites walking on same level. If you really watch all the time what is going on on screen, it IS possible to see them before they climb ladders to same to form big group and some of them disappear so it is possible to know where they are, but that makes game too much harder... If the programmers just had made sausages flicker, but no.. they are totally invisible... that´s sad for good conversion.
+
+http://www.generation-msx.nl/msxdb/softwareinfo/2394
+No synopsis information for this game. If you can supply more information on this game go to http://www.emuxtras.net
+You maneuver a snake across the screen eating clovers that make it grow. At the the same time you have to avoid obstacles like it's own tail, poisoned mushrooms and the screen edge. For each object you eat a round object will appear, which you also have to eat but it won't make your tail grow. Hearts may move around the screen and can be eaten for bonuses. You 'll enter the next round when all objects are cleared.
+
+http://www.mobygames.com/game/msx/snake-it

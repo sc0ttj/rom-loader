@@ -1,0 +1,21 @@
+Gunship puts you in control of the US Army's sophisticated helicopter, the Apache AH-64A. Don your helmet and grab the controls, for you must fight your way through four theatres of combat around the world in which the enemy are determined to make sure you fail!
+
+Gameplay:
+
+Gunship 2000 utilised roughly the same format as most of the other MicroProse flight simulators of the time. That is, the player had a profile, chose their combat theatre, and either performed single missions or a campaign. The primary similarity was the randomly-generated 'primary-secondary' mission types where the player was given a primary mission (destroy a target / pickup or drop off troops or cargo / recon an objective) and a less valuable secondary objective that included the same kind of tasks as a primary. The campaign strung these missions together in a 'tug-of-war' system. Victories advanced the player's side towards victory and harder missions, defeat went the other way (though the missions sometimes got harder too).
+
+Initially the player flew a lone gunship to complete missions:
+
+    - AH-1 Cobra
+    - AH-64 Apache
+    - OH-58D Kiowa Warrior
+    - MD 530MG
+    - UH-60 Blackhawk
+
+As the player's rank increased, the RAH-66 Comanche and the AH-64B Apache Longbow were unlocked (the 'B' designation is due to the game being designed before the Longbow Apache was in service as the 'D' model).
+
+Using less powerful helicopters resulted in a higher mission score, though this had to be balanced with the likelihood of having enough fuel/weapons to complete the mission. Usually a Forward Arming Refuel Point (FARP) was present in the mission. This was important, as the player may have to refuel or rearm during the course of the mission depending on the density of enemy and distance to objectives.
+
+Planning was often an important part of the game: fuel consumption was unrealistically high (which was a good thing in this context), and the player could rarely lift off with full fuel and the best weapons loaded. Also terrain and enemy presence had to be considered (the intel briefing would often tell the player what to expect near targets). On promotion to the rank of 2nd Lieutenant, the player would gain control of several other helicopter wingmen whose helicopters could also be configured to the same extent as the players. Wingmen could remain with the player or be sent off for separate tasks (such as completing the secondary objective), so a great deal of flexibility was present for tactical planning.
+
+http://en.wikipedia.org/wiki/Gunship_2000

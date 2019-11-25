@@ -1,0 +1,59 @@
+32 in 1|NOID|eaef28ea|Atari|1988|Compilation|General Audience
+Ace of Aces|NOID|fa616e77|Artech|1988|Flying|General Audience
+Alien Brigade|NOID|3cef22ca|Atari|1990|Shooter|General Audience
+Asteroids|NOID|c9f1e305|Atari|1987|Shoot-'Em-Up|General Audience
+Ballblazer|NOID|5b635cb6|Lucasfilm Games|1987|Sports|General Audience
+Barnyard Blaster|NOID|36a9f2a5|Atari|1988|Gun|General Audience
+Basketbrawl|NOID|fd3aec38|Atari|1990|Basketball/Sports|General Audience
+Centipede|NOID|7ca3ec6b|Atari|1987|Shoot-'Em-Up|General Audience
+Choplifter!|NOID|0b0d05d4|Broderbund Software|1988|Shoot-'Em-Up|General Audience
+Commando|NOID|e9bd1c75|Capcom|1989|Shooter|General Audience
+Crack'ed|NOID|61dcc763|Atari|1988|Shooter|General Audience
+Crossbow|NOID|a2678e2d|Exidy|1987|Shooter|General Audience
+Dark Chambers|NOID|b5a87d19|Atari|1988|Maze|General Audience
+Desert Falcon|NOID|5ff04461|Atari|1987|Shoot-'Em-Up|General Audience
+Dig Dug|NOID|a6da053d|Namco|1987|Maze|General Audience
+Donkey Kong|NOID|24afb84f|Nintendo|1988|Platformer|General Audience
+Donkey Kong Junior|NOID|812457fb|Nintendo|1988|Platformer|General Audience
+Double Dragon|NOID|16e2fc12|Technos|1989|Beat-'Em-Up|General Audience
+F-18 Hornet|NOID|fa3e8cbb|Absolute Entertainment|1988|Flying|General Audience
+Fatal Run|NOID|718232bb|Sculptured Software|1990|Driving|General Audience
+Fight Night|NOID|28e38bd7|Sydney Development|1988|Boxing/Sports|General Audience
+Food Fight|NOID|db5b7d3f|Atari|1987|Fighter|General Audience
+Galaga|NOID|0a174f9b|Namco|1987|Shoot-'Em-Up|General Audience
+Hat Trick|NOID|e293793e|Bally Sente|1987|Hockey/Sports|General Audience
+Ikari Warriors|NOID|aa0cfb30|SNK|1989|Shooter|General Audience
+Impossible Mission|NOID|fa0a683e|Epyx|1987|Platformer|General Audience
+Jinks|NOID|9571c998|Diamond Software|1989|Breakout|General Audience
+Joust|NOID|1646ec7c|Williams Electronics|1987|Platformer|General Audience
+Karateka|NOID|be689aea|Broderbund Software|1987|Fighter|General Audience
+Kung-Fu Master|NOID|37816887|Irem|1989|Fighter|General Audience
+Mario Bros.|NOID|fcffc04a|Nintendo|1988|Platformer|General Audience
+Mat Mania Challenge|NOID|a902f3e6|American Technos|1990|Sports/Wrestling|General Audience
+Mean 18 Ultimate Golf|NOID|517d1986|Accolade|1989|Golf/Sports|General Audience
+Meltdown|NOID|14502302|Atari|1990|Shooter|General Audience
+Midnight Mutants|NOID|e7157222|Radioactive Software|1990|Adventure|General Audience
+Motor Psycho|NOID|fc414689|BlueSky Software|1990|Driving|General Audience
+Ms. Pac-Man|NOID|2b11d9f2|General Computer Corporation, Midway|1987|Maze|General Audience
+Ninja Golf|NOID|9e5d3625|BlueSky Software|1990|Golf/Sports|General Audience
+One-on-One Basketball|NOID|859c8456|Atari|1987|Basketball/Sports|General Audience
+Pete Rose Baseball|NOID|ecece40b|Absolute Entertainment|1989|Baseball/Sports|General Audience
+Planet Smashers|NOID|46342cd3|Atari|1990|Shoot-'Em-Up|General Audience
+Pole Position II|NOID|3d57623a|Namco|1987|Driving|General Audience
+Rampage|NOID|859d9352|Bally Midway|1989|Platformer|General Audience
+RealSports Baseball|NOID|f33bd4fd|Atari|1988|Baseball/Sports|General Audience
+Robotron 2084|NOID|aa06b121|Williams Electronic Games|1986|Shoot-'Em-Up|General Audience
+Scrapyard Dog|NOID|db61ae81|BlueSky Software|1990|Platformer|General Audience
+Sentinel|NOID|4c779065|Atari|1991|Gun|General Audience
+Summer Games|NOID|8e4cf69c|Epyx|1987|Sports|General Audience
+Super Huey UH-1X|NOID|033a6058|Cosmi|1988|Flying|General Audience
+Super Skateboardin'|NOID|faa12091|Absolute Entertainment|1988|Skateboarding/Sports|General Audience
+Tank Command|NOID|9ffc9515|Froggo Games|1988|Shooter|General Audience
+Title Match Pro Wrestling|NOID|a5742a96|Absolute Entertainment|1989|Sports/Wrestling|General Audience
+Tomcat The F-14 Fighter Simulator|NOID|ab48f361|Absolute Entertainment|1989|Flying|General Audience
+Touchdown Football|NOID|4162e98f|Imagic|1988|Football/Sports|General Audience
+Tower Toppler|NOID|f701bd43|Hewson|1988|Action|General Audience
+Water Ski|NOID|09a27634|Froggo Games|1988|Sports|General Audience
+Winter Games|NOID|12454060|Action Graphics|1987|Sports|General Audience
+Xenophobe|NOID|96ee8584|Bally Midway|1989|Action|General Audience
+Xevious|NOID|3f8507f3|Namco|1988|Shoot-'Em-Up|General Audience

@@ -1,0 +1,29 @@
+# frameskip combobox
+SKIP_ARRAY=(off 1 2 3 4 5 6 7 8 9 10 11 12)
+SKIP_ITEMS="<item>$FRAMESKIP</item>" #stored value should be first in list
+for i in "${SKIP_ARRAY[@]}"
+do
+	if [ "$FRAMESKIP" != "$i" ];then
+		SKIP_ITEMS=`echo "$SKIP_ITEMS<item>$i</item>"`
+	fi
+done
+
+# audio driver combobox
+AUDIO_ARRAY=(Default ALSA OSS Arts)
+AUDIO_ITEMS="<item>$AUDIO_DRIVER</item>" #stored value should be first in list
+for i in "${AUDIO_ARRAY[@]}"
+do
+	if [ "$AUDIO_DRIVER" != "$i" ];then
+		AUDIO_ITEMS=`echo "$AUDIO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# resolution combobox
+RES_ARRAY=(Default 320X200 320x240 512x384 640x400 640x480 800x600 960x600 960x720 1024x600 1024x768 1280x800 1280x960)
+RES_ITEMS="<item>$RES</item>" #stored value should be first in list
+for i in "${RES_ARRAY[@]}"
+do
+	if [ "$RES" != "$i" ];then
+		RES_ITEMS=`echo "$RES_ITEMS<item>$i</item>"`
+	fi
+done

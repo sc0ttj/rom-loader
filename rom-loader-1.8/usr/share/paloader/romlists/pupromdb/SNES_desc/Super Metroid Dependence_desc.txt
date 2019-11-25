@@ -1,0 +1,5 @@
+Just what it sounds like, a new Super Metroid level design hack. Take a look at the readme for more important info. There are some graphical kinks that were compromises with the SM code.
+
+Savestates are recommended, as save points are pretty rare, but then, this hack is not as difficult as some of the other SM hacks released recently.
+
+http://romhacking.net/hacks/317/

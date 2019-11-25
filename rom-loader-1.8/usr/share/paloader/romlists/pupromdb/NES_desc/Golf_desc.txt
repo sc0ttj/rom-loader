@@ -1,0 +1,141 @@
+Famicom Golf - Japan Course is a Golf Sim game, developed and published by Nintendo, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578378.html
+Famicom Golf - US Course is a Golf Sim game, published by Nintendo, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578433.html
+Wow... what a great Golf game not. 
+
+Not that I've ever seen a Golf game that was better than Hal's Hole in One Golf for SNES, but this is crazy bad. I've never played a Golf game where you might have to put 3 times to reach the hole on the green if you're not close enough to it. Not to mention the 16 directions you can hit the ball doesn't exactly make for precision play. I started out good, but ended up 32 over par for the 9 holes. If you love excruciating gameplay with no payoff on the back end, look no furthrer. 
+
+All the while I was waiting for that sexy 8-bit golfgirl to show me some Japanime lovin for my troubles, but alas, no dice. 
+
+Oh... wait..... there it is, I think.... 
+
+Yes! After loading when you're done it looks like one piece of the pink background is available and I can see the Anime girl with pink hair lying down with her eyes closed. Is she naked? I can't tell.... it's just her face. My guess she is, given the other great FDS games brought to us by Hacker International. Guess you got to play and beat my 32 over par to find out. 
+
+Reviewer - Ressurectionx
+Pebble Beach is a golf course right on California's pristine Pacific Coast. The land is a nice piece of real estate. Your goal is to play the best round of golf you can.
+
+Directions - 
+This is a golf game with real world physics, as well as the rules of golf apply to this game. Wind will affect the direction of the ball when it is hit, hitting the ball out of sand traps will be more difficult than hitting the ball from the fairway, and most importantly, the slope of the greens will make a putted ball roll off course. If the player believes that these factors will not affect the way the game is played, then the player's score will reflect that notion.
+
+Controls - 
+A Button - Revert to the SHOT, COURSE, SCORE screen
+B Button - Go to SHOT Strength screen
+Start Button - Not used during the SHOT screen
+Select Button - Not used during the SHOT screen
+Left and Right - Changes the desired flight path of the ball
+Up and Down - Changes the club to be used for the shot
+
+Hints - 
+Slice and Hook
+- Remember that if you stop the meter early it will slice the ball and if you stop it late it will hook the ball.
+
+Reviewer - Adrian
+http://www.consoleclassix.com/nes/bandai_golf.html
+Nintendo GOLF lets you choose your clubs, change your stance, control your swings - even select the angle of impact! You'll view the hole from both close up and far away, judge the changing conditions of the green, and measure the wind velocity.
+
+But watch out! When the wind changes, so does the flight of your ball. With Nintendo's state-of-the-art graphics and realistic game play, you'll really believe you're on the fairways. So play Nintendo GOLF, because there's not a video golf game on par with it anywhere!
+
+http://en.wikipedia.org/wiki/Golf_(Nintendo)
+Golf Club - Birdie Rush is a Golf Sim game, developed and published by Data East, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/nes/home/578521.html
+Now, in Golf Grand Slam, you'll face all the conditions you would on a real golf course! Learn more about using each of the 14 golf clubs, how to choose a strike point on the ball, and setting up putts - all while you're contending with wind resistance, sloping greens, complex faiways and more.
+
+Two training modes have been specifically designed to help you sharpen your golf techniques. Then, after you've mastered those, you can take on the Golf Grand Slam Top 30 Pros in a tournament that will push you to the limit! So if you're ready to enjoy golf and improve your game without leaving home, let's go!
+
+Gameplay - 
+There are three options to play - tournament mode allows the player to play a normal tournament and there are two modes to train in.
+
+http://en.wikipedia.org/wiki/Golf_Grand_Slam_(video_game)
+This golf game comes with pre-designed golf courses in locales such as the U.S.A., Japan, England, Scotland, Germany, Spain, France, Australia, and Hawaii. There is also an opportunity for the player to design their own golf course. The game features variable weather conditions like showers, downpours, wind, and sunshine. The game allows for both strokeplay and matchplay. It also allows for three difficulty levels - novice, amateur, and professional. Practice mode lets the player train on the putting green or on a practice hole.
+
+Gameplay consists of aiming the golf ball and then swinging the chosen golf club. Swinging is done by a meter which measures the power of the shot and determines whether the ball gets hit straight, hooks, or slices. Putting is done with an overhead view on the green with the meter being used to measure the amount of power that is put on a putt.
+
+http://www.mobygames.com/game/nes/greg-normans-golf-power
+Jack Nicklaus' Greatest 18 Holes of Major Championship Golf is a 3-D golf simulation featuring an 18 Hole course created by Jack Nicklaus himself. Each of the 18 holes are from famous courses around the world and include number 8 at Pebble Beach, number 18 from Muirfield, number 12 from St. Andrews, number 12 from Augusta, number 10 at Riviera, and more. Gameplay is for one to four players and can be either stroke play or a skins game.
+
+http://www.nesguide.com/games/jacknicklausgolf/
+Jumbo Osaki no Hole In One is a Golf Sim game, developed by HAL Labs and published by Hal, which was released in Japan in 1988.
+
+http://www.gamefaqs.com/console/nes/home/578545.html
+Lee Trevino's Fighting Golf is an alternating two-player arcade game released by SNK in 1988. A player can choose between four different golfers, each one having his or her own advantages and disadvantages. Lee Trevino is playable as a character named Super Mex. Despite the title, no fighting is involved in the game.
+
+http://www.nesguide.com/games/fightinggolf/
+This is a Nes miniature golf simulator. It seems to follow imaginary physics. I wish I had something more in-depth to say ... but that pretty much sums this game up.
+
+Translation Description - 
+The only thing that was in Japanese was the title screen, so a new title screen was hacked in and... well, that's it. Enjoy your new English game kids.
+
+Reviewer - wraith
+http://www.romhacking.net/trans/185/
+NES Open is a pretty fun golf game. The graphics look very good for one of the early eight-bit systems. The sounds are pleasant and there isn't a whole lot of distracting background music. The controls were easy to learn, but they seemed a little slow. It's very hard to get the swing meter to stop where you want it to.
+
+The gameplay has several variations that give it good variety. There are also a lot of little details that made the gameplay feel like playing golf for real. If you like golf games, this is good for killing a few hours.
+
+Directions - 
+Choose one or two players. The first player will always be Mario, and if there is a second player, he will be Luigi. You can play golf in stroke play, match play, or tournament play.
+
+Stroke play just counts your strokes and you try to get the least amount you can, and can be played in two player mode. Match play can be played against Luigi or a few others, or in two player mode. Match play is played hole-by-hole, either someone wins the hole and is awarded a point, or it's a tie and you move on to the next hole. The person with the most points at the end wins. Tournament play is played against several golfers in stroke play, and is only available to one player mode. At the end of 18 or 36 holes, the person with the fewest strokes wins.
+
+While playing, you first must decide where you want your golfer to aim. Decide this based on the direction of the wind, and where you want the ball to land on the fairway. Then, you must decide which club to use. Use the club that has a max distance close to the distance you want to hit the ball. Next you will have to decide where you want to make contact with the ball. If you make contact with the bottom of the ball, the ball will have a higher trajectory and have backspin on it when it lands. If you make contact with the top of the ball, it will have a lower trajectory and have topspin on it.
+
+After that, it will be time to actually swing. Push the button to start the meter, again to stop it for power, and again to stop it for accuracy. Stopping it all the way on the left will ensure maximum power. Stopping the meter right back on the line where it started will ensure accuracy. Stopping it early off the line will cause a slice, while late will cause a hooked shot. While putting, you will not have to stop the meter the second time, you just have to stop it once for power.
+
+There are three courses to choose from, but none of them are based on real courses, they were just made up for the game. 
+
+Controls - 
+A Button - OK
+B Button - Cancel
+Start Button - Start/Pause
+Select Button - None
+
+Hints - 
+Spin
+Always be sure to use backspin when approaching the green so your ball will stop on a dime. Be sure to use topspin on the drive so you can get all the distance possible out of your drives. 
+
+Reviewer - Adrian
+http://consoleclassix.com/nes/nes_open.html
+The Golf '92 is a Golf Sim game, developed and published by G.O.1, which was released in Japan in 1992.
+
+http://www.gamefaqs.com/console/nes/home/570666.html
+Nintendo GOLF lets you choose your clubs, change your stance, control your swings - even select the angle of impact! You'll view the hole from both close up and far away, judge the changing conditions of the green, and measure the wind velocity. But watch out! When the wind changes, so does the flight of your ball. With Nintendo's state-of-the-art graphics and realistic game play, you'll really believe you're on the fairways. So play Nintendo GOLF, because there's not a video golf game on par with it anywhere!
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.gamefaqs.com/console/nes/home/578275.html
+http://en.wikipedia.org/wiki/Nintendo_Vs._System
+Nintendo GOLF lets you choose your clubs, change your stance, control your swings - even select the angle of impact! You'll view the hole from both close up and far away, judge the changing conditions of the green, and measure the wind velocity. But watch out! When the wind changes, so does the flight of your ball. With Nintendo's state-of-the-art graphics and realistic game play, you'll really believe you're on the fairways. So play Nintendo GOLF, because there's not a video golf game on par with it anywhere!
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.gamefaqs.com/console/nes/home/578275.html
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

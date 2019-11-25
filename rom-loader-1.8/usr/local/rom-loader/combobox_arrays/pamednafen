@@ -1,0 +1,160 @@
+# FULLSCREEN combobox
+FULLSCREEN_ARRAY=("Default" "Yes" "No")
+FULLSCREEN_ITEMS="<item>$FULLSCREEN</item>" #stored value should be first in list
+for i in "${FULLSCREEN_ARRAY[@]}"
+do
+	if [ "$i" != "$FULLSCREEN" ];then
+		FULLSCREEN_ITEMS=`echo "$FULLSCREEN_ITEMS<item>$i</item>"`
+	fi
+done
+
+# FILTER combobox
+FILTER_ARRAY=(none hq2x hq3x hq4x scale2x scale3x scale4x 2xsai super2xsai supereagle nn2x nn3x nn4x nny2x nny3x nny4x)
+FILTER_ITEMS="<item>$FILTER</item>" #stored value should be first in list
+for i in "${FILTER_ARRAY[@]}"
+do
+	if [ "$i" != "$FILTER" ];then
+		FILTER_ITEMS=`echo "$FILTER_ITEMS<item>$i</item>"`
+	fi
+done
+
+# BLUR combobox
+BLUR_ARRAY=(Default Max Medium Weak None)
+BLUR_ITEMS="<item>$BLUR</item>" #stored value should be first in list
+for i in "${BLUR_ARRAY[@]}"
+do
+	if [ "$i" != "$BLUR" ];then
+		BLUR_ITEMS=`echo "$BLUR_ITEMS<item>$i</item>"`
+	fi
+done
+
+# ASPECTRATIO combobox
+ASPECTRATIO_ARRAY=("Default" "Yes" "No")
+ASPECTRATIO_ITEMS="<item>$ASPECTRATIO</item>" #stored value should be first in list
+for i in "${ASPECTRATIO_ARRAY[@]}"
+do
+	if [ "$i" != "$ASPECTRATIO" ];then
+		ASPECTRATIO_ITEMS=`echo "$ASPECTRATIO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SCANLINES combobox
+SCANLINES_ARRAY=("Default" "Yes" "No")
+SCANLINES_ITEMS="<item>$SCANLINES</item>" #stored value should be first in list
+for i in "${SCANLINES_ARRAY[@]}"
+do
+	if [ "$i" != "$SCANLINES" ];then
+		SCANLINES_ITEMS=`echo "$SCANLINES_ITEMS<item>$i</item>"`
+	fi
+done
+
+# STRETCH combobox ##default is none  
+STRETCH_ARRAY=("Default" "none" "full" "aspect" "aspect_int" "aspect_mult2") # CLI ::  0 full aspect aspect_int aspect_mult2
+STRETCH_ITEMS="<item>$STRETCH</item>" #stored value should be first in list
+for i in "${STRETCH_ARRAY[@]}"
+do
+	if [ "$i" != "$STRETCH" ];then
+		STRETCH_ITEMS=`echo "$STRETCH_ITEMS<item>$i</item>"`
+	fi
+done
+
+# RES combobox
+RES_ARRAY=(Default 320x224 320x240 512x240 512x384 640x480 800x600 960x720 1024x600 1024x768 2048x1024)
+RES_ITEMS="<item>$RES</item>" #stored value should be first in list
+for i in "${RES_ARRAY[@]}"
+do
+	if [ "$i" != "$RES" ];then
+		RES_ITEMS=`echo "$RES_ITEMS<item>$i</item>"`
+	fi
+done
+
+# OPENGLFILTER combobox #video.driver
+OPENGLFILTER_ARRAY=(Default none autoip autoipsharper scale2x sabr ipsharper ipxnoty ipynotx ipxnotysharper ipynotxsharper)
+OPENGLFILTER_ITEMS="<item>$OPENGLFILTER</item>" #stored value should be first in list
+for i in "${OPENGLFILTER_ARRAY[@]}"
+do
+	if [ "$i" != "$OPENGLFILTER" ];then
+		OPENGLFILTER_ITEMS=`echo "$OPENGLFILTER_ITEMS<item>$i</item>"`
+	fi
+done
+
+# VIDDRIVER combobox #video.driver
+VIDDRIVER_ARRAY=("Default" "opengl" "sdl" "overlay")
+VIDDRIVER_ITEMS="<item>$VIDDRIVER</item>" #stored value should be first in list
+for i in "${VIDDRIVER_ARRAY[@]}"
+do
+	if [ "$i" != "$VIDDRIVER" ];then
+		VIDDRIVER_ITEMS=`echo "$VIDDRIVER_ITEMS<item>$i</item>"`
+	fi
+done
+
+# VSYNC combobox
+VSYNC_ARRAY=("Default" "Yes" "No")
+VSYNC_ITEMS="<item>$VSYNC</item>" #stored value should be first in list
+for i in "${VSYNC_ARRAY[@]}"
+do
+	if [ "$i" != "$VSYNC" ];then
+		VSYNC_ITEMS=`echo "$VSYNC_ITEMS<item>$i</item>"`
+	fi
+done
+
+# FRAMESKIP combobox
+FRAMESKIP_ARRAY=("Default" "Yes" "No")
+FRAMESKIP_ITEMS="<item>$FRAMESKIP</item>" #stored value should be first in list
+for i in "${FRAMESKIP_ARRAY[@]}"
+do
+	if [ "$i" != "$FRAMESKIP" ];then
+		FRAMESKIP_ITEMS=`echo "$FRAMESKIP_ITEMS<item>$i</item>"`
+	fi
+done
+
+# BILINEAR combobox
+BILINEAR_ARRAY=("Default" "0" "1" "x" "y")
+BILINEAR_ITEMS="<item>$BILINEAR</item>" #stored value should be first in list
+for i in "${BILINEAR_ARRAY[@]}"
+do
+	if [ "$i" != "$BILINEAR" ];then
+		BILINEAR_ITEMS=`echo "$BILINEAR_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SNDDRV combobox
+SNDDRV_ARRAY=(Default alsa oss sdl jack)
+SNDDRV_ITEMS="<item>$SNDDRV</item>" #stored value should be first in list
+for i in "${SNDDRV_ARRAY[@]}"
+do
+	if [ "$i" != "$SNDDRV" ];then
+		SNDDRV_ITEMS=`echo "$SNDDRV_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SYNCSOUND combobox  ###throttle, be disabled if sound is disabled
+SYNCSOUND_ARRAY=("Yes" "No")
+SYNCSOUND_ITEMS="<item>$SYNCSOUND</item>" #stored value should be first in list
+for i in "${SYNCSOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SYNCSOUND" ];then
+		SYNCSOUND_ITEMS=`echo "$SYNCSOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SOUNDVOL combobox
+SOUNDVOL_ARRAY=("0" "10" "20" "30" "40" "50" "60" "70" "80" "90" "100" "110" "120" "130" "140" "150")
+SOUNDVOL_ITEMS="<item>$SOUNDVOL</item>" #stored value should be first in list
+for i in "${SOUNDVOL_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUNDVOL" ];then
+		SOUNDVOL_ITEMS=`echo "$SOUNDVOL_ITEMS<item>$i</item>"`
+	fi
+done
+
+# AUTOSAVE combobox
+AUTOSAVE_ARRAY=("Default" "Yes" "No")
+AUTOSAVE_ITEMS="<item>$AUTOSAVE</item>" #stored value should be first in list
+for i in "${AUTOSAVE_ARRAY[@]}"
+do
+	if [ "$i" != "$AUTOSAVE" ];then
+		AUTOSAVE_ITEMS=`echo "$AUTOSAVE_ITEMS<item>$i</item>"`
+	fi
+done
+

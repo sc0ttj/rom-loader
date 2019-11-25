@@ -1,0 +1,73 @@
+#list of emulator config files
+#FORMAT: system|emulator|rc-file|romloader-gui
+amiga|fs-uae|/root/FS-UAE/Configurations/Default.fs-uae|paamiga
+amiga|uae_nogui|/root/.uaerc|paamiga
+amiga|uae|/root/.uaerc|paamiga
+amstrad|cpcemu|/root/.cpcemu.cfg|pacpcemu
+amstrad|arnold|/root/.arnold|parnold
+arcade|sdlmame|/etc/sdlmame/mame.ini|pamame
+arcade|xmame|/root/.xmame/xmamerc|paxmame
+arcade|advmame|/root/.advmame/options/default|paadvmame
+atari|atari800|/root/.atari800.cfg|paatari800
+atari|atari++|/root/.atari++.conf|paatari++
+atari2600|stella|/root/.stella/stellarc|pastella
+atari2600|stella-only|/root/.stella/stellarc|stella
+atarilynx|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedlynx
+atarist|hatari|/root/.hatari/hatari.cfg|pahatari
+coleco|colem|/root/.colem|pacoleco
+com|vice|/root/.vice/vicerc|pavice
+com|frodo|/root/.frodorc|pafrodo
+doom|prboom|/root/.prboom/prboom.cfg|paprboom
+doom|prboom-plus|/root/.prboom-plus/prboom-plus.cfg|paprboom
+dos|dosbox|/root/.dosbox/dosbox-0.73.conf|padosbox
+dos|dosboxgui|/root/.dosbox/dosboxgui.conf|padosboxgui
+msx|fmsxfan|/usr/local/fmsxfan/fmsxfan.cfg|pafmsxfan
+gamegear|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedgg
+gamegear|fusion|/root/.Kega Fusion/Fusion.ini|pafusiongg
+gamegear|dega|/root/.degarc|padega
+gamegear|osmose|/root/.osmoserc|paosmose
+gba|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedgba
+gba|vbam|/root/.vbam/VisualBoyAdvance.cfg|pavbam
+gba|VisualBoyAdvance|/usr/etc/VisualBoyAdvance.cfg|pavbam
+gen|gens|/root/.gens/gens.cfg|pagenesis
+gen|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedgen
+gen|fusion|/root/.Kega Fusion/Fusion.ini|pafusiongen
+gen|dgen|/root/.dgen/dgenrc|padgen
+intv|jzintv|none|pajzintv
+n64|mupen64plus|/root/.mupen64plus/mupen64plus.conf|pan64
+n64|mupen64plus-dev|/root/.mupen64plus/mupen64plus.conf|pan64
+n64|mupen64-0.4|/root/.mupen64/mupen64.conf|pamupen
+nds|desmume|/root/.config/desmume/config|padesmume
+nds|desmume-cli|/root/.config/desmume/config|padesmume
+neocd|neocd-1.3|none|paneocd
+neocd|neocd-1.2|none|paneocd
+neogeo|gngeo|/root/.gngeo/gngeorc|pagngeo
+nes|mednafen|/root/.mednafen/mednafen-09x.cfg|pamednes
+nes|fceu|/root/.fceultra/fceu98.cfg__CANTUSE|panes
+nes|nestopia|/root/.nestopia|nestopia
+ngp|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedngp
+pce|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedpce
+pce|hugo|/root/.hugo/hugo.ini|papce
+pcfx|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedpcfx
+psp|ppsspp|none|ppsspp
+psx|pcsxr|/root/.pcsx/pcsx.cfg|papsx
+psx|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedpsx
+psx|epsxe|/root/.epsxe/epsxe.ini|paepsxe
+scumm|scummvm|/root/.scummvmrc|pascummvm
+sega32x|gens|/root/.gens/gens.cfg|pasega32x
+sega32x|fusion|/root/.Kega Fusion/Fusion.ini|pafusion32x
+segacd|gens|/root/.gens/gens.cfg|pasegacd
+segacd|fusion|/root/.Kega Fusion/Fusion.ini|pafusioncd
+sms|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedsms
+sms|fusion|/root/.Kega Fusion/Fusion.ini|pafusionsms
+sms|dega|/root/.degarc|padega
+sms|osmose|/root/.osmoserc|paosmose
+snes|snes9x-gtk|/root/.snes9x/snes9x.xml|pasnes
+snes|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedsnes
+snes|zsnes|/root/.zsnes/zsnesl.cfg|pazsnes
+snes|snes9x|/root/.snes9x/snes9x.conf|pasnes
+vb|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedvb
+wswan|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedwswan
+vb|mednafen|/root/.mednafen/mednafen-09x.cfg|pamedvb
+zxspec|fbzx|/root/.fbzx|pafbzx
+zxspec|speccy|/root/.paloader/paspeccyrc|paspeccy

@@ -1,0 +1,89 @@
+In the game, players control Goliath, leader of the Manhattan Clan of gargoyles, in the years 994 and 1994, as he seeks to put an end to a magical, corruptive talisman, the Eye of Odin, which can transform whoever comes to possess it.
+
+The game loosely follows the plot of the show, although only two characters are identified in any substantial fashion -- Goliath, the protagonist, and Demona, who ultimately becomes the main antagonist and the most recent owner of the Eye. No other characters from the show are identified.
+
+Directions:
+
+Goliath can do an impressive array of things. When Goliath moves it's at top speed. Getting him to stop where you want him can be a bit tricky and will take some practice. If you press down on the joystick Goliath will spread out on the ground and you can look down.
+
+Press and hold up and he'll strike a pose and you can look up. Press B after he's been running for a moment and he'll do a cool forward roll. Use this to dodge and to break walls! You can break a wall even if there is a huge gap in the floor! Goliath will shoot right over it! Walls that can be broken will look slightly different than normal walls.
+
+Press B to swipe at your enemies with your powerful clawed arms! Press B three times quickly to perform a slashing combo, with each swipe hitting harder than the last. Or stalk down and then grab them and throw them through the air by pressing A. This is the best way to take out the axe throwing vikings, even though it is a bit touchy. You have to be just the right distance from someone to throw them, but it's worth learning how to do this well, seeing as how it will take many hits to destroy an axe thrower, but throw them once and they're done for.
+
+Press C to jump into the air. Press C again while in the air and Goliath will flap his mighty wings and gain a bit more altitude before dropping back down. You can flap your wings again if you are injured by something. Useful if you are, for example, hit by, oh, I don't know, balls of flames shot out of machines that are in two towers that you have to climb, jumping from one to the next..... Ahem.... You can also attack while in the air by pressing B. Use a diving attack to break floors and things below you by pressing A in midair. Jump onto a wall (and ceilings, though you need to also flap and press up on the joystick to grab a ceiling) that Goliath can climb (which is most walls and ceilings really) and he will latch on. You can now climb it. Most ceilings can be reached easiest by climbing a wall and then simply climbing out from the wall onto the ceiling. Goliath can still swing at enemies while climbing. If you press down Goliath will slide down the wall and if you press C again he will jump or drop off
+
+Make your way through several screens and eventually you will come to a boss fight. Bosses are stronger and have more life than normal enemies. It will take more hits to bring them down. Also, they hit much harder so my recommendation is don't get hit. Strategy is required to get you through these fights, and no small amount of dodging as well.
+
+In the game you will also run into some handy items. The most handy are the golden goblets. These restore some of Goliath's life. The bigger the goblet, the more life you will get back. Silver discs have the awesome function of making Goliath Invincible for a little while. Your life bar will flash as long as you are invincible. If you pick up a red eyed Goliath head it will give you an extra life. A spinning hammer-looking thing will give you the ability to kill enemies with one swipe. This only lasts as for a short time. The music will change when you pick this up and will stay changed until it wears off. Sundry other items can be found.
+
+Goliath can interact with many objects in the game. The first thing you will encounter is a thing in the ceiling that looks like a giant meat tenderizer mallet. When you jump onto the side of it your weight will pull it down, simultaneously raising an iron gate that blocked your way. Also you will find things like catapults which are wooden structures that will fling you across a room after you jump on them. Mess with everything to see what you can get it to do! 
+
+Gameplay:
+
+Throughout the game, Goliath will contend with the Vikings who ransacked Castle Wyvern in the past, as well as new, robotic foes who attack him in the present across various venues, such as Manhattan rooftops and a subway. His arsenal of attacks to defend himself include various strikes with his fists, grapples, throws, and leaping maneuvers. Furthermore, he can pump his wings once to increase his jumping distance, as well as climb along walls and ceilings with his claws. The game contains eighteen levels bookended by short cinematics which explain the story thus far, each level concluding with a boss encounter.
+
+Gargoyles boasts a hand-drawn appearance to Goliath, Demona and the Viking antagonists, not unlike Virgin Interactive's Aladdin also for the Genesis, but also a CGI-modeled look for the robots encountered in the present. Unfortunately, due to the Genesis' low color pallete, the robots have a very dark, washed-out look.
+
+Controls:
+
+A Button: Throw
+B Button: Claw
+C Button: Jump/ Flap Wings
+Start Button: Pause Game
+
+Hints:
+
+- Dedication Screens -
+Press START to pause game then press the following codes:
+Dedication Screen #1 (with floating spheres):
+A, B, RIGHT, A, C, A, DOWN+A then press START.
+Dedication Screen #2: A, B, RIGHT, A, C, A, DOWN+C
+Dedication Screen #3: A, B, RIGHT, A, C, A, DOWN+A, A, A
+
+- Dedication Screen #1 (Balls) -
+-- B, A, Left, Left, B, A, Left, Left
+-- C, A, Left, Left, C, A, Left, Left
+-- C, A, Left, Left, C, A, B, A, Left
+-- C, A, Left, Left, A, B, B, B, B
+-- C, A, Left, Left, C, B, B, B, B
+-- C, A, Left, Left, Left, Left, Left, Left
+-- C, A, Left, Left, B, A, Left, Left
+
+- Dedication Screen #2 (''Gargoyles'') -
+-- C, A, Left, Left, C, A, C
+-- C, A, Left, Left, C, A, R
+-- C, A, Left, Left, C, A, A
+-- C, A, Left, Left, C, C
+-- C, A, Left, Left, A, A, A
+-- C, A, Left, Left, A, C, C
+
+- Dedication Screen #3 (Credits) -
+-- A, B, C, A, B, C, A, B, C
+-- C, A, Left, Left, C, A, B, A, C
+-- C, A, Left, Left, A, B, B, B, C
+
+On the first dedication screen with the balls, you can also change the balls' pattern by tapping A, and you can pause/resume the balls' movement with Start. While the balls are paused, you can zoom in with Up and zoom out with Down.
+
+- Energy Regeneration -
+Press START to pause and enter: A,B, RIGHT, A, C, A, DOWN, A, RIGHT, B, A. Unpause and your life bar will rise to 100%
+
+- Fireballs -
+Pause the game and press A, B, Right, A, C, A, Down, A, B, and Right. Resume the game and press A to throw fireballs.
+
+- Flying -
+Anytime during the game, press Start, then press C, A, Left, Left, A, C, A, B, then press Start again. You can then fly when you hold A, B, and C.
+
+- Invincibility -
+Pause the game and press A, B, Right, A, C, A, Down, A, B, Right, and Left. Collecting a shield will disable this code.
+
+- Level Skip -
+To gain a Level Skip just press START to pause and enter: A,B, RIGHT, A, C, A, DOWN, A, B, RIGHT. You will skip to the next level.
+
+- Reboot the Game -
+Press A, B, and C at the same time then press START
+
+Reviewer:
+
+http://www.consoleclassix.com/genesis/gargoyles.html
+http://en.wikipedia.org/wiki/Gargoyles_(video_game)
+http://www.gamefaqs.com/console/genesis/code/586203.html

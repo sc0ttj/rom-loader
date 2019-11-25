@@ -1,0 +1,63 @@
+SOUND_ARRAY=(Default alsa oss nosound)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then # if not already the selected value
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SCREEN_ARRAY=(Default rotate micro mini) 
+SCREEN_ITEMS="<item>$SCREEN</item>" #stored value should be first in list
+for i in "${SCREEN_ARRAY[@]}"
+do
+	if [ "$i" != "$SCREEN" ];then # if not already the selected value
+		SCREEN_ITEMS=`echo "$SCREEN_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+FS_ARRAY=(Default true false) 
+FS_ITEMS="<item>$FS</item>" #stored value should be first in list
+for i in "${FS_ARRAY[@]}"
+do
+	if [ "$i" != "$FS" ];then # if not already the selected value
+		FS_ITEMS=`echo "$FS_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+HWBUF_ARRAY=(Default true false) 
+HWBUF_ITEMS="<item>$HWBUF</item>" #stored value should be first in list
+for i in "${HWBUF_ARRAY[@]}"
+do
+	if [ "$i" != "$HWBUF" ];then # if not already the selected value
+		HWBUF_ITEMS=`echo "$HWBUF_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+DBUF_ARRAY=(Default true false) 
+DBUF_ITEMS="<item>$DBUF</item>" #stored value should be first in list
+for i in "${DBUF_ARRAY[@]}"
+do
+	if [ "$i" != "$DBUF" ];then # if not already the selected value
+		DBUF_ITEMS=`echo "$DBUF_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+SCAN_ARRAY=(Default double single) 
+SCAN_ITEMS="<item>$SCAN</item>" #stored value should be first in list
+for i in "${SCAN_ARRAY[@]}"
+do
+	if [ "$i" != "$SCAN" ];then # if not already the selected value
+		SCAN_ITEMS=`echo "$SCAN_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+COLOR_ARRAY=(Default color bw) 
+COLOR_ITEMS="<item>$COLOR</item>" #stored value should be first in list
+for i in "${COLOR_ARRAY[@]}"
+do
+	if [ "$i" != "$COLOR" ];then # if not already the selected value
+		COLOR_ITEMS=`echo "$COLOR_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+

@@ -1,0 +1,3 @@
+Puzzle game where you have to drop playing cards so they make poker-valid lines horizontally, vertically and diagonally.
+
+http://www.pcengine.co.uk/HTML_Games/Ryukyu.htm

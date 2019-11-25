@@ -1,0 +1,196 @@
+THE WORLD OF CHRONO TRIGGER
+
+Living in the seemingly peaceful kingdom of Guardia in 1000 A.D., the child CRONO was chosen by guardian spirits to save the world from ultimate devastation. Though Doomsday will not happen until the year 1999, the ancient seeds of destruction were planted long ago by the evil LAVOS. Your mission in the world of CHRONO TRIGGER is to travel back and forth through time to change the course of history, and stop Lavos from succeeding in his dark plan. On your journey, you will battle monsters and meet many helpful people in both the past and the future. Some will become your faithful and powerful companions, while others will give you clues by telling you stories. Pay attention to what they say, and good luck in your adventure.
+
+FUTURE
+
+In the future, 2300 A.D., the world has almost been destroyed by the evil Lavos. Those who survive are hungry, hurt, and hopeless. Find out how to help them, because the future of the world depends on you.
+
+PRESENT
+
+In 1000 A.D., beneath the surface of peaceful surroundings, monsters from the past are scheming to destroy the world while residents, unaware of the approaching peril, celebrate in the kingdom of Guardia.
+
+PAST
+
+Back in 600 A.D., humans are at war against monsters controlled by the evil Prince of Darkness. He has already defeated many Guardia knights, so in order to help them, you must travel even further back - to 65 Million B.C. - when Lavos first arrived on earth.
+
+--From the SNES Chrono Trigger instruction manual.
+
+Overview:
+
+Chrono Trigger is one of the best early role playing games made. Thats why it shipped more than 2.36 million copies in Japan and 290,000 abroad. The graphics were very colorful and detailed. The controls were easy to use, and had a high functionality. The music in this game was also very successful. The are several songs from the game that are widely recognized by it's huge fanbase. The major stand out of this game from others was the storyline and how there were several different ones depending on what you decided to do in the game. This made the replayability factor very high. This is a must play for any classic gamer.
+
+Directions:
+
+Chrono Trigger features standard console role-playing game (RPG) gameplay with several innovations. The player controls the protagonist and his companions in the game's two-dimensional fictional world, consisting of various forests, cities, and dungeons
+
+Navigation occurs via an overworld map, depicting the landscape from a scaled down overhead view. Areas such as forests, cities, and similar places are depicted as more realistic scaled down maps, in which players can converse with locals to procure items and services, solve puzzles and challenges, or encounter enemies. Chrono Trigger's gameplay deviates from that of traditional RPGs in that, rather than appearing in random encounters, many enemies are openly visible on field maps or lie in wait to ambush the party. Contact with enemies on a field map initiates a battle that occurs directly on the map rather than on a separate battle screen.
+
+Players and enemies may use physical or magical attacks to wound targets during battle, and players may use items to heal or protect themselves. Each character and enemy has a certain number of hit points, and successful attacks reduce that character's hit points, while hit points can be restored with potions and spells. When a playable character loses all hit points, he or she faints; if all the player's characters fall in battle, the game ends and must be restored from a previously saved chapter, except in specific storyline-related battles that allow or force the player to lose. Between battles, the player can equip his/her characters with weapons, armor, helmets, and accessories that provide special effects (such as increased attack power or defense against magic), and various consumable items can be used both in and out of battles. Items and equipment can be purchased in shops or found on field maps, often in treasure chests. 
+
+By exploring new areas and fighting enemies, players progress through Chrono Trigger's story.
+
+Each character can take action in battle once a personal timer dependent on the character's speed statistic counts to zero. Magic and special physical techniques are handled through a system called "Techs". Techs deplete a character's magic points (a numerical meter like hit points), and often have special areas of effect; some spells damage huddled monsters, while others can harm enemies spread in a line. Enemies often change positions during battle, creating opportunities for tactical Tech use. A unique feature of Chrono Trigger's Tech system is that numerous cooperative techniques exist. Each character receives eight personal Techs which can be used in conjunction with others' to create Double and Triple Techs for greater effect. For instance, Crono's sword-spinning Cyclone Tech can be combined with Lucca's Flame Toss to create Fire Whirl. When characters with compatible Techs have enough magic points available to perform their techniques, the game automatically displays the combo as an option.
+
+Chrono Trigger features several other unique gameplay traits, including time travel. Players have access to seven eras of the game world's history, and past actions affect future events. Throughout history, players find new allies, complete side quests, and search for keynote villains. Time travel is accomplished via portals and pillars of light called "time gates", as well as a time machine named Epoch. The game contains thirteen unique endings; the ending the player receives depends on when and how he or she reaches and completes the game's final battle. Chrono Trigger also introduces a New Game+ optionafter completing the game, the player may begin a new game with the same character levels, techniques, and equipment (but not money) that he or she ended the previous game with. Certain items central to the storyline are removed and must be found again, such as the sword Masamune. 
+
+Controls:
+
+A Button - Talk, Accept, enter areas on the world map
+B Button - Dash / Cancel
+X Button - Open Menu
+Y Button - Change Party Members, Time compass on Epoch
+L+R Buttons - Run from battle
+Start Button - Pause
+Select Button - View World Map
+
+Hints:
+
+New Game Extras
+If you beat the game, you will have the option of taking your old characters/items/levels into a harder version of the game with extra endings.
+
+Tips:
+
+Erase saved games
+At the save game selection screen, select the save you wish to delete and press Start + Select on Controller 2.
+You will be given a Yes/No confirmation box before the save is deleted.
+
+Factory Passcodes
+There are two points in the Factory in 2300 AD in which you must enter a passcode to proceed. The first point
+requires you to enter codes to control a crane, and the second requires you to enter the master password for the entire factory. The following lists those three such passcodes. Remember to press the buttons in order, not all at the same time.
+
+Factory Crane Passcode 2 B, B
+Factory Crane Passcode 1 X, A
+Factory Master Password X, A, B, Y
+
+Save Lucca's Mother
+In the event where Lucca's mother gets caught in the machine, walk to the lower rightmost accessible portion
+of the machine, press A, and you will be prompted to enter a code to stop it.
+
+L, A, R, A Saves Lucca's Mother
+
+Game Ending
+There are 13 Endings possible in this game, depending on when you choose to fight Lavos. 
+
+Ending 01 Beyond Time 
+Beat Lavos at the end of the game
+
+Ending 02 Reunion 
+Beat Lavos while Chrono is 'dead'
+
+Ending 03 The Dream Project 
+Beat Lavos in the Black Omen OR right after Marle joins your party (New Game+ only)
+
+Ending 04 The Successor of Guardia 
+Beat Lavos as soon as you return from 600 AD  [right telepod, again-only new game +]
+
+Ending 05 Good Night 
+Beat Lavos as soon as you get to the End of Time  [use bucket]
+
+Ending 06 Legendary Hero 
+Beat Lavos before you get the Hero Medal, but  after you hear Tata is the hero
+
+Ending 07 The Unknown Past 
+Beat Lavos after getting the Hero Medal, but  before the Masamune is fixed
+
+Ending 08 People of the Times 
+Beat Lavos after you get the gate key back in 65, 000, 000 BC
+
+Ending 09 The Oath 
+Beat Lavos after getting the Masamune fixed, but  before opening the magic cave
+
+Ending 10 Dino Age 
+Beat Lavos after defeating Magus, but before defeating Azala
+
+Ending 11 What the Prophet Seeks 
+Beat Lavos after defeating Azala
+
+Ending 12 A Slide Show 
+Beat Lavos after Schala uses her pendant, but  before yours is powered
+
+Ending 13 Day of Lavos 
+Fight Lavos and lose
+
+Infinite Power Tabs
+When on the black omen, you will come across a Tubster (Which at first looks like a tornado on the ground)
+Attack it and have Ayla use Charm, then escape, and go back through the door you came in and repeat.
+
+Infinite Shelters
+When you exit Guardia Forest in the beginning of the game there is a bush near the exit that will move, when
+you try to communicate with it a strange creature should run out dropping a free shelter, after this leave the forest towards the castle but don't progress further, instead go back into the forest to where the bush was, you will be able to interact with it again thusly giving you another free shelter. There are a few enemies about but by going around where the enemies come out you should be able to avoid them. By using this cheat you can use the shelters to recover many times or sell them for 75 gold each.
+
+Save anywhere
+In Giants Claw or Tyrono Fortress there are a few switches. One activates a save point, one starts a
+battle, and one makes part of the floor disappear.
+
+Activate the save point, then make the floor disappear. Go to the top of the left hole, jump off and press A
+just as you go onto it. Save and continue. If done correctly, you should be able to save anywhere!
+Note: This affect will wear off if you turn the system off.
+
+Get 10 Mid Ethers at Lab 32
+After getting the Race Log to track your best scores in the bike race, race Johnny and attain a score of 777.  Rx-xR will reward you with 10 Mid Ethers.
+
+Reviewer: Adrian
+http://www.consoleclassix.com/snes/chrono_trigger.html
+The perfect place to test your might, the Coliseum offers a new challenge to old veterans and breathes new life into the renowned battle system of Chrono Trigger. It is also arguably the most complicated event hack of the game to date, serving as indisputable proof that the Temporal Flux editor indeed has unlocked countless opportunities for reshaping the game. Three modes of difficulty are available for solo or party battles, and points can be accumulated to achieve rewards. Additionally, a cameo by a legendary swordsman appears for those who beat Hard mode on Solo.
+
+http://romhacking.net/hacks/21/
+Come on, who hasn't played Chrono Trigger? All of Square's biggest talents teamed with Dragon Quest producer Yuji Horii and character designer Akira Toriyama to make a truly classic RPG. It's amazing to think that from a company that puts all of its resources into the Final Fantasy franchise, most people instead consider Chrono Trigger to be the best RPG ever made. Yep, it's that good. All the loser Squaresoft fanboys you keep seeing and managing to talk to? Play Chrono Trigger and you'll understand.
+
+You play as Crono, a mute (yet beloved.. why?) character whose friend Lucca accidentally creates a rift in the space-time continuum and sucks a girl back four hundred years in time. You go in to rescue her and set in motion a chain of events that will save the world from total destruction a thousand years from now by an evil otherworldly entity. It's a good game, seriously.
+
+Translation Description:
+
+So, you're probably wondering why a great game that already had a decent translation and a recently released retranslation from fans would need another fan translation. Normally, I'd be wondering the same thing. However, here we are.
+
+Late in January of 2008, I had a desire to play Chrono Trigger again after having not played for at least 7 years. When I discovered that KWhazit, ZeaLitY, and company had finished a new English retranslation, I immediately applied it to the game and started playing.
+
+No, discredit to them, but I felt much of the text was incoherent and/or awkward. I soon discovered I was not the only one who felt this way. Therefore, instead of complaining, I decided to take action. I acquired all the necessary tools to begin doing my re-retranslation. For the next 3 months, I went to work.
+
+I want to make it clear that, despite not enjoying their version, I would not have been able to do this without Chrono Compendium's retranslation forerunners like ZeaLitY and KWhazit. The resources they provided pointed me in the right direction to complete this.
+
+In the end, here are the fruits of my labor. I aimed not so much for a literal translation, but localization, clear and easily understood text, and the inclusion of any missing elements left out from the US version due to Nintendo's censorship policy from back in the day.
+
+Hopefully, you'll find it to be an enjoyable experience.
+
+*NOTES* I will not provide you or tell you where to get an illegal ROM image of Chrono Trigger. Don't ask. You are expected to provide your own legit copy.
+
+Regarding the change of the element icon 'Lightning' to 'Sky' and then to 'Heaven' in my version: I have strong reasoning for doing this. I will explain. The Japanese character used for Crono's element can be rendered as Sky or Heaven in English. ZeaLitY decided on Sky. However, here are my reasons for choosing Heaven:
+
+1. Crono's final tech's, Shining (Luminaire in original English version), description reads literally from Japanese, "Ultimate holy magic on all enemies." Any version of heaven across all cultures in a spiritual, metaphysical, or magical sense is associated with being holy.
+
+2. If the element truly was supposed to be Sky, why would the localization team change it to Lightning? Such changes were generally only done for three reasons: The original meaning held religious context (as heaven does), cultural difference no one here would readily understand, or was of an adult nature.
+
+I based my ROM edit off of a copy of Chrono Trigger patched with Chrono Compendium's retranslation patch. So, their CronoNick fix and the ending artwork are both still in-tact. I take no credit for these whatsoever and you have them to thank.
+
+Reviewer: Spinner 8
+http://www.romhacking.net/trans/1258/
+Chrono Trigger: Crimson Echoes was a fan project modification of the Chrono Trigger ROM begun in late 2004. Development continued thanks to a dedicated group of fans through 2009. By May 2009, the game featured ~35 hours of game play, 10 multiple endings, and 23 chapters, much like the original Chrono Trigger; it was around 98% complete. The plot featured the original cast as they struggled against a new villain risen from the legacy of Zeal.
+
+The team planned to release Crimson Echoes on May 31, 2009 as the first feature-length fan Chrono series game, and an unprecedentedly exhaustive work in the ROM modification community. On May 8, 2009, Chrono Trigger: Crimson Echoes received a cease & desist letter, along with all other game modification activity (even research) at the Chrono Compendium. In compliance with the letter, the development team ceased development on the game, and existing modifications (including Prophet's Guile) were taken down.
+
+We thank those fans who followed the game's development, and also those who poured countless hours into the vision of a fun, new Chrono game, made by fans for fans without copyright claim or intent to make profit.
+
+We understand the frustration. I sincerely hope this action is a sign that Square Enix cares about the franchise and intends to produce future titles, and not merely a shortsighted legal exercise that will further alienate a tired, neglected fan-base.
+
+As a matter of public record, you may view the cease & desist letter here: http://www.crimsonechoes.com/letter.pdf
+
+http://www.crimsonechoes.com/
+In Chrono Trigger, and many other games for that matter, there's often a fine line, in terms of levels, between certain scenarios being really easy or rather hard.  Level Zero, formerly Frozen in Time, began as a modification geared towards smoothing some of these rough edges in Chrono Trigger's mechanics.  Frozen in Time aimed to "correct" these problems by removing the level-up, and then changing character and enemy stats to balance the final result.  Store and weapon tweaks were made as well.
+
+While these changes more or less got the job done, it made other gameplay problems more glaring, and it added a few of its own.  Massive item tweaks (weapons, armor, helmets, accessories, consumables) were made.  A few story-based stat changes have been added or changed.  I disabled tabs (or more accurately, replaced them with "gems" that can only be sold, but for more money).  Technique power and costs are changed.  The mod as a whole is far more balanced now.  While PrismSpecs are still the best accessory, there are many others that can now hold their own or even come out ahead in the right situation.
+
+This is not a hardtype hack, but the difficulty is a bit on the high side.  Even though you can't level up, you should still be able to win from any save on the overworld map (with the possible exception of pre-Blackbird), even if you have sold or missed many major items.  If you think you need a certain rare item to complete the game, that item may in fact no longer be rare, or there may be other items that you can use instead.
+
+Easy Intro:
+
+You don't level-up anymore, so your stats don't increase.  Various things have been tweaked to make it playable: Characters, enemies, weapons, armors, helmet, accessory, items, techniques, and a few events.  The game difficulty will tend to be a little harder, but results will vary depending on your playing style.
+
+~From the Author's Readme file
+WARNING: Right now, PG freezes SNES9x during a certain part, making the game impossible to finish. The latest version of ZSNES works.
+
+Chrono Trigger: Prophet's Guile is a fan game following the story of Magus's rise to power in the Kingdom of Zeal after arriving in 12000 B.C. thanks to the distortion at his lair. In his bid to stop Lavos at the Ocean Palace, Magus must gain the trust of Queen Zeal and abolish all opposition. It's about two regular Chrono Trigger chapters long, and full of surprises.
+
+Work on Chrono Trigger: Prophet's Guile began in January 2007. ZeaLitY suggested that the Crimson Echoes team, sidelined for the moment, develop a short ROM hack to be released in a couple months. Unfortunately, other matters came into play and after the backbone of the game was coded, work halted and shifted back to Crimson Echoes. In December 2007, Chrono'99 revived the project and thanks to a collaborative effort with his leadership, Prophet's Guile now stands complete. The only casualty of the development process was a plan to resprite Magus as the Prophet, which would have involved exhaustive work.
+
+http://romhacking.net/hacks/362/

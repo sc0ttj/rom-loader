@@ -1,0 +1,34 @@
+Lost Vikings is a different kind of platformer. It adds an element of puzzle to it by having each character have special abilities and making you figure out how to get them all out by using their abilities together. The graphics are very colorful and are pretty well drawn. The controls are a little hard to figure out at first. I especially had trouble getting them to use a bomb. I found the sounds annoying and repetitive. I found the storyline to be kinda stupid and farfetched, I mean come on, an intergalactic zoo? This game is only moderatley amusing. 
+
+Directions:
+
+In the game, the three Vikings get kidnapped by Tomator, an extraterrestrial emperor of the Croutonian empire, for an inter-galactic zoo and become lost in various periods of time. The purpose of the game is to control the three characters (who all have separate abilities) in order to solve puzzles to escape and get back home.
+All three Vikings have 3 health points which they can lose by getting hurt by enemies or by falling from great heights, and the ability to carry and use items, mainly keys, bombs, and food. None of them can swim.
+
+Character abilitites
+
+- Erik can run faster than the other two, can jump, and can bash through some walls (and even some enemies) with his helmet.
+
+- Baleog can kill enemies with his sword, or from a distance with his bow (and a "life-time supply of arrows"). The bow can also be used to hit switches from a distance.
+
+- Olaf can block enemies and their projectiles with his shield, use his shield as a hang glider, or as a stepping stone for Erik to enable him to reach high grounds which is not possible without the shield.
+
+Trivia:
+
+In World of Warcraft, there is a dungeon called "Uldaman" where the three vikings appear as NPCs (non-playable characters), related to a quest called "The Lost Dwarves".
+
+Controls:
+
+A Button: Action
+B Button: Use Primary Ability
+C Button: Change Character
+Start: Pause
+
+Hints:
+
+Skip to the last level:
+At the title screen select password and enter MSTR to go to level 41.
+
+Reviewer: PCGamer77, Kartanym
+http://www.consoleclassix.com/genesis/lost_vikings.html
+http://www.mobygames.com/game/genesis/lost-vikings

@@ -1,0 +1,438 @@
+#!/bin/sh
+
+#enable joypad navigation
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/pajzintvrc
+# set some vars as defaults
+export FULLGUI=''
+export FSGUI=''
+export FULLSCREENGUI='';
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.rom$|\.bin$|\.int$|\.itv$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: jzintv or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_intv' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "pajzintv $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: pajzintv [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR=$HOME #default browser dir
+	VOICE=Default
+	SIZE=Default
+	FS=Default
+	AUDIO=Default
+	AUDIOFILE=Default
+	DEBUGGER=Default
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAjzintv config file' > $CONFIG
+	echo DIR="\"$DIR\"" >> $CONFIG
+	echo VOICE=$VOICE >> $CONFIG
+	echo SIZE=$SIZE >> $CONFIG
+	echo FS=$FS >> $CONFIG
+	echo AUDIO=$AUDIO >> $CONFIG
+	echo AUDIOFILE=$AUDIOFILE >> $CONFIG
+	echo DEBUGGER=$DEBUGGER	 >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	case $VOICE in 
+	true) C="--voice=1" ;;
+	false) C="--voice=0" ;;
+	esac
+	
+	
+	case $SIZE in 
+	320x*) C="$C --displaysize=0" ;;
+	640x*) C="$C --displaysize=1" ;;
+	esac
+	
+	
+	case $FS in 
+	true) C="$C --fullscreen=1" ;;
+	false) C="$C --fullscreen=0" ;;
+	esac
+	
+	
+	case $AUDIO in 
+	Default) echo '' ;;
+	nosound) C="$C --audiorate=0" ;;
+	*) C="$C --audiorate=$AUDIO" ;;
+	esac
+	
+	
+	case $AUDIOFILE in 
+	Disabled) echo '' ;;
+	*) C="$C --audiofile=$DIR$AUDIOFILE" ;;
+	esac
+	
+	
+	case $DUBUGGER in 
+	true) C="$C --debugger=1" ;;
+	false) C="$C --debugger=0" ;;
+	esac
+
+	#joypad navigation
+	rejoystick1cc --load --profile intellivision &>/dev/null
+	rejoystick2cc --load --profile intellivision &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	#the actual, final command
+	echo "cd /usr/local/jzintv/; /usr/local/jzintv/jzintv --execimg=/usr/lib/games/intellivision/exec.bin --gromimg=/usr/lib/games/intellivision/grom.bin $C \"$DIR$CHOOSER\""  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid game in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${INTV_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+# check for bios file
+if [ ! -e "/usr/lib/games/intellivision/grom.bin" -o ! -e "/usr/lib/games/intellivision/exec.bin" ];then
+	. /usr/local/rom-loader/func/func_get_bios
+	get_bios_intv
+fi
+
+#build gui
+S='
+<window title="Puppy Arcade - Intellivision loader (jzintv)" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+
+  <vbox width-request="300" space-expand="false">
+
+		<hbox>
+			<text><label>Enable Intellivoice: </label></text>
+			<combobox width-request="120" tooltip-text="">
+				<variable>VOICE</variable>
+				'$VOICE_ITEMS'
+			</combobox>
+		</hbox>
+		
+		<hbox>
+			<text><label>Display Size: </label></text>
+			<combobox width-request="120" tooltip-text="Choose an output resolution">
+				<variable>SIZE</variable>
+				'$SIZE_ITEMS'
+			</combobox>
+		</hbox>
+		
+		<hbox>
+			<text><label>Fullscreen: </label></text>
+			<combobox width-request="120" tooltip-text="Fullscreen or not">
+				<variable>FS</variable>
+				'$FS_ITEMS'
+			</combobox>
+		</hbox>
+		
+		<hbox>
+			<text><label>Audio Sample Rate: </label></text>
+			<combobox width-request="120" tooltip-text="Choose disabled to disable all audio, or choose a sampling rate">
+				<variable>AUDIO</variable>
+				'$AUDIO_ITEMS'
+			</combobox>
+		</hbox>
+		
+		<hbox>
+			<text><label>Record audio to file: </label></text>
+			<combobox width-request="120" tooltip-text="Choose a file to record the audio to... You can type in your own filename here (no path!), not only what is in the list! The file will be saved in the same folder as the ROM you are playing.">
+				<variable>AUDIOFILE</variable>
+				'$AUDIOFILE_ITEMS'
+			</combobox>
+		</hbox>
+		
+		<hbox>
+			<text><label>Enable Debugger: </label></text>
+			<combobox width-request="120" tooltip-text="Enable the emulators debugger">
+				<variable>DEBUGGER</variable>
+				'$DEBUGGER_ITEMS'
+			</combobox>
+		</hbox>
+
+  </vbox>
+
+
+## H E L P
+  <vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Jzintv Help:
+
+jzIntv scans for joysticks when it starts.  It will 
+look for and configure up to 4 joysticks.  
+
+
+Player 1 Controls (but test them out):
+
+UP			up
+DOWN		down
+LEFT		left
+RIGHT		right
+Control		button1
+Shift		button2
+
+1 or 2		one / two players
+
+On numeric keyboard: 
+
+5			start game/fire button
+ENTER		use after choosing one or two players 
+
+Function keys: 
+
+F1             Quit
+F4             Break into debugger
+F5             Switch to keymap 0 (default keymap)
+F6             Switch to keymap 1 (left pad, for 1 player games)
+F7             Switch to keymap 2 (ECS keyboard keymap)
+F8             Shift to keymap 3 while held (Command keys)
+F9             Toggle fullscreen/windowed
+F10            Toggle movie recording
+F11            Take screen shot
+F12            Reset emulator
+Pause          Pause the emulator
+PgUp           Increase volume
+PgDn           Decrease volume
+
+===========================
+
+MORE DETAILS:
+
+Numeric Keypad, keymap 0 and keymap 1:
+
+1-9            Left controller 1 - 9
+0              Left controller Clear
+.              Left controller 0
+Enter          Left controller Enter
+
+Main Keyboard, keymap 0 (keymap 1 moves the right 
+controller key mappings to the left controller):
+
+0-9            Right controller 0 - 9
+-              Right controller Clear
+=              Right controller Enter
+Left Shift     Right controller top action buttons
+Left Alt       Right controller bottom-left action button
+Left Control   Right controller bottom-right action button
+
+Right Shift    Left controller top action buttons
+Right Alt      Left controller bottom-left action button
+Right Control  Left controller bottom-right action button
+
+Up Arrow       Left controller disc up
+Down Arrow     Left controller disc down
+Left Arrow     Left controller disc left
+Right Arrow    Left controller disc right
+
+Fine-control directional pad inputs:
+
+   U  I  O
+  J --+-- K      Left controller disc
+  N  M   ,
+
+  W   E   R
+  S  --+-- D      Right controller disc
+  Z    X   C
+
+Keymap 2 configures the PC keyboard to function 
+like an Intellivision Entertainment Computer System 
+(ECS) keyboard attachment.
+
+Keymap 3 is for Command keys. If you press the F8 key, 
+jzIntv will configured for keymap 3 until you release the key.
+
+The following Command key bindings are currently defined:
+
+Command+Q      Quit
+Command+P      Pause
+Command+M      Movie
+Command+S      Screen shot
+Command+R      Reset
+Command+W      Toggle windowed/full-screen mode
+
+=========================
+
+jzIntv supports most, if not all, known formats for Intellivision
+game ROM images.
+
+If the filename ends in .bin, .int, or .itv, or if jzIntv does not
+recognize the files extension, it will assume the file is in 
+BIN+CFG format.  In that case, jzIntv will look for a matching 
+file in .cfg format.
+
+Systems with case-sensitive file names (Linux, UNIX, etc.) 
+need to ensure the filename extensions are in lower-case.
+   	
+"</default>
+	</edit>		
+  </vbox>
+
+</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/share/doc/jzintv/readme.txt &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export pajzintv="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p pajzintv $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset pajzintv
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

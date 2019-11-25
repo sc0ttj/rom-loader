@@ -1,0 +1,19 @@
+Soccer is an sports game for two players or one player against the computer. You can play the game in one of five skill levels, choose from several different teams, and select the amount of time the match will take. Soccer features throw-ins, goal kicks, corner kicks, penalty kicks and an overhead view of the field which scrolls to follow the action.
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.mobygames.com/game/nes/soccer
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

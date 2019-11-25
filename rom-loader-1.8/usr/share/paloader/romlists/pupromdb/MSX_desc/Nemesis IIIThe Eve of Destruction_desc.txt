@@ -1,0 +1,3 @@
+Gradius 3 is a vertical scrolling shoot 'm up. Shooting at certain enemies will leave a power up pod behind which can be collected to add more power to your space ship (for example special weapons or a force field). Every level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating. In Gradius 3 the planet Gradius is involved in 3 space wars: versus Bacterion, Venom and Salamander!
+ 
+http://www.mobygames.com/game/msx/nemesis-3-the-eve-of-destruction

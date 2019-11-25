@@ -1,0 +1,11 @@
+This patch translates all the dialogue and all briefings completely into English. All that's left are some splash screens, but this patch is marked final, so these apparently won't get translated.
+
+http://www.romhacking.net/trans/564/
+Bleh! If you've played one Daisenryaku game, you've played them all I think. This one certainly has a lot more going for it in terms of presentation, that's for sure. Unfortunately, my ineptitude at console wargames is made painfully obvious once again. When you can't win at Fall Weiss, you know you suck.
+
+Translation Description
+
+This patch translates all the dialogue and all briefings completely into English. All that's left are some splash screens, but this patch is marked final, so these apparently won't get translated. 
+
+Reviewer: Spinner 8
+http://www.romhacking.net/trans/564/

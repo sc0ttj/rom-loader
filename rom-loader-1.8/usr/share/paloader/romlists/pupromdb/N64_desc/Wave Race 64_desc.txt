@@ -1,0 +1,36 @@
+Description
+
+Wave Race 64 is sure to provide some of the most exciting racing you've ever experienced. Feel the pounding and crashing of the waves as you accelerate into straight-aways, whip around the marker buoys and go airborne on the jump ramps. Don't race alone - challenge a friend! Take control in three different modes of play - Championship, Time Trials and Stunt Mode. Nine challenging courses set in exotic locales - race conditions change and the wave action responds to the way both you and your opponents race!
+
+Gameplay
+
+The objective of each race is to not only to beat the other racers but also to successfully weave the jet-ski through various buoys. There are two types of buoys: red colored, which are signified by an R on them and must be passed on the right side, and yellow buoys, which are marked with an L and must be passed on the left side. Each time a buoy is correctly passed, a power arrow will light and the jet-ski will gain speed. Up to five arrows can be lit in order to obtain maximum power.
+
+Failure to do either of these will result in a loss of power (though the arrows can be lit again) and missing five buoys over the course of a race will result in disqualification. Leaving the course (either by leaving the area limited by pink buoys or by leaving the water altogether) for more than ten seconds will also result in disqualification.
+
+
+Game modes
+
+The game modes are:
+
+    * Championship: the player must beat a series of tracks and win the first place. Up to four levels of difficulty can be chosen: Normal, Hard, Expert and Reverse (the last being basically Expert with the tracks oriented backwards). Hard, Expert, and Reverse initially need to be unlocked. Also, the difficulty determines the number of courses played (six in Normal, seven in Hard and eight in Expert/Reverse). Each track has a specific set of points that the player must achieve in order to move to the next track. If the required quantity is not met, the player will be disqualified and the game will be over. The ranking the player finishes each race in determines the amount of points given: first place receives 7 points, second place receives 4 points, and third and fourth places receive 2 and 1 points, respectively. Players who are disqualified during the race do not receive any points.
+
+    * Warm Up: In this mode, the player trains to use the jet-ski in a special course known as Dolphin Park. In the bottom of the screen a prompt will indicate a set of instructions to control the vehicle, though the player can ignore it and practice by him- or herself. The player can also start Championship mode from Dolphin Park if they decide to.
+
+    * Time Trials: the typical time-attack mode in order to perform the best times, which are recorded in the game's data. Only the courses that have been unlocked can be played.
+
+    * Stunt Mode: In this mode the player plays solo in order to earn points by executing stunts and passing through hoops. The points depend upon how many hoops the player passes through without missing, as well as the class of stunt that has been performed, in which conditions it was executed, and the frequency that particular stunt has been done (the more times a single stunt is successfully completed, the amount of points awarded decreases). The game keeps track of the best scores. Only the unlocked courses can be played, and the warm up level, Dolphin Park, is also available.
+
+    * 2P VS.: A versus mode with a second player. The screen is vertically divided into two sections by a horizontal line. Like in other modes, only the unlocked tracks can be played.
+
+The options menu allows the player to check audio, look over and erase records, and manage saved data from either the game itself or the Controller Pak. The names of the characters and the racing conditions (required laps, wave conditions, etc.) can also be changed.
+
+
+
+
+
+
+
+
+http://www.gamefaqs.com/n64/199278-wave-race-64
+http://en.wikipedia.org/wiki/Wave_Race_64

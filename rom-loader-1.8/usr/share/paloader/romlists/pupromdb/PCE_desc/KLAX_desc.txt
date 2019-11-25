@@ -1,0 +1,32 @@
+Addiction: "persistent, compulsive use of a substance." If you are like me, then this definition may be painfully descriptive of your Klax use (or abuse). Klax is one of those puzzle games in the vein of Tetris, where you have to match up pieces, in this case tiles, to make them disappear. More tiles come at faster rates as the levels increase, making the experience more frantic the longer (or shorter, as you shall read) you play.
+
+The basic strategy behind Klax is to drop colored tiles into a bin measuring five tiles wide by six tiles high. The tiles come down a conveyor and you have to catch them on a platform and deposit (drop) them into the appropriate place in the bin. As you stack the colored tiles in the bin, you need to match up three or more of the same color either vertically, horizontally or diagonally, which is called a "Klax." When the tiles are matched up, the Klax disappears, and all tiles directly above the tiles that disappeared drop down. Each level has a specific goal to complete before moving on the next level (for instance, get 10 diagonals). Points are awarded based on what kind of Klax you get and how many tiles are in it. For instance, a 5-tile diagonal Klax is worth far more points than a 3-tile vertical Klax. You can pass many levels just doing easier 3-tile vertical Klaxes, but you won't get many points.
+
+If you miss catching a tile, it falls off the board. You get between 3 and 5 missed tiles (depending on what level you choose at warp screen) before the game ends. However, at warp screen (right before the game starts and approximately every 10 levels thereafter) all strikes against you are cleared. The game can also end if you completely fill the bin with tiles.
+
+There are about 12 different colored-tiles in Klax, making perfect bin placement a must. An additional flashing "rainbow" tile counts as any color, which can sub out any tile when you are hungry for more Klaxes. If the conveyor is moving to slow for you, pressing down on the control pad speeds it up. This function is only really necessary for about the first 10 levels. Combos are the name of the game in Klax and it is possible to make quite a few multi-tiered "Klaxes," especially on accident, which saves your butt once in awhile.
+
+Klax is a truly addictive puzzle game, but there are a few things that noticeably hold it back. The first is the speed of the conveyor belt increases way faster than the corresponding level. Also the number of tiles increases disproportionately to the level as well. So, by level 70 there are more tiles coming so fast that it is just plain impossible to catch them all and drop them. Because there are 100 levels in Klax, only the most addicted player will bother playing past about level 70. Also, Klax starts you out with all 12 colors of the tiles, meaning novice players will get lots of tiles they don't know what to do with. It would have been much better to start out with say 6 colors of tiles, and gradually increase the number to the maximum of 12 as the player progressed. The play control of catching and dropping the tiles is crisp, but because of the speed and volume of the tiles, the good control doesn't make much difference in the later levels.
+
+The last glaring omission is an obvious lack of a 2-player simultaneous mode. There is no option to change any of these things in the "Options" menu. You can at least increase the number of continues, which will help you greatly in when you make it to around level 60.
+
+I own the Sega Genesis version of Klax, and that version has none of the problems the Turbografx version has. The music and sound effects are also better in the Genesis version, although I have to give the Turbo programmers props for trying to include some of the digitized "yay's" and "ooh's," even if they end up sounding kinda muddled.
+
+Overall, Klax is a decent puzzler that has the potential to suck away hours of your life. If you like this kind of game, it is worth picking up for the Turbografx if you can find it for less than $15. Klax is truly fun in the earlier levels, just don't break your controller out of frustration when you cannot manage the later levels. It's not your fault. Turn off your Turbo, go outside and get some sunshine. Therapy session is now over.
+
+HINTS:
+
+- Infinite Continues -
+Start a game with 9 credits. Everytime you push Up+Select+I+II, you will receive another 9 credits.
+
+- Level Select -
+Hold II + Select and press Run on the options screen.
+
+- Preview levels -
+Hold Select and press Run on the options screen.
+
+- Sound test -
+Enable the ''Level select'' code. Hold II + Select and press Run on the level selection screen.
+
+Reviewer: Ragnar
+http://www.turbografx.net/softdetail.asp?soft_id=7

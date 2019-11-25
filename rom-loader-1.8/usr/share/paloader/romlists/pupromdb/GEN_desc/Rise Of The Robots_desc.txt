@@ -1,0 +1,33 @@
+REBEL ROBOTS RULE METROPOLIS 4. Half-human, half-machine... It's up to you to crush the android revolution with metal mashing warfare and devastating super-moves. Grind metal against metal in the two-player confrontation. Get ready for turbo-charged 24 meg game play, brutal Artificial Intelligence, and revolutionary 3-D graphics that change the way you look at fighting games!
+
+Gameplay:
+
+The game is divided into a single player mode and a two player versus mode. In single player mode the player controls the ECO32-2 Cyborg as he confronts the Supervisor's minions across the vast facilities of Electrocorp. The order in which each droid is fought is fixed, with each next adversary more difficult than the last. The sixth and final level is a confrontation with the Supervisor droid itself. Each character is introduced by a short CGI sequence, followed by an analysis of potential weaknesses.
+
+In two player versus mode, one player controls the ECO35-2 droid by default, while the other chooses between one of the five droids seen in single player mode (a special cheat code can enable the Supervisor as well). Players then battle out against each other in 2 to 7 rounds.
+
+Although the game boasted original soundtrack music by Brian May (former guitarist of Queen), only a short intro from The Dark appeared in the final release, while the actual in-game score was done by Mirage. While May did in fact record a full soundtrack to the game, his record company EMI requested numerous delays, which consequently prompted Mirage to proceed without the music rather than having to reschedule the release date.
+
+The Electrocorp's plant at Metropolis 4 is alive with all manner of robotics, many of which were worker drones with simplistic CPUs until the Supervisor reprogrammed them with self-awareness and infected them with the EGO virus.
+
+    - ECO35-2: The protagonist of the story, the ECO35-2 named "Coton", is a fully functional bipedal cyborg that mirrors human form. The player takes control of this character to finish single player mode, with only his bare fists to face off against his enemies.
+
+    - Loader: A simple and durable worker droid, the Loader droid is the first enemy the player encounters. Before the riot at Electrocorp, Loader droids were employed in large quantities to lift and transport parts and equipment around the factory. Its primary weapons are two gigantic fork-arms.
+
+    - Builder: The gorilla-like Builder droid was developed as the natural successor of the Loader type. It is a more versatile robot designed to perform heavy assembly tasks. Although weak on its legs, the Builder droid is more than up to combat situations with its large powerful arms.
+
+    - Crusher: Simply put, the Crusher droid was designed as a robot killer, programmed to immobilize and destroy dangerously-malfunctioning production droids. It is noted for its green, insect-like appearance.
+
+    - Military: As its name suggests, the Military droid, also dubbed "Exterminator", is specifically designed for warfare purposes. In appearance it very much resembles a skeletal form of the ECO35-2 himself, albeit with the addition of razor-sharp metal claws.
+
+    - Sentry: Another combat-specific droid, the bright red Sentry stands an intimidating 3.5 meters tall and represents the next generation in security droids. Although large, it is made of lightweight metal and equipped with a jet pack for fast maneuvers.
+
+    - The Supervisor: The antagonist of the story, the Supervisor is a complete departure from conventional robotics, representing the dawn of a new era in metallurgy, artificial intelligence, and robotic engineering. The Supervisor was the first droid designed to replace humans in management rather than production positions, made self-aware, and given a neural learning CPU, giving it the ability to adapt and think on its own. The Supervisor relies on electrical flux physics and the liquid properties of polymetamorphic titanium alloy. By adjusting the flow of the electrical charge, this alloy can reshape and mold itself into any form. The robot and its characteristics bear a striking resemblance to the T-1000 character from Terminator 2: Judgement Day, played by Robert Patrick.
+
+Hints:
+
+- Play as Supervisor in two player mode -
+Go into the options menu and press Up, up, down, down, left, left, right, right, A, B, C, A, B, C. If done correctly some text should appear at the bottom of the screen. In the two player vs. mode, player 2 may now select Supervisor.
+
+http://www.gamefaqs.com/console/genesis/home/917737.html
+http://en.wikipedia.org/wiki/Rise_of_the_Robots

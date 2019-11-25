@@ -1,0 +1,38 @@
+It is the age of steel. Mammoth battleships cruise the skies. Armored locomotives carry cannons the size of railway cars. Invincible fortresses float on air... and military might rules the day. The Motorhead Empire has conquered and enslaved most of the world. Only one hope remains... The Republic of Silverhead. Their Z-01 Zeppelin flying ship launches lethal aerial-mines. Their Striker airplane fires armor piercing missiles. Their Lightning Bomb will reduce Motorhead's flame-shooting juggernauts to crumbling hulks of burning metal. Enter a future that might have been. It's time to wage the war of the Steel Empire!
+
+Gameplay:
+
+Steel Empire is a fast-paced scrolling shooter. Gameplay is linear in that the player is restricted to flying in only one direction, and the player will meet enemies in a predesignated order. However, unlike many scrolling shooters, Steel Empire allows players to fire from behind as well as ahead.
+
+Ammunition is unlimited and players have the ability to collect level powerups, which increase their firepower strength from level one to level 20. These and other powerups may be collected by flying into them.
+
+Players are given a certain number of "lives" and "continues". If a player loses a life, his craft simply reappears where it was destroyed. If the player loses all of his lives, then he must spend a "continue" and restart at the beginning of the level. Firepower level data is retained however throughout the course of the game. When all continues are expended, the game is over.
+
+Hints:
+
+- 100 Ships -
+Go to the Options menu and set up the options as follows:
+Difficulty - Hard
+Ships - 2
+Continues - 1
+Then select Sound 65 in Sound Test and press A. There won't be a sound, but when you start playing, you'll start with 99 ships.
+
+- Skip first level -
+Hold down B and press the Start button on the title screen.
+You should start on the second level now.
+
+- Stage Select -
+Highlight ''Sound Test'' in the Options menu. Then press A to listen to the sounds in this order: Sound 1, Sound 1, Sound 9, Sound 2. A stage select option should appear at the bottom of the screen.
+
+- Start with 99 Bombs -
+
+Press C, A, C, A, Start, B on controller two at the ship select screen.
+
+- Weapon Power-Up -
+Go to the Options menu and set up the options as follows:
+Difficulty - Hard
+Ships - 3
+Continues - 2
+Then select Sound 77 from Sound Test and press A. No sound will be heard, but when you start playing you can gain Level 20 firepower by pressing B on controller two.
+
+http://www.gamefaqs.com/console/genesis/code/586490.html

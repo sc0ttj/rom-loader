@@ -1,0 +1,434 @@
+1943 Kai|NOID|FDE08D6D|x|0|1991|Shooter|Japan|Capcom|Capcom|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+After Burner II|NOID|CA72A828|x|0|1990|Shooter|Japan|Bits Laboratory|Bits Laboratory|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Aoi Blink|NOID|25D34A20|x|0|1990|Action|Translated (Japan)|West One|dev-unknown|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Atomic Robo-Kid Special|NOID|DD175EFD|x|0|1990|Shooter|Japan|UPL|UPL|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+AV Poker World Gambler|NOID|B866D282|x|0|1992|Casino|Japan|Games Express|Games Express|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Bari Bari Densetsu|NOID|C267E25D|x|0|1989|Driving|region-unknown|Taito Corporation|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Barunba|NOID|4A3DF3CA|x|0|1990|Shooter|Japan|Zap|Zap|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Batman|NOID|106BB7B2|x|1|1990|Action|Japan|SunSoft|SunSoft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Battle Lode Runner|NOID|59E44F45|x|0|1993|Platformer|Japan|Hudson|Hudson|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Bikkuriman World|NOID|02DB6FE5|x|0|1987|Action|region-unknown|West One|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Bomberman '94|18440|05362516|x|0|1993|Action|Japan|Hudson|Hudson|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Bomberman Users Battle|NOID|1489FA51|x|0|1990|Puzzle|region-unknown|Hudson|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Bouken Danshaku Don the Lost Sunheart|NOID|8F4D9F94|x|0|1992|Shooter|region-unknown|I'Max|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Break in|NOID|C9D7426A|x|0|1989|Sports|Japan|Naxat Soft|Naxat Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Bull Fight Ring no Haja|NOID|5C4D1991|x|0|1989|Sports/Boxing|region-unknown|Cream|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+BURNING ANGELS|18401|D233C05A|x|0|1990|Shooter|Japan|Zap|Naxat Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Busou Keiji Cyber Cross|NOID|D0C250CA|x|0|1989|Action|Japan|Face|Face|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Champion Wrestler|NOID|9EDC0AEA|x|0|1990|Sports/Wrestling|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Circus Lido|18441|C3212C24|x|0|1991|Puzzle|Japan|Unipost|Unipost|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+CITY HUNTER|18402|F91B055F|x|0|1990|Action|Japan|SunSoft|SunSoft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Columns|NOID|99F7A572|x|0|1991|Puzzle|Japan|Laser Soft|Laser Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+CORYOON CHILD OF DRAGON|18403|B4D29E3B|x|0|1991|Shooter|Japan|Naxat Soft|Naxat Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Cross Wiber Cyber Combat Police|NOID|2DF97BD0|x|0|1990|Action|Japan|Sankindo|Sankindo|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Cyber Dodge|NOID|B5326B16|x|0|1992|Sports|Japan|Tonkin House|Tonkin House|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Dai Senpu|NOID|9107BCC8|x|0|1990|Shooter|Japan|Toaplan|Toaplan|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Daichi Kun Crisis Do Natural|NOID|61A2935F|x|0|1989|Strategy|region-unknown|Salio|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Darius Alpha|NOID|B0BA689F|x|0|1990|Shooter|Special Release (Japan)|Bits Laboratory|Bits Laboratory|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Darius Plus|NOID|BEBFE042|x|0|1990|Shooter|Japan|Bits Laboratory|Bits Laboratory|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Detana!! TwinBee|NOID|5CF59D80|x|0|1992|Shooter|Japan|Konami|Konami|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Die Hard|NOID|1B5B1CB1|x|0|1990|Action|Japan|Pack-In Video|Pack-In Video|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Digital Champ|NOID|17BA3032|x|0|1989|Sports/Boxing|Japan|Naxat Soft|Naxat Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Don Doko Don!|NOID|F42AA73E|x|0|1990|Platformer|region-unknown|Taito Corporation|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Doraemon Nobita no Dorabian Night|NOID|013A747F|x|0|1991|Platformer|Japan|Now Production|Now Production|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+DOWNLOAD|18404|85101C20|x|0|1990|Shooter|Japan|Alfa System|Alfa System|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Dragon Egg!|18443|442405D5|x|0|1991|Platformer|Japan|Tenky|Tenky|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Dragon Saber After Story of Dragon Spirit|5666|3219849C|x|0|1991|Shooter|region-unknown|Now Production|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Energy|NOID|CA68FF21|x|0|1989|Action|region-unknown|Luasan Soft|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+F-1 Dream|NOID|D50FF730|x|0|1989|Driving|region-unknown|NEC Interchannel|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+F-1 Pilot You're King of Kings|NOID|09048174|x|0|1989|Driving|region-unknown|Pack-In-Video|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+F1 Circus '91 World Championship|NOID|D7CFD70F|x|0|1991|Driving|Japan|Nichibutsu|Nichibutsu|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+F1 Circus '92 the Speed of Sound|NOID|B268F2A2|x|0|1992|Driving|region-unknown|Nichibutsu|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+F1 CIRCUS|18405|E14DEE08|x|0|1990|Driving|Japan|Nihon Bussan|Nichibutsu|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+F1 Triple Battle|NOID|13BF0409|x|0|1989|Driving|Japan|Human Entertainment|Human Entertainment|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Fighting Run|NOID|1828D2E5|x|0|1991|Action|region-unknown|Nichibutsu|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+FINAL BLASTER|18407|C90971BA|x|0|1990|Shooter|Japan|Namco|Namco|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Final Match Tennis|NOID|560D2305|x|0|1991|Sports/Tennis|Japan|Human Entertainment|dev-unknown|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+FINAL SOLDIER|18408|AF2DD2AF|x|0|1991|Shooter|Japan|Now Production|Now Production|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Fire Pro Wrestling Combination Tag|NOID|90ED6575|x|0|1989|Sports/Wrestling|Japan|Human Entertainment|Human Entertainment|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Fire Pro Wrestling 2 2nd Bout|NOID|E88987BB|x|0|1991|Sports/Wrestling|region-unknown|Human Entertainment|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Fire Pro Wrestling 3 Legend Bout|NOID|534E8808|x|0|1992|Sports/Wrestling|region-unknown|Human Entertainment|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Formation Armed F|NOID|20EF87FD|x|0|1990|Shooter|Japan|Nichibutsu|Nichibutsu|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Formation Soccer Human Cup '90|NOID|85A1E7B6|x|0|1990|Sports/Soccer|Japan|Human Entertainment|Human Entertainment|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Formation Soccer on J-League|NOID|7146027C|x|0|1994|Sports/Soccer|region-unknown|Human Entertainment|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Fushigi no Yume no Alice|NOID|12C4E6FD|x|0|1990|Platformer|region-unknown|Sankindo|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Gaia no Monshou|NOID|8D782F5D|x|0|1988|Strategy|region-unknown|NCS|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Ganbare! Golf Boys|NOID|27A4D11A|x|0|1989|Sports/Golf|region-unknown|Dual|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+GEKISHA BOY|18444|9CFE7E17|x|0|1992|Action|region-unknown|Tomcat System|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Genji Tsuushin Agedama|NOID|AD450DFC|x|0|1991|Action|region-unknown|NEC Interchannel|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Genpei Toumaden|NOID|B926C682|x|0|1990|Action|region-unknown|Namco|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Gokuraku! Chuuka Taisen|NOID|E749A22C|x|0|1992|Shooter|region-unknown|Taito Corporation|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Gomola Speed|NOID|9A353AFD|x|0|1990|Action|Japan|UPL|UPL|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Gradius|NOID|0517DA65|x|0|1991|Shooter|Japan|Konami|Konami|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Hana Taaka Daka!|NOID|BA4D0DD4|x|0|1991|Shooter|region-unknown|Natsume|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Hany in the Sky|NOID|BF3E2CC7|x|0|1989|Shooter|region-unknown|Sankindo|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Hany on the Road|NOID|9897FA86|x|0|1990|Action|region-unknown|Face|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Hatris|NOID|44E7DF53|x|0|1991|Puzzle|Japan|Micro Cabin|Micro Cabin|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Heavy Unit|NOID|EB923DE5|x|0|1989|Shooter|Japan|Inter State|Inter State|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Honoo no Toukyuuji Dodge Danpei|NOID|B01EE703|x|0|1992|Sports|region-unknown|Hudson|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Image Fight|NOID|A80C565F|x|0|1990|Shooter|Japan|Irem|Irem|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+J-League Greatest Eleven|NOID|0AD97B04|x|0|1993|Sports/Soccer|region-unknown|Cream|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+JIGOKU MEGURI|18411|CC7D3EEB|x|0|1990|Action|region-unknown|ITL|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Jinmu Denshou|NOID|C150637A|x|0|1989|Shooter|Japan|Big Club|Big Club|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Juuouki|NOID|C8C7D63E|x|0|1989|Beat-'Em-Up|region-unknown|NEC Interchannel|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Kaizou Choujin Shubibinman|NOID|A9084D6E|x|0|1989|Platformer|Japan|NCS|NCS|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Kattobi! Takuhai Kun|NOID|4F2844B0|x|0|1989|Platformer|Japan|NCS|Tonkin House|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+KickBall|NOID|7E3C367B|x|0|1990|Action|Japan|Dual|Dual|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Kiki Kaikai|NOID|C0CB5ADD|x|0|1990|Action|Japan|Pixel|Pixel|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Knight Rider Special|NOID|C614116C|x|0|1989|Driving|Japan|Pack-In-Video|Pack-In-Video|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Kyuukyoku Tiger|NOID|09509315|x|0|1989|Shooter|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Lady Sword|NOID|C556AA43|x|0|1992|Role Playing|Japan|Hacker International|Hacker International|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Lode Runner Lost Labyrinth|NOID|A7C43940|x|0|1990|Puzzle|Translated (Japan)|Pack-In-Video|dev-unknown|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Magical Chase|4108|DD0EBF8C|x|0|1991|Shooter|USA|Quest|Quest|Not Rated|TurboChip|TurboGrafx Gamepad|TurboGrafx-16
+Makai Prince Dorabocchan|NOID|B101B333|x|0|1990|Platformer|region-unknown|Naxat Soft|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Maniac Pro-Wrestling Ashita e no Tatakai|NOID|99F2865C|x|0|1990|Sports/Wrestling|region-unknown|Hudson|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Marchen Maze|NOID|281A77C7|x|0|1990|Action|region-unknown|Namco|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Metal Stoker|NOID|25A02BEE|x|0|1991|Shooter|Japan|Sankindo|Sankindo|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Mizubaku Dai Bouken|NOID|B2EF558D|x|0|1992|Action|region-unknown|Taito Corporation|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Momotarou Katsugeki|NOID|345F43E9|x|0|1990|Action|region-unknown|Hudson|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Monster Pro Wrestling|NOID|F2E46D25|x|0|1991|Sports/Wrestling|region-unknown|Lenar|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+MOTO ROADER II|18412|0B7F6E5F|x|0|1991|Driving|Japan|NCS|NCS|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Mr. Heli no Daibouken|NOID|2CB92290|x|0|1989|Shooter|region-unknown|Irem|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+NAXAT OPEN|18413|60ECAE22|x|0|1989|Sports/Golf|Japan|Naxat Soft|Naxat Soft Publisher Naxat|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Naxat Stadium|NOID|20A7D128|x|0|1990|Sports/Baseball|Japan|Sting|Sting|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Nekketsu Koukou Dodgeball Bu PC Bangai Hen|NOID|65FDB863|x|0|1990|Sports|region-unknown|Kid|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Nekketsu Koukou Dodgeball Bu Soccer PC Hen|NOID|F2285C6D|x|0|1992|Sports/Soccer|region-unknown|Kid|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+New Zealand Story|NOID|8E4D75A8|x|0|1990|Action|Japan|Aisystem Tokyo|Aisystem Tokyo|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Niko Niko Pun|NOID|82DEF9EE|x|0|1991|Platformer|Japan|ISCO|ISCO|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Ninja Ryuuken Den|NOID|67573BAC|x|0|1992|Platformer|region-unknown|Tecmo|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Ninja Warriors|NOID|96E0CD9D|x|0|1989|Beat-'Em-Up|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Obocchama Kun|NOID|4D3B0BC9|x|0|1991|Platformer|Japan|Pack-In-Video|Pack-In-Video|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Operation Wolf|NOID|FF898F87|x|0|1990|Shooter|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Out Run|NOID|E203F223|x|0|1990|Driving|region-unknown|NEC Interchannel|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+OVERRIDE|18414|B74EC562|x|0|1991|Shooter|Japan|Sting|Sting|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+P-47 the Freedom Fighter|NOID|7632DB90|x|0|1989|Shooter|Japan|Aicom|Aicom|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Parodius da! Shinwa Kara Owarai he|NOID|647718F9|x|0|1992|Shooter|Japan|Konami|Konami|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Populous|NOID|083C956A|x|0|1991|Strategy|Japan|Alfa System|Alfa System|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power Drift|NOID|25E0F6E9|x|0|1990|Driving|Japan|Copya Systems|Copya Systems|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power Eleven|NOID|3E647D8B|x|0|1991|Sports/Soccer|Japan|West One|West One|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power Gate|NOID|BE8B6E3B|x|0|1991|Shooter|Japan|Make|Make|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power League '93|NOID|7D3E6F33|x|0|1993|Sports/Baseball|Japan|Hudson|Hudson|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power League II|NOID|C5FDFA89|x|0|1989|Sports/Baseball|Japan|Hudson|Hudson|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power League III|NOID|8AA4B220|x|0|1990|Sports/Baseball|Japan|Hudson|Hudson|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power League IV|NOID|30CC3563|x|0|1991|Sports/Baseball|Japan|Hudson|Hudson|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power League V|NOID|8B61E029|x|0|1992|Sports/Baseball|Japan|Hudson|Hudson|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Power Tennis|18445|8DEF5AA1|x|0|1993|Sports/Tennis|Japan|Now Production|Namco|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Pro Yakyuu World Stadium '91|NOID|66B167A9|x|0|1991|Sports/Baseball|Japan|Namco|Namco|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Pro Yakyuu World Stadium|NOID|34E089A9|x|0|1988|Sports/Baseball|Japan|Namco|Namco|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Psycho Chaser|NOID|03883EE8|x|0|1990|Shooter|Japan|Sting|Sting|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Puzzle Boy|NOID|DA0E234F|x|0|1991|Puzzle|Translated (Japan)|Atlus|dev-unknown|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Puzznic|NOID|965C95B3|x|0|1990|Puzzle|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Rabio Lepus Special|NOID|D8373DE6|x|0|1990|Shooter|region-unknown|Video System|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Racing Damashii|NOID|3E79734C|x|0|1991|Driving|Japan|Irem|Irem|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Rastan Saga II|NOID|00C38E69|x|0|1990|Action|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Rock-On|NOID|2FD65312|x|0|1989|Shooter|Japan|Big Club|Big Club|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Ryuukyuu|NOID|91E6896F|x|0|1990|Puzzle|region-unknown|Sankindo|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Salamander|NOID|FAECCE20|x|0|1991|Shooter|Japan|Konami|Konami|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Shanghai|NOID|2E6B6200|x|0|1987|Puzzle|Translated (Japan)|Hudson|dev-unknown|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Shinobi|NOID|BC655CF3|x|0|1989|Action|Japan|Dual|Dual|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Shiryou Sensen|NOID|469A0FDF|x|0|1989|Action|Japan|Victor Interactive Software|Victor Interactive Software|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Skweek|NOID|4D539C9F|x|0|1991|Puzzle|Japan|Loriciels|Loriciels|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+SON SON II|18416|F51C06D4|x|0|1989|Platformer|Translated (Japan)|Capcom|dev-unknown|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Space Invaders Fukkatsu no Hi|NOID|99496DB3|x|0|1990|Shooter|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Special Criminal Investigation|NOID|09A0BFCC|x|0|1991|Driving|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Spin Pair|NOID|1C6FF459|x|0|1990|Puzzle|Japan|Media Rings|Media Rings|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Street Fighter II' Champion Edition|NOID|D15CB6BB|x|0|1993|Fighter|region-unknown|NEC Interchannel|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Strip Fighter II|NOID|D6FC51CE|x|0|1993|Fighter|Japan|Games Express|Games Express|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Super Metal Crusher|NOID|56488B36|x|0|1991|Strategy|Japan|Make|Make|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+TAKEDA SHINGEN|18417|F022BE13|x|0|1989|Action|Japan|Aicom|Aicom|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Tatsujin|NOID|A6088275|x|0|1992|Shooter|Japan|Sting|Sting|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Tatsunoko Fighter|NOID|EEB6DD43|x|0|1989|Action|region-unknown|Tonkin House|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Tenseiryuu SAINT DRAGON|18415|2E278CCB|x|0|1990|Shooter|Japan|Aicom|Aicom|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Terra Cresta II Mandoraa no Gyakushuu|NOID|1B2D0077|x|0|1992|Shooter|Japan|Nichibutsu|Nichibutsu|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Thunder Blade|NOID|DDC3E809|x|0|1990|Shooter|Japan|NEC Interchannel|NEC Interchannel|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Titan|NOID|D20F382F|x|0|1991|Board Games|Japan|ISCO|ISCO|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Toilet Kids|NOID|53B7784B|x|0|1992|Shooter|Japan|Media Rings|Media Rings|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Toshi Tensou Keikaku Eternal City|NOID|B18D102D|x|0|1991|Action|Japan|Naxat Soft|Naxat Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Tower of Druaga|NOID|B9032DC3|x|0|1992|Action|Translated (Japan)|Game Studio|dev-unknown|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Toy Shop Boys|NOID|97C5EE9A|x|0|1990|Shooter|Japan|Victor Interactive Software|Victor Interactive Software|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Tsuppari Oozumou Heisei Ban|NOID|61A6E210|x|0|1993|Sports/Wrestling|Japan|Naxat Soft|Naxat Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Valkyrie no Densetsu|NOID|A3303978|x|0|1990|Action|region-unknown|Tose Software|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Volfied|NOID|AD226F30|x|0|1989|Puzzle|Japan|Taito Corporation|Taito Corporation|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+W-Ring the Double Rings|NOID|BE990010|x|0|1990|Shooter|Japan|Naxat Soft|Naxat Soft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Winning Shot|NOID|9B5EBC58|x|0|1989|Sports/Golf|Japan|Data East|Data East|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Wonder Momo|NOID|59D07314|x|0|1989|Beat-'Em-Up|Japan|Namco|Namco|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+World Jockey|NOID|A9AB2954|x|0|1991|Sports/Horse Racing|Japan|Namco|Namco|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Xevious Fardraut Densetsu|NOID|F8F85EEC|x|0|1990|Shooter|Japan|Compile|Compile|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Youkai Douchuuki|NOID|F131B706|x|0|1988|Action|region-unknown|TOSE|dev-unknown|Not Rated|media-unknown|controller-unknown|PC-Engine
+Zero 4 Champ|NOID|B77F2E2F|x|0|1991|Driving|Japan|Media Rings|Media Rings|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+Zipang|NOID|67AAB7A1|x|0|1990|Puzzle|Japan|ARC Co. Ltd|ARC Co. Ltd|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+1941 Counter Attack|NOID|8c4588e2|x|0|1991|Shooter|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Adventures of Mr. Heli|NOID|2cb92290,ac0cd796|x|0|1989|Shooter|Japan|Irem|Irem|No Rating|HuCard|PC|PC-Engine
+Aldynes the Mission Code for Rage Crisis|NOID|4c2126b0|x|0|1991|Shooter|Japan|Hudson|Produce|No Rating|HuCard|PC|PC-Engine
+Alice in Wonderdream|NOID|12c4e6fd|x|0|1990|Action|Japan|Face|Sankindo|No Rating|HuCard|PC|PC-Engine
+Altered Beast|NOID|c8c7d63e,6a628982,54b6d6f8|x|0|1989|Beat 'em Up|Japan|NEC|Sega|No Rating|HuCard|PC|PC-Engine
+Ankoku Densetsu|NOID|cacc06fb,c3a1fb28|x|0|1990|Action|Japan|Victor Interactive Software|Victor Interactive Software|No Rating|HuCard|PC|PC-Engine
+Battle Ace|NOID|3b13af61|x|0|1989|Shooter|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Be Ball|NOID|f97d90ce,cb5414c8|x|0|1990|Puzzle|Japan|Hudson|Now Production|No Rating|HuCard|PC|PC-Engine
+Bomberman '93 Special|NOID|c4e17ede|x|0|1992|Puzzle|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Bonze Adventure|NOID|cc7d3eeb|x|0|1990|Action|Japan|Taito Corporation|ITL|No Rating|HuCard|PC|PC-Engine
+Break In|NOID|c9d7426a,c7848187|x|0|1989|Sports , Pool|Japan|Naxat Soft|Naxat Soft|No Rating|HuCard|PC|PC-Engine
+Bubblegum Crash! Knight Sabers 2034|NOID|704b6916,1ff35f64|x|0|2007|Adventure|Translated (Japan)|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Chase H.Q. II Special Criminal Investigation|NOID|09a0bfcc|x|0|1991|Racing|Japan|Taito Corporation|Taito Corporation|No Rating|HuCard|PC|PC-Engine
+Crest of Gaia|NOID|8d782f5d|x|0|2003|Strategy|Translated (Japan)|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Detana!! Twinbee|NOID|5cf59d80|x|0|1992|Shooter|Japan|Konami|Konami|No Rating|HuCard|PC|PC-Engine
+Dragon Saber Story of Dragon Spirit|5666|3219849c,ae68845a|x|0|1991|Shooter|Japan|Namco|Now Production|No Rating|HuCard|PC|PC-Engine
+Final Soldier Special Version|NOID|02a578c5|x|0|1991|Shooter|Special Release (Japan)|Hudson|Now Production|No Rating|HuCard|PC|PC-Engine
+Galaga '88|NOID|13ee6e15|x|0|1988|Shooter|Japan|Namco|Namco|No Rating|HuCard|PC|PC-Engine
+Geinpei Touma Den|NOID|aba3f8df|x|0|1992|Action|Japan|Namco|Now Production|No Rating|HuCard|PC|PC-Engine
+Ghouls 'n Ghosts|NOID|b486a8ed|x|0|1990|Platformer|Japan|NEC Interchannel|Alfa System|No Rating|HuCard|PC|PC-Engine
+Gunhed Hudson Gunhed Taikai|NOID|57f183ae,88eb7874|x|0|1989|Shooter|Special Release (Japan)|NEC|Compile|No Rating|HuCard|PC|PC-Engine
+Honey in the Sky|NOID|bf3e2cc7|x|0|1989|Shooter|Japan|Face|Sankindo|No Rating|HuCard|PC|PC-Engine
+Honey on the Road|NOID|9897fa86|x|0|1990|Action|Japan|Face|Sankindo|No Rating|HuCard|PC|PC-Engine
+J. League Greatest Eleven|NOID|0ad97b04,6bec7f8c|x|0|1993|Sports , Soccer|Japan|Nichibutsu|Cream|No Rating|HuCard|PC|PC-Engine
+Jack Nicklaus' Greatest 18 Holes of Major Championship Golf|NOID|ea751e82|x|0|1989|Sports , Golf|Japan|Victor Interactive Software|Accolade|No Rating|HuCard|PC|PC-Engine
+Kaizou Choujin Shibibinman 2 Aratanaru Teki|NOID|109ba474|x|0|1991|Action|Japan|NCS|Winds|No Rating|HuCard|PC|PC-Engine
+Kato Chan and Ken Chan|NOID|6069c5e7,69043834|x|0|1987|Platformer|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Kickball|NOID|7e3c367b,0244e5b8|x|0|1990|Action|Japan|NCS|Dual|No Rating|HuCard|PC|PC-Engine
+Kid Dracula|NOID|b101b333,fc9f317c|x|0|1990|Action|Japan|Naxat Soft|Naxat Soft|No Rating|HuCard|PC|PC-Engine
+Kore Ga Pro Yakyuu '89|NOID|44f60137|x|0|1989|Sports , Baseball|Japan|Intec|Tose Software|No Rating|HuCard|PC|PC-Engine
+Kore Ga Pro Yakyuu '90|NOID|1772b229|x|0|1990|Sports , Baseball|Japan|Intec|Tose Software|No Rating|HuCard|PC|PC-Engine
+Kunio-Kun's Soccer|NOID|f2285c6d,e0ad6230|x|0|1992|Sports , Soccer|Japan|Naxat Soft|Kid|No Rating|HuCard|PC|PC-Engine
+Kyuukyoku Mahjong II|NOID|e5b6b3e5|x|0|1992|Board Game|Japan|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Kyuukyoku Mahjong Idol Graphics|NOID|02dde03e|x|0|1992|Board Game|Japan|Games Express|Games Express|No Rating|HuCard|PC|PC-Engine
+Legend of Valkyrie|NOID|a3303978|x|0|1990|Action|Japan|Namco|Tose Software|No Rating|HuCard|PC|PC-Engine
+Liquid Kids|NOID|743eb1f3,b2ef558d|x|0|1992|Action|Japan|Taito Corporation|Taito Corporation|No Rating|HuCard|PC|PC-Engine
+Long Nosed Goblin|NOID|ba4d0dd4|x|0|1991|Shooter|Japan|Taito Corporation|Natsume|No Rating|HuCard|PC|PC-Engine
+Madouou Granzort|NOID|1f041166|x|0|1990|Action|Japan|Hudson|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Maerchen Maze|NOID|a15a1f37,33231788|x|0|1990|Action|Japan|Namco|Namco|No Rating|HuCard|PC|PC-Engine
+Mahjong Gakuen Touma Soushirou Toujou|NOID|f5b90d55,3e4d432a,f4148600|x|0|1989|Board Game|Japan|Face|Sankindo|No Rating|HuCard|PC|PC-Engine
+Mahjong Gokuu Special|NOID|f8861456|x|0|1990|Board Game|Japan|SunSoft|SunSoft|No Rating|HuCard|PC|PC-Engine
+Mahjong Haou Den Kaiser's Quest|NOID|df10c895|x|0|1992|Board Game|Japan|UPL|UPL|No Rating|HuCard|PC|PC-Engine
+Mahjong Shikyaku Retsuden Mahjong Wars|NOID|6c34aaea|x|0|1990|Board Game|Japan|Nihon Bussan|Nihon Bussan|No Rating|HuCard|PC|PC-Engine
+Maison Ikkoku|NOID|5c78fee1,d9f169d9,73c5adf1|x|0|1989|Adventure|Translated (Japan)|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Makai Hakkenden Shada|NOID|be62eef5|x|0|1989|Role Playing Game|Japan|Data East|Data East|No Rating|HuCard|PC|PC-Engine
+Makyou Densetsu|NOID|d4c5af46,bb2ca3ed|x|0|1988|Action|Japan|Victor Interactive Software|Victor Interactive Software|No Rating|HuCard|PC|PC-Engine
+Mesopotamia|NOID|e87190f1,3ed1f2aa|x|0|1991|Action|Japan|Atlus Co.|Atlus Co.|No Rating|HuCard|PC|PC-Engine
+Narazumono Sentai Butai Bloody Wolf|8190|b01f70c2|x|0|1989|Shooter|Japan|Data East|Data East|No Rating|HuCard|PC|PC-Engine
+Nazo no Mascarade|NOID|0441d85a|x|0|1990|Adventure|Japan|NCS|Riverhillsoft|No Rating|HuCard|PC|PC-Engine
+Necromancer|NOID|53109ae6|x|0|1988|Role Playing Game|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Necros No Yousai|NOID|fb0fdcfe|x|0|1990|Role Playing Game|Japan|ASK|ASK|No Rating|HuCard|PC|PC-Engine
+Nectaris|NOID|0243453b|x|0|1989|Strategy|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+NHK Taiga Drama Taiheiki|NOID|a32430d5|x|0|1992|Strategy|Japan|NHK|NHK|No Rating|HuCard|PC|PC-Engine
+Ninja Gaiden|NOID|67573bac|x|0|1992|Platformer|Japan|Hudson|Tecmo|No Rating|HuCard|PC|PC-Engine
+Out Live|NOID|5cdb3f5b|x|0|1989|Role Playing Game|Japan|SunSoft|SunSoft|No Rating|HuCard|PC|PC-Engine
+OutRun|NOID|e203f223|x|0|1990|Racing|Japan|NEC Interchannel|NEC Interchannel|No Rating|HuCard|PC|PC-Engine
+Pachio Kun Juuban Shoubu|NOID|4148fd7c|x|0|1992|Casino|Japan|Coconuts Japan|Coconuts Japan|No Rating|HuCard|PC|PC-Engine
+Paranoia|NOID|9893e0e6|x|0|1990|Shooter|Japan|Naxat Soft|Naxat Soft|No Rating|HuCard|PC|PC-Engine
+Parodius Da! Shinwa Kara Owarai He|NOID|647718f9|x|0|1992|Shooter|Japan|Konami|Konami|No Rating|HuCard|PC|PC-Engine
+PC Denjin Punkic Cyborgs|NOID|8fb4f228,740491c2|x|0|1992|Shooter|Japan|Hudson|RED Entertainment|No Rating|HuCard|PC|PC-Engine
+PC Genjin 2 Pithecanthropus Computerurus|NOID|3028f7ca|x|0|1991|Platformer|Japan|Hudson|RED Entertainment|No Rating|HuCard|PC|PC-Engine
+Pc Genjin 3 Pithecanthropus Computerurus|NOID|a170b60e,6f6ed301|x|0|1993|Platformer|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+PC Genjin Pithecanthropus Computerurus|NOID|2cb5cd55,67b35e6e|x|0|1989|Platformer|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+PC Pachi-Slot|NOID|0aa88f33|x|0|1992|Casino|Japan|Games Express|Games Express|No Rating|HuCard|PC|PC-Engine
+Photograph Boy|NOID|9cfe7e17|x|0|2001|Platformer|Translated (Japan)|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Power Sports|NOID|29eec024|x|0|1992|Sports , Competitive|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Pro Tennis World Court|NOID|11a36745|x|0|1988|Sports , Tennis|Japan|Namco|Namco|No Rating|HuCard|PC|PC-Engine
+Quiz Toukou Shashin|NOID|f2e6856d,c8f632e3|x|0|1992|Game Show|Japan|Games Express|Games Express|No Rating|HuCard|PC|PC-Engine
+R-Type Part I|NOID|1af092fe|x|0|1989|Shooter|Japan|NEC|Irem|No Rating|HuCard|PC|PC-Engine
+R-Type Part II|NOID|f207ecae,fb6a117d|x|0|1988|Shooter|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Rabid Lepus|NOID|d8373de6,2087b848|x|0|1990|Shooter|Japan|Video System|Video System|No Rating|HuCard|PC|PC-Engine
+Ryukyu|NOID|91e6896f|x|0|1990|Puzzle|Japan|Face|Sankindo|No Rating|HuCard|PC|PC-Engine
+Sadakichi Seven Hideyoshi no Ougon|NOID|f999356f|x|0|1988|Adventure|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Saigo no Nindou Ninja Spirit|5678|0590a156|x|0|1990|Action|Japan|Irem|Irem|No Rating|HuCard|PC|PC-Engine
+Sekigahara|NOID|2e955051|x|0|1990|Strategy|Japan|Tonkin House|Tonkin House|No Rating|HuCard|PC|PC-Engine
+Sengoku Mahjong|NOID|90e6bf49|x|0|1988|Board Game|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Shiryou Sensen War of the Dead|NOID|469a0fdf|x|0|1989|Action|Japan|Victor Interactive Software|Victor Interactive Software|No Rating|HuCard|PC|PC-Engine
+Shoughi Shodan Icchokusen|NOID|23ec8970|x|0|1990|Board Game|Japan|Home Data|Home Data|No Rating|HuCard|PC|PC-Engine
+Shougi Shoshinsha Muyou|NOID|457f2bc4|x|0|1991|Board Game|Japan|Home Data|Home Data|No Rating|HuCard|PC|PC-Engine
+Sindibad Chitei no Dai Makyuu|NOID|b5c4eebd|x|0|1990|Role Playing Game|Japan|IGS|IGS|No Rating|HuCard|PC|PC-Engine
+Soldier Blade Special Caravan Stage|NOID|f39f38ed|x|0|1992|Shooter|Special Release (Japan)|NEC|Hudson|No Rating|HuCard|PC|PC-Engine
+Soukoban World|NOID|fb37ddc4,57538343|x|0|1990|Puzzle|Japan|Media Rings|Media Rings|No Rating|HuCard|PC|PC-Engine
+Spiral Wave|NOID|a5290dd0|x|0|1991|Shooter|Japan|Media Rings|Media Rings|No Rating|HuCard|PC|PC-Engine
+Splatterhouse Chrome|NOID|f6ab818b|x|0|2009|Action|Japan (Update Hacks)|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Stratego|NOID|727f4656|x|0|1992|Board Game|Japan|Victor Interactive Software|Accolade|No Rating|HuCard|PC|PC-Engine
+Street Fighter II Champion Edition|NOID|d15cb6bb,fb5beca4|x|0|1993|VS Fighter|Japan|NEC Interchannel|Capcom|No Rating|HuCard|PC|PC-Engine
+Super Dodgeball|NOID|65fdb863|x|0|1990|Sports , Dodgeball|Japan|Naxat Soft|Kid|No Rating|HuCard|PC|PC-Engine
+Super Momotarou Dentetsu|NOID|3eb5304a|x|0|1989|Board Game|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Super Momotarou Dentetsu II|NOID|2bc023fc|x|0|1991|Board Game|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Susanoo Densetsu|NOID|cf73d8fc|x|0|1989|Role Playing Game|Japan|Hudson|Alfa System|No Rating|HuCard|PC|PC-Engine
+Taito Bike Racing|NOID|c267e25d,3ad76f3|x|0|1989|Racing|Japan|Taito Corporation|Taito Corporation|No Rating|HuCard|PC|PC-Engine
+Taito Chase H.Q.|8197|6f4fd790|x|0|1990|Racing|Japan|Taito Corporation|Taito Corporation|No Rating|HuCard|PC|PC-Engine
+Takahashi Meijin no Shin Bouken Jima|NOID|e415ea19|x|0|1992|Action|Japan|Hudson|Now Production|No Rating|HuCard|PC|PC-Engine
+Tales of the Monster Path|NOID|f131b706|x|0|1988|Action|Japan|Namco|TOSE|No Rating|HuCard|PC|PC-Engine
+Tatsu no Ko Fighter|NOID|eeb6dd43|x|0|1989|Platformer|Japan|Tonkin House|Tonkin House|No Rating|HuCard|PC|PC-Engine
+The Kung Fu|NOID|b552c906,e8d41afc|x|0|1987|Beat 'em Up|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+The New Zealand Story|NOID|8e4d75a8|x|0|1990|Action|Japan|Taito Corporation|Aisystem Tokyo|No Rating|HuCard|PC|PC-Engine
+The Ninja Warriors|NOID|96e0cd9d,1ca429d5|x|0|1989|Beat 'em Up|Japan|Taito Corporation|Taito Corporation|No Rating|HuCard|PC|PC-Engine
+The Tower of Druaga|NOID|72e00bc4,b9032dc3|x|0|2007|Action|Translated (Japan)|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+Tora Heno Michi|NOID|82ae3b16|x|0|1990|Platformer|Japan|NEC Interchannel|Victor Interactive Software|No Rating|HuCard|PC|PC-Engine
+Tricky|NOID|3aea2f8f,e98abb3b|x|0|1990|Puzzle|Japan|Alfa System|Alfa System|No Rating|HuCard|PC|PC-Engine
+Tsuru Teruhito no Jissen Kabushiki Bai Bai Game|NOID|f70112e5|x|0|1989|Strategy|Japan|Intec|dev-unknown|No Rating|HuCard|PC|PC-Engine
+USA Pro Basketball|NOID|1cad4b7f|x|0|1989|Sports , Basketball|Japan|Aicom|Aicom|No Rating|HuCard|PC|PC-Engine
+Violent Soldier|NOID|1bc36b36|x|0|1990|Shooter|Japan|Alfa System|Alfa System|No Rating|HuCard|PC|PC-Engine
+Wai Wai Mahjong Yukaina Janyuu Tachi|NOID|a2a0776e|x|0|1989|Action|Japan|Video System|Video System|No Rating|HuCard|PC|PC-Engine
+Wallaby!! Usagi No Kuni No Kangaroo Race|NOID|0112d0c7|x|0|1990|Strategy|Japan|NCS|Tenky|No Rating|HuCard|PC|PC-Engine
+Wonderboy in Monsterland|NOID|02db6fe5,0bb69236|x|0|1998|Action|Translated (Japan)|No Publisher|dev-unknown|No Rating|HuCard|PC|PC-Engine
+World Beach Volley|NOID|be850530,b7e8f8e3|x|0|1990|Sports , Volleyball|Japan|IGS|IGS|No Rating|HuCard|PC|PC-Engine
+World Circuit|NOID|b3eeea2e|x|0|1991|Racing|Japan|Namco|Game Studio|No Rating|HuCard|PC|PC-Engine
+Yuu Yuu Jinsei Victory Life|NOID|c0905ca9|x|0|1988|Board Game|Japan|Hudson|Hudson|No Rating|HuCard|PC|PC-Engine
+Platform PC Engine CD-ROM|NOID|Advanced V.G.|x|0|1994|VS Fighter|Japan|TGL|TGL|No Rating|CD|PC|PC-Engine
+Blue Blink|NOID|No CRC|x|0|No Date|Action|Translated (Japan)|No Publisher|dev-unknown|No Rating|CD|PC|PC-Engine
+Aero Blasters|4909|b03e0b32,8bd8998a|x|0|1990|Shooter|USA|Turbo Technologies, Inc.|Inter State|No Rating|TurboChip|TurboGrafx|PC-Engine
+Air Zonk|8185|933d5bcc,0f62b9a0|x|0|1992|Shooter|USA|Turbo Technologies, Inc.|RED Entertainment|No Rating|TurboChip|TurboGrafx|PC-Engine
+Alien Crush|8186|ea488494|x|0|1989|Pinball|USA|Turbo Technologies, Inc.|Compile|No Rating|TurboChip|TurboGrafx|PC-Engine
+Andre Panza Kickboxing|NOID|20c12463,a980e0e9|x|0|1991|Sports , Boxing|USA|Turbo Technologies, Inc.|Loriciels|No Rating|TurboChip|TurboGrafx|PC-Engine
+Ballistix|8188|420fa189,8874c95e|x|0|1992|Sports|USA|Turbo Technologies, Inc.|Reflections Interactive|No Rating|TurboChip|TurboGrafx|PC-Engine
+Battle Royale|8189|e70b01af,1c4bc9b7|x|0|1990|Sports , Wrestling|USA|Turbo Technologies, Inc.|Incredible Technologies|No Rating|TurboChip|TurboGrafx|PC-Engine
+Blazing Lazers|5657|482bd097,f0ed3094|x|0|1989|Shooter|USA|NEC|Compile|No Rating|TurboChip|TurboGrafx|PC-Engine
+Bloody Wolf|8190|37baf6bc,775f9e7c|x|0|1990|Shooter|USA|Turbo Technologies, Inc.|Data East|No Rating|TurboChip|TurboGrafx|PC-Engine
+Bonk 3 Bonk's Big Adventure|NOID|5a3f76d8,3a771cfd|x|0|1993|Platformer|USA|Turbo Technologies, Inc.|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Bonk's Adventure|3777|599ead9b,7334850f|x|0|1990|Platformer|USA|NEC|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Bonk's Revenge|5661|14250f9a|x|0|1991|Platformer|USA|NEC|RED Entertainment|No Rating|TurboChip|TurboGrafx|PC-Engine
+Boxy Boy|8193|605be213,cc3fbc94|x|0|1990|Puzzle|USA|NEC|Media Rings|No Rating|TurboChip|TurboGrafx|PC-Engine
+Bravoman|8194|cca08b02,cb2498ee|x|0|1990|Beat 'em Up|USA|Turbo Technologies, Inc.|Now Production|No Rating|TurboChip|TurboGrafx|PC-Engine
+Cadash|8195|a3eb340c|x|0|1991|Role Playing Game|USA|Working Designs|ITL|No Rating|TurboChip|TurboGrafx|PC-Engine
+Champions Forever Boxing|8196|15ee889a|x|0|1991|Sports , Boxing|USA|Turbo Technologies, Inc.|Distinctive Software, Inc.|No Rating|TurboChip|TurboGrafx|PC-Engine
+Chew Man Fu|8198|8cd13e9a|x|0|1990|Puzzle|USA|NEC|Now Production|No Rating|TurboChip|TurboGrafx|PC-Engine
+China Warrior|4107|a2ee361d,5fa773d3|x|0|1989|Beat 'em Up|USA|Hudson Soft|Hudson Soft|No Rating|TurboChip|TurboGrafx|PC-Engine
+Cratermaze|8199|9033e83a|x|0|1990|Action|USA|NEC|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Cyber-Core|8200|4cfb6e3e,e7ffb1ad|x|0|1990|Shooter|USA|NEC|Alfa System|No Rating|TurboChip|TurboGrafx|PC-Engine
+Davis Cup Tennis|8202|9edab596,895b0e68|x|0|1991|Sports , Tennis|USA|NEC|Loriciels|No Rating|TurboChip|TurboGrafx|PC-Engine
+Dead Moon|8203|f5d98b0b|x|0|1992|Shooter|USA|Turbo Technologies, Inc.|Zap|No Rating|TurboChip|TurboGrafx|PC-Engine
+Deep Blue|5662|16b40b44|x|0|1992|Shooter|USA|Turbo Technologies, Inc.|Zap|No Rating|TurboChip|TurboGrafx|PC-Engine
+Devil's Crush|5663|157b4492|x|0|1990|Pinball|USA|NEC Interchannel|Compile|No Rating|TurboChip|TurboGrafx|PC-Engine
+Disney's Darkwing Duck|8201|4ac97606,eab0946a|x|0|1992|Platformer|USA|Turbo Technologies, Inc.|Interactive Designs|No Rating|TurboChip|TurboGrafx|PC-Engine
+Disney's TaleSpin|NOID|bae9cecc,eda32d95|x|0|1991|Action|USA|NEC|Interactive Designs|No Rating|TurboChip|TurboGrafx|PC-Engine
+Double Dungeons|8204|4a1a8c60,f9e5ad98|x|0|1989|Role Playing Game|USA|NEC|NEC|No Rating|TurboChip|TurboGrafx|PC-Engine
+Dragon Spirit|5666|086f148c|x|0|1989|Shooter|USA|NEC|Namco|No Rating|TurboChip|TurboGrafx|PC-Engine
+Dragon's Curse|8205|7d2c4b09,b1f7e069,c4c24185|x|0|1991|Action|USA|Hudson Soft|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Drop Off|8206|fea27b32|x|0|1990|Action|USA|NEC, Data East|Data East|No Rating|TurboChip|TurboGrafx|PC-Engine
+Dungeon Explorer|5667|4ff01515,9aef81bb|x|0|1989|Role Playing Game|USA|NEC|Atlus Co.|No Rating|TurboChip|TurboGrafx|PC-Engine
+Dungeons and Dragons Order of the Griffon|8221|fae0fc60,0a101b8c|x|0|1992|Role Playing Game|USA|Turbo Technologies, Inc.|Westwood Studios|No Rating|TurboChip|TurboGrafx|PC-Engine
+Falcon|8207|0bc0a12b,a95e2d38|x|0|1992|Action|USA|Spectrum Holobyte|Sphere|No Rating|TurboChip|TurboGrafx|PC-Engine
+Fantasy Zone|5669|e8c3573d|x|0|1989|Shooter|USA|NEC Interchannel|Bits Laboratory|No Rating|TurboChip|TurboGrafx|PC-Engine
+Final Lap Twin|5670|7dfcb21d|x|0|1989|Racing|USA|NEC|Namco|No Rating|TurboChip|TurboGrafx|PC-Engine
+Galaga '90|5671|2909dec6|x|0|1989|Shooter|USA|NEC|Namco|No Rating|TurboChip|TurboGrafx|PC-Engine
+Ghost Manor|5672|83d4fa72,d022ce6a|x|0|1992|Action|USA|Turbo Technologies, Inc.|ICOM Simulations|No Rating|TurboChip|TurboGrafx|PC-Engine
+Gunboat|8208|f370b58e,dabd0063|x|0|1992|Action|USA|NEC Interchannel|The Code Monkeys|No Rating|TurboChip|TurboGrafx|PC-Engine
+Hit the Ice|8209|8b29c3aa,704559c0|x|0|1992|Sports , Hockey|USA|NEC|Taito Corporation|No Rating|TurboChip|TurboGrafx|PC-Engine
+Impossamole|8210|e2470f5f,02a4f17d|x|0|1991|Action|USA|NEC Interchannel|Gremlin Interactive|No Rating|TurboChip|TurboGrafx|PC-Engine
+J.J. and Jeff|8211|e01c5127|x|0|1990|Platformer|USA|Turbo Technologies, Inc.|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Jack Nicklaus' Turbo Golf|NOID|83384572|x|0|1990|Sports , Golf|USA|Accolade|Accolade|No Rating|TurboChip|TurboGrafx|PC-Engine
+Jackie Chan's Action Kung Fu|8213|c6fa6373,9d2f6193|x|0|1992|Action|USA|Hudson|Now Production|No Rating|TurboChip|TurboGrafx|PC-Engine
+Keith Courage in the Alpha Zones|NOID|474d7a72|x|0|1989|Platformer|USA|NEC|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+King Of Casino|8214|bf52788e,2f2e2240|x|0|1990|Casino|USA|NEC|NEC|No Rating|TurboChip|TurboGrafx|PC-Engine
+Klax|8215|0f1b59b4,c74ffbc9|x|0|1990|Puzzle|USA|Tengen|Atari|No Rating|TurboChip|TurboGrafx|PC-Engine
+Legend of Hero Tonma|8216|c28b0d8a,3c131486,045ae9f4,55e9630d|x|0|1993|Action|USA|NEC Interchannel|Irem|No Rating|TurboChip|TurboGrafx|PC-Engine
+Military Madness|5676|93f316f7,eb05c5d1|x|0|1989|Strategy|USA|Hudson|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Neutopia|5677|9c49ef11,a9a94e1b,8f96aee7,c86438a0|x|0|1989|Role Playing Game|USA|NEC|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Neutopia II|8218|2b94aedc,c4ed4307,db563714,0b974159|x|0|1991|Role Playing Game|USA|Hudson|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+New Adventure Island|8219|756a1802,8e71d4f3,b0ecba85|x|0|1992|Action|USA|NEC Interchannel|Now Production|No Rating|TurboChip|TurboGrafx|PC-Engine
+Night Creatures|8220|c159761b,d3dc4846|x|0|1991|Action|USA|NEC Interchannel|Manley and Associates Inc.|No Rating|TurboChip|TurboGrafx|PC-Engine
+Ninja Spirit|5678|de8af1c1,185b15bf|x|0|1990|Action|USA|NEC|Irem|No Rating|TurboChip|TurboGrafx|PC-Engine
+Ordyne|4109|e7bf2a74,8c565cb6,f1d9977ef|x|0|1990|Shooter|USA|NEC|Namco|No Rating|TurboChip|TurboGrafx|PC-Engine
+Pac-Land|5679|14fad3ba,d6e30ccd,568f9005|x|0|1990|Platformer|USA|NEC|Namco|No Rating|TurboChip|TurboGrafx|PC-Engine
+Parasol Stars The Story of Bubble Bobble III|8222|51e86451,e6458212,1ef507bc|x|0|1991|Platformer|USA|Working Designs|Taito Corporation|No Rating|TurboChip|TurboGrafx|PC-Engine
+Power Golf|8223|ed1d3843,ea324f07,bcd2a5b9|x|0|1989|Sports , Golf|USA|NEC|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Psychosis|8224|6cc10824|x|0|1990|Shooter|USA|NEC Interchannel|Naxat Soft|No Rating|TurboChip|TurboGrafx|PC-Engine
+Raiden|8225|850829f2,bc59c31e|x|0|1991|Shooter|USA|NEC|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Samurai-Ghost|NOID|77a924b7|x|0|1992|Action|USA|Namco|Now Production|No Rating|TurboChip|TurboGrafx|PC-Engine
+Shockman|8227|2774462c|x|0|1991|Action|USA|NCS|Winds|No Rating|TurboChip|TurboGrafx|PC-Engine
+SideArms Hyper Dyne|NOID|e5e7b8b7,d1993c9f,de963b7e|x|0|1989|Shooter|USA|Radiance|NEC Avenue|No Rating|TurboChip|TurboGrafx|PC-Engine
+Silent Debuggers|8228|616ea179,fa7e5d66|x|0|1991|Shooter|USA|NEC Interchannel|Data East|No Rating|TurboChip|TurboGrafx|PC-Engine
+Sinistron|8229|4f6e2dbd|x|0|1990|Shooter|USA|IGS|Alfa System|No Rating|TurboChip|TurboGrafx|PC-Engine
+Somer Assault|8231|8fcaf2e9|x|0|1991|Action|USA|Atlus Co.|Atlus Co.|No Rating|TurboChip|TurboGrafx|PC-Engine
+Sonic Spike World Championship Beach Volleyball|NOID|f74e5eb3|x|0|1990|Sports , Volleyball|USA|IGS|IGS|No Rating|TurboChip|TurboGrafx|PC-Engine
+Space Harrier|8233|64580427,43b05eb8,265ad8a1|x|0|1988|Shooter|USA|NEC|Dempa|No Rating|TurboChip|TurboGrafx|PC-Engine
+Super Star Soldier|8234|5d0e3105,db29486f|x|0|1991|Shooter|USA|NEC|Inter State|No Rating|TurboChip|TurboGrafx|PC-Engine
+Super Volleyball|8235|ce2e4f9f,245040b3|x|0|1990|Sports , Volleyball|USA|NEC|Micronics|No Rating|TurboChip|TurboGrafx|PC-Engine
+Takin' it to the Hoop|8236|e9d51797,e786d47a|x|0|1990|Sports , Basketball|USA|NEC|NEC|No Rating|TurboChip|TurboGrafx|PC-Engine
+The Legendary Axe|5674|2d211007|x|0|1989|Action|USA|NEC|Victor Interactive Software|No Rating|TurboChip|TurboGrafx|PC-Engine
+The Legendary Axe II|5675|220ebf91|x|0|1990|Action|USA|NEC|Victor Interactive Software|No Rating|TurboChip|TurboGrafx|PC-Engine
+Tiger Road|5683|985d492d|x|0|1990|Platformer|USA|Victor Interactive Software|Victor Interactive Software|No Rating|TurboChip|TurboGrafx|PC-Engine
+Time Cruise|8238|02c39660,cfec1d6a,064f073c|x|0|1992|Board Game|USA|NEC|Sankindo|No Rating|TurboChip|TurboGrafx|PC-Engine
+Timeball|8239|5d395019|x|0|1990|Puzzle|USA|Turbo Technologies, Inc.|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Tricky Kick|8240|48e6fd34|x|0|1990|Puzzle|USA|Alfa System|Alfa System|No Rating|TurboChip|TurboGrafx|PC-Engine
+Turrican|8241|eb045edf|x|0|1991|Platformer , Side-Scrolling|USA|Accolade|The Code Monkeys|No Rating|TurboChip|TurboGrafx|PC-Engine
+TV Sports Basketball|8242|10b60601,ea54d653|x|0|1991|Sports , Basketball|USA|NEC|Cinemaware|No Rating|TurboChip|TurboGrafx|PC-Engine
+TV Sports Football|5684|968d908a,5e25b557|x|0|1990|Sports , Football|USA|NEC|Cinemaware|No Rating|TurboChip|TurboGrafx|PC-Engine
+TV Sports Hockey|8243|e7529890,97fe5bcf|x|0|1991|Sports , Hockey|USA|NEC|Cinemaware|No Rating|TurboChip|TurboGrafx|PC-Engine
+Veigues Tactical Gladiator|8244|99d14fb7,04188c5c|x|0|1990|Action|USA|NEC|Bits Laboratory|No Rating|TurboChip|TurboGrafx|PC-Engine
+Victory Run|5685|03e28cff,85cbd045|x|0|1990|Action|USA|Hudson|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Vigilante|4110|e4124fe0,79d49a0d|x|0|1989|Action|USA|NEC|Irem|No Rating|TurboChip|TurboGrafx|PC-Engine
+World Class Baseball|8245|4186d0c0|x|0|1989|Sports , Baseball|USA|NEC Interchannel|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+World Court Tennis|8246|a4457df0|x|0|1989|Sports , Tennis|USA|NEC|Namco|No Rating|TurboChip|TurboGrafx|PC-Engine
+World Sports Competition|8247|4b93f0ac|x|0|1993|Sports , Competitive|USA|NEC|Hudson|No Rating|TurboChip|TurboGrafx|PC-Engine
+Yo' Bro|NOID|3ca7db48,e30c6acb|x|0|1991|Action|USA|NEC|ICOM Simulations|No Rating|TurboChip|TurboGrafx|PC-Engine
+Platform TurboGrafx-CD|NOID|Beyond Shadowgate|x|0|1993|Adventure , Graphic|USA|Turbo Technologies, Inc.|ICOM Simulations|No Rating|CD|TurboGrafx|PC-Engine
+Andre Panza Kick Boxing|8187|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Castlevania Rondo of Blood|16793|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Dragon Slayer The Legend of Heroes|5665|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Dungeon Explorer II|5668|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Keith Courage in Alpha Zones|5673|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Samurai Ghost|5680|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Shadow of the Beast|5681|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Side Arms Hyper Dyne|5682|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Ys Book I and II|5686|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Ys III Wanderers from Ys|5687|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Bonk 3 Bonk's Big Adventure (Turbo Chip)|8192|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Jack Nicklaus Turbo Golf|8212|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Yo Bro|8248|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Addams Family|9986|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Buster Bros.|9987|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Cosmic Fantasy 2|9988|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Fantastic Night Dreams Cotton|9989|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Dungeon Master Theron's Quest|9990|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Exile Wicked Phenomenon|9991|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Final Zone II|9993|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Forgotten Worlds|9994|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Gate of Thunder|9995|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+J.B. Harold Murder Club|9996|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+John Madden Duo CD Football|9997|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Last Alert|9998|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Loom|9999|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Lords of the Rising Sun|10000|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Lords of Thunder|10001|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Might and Magic III Isles of Terra|10002|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Prince of Persia|10003|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Riot Zone|10004|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Shapeshifter|10005|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Sherlock Holmes Consulting Detective|10006|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Sherlock Holmes Consulting Detective Vol. II|10007|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Splash Lake|10008|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Super Air Zonk Rockabilly-Paradise|10009|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Valis II|10010|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Valis III|10011|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Vasteel|10012|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Xak III The Eternal Recurrence|10013|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Ys IV The Dawn of Ys|10014|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+It Came From The Desert|9958|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Space Adventure|11037|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Cho Aniki|12286|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Hellfire S|12904|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Snatcher|12914|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+SimEarth The Living Planet|13871|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Bonk 3 Bonk's Big Adventure (Super CD)|13876|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Syd Mead's Terraforming|13877|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Davis Cup World Tour Tennis|16903|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+PC Kid|17685|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+PC Kid 2|17690|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+PC Kid 3|17691|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+AKUMAJOU DRACULA X CHI NO RONDO|18390|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+GINGA FUKEI DENSETSU SAPPHIRE|18391|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+KAZE KIRI NINJA ACTION|18392|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+LEMMINGS|18393|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+MOTOROADER MC|18394|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+PSYCHIC STORM|18395|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+SEIREI SENSHI SPRIGGAN|18396|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+SPRIGGAN MARK 2 RE TERRAFORM PROJECT|18397|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+STEAM HEARTS|18399|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+GOKURAKU! CHUKA TAISEN|18409|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+W RING|18419|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+MASHIN EIYUDEN WATARU|18426|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+TOSHI TENSO KEIKAKU ETERNAL CITY|18430|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Devil Crash|18442|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+STAR PARODIA|18446|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Tengai makyo kabuki itouryodan|18447|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Godzilla|18848|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Wonder Boy III Monster Lair|18849|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Valis IV The Fantasm Soldier|18850|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+4 In 1 Super CD|18851|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Dynastic Hero|18852|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+R-Type II|18853|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine
+Street Fighter II Championship Edition|18873|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|PC-Engine

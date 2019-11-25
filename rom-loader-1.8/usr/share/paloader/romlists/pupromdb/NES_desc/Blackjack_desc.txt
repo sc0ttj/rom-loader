@@ -1,0 +1,3 @@
+The game features blackjack action and a dealer who deals from 1-3 card decks. After winning a certain amount of money or losing it all, the game automatically ends.
+
+http://en.wikipedia.org/wiki/Blackjack_(video_game)

@@ -1,0 +1,17 @@
+As a lowly research assistant Nevada Smith believes he's finally going to get his big break into the pages of archeology by discovering a long lost tomb. His glory is soon stolen away from him by the professor he's assisting at the University. The same professor he's been assisting for years in the hopes of tagging along for a treasure hunt. Tired of taking things lying down Nevada sneaks into the professor's office and steals back the ancient map he found and afterwards he runs home to pack his bags and outrun the professor to the tomb inside one of the great pyramids of Egypt. 
+
+Once inside the pyramid, Nevada will face hazards such as traps, falling spikes, bottomless pits, and dangerous denizens of the pyramids including, bats, monsters, and of course mummies to say the least. Nevada must find a number of keys on each level to advance to the next level and must also be on the lookout for treasures. one other hazard in his way are mysterious winds that blow on certain levels which add to the challenge of exploring the level. Nevada isn't exactly defenseless however. His adventures begin with five lives and he's got a couple of spears which he can throw at the creatures in his way.
+
+Pharaoh's Tomb is a platform game where the player controls the actions of Nevada Smith. Nevada can run around and jump and he can also throw spears at enemies. More spears can be picked up on certain levels and bonus lives to give you a better chance at getting through the adventure can also be found or earned. Levels are passed once the required number of keys or treasures are found. Players can save their progress at the beginning of any level. Enemies in Pharaoh's Tomb are restricted to move in strict patterns and players must pay close attention to these patterns to avoid them. Throwing spears at enemies also requires some space between the player and the enemy and therefore enemies can't be speared when Nevada is right next to them.
+
+Pharaoh's Tomb is comprised of four volumes: 
+Vol.1 - Raiders of The Lost Tomb 
+Vol.2 - Pharaoh's Curse 
+Vol.3 - Temple of Terror 
+Vol.4 - Nevada's Revenge!
+
+The shareware version of the game is the entire first volume. Each volume of the game includes twenty levels taking place deeper and deeper into the pyramid. Pharaoh's Tomb uses a proprietary animation system called FAST (Fluid Animation Software Technology) which allows the game to run on older machines at a good performance level however the restrictions of this system are the enemies are located in bounding boxes and therefore players need to imagine a rectangle around enemies and other hazards in order to fully avoid them.
+
+Trivia:
+
+Although he misspelled his name in the title credits for the game and all subsequent volumes wrong, programmer George Broussard spelled his name correctly in the end credits for the last volume of the game.

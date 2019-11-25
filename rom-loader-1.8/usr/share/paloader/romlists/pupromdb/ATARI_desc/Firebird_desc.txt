@@ -1,0 +1,25 @@
+As the pilot of a mine supply ship, your task is to enter the Caverns of Eriban to deliver supplies to the subterranean mining depots.  On the planet's surface are five supply depots with chequered yellow landing strips.
+
+If there is a white flashing light on top of the depot building, you can land and collect 5 supplies and refuel your craft.
+
+Avoiding the many ancient defence mechanisms you must enter the Caverns and deliver the supplies.  Any mining installation requiring supplies will be displaying a red flashing light.  Local flight control restrictions allow you only to land on the yellow landing strips.  Once you have supplied five depots you will need to return to the surface to restock with supplies.
+
+[From the game manual]
+Investigations have traced the source of erratic radio signals to a giant alien vessel, orbiting the Earth high in the exosphere.  That the craft is hostile, there is no doubt; somebody will ahve to go aboard and find out how to eliminate the threat.
+
+[From the box back]
+Collapse is a simple puzzle game where players control Zen the Mole who is presented with a network of sticks that he must turn blue. Zen does this by simply walking over them while he is yellow. To get to the network, he must turn himself red so that he can build bridges that lead to it. Zen's redness disappears after a few seconds and he turns back to his default state. Once Zen has managed to turn the sticks blue, he can unleash the Rotox, a white line that moves around adjacent blue sticks, destroying them once the Rotox makes contact. When all the sticks have been destroyed, Zen proceeds to the next screen.
+
+The blue sticks must be destroyed within a time limit. While the player navigates Zen around the screen, two creatures walk around the screen, trying to make Zen's task difficult. Contact with either of these creatures result in Zen losing 100 units of time. To deal with them, Zen is equipped with some magic dust that he can sprinkle on them to make them disappear and resurrect in their same position that they appear. Extra time is awarded to Zen by collecting jewels that occasionally appear on screen. 
+
+http://www.mobygames.com/game/atari-8-bit/collapse
+Aimed to tie in with Halley's Comet passing close to Earth, but actually missing the boat by some time, The Comet Game is based on the idea of Halley's comet coming with bacterial life-forms capable of destroying life on earth. As a result, you must get into your high-tech spaceship, intercept the comet, and destroy those organisms. Controlling the ship's autopilot technology, you must ensure that the task is successfully completed.
+
+You must ensure that missile attacks on the ship are unsuccessful (by shooting at the missiles before they hit a your ship, a la Missile Command, controlling a cross-hair that moves around the ship), and maintain communication with Earth, by aiming the comms beam in the right direction to get the best signal. 
+
+Keeping the computer running smoothly requires moving a line of LEDs to match what is being displayed. The fourth ongoing task is to keep the ship's crew happy. This is done in a rather surreal way, by brewing coffee and injecting it into the crew (who are in suspended animation).
+
+http://www.mobygames.com/game/atari-8-bit/comet-game
+You are Piggo the firefighter and your job is to put out the fires caused by the Firebird. You control the left and right movement of a ladder along the front of a building and the up and down movement of Piggo on his ladder. You spray water in the windows of the building to put out the random fires popping up everywhere.
+
+http://www.mobygames.com/game/atari-8-bit/firebird

@@ -1,0 +1,3 @@
+Puzzle/side-scroller. Help your hero go through rooms of puzzles and traps to find treasure and a way out.
+
+http://www.mobygames.com/game/dos/paganitzu

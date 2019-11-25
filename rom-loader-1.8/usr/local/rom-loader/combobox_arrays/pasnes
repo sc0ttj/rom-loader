@@ -1,0 +1,122 @@
+
+# FILTER combobox
+FILTER_ARRAY=("Default" "SuperEagle" "2xSai" "Super2xSai" "HQ2x" "HQ3x" "HQ4x" "EPX-Smooth" "EPX" "NTSC" "Scanlines")
+FILTER_ITEMS="<item>$FILTER</item>" #stored value should be first in list
+for i in "${FILTER_ARRAY[@]}"
+do
+	if [ "$i" != "$FILTER" ];then
+		FILTER_ITEMS=`echo "$FILTER_ITEMS<item>$i</item>"`
+	fi
+done
+
+# FULLSCREEN combobox
+FULLSCREEN_ARRAY=("Yes" "No")
+FULLSCREEN_ITEMS="<item>$FULLSCREEN</item>" #stored value should be first in list
+for i in "${FULLSCREEN_ARRAY[@]}"
+do
+	if [ "$i" != "$FULLSCREEN" ];then
+		FULLSCREEN_ITEMS=`echo "$FULLSCREEN_ITEMS<item>$i</item>"`
+	fi
+done
+
+# KEEPASPECTRATIO combobox
+KEEPASPECTRATIO_ARRAY=("Yes" "No")
+KEEPASPECTRATIO_ITEMS="<item>$KEEPASPECTRATIO</item>" #stored value should be first in list
+for i in "${KEEPASPECTRATIO_ARRAY[@]}"
+do
+	if [ "$i" != "$KEEPASPECTRATIO" ];then
+		KEEPASPECTRATIO_ITEMS=`echo "$KEEPASPECTRATIO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# ASPECTRATIO combobox
+ASPECTRATIO_ARRAY=("8:7-Square-pixel" "4:3-SNES-original")
+ASPECTRATIO_ITEMS="<item>$ASPECTRATIO</item>" #stored value should be first in list
+for i in "${ASPECTRATIO_ARRAY[@]}"
+do
+	if [ "$i" != "$ASPECTRATIO" ];then
+		ASPECTRATIO_ITEMS=`echo "$ASPECTRATIO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# MULTITHREAD combobox
+MULTITHREAD_ARRAY=("Yes" "No")
+MULTITHREAD_ITEMS="<item>$MULTITHREAD</item>" #stored value should be first in list
+for i in "${MULTITHREAD_ARRAY[@]}"
+do
+	if [ "$i" != "$MULTITHREAD" ];then
+		MULTITHREAD_ITEMS=`echo "$MULTITHREAD_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SCALETOFIT combobox
+SCALETOFIT_ARRAY=("Yes" "No")
+SCALETOFIT_ITEMS="<item>$SCALETOFIT</item>" #stored value should be first in list
+for i in "${SCALETOFIT_ARRAY[@]}"
+do
+	if [ "$i" != "$SCALETOFIT" ];then
+		SCALETOFIT_ITEMS=`echo "$SCALETOFIT_ITEMS<item>$i</item>"`
+	fi
+done
+
+# RES combobox
+RES_ARRAY=("640x480" "800x600" "1024x768" "1024x600" "2048x1024")
+RES_ITEMS="<item>$RES</item>" #stored value should be first in list
+for i in "${RES_ARRAY[@]}"
+do
+	if [ "$i" != "$RES" ];then
+		RES_ITEMS=`echo "$RES_ITEMS<item>$i</item>"`
+	fi
+done
+
+# HWACCEL combobox
+HWACCEL_ARRAY=("None" "XVideo" "OpenGL")
+HWACCEL_ITEMS="<item>$HWACCEL</item>" #stored value should be first in list
+for i in "${HWACCEL_ARRAY[@]}"
+do
+	if [ "$i" != "$HWACCEL" ];then
+		HWACCEL_ITEMS=`echo "$HWACCEL_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SNDDRV combobox
+SNDDRV_ARRAY=("OSS" "SDL" "ALSA")
+SNDDRV_ITEMS="<item>$SNDDRV</item>" #stored value should be first in list
+for i in "${SNDDRV_ARRAY[@]}"
+do
+	if [ "$i" != "$SNDDRV" ];then
+		SNDDRV_ITEMS=`echo "$SNDDRV_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SYNCSOUND combobox
+SYNCSOUND_ARRAY=("Yes" "No")
+SYNCSOUND_ITEMS="<item>$SYNCSOUND</item>" #stored value should be first in list
+for i in "${SYNCSOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SYNCSOUND" ];then
+		SYNCSOUND_ITEMS=`echo "$SYNCSOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+# VSYNC combobox
+VSYNC_ARRAY=("Yes" "No")
+VSYNC_ITEMS="<item>$VSYNC</item>" #stored value should be first in list
+for i in "${VSYNC_ARRAY[@]}"
+do
+	if [ "$i" != "$VSYNC" ];then
+		VSYNC_ITEMS=`echo "$VSYNC_ITEMS<item>$i</item>"`
+	fi
+done
+
+
+# BILINEAR combobox
+BILINEAR_ARRAY=("Yes" "No")
+BILINEAR_ITEMS="<item>$BILINEAR</item>" #stored value should be first in list
+for i in "${BILINEAR_ARRAY[@]}"
+do
+	if [ "$i" != "$BILINEAR" ];then
+		BILINEAR_ITEMS=`echo "$BILINEAR_ITEMS<item>$i</item>"`
+	fi
+done
+

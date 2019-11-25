@@ -1,0 +1,39 @@
+NOTE - Only works in NestopiaX
+
+Hot Slots is a Casino game, developed by Hacker International, which was released in Asia in 1991.
+
+http://www.gamefaqs.com/console/nes/home/587344.html
+*
+********************************************** J **********************************************
+*
+6f812f99
+Jikai Shounen Mettomag
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Puzzle
+Release Year - 1987
+Developer - Thinking Rabbit
+Manufacturer - SquareSoft
+@END
+Jikai Shounen Mettomag is a Puzzle game, developed by Thinking Rabbit and published by Square Enix, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578448.html
+*
+********************************************** K **********************************************
+*
+4f4aab3d
+Kaettekita Mario Bros
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Platformer
+Release Year - 1988
+Developer - Nintendo
+Manufacturer - Nintendo
+@END
+Kaettekita Mario Bros. is an Action game, developed and published by Nintendo, which was released in Japan in 1988.
+
+http://www.gamefaqs.com/console/fds/home/579358.html

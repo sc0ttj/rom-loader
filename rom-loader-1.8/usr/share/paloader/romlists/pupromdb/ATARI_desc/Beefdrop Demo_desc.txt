@@ -1,0 +1,3 @@
+This game is an attempt to bring a better version of the coin-op game BurgerTime to the Atari 8-bit computer and any version to the Atari 5200 and Atari 7800. The game play is the same as the coin-op game. You, the chef, must make burgers by walking on the parts so they drop down to plates below. You are pursued by Mr. Yolk (a fried egg), Mr. Dill (a pickle slice) and Frank (a hot dog). If you are cornered, you can throw pepper on the food to stop it for a short time. If you can catch them in some burger parts, you get bonus points. Occasionally, a bonus item, like an ice cream cone, will appear and you can collect it for points.
+
+http://www.mobygames.com/game/atari-5200/beef-drop

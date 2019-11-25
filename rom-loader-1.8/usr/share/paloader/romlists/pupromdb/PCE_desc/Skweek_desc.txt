@@ -1,0 +1,5 @@
+Colourful game like a 2D Q*Bert. Run around the level, painting the background blocks as you go and avoiding enemies.
+
+There are many traps, sliding blocks, one-way blocks and teleports - also special items such as time-stop and extra firepower to zap the baddies with.
+
+http://www.pcengine.co.uk/HTML_Games/Skweek.htm

@@ -1,0 +1,11 @@
+This is, in essence, an almost total clone of the original Wonder Boy game, albeit with a few extra bells and whistles. You must run through the levels, jumping pits, avoiding or killing wildlife and collecting fruit to top up your ever-decreasing health.
+
+Breaking eggs can yield benefits - from a fast moving skateboard to a fairy that grants invulnerability for a time. Each stage is split into 4 levels, and each of these has a restart point in the middle - and you will need it as one hit spells death.
+
+HINTS:
+
+- Level select -
+Enter the cheat on the title. After entering the code, use up and down to change the world number.
+Press Left, Left, I, Right, Right, II, Up, Down, Up, Down
+
+http://www.pcengine.co.uk/HTML_Games/Takahashi_Meijin.htm

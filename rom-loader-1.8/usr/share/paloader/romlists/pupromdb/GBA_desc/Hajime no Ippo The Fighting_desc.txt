@@ -1,0 +1,5 @@
+This is an English patch for the GBA game "Hajime no Ippo", a boxing game that is apparently like Punch Out, but with Hajime no Ippo characters and special moves. It also has an interesting Customization system. While choices are limited, it does prolong the game.
+
+The patch is complete, with the exception of voices. There are no known issues at the moment.
+
+http://www.romhacking.net/trans/1319/

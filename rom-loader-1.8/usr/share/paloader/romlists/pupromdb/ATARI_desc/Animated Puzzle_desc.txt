@@ -1,0 +1,3 @@
+A sliding-square type puzzle game using animated pictures.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=2036

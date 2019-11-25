@@ -1,0 +1,10 @@
+Putty is a platform game where the lead character is... a blob of putty. He has been expelled from Putty Moon by Dazzledaze the wizard and his assistant Dweezil the Cat. Your job is to lead the character round the platform levels making use of his special abilities to rescue and destroy.
+
+When moving, Putty has a natural bounce, and his eyes are loosely attached, moving after his body after falls (as a visual effect). He has many moves available - he can stretch himself to traverse larger gaps between (or move up/down) platforms, unleash a long-range punch, explode (which works like a smart bomb, clearing the screen of enemies) or flatten himself into a puddle on the floor (to absorb anything that walks over him).
+ 
+http://www.mobygames.com/game/amiga/putty
+_________________________ 
+CHEATS: 
+
+Type headlikeahole and press [Keypad Enter] at the high score screen after a game is over to enable cheat mode with unlimited lives. Note: A high score is not required.
+Press [F1] to [F10] to advance to the corresponding level. Hold [Shift] or [Ctrl] while pressing those keys to advance to higher levels.

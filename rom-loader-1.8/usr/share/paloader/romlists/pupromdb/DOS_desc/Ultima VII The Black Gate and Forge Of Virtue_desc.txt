@@ -1,0 +1,11 @@
+You are the Avatar, returning to Britannia after 200 years of absence. Strange ritual murders are committed in the land while an organization known as The Fellowship is gathering a huge following. And there is this being known as The Guardian whose mockery follows you on your travels. Your old companions will join you on your quest through Britannia as you slowly discover the secret behind the Fellowship and the Guardian.
+
+Ultima VII features completely revamped graphics and controls. The traditional Ultima top-down view of the world now fills the entire screen, with other informational windows overlaid on top of it only when necessary. Both world interaction and dialogue are fully mouse-controlled. The tactical combat system of previous Ultimas was replaced with a real-time system where only general strategies can be set and party members fight automatically.
+
+The Britannia of Ultima VII is a large virtual world with lots of details: hundreds of NPCs can be talked to, virtually every object in the game is usable in some way and many side quests await the player.
+
+Trivia:
+
+This game, along with its expansion _Serpent Isle_, used what Origin called the "voodoo memory manager". What this really was, was no memory manager at all - not even a DOS extender. It used memory beyond the first megabyte directly by popping the processor into flat 32-bit mode; since DOS couldn't access that memory directly, it was used to cache resources (mostly graphics) to improve performance.
+
+Needless to say, this "memory manager" was completely incompatible with any real memory manager, including any variety of MS Windows.

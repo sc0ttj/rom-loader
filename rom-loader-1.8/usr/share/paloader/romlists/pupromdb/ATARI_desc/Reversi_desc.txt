@@ -1,0 +1,7 @@
+Reversi is based on an ancient game played with white and black pices on a chessboard.  The object is to "capture" your opponent's pieces by containing them between your own and win by ending the game with the most pieces.
+
+With three levels of skill, the computer will play at the level you want - beginner, amateur or professional.
+
+Sophisticated colour graphics and a winning strategy combine to promise you some unforgettable victories, and defeats.
+
+[From the box back]

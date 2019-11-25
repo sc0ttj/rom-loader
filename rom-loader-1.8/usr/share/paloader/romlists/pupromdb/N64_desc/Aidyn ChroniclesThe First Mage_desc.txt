@@ -1,0 +1,63 @@
+Description
+
+Young Alaron is on a quest to discover the truth about himself, his name, and his heritage. Traveling to far and distant lands, pursued by forces he cannot understand, danger lurks around every corner. Alaron and his companions will seek to fulfill his destiny as the greatest mage ever known!
+
+
+Story
+
+Aidyn Chronicles: The First Mage follows a young squire named Alaron who, while searching for a missing farmer named Kendall, encounters a strange spirit and is poisoned by Goblins. He awakes from a terrifying vision of monsters to find himself inside the hut of Oriana, a healer, who tells Alaron that the poison is beyond the powers of normal medicine to cure. Upon returning to Castle Gwernia, the king, Phelan, instructs him to ask the Mirari people of Erromon to help heal his poison. Upon reaching Erromon, the Mirari King, Txomin, explains that they've been under attack from goblins and seeks Alaron's aid, promising to direct him to a naming wizard named Cradawgh.
+
+Alaron clears the goblins off the mountains, however when he returns to Erromon he discovers that Txomin lied, and does not know the whereabouts of Cradawgh, telling Alaron instead to travel to Talewok, and see the sorceress, Ardra. Before leaving, Alaron converses with the Mirari queen Yeraza, who gives him the Stormbreaker, a blessed tree branch able to calm any storm.
+
+At the Wizard School, the doorman asks everyone's True Name, but Alaron cannot answer. Ardra the sorceress begins the healing spell, which brings on another vision. This one includes a feeble, old man in a rocking chair. Ardra explains that the healing spell failed because Alaron is a Wildling - he has no True Name. Without a True Name, his spirit is not bound to his body, and Alaron is incomplete. Ardra tells him to travel to Port Saiid and take a boat to Cradawgh's Island.
+
+Alaron is eventually able to hire a boat at Port Saiid - after an unusual encounter with a cryptic jester - but the ship travels into a powerful storm, and as the Stormbreaker is tied to the mast instead of the helm, the ship is damaged and forced to land at Chaos Isle. Following repairs the party sets off for Cradawgh's Island; this time the ship arrives safely, however a group of monsters has already reached Cradawgh. The dying wizard asks Alaron to bring his body to Talewok, and suggests seeking the Jundar King Zaratas in the desert.
+
+After Cradawgh's funeral in Talewok, Alaron heads down to the city of Terminor. He then soon discovers that the nearby village of Pome was destroyed by a wizard with a twisted staff. The final level of Terminor has a house, in which resides Mago, a wizard without a True Name, who went insane several years ago and called up a huge storm when the townspeople tried to kill him. Mago is the feeble, old man from Alaron's earlier vision and can no longer speak.
+
+Alaron travels to a nearby bog, where he finds the Tower of Shamsuk, a powerful necromancer who had previously destroyed Pome and cursed Niesen, slowly turning him into a zombie. Niesen gets the party into the tower where they eventually reach a chamber with a large stone hand. The jester from Port Saiid appears once more, revealing himself to be Farris - a wizard. Farris joins the party, assisting them in defeating Shamsuk, who has already killed Oriana - now revealed to be Alaron's mother. Farris then leaves the party, taking Shamsuk's necromantic staff with him.
+
+Alaron crosses a desert to reach the Jundar city of Ugarit, where he speaks with the Jundar Emperor, Zaratas, who explains that only the dragon Rooughah can name Alaron. He needs to find the Golden Horn of Kynon and play it for Rooughah. Alaron retrieves the Horn, and begins heading back to Erromon.
+
+Alaron travels through the Erromon tunnels until he comes across the dragon Rooughah. After Alaron plays the Horn of Kynon, Rooughah tells him he knows his True Name: "Alaron". The Mirari then tell Alaron that the forces of Chaos are gathering outside Gwernia. Alaron returns to Gwernia castle and fights his way to Prince Sheridan, who confesses to always being jealous of Alaron. Sheridan explains that Alaron is the son of Oriana and King Phelan. Alaron fights and kills Sheridan, only to then meet Pochangarat (the leader of Chaos) - the huge monster from Alaron's first vision in Oriana's hut.
+
+After Pochangarat's death, Alaron finds his father, King Phelan, who is dying from the wounds he suffered at Pochangarat's hands. He requests to be buried under the Great Wall of Knights in Gwernia, and appoints Alaron as his successor before dying. The story ends with Alaron's coronation ceremony.
+
+
+Playable Characters
+
+Alaron - A headstrong young squire whose eagerness to prove himself often conflicts with his inexperience. Alaron is the product of the King of Gwernia and his true love that now lives in a hut in the forest outside the castle. Alaron can be trained to be any type of character. In the process of Alaron gaining his "true name" he masters all magics in the game and gains some powerful spells.
+
+Brenna - Brenna and Alaron are the best of friends. Brenna was also orphaned while very young before being taken in by the King. She feels that she doesn't get enough respect in Gwernia and wants to find her place in the world as badly as Alaron does. Brenna is a thief, and is good at picking locks, disarming trap and using thrown weapons in addition to being able to learn elemental magic.
+
+Abrecan - Captain of the Gwernian knights, Abrecan's prowess in battle is matched only by his surliness in social situations. As a knight, Abrecan is an exceptional fighter, and due to his high hit point range is the ideal "tank" character. He can be at the front of any combat, holding enemies back from the other characters.
+
+Rheda - High-strung and as demanding of others as she is of herself, Rheda is the apprentice of the wizard Bowden. Skilled in the magic arts, Rheda is an initially weak wizard who can become a powerful and valuable member of the party, working best in a support role. She can use Naming magic and Pole weapons.
+
+Godric - He lives in the basement of Castle Gwernia. Godric's remarks are often too insightful for his medieval friends to comprehend their potential significance, and too absent-minded to put them to much use. He has a talent for alchemy, uses elemental magic, but has little in the way of combat skills.
+
+Becan - A former Gwernian knight, Becan left Gwernia and the king's service after the Goblin raids of Alaron's early childhood. Alaron can find Becan in peddling wares in the Mirari village of Erromon. Becan's fighting skills are comparable to Abrecan; a solid warrior both offensively and defensively.
+
+Arturo - Arturo is the quintessential big dumb fighter. His father was a Gwernian knight, but the closest Arturo ever got to meeting him was receiving his armor after he died. The party meets him while he's "guarding" the bridge to Port Saiid, not letting even legitimate travelers and merchandise pass. Arturo is highly competent in fighting however, and can dish out a great deal of damage and absorb a lot of punishment.
+
+Keelin - The daughter of well-to-do traders in Talewok, Keelin turned to a life of mischief when she was quite young, and has only gotten worse as she's grown. Keelin is Brenna's rival in every way. By the time Alaron meets Keelin, Brenna has started hinting that she's a little jealous of the female attention he's been getting, and Keelin gives Alaron a lot of attention. She's also a very talented thief and is skilled in missile weapons.
+
+Niesen- A powerful wizard who has been poisoned by a great necromancer. This necromancer also killed Niesen's entire family. Wanting revenge, Niesen forces Alaron to go to Shamsuk's tower. Niesen is incredibly weak physically, but is able to use powerful magic.
+
+Farris- A jester obsessed with confusing riddles. He was once a great wizard, though he cast a stupidity spell upon himself. He seems to live life by a single lesson, look out for your own hide. Due to the stupidity spell, Farris cannot use magic. He is, however, quick and packs a decent punch. After the tower is completed, Farris leaves the party. He is skilled at thievery, among many other things.
+
+Donovan - Donovan thinks very highly of himself; so highly, in fact, that he has grown tired of giving fencing lessons to the children of aristocrats in Terminor, and longs for adventure. His prose (and armor) lean towards the melodramatic, but his skills as a warrior and a wizard compensate.
+
+Baird - Baird's sheer size could give Arturo's bulk a run for its money, but, unlike Arturo, Baird has something between his ears. He is an able warrior, and he fancies himself a poet and will regale the group with tales of their legendary quest at every opportunity. Baird is also a talented loremaster and troubador.
+
+Sholeh - A Jundar woman living in the desert near Ugarit, Sholeh is one of the few of her kind who does not display the customary Jundar dislike and distrust of humans. She discovered the blind Wizard Fyrsil in the desert after he failed to stop Mago's magic storm, and she has cared for him ever since. Sholeh is a strong warrior, deadly with missile weapons, and also knows star magic.
+
+Dougal - Dougal is one of the last playable characters the party encounters, and one of the most well-rounded. He's an accomplished warrior and troubador, with strong thief skills and some powerful magic to boot. If he is in the party when Alaron reaches Rooughah's Lair in Erromon, Dougal reveals himself as a traitor to the group and a servant of Rabisat and Chaos. He threatens to steal the Horn of Kynon and fights the party for it.
+
+Reception
+
+Aidyn received either panned or mixed critical reviews. Many of the more positive reviews, such as Nintendo Power, cited its creative storyline (head writer: Angela Ferraiolo) and strategic combat system. Negative reviews generally complained about its outdated graphics, repetitive musical score, and lack of environment details (IGN/4.2).
+
+
+http://en.wikipedia.org/wiki/Aidyn_Chronicles:_The_First_Mage
+http://www.gamefaqs.com/n64/196565-aidyn-chronicles-the-first-mage

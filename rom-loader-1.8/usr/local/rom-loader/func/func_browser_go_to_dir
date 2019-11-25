@@ -1,0 +1,17 @@
+#!/bin/sh
+set -a 
+
+#do this here
+mkdir -p /tmp/paloader &>/dev/null
+mkdir -p /tmp/rejoystick &>/dev/null
+
+browser_go_to_dir () {
+	#called from 'Go' button or by pressing enter in <entry> 
+	DIR="`echo \"/$DIR\" | sed -e \"s%//%/%g\"`"
+	# if the rom list already exists, use it
+	if [ -f $WORKDIR/ls_${SELF} ];then
+		cp $WORKDIR/ls_${SELF} $WORKDIR/ls
+	else #if not, build it
+		 build_chooser_list
+	fi
+}

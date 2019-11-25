@@ -1,0 +1,3 @@
+Hack of the first Castlevania game by Redrum featuring Richter Belmont. The game design is identical to the original game, except that most sprites have been replaced with classic NES characters.
+
+http://castlevania.wikia.com/wiki/Castlevania:_Opposing_Bloodlines

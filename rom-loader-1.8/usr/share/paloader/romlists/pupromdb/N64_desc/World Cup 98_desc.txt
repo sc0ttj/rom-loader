@@ -1,0 +1,78 @@
+Description
+
+Win the World - For Your Country! All 32 World Cup France 98 qualifying teams: Take your team, with all your favorite players, to the World Cup Final and win it all. NEW! World Cup Classics: Play 8 of the all-time most thrilling World Cup Final matches. NEW! On-the-fly in-game management: Alter attacking strategy and formation at the press of a button. NEW! On-the-fly in-game tactics: Run preset plays at critical points in the game.
+
+World Cup '98 was the first official FIFA World Cup game developed by EA Sports after obtaining the rights from FIFA in 1997. Unlike the previous World Cup games, which were in 2D and showed a bird's-eye view, World Cup 98 was the first in the franchise to use a 3D engine, utilising DirectX for the PC version. Accurate national team kits (except for the goalkeepers who were issued a generic kit) were introduced complete with kit manufacturer logos and official merchandise. The game engine is based on that of FIFA: Road to World Cup 98, though it features some minor gameplay improvements to areas such as ingame strategy changing and player positioning. The playable teams in the friendly mode also included several nations that did not qualify for the finals. World Cup 98 was released for Microsoft Windows, PlayStation, Nintendo 64 and Game Boy Color.
+
+
+Teams
+
+The game features every team that qualified for the 1998 World Cup:
+
+ Brazil
+ Argentina
+ Paraguay
+ Colombia
+ Chile
+ Mexico
+ United States
+ Jamaica
+ Japan
+ South Korea
+ Saudi Arabia
+ Iran
+ Tunisia
+ Morocco
+ South Africa
+ Nigeria
+ Cameroon
+ Denmark
+ Croatia
+ Norway
+ Italy
+ France
+ Belgium
+ Netherlands
+ Austria
+ Spain
+ England
+ Scotland
+ Bulgaria
+ Yugoslavia
+ Romania
+ Germany
+
+As well as eight others who did not:
+
+ Canada
+ Portugal
+ Republic of Ireland
+ Sweden
+ Russia
+ Greece
+ China PR
+ Australia
+ Albania
+
+
+Trivia
+
+The World Cup Classics mode, has numerous inaccuracies in it. These include:
+
+    * The football design, adidas Tricolor, used in reality only during the 1998 World Cup, is used in all classic matches from 1970 onwards (that is all classic mode matches shown in colour).
+
+    * The Golden Goal rule, used in real life for the first and only time in the 1998 World Cup is used for all World Cup Classics matches in the game.
+
+    * The penalty shootout introduced in 1970 can be used to decide any of the World Cup Classics matches in the game.
+
+    * The Yellow and Red cards, used in real life first during the 1970 World Cup, are used for all games in this mode.
+
+    * The cards are shown in colour during black and white/sepia matches.
+
+    * Captions are shown in faded colour during black and white/sepia matches.
+
+
+
+Mega Man (?)
+http://en.wikipedia.org/wiki/World_Cup_98_%28video_game%29
+http://www.gamefaqs.com/n64/199325-world-cup-98

@@ -1,0 +1,108 @@
+Activision Decathlon|5150|F43E7CD0|x|0|1984|Olympic/Sports|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Astro Chase|5126|4019ECEC|x|0|1983|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Ballblazer|5129|DEF2A207|x|0|1986|Sports|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Beamrider|5131|9BAE58DC|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Berzerk|5133|BE3CD348|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Blue Print|NOID|0624E6E7|x|0|1983|Action|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Bounty Bob Strikes Back!|5136|7873C6DD|x|0|1984|Action|region-unknown|Big Five Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Buck Rogers Planet of Zoom|5138|04807705|x|0|1983|Action|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Carol Shaw's River Raid|5209|09FC7648|x|0|1983|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Castle Blast|NOID|7C988054|x|0|2002|Shooter|region-unknown|Self-Published|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Castle Crisis|5139|D50E4061|x|0|2004|Action|region-unknown|Self-Published|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Centipede|5141|536A70FE|x|0|1982|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Choplifter!|NOID|9AD53BBC|x|0|1984|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Congo Bongo|5147|F1F42BBD|x|0|1984|Action|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Countermeasure|5148|FD541C80|x|0|1984|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+David Crane's Pitfall II Lost Caverns|5193|4B910461|x|0|1984|Platformer|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Defender|5151|BD52623B|x|0|1983|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Dig Dug|5153|6A687F9C|x|0|1983|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Dreadnaught Factor|5225|460DEF2D|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Frogger|5156|AE7E3444|x|0|1983|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Frogger II Threeedeep!|5157|0AF19345|x|0|1983|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Galaxian|5158|3EF4A23F|x|0|1982|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Gorf|5160|E955DB74|x|0|1983|Action|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Gremlins|5161|063EC2C4|x|0|1987|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Gyruss|5162|CFD4A7F9|x|0|1984|Shooter|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+H.E.R.O.|5164|18A73AF3|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+James Bond 007|5165|D9AE4518|x|0|1984|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Joust|5167|BFD30C01|x|0|1983|Platformer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Jungle Hunt|5169|2C676662|x|0|1983|Platformer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+K-Razy Shoot-Out|5176|EE702214|x|0|1983|Action|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Kaboom!|5170|420F5D0B|x|0|1983|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Kangaroo|5171|ECFA624F|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Keystone Kapers|5172|8FE3BB2C|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Koffi Yellow Kopter|NOID|917BE656|x|0|2002|Shooter|region-unknown|Self-Published|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Mario Bros.|5178|873742F1|x|0|1983|Platformer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Megamania|5179|240A1E1A|x|0|1983|Shooter|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Meteorites|5180|AB8E035B|x|0|1984|Action|region-unknown|Electra|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Miner 2049er Starring Bounty Bob|NOID|7DF1ADFB|x|0|1983|Action|region-unknown|Big Five Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Missile Command|5182|44D3FF6F|x|0|1982|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Montezuma's Revenge featuring Panama Joe|NOID|2A640143|x|0|1983|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Moon Patrol|5184|D0B2F285|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Mountain King|5185|0F24243C|x|0|1984|Action|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Mr. Do!'s Castle|NOID|AA55F9BE|x|0|1984|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Ms. Pac-Man|5188|752F5EFD|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Pac-Man|5188|8873EF51|x|0|1982|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Pengo|5191|E4F8BA8C|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Pitfall!|5192|B2887833|x|0|1983|Platformer|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Pole Position|5194|ABC2D1E4|x|0|1983|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Popeye|5195|A18A9A40|x|0|1983|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Q-bert|5196|3FE4A401|x|0|1983|Action|region-unknown|Parker Brothers|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+QIX|5197|AEA6D2C2|x|0|1982|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Quest for Quintana Roo|5198|B5F3402B|x|0|1984|Action|region-unknown|Sunrise Software Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+RealSports Baseball|5200|44166592|x|0|1983|Baseball/Sports|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+RealSports Football|5205|4336C2CC|x|0|1983|Football/Sports|region-unknown|Midway|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+RealSports Soccer|5206|ECBD1853|x|0|1983|Soccer/Sports|region-unknown|Midway|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+RealSports Tennis|5207|10F33C90|x|0|1983|Sports/Tennis|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Rescue on Fractalus!|5208|762C591B|x|0|1986|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Robotron 2084|5210|4252ABD9|x|0|1983|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Space Dungeon|5213|B68D61E8|x|0|1983|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Space Invaders|5214|DE5C354A|x|0|1982|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Space Shuttle A Journey into Space|5215|387365DC|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Star Raiders|5217|7D819A9F|x|0|1982|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Star Trek Strategic Operations Simulator|5218|69F23548|x|0|1983|Action|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Star Wars Return of the Jedi Death Star Battle|5219|0675F0A5|x|0|1983|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Star Wars The Arcade Game|5220|75F566DF|x|0|1983|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Super Breakout|5221|A0642110|x|0|1982|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Super Cobra|5222|97DEBCD2|x|0|1983|Action|region-unknown|Parker Bros|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Vanguard|5226|CAAEA0A4|x|0|1984|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Wizard of Wor|5227|D6F7DDFD|x|0|1981|Shooter|region-unknown|CBS Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Zaxxon|5229|741746D1|x|0|1983|Action|region-unknown|Sega|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Zenji|5230|DA228530|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Zone Ranger|5231|2959D827|x|0|1984|Action|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|ATARI5200
+Adventure II|5124|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Archon The Light and the Dark|5125|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Atlantis|5127|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Attack of the Mutant Camels|5128|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+B.C.'s Quest for Tires|5130|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Beef Drop|5132|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Blueprint|5134|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Boulder Dash II|5135|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Bristles|5137|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Caverns of Mars|5140|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Chicken|5142|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Claim Jumper|5144|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Clowns and Balloons|5145|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Combat 2 Advanced|5146|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Crystal Castles|5149|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Demon Attack|5152|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Donkey Kong|5154|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Donkey Kong Jr.|5155|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Gateway to Apshai|5159|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Jawbreaker|5166|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Jumpman Junior|5168|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Klax|5173|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Koffi Yellow Copter|5175|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+K-Star Patrol|5177|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Mr. Cool|5186|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Mr. Do's Castle|5187|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Pacific Coast Hwy|5189|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+John Anderson's Rally Speedway|5199|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Shamus|5211|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Sinistar|5212|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Spy Hunter|5216|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Super Pac-Man|5223|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Tempest|5224|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Worm War I|5228|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Dungeons and Dragons Tower of Doom|8728|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200
+Droplitz|9016|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|ATARI5200

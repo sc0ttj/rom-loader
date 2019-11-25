@@ -1,0 +1,44 @@
+Note: Insert bootable disk 7 to jump directly into the game.
+
+A turn-based strategy game set in World War I, using a similar engine and gameplay system to Battle Isle.
+
+Both players act simultaneously on a split screen. While one player can move his units, the other can attack and vice versa. The results of battles are shown in animated sequences.
+
+Terrain affects the performance of units, and seasons affect the likely terrain. Different units are introduced as the game and war progress, with more air and sea battles later on.
+
+There are 24 single-player maps in the game, which can be played from either the German or French perspective. In addition, there are 12  two-player maps.
+
+The game also includes a lot of information about the period: after each mission, historical facts about two months of wartime are displayed.
+ 
+http://www.mobygames.com/game/amiga/historyline-1914-1918
+_________________________
+CHEATS:
+
+LEVEL CODES FOR 1 PLAYER
+
+                                GERMAN
+
+      01-"PULSE"      07-"ORKAN"      13-"GOTHA"      19-"COBRA"
+      02-"CIVIL"      08-"FRONT"      14-"BALON"      20-"ATLAS"
+      03-"MOUSE"      09-"RATIO"      15-"PAUSE"      21-"AMPER"
+      04-"VENOM"      10-"PARTS"      16-"ELITE"      22-"RHEIN"
+      05-"NOISE"      11-"PLANE"      17-"INFRA"      23-"CANDL"
+      06-"RIGHT"      12-"FLAME"      18-"HILLS"      24-"STERN"
+
+                                ALLIED
+
+      01-"BATLE"      07-"BUMMM"      13-"SIGNS"      19-"BLADE"
+      02-"GOOSE"      08-"LEVEL"      14-"HOUSE"      20-"ZORRO"
+      03-"SPORT"      09-"TOXIN"      15-"SIGMA"      21-"STONE"
+      04-"BIMBO"      10-"PRINC"      16-"SEVEN"      22-"MOSEL"
+      05-"TEMPO"      11-"CLEAN"      17-"ZOMBI"      23-"ORDER"
+      06-"BARON"      12-"XENON"      18-"MOVES"      24-"SODOM"
+
+                      LEVEL CODES FOR 2 PLAYERS
+
+      01-"TRACK"      07-"VIRUS"      13-"GRAND"      19-"SPELL"
+      02-"HUSAR"      08-"BISON"      14-"ROYAL"      20-"CAMEL"
+      03-"BEAST"      09-"DRUCK"      15-"WATER"      21-"FLAGS"
+      04-"PLATE"      10-"TROLL"      16-"SKILL"      22-"STORY"
+      05-"LIGHT"      11-"UBOOT"      17-"SKULL"      23-"SCOUT"
+      06-"SCROL"      12-"DROID"      18-"AUDIO"      24-"GREEN"

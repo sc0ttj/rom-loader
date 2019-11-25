@@ -1,0 +1,3 @@
+Simplistic game where you are presented with a math problem at the bottom of the screen. Four ships at top have potential answers displayed on them. Shoot the one that's right.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=6849

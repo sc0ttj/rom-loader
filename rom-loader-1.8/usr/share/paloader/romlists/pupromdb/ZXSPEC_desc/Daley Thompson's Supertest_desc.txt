@@ -1,0 +1,10 @@
+Ten sporting events (twelve on the 128K Spectrum version) are recreated in the second game licensed around the Decathlon champion. Each one has its own world record, and a target time / distance / score to reach - fail and you lose one of your three lives. After completing all events successfully they repeat with tougher targets.
+
+Rowing, 100m and cycling are pure tests of joystick waggling, and this is a feature of may other events. The penalty shoot-out involves timing the run-up then pressing fire to set the angle of the shot. In the ski-jump, timing the launch and landing are crucial. The tug of war involves choosing a candidate you feel you can beat and then out-waggling them.
+
+In the triple jump you must run to the line before holding down fire for the right length of time for each of the 3 phases of the jump (45 degrees is optimal). The hurdles event involves running to and pressing fire to clear the hurdles. 
+
+Pistol shooting gives you limited time to correctly move a sight into position, before firing as close to the centre as possible. This is made harder by only being able to move up and towards the target, which prevents being able to correct over-movement.
+
+
+http://www.mobygames.com/game/zx-spectrum/daley-thompsons-super-test

@@ -1,0 +1,20 @@
+A global biological war has utterly changed the surface of the planet Avaron. The last human survivors must fly their Bioships to Avaron and search for a safe place to build a colony. You must face all kinds of strange creatures in your search for a new home. To the Bioships!
+
+Hints:
+
+- Dragon-Bio 5 Ship -
+Highlight the ship in the top left corner of the ship selection screen and press A + B + Start. Note: This code may only be enabled in the 1990 version of the game.
+
+- Fly Same Ship -
+Highlight the ''2 Player'' option at the main menu, hold Right and press Start. Release Start after the ship selection screen is displayed. The ship in the top right should be selected for each player.
+
+- Select Level -
+When the Sega logo appears, press and hold the C button. While still holding the C button, ''sweep'' the D-Pad in a clockwise direction starting at up and doing a full circle around it. You should hear a noise confirming the code and then you have to press start so you can select what level you wish to proceed to.
+
+- Unlimited Lives -
+Enable the ''Level Select'' code. Highlight the last level on the level select screen and press A + B + C + Left. Then, press A + B + C + Left again when the screen fades.
+
+- Bonus Level -
+Locate the caves immediately following the opponents that resmble a pair of lips. Move to the top left corner to lose the current ship and restart in a level consisting of a large asteroid field.
+
+http://www.gamefaqs.com/console/genesis/home/586065.html

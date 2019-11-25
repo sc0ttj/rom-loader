@@ -1,0 +1,37 @@
+Joe Musashi (code name Shinobi) of the Oboro School of Ninjutsu has long been in a struggle against the forces of evil. Years ago, the nemesis of the Oboro school, the Neo Zeed organization, was defeated by Shinobi, It's leaders killed or put in prison, and its criminal activities stopped cold.
+
+Joe Musashi decides to return to Japan and recuperate after the battle in Neo City. But while he is training in the mountains of Japan, working to improve his already formidable Ninja techniques, the Neo Zeed leaders are secretly rebuilding their organization. Shinobi senses the evil power growing and starts to make his way back to fight this new danger.
+
+Neo Zeed's minions have been ordered to stop Shinobi at all costs. The rewards they've promised - riches and power. The punishment for failure - slow, agonizing torture and death at the fangs and claws of Neo Zeed's war demons. The stakes are the highest yet, and you as Joe Musashi - Shinobi - you know that unless you succeed, the world will fall into clutches of Neo Zeed ! You must not fail!
+
+--from the Genesis Shinobi III: Return of the Ninja Master game manual
+
+Directions:
+
+Similar to the Ninja Gaiden games (NES), Shinobi is about cool looking action. The ninja you play as can do various moves.
+Throw Dagger: Unless you are close to an enemy, you will throw a dagger with the attack button.
+Jump Slash: Double tap the direction you want to go to run. If you hit the attack button while running you'll perform a leaping slash.
+
+Dragon Kick: Jump in the air(not a spinning jump) and press down and attack. This will cause you to swiftly kick downward diagonally.
+
+Wall Jump: Jump into a wall and press the jump button, you will kick off the wall.
+Shuriken Rain: While spinning(double jump) press the attack button. The ninja will throw dozens of Shurikens. 
+
+Controls:
+
+A Button: Use Power
+B Button: Attack
+C Button: Jump
+Start Button: Pause/Switch power
+
+Hints:
+
+- Invincibility -
+Play these songs at the sound test in the options menu, then start a new game.
+He runs, Japonesque, Shinboi walk, Sakura, Getufu
+
+- Infinite Shurikens -
+In the options menu, set the Shurikens to 0, then play the Shuriken Sound Effect. Go back up to Shurikens and it will have changed from 0 to the infinity symbol(?). Start a new game to always have 999 shurikens.
+
+Reviewer: Agoaj
+http://www.consoleclassix.com/genesis/shinobi_3.html

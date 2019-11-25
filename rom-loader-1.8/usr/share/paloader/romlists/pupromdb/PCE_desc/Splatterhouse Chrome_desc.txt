@@ -1,0 +1,7 @@
+The first known hack of the PC Engine Splatterhouse, Splatterhouse Chrome features new levels, enemy AI, color palettes and even a restored weapon from the arcade version.
+
+The difficulty is extremely high, so even those familiar with Splatterhouse will face a serious challenge. The game also contains far more gore than the original.
+
+Note that this patch is based on the Japanese version of the game.
+
+http://romhacking.net/hacks/520/

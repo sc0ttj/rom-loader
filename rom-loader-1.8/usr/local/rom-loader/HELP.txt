@@ -1,0 +1,94 @@
+ROM-LOADER
+
+A multi-system emulator frontend and rom-browser, based on GtkDialog
+This should be a good choice for home-made 'arcade cabinets'
+
+Features:
+
+- a rom file browser and loader
+- configure emulator settings
+- bios file detection, using "bios-checker"
+- supports joypad navigation, using "Rejoystickcc"
+
+Supports: 
+
+	- amigas, ataris, colecovision, gameboys, gamegear, genesis, master system, n64, nes, psx, mame, snes
+
+Consists of:
+
+- a main panel script:
+	- a gui with big buttons linking to emu scripts
+	
+- emu scripts:
+	- one gui for each emulator supported
+	- tabbed file browser, emulator settings and help
+______________________________________________
+
+GUIDE
+
+HOW TO LOAD
+
+	Use the menu shortcut in "Fun".. or just type 'romloader' or 'paloader' in the terminal
+
+	In terminal:
+		> Use the switch '-f' to load the rom loader in fullscreen
+		> Do not use the '-f' switch to load the rom-loader in windowed mode
+		> Use the '-s' (or '--splash') option to force the splash to load
+
+HOW TO USE ROM BROWSER
+
+	Click on an emulator, download any BIOS files suggested, optionally change some emulation settings, then 
+	browse to a ROM file, double click (or hit 'Enter') to load the ROM.. Then enjoy your game!
+
+HOW TO ENABLE JOYPAD NAVIGATION FOR ROM BROWSER
+
+	Like all GTK frontends, the keyboard can be used to navigate Rom-Loader.
+	This means that using Rejoystick, joypads can also be used.
+	
+	Keyboard Controls:
+	
+			up, down, left, right			directions
+			enter/space						ok/execute
+			tab									next item
+			shift+tab							previous item
+			alt+s								save emulator settings
+			alt+h								load emulator help file
+			alt+q								close the current GUI
+	
+	
+	Rom-Loader will automatically load its own rejoystick profile each time it is loaded.
+	So, to enable joypad navigation, you must map the keyboard controls above to your joypad.
+
+	To do this, you simply need to load the RejoystickCC tool, and edit the 'romloader.cfg' profile,
+	mapping the keyboard controls above, to your desired joypad buttons.
+	
+	IMPORTANT - ABOUT KEY COMBINATIONS
+	
+	Rejoystick does not support key combinations, such as 'Alt+F4' or 'Shift+Tab'. So, to enable key 
+	combinations like 'Alt+F4'. (to close a window), you should map the 'Alt' key 
+	and 'F4' key to separate buttons, and press both at the same time! 
+	
+SAVING YOUR SETTINGS
+
+	Your settings are automatically saved each time you load a rom, but you can also click "the Save" button
+_____________________________________________
+
+THANKS
+
+A **big** thanks goes to Zigbert for all his help on this tool
+
+_____________________________________________
+
+TO DO (Wanna help?)
+
+Build GUIs for these emulator commands:
+
+	Atari800: atari800 -config ~/.atari800.cfg -atari/-xl/-xe/-320xe/-rambo/-5200 -basic/-nobasic -pal/-ntsc -scanlines -width 640 -height 480 -bpp 8/16/32 -fullscreen/-windowed -sound/-nosound -grabmouse -mouse off/pad/touch/koala/pen/gun/amiga/st/trak/joy -cart "path/to/cartridge" -run "/path/to/[com,exe,xex,bas,lst]" -a/-b -boottape/-tape "path/to/file" 
+
+	C64: x64 -fullscreen/+fullscreen -directory "usr/lib/vice/" -htmlbrowser defaultbrowser -autostart "path/to/ -1 "/path/to/tape" -8/-9/-10/-11 "/path/to/diskimage"
+
+	PC Engine: pce --fullscreen --overlay 1 --window-size 1/2/3/4 --aspect-ratio 1 --eagle 0 --scanline 1 --stereo 1 --cd-emulation=0/1 --cd-device=/dev/sr0 --netplay 192.168.0.6 "path/to/rom"
+
+	ScummVM:  /usr/games/scummvm --config=/path/to/config --path=/path/to/game --fullscreen/--no-fullscreen --gfx-mode 1x/2x/3x/2xsai/super2xsai/supereagle/advmame2x/advmame3x/hq2x/hq3x/tv2x/dotmatrix --aspect-ratio/--no-aspect-ratio --render-mode=cga/ega/hercGreen,hercAmber,amiga --alt-intro --themepath=/usr/share/scummvm --gui-theme=themename --language=en/de/fr/it/py/es/jp/zhkr/se/gb 
+
+	Spectrum:  zx -verbose 0 -16/-48/-128 (IF -128 -2+/-2a+/-3+) -kmouse -kempston/-fuller/-cursor/-cscursor/-if2 -auto/-noauto -zxprinter/-ts2040/-alphacom32 -sound 1 -scale 1 "/roms/zx/file.sna"

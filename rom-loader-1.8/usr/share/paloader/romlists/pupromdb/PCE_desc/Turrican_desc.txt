@@ -1,0 +1,11 @@
+Conversion of a reasonably well known platform shooting game which started life on the Commodore 64.
+
+Turrican (the character) has some nice weapons for you to play around with. His one unique weapon is an electrical whip you use by holding the fire button. When you use it, you stay in one spot and can move the whip all around you. The weapon is fantastic for hitting enemies and finding the hidden powerups. His other nice feature is the ability to turn into a buzzsaw thing and become invincible while careening around the screen (or just going in a line much faster than he would by running). Of course, you only get a few uses of it.
+
+Turrican's stages follow a certain format. Go through the stage, possible fight a miniboss, then fight the main boss--which is often just another miniboss. The only thing about the main boss is you need to kill it to go to the next stage.
+
+Why did the game get such a low score when I gave it such great comments on its features? For one, the difficulty. Turrican has no hit animation for your character, so you could be losing life without even knowing it if you aren't looking at your life meter. Things can hit you when they look like they shouldn't too.
+
+The second reason the game got such a low score is that it really doesn't offer replay value (other than finding all the hidden powerups). I mean, the last boss is just like all the minibosses. Shucks, I thought it was just a miniboss until I won the game. The ending is nill too. Not even worth seeing.
+
+http://www.pcengine.co.uk/HTML_Games/Turrican.htm

@@ -1,0 +1,3 @@
+Sort of a soccer game with a twist of dodgeball. You have to kick the ball into the goal and defenders sometimes get knocked out or deflect your shots.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=6598

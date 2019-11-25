@@ -1,0 +1,22 @@
+Kyatto Ninden Teyandee is an Action game, developed and published by Tecmo, which was released in Japan in 1991.
+
+http://www.gamefaqs.com/console/nes/home/577384.html
+*
+********************************************** L **********************************************
+*
+df8a6bb6,2004a415,9a4fe63b,17c6314d,144edc32
+L'Empereur
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Strategy
+Release Year - 1991
+Developer - koei
+Players - 1
+@END
+Bonjour. Now's your chance to rewrite history as one of the most legendary Emperors the world has ever known Napoleon Bonaparte. In L'EMPEREUR, the French Revolution has just ended, and now the people are in search of a worthy leader. It's time to prove your worthiness on the battlefield.
+
+Take control of the Grand Army and lead an offensive against the rest of Europe as you seek to lead your French countrymen to dominance over the continent and eventually the world! While you're in charge on the battlefield, you'll also have to make important economic, social, and political decisions on the home front that will affect how your people look at you. Will you be able to lead France to world domination, or will you suffer the same fate as the real Napoleon Bonaparte?
+
+http://www.nesguide.com/games/lempereur/

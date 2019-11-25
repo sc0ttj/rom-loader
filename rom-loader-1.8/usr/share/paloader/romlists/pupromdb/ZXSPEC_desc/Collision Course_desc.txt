@@ -1,0 +1,4 @@
+A network of stargates has been uncovered, potentially making instantaneous travel a reality. Aboard a newly designed starship, you must explore this galaxy and loot it. The ship is flown by using left and right to rotate, and up and down to change the height, as it moves at a constant speed. It drains energy as it goes, but this can be replenished by picking up the small pods. There are mines and meteors to avoid. On each section of the game you must find the next stargate and fly into it.
+
+
+http://www.mobygames.com/game/zx-spectrum/collision-course

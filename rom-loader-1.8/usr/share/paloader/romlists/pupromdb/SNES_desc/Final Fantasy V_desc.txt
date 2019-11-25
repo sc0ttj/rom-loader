@@ -1,0 +1,152 @@
+Final Fantasy V was released in the States as part of the Final Fantasy Anthology, complete with Ted Woolsey's script that was done before the SNES Square translation was scrapped. So, at least now you have a choice in ways to play. I'd recommend the SNES game for two reasons: the translation's better (I hear.. I've played less than half an hour of the PS1 port), and the PS1 load times suck a big one. Remember that rumor before FFA was released that Woolsey changed Gilgamesh to Gargamel? Man, no one has any respect for that guy.
+
+Anyways, FFV is pretty straightforward Final Fantasy, except for the Job System that the characters use. You have a large selection of jobs, and there's no penalty in switching from one job to another (unlike FFIII). Battles earn you points that go towards levelling up these jobs, which give you extra abilities. Pretty straightforward, right? Well? well, it is. I haven't played far enough into the game to give it a fair review, but as far as all the stuff most Square whores care about, the graphics are a small step up from FFIV, and the soundtrack is great. And it's pretty fun to play too, since the Job System gives you a lot of flexibility in building your characters, as well as multiple ways to finish those troublesome bosses. It can also be severely abused, which has resulted in multiple FAQs on the issue.
+
+One thing I can't get over, though, is the nodding. It seems like these characters have three different animations: laughing, raising their hand, and nodding.
+
+Translation Description:
+
+RPGe's FFV translation is probably the most famous fan translation ever. It was the first RPG to ever be completely translated, and a lot of ROM hackers and translators today cite this project as the reason they got into the hobby. Given the project's troubled history, it's really nice to see such an overwhelmingly positive result.
+
+In contrast to J2e's FFIV translation, which some say took too many script liberties, FFV's script is occasionally criticized for its blandness. There's just no pleasing people, is there? At least Faris doesn't say "Arr!" constantly.
+
+Tips:
+
+Brave Sword or Chicken Knife ?
+Before venturing into the Cleft of Dimension, return to the Town of Main the southwest, a door that was previously locked is now open. Through the door is a hidden path that will lead you to a man. He will offer to give you a Brave Sword or a Chicken Knife. The Brave Sword will get stronger as you win battles and the Chicken Knife as you run from battles.
+
+Free Potions in World II
+Before venturing into the Cleft of Dimension, return to the Town of Main the southwest, a door that was previously locked is now open. Through the door is a hidden path that will lead you to a man. He will offer to give you a Brave Sword or a Chicken Knife. The Brave Sword will get stronger as you win battles and the Chicken Knife as you run from battles.
+
+Learn your game stats
+In Kelb town, enter the Inn. You'll find a man sitting on a table talk to him then sit on the chair on the LEFT (NOT in front of the man)! He'll give you some kind of wine then he'll give you an after meal gift of 8 Potions! You can repeat this to get 24 potions.
+
+Avoiding the final battle
+If you don't want to fight Neo Exdeath (the transform of Exdeath) you need to use the command Mix (an ability
+of Chemist Job), then mix the items Maiden's Kiss & Holy Water to create Kiss of Blessing, then give it to Exdeath and kill him, he won't transform to Neo Exdeath & you can see the ending.
+
+Killing carbunle in 1 hit
+If you don't want to fight Neo Exdeath (the transform of Exdeath) you need to use the command Mix (an ability
+of Chemist Job), then mix the items Maiden's Kiss & Holy Water to create Kiss of Blessing, then give
+it to Exdeath and kill him, he won't transform to Neo Exdeath & you can see the ending.
+
+Make the game impossible.
+If you have a mystic knight on your party, cast Fire 3 and in the next round hit Carbuncle with it. It will not show any damage, but it will kill him.
+
+Alternate Tycoon Castle Scene
+In world one when you get the Hiryuu ( Dragon ) you have access to Tycoon Castle. If you go, there's a scene involving Leena and Faris where Leena suspects Faris may be her long lost sister, Sarisa, and Faris denies it. But, if you wait until after you get the airship it's an entirely different scene involving Leena's childhood.
+
+Defeat Catastrophe easily
+Before the battle with Catastrophe, equip a Wall Ring on one of your characters, and cast Float on that same character. Then, go into the battle. Whenever one of your characters is Floating, Catastrophe will always use Gravity100 to ground that character.  However, because that character has a Wall Ring, the attack will be reflected back at him. He will continue to use Gravity100 for the entire battle, allowing you to use any attacks you need to beat him without the fear of being killed.
+
+Easy Experience and Levels in World 2
+To get a relatively easy 2500 experience points and 5 AP in the second world, go to the Sealed Castle, the
+one with the legendary weapons. The random monster in there, an undead-looking dragon, is very powerful and is probably not meant to be defeatable at that point. However, if you have a character that can use the Control action you can defeat him with little or no damage.  He might resist being Controlled a few times, so perhaps multiple, fast characters with the ability might be useful, but one was enough for me. He might get some attacks in before you Control him successfully, though, so prepare to heal your party and possibly cure them from the Zombie status effect.  Once you successfully Control him, he has two attacks you can make him use on himself. DON'T make him Attack himself, or he'll break out of your Control. On that note, don't let any of your party members attack him either for that same reason, plus they wouldn't make much of a difference anyway. Instead choose
+him Flame attack, which will deal 4999 damage to himself! And since it's magic, he won't break your Control. He seems to have about 20, 000 HP or more, though, so it'll take five Flames to kill him. This worked for me consistently, but just remember to save often in case things don't go your way.
+
+Reviewer: Spinner 8
+http://www.romhacking.net/trans/353/
+What this does is make monsters extremely easy to beat, in fact if you spend longer than 5 seconds in battle there must be something wrong. This patch was requested of me in 2001 by someone who didn't want to play through the game normally but still wanted to see the story unfold.
+
+These patches were intended for those who want to participate in a good story without having to do mindless leveing and tedious battles.
+
+Tips:
+
+Unsealed Dark Elf's Cave
+I'm sure most of you remember that if you use weapons, armor, or accessories made out of any metal or any silver in the Dark Elf's cave. However, there's a little glitch that can be exploited if you don't feel like using wooden gear or your bare hands to fight.  Simply put, make sure all metallic/silver equipment is unequipped before the start of any random battle. Then when you get into battle, equip your metal weaponry(and shields, if you want) and you won't be paralyzed for that battle! Just remember to unequip the items after the battle and before the next battle
+and you can dominate your way through the Dark Elf's cave! As far as I know, this works in the Playstation and WonderSwan re-releases, too, but I know for a fact it works in the original FFII and FFIV carts.
+
+250 of a weapon!
+OK, this glitch is a way to get 250-255 of a weapon.  However, make sure you follow my directions EXACTLY how
+I say to, or else the trick will not work.  To start the trick, you need the Avenger sword, which you can find in the Sylvan cave in the underground, I think.  First, equip Cecil with arrows in his GOOD hand, and the any kind of bow in his BAD. Get into a battle (preferably an easy one), and make sure that nobody does anything. If a character's turn comes before his, have them parry (press right and the parry option will come up). Once it gets to Cecil's turn, enter the item screen. Grab the arrows he has equipped and bring them down to an empty slot. Without leaving the
+window, select the Avenger sword and move it up to his BAD hand.  From there, press B to exit the items window and his commands will disappear because the Avenger sword causes the person with it equipped to be berserked.
+Don't have any other characters do ANYTHING! Just let Cecil beat up all the enemies.  After the battle, go to the Equip screen for Cecil.  Move the Avenger sword to an empty slot, and then without leaving the screen move the sword you would like to duplicate 250 times into his GOOD hand (the one with the numbers). De-equip, and re-equip, and voila!  You should have a sword with a circle and a number next to it in your inventory. If not, make sure
+you followed my directions EXACTLY.  This works well for duplicating the Excalibur, and having Edge throw it for massive damage. Happy gaming!
+
+How to skip the Sealed Cave
+This has to be done right after the battle with Golbez in the underworld, right after the battle you get Rydia back. You cast Warp and you return to the Crystal Room with the Crystal returned. Doing this makes you completely eliminate the quest of the Sealed Cave.
+
+No MP cost Sylph spell
+Once you have the Sylph spell, simply arrange Rydia's spell list so that Sylph is in the top-right corner.  Whenever you cast the spell, Rydia will not lose any MP. Note, though, that if Rydia does not have at least 25 MP (the normal casting cost), you will not be able to select the spell for casting.
+
+Unlike the duplicate weapon trick, this glitch DOES NOT work in the PlayStation re-release (Final Fantasy Chronicles).
+
+Obtain the hidden summons quicke
+The Mage and Bomb summon spells are very random to archive after a battle with either a bomb or mage.  Hunting them down can very time consuming especially with a low encounter rate. A good way to enhance the chances of receiving it is with multiple kills in only one battle. You will need a lot of phoenix downs for this.  In a battle with either a mage or bomb (there must at least be two), memorize the party's attack order. With one member, select to kill the enemy. The next party member should IMMEDIATELY select a phoenix down and place it on the enemy. The result will be the enemy is killed and then resurrected by the next party member. You may repeat this for as many phoenix downs as you have, then finish the battle. The amount of treasure you earn will be a lot greater, and
+you will most likely earn a bomb or mage spell in the process.
+
+Item Duplication
+Firstly make sure you have the item you want to duplicate, and enter a battle and select the item option of the person with the item you wish to duplicate.  Then Scroll down to a blank space on the item list and press A to place a glove there, scroll back up to the equipped items then press A on the one you'll be duplicating, then press B to leave the screen.  Next, hold the L and R buttons to run from the battle, press X to see the subscreen, select Equip and the character who has the item, press A on empty spot the item used to occupy, then press A on the actual
+item that's now in the items list. You will now see that your character has two of the selected item equipped.
+
+http://www.romhacking.net/hacks/273/
+Final Fantasy V Plus - A Final Fantasy V enhancement
+
+FF5+ is an overall enhancement of the classic RPG Final Fantasy V for SNES.
+
+The goal of this project is to improve the game's variety, challenge, storyline and overall fun factor.
+
+Features:
+- Modification of all monsters and bosses
+
+- Tweaked game mechanics and modified jobs/abilities to improve balance
+
+- Increased character development with extra scenes and deeper personalities (long term goal)
+
+- Extra challenges and mini-games (long term goal)
+
+Thanks to:
+- samurai goroh for his excellent FF5 editor, which makes the hacking process much easier.
+
+- FinalMinuet and instructrtrepe for valuable technical info.
+
+- Lenophis for hosting the patch and the technical research section.
+
+Version 0.5 is the current version:
+- New areas: Karnak, Steamship, Karnak Castle and Ancient Library
+
+- Major formation changes
+
+- Major group changes
+
+- Item steals and drops altered
+
+- Items altered:
+
+ - Spears can be Double Gripped with damage increase
+
+ - Spears are now Back row OK
+
+ - Healing staff casts cure
+
+ - Rod breaking - Lvl 2 spells
+
+- Algorithms modified:
+
+ - Magic Sword does not ignore defense
+
+ - Berserk increases M, not Attack
+
+ - Blind status sets Hit% to 50%, not 25%
+
+- Text modified
+
+http://www.romhacking.net/forum/index.php/topic,5598.0.html
+This is a comedy / parody hack of Final Fantasy 5. Unlike most other "spoofs" out there, I have taken every precaution necessary to make sure this spoof doesn't end up filled with lame, juvenile humor.
+
+My four pillars were:
+
+- No crude humor.
+
+- The plot must be better than FF5's.
+
+- The characters must be believable.
+
+- It must be funny.
+
+I hope I have succeeded on all four, but only you can be the judge of that.
+
+http://www.romhacking.net/hacks/493/
+This patch makes FF5 much harder by beefing up the enemies. That's basically all that's in this version. I never finished doing anything else. So if you thought FF5 was too easy give this a try.
+
+http://www.romhacking.net/hacks/272/

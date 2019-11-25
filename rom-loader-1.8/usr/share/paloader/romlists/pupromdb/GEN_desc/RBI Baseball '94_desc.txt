@@ -1,0 +1,23 @@
+R.B.I. Baseball (Run Batted In Baseball) is a baseball video game for the Nintendo Entertainment System. It was produced by Tengen and originally released in 1987. RBI spawned two sequels on the NES as well as versions for the Mega Drive/Genesis, Sega 32X, Commodore Amiga, Super NES, Sega Game Gear, and Atari ST.
+
+Gameplay:
+
+Though RBI did not have an MLB license (giving them the right to use team nicknames or logos), they still gave you the selection of 8 MLB teams listed by city name - Boston, California, Detroit, Houston, Minnesota, New York, St. Louis, and San Francisco. There were also two All-Star teams, American League and National League, featuring players from teams other than the eight represented in the game. The eight teams were chosen because they were the playoff teams from the 1986 (Boston, California, Houston, New York) and 1987 (Detroit, Minnesota, St. Louis, San Francisco) MLB seasons. The All-Star teams featured such established veterans as George Brett, Dale Murphy and Andre Dawson, none of whom appeared on any of the other teams in the game, as well as up-and-coming players like Mark McGwire, Andr?s Galarraga and Jos? Canseco.
+
+Each player has different capabilities in the game; hitters vary in ability to make solid contact, to hit the ball with power, and their base running speed. Vince Coleman is the fastest player in the game; it is very difficult to catch him stealing second base. Pitchers vary in pitching speed, and the amount by which you can steer the ball left and right during its flight. Pitchers also have varying stamina; as a pitcher gets tired, the ball slows down and is harder to steer. Nolan Ryan and Roger Clemens are by far two of the best pitchers in the game. There is no evidence that fielding abilities correspond to individual players.
+
+The abilities of each player do not necessary correspond with the statistics shown on the screen when the player comes to bat or takes the mound. These statistics are generally accurate, with many exceptions (see below). They do not change during the course of the game or sequence of games.
+
+A rudimentary box score is displayed during and after the game showing composite statistics for each team. A hit batter is credited with a walk, and anyone reaching on an error gets credited for a hit even as the other team is charged with an error. Conversely, a batter thrown out while trying for extra bases is not credited with a hit.
+
+The rosters for the 8 teams are fairly accurate if simplified representations of the playoff rosters from their respective years. Each team has 8 starting batters, four bench players, two starting pitchers and two relievers. The player can start any pitcher they like, though the relievers have very low stamina. But if they play consecutive games without resetting the system, any starting pitcher used in the previous game will be unavailable. For pinch hitters, the player has to wait until the game starts before subbing players. Pinch hitters can substitute for any position player regardless of their actual skills.
+
+In Vs. RBI Baseball, the teams are made up of legends from 10 different franchises. These players were statistically represented with their best seasons. A notable exception was that of McGwire, who was included on the Oakland team, and was statistically represented by his potential numbers. In a remarkable display of foresight, he was projected to hit 62 home runs in his best season. In 1998, he set the major league record for home runs in a season with 70; Barry Bonds would break this record with 73 in 2001.
+
+Hints:
+
+- Play against Tengen Team -
+Enter ''TheChallenge'' as your password. You can now play against the people who made the game! Beat this team, and you will face the DREAM TEAM.
+
+http://www.gamefaqs.com/console/genesis/code/586408.html
+http://en.wikipedia.org/wiki/RBI_Baseball

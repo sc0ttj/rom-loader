@@ -1,0 +1,273 @@
+#!/bin/sh
+
+# these functions are used by the rejoystick (joypad setup) tab of Rom-Loader settings menu.
+# they are used to create different joypad controller profiles for different emulators
+# the backend is rejoystick, a command line utility which can map keystrokes to joypad buttons
+
+#note 
+#KEYSDIR is the dir with all the snes9x.keys, vlc.keys, etc etc in it
+#KEYSNAME is the name of the specific snes9x.keys, vlc.keys, etc , that we are working on
+#KEYSCFG the profile cfg file, which gets copied to /root/.rejoystick
+
+
+padialog () { # produces a little popup message box with the given message
+	export MSG='<window title="Rom-Loader"><vbox><text><label>"     '$1'     "</label></text><button ok></button></vbox></window>'
+	gtkdialog -c -p MSG	
+}
+
+get_rejoy_player (){
+
+	#get the currently selected player
+	PLAYER="`cat /tmp/paloader/rejoy_player`"
+
+	#set the player to use
+	if [ "${PLAYER:-PLAYER1}" = PLAYER1 ];then
+		export REJOY_BIN=rejoystick_p1
+		export REJOY_TITLE=Rejoystick-p1
+		export REJOY_RCFILE=/root/.rejoystick1rc
+		export PROFILEDIR="$PROFILEDIR_P1"
+	elif [ "${PLAYER:-PLAYER1}" = PLAYER2 ];then
+		export REJOY_BIN=rejoystick_p2
+		export REJOY_TITLE=Rejoystick-p2
+		export REJOY_RCFILE=/root/.rejoystick2rc
+		export PROFILEDIR="$PROFILEDIR_P2"
+	else #default
+		export REJOY_BIN=rejoystick_p1
+		export REJOY_TITLE=Rejoystick-p1
+		export REJOY_RCFILE=/root/.rejoystick1rc
+		export PROFILEDIR="$PROFILEDIR_P1"
+	fi	
+	
+}
+
+#clear the profile, so that it does not contian any controls at all
+clear_profile (){
+	get_rejoy_player
+	echo -n '' > "$PROFILEDIR/$PROFILE"
+	padialog "Cleared profile: $PROFILEDIR/$PROFILE"
+	
+}
+
+
+# if edit profile was clicked
+edit_profile () { # load rejoystick, edit controls, close rejoystick, if changes saved by rejoystick, copy changes to selected profile
+
+	get_rejoy_player
+
+	mkdir -p "$PROFILEDIR"
+
+	[ ! -f "$PROFILEDIR/$PROFILE" -o "$PROFILE" = "None" ] && exit
+	
+	# backup the profile before we change it, if not empty
+	if [ -s "$REJOY_RCFILE" ] ; then
+		cp -f "$REJOY_RCFILE" "${REJOY_RCFILE}.bak"
+	fi
+
+	# kill rejoystick so that it doesnt affect the editing of the selected profile, $PROFILE.... and because we delete its config file next...
+	killall -9 $REJOY_BIN &>/dev/null
+
+	# remove the original
+	rm $REJOY_RCFILE
+
+	# copy the profile settings to rejoystick*rc, if not empty
+	if [ -s "$PROFILEDIR/$PROFILE" ] ; then
+		cp -f "$PROFILEDIR/$PROFILE" "$REJOY_RCFILE"
+	fi
+	
+	# get controls for the selected profile (snes9x.keys, or fceu.keys, etc)
+	KEYSNAME=${PROFILE%\.*} # get the name without extension
+	
+	if [ "$SHOWGUI" = true ] && [ -s "$KEYSDIR/$KEYSNAME.keys" ];then # if a key controls file exists, and is not empty
+		#new method, update the text in the gui
+		TXT="`cat $KEYSDIR/$KEYSNAME.keys`" 
+		[ "$TXT" != "" ] && echo "${KEYSNAME^} Controls:
+
+$TXT" > /tmp/paloader/rejoystick_keys
+
+	else # showgui is false or profile is empty 
+
+		if [ "$SHOWGUI" = true ];then # profile must be empty
+			REPLY=''
+			# if a real profile was selected, ask to edit it as it is empty
+			[ "$KEYCFG" != "None" -a "$KEYCFG" != "" ] && Xdialog --title "Rom-Loader" --yesno "This file is empty. Would you like to open it in your text editor and add some emulator keyboard controls for ${KEYCFG}?" 0 0 || REPLY=1
+			REPLY=$?
+			[ $REPLY = 0 ] && defaulttexteditor $KEYSDIR/$KEYSNAME.keys
+		fi
+
+	fi
+	move_rejoystick(){
+		SCREEN_WIDTH="`xwininfo -root | grep Width`"
+		SCREEN_WIDTH="${SCREEN_WIDTH##* }"
+		rejoywid=''
+		for CNT in 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+		do
+			sleep 0.1
+			rejoywid="`xdotool search --name \"$REJOY_TITLE\"`"
+			#keep only the last line, its the most recent
+			[ "$rejoywid" != "" ] && break
+		done
+		rejoywid="`echo \"$rejoywid\" | tr ' ' '\n' | tail -1`"
+		case ${SCREEN_WIDTH:-600} in
+		4*0) move_x=30; move_y=80 ;;
+		6*) move_x=40; move_y=100 ;;
+		7*) move_x=80; move_y=150 ;;
+		102*) move_x=265; move_y=158 ;;
+		20*) move_x=500; move_y=165 ;;
+		*) move_x=265; move_y=158 ;;
+		esac
+		[ "$rejoywid" != "" ] && xdotool windowmove $rejoywid $move_x $move_y  # x y
+	}
+	# run tool to change profile settings, if one was chosen
+	if [ "$KEYCFG" != "None" -a "$KEYCFG" != "" ];then
+		move_rejoystick &
+		$REJOY_BIN --class=jwm-notitle
+	fi
+	
+	if [ -s $REJOY_RCFILE ] && [ "$KEYCFG" != "None" ];then # if *new* rejoystick rc file has some setings in it (default is/was blank)
+
+		# copy the new "/root/.rejoystickrc" to the profile folder
+		cp -f "$REJOY_RCFILE" $PROFILEDIR/$PROFILE
+
+		# save the backup over the file just edited, profile can be loaded later
+		if [ -s "${REJOY_RCFILE}.bak" ] ; then
+			cp -f "${REJOY_RCFILE}.bak" "$REJOY_RCFILE"
+		fi
+
+		#user must click load anyway, lets not restart it... load_profile can start it, if the user wishes
+		# restart the daemon with the new rc file
+		#killall -9 rejoystick
+		#rejoystick -d &
+
+		# alert user
+		if [ "$SHOWGUI" = true ];then
+			Xdialog --title 'Profile saved' --msgbox "Profile settings saved to '$PROFILEDIR/$PROFILE'\n\nClick the 'Load' button to enable it." 0 0
+		else 
+			echo "Profile settings saved to '$PROFILEDIR/$PROFILE'"
+		fi
+	else
+		# alert user
+		if [ "$SHOWGUI" = true ];then
+			Xdialog --title 'Profile not saved' --msgbox "Profile was empty. Settings not saved to '$PROFILEDIR/$PROFILE'" 0 0
+		else 
+			echo "Profile settings empty, not saved to '$PROFILEDIR/$PROFILE'"
+		fi
+	fi # end if new profile not empty
+}
+
+
+
+# if load profile was clicked
+load_profile () { # replace .rejoystickrc with the selected profile, restart rejoystick
+	
+	get_rejoy_player
+
+	mkdir -p "$PROFILEDIR"
+	
+	REPLY=""
+
+	# check size, confirm user wants to load the profile, if its empty
+	if [ "$SHOWGUI" = true ];then
+		if [ ! -s "$PROFILEDIR/$PROFILE" ] && [ "$PROFILE" != "None" ];then
+			Xdialog --title "Profile is empty" --yesno "The profile '$PROFILE' is empty.\nWould you like to load it anyway?" 0 0
+			REPLY=$?
+		else 
+			REPLY=0
+		fi
+	else 
+		REPLY=0
+	fi
+	
+	if [ "$REPLY" = 0 ] ;then # update profile, unless user clicked 'no'
+		# copy the chosen profile to /root/.rejoystickrc
+		cp -f $PROFILEDIR/$PROFILE "$REJOY_RCFILE"
+		# restart rejoystick
+		killall -9 $REJOY_BIN &>/dev/null
+		# restart it only if a profile was selected
+		[ "$PROFILE" != "None" ] && $REJOY_BIN -d &
+		[ "$PROFILE" = "None" ] && killall -9 $REJOY_BIN &>/dev/null
+		# update GUI with current profile
+		CURRENT=$PROFILE
+		# update config file  with current profile
+		echo CURRENT="\"$PROFILE\"" > "$REJOYRCFILE"
+		echo "Current Profile: $PROFILE" > /tmp/paloader/rejoystick_current_profile
+		# inform user
+		if [ "$SHOWGUI" = true ] ;then
+			Xdialog --title 'Profile now in use' --msgbox "Profile '$PROFILE' is now in use." 0 0
+		else 
+			echo "Profile $PROFILE now in use."
+		fi
+	else # REPLY=1 (no load profile)
+		echo "Profile '$PROFILE' not loaded."
+	fi
+}
+
+check_joy (){ #make sure a joypad or joystick is present
+
+	get_rejoy_player
+
+	JOYPAD0=`/usr/bin/jscal /dev/input/js0 | head -n 1`
+	[ "$JOYPAD0" = "" ] && Xdialog --title 'Not Ready' --yesno "Joypad not found.\n\nCheck for joypads and try again?" 10 50
+	REPLY=$?
+	if [ "$REPLY" = 0 ];then #answer was yes
+		#  check for and calibrate the joypad(s) silently
+		JOYPAD0=`/usr/bin/jscal /dev/input/js0 | head -n 1` # get the first line of jscal results, empty if no pad found
+		echo "$JOYPAD0"
+		# if pad was found
+		[ "$JOYPAD0" != "" ] && echo "$JOYPAD0" > "/root/.rejoystickrc" # create a dummy file
+		### now can re-run the program and it-ll work fine
+		paloader_settings --tab 2 & # reload at the Controls tab
+		exit
+	fi
+}
+
+check_rejoystickrc () { # check if rejoystickrc has been created
+	
+	get_rejoy_player
+
+	#check_joy
+	SHOWGUI=true
+	TXT="`cat $KEYSDIR/$KEYSNAME.keys`" 
+	echo "${KEYSNAME^} Controls:
+
+$TXT" > /tmp/paloader/rejoystick_keys
+	
+	#if [ -e "/root/.rejoystickrc" ];then # if rejoystick has loaded before
+
+		#create the default keys file if it doesnt exist
+		# for now, we will just put a text description about rejoystickcc in there
+		# when a user chooses edit_profile, the text will be updated with the kys for that profile
+		[ ! -f /tmp/paloader/rejoystick_keys ] && cp "$KEYSDIR/$KEYSNAME.keys" /tmp/paloader/rejoystick_keys
+		
+		# execute before GUI, if options set in command line
+		if [ "$PROFILE" != "nowt" ] && [ "$LOADP" = true ] ;then
+			export SHOWGUI=false
+			export PROFILE="$PROFILE.cfg"
+			load_profile
+		elif [ "$PROFILE" !=  "nowt" ] && [ "$EDITP" = true ]; then
+			export SHOWGUI=false
+			export PROFILE="$PROFILE.cfg"
+			edit_profile
+		fi
+
+		if [ "$SHOWGUI" = true ];then
+
+			# set 1st element
+			export REJOYLIST="<item>$CURRENT</item>"
+			# add 'None' to list, if not selected
+			[ "$CURRENT" != "None" ] && export REJOYLIST=`echo "$REJOYLIST<item>None</item>"`
+			# set GUI elements
+			for i in $PROFILEDIR/*.cfg
+			do
+				KEYCFG=`basename $i`
+				# don't add default as duplicate, add all others to list
+				[ "$KEYCFG" != "$CURRENT" ] && export REJOYLIST=`echo "$REJOYLIST<item>$KEYCFG</item>"`
+			done
+		else
+			Xdialog --title 'Not Ready' --yesno "Joypad not found.\n\nCheck for joypads and try again?" 10 50
+			REPLY=$?
+			if [ "$REPLY" = 0 ];then #answer was yes
+				check_joy
+			fi
+		fi #end if showgui
+	#fi
+}

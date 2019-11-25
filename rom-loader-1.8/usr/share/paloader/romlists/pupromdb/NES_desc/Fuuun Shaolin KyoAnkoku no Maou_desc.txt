@@ -1,0 +1,23 @@
+Fuuun Shaolin Kyo - Ankoku no Maou is an Action game, developed and published by Jaleco Entertainment, which was released in Japan in 1988.
+
+http://www.gamefaqs.com/console/fds/home/578582.html
+*
+********************************************** G **********************************************
+*
+546589ab
+Ghost Manor
+Platform - Famicom Disk System
+Region - Japan (Translated)
+Media - Disk
+Controller - NES Gamepad
+Genre - Maze , Platformer
+Release Year - 2008
+Original Title - Youkai Yashiki
+Translated By - KingMike's Translations
+Version - 1.0
+@END
+This is a simple but fun little maze platformer for the FDS. You must find your way through several levels, searching for the flags so you can defeat various Japanese monsters. Only then will you be able to save your girlfriend. A port of an MSX game, this one has improved graphics and some new level design.
+
+This patch only translates the title screen, but that is believed to be the only Japanese text.
+
+http://www.romhacking.net/trans/1308/

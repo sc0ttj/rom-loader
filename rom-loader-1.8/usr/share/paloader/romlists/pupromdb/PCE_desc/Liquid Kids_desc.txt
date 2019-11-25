@@ -1,0 +1,19 @@
+Liquid Kids by Taito is a typically japanese cuddly-type jump'n run game which might be named as one of the successors of the classic Bubble Bobble game: this time, you're an ugly duckling armed with watery bubbles which will quench fire, or stun your enemies.
+
+The game is organized in worlds which feature a set of levels all done in the same graphical style, and of course an extra-nasty boss creature. Unlike Bubble Bobble, the levels scroll vertically and/or horizontally, and you have to face off hordes of enemies as well as spikes and other static hazards to make it alive through to your family's nest. Collectible bonuses like extra lives, invincibility pills or water taps which give you bigger water bubbles or a faster firing rate even out your odds agains your enemies. The experienced player can also find any number of shortcuts, which will warp him through the levels. 
+
+Liquid Kids is a Platform/Arcade game by TAITO,released in 1990. It is a very representative example of TAITO's gaming philosophy: Colourful,cute graphics,Merry soundtracks,Awesome playability...as well as a cute (although given for granted) plot. Technically,the game uses TAITO's F2 system,which makes it a 16-bit game. It uses more than 64 colors on screen,one layer of parallax scrolling, animated/color changing backgrounds,hardware bitmap rotation,lots and huge sprites on screen,omni-directional smoothscrolling,and also a digital music system (MOD,S3M-alike) as well as digitised SFX.
+
+COMMENT:
+
+Liquid Kids might not be eveybody's favourite, but in my book, it is a decent enough game to enjoy. Since the game is straightforward, you don't miss much by not being able to read the japanese intermission texts - they're probably something like the usual "Well done!" stuff. As mentioned above, the learning curve of this game is quite steep - the first world is dead easy to complete, and no indication of the rest of the game. When you start tackling the third and fourth world, you'll really be grateful that you have 6 continues to get anywhere in the game.
+
+COMPARISON:
+
+Between us,this is a topic one can't avoid when talking about Liquid Kids or New Zealand Story (NZS).
+Well,hang on everybody: this game (Liquid Kids) can be considered the ONE and ONLY heir/sequel to NZS.The many features they have in common,as well as their differences and complementarities really enforce this point of view.
+
+Although technically there is some distance between the two games (NZS is an 8-bit game while LK is 16-bit),similarities begin in the display style: Taito insists her cute (and a little humouristic) cartoonish style used on NZS,enhanced with a more colourful look and emphasizing the humouristic part (just look at some enemies or death sequences or expressions...)... Even the screen font is the same,the one used for NZS (and re-appears only in LK). Music has been enhanced,as now every stage has it's own music (7 Stages, 7 Tunes) while NZS only had one. gameplay has been changed a lot.Here follows a comparison table,between Tiki (NZS's hero) and Hipopo (LK's hero).
+
+http://baetzler.de/vidgames/Hu-reviews.var
+http://www.gamefaqs.com/console/turbo16/file/589019/8698

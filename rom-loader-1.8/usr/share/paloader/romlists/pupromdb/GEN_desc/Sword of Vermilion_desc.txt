@@ -1,0 +1,33 @@
+Eighteen years ago, the evil King Tsarkon of Cartahena ivaded Excalabra, destroying the fertile fields and peaceful folk of that once-prosperous land. King Erik of Excalabra saw that he could do nothing to stop the hordes that stormed his castle walls. He ordered his bravest kinght, Blade, to escape with the king's infant son and raise him far from the land of his birth.
+
+Blade journeyed far, at last settling in the isolated village of Wyclif. There he raised the prince, never telling him of his royal heritage. Eighteen years passed, and the young prince grew into a strong, skillful warrior. On the day of Blade's death, the prince learned of his true identity. He vowed to fulfill his destiny and avenge his father's death.
+
+--From the Genesis Sword of Vermilion instruction manual.
+
+Gameplay:
+
+The gameplay features different views and play style from the more traditional RPGs at the time.
+
+    - The Town View would utilize the typical overhead angle found in most RPGs. This is the only view where the player's status cannot be viewed during gameplay.
+
+    - The Battle View would be a tilt overhead view where the player takes full control of the character in real-time combat action. The player can use weapons and magic. There is nothing that is menu-based.
+
+    - The Dungeon View would be in a first person perspective where an array of sprites represent the maze corridors' walls.
+
+    - The Boss View puts the player up against a boss resembling a platform game.
+
+Hints:
+
+- Quick Cash -
+
+In Keltwick, when Bearwulf gives you the dungeon key to get to Malaga, sell it. It's worth 1000 kims and Bearwulf has an unlimited amount of them. Just go back, talk to him and he'll say ''Did you lose the key? I have another one.'' He'll give it to you, and you can repeat the process as much as you want.
+
+- Test Menu -
+
+During any time during the game, simultaneously press and hold the A, B and C buttons and press Start on controller 2.
+
+A test menu should appear with Input, Sound and C.R.T tests. And when you exit, it will send you back to the Sega logo screen.
+
+http://www.gamefaqs.com/console/genesis/code/586515.html
+http://www.consoleclassix.com/genesis/sword_of_vermilion.html
+http://en.wikipedia.org/wiki/Sword_of_Vermilion

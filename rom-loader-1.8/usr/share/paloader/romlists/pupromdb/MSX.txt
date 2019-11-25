@@ -1,0 +1,682 @@
+007 A View to a Kill|NOID|5212709D|x|0|1986|Action , Adventure|Europe|Domark|Domark|No Rating|Disk|Keyboard|MSX
+10-Yard Fight|NOID|4e20d256|x|0|1986|Sports , Football|Japan|Irem Corp.|Irem Corp.|No Rating|Cartridge|Keyboard|MSX
+10th Frame|NOID|4FB87B3E|x|0|1987|Sports , Bowling|Europe|US Gold|Access Software|No Rating|Disk|Keyboard,|MSX
+1942|NOID|a27787af|x|0|1986|Shoot 'em Up|Japan|ASCII|Capcom|No Rating|Cartridge|Keyboard|MSX
+3-D Bomber Man|NOID|AF3B6498|x|0|1984|Action , 3D|Japan|Hudson Soft / Japanese|Hudson Soft / Japanese|No Rating|Disk|Keyboard,|MSX
+3-D Golf Simulation|NOID|0c989ad1|x|0|1983|Sports , Golf|Japan|T&ESOFT|T&ESOFT|No Rating|Cartridge|Keyboard|MSX
+3-D Golf Simulation- High-speed Ed|NOID|cb935a50|x|0|1984|Sports , Golf|Europe|T&ESOFT|T&ESOFT|No Rating|Cartridge|Keyboard|MSX
+98 Attackers|NOID|CE06FF2A|x|0|1990|Shoot 'em Up|Europe|Satico|Satico|No Rating|Disk|Keyboard,|MSX
+A.E.|NOID|2e1b3dd4|x|0|1982|Shoot 'em Up|Japan|Toshiba EMI|Programmers 3|No Rating|Cartridge|Keyboard,|MSX
+A1 Spirit the Way to Formula-1|NOID|2608C959|x|0|1987|Racing , Top|Japan|Konami|Konami|No Rating|Carttridge|Keyboard,|MSX
+Ace of Aces|NOID|2761A392|x|0|1986|Flight Simulator ,|Europe|US Gold|US Gold|No Rating|Disk|Keyboard,|MSX
+Actman|NOID|e4dbcdbd|x|0|1985|Platformer , Puzzle|Japan|Mass Tael|Mass Tael|No Rating|Cartridge|Keyboard|MSX
+Adven' Chuta!|NOID|96e02df3|x|0|1983|Adventure , Top|Japan|No Publisher|dev-unknown|No Rating|Cartridge|Keyboard|MSX
+Afterburner|NOID|1939D4AD|x|0|1988|Shoot 'em Up|Europe|Activision|SEGA|No Rating|Disk|Keyboard,|MSX
+Afteroids|NOID|5F7E0A28|x|0|1988|Shoot 'em Up|Europe|Zigurat|Made in Spain|No Rating|Disk|Keyboard,|MSX
+Agees|NOID|6E8E99C1|x|0|No Date|Role Playing Game|Japan|Kogado|Kogado|No Rating|Disk|Keyboard|MSX
+Albatross|NOID|847FC6E2|x|0|1986|Sports , Golf|Japan|Telenet Japan|Telenet Japan|No Rating|Cartridge|Keyboard|MSX
+Alcazar the Forgotten Fortress|NOID|3ee454b0|x|0|1985|Adventure , Fantasy|Japan|Activision|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Ale Hop!|NOID|03955C76|x|0|1988|Action , Side-Scrolling|Europe|Topo Soft|Topo Soft|No Rating|Disk|Keyboard,|MSX
+Alibaba and 40 Thieves|NOID|2f72b1e3|x|0|1984|Maze , Fixed|Japan|Sony|ICM|No Rating|Cartridge|Keyboard|MSX
+Alien 8|NOID|93a25be1|x|0|1987|Puzzle , Adventure|Japan|Jaleco|Ultimate Play The Game|No Rating|Cartridge|Keyboard|MSX
+Aliens Alien II|NOID|c6fc7bd7|x|0|1987|Shooter , Side-Scrolling|Japan|Square|Square|No Rating|Cartridge|Keyboard|MSX
+Alpha Roid|NOID|4ef7c4e7|x|0|1986|Shoot 'em Up|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Alpha Squadron|NOID|055254e0|x|0|1984|Shoot 'em Up|Japan|No Publisher|AG Corp.|No Rating|Cartridge|Keyboard|MSX
+Amaurote|NOID|8E614BCE|x|0|1987|Action , Adventure|Europe|M.A.D.|Mastertronic|No Rating|Disk|Keyboard|MSX
+American Truck|NOID|ee8bc1b7|x|0|1985|Racing , Top|Japan|Telenet Japan|Telenet Japan|No Rating|Cartridge|Keyboard|MSX
+Anaza Kaleidoscope Special|NOID|7dc880eb|x|0|1987|Shoot 'em Up|Japan|HOT-B|GA-Yume|No Rating|Cartridge|Keyboard|MSX
+Angelo|NOID|20143ec7|x|0|1984|Shoot 'em Up|Japan|ASCII|Mass Tael|No Rating|Cartridge|Keyboard|MSX
+Antarctic Adventure|NOID|aae7028b|x|0|1984|Platformer , 3D|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Anty|NOID|b1ace0a0|x|0|1984|Action , Adventure|Japan|ASCII|Bothtec|No Rating|Cartridge|Joystick|MSX
+Aquapolis SOS|NOID|f115257a|x|0|1983|Action , Adventure|Japan|Nisso|General|No Rating|Cartridge|Keyboard|MSX
+Aquattack|NOID|f3297895|x|0|1984|Action , Adventure|Japan|Toshiba EMI|Interphase|No Rating|Cartridge|Keyboard|MSX
+Aramo|NOID|ab6b56ba|x|0|1986|Adventure , 3D|Japan|XAIN / Sein|XAIN / Sein|No Rating|Cartridge|Keyboard|MSX
+Arkanoid|NOID|c9a22dfc|x|0|1986|Breakout|Japan|Taito|Taito|No Rating|Cartridge|Keyboard|MSX
+Astro Blaster|NOID|B0FA7831|x|0|1988|Shoot 'em Up|Europe|Premium III Software Distribution|Eurosoft|No Rating|Disk|Keyboard,|MSX
+Athletic Ball|NOID|11bac0e6|x|0|1984|Adventure , Action|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Athletic Land|NOID|7b1acdea|x|0|1984|Platformer , Side-Scrolling|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Attack Four Volley Ball|NOID|7fdf81e9|x|0|1986|Sports , Volleyball|Japan|Pax Softonica|Pax Softonica|No Rating|Cartridge|Keyboard|MSX
+Attack of the Killer Tomatoes|NOID|61A53222|x|0|1986|Action , Adventure|Europe|Global Software|Global Software|No Rating|Disk|Keyboard,|MSX
+Auf Wiedersehen Monty|NOID|BD71C844|x|0|1987|Adventure , Action|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Avenger|NOID|F5E308B9|x|0|1986|Adventure , Top|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+B.C.'s Quest|NOID|9C9420D0|x|0|1985|Action , Side-Scrolling|Japan|Toshiba EMI|Sydney / Interphase|No Rating|Cartridge|Keyboard,|MSX
+Babel the New Megablocks|NOID|E700B2E2|x|0|1994|Puzzle , Fixed|Europe|Cabinet|Marcus Vega Coso|No Rating|Disk|Keyboard|MSX
+Back To the Future|NOID|dbdb64ac|x|0|1986|Adventure , Action|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Backgammon|NOID|B632B6BB|x|0|1985|Board Game ,|Japan|Sony|Tecno Soft|No Rating|Cartridge|Keyboard|MSX
+Balance|NOID|cdabd75b|x|0|1985|Puzzle , Side-Scrolling|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Banana|NOID|6aa7cbe0|x|0|1984|Adventure , Action|Japan|ASCII|Studio GEN|No Rating|Cartridge|Keyboard|MSX
+Bank Panic|NOID|d5e18df0|x|0|1986|Shooter , Side-Scrolling|Japan|Sega|Pony Canyon|No Rating|Cartridge|Keyboard,|MSX
+Barbarian I|NOID|12A7028F|x|0|1988|Adventure , Hack|Europe|Mastertronic Ltd.|Melbourne House|No Rating|Disk|Keyboard|MSX
+Barbarian II the Dungeon of Drax|NOID|957DA801|x|0|1988|Beat 'em Up|Europe|Erbe Software|Palace Software|No Rating|Disk|Keyboard,|MSX
+Batman|NOID|637f0494|x|0|1986|Action , Adventure|Japan|Ocean|Pack-In-Video|No Rating|Cartridge|Keyboard|MSX
+Batten Tanuki no Daibouken|NOID|EBA0738D|x|0|1986|Adventure , Action|Japan|Tecno Soft|Tecno Soft|No Rating|Cartridge|Keyboard|MSX
+Battle Cross|NOID|25e675ea|x|0|1984|Adventure , Action|Japan|Sony|Omori Electronics Corporation|No Rating|Cartridge|Keyboard|MSX
+Battle Tetris|NOID|5A5748F7|x|0|2004|Puzzle , Fixed|HomeBrew|No Publisher|dev-unknown|No Rating|Cartridge|Keyboard,|MSX
+Battleship Clapton II|NOID|85f4767b|x|0|1984|Shoot 'em Up|Japan|Toshiba|T&ESOFT|No Rating|Cartridge|Keyboard|MSX
+Beach-Head|NOID|785FA4CC|x|0|1987|Simulation , Shooter|Europe|Eaglesoft|Access Software|No Rating|Cartridge|Ketboard|MSX
+Beam Rider|NOID|1553e408|x|0|1984|Shoot 'em Up|Japan|Activision|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Becky|NOID|909B81FB|x|0|1983|Platformer , Fixed|Japan|MIA|MIA|No Rating|Cartridge|Keyboard|MSX
+Bee and Flower|NOID|0ad3707d|x|0|1983|Shoot 'em Up|Japan|REIZON|REIZON|No Rating|Cartridge|Keyboard|MSX
+Bifamu|NOID|f3c1119a|x|0|1984|Shooter , Strategy|Japan|Bandai|Nippon Sunrise|No Rating|Cartridge|Keyboard|MSX
+Binary Land|NOID|FBACBC7A|x|0|1984|Puzzle , Top|Japan|Al Alamiah|Hudson Soft / Japanese|No Rating|Cartridge|Keyboard|MSX
+Black Beard|NOID|ECC3726F|x|0|1988|Action , Adventure|Japan|Tope Soft|Topo Soft|No Rating|Disk|Keyboard|MSX
+Blagger|NOID|50475a7c|x|0|1984|Platformer , Puzzle|Japan|Alligata|Microcabin|No Rating|Cartridge|Keyboard,|MSX
+Block Hole|NOID|824AE486|x|0|1990|Puzzle , Shooter|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Blockade Runner|NOID|8334b431|x|0|1984|Shoot 'em Up|Japan|Toshiba EMI|Interphase|No Rating|Cartridge|Keyboard|MSX
+Blow Up|NOID|4E08BD31|x|0|1987|Action , Block|Europe|Eurosoft|Eurosoft|No Rating|Disk|Keyboard,|MSX
+BMX Rekencross|NOID|BB0055EA|x|0|1985|Maze , Action|Europe|Philips|Longman / Vifi International|No Rating|Disk|Keyboard,|MSX
+Boardello|NOID|63AC9FAA|x|0|1985|Puzzle , Fixed|Europe|Bubble Bus|Bubble Bus|No Rating|Disk|Keyboard,|MSX
+Boggy '84|NOID|ec089246|x|0|1984|Platformer|Japan|Nippon Columbia|Colpax|No Rating|Cartridge|Keyboard,|MSX
+Boing Boing|NOID|F44E7FCD|x|0|1985|Platformer , Puzzle|Europe|Sony Spain|Idealogic|No Rating|Cartridge|Keyborad|MSX
+Bokosuka Wars|NOID|dd6d9aad|x|0|1984|Strategy , Side-Scrolling|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Bomber King|NOID|8cf0e6c0|x|0|1988|Action , Adventure|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Bomber Man|NOID|9a5aef05|x|0|1983|Maze , Fixed|Japan|Hudson Soft|Honeybee Soft|No Rating|Cartridge|Keyboard|MSX
+Bomber Man Special|NOID|042ad44d|x|0|1986|Maze , Fixed|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Boogie Woogi Jungle|NOID|90ccea11|x|0|1983|Platformer|Japan|Ample Software|Ample Software|No Rating|Cartridge|Keyboard,|MSX
+Boomerang|NOID|0a140b27|x|0|1984|Maze , Platformer|Japan|ASCII|SunSoft|No Rating|Cartridge|Keyboard|MSX
+Booty|NOID|78CEF13F|x|0|1988|Puzzle , Action|Europe|Premium III Software Distribution|Eurosoft|No Rating|Disk|Keyboard,|MSX
+Borfes and the 5 Demons|NOID|F2F2F0C8|x|0|1987|Role Playing Game|Japan|XtalSoft|XtalSoft|No Rating|Cartridge|Keyboard,|MSX
+Borfesu|NOID|e040e8a1|x|0|1987|Role Playing Game|Japan|XtalSoft|XtalSoft|No Rating|Cartridge|Keyboard|MSX
+Bosconian|NOID|02f1997a|x|0|1984|Shoot 'em Up|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Bouken Roman Dota|NOID|57efca5a|x|0|1986|Action , Adventure|Japan|System Soft|System Soft|No Rating|Cartridge|Keyboard|MSX
+Boulder Dash|NOID|A3A56524|x|0|1985|Puzzle , Scrolling|Japan|Databyte|First Star Software|No Rating|Cartridge|Keyboard,|MSX
+Boulder Dash II Rockford's Riot|NOID|F8AD6E11|x|0|1986|Puzzle , Action|Europe|Databyte|First Star Software|No Rating|Disk|Keyboard,|MSX
+Bounce|NOID|B2F73204|x|0|1987|Breakout , Action|Europe|Methodic Solutions|Methodic Solutions|No Rating|Disk|Keyboard,|MSX
+Bouncing Block|NOID|CF270C3B|x|0|1988|Puzzle , Block|Europe|Idealogic|Idealogic|No Rating|Cartridge|Keyboard|MSX
+Bounder|NOID|0D4E7BDC|x|0|1985|Puzzle , Action|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Brain|NOID|bb402b47|x|0|1983|Educational|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Break In|NOID|8801b31e|x|0|No Date|Breakout , Fixed|Japan|Jaleco|The Bytebusters|No Rating|Cartridge|Keyboard|MSX
+Break Out|NOID|70113f76|x|0|1983|Breakout , Fixed|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Brian Jacks Superstar Challenge|NOID|859A40F9|x|0|1986|Sports , Competitive|Europe|Martech Games|Martech Games|No Rating|Disk|Keyboard,|MSX
+Brother Adventure|NOID|3CA757D0|x|0|1987|Platformer , Puzzle|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Bruce Lee|NOID|a20b196d|x|0|1985|Platformer|Japan|Comptiq|Comptiq|No Rating|Cartridge|Keyboard|MSX
+Bubble Bobble|NOID|6D1B1EE1|x|0|1988|Puzzle , Platformer|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Bubbler|NOID|6145622F|x|0|1987|Action , Isometric|Europe|Ultimate Play The Game|Ultimate Play The Game|No Rating|Disk|Keyboard,|MSX
+Buck Rogers Planet of Zoom|NOID|A9DA08A9|x|0|1983|Shoot 'em Up|Europe|Philips|SEGA|No Rating|Disk|Keyboard,|MSX
+Buggy Ranger|NOID|EDC6A9D2|x|0|1990|Action , Side-Scrolling|Europe|Dinamic|Dinamic|No Rating|Disk|Keyboard|MSX
+Bumpy|NOID|E97FECEF|x|0|1983|Maze , Puzzle|Europe|Grupo de Trabajo Software|Grupo de Trabajo Software|No Rating|Disk|Keyboard,|MSX
+Burgertime|NOID|e4a7c230|x|0|1986|Platformer , Fixed|Japan|Data East|Dempa|No Rating|Cartridge|Keyboard|MSX
+Buru To Marty K Inspecteur Z|NOID|9cf39bd6|x|0|1986|Platformer|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Buster Block|NOID|00F419E2|x|0|1985|Maze , Action|Europe|Kuma Computers|Kuma Computers|No Rating|Disk|Keyboard,|MSX
+Butamaru Pants|NOID|4b2aa972|x|0|1986|Action , Adventure|Japan|HAL Laboratory|Yanada|No Rating|Cartridge|Keyboard|MSX
+Buzz Off!|NOID|2B547ACA|x|0|1984|Puzzle , Action|Europe|Electric Software|Electric Software|No Rating|Disk|Keyboard,|MSX
+Bytebusters|NOID|F4B44D4C|x|0|1985|Shoot 'em Up|Europe|Aackosoft|Aackosoft|No Rating|Disk|Keyboard,|MSX
+C-SO!|NOID|DF8BFC89|x|0|1985|Platformer , Fixed|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard|MSX
+Cabbage Patch Kids|NOID|057d2790|x|0|1984|Platformer|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Candoo Ninja|NOID|b6ab6786|x|0|1983|Beat 'em Up|Japan|ASCII|Mass Tael|No Rating|Cartridge|Keyboard|MSX
+Cannon Ball|NOID|a667ad8a|x|0|1983|Shooter , Fixed|Japan|Hudson Soft|Japanese Softbank|No Rating|Cartridge|Keyboard,|MSX
+Cannon Fighter|NOID|9C7FB01E|x|0|1984|Puzzle , Maze|Japan|Policy|Policy|No Rating|Cartridge|Keyboard,|MSX
+Captain Chef|NOID|8e985857|x|0|1984|Maze , Fixed|Japan|Nippon Columbia|Colpax|No Rating|Cartridge|Keyboard|MSX
+Car Fighter|NOID|303187f5|x|0|1985|Racing , Top|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Car Jamboree|NOID|94fc9169|x|0|1984|Arcade , Cars|Japan|Sony|Omori Electric Company (OEC)|No Rating|Cartridge|Keyboard,|MSX
+Car-Race|NOID|3f0db564|x|0|1983|Racing , Top|Japan|Ample Software|Ample Software|No Rating|Cartridge|Keyboard|MSX
+Casio Daishogai Keiba|NOID|5312DB08|x|0|1984|Gambling , Horse|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Casio Pachinko-U.F.O.|NOID|4088EFAA|x|0|1984|Sports , Horse|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Casio Ski Command|NOID|D8750242|x|0|1985|Adventure , Action|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Casio Worldopen|NOID|338491f5|x|0|1985|Sports , Golf|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Castle|NOID|2149c32d|x|0|1985|Adventure , Action|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Castle Excellent|NOID|90f38029|x|0|1986|Action , Adventure|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Chack'n Pop|NOID|04f7e0b1|x|0|1984|Platformer , Puzzle|Japan|Taito|Taito|No Rating|Cartridge|Keyboard|MSX
+Champion Boxing|NOID|c4b7a5b9|x|0|1985|Sports , Boxing|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Champion Ice Hockey|NOID|bf4b018f|x|0|1986|Sports , Hockey|Japan|Sega|Sega|No Rating|Cartridge|Keyboard|MSX
+Champion Pro Wrestling|NOID|6686c84e|x|0|1985|Sports , Boxing|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Champion Soccer|NOID|67ab6f8f|x|0|1984|Sports , Football|Japan|Sega|Sega|No Rating|Cartridge|Keyboard|MSX
+Championship Lode Runner|NOID|2f75e79c|x|0|1985|Sports , Football|Japan|Sony|Doug Smith|No Rating|Cartridge|Keyboard,|MSX
+Chase H.Q.|NOID|06D2F91A|x|0|1989|Racing , Third|Japan|Erbe Software|Ocean|No Rating|Disk|Keyboard,|MSX
+Checkers in TanTan Tanuki|NOID|d2b8c058|x|0|1985|Maze|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Chess|NOID|11EED1C7|x|0|1984|Chess , Strategy|Japan|Sony|B.U.G. Inc.|No Rating|Cartridge|Keyboard|MSX
+Chicagos 30|NOID|41D6269A|x|0|1988|Shooter , Side-Scrolling|Europe|Topo Soft|Topo Soft|No Rating|Disk|Keyboard,|MSX
+Chiller|NOID|D1AD4ED7|x|0|1985|Platformer , Puzzle|Europe|Mastertronic|Mastertronic|No Rating|Disk|Keyboard,|MSX
+Choplifter|NOID|1f5eafc8|x|0|1985|Shoot 'em Up|Japan|Sony|Dan Gorlin|No Rating|Cartridge|Keyboard|MSX
+Choro Q|NOID|5506bf9b|x|0|1984|Platformer , Cars|Japan|Taito|Taito|No Rating|Cartridge|Keyboard,|MSX
+Choy-Lee-Fut Kung-Fu Warrior|NOID|5F73BAC5|x|0|1990|Action , Adventure|Europe|Positive|Positive|No Rating|Disk|Keyboard|MSX
+Chubby Gristle|NOID|1257CA62|x|0|1987|Platformer , Puzzle|Europe|Grandslam Entertainments|Grandslam Entertainments|No Rating|Disk|Keyboard,|MSX
+Circus Charlie|NOID|83b8d8f3|x|0|1984|Action , Adventure|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+City Connection|NOID|6031a583|x|0|1986|Platformer , Cars|Japan|Jaleco|Nippon Dexter|No Rating|Cartridge|Keyboard|MSX
+Coaster Race|NOID|399fd445|x|0|1986|Racing , 3D|Japan|Sony|Sony|No Rating|Cartridge|Keyboard|MSX
+Coliseum|NOID|B8BA0608|x|0|1988|Racing , Fantasy|Europe|KIXX|Topo Soft|No Rating|Disk|Keyboard,|MSX
+Colony|NOID|F0656FDE|x|0|1987|Action , Adventure|Europe|Bulldog|Mastertronic|No Rating|Disk|Keyboard,|MSX
+Color Ball|NOID|12552a1f|x|0|1984|Sports , Frying|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard,|MSX
+Colt 36|NOID|DBEDF762|x|0|1987|Light Gun ,|Europe|Topo Soft|Topo Soft|No Rating|Disk|Keyboard,|MSX
+Comando Quatro|NOID|8D1E6C57|x|0|1989|Action , Adventure|Europe|Zigurat|Zigurat|No Rating|Disk|Keyborad,|MSX
+Comando Tracer|NOID|3044DA54|x|0|1989|Shoot 'em Up|Europe|Dinamic|Dinamic|No Rating|Disk|Keyboard,|MSX
+Come On! Picot|NOID|98b1cc99|x|0|1986|Platformer|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Comecocos|NOID|5CFC6700|x|0|No Date|Puzzle , Maze|Europe|Idealogic|Idealogic|No Rating|Cartridge|Keyboard|MSX
+Comet Tail|NOID|74af0726|x|0|1983|Maze|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Comic Bakery|NOID|a4097e41|x|0|1984|Platformer , Puzzle|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Computer Othello|NOID|6936c965|x|0|1983|Board Game|Japan|Sony|Sony|No Rating|Cartridge|Keyboard|MSX
+Computer Pachinko|NOID|1BD2C6B3|x|0|1984|Pachinko , Puzzle|Japan|Sony|JWD Corp.|No Rating|Cartridge|Keyboard|MSX
+Con-dori|NOID|d9006ebe|x|0|1983|Action , Adventure|Japan|Cross Talk|Cross Talk|No Rating|Cartridge|Keyboard|MSX
+Confused|NOID|63084E71|x|0|1986|Puzzle|Europe|Al Alamiah|The Bytebusters|No Rating|Cartridge|Keyboard|MSX
+Continental Circus|NOID|63C18F22|x|0|1989|Racing , Third|Europe|Virgin Mastertronic|Taito|No Rating|Disk|Keyboard,|MSX
+Cosmo|NOID|5780acfd|x|0|1984|Adventure , Action|Japan|ASCII|NEXA|No Rating|Cartridge|Keyboard|MSX
+Cosmo Explorer|NOID|3f534824|x|0|1985|Shoot 'em Up|Japan|Sony|Zap|No Rating|Cartridge|Keyboard,|MSX
+Courageous Perseus|NOID|b6d707c7|x|0|1985|Role Playing Game|Japan|Cosmos computer|Cosmos computer|No Rating|Cartridge|Keyboard|MSX
+Craze|NOID|d83966d0|x|0|1988|Shoot 'em Up|Japan|Heart Soft|Heart Soft|No Rating|Cartridge|Keyboard|MSX
+Crazy Bullet|NOID|d0e8f418|x|0|1983|Maze , Shooter|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Crazy Cars|NOID|DE18372D|x|0|1988|Racing , Arcade|Europe|Titus|Titus|No Rating|Cartridge|Keyboard|MSX
+Crazy Train|NOID|39E6FF25|x|0|1983|Puzzle , Strategy|Japan|Sony|Konami|No Rating|Cartridge|Keyboard|MSX
+Cross Blaim|NOID|47273220 |x|0|1986|Action , Shooter|Japan|dB-SOFT|dB-SOFT|No Rating|Cartridge|Keyboard|MSX
+Crusader|NOID|0b69dd50 |x|0|1985|Platformer|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard|MSX
+D-Day|NOID|5d284ea6 |x|0|1984|Shoot 'em Up|Japan|Eaglesoft|Jaleco|No Rating|Cartridge|Keyboard|MSX
+Daidasso|NOID|fc17c9bc |x|0|1985|Maze|Japan|Carry Lab|Carry Lab|No Rating|Cartridge|Keyboard|MSX
+Daiva Story IV|NOID|99198ed9|x|0|1987|Strategy|Japan|T&ESOFT|T&ESOFT|No Rating|Cartridge|Keyboard|MSX
+Dam Busters|NOID|6fde5bca|x|0|1985|Flight Simulator ,|Japan|Comtiq|Sydney|No Rating|Cartridge|Keyboard|MSX
+Danger X4|NOID|571f12fb |x|0|1984|Shoot 'em Up|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+David II|NOID|e04bffe5 |x|0|1984|Shoot 'em Up|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Death Wish III|NOID|AA8892D2|x|0|1987|Action , Adventure|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Decathlon|NOID|cd016b93 |x|0|1984|Sports , Athletics|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Demon Crystal|NOID|11de4dfd |x|0|1986|Platformer , Puzzle|Japan|No Publisher|Dempa|No Rating|Cartridge|Keyboard|MSX
+Demonia I|NOID|BCC4DD7A|x|0|1986|Platformer , Side-Scrolling|Europe|Microids|Microids|No Rating|Cartridge|Keyboard|MSX
+Desolator|NOID|0C85CF12|x|0|1986|Shoot 'em Up|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Desperado|NOID|FC5C2DF0|x|0|1987|Shooter , Vertical|Europe|Topo Soft|Topo Soft|No Rating|Disk|Keyboard|MSX
+Devil's Heaven|NOID|ce08f27d |x|0|1984|Shoot 'em Up|Japan|General|Nisso|No Rating|Cartridge|Keyboard|MSX
+Dig Dug|NOID|3c749758 |x|0|1984|Maze|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Digital Devil Monogatari Megami Tensei|NOID|25FC11FA|x|0|1987|Role Playing Game|Japan|Telenet Japan|Telenet Japan|No Rating|Cartridge|Keyboard,|MSX
+Dip Dip|NOID|9A2CC849|x|0|1985|Platformer|Europe|Indescomp|Indescomp|No Rating|Cartridge|Keyboard|MSX
+Disc Warrior|NOID|AFAB7202|x|0|1985|Shooter , Isometric|Europe|Alligata|Alligata|No Rating|Disk|Keyboard,|MSX
+Doki Doki Penguin Land|NOID|652d0e39 |x|0|1985|Platformer|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Doordoor|NOID|f8ad9717 |x|0|1985|Platformer|Japan|Enix|Chunsoft|No Rating|Cartridge|Keyboard|MSX
+Dorodon|NOID|5aa63a76 |x|0|1984|Maze|Japan|No Publisher|UPL|No Rating|Cartridge|Keyboard|MSX
+Double Dragon|NOID|c70e3a34 |x|0|1989|Beat 'em Up|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard|MSX
+Dr. Archie|NOID|D9727092|x|0|1989|Role Playing Game|Europe|Premium III Software Distribution|Microtac Software|No Rating|Disk|Keyboard,|MSX
+Dragon Attack|NOID|a0ff8771 |x|0|1983|Shoot 'em Up|Japan|HAL Laboratory|Takara|No Rating|Cartridge|Keyboard|MSX
+Dragon Ninja|NOID|00BFB89B|x|0|1988|Beat 'em Up|Europe|Ocean Software Ltd.|Imagine|No Rating|Disk|Keyboard,|MSX
+Dragon Slayer I|NOID|6a515349 |x|0|1985|Role Playing Game|Japan|Square|Square|No Rating|Cartridge|Keyboard|MSX
+Dragon Slayer II Xanadu|NOID|D640DEAF|x|0|1987|Role Playing Game|Japan|Falcom|Falcom|No Rating|Cartridge|Keyboard|MSX
+Dragon Slayer Jr Romancia|NOID|885773F9|x|0|1986|Role Playing Game|Japan|Falcom|Falcom|No Rating|Cartridge|Keyboard|MSX
+Drainer|NOID|db803e8a |x|0|1987|Maze|Japan|No Publisher|Fun Project|No Rating|Cartridge|Keyboard|MSX
+Draughts|NOID|AA077732|x|0|1985|Board Game ,|Europe|Orpheus|Orpheus|No Rating|Disk|Keyboard,|MSX
+Drome|NOID|B51FF032|x|0|1987|Action , Adventure|Europe|Eaglesoft|The Bytebusters|No Rating|Disk|Keyboard,|MSX
+Dungeon Adventure|NOID|4BD5696E|x|0|1984|Adventure , Text|Europe|No Publisher|Level 9 Computing|No Rating|Disk|Keyboard|MSX
+Dungeon Hunter|NOID|2526e568 |x|0|1991|Shooter , 3D|Japan|ASCII|ASCII|No Rating|Cartridge|Light|MSX
+Dungeon Master|NOID|33700744 |x|0|1986|Role Playing Game|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Dunk Shot|NOID|6c366b32 |x|0|1986|Sports , Basketball|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Dynamite Bowl|NOID|47ec57da |x|0|1988|Sports , Bowling|Japan|Toshiba EMI|Softvision|No Rating|Cartridge|Keyboard|MSX
+Dynamite Dan|NOID|9B42CAF4|x|0|1986|Platformer , Puzzle|Europe|Mirrorsoft Ltd.|Mirrosoft|No Rating|Disk|Keyboard,|MSX
+Eagle Fighter|NOID|5c808e73 |x|0|1985|Shoot 'em Up|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Eggerland Mystery|NOID|232b1050 |x|0|1985|Maze , Puzzle|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Elevator Action|NOID|39886593 |x|0|1985|Maze , Puzzle|Japan|Taito|Taito|No Rating|Cartridge|Keyboard|MSX
+Elite|NOID|4dcfaf49 |x|0|1987|Simulation , 3D|Japan|Firebird|Mr. Micro|No Rating|Disk|Keyboard,|MSX
+Emerald Isle|NOID|392FE667|x|0|1985|Adventure , Text|Europe|Level 9 Computing|Level 9 Computing|No Rating|Disk|Keyboard|MSX
+Enigma|NOID|E05C50C0|x|0|1994|Action , Adventure|Europe|Odin Software|V Becker|No Rating|Disk|Keyboard,|MSX
+Evil Mansion Goblin|NOID|CB766C4A|x|0|1987|Action , Adventure|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard,|MSX
+Exa Innova|NOID|4ff88059 |x|0|1983|Shoot 'em Up|Japan|Complie|Programmers 3|No Rating|Cartridge|Keyboard|MSX
+Exchanger|NOID|2c2b8a0e |x|0|1984|Shoot 'em Up|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Exerion I|NOID|7abefd3d |x|0|1984|Shoot 'em Up|Japan|Dempa Shimbunsha|Jaleco|No Rating|Cartridge|Keyboard,|MSX
+Exerion II Zorni|NOID|0b6c146f |x|0|1984|Shoot 'em Up|Japan|Jaleco|Jaleco|No Rating|Cartridge|Keyboard|MSX
+Exoide-Z|NOID|6e19c254 |x|0|1986|Shoot 'em Up|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Exoide-Z Area 5|NOID|ad529df0 |x|0|1986|Shoot 'em Up|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Exterminator|NOID|AA036179|x|0|1987|Shoot 'em Up|Europe|Eaglesoft|The Bytebusters|No Rating|Disk|Keyboard,|MSX
+F-1 Spirit the Way to Formula-1|NOID|12bfd3a9 |x|0|1987|Racing , Top|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+F16 Fighting Falcon|NOID|70a0cb2c |x|0|1985|Flight Simulator ,|Japan|ASCII|NEXA|No Rating|Cartridge|Keyboard|MSX
+Fa Tetris|NOID|1EC87E3A|x|0|1989|Puzzle , Block|Korea|Fa Soft|Fa Soft|No Rating|Cartridge|Keyboard,|MSX
+Fairy|NOID|314728c3 |x|0|1985|Maze , Platformer|Japan|ASCII|Zap|No Rating|Cartridge|Keyboard|MSX
+Fairy Land Story|NOID|26E34F05|x|0|1987|Platformer , Puzzle|Japan|Taito|GA-Yume / HOT-B|No Rating|Cartridge|Keyboard|MSX
+Fantasy Zone|NOID|3e96d005 |x|0|1987|Shoot 'em Up|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Fathom|NOID|F06A58DA|x|0|1983|Adventure , Action|Japan|Interphase|Imagic|No Rating|Cartridge|Keyboard|MSX
+Feud|NOID|E745F33A|x|0|1987|Action , Adventure|Europe|Bulldog|Mastertronic|No Rating|Disk|Keyboard,|MSX
+Final Justice|NOID|851ba4bb |x|0|1985|Shoot 'em Up|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard|MSX
+Final Zone Wolf|NOID|14e2efcc |x|0|1986|Shooter , Vertical|Japan|Telnet Japan|Telnet Japan|No Rating|Cartridge|Keyboard|MSX
+Finders Keepers|NOID|6A0D928D|x|0|1986|Platformer , Adventure|Japan|Mastertronic|Mastertronic|No Rating|Disk|Keyboard,|MSX
+Fire Rescue|NOID|8005a9ba |x|0|1984|Platformer , Fixed|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Flappy I|NOID|b6285a0b |x|0|1984|Puzzle , Strategy|Japan|dB-SOFT|dB-SOFT|No Rating|Cartridge|Keyboard|MSX
+Flappy II Limited 85|NOID|4a4f3084 |x|0|1985|Puzzle , Strategy|Japan|dB-SOFT|dB-SOFT|No Rating|Cartridge|Keyboard|MSX
+Flash Gordon|NOID|D6A84BCC|x|0|1987|Action , Adventure|Europe|M.A.D.|Mastertronic|No Rating|Disk|Keyboard,|MSX
+Flash Point|NOID|C4A33DA7|x|0|1991|Puzzle , Block|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Flash Splash|NOID|5c187cf7 |x|0|1984|Shoot 'em Up|Japan|Toshiba EMI|ISOCO|No Rating|Cartridge|Keyboard|MSX
+Flicky|NOID|88250e5d|x|0|1986|Platformer , Strategy|Japan|Sega|Micronet|No Rating|Cartridge|Keyboard|MSX
+Flight Deck|NOID|a00526d0 |x|0|1986|Simulation|Japan|Aackosoft|Aackosoft|No Rating|Cartridge|Keyboard,|MSX
+Flight Simulator|NOID|a6165bd4 |x|0|1988|Flight Simulator ,|Japan|subLOGIC|subLOGIC|No Rating|Cartridge|Keyboard|MSX
+Flintstones|NOID|AA5D87DE|x|0|1987|Action , Adventure|Europe|Grandslam Entertainments|Grandslam Entertainments|No Rating|Disk|Keyboard,|MSX
+Flipper Slipper|NOID|fd7de91e |x|0|1984|Breakout|Japan|ASCII|Spectravideo|No Rating|Cartridge|Keyboard|MSX
+Footballer of the Year|NOID|A162B105|x|0|1986|Sports , Football|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Formation Z|NOID|37b55d09 |x|0|1985|Shoot 'em Up|Japan|Nippon Dexter|Jaleco|No Rating|Cartridge|Keyboard|MSX
+Frogger|NOID|97e2fcb4 |x|0|1985|Adventure , Action|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Front Line|NOID|b9d03f7b |x|0|1984|Adventure , Action|Japan|Taito|Taito|No Rating|Cartridge|Keyboard|MSX
+Fruit Search|NOID|eba95a38 |x|0|1983|Puzzle , Fixed|Japan|HAL Laboratory|Takara|No Rating|Cartridge|Keyboard,|MSX
+Funky Mouse|NOID|b5c0dace |x|0|1984|Platformer , Strategy|Japan|ASCII|ZAP|No Rating|Cartridge|Keyboard|MSX
+Futbol|NOID|1DE36299|x|0|1985|Sports , Football|Europe|Indescomp|Indescomp|No Rating|Cartridge|Keyboard|MSX
+Fuun Takeshijyou|NOID|C57272C3|x|0|No Date|Beat 'em Up|Japan|No Publisher|dev-unknown|No Rating|Cartridge|Keyboard,|MSX
+Galaga|NOID|8856961d |x|0|1984|Shoot 'em Up|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Galaxian|NOID|e223ffd1 |x|0|1984|Shoot 'em Up|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Gall Force Defense of Chaos|NOID|99ef860e |x|0|1986|Shoot 'em Up|Japan|Sony|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Gate of Labyrinth|NOID|2C2020A0|x|0|1987|Role Playing Game|Japan|Radio Wave Newspaper Publisher|Radio Wave Newspaper Publisher|No Rating|Cartridge|Keyboard,|MSX
+Gauntlet|NOID|2302C4F5|x|0|1986|Action , Role|Europe|US Gold|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Gemini Wing|NOID|7BDEC976|x|0|1989|Shoot 'em Up|Europe|Dro Soft|Virgin Mastertronic|No Rating|Disk|Keyboard,|MSX
+Ghostbusters|NOID|c9bcbe5a |x|0|1984|Platformer , Strategy|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard|MSX
+Glider|NOID|ae35e4ad |x|0|1985|Simulation , Top|Japan|Zap|Zap|No Rating|Cartridge|Keyboard|MSX
+Godzilla|NOID|be071826 |x|0|1984|Beat 'em Up|Japan|Bandai|Bandai|No Rating|Cartridge|Keyboard|MSX
+Godzilla-kun|NOID|ed4a211d |x|0|1985|Platformer , Puzzle|Japan|Toho|Toho|No Rating|Cartridge|Keyboard|MSX
+Gokiburi Daisakusen Bug Bomb|NOID|69ECB2ED|x|0|1983|Puzzle , Fixed|Japan|Magic software|Magic software|No Rating|Cartridge|Keyboard,|MSX
+Golf Game|NOID|5d88275f |x|0|1983|Sports , Golf|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Golvellius|NOID|5eac55df |x|0|1987|Role Playing Game|Japan|Complie|Compile|No Rating|Cartridge|Keyboard|MSX
+Gomok Narabe Omo Go|NOID|269f079f |x|0|1984|Board Game|Japan|Toshiba EMI|Comtec|No Rating|Cartridge|Keyboard|MSX
+Goonies|NOID|db327847 |x|0|1986|Platformer , Action|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+GP World|NOID|9dbdd4bc |x|0|1985|Racing , 3D|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Green Beret|NOID|61F41BCD|x|0|1986|Shooter , Side-Scrolling|Europe|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Grog's Revenge|NOID|5F74AE0E|x|0|1985|Adventure , Action|Japan|Comptiq|Comptiq|No Rating|Cartridge|Keyborad,|MSX
+Guardic|NOID|6aebb9d3 |x|0|1986|Shoot 'em Up|Japan|Complie|Compile|No Rating|Cartridge|Keyboard|MSX
+Gulkave|NOID|a02029d0 |x|0|1986|Shoot 'em Up|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Gun Fright|NOID|f877b3d6 |x|0|1986|Shooter , Isometric|Japan|Jaleco|Ultimate Play The Game|No Rating|Cartridge|Keyboard|MSX
+Gutt Blaster|NOID|715CC8F7|x|0|1988|Shoot 'em Up|Japan|Premium III Software Distribution|Eurosoft|No Rating|Disk|Keyboard,|MSX
+Gyrodine|NOID|0e89433b |x|0|1986|Shoot 'em Up|Japan|Zemina|Taito|No Rating|Cartridge|Keyboard|MSX
+H.E.R.O.|NOID|8FDAD3AF|x|0|1984|Adventure , Action|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Hades no Monsho|NOID|4D105F57|x|0|1986|Shoot 'em Up|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Hang-On|NOID|48E7212C|x|0|1985|Racing , Motorcycles|Japan|Sega|Pony Canyon|No Rating|Cartridge|Keyboard,|MSX
+Happy Fret|NOID|79F604CD|x|0|1985|Platformer , Puzzle|Europe|Microcabin|Microcabin|No Rating|Disk|Keyboard,|MSX
+Harapeko Pakkun|NOID|145BB27B|x|0|1984|Puzzle , Fixed|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard|MSX
+Hard Boiled|NOID|010C5E6A|x|0|1987|Shooter , Horizontal|Europe|Methodic Solutions|Methodic Solutions|No Rating|Disk|Keyboard,|MSX
+Haunted Boynight|NOID|2FAF6E26|x|0|1986|Platformer , Side-Scrolling|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Haunted House|NOID|1AAE174C|x|0|1988|Platformer , Adventure|Japan|Eurosoft|Eurosoft|No Rating|Disk|Keyboard,|MSX
+Heavy Boxing|NOID|11E46700|x|0|1983|Sports , Badminton|Japan|HAL Laboratory|Takara|No Rating|Cartridge|Keyboard,|MSX
+Heist, The|NOID|04E454C5|x|0|1985|Platformer , Side-Scrolling|Japan|Comptiq|Livesay Computer Games|No Rating|Cartridge|Keyboard,|MSX
+Helitank|NOID|CD63CD50|x|0|1984|Shooter , Tank|Japan|NABU / ASCII|NABU / ASCII|No Rating|Cartridge|Keyborad,|MSX
+Hercules Slayer of the Damned|NOID|3723166F|x|0|1988|Beat 'em Up|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+High Way Star|NOID|24851440|x|0|1983|Racing , Maze|Japan|Qnix|Way Limit|No Rating|Cartridge|Keyboard,|MSX
+Highway Encounter|NOID|218272D5|x|0|1985|Action , Isometric|Europe|Dinamic|Vortex Software|No Rating|Disk|Keyboard,|MSX
+Hitsuji Yai Preety Sheep|NOID|11502A96|x|0|1983|Adventure , Action|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard,|MSX
+Hobbit|NOID|8CCE9F21|x|0|1985|Adventure , Text|Europe|Melbourne House|Melbourne House|No Rating|Disk|Keyboard|MSX
+Hole in One|NOID|98E7B01B|x|0|1984|Sports , Golf|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard,|MSX
+Hole in One Professional|NOID|350AE107|x|0|1985|Sports , Golf|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Honkball|NOID|24B94274|x|0|1985|Sports , Baseball|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Hopper|NOID|D3032AD7|x|0|1986|Platformer , Top|Europe|Eaglesoft|Aackosoft|No Rating|Cartridge|Keyboard|MSX
+Hot Shoe|NOID|BB5037D6|x|0|1984|Action , Sci-Fi|Europe|Longman|Longman|No Rating|Disk|Keyboard,|MSX
+Howard the Duck|NOID|04541947|x|0|1986|Action , Adventure|Europe|Activision|Activision|No Rating|Disk|Keyboard,|MSX
+Hudson 3D Golf|NOID|d83a6a3f |x|0|1984|Sports , Golf|Japan|Honeybee Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Hunt for Red October|NOID|CACAEDD7|x|0|1984|Simulation , Submarine|Europe|Grandslam Entertainments|Grandslam Entertainments|No Rating|Disk|Keyboard,|MSX
+Hydlide I|NOID|0F9D6F56|x|0|1985|Role Playing Game|Japan|No Publisher|dev-unknown|No Rating|Cartridge|Keyboard,|MSX
+Hydlide II Shine of Darkness|NOID|D8055F5F|x|0|No Date|Role Playing Game|Japan|T&ESOFT|T&ESOFT|No Rating|Cartridge|Keyboard,|MSX
+Hydlide III the Space Memories|NOID|00C5D5B5|x|0|1987|Role Playing Game|Japan|T&ESOFT|T&ESOFT|No Rating|Cartridge|Keyboard,|MSX
+Hyper Rally|NOID|F94D452E|x|0|1985|Racing , 3D|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Hyper Sports I|NOID|18db4ff2 |x|0|1984|Sports , Competitive|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Hyper Sports II|NOID|968fa8d6 |x|0|1984|Sports , Competitive|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Hyper Sports III|NOID|80a831e1 |x|0|1985|Sports , Competitive|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Ice World|NOID|16E7B4BE|x|0|1985|Puzzle , Maze|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Icebreaker|NOID|AE49066B|x|0|1990|Sports , Bobsleigh|Japan|Topo Soft|Topo Soft|No Rating|Disk|Keyboard,|MSX
+Iga Ninpouten I Small Ninja|NOID|51727E48|x|0|1985|Adventure , Action|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Iga Ninpouten II Small Ninja II|NOID|4AA97644|x|0|1986|Adventure , Action|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Indian no Bouken|NOID|3a550788|x|0|1983|Maze , Fixed|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Indiana Jones and the Temple of Doom|NOID|C18FB76C|x|0|1987|Action , Adventure|Europe|US Gold|Atari|No Rating|Disk|Keyboard,|MSX
+Invasion|NOID|75757190|x|0|1987|Strategy , Realtime|Europe|Bulldog|Mastertronic|No Rating|Disk|Keyboard|MSX
+Iriegas|NOID|36A08E0B|x|0|1983|Maze , 3D|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard,|MSX
+Iriegas Theseus|NOID|80495007|x|0|1984|Platformer , Puzzle|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard|MSX
+Issunhoushi No Donnamondai|NOID|A7C43855|x|0|1987|Adventure , Action|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+J.P. Winkle|NOID|57E1221C|x|0|1986|Puzzle , Platformer|Japan|Ascii|MSX Magazine|No Rating|Cartridge|Keyboard|MSX
+Jack the Nipper I|NOID|217CD70B|x|0|1986|Action , Adventure|Japan|Erbe Software|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Jack the Nipper in Coconut Capers|NOID|7E39CC0D|x|0|1987|Action , Adventure|Japan|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Jackie Chan in Project A|NOID|6BFCA108|x|0|1984|Beat 'em Up|Japan|Pony Canyon|Pony Canyon|No Rating|Disk|Keyboard,|MSX
+Jackie Chan in Spartan X|NOID|4810A30F|x|0|1985|Action , Adventure|Japan|Pony Canyon|Pony Canyon|No Rating|Disk|Keyboard,|MSX
+Jagur|NOID|D6465702|x|0|1987|Adventure , Action|Japan|Hudson Soft|Compile|No Rating|Cartridge|Keyboard,|MSX
+Jake in the Caves|NOID|40DB69BB|x|0|1986|Platformer , Adventure|Europe|S.V.L. Software|S.V.L. Software|No Rating|Disk|Keyboard,|MSX
+Jaws|NOID|BE3798D2|x|0|1989|Shoot 'em Up|Europe|Intelligent Design|Intelligent Design|No Rating|Disk|Keyboard,|MSX
+Jet Fighter|NOID|5E386605|x|0|1988|Shoot 'em Up|Europe|Eurosoft|Eurosoft|No Rating|Disk|Keyboard,|MSX
+Jet Set Willy|NOID|9191c890 |x|0|1984|Platformer , Puzzle|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Joe Blade|NOID|BF412145|x|0|1989|Action , Adventure|Europe|Payers|Players|No Rating|Disk|Keyboard,|MSX
+Jump|NOID|0599617B|x|0|1985|Puzzle , Platformer|Japan|Ascii|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Jump Coaster|NOID|C15A25DA|x|0|1984|Platformer , Puzzle|Japan|Colpax|Nippon Columbia|No Rating|Cartridge|Keyboard,|MSX
+Jump Land|NOID|0F8699BA|x|0|1985|Platformer , Puzzle|Japan|Colpax|Nippon Columbia|No Rating|Cartridge|Keyboard|MSX
+Jumping Rabbit|NOID|15471AB9|x|0|1984|Platformer , Adventure|Japan|MIA|MIA|No Rating|Cartridge|Keyboard|MSX
+Juno First|NOID|D902BE7C|x|0|1983|Shoot 'em Up|Japan|Sony|Konami|No Rating|Cartridge|Keyboard,|MSX
+Kage no Densetsu Legend of Kage|NOID|69367E10|x|0|1986|Adventure , Action|Japan|Taito|Taito|No Rating|Cartridge|Keyborad,|MSX
+Karamaru|NOID|12BE29FC|x|0|1984|Action , Flight|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Keystone Kapers|NOID|7FF117F9|x|0|1984|Platformer , Puzzle|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Kick It|NOID|E4F63CB7|x|0|1986|Puzzle , Strategy|Japan|Aackosoft|Aackosoft / The Bytebusters|No Rating|Cartridge|Keyboard,|MSX
+Kinasai|NOID|18866B57|x|0|No Date|Platformer , Strategy|Japan|Unknown|Unknown|No Rating|Cartridge|Keyboard,|MSX
+King and Balloon|NOID|2ABA2253|x|0|1984|Shoot 'em Up|Japan|Namco|Namco|No Rating|Cartridge|Keyboard,|MSX
+King Knight|NOID|A0481321|x|0|1986|Shoot 'em Up|Japan|Square|Square|No Rating|Cartridge|Keyboard,|MSX
+King's Valley I|NOID|dfac2125 |x|0|1985|Platformer , Puzzle|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+King's Valley II|NOID|E82A8E8E|x|0|1988|Puzzle , Platformer|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Kinnikuman Muscle Man|NOID|166781B7|x|0|1985|Sports , Wrestling|Japan|Bandai|Bandai|No Rating|Cartridge|Keyboard,|MSX
+Knight Lore|NOID|B575C44A|x|0|1986|Adventure , Isometric|Japan|Nippon Dexter / JALECO|Ultimate Play The Game|No Rating|Cartridge|Keyboard,|MSX
+Knight Tyme|NOID|2AF051A4|x|0|1986|Action , Adventure|Europe|M.A.D.|Mastertronic|No Rating|Disk|Keyboard,|MSX
+Knightmare I Majou Densetsu|NOID|0DB84205|x|0|1986|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Knightmare II the Maze of Galious|NOID|FE23D253|x|0|1987|Platformer , Strategy|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Knightmare III Shalom|NOID|09CDFE8E|x|0|1987|Role Playing Game|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Knither Special|NOID|A3B2FE71|x|0|1987|Platformer , Puzzle|Japan|Dempa|YMCAT|No Rating|Cartridge|Keyboard|MSX
+Konami's Baseball|NOID|B660494B|x|0|1984|Sports , Baseball|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Konami's Billiards|NOID|0B65FE4D|x|0|1984|Sports , Billiard|Europe|Konami|Konami|No Rating|Cartridge|Keybaord|MSX
+Konami's Boxing|NOID|3A442408|x|0|1985|Sports , Boxing|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Konami's Football|NOID|BA1B16FC|x|0|1985|Sports , Football|Europe|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Konami's Golf|NOID|08C7E406|x|0|1985|Sports , Golf|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Konami's Ping-Pong|NOID|3F200491|x|0|1985|Sports , Ping|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Konami's Soccer|NOID|74BC8295|x|0|1985|Sports , Soccer|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Konami's Tennis|NOID|61726BE4|x|0|1985|Sports , Tennis|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Koneko no Daibouken Catboy|NOID|5a0b8739 |x|0|1986|Action , Adventure|Japan|Casio|Casio|No Rating|Cartridge|Keyboard|MSX
+Krakout|NOID|B6E28567|x|0|1987|Breakout , Puzzle|Europe|Gremlin Graphics|Gremlin Graphics|No Rating|Disk|Keyboard,|MSX
+Kung Fu Acho|NOID|999dd794 |x|0|1985|Beat 'em Up|Japan|ASCII|IREM|No Rating|Cartridge|Keyboard|MSX
+Kung Fu Master|NOID|08f23b3e |x|0|1983|Beat 'em Up|Japan|Mass Tael|Mass Tael|No Rating|Cartridge|Keyboard|MSX
+Kung Fu Taigun|NOID|c1aaf8cb |x|0|1985|Platformer , Puzzle|Japan|Seibu Kaihatsu|Seibu Kaihatsu|No Rating|Cartridge|Keyboard|MSX
+La Espada Sagrada|NOID|5E97EB5C|x|0|1990|Action , Adventure|Europe|Topo Soft|Topo Soft|No Rating|Disk|Keyboard,|MSX
+Ladder Building|NOID|C6064CE0|x|0|1983|Platformer , Puzzle|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard|MSX
+Laptick II|NOID|091FE438|x|0|1986|Puzzle , Platformer|Japan|db soft|db soft|No Rating|Cartridge|Keyboard|MSX
+Le Mans II|NOID|82DDDC34|x|0|1984|Racing , Simulation|Europe|No Publisher|Electric Software|No Rating|Cartridge|Keyboard|MSX
+Legendly Knight|NOID|8E0F0638|x|0|1988|Puzzle , Platformer|Korea|Topia|Topia|No Rating|Cartridge|Keyboard,|MSX
+Leonard|NOID|DDA3C142|x|0|1986|Platformer , Puzzle|Europe|Mind Games Espana|Mind Games Espana|No Rating|Cartridge|Keyboard,|MSX
+Les Flics|NOID|0304CD28|x|0|1985|Racing , Puzzle|Europe|Sony Spain|PSS|No Rating|Cartridge|Keyboard|MSX
+Light Corridor, The|NOID|A330B549|x|0|1990|Puzzle , First|Europe|Infogrames|New Frontier|No Rating|Cartridge|Keyboard,|MSX
+Lode Runner I|NOID|adc58732 |x|0|1983|Platformer , Puzzle|Japan|ASCII|Br?derbund Software|No Rating|Cartridge|Keyboard,|MSX
+Lode Runner II|NOID|32ab8b20 |x|0|1985|Platformer , Puzzle|Japan|ASCII|Doug Smith|No Rating|Cartridge|Keyboard,|MSX
+Lot Lot|NOID|C1679AEB|x|0|1986|Puzzle , Fixed|Japan|Tokuma Shoten / Irem|Technopolis Soft|No Rating|Cartridge|Keyboard|MSX
+Lunar Ball|NOID|D8A116D8|x|0|1985|Sports , Billiard|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard,|MSX
+Mac Attack|NOID|19AD0167|x|0|1986|Platformer , Fixed|Europe|Al Alamiah|The Bytebusters|No Rating|Cartridge|Keyboard|MSX
+Machinegun Joe vs the Mafia|NOID|628f033d|x|0|1983|Shooter , Maze|Japan|Hudson Soft / Japanese|Hudson Soft / Japanese|No Rating|Cartridge|Keyboard|MSX
+Macross|NOID|6e742024|x|0|1985|Shoot 'em Up|Japan|Eaglesoft|Bothtec|No Rating|Cartridge|Keyboard,|MSX
+Magical Kid Wiz|NOID|8c2f2c59|x|0|1986|Platformer , Action|Japan|Sony|Sony|No Rating|Cartridge|Keyboard|MSX
+Magical Tree|NOID|827038a2|x|0|1985|Platformer , Vertical|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Magnum Prohibition 1931|NOID|d446ba1e|x|0|1988|Shooter , Arcade|Japan|Toshiba-EMI|Seibu Kaihatsu Inc.|No Rating|Cartridge|Keyboard,|MSX
+Manes|NOID|b7002f08|x|0|1984|Platformer , Strategy|Japan|Ascii|ZAP|No Rating|Cartridge|Keyboard,|MSX
+Mappy|NOID|3b702e9a|x|0|1984|Platformer , Puzzle|Japan|Namco|Namco|No Rating|Cartridge|Keyboard,|MSX
+Marine Battle|NOID|24923bdb|x|0|1983|Shooter , Fixed|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard|MSX
+Mars II|NOID|48e9d13b|x|0|1985|Shoot 'em Up|Japan|Nagi-P-Soft|Nagi-P-Soft|No Rating|Cartridge|Keyboard,|MSX
+Master Chess|NOID|F2F979DB|x|0|1987|Chess|Europe|Mastertronic|Mastertronic|No Rating|Cartridge|Keyboard|MSX
+Megalopolis SOS|NOID|cf744d2e|x|0|1983|Shoot 'em Up|Japan|Compile|Nisso|No Rating|Cartridge|Keyboard,|MSX
+Meikyuu Shinwa|NOID|2f8065eb|x|0|1986|Puzzle , Maze|Japan|HAL|HAL|No Rating|Cartridge|Keyboard|MSX
+Midnight Brothers|NOID|ce2882f6|x|0|1986|Maze , 3D|Japan|Sony|ZAP|No Rating|Cartridge|Keyboard,|MSX
+Midnight Building|NOID|7b5282e4|x|0|1983|Maze , Strategy|Japan|Ascii|Way Limit|No Rating|Cartridge|Keyboard,|MSX
+Midway|NOID|40e2f32a|x|0|1983|Shoot 'em Up|Japan|Magic Software|Magic Software|No Rating|Cartridge|Keyboard|MSX
+Mil Caras|NOID|0DEACD48|x|0|1985|Educational|Europe|Sony Spain|Idealogic|No Rating|Cartridge|Keyboard,|MSX
+Mini Golf|NOID|855ca028|x|0|1985|Sports , Golf|Japan|Namco|Namco|No Rating|Cartridge|Keyboard,|MSX
+Mirai Future|NOID|72eb9d0e|x|0|1987|Shoot 'em Up|Japan|XAIN / Sein|XAIN / Sein|No Rating|Cartridge|Keyboard,|MSX
+Mitsumega Toohru T.E.O.C.H|NOID|4faccae0|x|0|1989|Adventure , Action|Japan|Natsume|Natsume|No Rating|Cartridge|Keyboard,|MSX
+Moai no Hibou|NOID|0427df83|x|0|1986|Puzzle , Platformer|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Mobile Planet Suthirus A.f.t.W|NOID|EBA19259|x|0|1986|Shooter , Multi-Directional|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Mobile-Suit Gundam Last Shooting|NOID|1D27D31F|x|0|1984|Adventure , Action|Japan|Bandai|Bandai|No Rating|Cartridge|Keyboard,|MSX
+Mokarimakka|NOID|D40F481D|x|0|1986|Sports , Basketball|Japan|Leben Pro|Leben Pro|No Rating|Cartridge|Keyboard|MSX
+Mole|NOID|D0E39C9B|x|0|1983|Whac-A-Mole , Comical|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard,|MSX
+Mole Mole II|NOID|309F886B|x|0|1987|Puzzle , Block|Japan|Victor|Cross Media Soft|No Rating|Cartridge|Keyboard,|MSX
+Monkey Academy|NOID|98CD6912|x|0|1984|Platformer , Puzzle|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Monster's Fair|NOID|1BA6E461|x|0|1986|Shoot 'em Up|Japan|TOHO|TOHO|No Rating|Cartridge|Keyboard,|MSX
+Moon Landing|NOID|8A2C11DA|x|0|1983|Arcade , Simulation|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard|MSX
+Moon Patrol|NOID|FEBB1155|x|0|1984|Vehicular Combat ,|Japan|IREM / Dempa|IREM / Dempa|No Rating|Cartridge|Keyboard,|MSX
+Moonsweeper|NOID|F1637C31|x|0|1985|Shoot 'em Up|Japan|Toshiba-EMI|Imagic / Interphase|No Rating|Cartridge|Keyboard,|MSX
+Mopiranger|NOID|9D73E4C5|x|0|1985|Maze , Puzzle|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Morita Kazuo no Othello|NOID|A94D7D08|x|0|1986|Board Game ,|Japan|Toshiba-EMI|Toshiba-EMI|No Rating|Cartridge|Keyboard|MSX
+Mouser|NOID|06A64527|x|0|1983|Platformer , Arcade|Japan|Sony|Sony|No Rating|Cartridge|Keyboard,|MSX
+Mr. Chin|NOID|414D29BC|x|0|1984|Puzzle , Strategy|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Mr. Do|NOID|4098D71D|x|0|1984|Maze , Puzzle|Japan|Abgel|Universal|No Rating|Cartridge|Keyboard,|MSX
+Mr. Do vs Unicorns|NOID|09090135|x|0|1984|Platformer , Puzzle|Japan|Sony|Universal|No Rating|Cartridge|Keyboard,|MSX
+Mr. Do's Wild Ride|NOID|6786A7EE|x|0|1985|Platformer , Puzzle|Japan|Universal|Colpax|No Rating|Cartridge|Keyboard,|MSX
+MSX 21|NOID|13B8243C|x|0|1983|Card Game ,|Japan|Ascii|Ascii|No Rating|Cartridge|Keyboard,|MSX
+MSX Baseball I|NOID|F79D3088|x|0|1984|Sports , Baseball|Japan|Matsushita Electric|Panasoft|No Rating|Cartridge|Keyboard,|MSX
+MSX Baseball II National|NOID|0CB78F0E|x|0|1986|Sports , Baseball|Japan|Matsushita Electric|Panasoft|No Rating|Cartridge|Keyboard,|MSX
+MSX Rugby|NOID|61B33748|x|0|1985|Sports , Rugby|Japan|Matsushita Electric|Panasoft|No Rating|Cartridge|Keyboard,|MSX
+MSX Soccer|NOID|6824E45D|x|0|1985|Sports , Soccer|Japan|Matsushita Electric|Panasoft|No Rating|Cartridge|Keyboard,|MSX
+Mugen Senshi Valis Fantasm Soldier|NOID|309D996C|x|0|1986|Adventure , Action|Japan|Telenet|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Nausicaa|NOID|E84994F7|x|0|1984|Shoot 'em Up|Japan|Technopolis Soft|Technopolis Soft|No Rating|Cartridge|Keyboard,|MSX
+Nemesis I|NOID|4d44255f |x|0|1986|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Nemesis II|NOID|DB847B2B|x|0|1987|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Nemesis III the Eve of Destruction|NOID|4b61ae91 |x|0|1988|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Nessen Koushiyen|NOID|2AFBF7D1|x|0|1984|Sports , Baseball|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Night Shade|NOID|72DDB449|x|0|1985|Adventure , Isometric|Japan|Nippon Dexter / JALECO|Ultimate Play The Game|No Rating|Cartridge|Keyboard,|MSX
+Ninja Jajamaru-kun|NOID|2A28FF97|x|0|1986|Platformer , Action|Japan|JALECO|JALECO|No Rating|Cartridge|Keyboard,|MSX
+Ninja Princess|NOID|203EF741|x|0|1986|Adventure , Action|Japan|SEGA|Pony Canyon|No Rating|Cartridge|Keyboard,|MSX
+Ninjakun|NOID|D388CFD1|x|0|1983|Platformer , Action|Japan|Microcabin|Microcabin|No Rating|Cartridge|Keyboard,|MSX
+Ninjakun Majou|NOID|EF339B82|x|0|1984|Platformer , Action|Japan|JALECO|NIHON Dexter|No Rating|Cartridge|Keyboard,|MSX
+Ninjya Kage|NOID|B202F481|x|0|1984|Adventure , Action|Japan|Hudson Soft / ASCII|Hudson Soft / ASCII|No Rating|Cartridge|Keyboard,|MSX
+Nyannyan Pro Wrestling|NOID|02AE3EDA|x|0|1986|Sports , Wrestling|Japan|Victor|Cross Media Soft|No Rating|Cartridge|Keyboard,|MSX
+Nyorols|NOID|5B5FF0AD|x|0|1983|Puzzle , Action|Japan|MIA|MIA|No Rating|Cartridge|Keyboard,|MSX
+O'Mac Farmer|NOID|B05FFED2|x|0|1984|Puzzle , Maze|Japan|ASCII|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Oil's Well|NOID|3C7F3767|x|0|1984|Puzzle , Maze|Japan|Aackosoft International B.V.|Sierra On-Line|No Rating|Cartridge|Keyboard,|MSX
+One Hundred And Eighty|NOID|A9F6571E|x|0|1987|Sports , Darts|Europe|Mastertronic Ltd.|Binary Design, Ltd.|No Rating|Disk|Keyboard,|MSX
+Othello|NOID|FD3921CD|x|0|1985|Board Game ,|Japan|Pony Canyon|Tsukuda|No Rating|Cartridge|Keyboard,|MSX
+Oyoide Tango|NOID|01A24CA7|x|0|1984|Adventure , Action|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Pac-Man|NOID|d74dffa2 |x|0|1984|Maze , Fixed|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Pachi Com|NOID|CE7F6C91|x|0|1985|Casino , Pachinko|Japan|TOSHIBA EMI/JPM|TOSHIBA EMI/JPM|No Rating|Cartridge|Keyboard,|MSX
+Pai Panic|NOID|6FD70773|x|0|1983|Puzzle , Side-Scrolling|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Pairs|NOID|9C1C10CA|x|0|1983|Puzzle|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Panther|NOID|33B9968C|x|0|1986|Shooter , Fixed|Japan|IREM|IREM|No Rating|Cartridge|Keyboard,|MSX
+Parodius|NOID|68DEA3F0|x|0|1988|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Pass Ball|NOID|82B8F501|x|0|1983|Sports , Football|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Pastfinder|NOID|D6D8D1D7|x|0|1984|Shoot 'em Up|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Pay Load|NOID|D15B0B1A|x|0|1985|Driving , Top|Japan|SONY|ZAP|No Rating|Cartridge|Keyboard,|MSX
+Peetan|NOID|941069AE|x|0|1984|Puzzle , Action|Japan|Nippon Columbia / Colpax|Nippon Columbia / Colpax|No Rating|Cartridge|Keyboard,|MSX
+Pegasus|NOID|C23FA0D5|x|0|1986|Platformer , Adventure|Japan|Victor|Cross Media Soft|No Rating|Cartridge|Keyboard,|MSX
+Penguin Adventure|NOID|0f6418d3 |x|0|1986|Adventure , Action|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Penguin-kun Wars|NOID|6D2B3E0C|x|0|1985|Sports , Fixed|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Pico Pico|NOID|BA3E62D3|x|0|1983|Shooter , Fixed|Japan|Microcabin|Microcabin|No Rating|Cartridge|Keyboard,|MSX
+Picture Puzzle|NOID|9E51AE0A|x|0|1983|Puzzle , Fixed|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Pillbox|NOID|436c3f29|x|0|1983|Action , Adventure|Japan|Magic software|Magic software|No Rating|Cartridge|Keyboard|MSX
+Pinball Blaster|NOID|68FE9580|x|0|1988|Pinball|Europe|Eurosoft|Eurosoft|No Rating|Cartridge|Keyboard,|MSX
+Pine Applin|NOID|7411C6F2|x|0|1984|Platformer , Adventure|Japan|ZAP|ZAP|No Rating|Cartridge|Keyboard,|MSX
+Pingball Maker|NOID|2EFF15E7|x|0|1985|Pinball , Editor|Japan|Nippon Columbia / Colpax|Nippon Columbia / Colpax|No Rating|Cartridge|Keyboard,|MSX
+Pinky Chase|NOID|B5B40DF0|x|0|1984|Action , Adventure|Japan|Nippon Columbia / Colpax|Nippon Columbia / Colpax|No Rating|Cartridge|Keyboard,|MSX
+Pipi|NOID|6F172CD8|x|0|1984|Maze , Fixed|Japan|Nippon Dexter / JALECO|NIHON Dexter|No Rating|Cartridge|Keyboard,|MSX
+Pippols|NOID|BE6A5E19|x|0|1985|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Pitfall II Lost Caverns|NOID|D307A7B8|x|0|1984|Action , Adventure|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Pitfall!|NOID|5A009C55|x|0|1983|Action , Adventure|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Play Ball|NOID|D178833B|x|0|1986|Sports , Baseball|Japan|SONY|SONY|No Rating|Cartridge|Keyboard,|MSX
+Poiny X Senryosakusen O.T|NOID|9D59F2D1|x|0|1986|Strategy , Top|Japan|Kow Yokoyama / Hobby|Victor Musical Industries|No Rating|Cartridge|Keyboard,|MSX
+Police Story|NOID|7867d044 |x|0|1986|Action , Adventure|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Pooyan|NOID|558A09F6|x|0|1985|Action , Adventure|Japan|Hudson Soft|Konami|No Rating|BeeCard|Keyboard,|MSX
+Poppaq the Fish|NOID|BD387377|x|0|1984|Puzzle , Adventure|Japan|ASCII|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Price of Magik, The|NOID|B43E7881|x|0|No Date|Adventure , Text|Europe|Level 9 Computing|Level 9 Computing|No Rating|Cartridge|Keyboard|MSX
+Professional Baseball|NOID|8CA4CD58|x|0|1986|Sports , Baseball|Japan|Technopolis Soft|Technopolis Soft|No Rating|Cartridge|Keyboard,|MSX
+Protector|NOID|5747E69D|x|0|1985|Beat 'em Up|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard,|MSX
+Psychic War Cosmic Soldier II|NOID|B8FC19A4|x|0|1987|Beat 'em Up|Japan|Kogado|Kogado|No Rating|Cartridge|Keyboard,|MSX
+Puzzle Panic|NOID|1313C0C7|x|0|1986|Puzzle , Fixed|Japan|System Soft|System Soft|No Rating|Cartridge|Keyboard,|MSX
+Pyramid Warp|NOID|0AEC8DDB|x|0|1983|Maze , Puzzle|Japan|T&E Soft|T&E Soft|No Rating|Cartridge|Keyboard,|MSX
+Q-bert|NOID|0e988f0e |x|0|1986|Puzzle , Isometric|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Queen's Golf|NOID|40EEF5CD|x|0|1984|Sports , Golf|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+R-Type|NOID|A884911C|x|0|1988|Shoot 'em Up|Japan|IREM|IREM|No Rating|Cartridge|Keyboard,|MSX
+Raid on Bungeling Bay|NOID|A87A666D|x|0|1984|Shoot 'em Up|Japan|SONY|Broderbund Software|No Rating|Cartridge|Keyboard,|MSX
+Rally-X|NOID|63413493 |x|0|1984|Racing , Top|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Rambo|NOID|6a2e3726 |x|0|1985|Role Playing Game|Japan|Pack-In-Video|Pack-In-Video|No Rating|Cartridge|Keyboard|MSX
+Real Tennis|NOID|25FE441C|x|0|1983|Sports , Tennis|Japan|TAKARA|TAKARA|No Rating|Cartridge|Keyboard,|MSX
+Red Zone|NOID|E9B5B6FF|x|0|1985|Shoot 'em Up|Japan|ASCII|Yellow Horn|No Rating|Cartridge|Keyboard,|MSX
+Relics|NOID|B612D79A|x|0|1986|Action , Adventure|Japan|Bothtec|Bothtec|No Rating|Cartridge|Keyboard,|MSX
+Rise Out from Dungeons|NOID|6A6D37CF|x|0|1983|Platformer , Puzzle|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+River Raid|NOID|0F22A553|x|0|1984|Shoot 'em Up|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Road Fighter|NOID|01DDB68F|x|0|1985|Puzzle , Top|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Robo Wres 2001|NOID|788637D5|x|0|1987|Beat 'em Up|Japan|Micronet|Micronet|No Rating|Cartridge|Keyboard,|MSX
+Robofrog|NOID|99DDB974|x|0|1985|Platformer , Puzzle|Japan|Mass Tael|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Rock'n Bolt|NOID|430E5789|x|0|1985|Platformer , Puzzle|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Roger Rubbish|NOID|452556CE|x|0|1985|Shooter , Fixed|Europe|Spectravideo|Spectravideo|No Rating|Cartridge|Keyboard|MSX
+Roller Ball|NOID|56200FEF|x|0|1984|Pinball , Top|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Rotors|NOID|1CDB462E|x|0|1984|Puzzle|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Salamander|NOID|c36f559d |x|0|1987|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Sasa|NOID|7FAF00C0|x|0|1984|Shooter , Fixed|Japan|ASCII|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Saurus Land|NOID|5F2FE556|x|0|1982|Action , Adventure|Japan|Tomy|Colpax|No Rating|Cartridge|Keyboard,|MSX
+Scarlet VII the Mightiest Women|NOID|C2ED4C08|x|0|1986|Shoot 'em Up|Japan|TOSHIBA EMI|Soft Pro|No Rating|Cartridge|Keyboard,|MSX
+Scion|NOID|BA3A8EA1|x|0|1985|Shoot 'em Up|Japan|SONY|Seibu Denshi|No Rating|Cartridge|Keyboard,|MSX
+Scope on Fight in Space|NOID|5B33E583|x|0|1983|Shoot 'em Up|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Scramble Eggs|NOID|02DC77E8|x|0|1983|Shoot 'em Up|Japan|Ample Software|Ample Software|No Rating|Cartridge|Keyboard,|MSX
+Sea Hunter|NOID|1FD18174|x|0|1985|Shooter , Fixed|Europe|Spectravideo|Spectravideo|No Rating|Cartridge|Keyboard|MSX
+Senjo no Ookami|NOID|427b3f14|x|0|1985|Shooter , Vertical|Japan|ASCII|Capcom|No Rating|Cartridge|Keyboard,|MSX
+Senjyo|NOID|126BC4CD|x|0|1984|Shoot 'em Up|Japan|SONY|Tehkan|No Rating|Cartridge|Keyboard,|MSX
+Sewer Sam|NOID|925C0AEE|x|0|1984|Action , 3D|Japan|TOSHIBA EMI|Interphase|No Rating|Cartridge|Keyboard,|MSX
+Shout Match|NOID|729D2540|x|0|1987|Action , Adventure|Japan|Victor|Fun Project|No Rating|Cartridge|Keyboard,|MSX
+Sinbad|NOID|8273FD0E|x|0|1986|Platformer , Adventure|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Skooter|NOID|53B87DEB|x|0|1988|Maze , Puzzle|Japan|Pony Canyon|The Bytebusters|No Rating|Cartridge|Keyboard,|MSX
+Sky Galdo|NOID|54F84047|x|0|1986|Shoot 'em Up|Japan|STRATFORD|T-Nishi|No Rating|Cartridge|Keyboard|MSX
+Sky Jaguar|NOID|E4F725FD|x|0|1984|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Slapshot|NOID|7E558B9E|x|0|1985|Sports , Hockey|Europe|Anirog|Indescomp|No Rating|Cartridge|Keyboard|MSX
+Snake It|NOID|4A44BF23|x|0|1986|Puzzle , Fixed|Europe|Al Alamiah|The Bytebusters|No Rating|Cartridge|Keyboard|MSX
+Sofia|NOID|14811951|x|0|1987|Action , Adventure|Japan|YMCAT|Dempa|No Rating|Cartridge|Keyboard,|MSX
+Soukoban|NOID|030DDF11|x|0|1984|Puzzle , Block|Japan|ASCII|Thinking Rabbit|No Rating|Cartridge|Keyboard,|MSX
+Space Camp|NOID|EB197B9D|x|0|1986|Shoot 'em Up|Japan|Pack-In-Video|Pack-In-Video|No Rating|Cartridge|Keyboard,|MSX
+Space Invaders|NOID|DE02932D|x|0|1985|Shoot 'em Up|Japan|Taito|Taito|No Rating|Cartridge|Keyboard,|MSX
+Space Maze Attack|NOID|4A45CBC0|x|0|1983|Shoot 'em Up|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Space Trouble|NOID|26119F0A|x|0|1984|Shoot 'em Up|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Space Walk|NOID|404A023C|x|0|1985|Shoot 'em Up|Europe|Mastertronic|Mastertronic|No Rating|Cartridge|Keyboard|MSX
+Sparkie|NOID|3E14B585|x|0|1983|Puzzle , Maze|Japan|SONY|Konami|No Rating|Cartridge|Keyboard,|MSX
+Spelunker|NOID|dc948a3a |x|0|1986|Puzzle , Maze|Japan|IREM|Micro Graphic Image|No Rating|Cartridge|Keyboard|MSX
+Spider, The|NOID|A156AC02|x|0|1984|Shoot 'em Up|Japan|SONY|Hudson Soft / Japanese|No Rating|Cartridge|Keyboard,|MSX
+Spy vs Spy II the Island Caper|NOID|8F65C0F9|x|0|1987|Adventure , Action|Europe|Aackosoft|First Star Software|No Rating|Cartridge|Keyboard|MSX
+Square Dancer|NOID|No CRC|x|0|1984|Pinball , Top|Japan|TOSHIBA EMI|T&E Soft|No Rating|Cartridge|Keyboard,|MSX
+Squish'em|NOID|F3B22C91|x|0|1984|Puzzle , Platformer|Japan|ASCII|Sirius|No Rating|Cartridge|Keyboard,|MSX
+Star Blazer|NOID|fd902e5d |x|0|1982|Shoot 'em Up|Japan|Sony|Starcraft|No Rating|Cartridge|Keyboard|MSX
+Star Command|NOID|4579CE12|x|0|1983|Strategy , Sci-Fi|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Star Force|NOID|c14e53a1 |x|0|1985|Shoot 'em Up|Japan|Hudson Soft|Tehkan|No Rating|Cartridge|Keyboard|MSX
+Star Soldier|NOID|0b3d975d |x|0|1986|Shoot 'em Up|Japan|Zemina|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Starship Simulator|NOID|236D2AB1|x|0|1984|Simulation , Sci-Fi|Japan|ASCII|NEXA|No Rating|Cartridge|Keyboard,|MSX
+Step Up|NOID|CABCDDF1|x|0|1983|Platformer , Puzzle|Japan|TOSHIBA EMI|Marvel Soft /|No Rating|Cartridge|Keyboard,|MSX
+Stepper|NOID|0FB7DF8F|x|0|1985|Platformer , Puzzle|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Stone of Wisdom|NOID|8C7A7435|x|0|1986|Role Playing Game|Japan|Casio|Casio|No Rating|Cartridge|Keyboard,|MSX
+Strange Loop|NOID|6554C0C5|x|0|1987|Platformer , Adventure|Japan|Virgin Games|Nippon Dexter|No Rating|Cartridge|Keyboard,|MSX
+Suparobo|NOID|483EDDCC|x|0|1984|Puzzle , Maze|Japan|Mass Tael|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Super Billiards|NOID|79BC12B2|x|0|1983|Sports , Billiard|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Super Bioman IV|NOID|112ABF34|x|0|1992|Platformer , Adventure|Korea|Zemina|Segye-ro Electronics|No Rating|Cartridge|Keyboard,|MSX
+Super Boy I|NOID|13B34548|x|0|1989|Platformer , Adventure|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Super Boy II|NOID|09206BFD|x|0|1989|Platformer , Side-Scrolling|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Super Boy III|NOID|9195C34C|x|0|1991|Platformer , Adventure|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Super Bubble Bobble|NOID|37B5D39B|x|0|1989|Puzzle , Platformer|Korea|Zemina|Zemina|No Rating|Cartridge|Keyboard,|MSX
+Super Cobra|NOID|97425D70|x|0|1983|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Super Columns|NOID|F0A030EC|x|0|1990|Puzzle , Vertical|Japan|Screen Software|Hi-Com|No Rating|Cartridge|Keyboard,|MSX
+Super Cross Force|NOID|F05A7F4E|x|0|1983|Shoot 'em Up|Europe|Spectravideo|Spectravideo|No Rating|Cartridge|Keyboard|MSX
+Super Drinker|NOID|3254017E|x|0|1983|Platformer , Puzzle|Japan|Ample Software|Ample Software|No Rating|Cartridge|Keyboard,|MSX
+Super Golf|NOID|66AADFA8|x|0|1984|Sports , Golf|Japan|SONY|Comtec|No Rating|Cartridge|Keyboard,|MSX
+Super Laydock Mission Striker|NOID|5dc45624|x|0|1987|Shoot 'em Up|Japan|T&ESOFT|T&ESOFT|No Rating|Cartridge|Keyboard,|MSX
+Super Pachinko|NOID|8AEBDDD2|x|0|1985|Board Game ,|Japan|Nippon Columbia / Colpax|Nippon Columbia / Colpax|No Rating|Cartridge|Keyboard,|MSX
+Super Pierrot|NOID|F00B4BBC|x|0|1987|Puzzle , Adventure|Japan|Nidecom|Nippon Columbia / Colpax|No Rating|Cartridge|Keyboard,|MSX
+Super Snake|NOID|491C6AF0|x|0|1983|Puzzle , Action|Japan|HAL|HAL|No Rating|Cartridge|Keyboard,|MSX
+Super Soccer|NOID|6408ED24|x|0|1985|Sports , Soccer|Japan|SONY|SONY / Takara|No Rating|Cartridge|Keyboard,|MSX
+Super Tennis|NOID|D560D9C0|x|0|1984|Sports , Tennis|Japan|SONY|TAKARA|No Rating|Cartridge|Keyboard,|MSX
+Super Tripper|NOID|0C36F5BD|x|0|1985|Platformer , Side-Scrolling|Europe|Sony Spain|Indescomp|No Rating|Cartridge|Keyboard|MSX
+Sweet Acorn|NOID|58670A22|x|0|1985|Puzzle , Action|Japan|Taito|Taito|No Rating|Cartridge|Keyboard,|MSX
+Swing|NOID|C93FADF4|x|0|1985|Action , Vertical|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard,|MSX
+Tank Battalion|NOID|F48A0C3B|x|0|1984|Shooter , Maze|Japan|Namco|Namco|No Rating|Cartridge|Keyboard,|MSX
+Tatica|NOID|7914F7A6|x|0|1985|Puzzle , Platformer|Japan|Mass Tael|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Tawara-kun|NOID|589CE03E|x|0|1984|Puzzle , Platformer|Japan|ASCII|S. Miyazaki|No Rating|Cartridge|Keyboard,|MSX
+Tear of Nile|NOID|867BA302|x|0|1986|Puzzle , Maze|Japan|Victor|Victor|No Rating|Cartridge|Keyboard,|MSX
+Telebunnie|NOID|377FEFEF|x|0|1984|Puzzle , Maze|Japan|ASCII|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Tensai Rabbian Daifunsen|NOID|B7322600|x|0|1986|Platformer , Puzzle|Japan|TOSHIBA EMI|Soft Pro|No Rating|Cartridge|Keyboard,|MSX
+Tension|NOID|3D78462C|x|0|1988|Platformer , Side-Scrolling|Europe|System 4|System 4|No Rating|Cartridge|Keyboard|MSX
+Tetra Horror|NOID|E2D3377C|x|0|1983|Action , Adventure|Japan|Mass Tael|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Tetris|NOID|ADCB026D|x|0|No Date|Puzzle , Block|Korea|Zemina|Uttum|No Rating|Cartridge|Keyboard,|MSX
+Thexder|NOID|599aa9ac |x|0|1986|Shooter , Platformer|Japan|Game Arts|Game Arts|No Rating|Cartridge|Keyboard|MSX
+Thunder Ball|NOID|86F902A9|x|0|1985|Pinball , Top|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Thunderbolt|NOID|D8739501|x|0|1986|Role Playing Game|Japan|Pixel|Pixel|No Rating|Cartridge|Keyboard,|MSX
+Time Pilot|NOID|e4abe008|x|0|1983|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Toobin|NOID|704EC575|x|0|1988|Racing , Action|Europe|Domark|Domark|No Rating|Cartridge|Keyboard,|MSX
+Top Roller!|NOID|FC609730|x|0|1984|Sports , Rollerskating|Japan|JALECO|JALECO|No Rating|Cartridge|Keyboard,|MSX
+Topple Zip|NOID|190F4CE5|x|0|1987|Shoot 'em Up|Japan|Bothtec|Bothtec|No Rating|Cartridge|Keyboard|MSX
+Tower of Druaga|NOID|47bef309 |x|0|1986|Maze , Adventure|Japan|Namco|Namco|No Rating|Cartridge|Keyboard,|MSX
+Track and Field I|NOID|E96B861D|x|0|1984|Sports , Arcade|Europe|Sony|Konami|No Rating|Cartridge|Keyboard,|MSX
+Track and Field II|NOID|B1FF5899|x|0|1984|Sports , Arcade|Europe|Sony|Konami|No Rating|Cartridge|Keyboard,|MSX
+Traffic|NOID|B80EBEB4|x|0|1986|Puzzle , Action|Japan|SONY|SONY|No Rating|Cartridge|Keyboard,|MSX
+Trial Ski|NOID|152BEBC2|x|0|1984|Sports , Skiing|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Tritorn|NOID|C0A81A48|x|0|1986|Role Playing Game|Japan|XAIN / Sein|XAIN / Sein|No Rating|Cartridge|Keyboard,|MSX
+Trumpaid|NOID|DFADA43C|x|0|1986|Casino , Blackjack|Japan|TOSHIBA EMI|Softvision|No Rating|Cartridge|Keyboard,|MSX
+Turboat|NOID|C7ABC409|x|0|1984|Shoot 'em Up|Japan|ASCII|Mass Tael|No Rating|Cartridge|Keyboard,|MSX
+Twin Bee|NOID|c730d4a4 |x|0|1986|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Twin Hammer|NOID|28A7CEBC|x|0|1989|Puzzle , Fixed|Europe|Best|Best|No Rating|Cartridge|Keyboard|MSX
+TZR Grand Prix Rider|NOID|D792C827|x|0|1986|Racing , Motorcycles|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Ultraman|NOID|973D816D|x|0|1984|Shoot 'em Up|Japan|BANDAI|BANDAI|No Rating|Cartridge|Keyboard,|MSX
+Vaxol Heavy Armed Storm Vehicle|NOID|FEA70207|x|0|1987|Shoot 'em Up|Japan|Heart Soft|Heart Soft|No Rating|Cartridge|Keyboard,|MSX
+Venus Fire|NOID|EE0B8452|x|0|1987|Strategy , Turnbased|Japan|Victor|Cross Media Soft|No Rating|Cartridge|Keyboard|MSX
+Video Hustler|NOID|64853262|x|0|1984|Sports , Billiard|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Volguard|NOID|874E59FB|x|0|1985|Shoot 'em Up|Japan|dB-Soft|dB-Soft|No Rating|Cartridge|Keyboard,|MSX
+Wacky Darts|NOID|F74AC6C5|x|0|1987|Sports , Darts|Europe|Blue Ribbon Software|Blue Ribbon Software|No Rating|Disk|Keyboard,|MSX
+War in Middle Earth|NOID|FE18BAA0|x|0|1989|Strategy , Fantasy|Europe|Dro Soft|Melborne House|No Rating|Disk|Keyboard|MSX
+Warp and Warp|NOID|90F5F414|x|0|1984|Shooter , Puzzle|Japan|NAMCO|NAMCO|No Rating|Cartridge|Keyboard,|MSX
+Warrior|NOID|21A0B009|x|0|1983|Role Playing Game|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard,|MSX
+Warroid|NOID|A0A19FD5|x|0|1985|Beat 'em Up|Japan|ASCII|Yellow Horn|No Rating|Cartridge|Keyboard,|MSX
+Water Driver|NOID|D5AF9E82|x|0|1984|Racing , Boats|Japan|SONY|Apollo Technica|No Rating|Cartridge|Keyboard,|MSX
+Wonder Boy|NOID|892266CA|x|0|1986|Action , Adventure|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard,|MSX
+Wrangler|NOID|7185F5E8|x|0|No Date|Shoot 'em Up|Europe|Sony Spain|Indescomp|No Rating|Cartridge|Keyboard,|MSX
+Wreck, The|NOID|7EFDE800|x|0|1984|Adventure , 3D|Europe|Electric Software|Electric Software|No Rating|Cartridge|Keyboard,|MSX
+Xarchon|NOID|56f0577f |x|0|1986|Board Game ,|France|Micro MSX|Patrick Charveron|No Rating|Disk|Keyboard|MSX
+Xenon|NOID|0295eba2 |x|0|1988|Shoot 'em Up|Japan|Mastertronic|Melbourne House|No Rating|Disk|Keyboard|MSX
+Xyxolog|NOID|C7303910|x|0|1984|Puzzle , Action|Japan|Nidecom|TAITO|No Rating|Cartridge|Keyboard,|MSX
+Yab Yum|NOID|No CRC|x|0|No Date|Puzzle , Action|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|MSX
+Yellow Submarine|NOID|71E6605F|x|0|1987|Shoot 'em Up|Japan|Brother Industries|Brother Industries|No Rating|Cartridge|Keyboard,|MSX
+Yie Ar Kung-Fu I|NOID|8a12ec4f |x|0|1985|Beat 'em Up|Japan|Casio|Konami|No Rating|Cartridge|Keyboard,|MSX
+Yie Ar Kung-Fu II Emperor Yie-Gah|NOID|d66034a9 |x|0|1985|Beat 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard,|MSX
+Yokai Tanken Chimachima|NOID|8D636963|x|0|1985|Puzzle , Action|Japan|Bothtec|Bothtec|No Rating|Cartridge|Keyboard,|MSX
+Zaider Battle of Peguss|NOID|BECCF133|x|0|1986|Shoot 'em Up|Japan|Cosmos Computer|Cosmos Computer|No Rating|Cartridge|Keyboard,|MSX
+Zanac|NOID|425E0D34|x|0|1986|Shoot 'em Up|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard,|MSX
+Zanac v2|NOID|8F1917D4|x|0|1987|Shoot 'em Up|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard,|MSX
+Zaxxon|NOID|0b3ba595 |x|0|1985|Shoot 'em Up|Japan|Sega|Sega|No Rating|Cartridge|Keyboard,|MSX
+Zenji|NOID|1A4AEBB2|x|0|1984|Puzzle , Fixed|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard,|MSX
+Zexas Limited|NOID|EFEFA02A|x|0|1985|Shoot 'em Up|Japan|dB-Soft|dB-Soft|No Rating|Cartridge|Keyboard,|MSX
+Zoom 909|NOID|64283863|x|0|1985|Shoot 'em Up|Japan|SEGA|SEGA|No Rating|Cartridge|Keyboard,|MSX
+Acrojet|NOID|d2ee4051|x|0|1988|Flight Simulator ,|Japan|MicroProse Software, Inc.|System Soft|No Rating|Cartridge|Keyboard|MSX
+Agat|NOID|915F14BA|x|0|1988|Breakout , Arcade|Europe|M.M.G Software|M.M.G Software|No Rating|Disk|Mouse,|MSX
+Al Capone|NOID|3ED582CE|x|0|1987|Maze , Action|Europe|MSX-Studio|Agnes Muller|No Rating|Disk|Keyboard,|MSX
+Aleste Gaiden|NOID|32307564 |x|0|1989|Shoot 'em Up|Japan|Complie|Compile|No Rating|Disk|Keyboard|MSX
+Aleste I|NOID|c29edd84 |x|0|1988|Shoot 'em Up|Japan|Complie|Compile|No Rating|Cartridge|Keyboard|MSX
+Aleste II|NOID|234b534c,11020432,680afec8|x|0|1989|Shoot 'em Up|Japan|Complie|Compile|No Rating|Disk|Keyboard|MSX
+American Soccer|NOID|bcf03d8b |x|0|1987|Sports , Football|Japan|Nidecom|Nippon Columbia / Colpax|No Rating|Cartridge|Keyboard|MSX
+Andorogynus|NOID|c6f74489 |x|0|1987|Shoot 'em Up|Japan|Telenet Japan|Telenet Japan|No Rating|Cartridge|Keyboard|MSX
+Arctic|NOID|ae3167ee |x|0|1989|Puzzle|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Arkanoid II|NOID|00d36af6 |x|0|1988|Breakout|Japan|Zemina|Taito|No Rating|Cartridge|Keyboard|MSX
+Arsene Lupin 3rd TCoC|NOID|c4096e6b |x|0|1987|Adventure , Action|Japan|Toho|Toho|No Rating|Cartridge|Keyboard,|MSX
+Arsene Lupin 3rd TGLoB|NOID|bfe150c4 |x|0|1988|Adventure , Action|Japan|Toho|Toho|No Rating|Cartridge|Keyboard|MSX
+AshGuine I|NOID|3cb34efb |x|0|1987|Role Playing Game|Japan|Panasoft|Bit?|No Rating|Cartridge|Keyboard|MSX
+AshGuine Story II|NOID|47a82d74 |x|0|1987|Role Playing Game|Japan|Panasoft|T&ESOFT|No Rating|Cartridge|Keyboard|MSX
+AshGuine Story III|NOID|353382ce |x|0|1987|Role Playing Game|Japan|Panasoft|Microcabin|No Rating|Cartridge|Keyboard|MSX
+Avenger of Death|NOID|CB29D23B|x|0|1988|Action , Adventure|Europe|C. Hawksoft|System Breaker|No Rating|Disk|Keyboard,|MSX
+Cockpit|NOID|5f354e65 |x|0|1988|Flight Simulator ,|Japan|Nidecom|Nidecom|No Rating|Cartridge|Keyboard|MSX
+Contra|NOID|4e82660d |x|0|1989|Shooter , Side-Scrolling|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Daisenryaku|NOID|a987a0d8 |x|0|1987|Simulation , Strategy|Japan|Micro Cabin|System Soft|No Rating|Cartridge|Keyboard|MSX
+Darwin 4078|NOID|7098faf0 |x|0|1987|Shoot 'em Up|Japan|Hudson Soft|Hudson Soft|No Rating|Cartridge|Keyboard|MSX
+Deep Forest|NOID|f221b845 |x|0|1987|Adventure , Action|Japan|XAIN|Sein|No Rating|Cartridge|Keyboard|MSX
+DIRES|NOID|5acbd591 |x|0|1987|Simulation , 3D|Japan|Bothtec|Bothtec|No Rating|Cartridge|Keyboard|MSX
+Dragon Buster|NOID|49252882 |x|0|1987|Role Playing Game|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Dragon King|NOID|2fb0ed30 |x|0|1987|Shooter , Top|Japan|Sein|Xein|No Rating|Cartridge|Keyboard|MSX
+Dragon Slayer IV Drasle Family|NOID|87dcd309 |x|0|1988|Role Playing Game|Japan|Falcom|Falcom|No Rating|Cartridge|Keyboard|MSX
+Druid|NOID|94982598 |x|0|1988|Role Playing Game|Japan|No Publisher|Nippon Dexter|No Rating|Cartridge|Keyboard|MSX
+Eidolon|NOID|14913432 |x|0|1986|Adventure , 3D|Japan|Pony Canyon|Lucasfilm|No Rating|Cartridge|Keyboard|MSX
+F15 Strike Eagle|NOID|53cce88d |x|0|1988|Flight Simulator ,|Japan|System Soft|MicroProse Software|No Rating|Cartridge|Keyboard|MSX
+Famicle Parodic|NOID|0e03847b |x|0|1988|Shoot 'em Up|Japan|Bit?|Bit?|No Rating|Cartridge|Keyboard|MSX
+Family Billiards|NOID|7c867d98 |x|0|1987|Sports , Billiard|Japan|Pack-In-Video|Pack-In-Video|No Rating|Cartridge|Keyboard|MSX
+Family Boxing|NOID|7030f2ab |x|0|1988|Sports , Boxing|Japan|Sony|Wood Place|No Rating|Cartridge|Keyboard|MSX
+Fantasy Zone II|NOID|1bdfaeeb |x|0|1987|Shoot 'em Up|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Fire Ball|NOID|cdcdc6c0|x|0|1988|Pinball|Japan|Humming Bird Soft|Humming Bird Soft|No Rating|Cartridge|Keyboard|MSX
+Fire Hawk|NOID|9bad7ae6 ,c5639807 |x|0|1989|Shooter , Side-Scrolling|Japan|Game Arts|Game Arts|No Rating|Disk|Keyboard|MSX
+Ganbare Goemon|NOID|40e53ea3 |x|0|1987|Action , Adventure|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Girly Block|NOID|28094960 |x|0|1988|Action , Adventure|Japan|Telenet Japan|Telenet Japan|No Rating|Cartridge|Keyboard|MSX
+Haradius|NOID|da05ac6c |x|0|1991|Shoot 'em Up|Japan|Impact Soft|Impact Soft|No Rating|Disk|Keyboard|MSX
+Hard Ball|NOID|1d7040af |x|0|1987|Sports , Baseball|Japan|Sony|Accolade|No Rating|Cartridge|Keyboard,|MSX
+Heroes of the Lance|NOID|6ac18445 |x|0|1991|Role Playing Game|Japan|Pony Canyon|U.S. Gold|No Rating|Cartridge|Keyboard|MSX
+Hinotori|NOID|d95116b0 |x|0|1987|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Hole in One Special|NOID|f35df283 |x|0|1986|Sports , Golf|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Ikari Warriors|NOID|a9a66075 |x|0|1987|Shooter , Vertical|Japan|SNK|SNK|No Rating|Cartridge|Keyboard,|MSX
+Kempelen Chess|NOID|053aa66e |x|0|1988|Board Game ,|Japan|Pony Canyon|dev-unknown|No Rating|Cartridge|Keyboard|MSX
+Kiki Kaikai|NOID|5c859406 |x|0|1987|Action , Adventure|Japan|Sony|Taito|No Rating|Cartridge|Keyboard|MSX
+King Kong II|NOID|1d4de03e |x|0|1986|Role Playing Game|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Koronis Rift|NOID|fb348de6 |x|0|1987|Strategy , 3D|Japan|Pony Canyon|Activision|No Rating|Cartridge|Keyboard|MSX
+Livingstone Supongo|NOID|8f80e3b7 |x|0|1986|Action , Adventure|Japan|Opera Soft|Opera Soft|No Rating|Disk|Keyboard|MSX
+Mad Rider|NOID|f87bd172 |x|0|1987|Racing|Japan|Carry Lab|Carry Lab|No Rating|Cartridge|Keyboard|MSX
+Makaijima Higemaru|NOID|17baf3ed |x|0|1987|Adventure , Action|Japan|Capcom|Capcom|No Rating|Cartridge|Keyboard|MSX
+Malaya no Hihou|NOID|f7a9591d |x|0|1989|Adventure , Action|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Metal Gear I|NOID|e85c5731 |x|0|1987|Adventure , Action|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Metal Gear II Solid Snake|NOID|5c4f98d9 |x|0|1990|Adventure , Action|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Mon Mon Monster|NOID|ebccb796 |x|0|1989|Adventure , Platformer|Japan|GA-Yume / HOT-B|GA-Yume / HOT-B|No Rating|Cartridge|Keyboard|MSX
+Mr. Ghost|NOID|712ae3c6 |x|0|1988|Adventure , Action|Japan|System Sacom|System Sacom|No Rating|Cartridge|Keyboard|MSX
+Ninja Kun|NOID|f56a00e6 |x|0|1987|Adventure , Action|Japan|HAL Laboratory|HAL Laboratory|No Rating|Cartridge|Keyboard|MSX
+Ogre|NOID|f2544e2e |x|0|1987|Strategy|Japan|System Soft|System Soft|No Rating|Cartridge|Keyboard|MSX
+Out Run|NOID|0a9f8d6c |x|0|1988|Racing , 3D|Japan|Pony Canyon|Sega|No Rating|Cartridge|Keyboard|MSX
+Pac-Mania|NOID|0a86a84e|x|0|1989|Maze , 3D|Japan|Namco|Namco|No Rating|Disk|Keyboard|MSX
+Penguin Kun Wars II|NOID|b1b24da1 |x|0|1988|Puzzle|Japan|ASCII|ASCII|No Rating|Cartridge|Keyboard|MSX
+Pennant Race I|NOID|No CRC|x|0|1988|Sports , Baseball|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Pennant Race II|NOID|e92fc432|x|0|1989|Sports , Baseball|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Predator|NOID|e85a4a6b |x|0|1988|Platformer , Action|Japan|Pack-In-Video|Pack-In-Video|No Rating|Cartridge|Keyboard|MSX
+Project A2|NOID|1b285fe3|x|0|1987|Adventure , Platformer|Japan|Zemina|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Puyo Puyo|NOID|fafd2686 |x|0|1991|Puzzle|Japan|Complie|Compile|No Rating|Disk|Keyboard|MSX
+Quarth|NOID|a0014e7f |x|0|1990|Puzzle|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Quinpl|NOID|8d94af7d|x|0|1988|Puzzle , Strategy|Japan|Bit?|Bit?|No Rating|Cartridge|Keyboard|MSX
+Rastan Saga|NOID|84461e73 |x|0|1988|Adventure , Side-Scrolling|Japan|Taito|Taito|No Rating|Cartridge|Keyboard|MSX
+Replicart|NOID|6eee12c4|x|0|1987|Puzzle|Japan|Sony|Sony|No Rating|Cartridge|Keyboard|MSX
+Return of Ishtar|NOID|8ee8212c|x|0|1988|Role Playing Game|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Return of Jelda|NOID|93f2c058|x|0|1987|Shoot 'em Up|Japan|Carry Lab|Softmen|No Rating|Cartridge|Keyboard|MSX
+Rick and Mick's Adventure|NOID|e79aa962|x|0|1987|Adventure , Action|Japan|Humming Bird Soft|Humming Bird Soft|No Rating|Cartridge|Keyboard|MSX
+Scramble Formation|NOID|226795e0|x|0|1987|Shoot 'em Up|Japan|Taito|Taito|No Rating|Cartridge|Keyboard|MSX
+SD Snatcher|NOID|83dbe06f ,4e4aaa7d ,51d1199a |x|0|1989|Role Playing Game|Japan|Konami|Konami|No Rating|Disk|Keyboard|MSX
+Seigimatsu II Attack Devil|NOID|e37b681e|x|0|1987|Action , Adventure|Japan|Sony|Sony|No Rating|Cartridge|Keyboard|MSX
+Shanghai|NOID|3b815dc6|x|0|1988|Board Game ,|Japan|System Soft|Activision|No Rating|Cartridge|Keyboard|MSX
+Space Manbow|NOID|27405eed |x|0|1989|Shoot 'em Up|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Star Virgin|NOID|cbdfcc35|x|0|1988|Adventure , Action|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Strategic Mars|NOID|4a3abb65|x|0|1988|Shoot 'em Up|Japan|dB-SOFT|dB-SOFT|No Rating|Cartridge|Keyboard|MSX
+Super Lode Runner|NOID|80ecac11|x|0|1987|Platformer , Puzzle|Japan|IREM|IREM|No Rating|Cartridge|Keyboard|MSX
+Super Rambo Special|NOID|b2392ef3 |x|0|1986|Adventure , Action|Japan|Pack-In-Video|Pack-In-Video|No Rating|Cartridge|Keyboard|MSX
+Super Runner|NOID|5a5be701|x|0|1987|Sports , Competitive|Japan|Pony Canyon|Pony Canyon|No Rating|Cartridge|Keyboard|MSX
+Super Tritorn|NOID|cbb00ef1|x|0|1986|Role Playing Game|Japan|XAIN / Sein|XAIN / Sein|No Rating|Cartridge|Keyboard|MSX
+Usas|NOID|30396650 |x|0|1987|Adventure , Action|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Vampire Killer|NOID|6f2ccb5e|x|0|1986|Adventure , Action|Japan|Konami|Konami|No Rating|Cartridge|Keyboard|MSX
+Wizardry|NOID|08a5ca60 |x|0|1987|Role Playing Game|Japan|ASCII|Sir-Tech Software|No Rating|Cartridge|Keyboard|MSX
+Xevious Fardraut Saga|NOID|97591725|x|0|1988|Shoot 'em Up|Japan|Namco|Namco|No Rating|Cartridge|Keyboard|MSX
+Ys I|NOID|dce166b2 |x|0|1987|Role Playing Game|Japan|Falcom|Falcom|No Rating|Disk|Keyboard|MSX
+Zanac-EX|NOID|d153b2f2|x|0|1986|Shoot 'em Up|Japan|Pony Canyon|Compile|No Rating|Cartridge|Keyboard|MSX
+Zombie Hunter|NOID|a29e6ab4|x|0|1988|Role Playing Game|Japan|Hi-Score Software|Hi-Score Software|No Rating|Cartridge|Keyboard|MSX

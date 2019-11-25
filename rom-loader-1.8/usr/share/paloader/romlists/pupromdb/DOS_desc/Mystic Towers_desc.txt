@@ -1,0 +1,9 @@
+You are Baron Baldric and you have been asked to enter the Towers of Lazarine to clear them of monsters.
+
+You walk about in rooms of the towers, shooting the monsters with your limited magic and jumping about, moving objects, etc... finally destroying the monster generator.
+
+Trivia:
+
+Version 1.0 of the game was an incomplete version released only to a UK magazine. The first publicly available version of the game was v1.1
+
+http://www.mobygames.com/game/dos/mystic-towers

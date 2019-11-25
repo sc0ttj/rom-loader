@@ -1,0 +1,3 @@
+An adaptation of Tetris for the Sega Genesis, featuring 3d-rendered graphics and support for two languages (English and Brazilian Portuguese). It is almost complete; all that is left to do is to implement the battle mode.
+
+http://www.zophar.net/pdroms/genesis/ultimate-tetris.html

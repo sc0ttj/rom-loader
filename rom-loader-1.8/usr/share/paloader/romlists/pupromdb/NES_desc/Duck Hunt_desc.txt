@@ -1,0 +1,43 @@
+Duck Hunt is one of the first home games that you could play with a light gun. While the gameplay became repetitive after only a couple of times playing, it still made for a big hit. The graphics were nice, with bright colors and well drawn sprites. The sound effects were nice too, with the dog giving you a little chuckle if you ever miss the ducks. Many people have tried to shoot him for this, but it simply can't be done. Duck Hunt can be a lot of fun to play, so be sure to check it out.
+
+Directions - 
+There are three games to choose from. In game A, you must shoot as many ducks as you can, with one duck appearing at a time. In game B it's the same, except the ducks come two at a time. Game C is clay pigeon shooting. Clay pigeons are launched two at a time, and you must shoot them before they hit the ground.
+
+In each variation of the game, you will have stages that are built on ten targets, whether the targets are clay pigeons or ducks. After ten targets, the game will count up how many you hit. Each stage will require you to shoot a higher percentage of the ten to move on. What stage you get to doesn't matter so much, because this game is all about points. If you fail to make it to the next stage though, it's game over.
+
+All three variations also give you three shots per screen, after that you will have to watch your targets either fly away, or hit the ground. 
+
+Controls - 
+Shoot at screen - Start Game
+Shoot Offscreen - Select game mode
+
+Hints - 
+Control the Ducks
+In game A, you can plug a controller into the other controller port, and a friend can use it to control which direction the duck flies. 
+
+http://consoleclassix.com/nes/duck_hunt.html
+Super Mario Bros. / Duck Hunt is the game cartridge that came with the Nintendo Entertainment System consumer package that included a control deck, 2 controllers, and a light zapper. The included games were - 
+- Super Mario Bros. - The classic tale of an Italian plumber smashing bricks and stepping on mushrooms and turtles in order to rescue the princess.
+
+- Duck Hunt - The basic light zapper game for the NES. Two game modes allowed the player to either shoot ducks with the help of the trusty hound or to fire at clay pigeons.
+
+http://www.mobygames.com/game/nes/super-mario-bros-duck-hunt
+Your trusty hunting dog wades into the marshes to flush out your prey. Your fingers tighten around your Zapper light gun. Suddenly, there's a duck in the air! You've only got three shots to bag this duck, and if you miss, even your dog laughs at you! But become a sharp shooter, and you'll progress to the next round where two ducks fly up at the same time. And then you're on to the ultimate challenge - Clay Shooting, where you'll compete in a wild clay-pigeon shooting contest. Play DUCK HUNT and discover you can have lots of laughs and be challenged at the same time!
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.gamefaqs.com/console/nes/home/587252.html
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

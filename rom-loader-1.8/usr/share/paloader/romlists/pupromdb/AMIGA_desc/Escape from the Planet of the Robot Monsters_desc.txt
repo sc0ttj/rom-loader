@@ -1,0 +1,14 @@
+Based on the arcade game, in Escape from the Planet of the Robot Monsters you are sent in on a rescue mission to Planet X. This planet has been taken over by robots and you must find and evacuate the remaining humans.
+
+It's a shooter similar to Gauntlet, only with an isometric viewpoint. You run around the levels shooting robots, rescuing humans and picking up items.
+ 
+http://www.mobygames.com/game/amiga/escape-from-the-planet-of-the-robot-monsters
+_________________________
+CHEATS:
+
+Avoid Reptilion:
+While fighting an end of level Boss, move across the
+fighting area to the wall on the other side. Keep walking into
+the wall at a point where two blocks meet and repeatedly drop
+bombs and rotate the Joystick. Your character will eventually
+walk through the wall and avoid Reptilion.

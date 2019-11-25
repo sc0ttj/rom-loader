@@ -1,0 +1,3 @@
+Number 7 in the original Scott Adams adventure series. This one takes place at an amusement park. The first puzzle is how to get in past the turnstyles! Once inside, you must solve the mystery of the place, going through a house of mirrors and so forth. It is an all-text adventure like the others in this series, with a very basic 2-word parser.
+
+http://www.mobygames.com/game/mystery-fun-house

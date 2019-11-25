@@ -1,0 +1,3 @@
+Kuwata's first hack of Rockman. It features new levels, graphics, enemies, and even music. The levels are very challenging; some even have small puzzles in them.
+
+http://www.romhacking.net/hacks/98/

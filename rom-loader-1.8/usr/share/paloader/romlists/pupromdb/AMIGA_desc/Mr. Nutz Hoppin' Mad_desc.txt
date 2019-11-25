@@ -1,0 +1,45 @@
+Similarities with the other Mr. Nutz game only go as far as the title and main character, although both are side-scrolling platform games. Mr. Nutz the squirrel is holidaying on Peanut Planet when he's called into action to save the local people from a race of chickens. Nutz can fly, swim and dive through the planet on his quest. The level layouts include tunnels and warp zones. Bonus items and additional weapons including bombs are available along the way.
+ 
+http://www.mobygames.com/game/amiga/mr-nutz-hoppin-mad
+_________________________
+CHEATS:
+
+On the map screen type "DONTPANIC" and use the following keys while
+on the map screen:
+
+'A'_________________Gives you all power ups.
+'Q'_______________________Adds stars to you.
+'W'________________Subtracts stars from you.
+'F5'_______________Adds lives to your stock.
+'F6'________Subtracts lives from your stock.
+'F7'_________________Add gems to your stock.
+'F8'__________Subtract gems from your stock.
+'F9'________________Add bombs to your stock.
+'F10'________Subtract bombs from your stock.
+'F1-F4'_________Jump to corresponding level.
+'1-7'_________Warp around the current world.
+
+Use the following keys during the platform sections:
+
+'F1'___________Turns you into the fire ball.
+'F2'_____________________Gives you a shield.
+'F3'_____________________Gives you a shield.
+
+                      (HINTS)
+
+On level one, when you come to the first teleporter, keep going
+right, until you find the the first ladder.  Go up to it and get a
+blue flag - it has loads of gems, lives and hit points, so you can
+keep going until you have thousands of stars and 99 lives.
+
+The following didn't work on my version:
+
+Pause the game and slowly type any of the following:
+
+"COOL JUMP NUT"__________For infinite lives
+"SORCERER"________________For invincibility
+"OCEANSOFT"__To activate the following keys:
+
+'F9'_______________________________For bombs
+'F10'___________________________For diamonds
+'SPACE'_______________________To skip levels

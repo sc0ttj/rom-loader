@@ -1,0 +1,16 @@
+Super Tennis Champs offers a fresh and exciting tennis arena where sixteen
+very individual characters battle for the honours.  You can play exhibition
+matches and leagues in singles tournaments, or compete for the gruelling
+grand slam to decide the super tennis champion.
+
+(from Manual)
+
+Coded in Blitz BASIC. Game design & coding by Elton Bird; assistance from Elliot Bird; additional coding by Raymond Price and Alex Slater. Graphics by Pat Fox and Jeremy Wellard. Music by Oliver Bell. Compression by Jouni Korhonen.
+
+Game supports joypads and simultaneous 4 player matches via use of a parallel port joystick adapter.
+
+Main coder Elton Bird has given permission for the game to be freely available for download HERE [Source: EAGER].
+
+Originally received from coder Elton Bird for review as PD game TENNIS CHAMPS, Amiga Format passed the game on to sister mag Amiga Power for inclusion as a coverdisk and Audiogenic for commercial evaluation. Audiogenic promptly signed the game up for publication and asked it be recoded from AMOS into Blitz BASIC so that more players/tournaments and extra features (e.g. doubles involving human/computer partners, 4 player joystick adapter & joypad support) could be incorporated for commercial release. Within 6 months, the game was released commercially as SUPER TENNIS CHAMPS [Source: Amiga Format preview (Issue 77, Nov 95, p47), courtesy of Amiga Magazine Rack (AMR)].
+
+http://hol.abime.net/2219

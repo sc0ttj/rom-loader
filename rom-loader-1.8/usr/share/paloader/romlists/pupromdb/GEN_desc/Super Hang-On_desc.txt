@@ -1,0 +1,70 @@
+Countdown to excitement, Hang-On's back with two awesome races that are guaranteed to rev your engine. Whether you're racing against time as you beat a path across four continents, or battling guts with an opponent on a specially designed circuit, there's no better thrill than the roar of your pipes as they beat a steady rhythm in sync with your fast-paced driving. Your driving's got to red-line to beat the pack. And there's more at stake than a checkered flag. There's money. The kind of money that can transform your bike from an ordinary machine into an unbeatable screaming machine. But that's not all. The glory of victory isn't lost here: during a grueling time trial it's you against the clock, racing for the sheer pleasure of it. So grab your helmet, don your leathers, and get up your courage. It's time to burn some rubber and become king of the asphalt!
+
+Gameplay:
+
+- Arcade Mode -
+
+The arcade mode is Super Hang-On is similar to the original Hang-On. However, there is a choice 4 tracks to race on which are based on continents, each containing a different amount of stages. Each stage is roughly half the length of a stage in the original Hang-On. Africa is the easiest and shortest out of the four courses (6 stages). Asia is the second easiest and is similar in length to the course from the original Hang-On at 10 stages long. The Americas is the second to toughest course, containing 14 stages and Europe is the hardest course, being 18 stages long. When the player starts a race, they have their choice of 4 songs that will play during the race, a feature borrowed from Out Run.
+
+- Original Mode (only found in home versions) -
+
+This mode is much more in depth than the arcade mode, though the gameplay in the races is the same. The main screen is a menu where the player has several options, much like the main screen in Rock N' Roll Racing. The player can buy new parts for their bike, hire a new mechanic, or start a race. This screen displays the player's current money as well as password for continuing their game
+
+- Parts Guide -
+
+These are the parts in order of worst to best:
+Frame: Determines bike maneuverability.
+Iron Cradle $1200;
+Double Cradle $2000;
+Aluminum Double Cradle $8000;
+Aluminum Space $128000;
+Titanium Space $5000000;
+Titanium Monocoque $8000000;
+
+Engine: Determines acceleration.
+OHC Normal $600;
+DOHC Normal $2000;
+DOHC V4 $8000;
+Turbo V4 $32000;
+Ceramic Turbo $512000;
+Twin Turbo $8192000;
+
+Brake: Slows down bike.
+Drum $400;
+Disc $1500;
+Ventilated Disc $6000;
+Double Disc $24000;
+Anti-Skid $90000;
+
+Muffler: Increases acceleration.
+Normal; $300;
+Col; $1500;
+Works Original $6000;
+Private Original $90000;
+
+Oil: Increases acceleration.
+Regular $100;
+Manual $200;
+Top $3200;
+Private Original $14000;
+
+Tires Determines bike's grip on the road.
+Normal $300;
+Radial $400;
+High Performance $1500;
+Slick $6000;
+Original Slick $24000;
+
+Hints:
+
+- More Options -
+Enter the following code at the Title screen....
+A + Start
+Then a new menu should appear with many new options
+
+- Original mode with over $18Million -
+5FZ09000300000
+3FJJDO9D6FGDRL
+
+http://www.gamefaqs.com/console/genesis/home/586503.html
+http://en.wikipedia.org/wiki/Super_Hang-On

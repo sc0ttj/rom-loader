@@ -1,0 +1,29 @@
+X-COM: Apocalypse is the third installment of the X-COM series. This time you have to protect a town against alien intruders. You buy and invent new weapons you equip your soldiers with. When an UFO is discovered, you try to shoot it down with your fighters. After that, you send a transport vehicle with a soldier team to the crash site and kill all aliens either round based or in real-time.
+
+Trivia:
+
+Apocalypse has a bug which renders legit playing ad absurdum or is a praise for all the cheaters out there.
+
+It can happen, but the bug is apparently very seldom:
+
+After a fight you return with stuff you found, or you produced an item in your workshop, and suddenly you get a message that your storage is full, even though it should just be at, say, 20%. Look through your storage, the chance is high that one item type has 65536 items in it. To use the base ever again for storing anything, you have to sell the stuff.
+
+Now it depends on whether you want to play legit or cheat:
+
+You can have 65536 alien artifacts, each one worth 0$, so 0$ in total. But you could also have 65536 missile launchers worth 20 million $.
+
+There is apparently no real solution for it, nor any bug fix available. But try re-loading you last battle-savegame, the bug may shift to another item type. After several tries, it changed for me from the missile launchers to aircraft shields (not yet researched, therefore 0$).
+
+So, if you want to cheat, chances are high that you get incredible amounts of cash (compare 20 mio $ to an income of 100.000 $). If you want to play legit, you must have an unresearched item available, otherwise you are screwed (either you must take the cash or you can't use the base any more for legit storage use).
+
+Warning:
+
+If the above is a common vehicle item (both aircraft and ground vehicle), sell only from one of both. Do not sell from the other one, even it says it has 65.536 items there too! If you do, the storage percentage goes into the negative and the game crashes! If you don't, but wait a bit after selling the first items, the second stack just disappears.
+
+A lot of stuff was planned to be in the game, but was never finished due to lack of time and problems implementing it. This includes multiplayer support (for up to 8 players with hotseat, play by email or lan), a large number of skills for the agents (driving, flying, perceptive ability and sanity among others), a scenario generator to quickly start a tactical missions with as many sides you'd want (and you could control anyone, from any organization to the aliens themselves), multiple random generated alien dimensions, and other things.
+
+Actually, some of these things was programmed and was in a somewhat working state in the beta stage, but they were removed for the retail release.
+
+The X-Com: Apocalypse design went through a number of significant changes before release, including the controversial introduction of real-time action in tactical combat. Pre-release concerns about this change ultimately led to a compromise: the option to choose between turn-based and real-time combat.
+
+http://www.mobygames.com/game/dos/x-com-apocalypse

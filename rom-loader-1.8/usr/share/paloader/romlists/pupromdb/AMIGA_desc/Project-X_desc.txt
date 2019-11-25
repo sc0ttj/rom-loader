@@ -1,0 +1,43 @@
+Six levels of horizontally-scrolling shooting await in this R-Type style action game. The attack waves vary in style, with some attacking you from quite fiendish angles.
+
+These give off blue power-up tokens, which are used towards selecting one of many weapons. There are 4 front-firing options (guns, plasma, magma and laser-beams - guns can be built up quickly but lack top-end power compared to the others) as well as speed-up (only requires one token), side-shot, up to 3 homing missiles, build (a quick super-destructive blast that only functions when you aren't using auto-fire) and stealth (a period of invulnerability).
+
+Each level has a very different setting, and an end-of-level boss to defeat. The chance to resume from the level you died at is offered up to level 3.
+
+Unusually, the game has an option to emulate an auto-fire function using software (this makes it one of the few Amiga shoot 'em ups you can hope to get as far through on an emulator on keyboard as on joystick on the real thing).
+ 
+http://www.mobygames.com/game/amiga/project-x
+
+Game design by Andreas Tadic (Megaman/Phenomena) and Rico Holmes. Main coding by Andreas Tadic; additional coding by Stefan Boberg. Music and sound FX by Allister Brimble (The Demon); additional music by Bj?rn Lynne (Dr. Awesome/Crusaders); and speech effects by Chris Brimble. Disk format/code by Rob Northen.
+
+Customer feedback regarding the high difficulty of the game (particularly level 2) resulted in Team 17 addressing this problem by releasing the slightly enhanced PROJECT X (REVISED EDITION) on budget.
+
+http://hol.abime.net/1164
+_________________________ 
+CHEATS: 
+
+If you fly into the first end of level baddie when its jaws opens
+up, avoiding its fire and being careful not to touch it, you will
+be presented with a version of Space Invaders.  Complete one wave
+and you will be given three extra lives and be thrown back into the
+fray.
+_________________________ 
+Title: Project-X Special Edition 93
+Year: 1993
+Disks: 3
+
+Game design by Andreas Tadic (Megaman/Phenomena) and Rico Holmes. Main coding by Andreas Tadic; additional coding by Stefan Boberg. Music and sound FX by Allister Brimble (The Demon); additional music by Bj?rn Lynne (Dr. Awesome/Crusaders); and speech effects by Chris Brimble. Disk format/code by Rob Northen. 
+
+This game is a slightly enhanced version of PROJECT X, which Team 17 released at a budget price. Release of this enhanced version was mostly prompted by customer feedback that the difficulty level of the original (particularly level 2) was too high. Enhancements include:
+
+- Inclusion of a rookie mode allowing players making easier to progress to later levels
+- Beginning the game with a better ship
+- Shortened levels
+- Removal of some extremely difficult passages of play from game levels
+- Reducing the amount of disk swapping by fitting the game on 3 disks instead of the original's 4 disks
+
+http://hol.abime.net/1166
+_________________________ 
+CHEATS: 
+
+During play hold down the right mouse button, press 'ESC', and quickly press 'RETURN' to skip levels.  Do not let up on the right mouse button until you have pressed both keys.

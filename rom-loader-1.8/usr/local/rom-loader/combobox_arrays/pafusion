@@ -1,0 +1,162 @@
+SMSBIOS_ARRAY=(Default true false)
+SMSBIOS_ITEMS="<item>$SMSBIOS</item>" #stored value should be first in list
+for i in "${SMSBIOS_ARRAY[@]}"
+do
+	if [ "$i" != "$SMSBIOS" ];then
+		SMSBIOS_ITEMS=`echo "$SMSBIOS_ITEMS<item>$i</item>"`
+	fi
+done
+
+PERFECTSYNC_ARRAY=(Default true false)
+PERFECTSYNC_ITEMS="<item>$PERFECTSYNC</item>" #stored value should be first in list
+for i in "${PERFECTSYNC_ARRAY[@]}"
+do
+	if [ "$i" != "$PERFECTSYNC" ];then
+		PERFECTSYNC_ITEMS=`echo "$PERFECTSYNC_ITEMS<item>$i</item>"`
+	fi
+done
+
+DISABLE32X_ARRAY=(Default true false)
+DISABLE32X_ITEMS="<item>$DISABLE32X</item>" #stored value should be first in list
+for i in "${DISABLE32X_ARRAY[@]}"
+do
+	if [ "$i" != "$DISABLE32X" ];then
+		DISABLE32X_ITEMS=`echo "$DISABLE32X_ITEMS<item>$i</item>"`
+	fi
+done
+
+GGZOOM_ARRAY=(Default true false)
+GGZOOM_ITEMS="<item>$GGZOOM</item>" #stored value should be first in list
+for i in "${GGZOOM_ARRAY[@]}"
+do
+	if [ "$i" != "$GGZOOM" ];then
+		GGZOOM_ITEMS=`echo "$GGZOOM_ITEMS<item>$i</item>"`
+	fi
+done
+
+GENBORDER_ARRAY=(Default true false)
+GENBORDER_ITEMS="<item>$GENBORDER</item>" #stored value should be first in list
+for i in "${GENBORDER_ARRAY[@]}"
+do
+	if [ "$i" != "$GENBORDER" ];then
+		GENBORDER_ITEMS=`echo "$GENBORDER_ITEMS<item>$i</item>"`
+	fi
+done
+
+SEGACDLEDS_ARRAY=(Default true false)
+SEGACDLEDS_ITEMS="<item>$SEGACDLEDS</item>" #stored value should be first in list
+for i in "${SEGACDLEDS_ARRAY[@]}"
+do
+	if [ "$i" != "$SEGACDLEDS" ];then
+		SEGACDLEDS_ITEMS=`echo "$SEGACDLEDS_ITEMS<item>$i</item>"`
+	fi
+done
+
+FS_ARRAY=(Default true false)
+FS_ITEMS="<item>$FS</item>" #stored value should be first in list
+for i in "${FS_ARRAY[@]}"
+do
+	if [ "$i" != "$FS" ];then
+		FS_ITEMS=`echo "$FS_ITEMS<item>$i</item>"`
+	fi
+done
+
+NTSCASPECT_ARRAY=(Default true false)
+NTSCASPECT_ITEMS="<item>$NTSCASPECT</item>" #stored value should be first in list
+for i in "${NTSCASPECT_ARRAY[@]}"
+do
+	if [ "$i" != "$NTSCASPECT" ];then
+		NTSCASPECT_ITEMS=`echo "$NTSCASPECT_ITEMS<item>$i</item>"`
+	fi
+done
+
+FIXEDASPECT_ARRAY=(Default fit zoom disabled)
+FIXEDASPECT_ITEMS="<item>$FIXEDASPECT</item>" #stored value should be first in list
+for i in "${FIXEDASPECT_ARRAY[@]}"
+do
+	if [ "$i" != "$FIXEDASPECT" ];then
+		FIXEDASPECT_ITEMS=`echo "$FIXEDASPECT_ITEMS<item>$i</item>"`
+	fi
+done
+
+SCANLINES_ARRAY=(Default none "25%" "50%" "75%" "100%")
+SCANLINES_ITEMS="<item>$SCANLINES</item>" #stored value should be first in list
+for i in "${SCANLINES_ARRAY[@]}"
+do
+	if [ "$i" != "$SCANLINES" ];then
+		SCANLINES_ITEMS=`echo "$SCANLINES_ITEMS<item>$i</item>"`
+	fi
+done
+
+RENDERMODE_ARRAY=(Default normal tv)
+RENDERMODE_ITEMS="<item>$RENDERMODE</item>" #stored value should be first in list
+for i in "${RENDERMODE_ARRAY[@]}"
+do
+	if [ "$i" != "$RENDERMODE" ];then
+		RENDERMODE_ITEMS=`echo "$RENDERMODE_ITEMS<item>$i</item>"`
+	fi
+done
+
+FILTERED_ARRAY=(Default true false)
+FILTERED_ITEMS="<item>$FILTERED</item>" #stored value should be first in list
+for i in "${FILTERED_ARRAY[@]}"
+do
+	if [ "$i" != "$FILTERED" ];then
+		FILTERED_ITEMS=`echo "$FILTERED_ITEMS<item>$i</item>"`
+	fi
+done
+
+VSYNC_ARRAY=(Default true false)
+VSYNC_ITEMS="<item>$VSYNC</item>" #stored value should be first in list
+for i in "${VSYNC_ARRAY[@]}"
+do
+	if [ "$i" != "$VSYNC" ];then
+		VSYNC_ITEMS=`echo "$VSYNC_ITEMS<item>$i</item>"`
+	fi
+done
+
+SHOWFPS_ARRAY=(Default true false)
+SHOWFPS_ITEMS="<item>$SHOWFPS</item>" #stored value should be first in list
+for i in "${SHOWFPS_ARRAY[@]}"
+do
+	if [ "$i" != "$SHOWFPS" ];then
+		SHOWFPS_ITEMS=`echo "$SHOWFPS_ITEMS<item>$i</item>"`
+	fi
+done
+
+ALSA_ARRAY=(Default true false)
+ALSA_ITEMS="<item>$ALSA</item>" #stored value should be first in list
+for i in "${ALSA_ARRAY[@]}"
+do
+	if [ "$i" != "$ALSA" ];then
+		ALSA_ITEMS=`echo "$ALSA_ITEMS<item>$i</item>"`
+	fi
+done
+
+HQSOUND_ARRAY=(Default true false)
+HQSOUND_ITEMS="<item>$HQSOUND</item>" #stored value should be first in list
+for i in "${HQSOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$HQSOUND" ];then
+		HQSOUND_ITEMS=`echo "$HQSOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+SOUND_ARRAY=(Default true false)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"`
+	fi
+done
+
+SOUNDQUAL_ARRAY=(Default 22050 44100)
+SOUNDQUAL_ITEMS="<item>$SOUNDQUAL</item>" #stored value should be first in list
+for i in "${SOUNDQUAL_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUNDQUAL" ];then
+		SOUNDQUAL_ITEMS=`echo "$SOUNDQUAL_ITEMS<item>$i</item>"`
+	fi
+done
+

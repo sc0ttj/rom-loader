@@ -1,0 +1,3 @@
+Educational game for kids. Side-scrolling game in which you help a giant worm save words and build your own vocabulary at the same time.
+
+http://www.mobygames.com/game/dos/word-rescue

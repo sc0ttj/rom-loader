@@ -1,0 +1,67 @@
+Wow, the color. The look of this game is spectacular. The colors are bright, crisp, and smooth. It looks as good (if not better than) Sonic and is as much fun and has as much replay value, I think. Walk around as a crazy little creature who's not exactly attached to his head. I know, there are about a thousand jokes here, but I'll forgo them. Most wouldn't be PG anyway. Change the function of his head to change his attack. Find hidden things and beat bosses.
+
+The music is quirky and just downright weird sometimes, but it fits for this game. This is one weird little game. Still, I must admit that I fancy such games. This game is really quite fun and addictive though very difficult at times. Enemies are many and various and the worlds you go through are fantastic creations.
+
+Directions:
+
+The spotlight in the top left corner of the screen is how you tell what kind of condition Headdy is in. As you take damage it will go from green to yellow to orange to red and then to black (death). Keymasters (they carry keys and you must defeat them to gain the keys) will have their own spotlight in the right corner of the screen so you can tell if you are doing them damage and if they are about to be destroyed.
+
+The number of lives you have remaining will be displayed when you restart/start a scene. The only places you won't lose a life when your health turns black are practise and intermission areas.
+
+In addition to the normal controls listed below, you can get Headdy to duck by pressing down on the D pad. Also pressing down and C will allow you to jump off of a platform you are standing on.
+
+The first "boss" type you will have to face will be a bear. He will summon bright white orbs to himself that will hurt you if you touch them. After he has summoned a certain amount of them he will begin to jump up and down. Then he will charge to the left of the screen (you can stand to the right of him and avoid him altogether). Then he'll bounce to the right and the white orbs will fly out around the screen again. Wait for him to start panting and then hit him. Do this twice and you win. Other bosses will require similar "dodge-and-find-the-weak-spot" strategies.
+
+There are a few items you can pick up in this game: Banana- Health; 1 Up- extra Headdy; 500- 500 points; Red T Block- collect enough of these to get another try (a continue); Secret Bonus Points- special things that you can find within the game where the only real function is to give you something to look for.
+
+More important to know about than those pick ups are these, your other heads. Headdy can change his head (or sometimes change himself entirely) to make his attacks more effective. Hit Headcase (you'll be introduced to this head-carrying little guy in the game) to claim whichever head is shown in the box. Here's a small list (the heads are really quite numerous) of what some heads can do: Hammer Head- Looks like a hammer and does twice the damage of your normal head, with the added benefit of still being able to perform all of the normal tasks your default head can perform. Bomb Head-Your head will become a bomb and you will be able to set it down and have it explode about five seconds later. This head will really do massive damage, to you as well if you aren't careful. Throw it before the fuse burns down or it'll explode and kill you. Another drawback to this head is that you can't do some of the things you can usually do with your normal head.
+
+Mini-Head- This head allows you to shrink so that you can get into places you couldn't as your normal size. You cannot cancel this head by pressing A, but you can exchange it with another head.
+
+Note that some heads cannot be canceled by pressing A, and some heads won't be helpful at all (and you can be sure that the worst, most unhelpful heads won't be cancel-able).
+
+Another character you'll run into is Hangman. You'll be able to grab onto Hangman and pull yourself across, up, and over things. Some heads will not be able to grapple Hangman.
+
+Get the basketballs into the hoops in the Intermission stage by hitting them with your head. Couldn't have guessed that, eh? I mean, nothing else in the game is activated by hitting it with your head...... Did my sarcasm help to make an impression? You guessed it. If you think it can be moved, manipulated, or mangled, bop it with your beak. 
+
+Controls:
+
+A Button: Cancel Head
+B Button: Attack
+C Button: Jump
+Start Button: Pause Game
+
+Hints:
+
+- Hard Mode (or 1-hit death mode) -
+At the title screen, press Start once, then leave the cursor on "Start Game." Just like the stage select code, press C, A, Left, Right, B. You will hear headdy say "Nice" when you've entered the code correctly. Then press and HOLD START. Continues holding start until you see the "Opening Demo" scene appear. Now you can release the start button and continue as normal. Be warned, One hit is all it takes to kill you now.
+
+- Head Animations -
+At the title screen select ''Options'' and press: C, A, Left, Right, B. You will hear ''NICE'' when you've entered the code correctly. Then press START to view the head animations.
+
+- Stage Select -
+When the title screen appears, press START once. Leaving the cursor at Start Game, enter the code: C, A, LEFT, RIGHT, B. If you hear a sound, you've got it! Press START and you'll access the Stage Select! Just choose your level and stage. Then press START to play! (Note: This trick was done on an early version of the game. It may or may not work on later versions)
+
+- Secret final scene -
+After the end credits has finished rolling you are prompted to enter a 4 digit secret code on a keypad. The valid code is different each time the game is played , complete the basket ball mini game four times while going through the game to determine your games secret code. 
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/dynamite_headdy.html
+This game oozes quirky from every pore. That's certainly what I took from it after the credits had rolled. Dynamite Headdy is injected with that nonsensical asian flavour that defies description.
+
+You play as Headdy, a puppet who has escaped from the clutches of Dark Demon, with a physique very much like Rayman and it is up to you to defeat him for woefully obvious reasons.
+
+Gameplay revolves around shooting your head at things to climb around and beat up enemies with various powerups abound which grant your head different abilities.
+
+A credit to the diversity of this game, a series of powerups are used in what amounts to a shoot 'em up series of levels. Also present is a basketball minigame where you bounce balls into the nets with your head.
+
+Very tight controls, colourful, whacky presentation, and solid platforming make Dynamite Headdy among my favourite Genesis titles. Rock on.
+
+Translation Description:
+
+Dynamite Headdy was one of those great games that unfortunately went through a process known as "localization". Nearly all the dialogue was removed, and what little remained was changed. Furthermore, many of the graphics were modified and this already challenging game had its difficulty level pumped up significantly.
+
+Now you can play the original version of one of Treasure's truly innovative games, in English.
+
+Reviewer: Shadowsithe 
+http://www.romhacking.net/trans/1113/

@@ -1,0 +1,3 @@
+Move the coloured blocks around to match them up. Blocks can only be moved left or right, and can fall down but not move up. Some levels are fiendishly designed and need some careful thought, and all this is against a strict time limit, so don't make a mistake.
+
+http://www.pcengine.co.uk/HTML_Games/Puzznic.htm

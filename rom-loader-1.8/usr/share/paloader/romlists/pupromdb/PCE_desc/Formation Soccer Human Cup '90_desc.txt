@@ -1,0 +1,11 @@
+Vertically scrolling football (or soccer if you prefer).
+
+HINTS:
+
+- All password screen -
+Press Up + Right, Right, Down + Right, Up, Up, Down, Left + Down, Left on the password screen.
+
+- View ending -
+Press Right + Down, Down, Up, Up, Down, Right + Up, Right + Up, Down on the password screen.
+
+http://www.pcengine.co.uk/HTML_Games/Formation_Soccer.htm

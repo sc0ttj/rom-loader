@@ -1,0 +1,60 @@
+# bits per pixel combobox
+BPP_ARRAY=("Default" "Disable" "8" "16" "32")
+BPP_ITEMS="<item>$BPP</item>" #stored value should be first in list
+for i in "${BPP_ARRAY[@]}"
+do
+	if [ "$i" != "$BPP" ];then
+		BPP_ITEMS=`echo "$BPP_ITEMS<item>$i</item>"`
+	fi
+done
+
+# machine
+MACHINE_ARRAY=("Default" "ST" "STE" "TT" "Falcon")
+MACHINE_ITEMS="<item>$MACHINE</item>" #stored value should be first in list
+for i in "${MACHINE_ARRAY[@]}"
+do
+	if [ "$i" != "$MACHINE" ];then
+		MACHINE_ITEMS=`echo "$MACHINE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CPU
+CPU_ARRAY=("Default" "68000" "68010" "68020" "68040")
+CPU_ITEMS="<item>$CPU</item>" #stored value should be first in list
+for i in "${CPU_ARRAY[@]}"
+do
+	if [ "$i" != "$CPU" ];then
+		CPU_ITEMS=`echo "$CPU_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CLOCK
+CLOCK_ARRAY=("Default" "8" "16" "32")
+CLOCK_ITEMS="<item>$CLOCK</item>" #stored value should be first in list
+for i in "${CLOCK_ARRAY[@]}"
+do
+	if [ "$i" != "$CLOCK" ];then
+		CLOCK_ITEMS=`echo "$CLOCK_ITEMS<item>$i</item>"`
+	fi
+done
+
+# memory size
+RAM_SIZE_ARRAY=("Default" "512k" "1MB" "2MB" "4MB" "8MB" "12MB" "14MB")
+RAM_SIZE_ITEMS="<item>$RAM_SIZE</item>" #stored value should be first in list
+for i in "${RAM_SIZE_ARRAY[@]}"
+do
+	if [ "$i" != "$RAM_SIZE" ];then
+		RAM_SIZE_ITEMS=`echo "$RAM_SIZE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# sound combobox
+SOUND_ARRAY=("Default" "Off" "Low" "Med" "High")
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"`
+	fi
+done
+

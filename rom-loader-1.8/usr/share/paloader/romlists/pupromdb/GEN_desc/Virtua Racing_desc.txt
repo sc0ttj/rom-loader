@@ -1,0 +1,5 @@
+Virtua Racing is a home port of Sega's first ever 3D polygon-based racing game from the arcade. The game consists of racing Formula-1-looking cars around a beginner, intermediate or expert track competing against a second player or computer drivers. Despite having Formula-1 cars, the game controls feel very "arcadey" and you can see the leap they made from here to Daytona.
+
+The Megadrive/Genesis version of Virtua Racing is particularly interesting as it is the only game for the system which features the "SVP" or "Sega Virtua Processor". This is a 3D processor built into each cartridge (the console itself had no 3D capability) and is very similar to the SNES's SuperFX chips, used in games such as Starfox and Stunt Race FX. However at the time the cost was tremendous meaning that this game cost around 1.5 times as much as a regular game. It did not sell well making this game quite a rare collector's item. Also of note - AFAIK the SVP chip has not been emulated to date hence you will need a real console and cart to play this game!
+
+http://www.mobygames.com/game/genesis/virtua-racing

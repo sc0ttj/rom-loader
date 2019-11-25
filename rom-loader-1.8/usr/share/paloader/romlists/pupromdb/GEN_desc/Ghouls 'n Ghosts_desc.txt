@@ -1,0 +1,98 @@
+Three years have passed since Arthur defeated the Demon King Astaroth and rescued his beloved Princess Prin-Prin (see Ghosts 'N Goblins). A new villain, the Great Demon King Lucifer (Loki in some versions) has become the new leader of Ghoul Realm. While returning from a journey, Arthur sees the Princess' castle and her village under attack by Lucifer's forces. While rushing towards her beloved knight, the Princess is struck by one of Lucifer's laser beams.
+
+Now, Arthur must venture back to the Lucifer's palace and destroy the demon in order to rescue the Princess' soul and bring her back to life! And it won't matter whether he fights in his shining armor or in his underwear alone...the bravest Knight in the land isn't going to be stopped by some monsters! Although the game starts with graveyard and marsh territory familiar from the first game, later levels are set in a tower, a mass of skeletons, and a castle.
+
+Players progress from left to right (from bottom to top in level 3), and have to hack down the aforementioned monsters with a sword. The journey includes ledges, ladders, lava pits and slippery slopes. Different weapons can be collected, by finding suits of armor inside chests. Each of the five stages has its own setting and a final boss.
+
+Directions:
+
+You play Arthur, a knight on a mission to save his girl from the evil Lucifer (Loki). Battle your way through five levels, defeating each boss, to make it to his chamber. Along the way you will meet several foes, mostly undead creatures (ghouls and ghosts, thus the name).
+ 
+There are some new features in this installment. First, you can press up while you fire and Arthur will shoot up. You can also press down and fire while jumping, and he will shoot down. Secondly, they added a suit of gold armor you can find. Also, Arthur can jump around randomly to try and discover hidden treasure chests. Treasure chests can contain a suit of armor, a weapon, or an evil wizard. There are two kinds of armor, grey and gold. The grey armor is the one that you start with. It gives you one hit point. If you get hit once, it will be gone, leaving you naked and vulnerable to another attack that will mean the death of Arthur. The gold is magic. It doesn't give you any more hit points, but it will give your weapon its magic ability.
+
+The evil wizard will try to turn you into a lady, a baby, a duck, or an old man. Kill him as soon as you see him, before he gets a chance to fire his spell.
+
+There are several weapons available in the game:
+
+Lance-
+Arthur begins with this weapon. It moves in a straight line across the screen. The Lance's magic power is a lightning spell, which causes Arthur to fire lighting bolts to his left, right, and directly above himself.
+
+Dagger-
+The dagger behaves like the lance, but it is much faster, and Arthur can throw three at once, instead of just two. The Dagger's magic causes Arthur to create a mirror image of himself for a short time, which will follow Arthur's every move. This can be used to attack twice as fast as normal.
+
+Torch-
+Arthur lobs a torch a short distance in front of himself, which burns the ground for a short period of time. Generally considered a difficult weapon to use effectively. The Torch's magic causes four fireballs to encircle Arthur and spread out.
+
+Axe-
+The axe travels very slowly, but it can cut through enemies, allowing you to attack multiple enemies at once. Arthur can only throw a single axe at a time. The Axe's magic causes explosions to erupt in the area near Arthur.
+
+Sword-
+The only non-projectile weapon. Arthur simply swings the sword in front of himself. To make up for its short range, the sword is twice as powerful as Arthur's other weapons. The sword's magic causes a dragon to appear and attack enemies.
+
+Discus-
+The discus is similar to the Lance, but if you kneel while throwing it, it will hug the ground, which is useful on hilly terrain. The Discus' magic makes a mirror appear directly in front of Arthur, which will protect him, and damage any enemies that come in contact with it.
+
+Psycho Cannon-
+The Psycho Cannon can only be obtained on Arthur's second time through the game, and it is the only weapon that can defeat Lucifer. He can find it by opening a treasure chest while wearing the gold armor. Arthur throws a blast of magic directly in front of himself. The attack's range is dependent on what armor Arthur is wearing. If he's in his boxers, the range is extremely short, while it's more respectable when he's wearing gold armor. Additionally, with the gold armor, it can destroy enemy projectiles. The strength of the Psycho Cannon depends on how close Arthur is to an enemy when he uses it. If Arthur attacks from close range, it is easily the most powerful weapon in the game.
+
+There are also items that are carried on the back of enemies. The baddie will have a basket on his back, and if you kill him, it's contents will fall onto the ground. It can contain many different things, but they all equal extra points for Arthur. Keep an eye on the time limit too, because if it runs out, it will mean a death for Arthur.
+
+Gameplay:
+
+The gameplay for Ghouls 'n Ghosts is similar to that of Ghosts 'n Goblins. The player controls the knight Arthur, who must advance through a series of eerie levels and defeat a number of undead and demonic creatures in his quest to restore the souls stolen by Lucifer (Loki in the English-language Sega Genesis and Sega Master System versions), including the soul of his lover, Princess Prin Prin. Along the way, Arthur can pick up a variety of weapons and armor to help him in his quest.
+
+While the core gameplay remains the same as its predecessor, the game now allows Arthur to fire directly upward and directly downward.
+
+By jumping in certain spots, players can cause a treasure chest to erupt from the ground. By firing his weapon at the chest, players may uncover new weapons, gold armor or an evil magician that changes Arthur into an elderly man or a helpless duck. The gold armor allows players to charge up the weapon to release a powerful magical attack. Each weapon has its own special attack.
+
+Controls:
+
+A Button: Jump
+B Button: Shoot
+C Button: None
+Start Button: Start/Pause
+
+Hints:
+
+- Debug Mode -
+At the title screen, while the words are flashing "Press Start Button", input "A, A, A, A, Up, Down, Left, Right" and you should hear a chime. Start the game and you will be in debug mode. Three functions can be accessed from the pause menu now.
+
+Tap C during pause - Frame Advance
+Pause, A, Pause -Invincibility Toggle (falling is still fatal)
+Hold B during pause - Slow Motion
+
+- Japanese Mode -
+Enter the Options menu. Choose ''26'' for the music and ''56'' for sound selections, then hold Down/Left + A + B + C + Start.
+
+- Level Select -
+Press [Up, Down, Left, Right] repeatedly at the title screen. You'll hear a harp if you did it right. Enter one of the following controller actions to select the corresponding level.
+
+The Execution Place: Press Start.
+
+The Floating Island: Press A, Start.
+
+The Village of Decay: Press Up, Start.
+
+Town of Fire: Press Up + A, Start.
+
+Baron Rankle's Tower: Press Down, Start.
+
+Horrible Faced Mountain: Press Down + A, Start.
+
+The Crystal Forest: Press Left, Start.
+
+The Ice Slopes: Press Left + A, Start.
+
+Beginning of Castle: Press Right, Start.
+
+Middle of Castle: Press Right + A, Start.
+
+Loki: Press Down/Right, Start.
+
+- Slow-Mo Cheat -
+At the title screen press Up, A, Down, A, Left, A, Right, A. Begin the game, press start to pause, and hold B and unpause to resume gameplay in Slow-Motion.
+
+http://www.mobygames.com/game/genesis/ghouls-n-ghosts
+http://en.wikipedia.org/wiki/Ghouls_%27n_Ghosts
+http://www.consoleclassix.com/genesis/ghouls_n_ghosts.html
+http://www.gamefaqs.com/console/genesis/code/563325.html

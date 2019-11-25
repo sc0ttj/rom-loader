@@ -1,0 +1,74 @@
+You are Wor, a winged battle master with the power to hurl bolts of energy and control the magical forces of nature. Your planet has been taken over by some of the most hideous creatures ever known! Crush these dangerous creatures and free the planet!
+
+Gameplay:
+
+Gynoug is a horror-themed shoot'em up similar to Thunder Force and other horizontal shooters. But other than most of them where you play a spaceship of some sort, here you play as Wor, a member of the so-called 'Flying men' who look quite similar to angels. The home planet of these people, Iccus, has been taken over by a virus that has mutated into a collection of quite horrible creatures, and every previous attempt to battle them has failed. So now it is Wor's turn to save his home planet and destroy these mutants once and for all!
+
+Gynoug consists of 6 levels with no check points, instead you continue right where you died if you have any lifes left. Each level (except the last) has a mid-boss and a large end-boss. There are three types of shots, one that fires in a triangular fashion, one that fires more concentrated in a corridor and a bit to the back and above/below you, and one that fires to the front and back simultaneously. You can power them up in two ways, by shooting more bullets and by strengthening them. Also, feathers can increase your speed like in Gradius.
+
+- Levels -
+
+Boss names are from the instruction manual.
+
+Round 1
+
+The game begins in some caves with deep, dark passageways and a river in the background.
+
+Mid-round boss: Dragoon, a grey, seemingly fossilised tortoise with an elongated neck ending in a toothy skeletal head. It shoots orange spores out of its neck.
+
+End-of-round boss: Locomotive Breath, a locomotive engine with a man's face which spits out missiles.
+
+Round 2
+
+An overground level, with Wor flying through the open air over water and birds (among other enemies) dropping missiles. Eventually the round moves underwater to an encounter with a mini-Oglithan (see below) before meeting the real thing.
+
+Mid-round boss: Oglithan, a conical shell which floats around turning itself inside-out, revealing a fleshy inside and emitting a spray of spores, as well as larger missiles.
+
+End-of-round boss: Masseboth, a wooden ship with a bearded man's face as a figurehead, spitting spores. After a while, the ship sinks before rising up to reveal a much larger face underneath the ship, wearing the ship on its head. Spores are emitted from the rudder as well as from the face's mouth. "Masseboth" is also Hebrew (?????, matz-tsay-baw) for "standing stones" or "column" but this seems to have little to do with this boss itself.
+
+Round 3
+
+A quasi-gothic city, with spitting gargoyles and other enemies.
+
+Mid-round boss: Peeble, a segmented serpentine creature which zooms away from and into the screen to collide with Wor.
+
+End-of-round boss: Gark, an huge engine with a face like Locomotive Breath, which emits a serpentine whip of spores from its eyes. Its lower "jaw", a plough, drops away at times to reveal its "tongue", a fiery sword emitting fireballs.
+
+Round 4
+
+A entirely mechanised level, with engines and pipes in the background.
+
+Mid-round boss: Monotrog, a set of floating heads around a machine with a propeller and missiles.
+
+End-of-round boss: Orrpus, a disembodied human upper body, half-mechanised and half-flesh, with machinery on its shoulder/back. It shoots out red discs (like red blood cells) from its mouth and lower side.
+
+Round 5
+
+A bizarre world with floating aberrations, reminiscent of inside the human body (especially the eye).
+
+Mid-round boss: Slog, a cross-legged grey humanoid orbitted by fast-moving spheres, spitting blue spores. In English, to slog is to hit or strike, possibly referring to the creature's missiles, or else simply an attempt to create a primitive, bestial name (cf. "ug").
+
+End-of-round boss: Perfidy, a bizarre grey individual with an inactive lower body ressembling a whole octopus stretched across the bottom of the screen, joined to the upper body, an armless grey torso and head, by a flexible muscle joint. The upper body moves wildly, emitting red missiles. In English, perfidy is treachery or a betrayal.
+
+Round 6
+
+Another sky-like level, with clouds above and below and rays of light in the background.
+
+Mid-round boss(es): All of the previous mid-bosses one after another: Dragoon, Oglithan, Peeble, Monotrog and Slog.
+
+End-of-round boss(es): Orrpus (Round 4) appears first. Afterwards, the final boss appears: a previously unencountered turquoise humanoid with an exposed rib cage and a jellyfish-like creature on its back, all while curled up in a foetal position but ending in a large clawed hand instead of legs. It shoots white spores from its midsection, which float around slowly and do not disappear until the boss's defeat. The instruction manual gives the last boss no name, simply exhorting the player to "PREPARE FOR THE WORST!".
+
+Hints:
+
+- Easy Mode -
+Highlight the ''Game Level'' section on the options screen, then hold A + B + C and press Start.
+
+- Level Select -
+Highlight the ''Control'' section on the options screen, then hold A for around ten seconds.
+
+- Unlimited Credits -
+Hold Left + A + C when the ''Game Over'' screen appears. Hold the buttons until the continue screen is displayed to continue game play without using any credits.
+
+http://en.wikipedia.org/wiki/Gynoug
+http://www.gamefaqs.com/console/genesis/home/586601.html
+http://www.mobygames.com/game/genesis/wings-of-wor

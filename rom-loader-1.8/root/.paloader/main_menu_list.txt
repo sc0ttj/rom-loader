@@ -1,0 +1,38 @@
+amiga|Amiga
+cpc|Amstrad
+arcade|Arcade
+atari_console|Atari
+atari2600|Atari 2600
+atarilynx|Atari Lynx
+atarist|Atari ST
+coleco|ColecoVision
+c64|Commodore64
+doom2|Doom
+dos3|MS DOS
+gba3|Gameboy
+gamegear|GameGear
+genesis|Genesis
+intellivision|Intellivision
+settings1|Linux
+sms3|Master System
+msx|MSX
+neogeo|NeoGeo
+neocd|NeoGeo CD
+ngp|NeoGeo Pocket
+nes|NES
+N64|Nintendo 64
+nds|Nintendo DS
+pce|PC-Engine
+pcfx|PC-FX
+psp|PSP
+psx|PlayStation
+scummvm|ScummVM
+segacd|Sega CD
+sega32x|Sega 32X
+snes|SNES
+virtualboy|VirtualBoy
+wonderswan|Wonderswan
+zxspectrum|ZX Spectrum
+recent|Recent Roms
+settings|Settings
+exit|Quit

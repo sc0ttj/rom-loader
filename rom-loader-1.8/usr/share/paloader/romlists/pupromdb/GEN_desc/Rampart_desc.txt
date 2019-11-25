@@ -1,0 +1,56 @@
+A mega-hit in the arcades, RAMPART is now available for play on your Genesis! It combines the best of strategy games with awesome graphics and explosive, lightning-fast action. Become a powerful medieval warlord, build huge fortresses and position your cannons. Then, blast away at enemy fortifications and invading armadas. Once the onslaught ends, quickly rebuild and extend the walls of your fortress before the next battle. Plan well, fight fiercely, and above all, don't lose your head. Because you will - if you lose.
+
+Gameplay:
+
+- Single Player Game -
+
+The single-player game consists of up to six levels, where the ultimate aim is to destroy a fleet of attacking ships, whilst repairing any breaching they cause in your fort.
+
+At the start of each level, the player chooses the location of their fort from a number of options. This location is then surrounded by a wall to form a castle, which the player can then place cannons within. After this, an attacking round commences, followed by a repair round, where any damage to the castle must be repaired. If the player manages to survive the repair phase, he is given a short amount of time to place additional cannons within the walls of his fort (if he made room for them), after which the battle resumes.
+
+This cycle continues until either the player fails a repair round, or enough ships in the enemy's fleet are sunk. When the opposing navy has been sufficiently depleted, the level is won, and the player may then choose another level from the island map.
+
+- Phase One: "Prepare for Battle" -
+
+In an attacking round, the player and enemy ships fire at each other using their respective cannons. The player can sink the enemy ships, whilst the enemy can destroy parts of the player's perimeter. Enemy ships move around while they fire, making it necessary to lead your target like in Missile Command.
+
+The 'battle' phase
+
+Ships come in three types:
+
+    - Single-sailed ships shoot at your walls and move around, but do little else. It takes two shots to sink one.
+
+    - Double-sailed ships require three hits to sink, and if they reach the shore they deposit grunts, small tank-like objects that multiply and move around during the repair phase. They can be shot with cannons and destroyed by surrounding them with walls, but they tend to get in the way and are capable of destroying castles if left unchecked. Grunts adjacent to walls during battle can destroy them to get inside a player's area. (In some home versions of the game, placing a wall on top of a house also creates a grunt.)
+
+    - Red ships require 5 hits to sink, and their shots leave fiery craters whenever they strike a wall. These craters must be built around during the repair phase, and each persists for three rounds. (Some home versions make this a random number of rounds.)
+
+Later levels feature "dark" versions of each of these ships, which are each capable of taking one additional hit before sinking.
+
+- Phase Two: "Build and Repair" -
+
+In the repair round, the player must repair the damage done to the wall surrounding his territory. They are presented with a random series of shapes, and must place them on the island within a time limit to keep their castles surrounded by walls. While superficially similar to Tetris shapes, these pieces have much greater variety, ranging from 1 by 1 squares that can fit almost anywhere to big plus and U-shapes. The pieces do not fall, but may be moved freely around the screen and placed in any spot that does not overlap something already on the board (walls, water, castles, cannons, grunts, craters, or the edge of the board).
+
+At the start of the Repair phase, all the territory that is so damaged that there is no longer a complete, unbroken wall around it is lost. By placing wall pieces, the player attempts to "capture" territory by completing a wall around it. Before the timer expires, the player must have completed a wall around at least one castle (which may or may not be his original, "home" castle) or he loses. It is also advantageous to capture previously-placed cannons, as only cannons within the player's territory may be used in the subsequent battle phase.
+
+- Phase Three: "Place Cannons" - 
+
+After a successful repair round, the player may gain extra cannons (the number depending on the number of castles captured) to be placed in their territory.
+
+In the SNES and PC versions only, the cannons gained can also be converted in powerups:
+
+        - The Balloon floats at the beginning of phase 1 to the most powerful enemy ship (for singleplayer) or cannon (for multiplayer) and converts it to the player side for the successive fighting round.
+
+        - The Supercannon is bigger than the usual cannons and fire red projectiles, which sink any ship in one hit or leave a permanent fire if they hit the landscape
+
+- Multiplayer Game - 
+
+When playing with two or three players the game is similar, except that instead of fighting against enemy ships, the players each have their own area of land separated by a river, and they shoot at each other's walls. In multiplayer mode, cannons can be destroyed if they take enough hits, there are bonus squares that are worth extra points when captured, and there are no grunts or craters, but the game is otherwise similar.
+
+Players shoot at each other's walls during the Battle phase and try to make it difficult for them to survive the next repair round. If a player is unable to repair his wall, he must insert another credit to remain in the game, but cannot do so more than three times. The last player remaining is the winner. If all the players remain in the game for an operator-adjustable number of rounds, they engage in a "Final Battle" at the start of the last combat phase, and if there isn't a clear winner at the end of the following repair phase, the winner is determined based on score.
+
+- Strategy -
+
+Within Rampart each element of the game interacts with the others in subtle ways. It is generally easier to capture an unowned castle than repair the wall around a starting castle, but without the benefit of the home castle's cannons the player will have a tough time. Building close to the water will allow the player better aim, and to get more shots off during battle (each cannon may only have one cannonball in the air at once), but enemy ships will also get more shots and castles close to the water are more vulnerable to grunts. Building more cannons gives the player more shots in battle, but once placed cannons cannot be removed, and too many cannons can make it almost impossible to survive a repair phase. These tradeoffs give Rampart its charm but also make the game difficult to master.
+
+http://www.gamefaqs.com/console/genesis/home/586413.html
+http://en.wikipedia.org/wiki/Rampart_(arcade_game)

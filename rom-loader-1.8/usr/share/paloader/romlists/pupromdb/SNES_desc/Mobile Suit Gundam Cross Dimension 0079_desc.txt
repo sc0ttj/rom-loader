@@ -1,0 +1,8 @@
+This is a strategy game, and it's full of those standard-issue Bandai giant robots everyone seems to love.
+
+Translation Description:
+
+There seem to be no issues so far. The game's script was translated by vampiresquid, and the title screen was done by yours truly. It's difficult to read the dialogue at times, but it's the programmer's fault, not Gideon's.
+
+Reviewer: wraith
+http://www.romhacking.net/trans/830/

@@ -1,0 +1,8 @@
+A 'Game of Life' style board game that the Japanese seem fond of. You and either computer or real players take it in turns to 'roll' the spinner (dice) and make your way around the game board. Certain squares allow you to gamble, others let you take out insurance, and others let you get money from the bank. As you progress, your character gets married, has kids and goes through life experiences.
+
+HINTS:
+
+- Buster Brothers Mini-Game -
+Before spinning the roulette, press Select, then hold I, II, Run, and press Select
+
+http://www.pcengine.co.uk/HTML_Games/Yu_Yu_Jinsei.htm

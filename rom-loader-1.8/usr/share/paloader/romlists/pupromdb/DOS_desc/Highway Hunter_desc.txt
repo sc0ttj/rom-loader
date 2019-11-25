@@ -1,0 +1,3 @@
+Top-down arcade shooter. You are in a powerful car in which you must travel the roads and shoot your enemies. There are many upgrades for you to find to help make you stronger and fire more powerful shots.
+
+http://www.mobygames.com/game/dos/highway-hunter

@@ -1,0 +1,1 @@
+Asteroids-like game by Technopop. You fly around in a ship around a sun that will kill you on touch. You can even play with a buddy in 2p mode.

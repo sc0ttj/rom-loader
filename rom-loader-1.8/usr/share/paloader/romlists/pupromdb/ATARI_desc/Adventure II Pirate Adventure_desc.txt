@@ -1,0 +1,8 @@
+This is adventure #2 in Scott Adam's text adventure series. In this adventure, you shuffle between three locales: an unremarkable (at first) London flat and two islands littered with dangerous critters and people. The goal of the game is to find the two pirate treasures on the treasure island. You move about and use objects by typing one or two word commands such as NORTH, INVENTORY, or GET SNEAKERS. You only have to type the first 3 letters of a command or object for the parser to recognize it.
+
+Trivia:
+Scott Adams published the BASIC source code to Pirate Adventure in the December 1980 issue of BYTE Magazine (pp. 192-212); the code sets up the virtual machine for the adventure and then largely consists of DATA-statements, thousands of numbers plugging values into the virtual machine. With this (somewhat obtuse) reference, many text adventure fans among BYTE's subscription base reverse-engineered the virtual machine and used it to help get a leg up advancing their own homebrew text adventures.
+
+Scans of the pages in question can be viewed online at http://www.biggusgeekus.org/if/byte1280.html
+
+http://www.mobygames.com/game/pirate-adventure

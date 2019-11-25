@@ -1,0 +1,88 @@
+Description
+
+Discover the most frantic, frenzied, fun-filled Pokémon challenge ever--Pokémon Puzzle League! Line up three or more blocks of the same type to clear them off the screen. Create chains and combos to send garbage to your opponent. Collect badges from other Pokémon trainers to earn the right to enter the ultimate competition... a battle against the mysterious Puzzle Master!
+
+
+Gameplay
+
+Pokémon Puzzle League features the same gameplay as in Panel de Pon. The objective is to clear blocks from the playfield by arranging them in horizontal or vertical lines of three or more blocks. A continuous stream of new blocks pushes up from the bottom of the playfield, causing the entire playfield to rise continuously. If the blocks reach the top of the playfield, the player loses. The player can temporarily stop the progression of blocks by scoring combos and chains, and in two-player battles, these actions also cause garbage blocks to stack on top of the opponent's playfield.
+
+Unlike its predecessors, Pokémon Puzzle League features a 3D mode in addition to the traditional 2D mode. In this mode, gameplay takes place on a cylinder with an effective width of 18 blocks, compared to the six-block width of the flat 2D field. It also features the original block design from Panel de Pon and Tetris Attack, as well as a Pokémon-oriented design (which is selected by default).
+
+In two-player games, players can select one of fourteen Pokémon trainers to play as. Unlike most Pokémon games, trainer and Pokémon selection are purely cosmetic and do not affect gameplay whatsoever.
+
+Characters
+
+The characters in Pokémon Puzzle League either come from the anime and were once exclusive to it, like Ash Ketchum, Tracey Sketchit, and Gary Oak or have appeared in previous Pokémon games but appear in the game as they do in the anime like Misty, Brock, and Giovanni. There are 16 playable characters in the game. In the 1P Stadium, only Ash is playable and Gary's Pokémon, Nidoran?, Growlithe, and Krabby, will fully be evolved into Nidoqueen, Arcanine, and Kingler, respectively, in Hard mode, Very Hard mode, and Super Hard mode when challenging him the second time. These fully evolved Pokémon are not playable with Gary.
+
+
+
+Featured Gameplay Modes
+
+
+
+1P Stadium
+
+This is the main story-based mode of the game. The player takes on the role of Ash and plays through a linear tournament against other Pokémon trainers to become the Pokémon Puzzle Master. Each round is played against a computer opponent in a single Versus round, in which scoring combos and chains sends garbage blocks to the opponent's playfield. The player may choose from one of five difficulty levels before starting the tournament.
+
+Spa Service
+
+Team Rocket steals the player's Pokémon, forcing the player to play through a series of stages in which the members of Team Rocket put on various disguises. Each stage requires the player to clear blocks down to a predetermined "clear line" - the player passes a stage when there are no blocks above the line. The player also encounters two stages in which the goal is to score combos and chains to defeat an opponent. The first of these stages takes place against "Team Rocket 2" (Butch and Cassidy), and is optional (losing does not affect the outcome of the game). The final stage takes place against Giovanni, and the player must pass this stage to win.
+
+Stages start in 2D mode, but eventually switch to 3D about halfway through the game. Spa Service Mode is equivalent to Story Mode in Panel de Pon.
+
+Time Zone
+
+The player plays on a single 2D or 3D playfield for two minutes and attempts to score as many points as possible.
+ 
+2P Stadium
+
+This mode allows two players to play against one another in three competitive games. 2P Versus Mode plays identically to 1P Stadium - the objective is for one player to cause the other to lose by filling their playfield. Each player can send garbage blocks to the other's playfield by scoring combos and chains.
+
+Players can also play in Spa Service Mode, in which the objective is to clear blocks down to the clear line before the other player does, or Time Zone Mode, in which the objective is to score more points than the other player in two minutes.
+
+All two-player modes can be played in 2D and 3D, and each player chooses a trainer to play as. By default, games are played in best-of-5 matches, though this can be changed in the Options menu.
+
+Marathon
+
+The player plays in either 2D or 3D mode, chooses an overall difficulty level and a starting speed level, and plays for as long as possible, scoring as many points as possible. This is equivalent to "Endless Mode" in Panel de Pon.
+
+ Puzzle University
+
+This mode presents the player with a series of puzzles in which the player must clear all the blocks in a predetermined number of moves. There are multiple classes of puzzles, spanning simple "switch the correct blocks" puzzles, to chain puzzles where timing is important, as well as 3D puzzles. Once all the puzzles in the main mode have been completed, the player can access a second set of more difficult puzzles by entering a code on the controller. This is equivalent to "Puzzle Mode" in the Game Boy version of Tetris Attack; however, Puzzle University also provides a puzzle editor, in which the player can create and play their own 2D puzzles, while the Game Boy version of Tetris Attack never did have that feature.
+
+Professor Oak's Lab
+
+Contains several non-interactive tutorials describing both basic and advanced techniques.
+
+Mimic Mansion
+
+Hosted by Tracey Sketchit, this area also contains a number of tutorials showing various techniques. Unlike Oak's Lab, techniques are broken up into several categories and many skill levels, from beginner to advanced, and can be presented both non-interactively and interactively. In Interactive mode, Tracey first shows the player a set of moves, then has the player repeat those moves to achieve the same end.
+
+Mimic Mansion also provides a "Super Easy" gameplay mode which plays identically to Marathon Mode, except that gameplay is overall much slower than normal, and the speed level never increases beyond 1. Scores are not stored from this mode.
+
+Pokémon Center
+
+This section provides access to player records, trainer profiles, and game options.
+
+
+Development
+ 
+Music
+
+Background music for this game is based on the Pokémon 2BA Master CD, and the song "Catch Me if You Can" from Pokémon: The First Movie's short feature Pikachu's Vacation (as well as the score for the movie itself). Some music also comes from the anime.
+
+ Graphics
+
+The cutscene graphics match the animation of the anime. This game was also known for being one of the few N64 games to have FMVs, and the only one to have crisp, clear, full screen, VHS-quality FMVs, with the only quality suffering being framerate (other games featuring FMVs, such as Resident Evil 2 and Wheel of Fortune, had the videos shown either in tiny boxes in the corner of the screen or in widescreen format, and the quality was usually very grainy).
+
+Gameplay
+
+While regarded by many as purely a system port with a renovated Pokémon scheme, improvements in technology from previous consoles to the Nintendo 64 drastically changed the single and multiplayer experiences. The immediate upgrade in pure processing power allows players to navigate between blocks much faster, leading to elite play both on the console as well as on computer emulators where users can take advantage of a much speedier keyboard. Though never massively widespread, the emulators led to high level online play when there was no such online support for the console.
+
+In addition, the Nintendo 64's more powerful processor allowed for a much more sophisticated computer AI for the 1P Stadium mode. This AI combined the faster navigation with such complex attack and defense routines that developers added not just one, but two extra difficulty levels for advanced players. There is one notable absence however, and that is the lack of play against a computer player in 3D mode for 1P stadium. If a player wants to face a computer player in 3D mode, they must do so by changing the second player to a computer one via the options mode, so that in the 2P stadium mode, the opponent faced will be CPU. Note that all selections usually made by the second player, such as character selection will still have to be entered via the second controller. This is great for practicing against level 10 computer players. The player can then select to face the computer in 3D mode if they wish. However, when facing the computer in any 3D mode, the AI becomes erratic, and usually self defeats. There is a small note in the instruction manual explaining the lack of AI for 3D mode. Its engine was later used in the Nintendo Puzzle Collection version of Panel de Pon.
+
+
+
+http://www.gamefaqs.com/n64/913924-pokemon-puzzle-league
+http://en.wikipedia.org/wiki/Pok%C3%A9mon_Puzzle_League

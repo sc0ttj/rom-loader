@@ -1,0 +1,15 @@
+Ambitious arcade conversion of Sega's 3D helicopter game. The game is divided into two styles, firstly a familiar vertically scrolling overhead viewpoint which switches to an into-the-screen, Space Harrier style at certain points in the level. Your weaponry is limited to guns and air-to-ground missiles, which must be aimed with care to hit their target.
+
+COMMENT:
+
+It takes some guts to convert Thunder Blade to a console like the PC Engine. And considering the limitations, NEC Avenue hasn't done a bad job, at least technically. Sure, the buildings are really jerky, but this is more the limitations of the hardware than lack of programming skill. But where the game does fall down is its gameplay. Even in the arcade it was quite poor, only the novelty of the moving chair to make you play it, and without the bells and whistles you can really see what a dull game it is.
+
+The helicopter controls feel very sluggish (in all versions), as though you are having to drag it painfully around the screen, and the 3D sections are more a matter of random dodging and firing than skill. That being said, the frantic nature of these scenes does give you a kind of thrill at getting through them. Music is reasonable - but again a step down from the classic tunes of Space Harrier and After Burner II. And that's what Thunder Blade feels like, one big step down from the classics.
+
+HINTS:
+
+- Level select. -
+(Enter at the title screen)
+Press Run, then hold I and Down-left, then press Select.
+
+http://www.pcengine.co.uk/HTML_Games/Thunderblade.htm

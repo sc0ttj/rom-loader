@@ -1,0 +1,19 @@
+Dark Sun: Wake of the Ravager is the sequel to Dark Sun: Shattered Lands. Although it has the same engine and basic gameplay as the original game, the graphics have been improved considerably with larger character sprites, etc. Like its predecessor, this game is a departure from the earlier Gold Box Dungeons & Dragons games and is more akin to Baldur's Gate. Instead of a first person "maze game" focusing on dungeon crawling, the game has a third-person top down view with more of a focus on interacting with the characters and environment.
+
+The game takes place from a top down perspective from which the player views the world from above, and they control their character's actions with a mouse-driven icon-based point-and-click interface similar to those used in adventure games. Combat takes place on the same screen/environment as the normal adventuring portion of the game, and is turn based where the player issues their commands and then the computer issues its commands.
+
+Dark Sun: Wake of the Ravager follows from Dark Sun: Shattered Lands, taking place on the barren burning wasteland planet known as Athas. Characters from the first game can be imported. After defeating the Drajian Army in the first game, the party journeys to the recently liberated city of Tyr whose evil Sorcer-King Kalak was recently slain. Although freed from Kalak's Tyranny, Tyr is now defenseless against the ambition of the Dragon (Athas' resident Ultimate Evil). The Dragon sends his powerful undead general the Lord Warrior to Tyr to conquer it and prepare for his coming. The player's characters hook up with a rebel underground known as the Veiled Alliance and must oppose the Draxans and the Lord Warrior, all the while they are secretly being observed by the Dragon through his crystal ball thingy (he makes various nasty comments about their progress during the map load screens). The party soon learns that the Dragon may be the least of their worries, however, as it becomes apparent that the Lord Warrior has his own hidden agenda and intends to unleash a long dormant monster of immense destructive power upon the world.
+
+Trivia:
+
+There's a particularly nasty game-killing bug that prevents you from finishing the game about halfway through. It seems to crop up most frequently on the masterpiece jewel case edition.
+
+In the mines, when you try to use the elevator, the game will freeze on the level loading screen. This occurs even if you load from an earlier save game and try it again. Since you need to use the elevator to get further into the game, this essentially halts your progress.
+
+You can actually get around this by kicking out all of your party members except one, using the elevator with that one character, then re-hiring all your party members once you reach the bottom of the mine shaft.
+
+Because you can transfer characters from the previous game into this game, it can create a gamebalance problem at the beginning of the game where your characters are somewhat stronger than they should be(Although they're not all that stronger, the maximum level you could reach in Shattered Lands was lvl 9, and starting characters in this game begin at lvl 6-7). 
+
+The designers addressed this in a somewhat irresponsible way by giving monsters twice as many hit points if you use transferred characters. This is fine at the start of the game, but gets ridiculously unfair by the time you reach the final boss.
+
+http://www.mobygames.com/game/dos/dark-sun-wake-of-the-ravager

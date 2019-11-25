@@ -1,0 +1,33 @@
+Engage in airborne combat with jump-jets and weapons of incredible power or link up with your cyber cycle for high speed ground attacks. Each step inches you closer to your goal and the fight of your life. You are Ranger X... A mysterious lone warrior who has risen from the ashes to return peace and justice to a failed society. Eight post-apocalyptic levels of high-intensity action! Monstrous mechanical bosses await your every move. Use jump-jets to attack by air or transform into the Super Cyber Cycle and roll to victory!
+
+Gameplay:
+
+Ranger X was released fairly late in the lifetime of the megadrive. Coming from an unknown developer it was released with little fanfare and advertising but has become one of the best demonstrations of what the genesis/megadrive is capable of.
+
+The game is a side scrolling shooter of sorts. You control a large mech (robot) which has a smaller side-kick mech which is a bit like a car. The two can join together providing an alternate shooting mode. Whilst controlling just the main mech however, the player can shoot both forward and back by using different buttons. The mech can also use it's rocket pack to boost off of the ground and hover for a short while. Levels are not necessarily left to right moving (although for the most part they are) and the game is an interesting blend of platform game and shoot-em-up.
+
+The game features innovative graphics given the hardware limitations - there is a 3D introduction to most levels (remembering that the console had no 3D capability and a tile-based renderer) and some levels use a line-based scrolling effect to give the impression of 3D backgrounds.
+
+Hints:
+
+- Cheat Mode -
+Pause game play and press Up, Down, Up, Down, Up, Down, C, B, A, Right, Left. The music will resume to confirm correct code entry. Enter one of the following controller actions to enable the corresponding effect.
+
+- Level skip -
+Press B.
+Slow motion
+Press A. Press Start to return to normal speed.
+
+- Skip Current Level -
+Enter the following code at the Pause Screen....
+Up - Down - Up - Down - Up - Down - C - B - A - Right - Left
+To skip to the next level just press B
+
+- Slow Motion -
+During gameplay, pause the game then press U,D,U,D,U,D,C,A,R,L. Then prees A to go into slow motion.
+
+- Secret level -
+At the options screen press A, B, C, A, B, C, A, B, C. Select Easy and start the game.
+
+http://www.gamefaqs.com/console/genesis/code/586414.html
+http://www.mobygames.com/game/genesis/ranger-x

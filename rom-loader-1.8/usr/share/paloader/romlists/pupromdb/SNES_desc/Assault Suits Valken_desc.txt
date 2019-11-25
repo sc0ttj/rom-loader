@@ -1,0 +1,8 @@
+Assault Suits Valken is the Japanese version of Cybernator, a game that Konami brought over to America. The game is a sidescrolling shooter similar to Contra, but here you pilot a huge Mech named Gundam Valken. The main difference between this version and the US one is the story - a lot of things were removed by Konami for no reason, and the game paused itself while you received instructions during a mission in the US version. Valken doesn't do that, which may be a disadvantage - particularly against the last boss, who you can't attack until he shuts up. But he can attack you! Yep, unfair, but that's life.
+
+Translation Description:
+
+And here it is, the unedited, uncensored version of Cybernator! There are still some random text display issues, and you can't change Jake's name, but other than that it's fully playable!
+
+Reviewer: Kitsune Sniper
+http://www.romhacking.net/trans/775/

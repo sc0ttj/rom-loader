@@ -1,0 +1,15 @@
+Commander Keen 6: The Armageddon Machine is a platform game, the sixth in the Commander Keen series as a whole.
+
+Molly, the babysitter of Billy "Commander Keen" Blaze (an eight-year-old genius) has been kidnapped by the Bloogs from the planet Fribbulus Xax, for purely gastronomical purposes. Keen must set out to Fribbulus Xax to save her!
+
+The game begins with a top-down map of the Fribbulus Xax. This is the level select screen, where you can walk around and choose the next level you want to enter, though some places on the map require you to find specific items (such as a grappling hook) to get through. On each level, you have to make your way to the exit. Once you finish the level, you're back on the overhead map. 
+
+The levels are full of enemies, including the club-wielding Blooguards, the Flects which can reflect your shots with their teeth, and Nospikes which charge at you in hopes of impaling you. There are also many deadly hazards. If Keen gets shot or touched by an enemy, or falls into a pit or touches something hazardous, he dies, and you lose one life. 
+
+Thankfully, Keen can stun most enemies with his raygun. He also carries a pogo stick which allows him to jump very high. Other items to find include: ammo, gems that are needed to open locked doors, bonus items which give score, bird-like "Vivas" (100 of them give an extra life) and the rare Queen Viva which gives an extra life. 
+
+Trivia:
+
+This is the commercial Keen episode. (The others are shareware) FormGen convinced id to put copy protection in the game.
+
+http://www.mobygames.com/game/commander-keen-6-aliens-ate-my-baby-sitter

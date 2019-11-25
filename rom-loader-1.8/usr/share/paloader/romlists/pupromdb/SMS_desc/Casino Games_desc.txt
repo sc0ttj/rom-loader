@@ -1,0 +1,25 @@
+In Casino Games the player can visit a Casino with $500 in the pocket where they spend it on casino games. The games come in 3 different categories that include card game, slot machine, and pinball.
+
+After the player picks there gender and their surname they are greeted by the woman at the information desk. The player can then pick if they want to enter an account number if the player has played before. If not the default $500 is given and the player is on there way to play some games.
+
+The categories and games available are:
+
+Card Games
+
+Poker  The player plays one of the four CPU players available ranging from the easy player, Nancy, to the hardest player, Charley. The player is presented with a one on one game using the five-card-draw poker where the player, after playing the ante, can Bet, Pass, or Fold for a round, before replacing unwanted cards for the 2nd and final round of betting. The more skilled the opponent the harder it is to bluff them and they will try to bluff more themselves.
+
+Blackjack  The standard game against the dealer where the objective is to score higher then the dealer to but not exceed 21 points for the value of all the players cards. The player can Hit (get another card) or Stand (keep the cards) . It uses the casino rules like Double Down (if the score lower then 12 then the player can double the bet but have a maximum of one more card), Split (turn two matching cards into 2 separate hands), and Insurance (player wins if the dealer gets 21 with two cards after playing extra). Bets can be between $10 and $100.
+
+Baccarat  Player tries to beat the dealers score by using only the last digit of the total of the cards (i.e 10+4 = 4) if the score is under six then the player gets dealt one more card. If the players score is over six or seven then the dealer may get an extra card based on complex rules. Eight and above then no one gets an extra card. Bets can be between $10 and $100.
+
+Slot Machine
+
+There are old standard fruit slot machines with 3 lines each. The player picks a slot machine that come in $1, $5, $25, $50, or $100 per token. There is one token per line to a maximum of 3 lines after which the player will be increasing the payout per line up to 3 times (9 tokens max). The payouts range from 1 Cherry (2 tokens) to Lucky Sevens (50 tokens).
+
+Pinball:
+
+After choosing the table slope of Gentle, Middle, or Steep (slow to fast) the player is presented with a standard 3 ball pinball table named CASINOGAMES with drop-targets, bumpers, rollovers, and 2 levels of flippers. The plunger strength is based on timing and flippers are controlled by left and B. There is only one table to play is no money to be won.
+
+There is no amount to play to, however, if the player runs out of money then it is game over. When the player has won an amount then they can get an account number to password save the game.
+
+http://www.mobygames.com/game/sega-master-system/casino-games_

@@ -1,0 +1,84 @@
+Three-headed demon Morgul has been influencing people's dreams to create nightmares, but more recently these nightmares have become real. Only Turrican can save them in this fast paced side scrolling shoot-em up. It features 5 worlds and 13 levels of challenging gameplay.
+
+Gameplay is conceptually simple: just jump, shoot and explore. However, this game puts a lot of emphasis on finding and using the 10 different weapons Turrican can collect.
+ 
+http://www.mobygames.com/game/amiga/turrican
+
+Released 1993-04-26 on Amiga Fun issue 5/93.
+
+Turrican is a 1989 video game programmed and designed by Manfred Trenz. It was first developed for the Commodore 64 by Rainbow Arts.
+
+The series started in 1989 on the Commodore 64 with a demo level of the full game which was released in 1990. Turrican became very popular due to its high technical achievements, demonstrating graphics which many did not believe to be possible on a C64.
+Turrican was developed mainly by Manfred Trenz and published by Rainbow Arts. A later Amiga conversion was produced by Factor 5.
+
+http://hol.abime.net/1533
+_________________________
+CHEATS:
+
+Cheat mode:
+Enter BLUESMOBIL as a name on the high score
+screen. Begin another game for 99 lives and extra mines, lasers,
+and other items.
+
+Hint: Avoid enemies:
+If an enemy appears that you do not wish to fight,
+leave the screen and return.  The opponent will no longer be present.
+Note: Any extra lives and weapons on that screen will also disappear.
+After many generations of peace, the Dark Forces have assembled again, and as a member of the USS Freedom Forces, it is your job to defeat them once again. This means you will have to complete numerous large levels always searching for secrets to pick up and enemies to shoot. To do this, you can pick up three different, upgradeable shots: a multiple, a laser and a rebound. You can also go into wheel-mode (as long as you have enough special energy) or use a rope. In wheel-mode, you are invincible and can lay mines or explore previously unreachable areas.
+ 
+http://www.mobygames.com/game/amiga/turrican-3
+
+Known as Mega Turrican on the Sega Megadrive/Genesis
+
+Peter Thierolf joined Neon Studios (the developers of Mr. Nutz: Hoppin' Mad) while coding Turrican 3. The Amiga Mr. Nutz graphics engine was then used as the basis for Amiga Turrican 3. Thus, the Amiga source code is copyrighted to Neon Studios. (Source: Peter Thierolf)
+
+http://hol.abime.net/1537
+_________________________
+CHEATS:
+
+Cheat mode:
+Enter one of the following codes during game play to
+activate the corresponding cheat function.
+
+Effect: Code
+
+Unlimited super bombs: destruct
+
+Unlimited energy: eternity
+
+Level skip: beammeup
+
+Unlimited rolling energy: rolling
+Turrican II: The Final Fight is a platformer/shooter as typically seen on consoles, but designed for home computers from the ground up.
+
+Its plot is - naturally - very simple: an evil mega-robot called "The Machine" attacks the United Planets Ship Avalon 1, slaughtering all who resist. All - except Bren McGuire, who manages to escape and slips into the experimental Turrican bionic armor. As Turrican, he strives to show The Machine who's the boss.
+
+Unlike other games of its type, Turrican II also contains three levels of horizontal shooter action in the spirit of R-Type or the developers' own Katakis. Six large worlds are to be explored, where you are basically free to go everywhere you want, since there is no automatic scrolling and the levels are packed with hidden extra lives and weapons. All those levels are very different: the first one in the rock desert is pretty colorful with parallaxing rainbow background and happy music, while the following worlds get darker and darker.
+
+Turrican can get some different weapons for his arm cannon: the bounce weapon which rebounds from surfaces into smaller bouncing balls when powered up the laser, which can shoots beams as large as Turrican himself when maxed out the multiple shot beam, which can shoot up to 5 beams covering approximately a 90 degree angle 
+The Turrican suit weaponry is not limited to the arm cannon however:
+he also can fire a continuous beam, activated by holding the fire button. This beam can be rotated around Turrican, so it is possible to blast things below him in this way
+additionally, he can fire power lines by pressing the space bar, resulting in two energy bars as high as the screen going from the Turrican suit to the left and right of the screen, severely damaging enemies in the process
+if the space bar is pressed when the hero is crouching, the Turrican will morph into a shuriken shape. In this state, it will roll to the left or the right, damaging enemies while being invincible and small bombs can be dropped by pressing the fire button
+finally, the most powerful attack, which can only be used one time per life, can be delivered by pressing the fire button and the space bar at the same time. The Turrican suit will morph into a shuriken shape and fly around the screen for several seconds, while firing shots of the different weapons in multiple directions
+ 
+http://www.mobygames.com/game/amiga/turrican-ii-the-final-fight
+
+Amiga and Atari ST versions were released simultaneously.
+
+A Turrican II demo is prelaunched on a computer-show in Cologne. Only 900 copies are available for the public. Overwhelming demand causes riots on the show with 2 people wounded [Source: Factor 5 company history].
+
+Budget release on Spiele Disc issue 1992-04.
+_________________________
+CHEATS:
+
+Unlimited lives:
+Press [Space] at the title screen to enter the
+music menu.  Then, type 142 and press [Esc] twice.
+
+Unlimited lives (alternate):
+Press [Help] to enter the music menu.  Then,
+press 4 to turn off the music, then press 2 enable
+music again. After approximately then seconds of music, press
+[Esc] twice.  Begin game play with unlimited lives and
+power lines.

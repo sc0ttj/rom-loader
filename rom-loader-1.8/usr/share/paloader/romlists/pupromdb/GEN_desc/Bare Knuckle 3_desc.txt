@@ -1,0 +1,7 @@
+Translation Description:
+
+All the text in the game has been translated. This includes both dialogue in the story mode and the win/lose quotes in the Battle mode, and the Engrish in the battle mode has been fixed. The patch has been thoroughly tested and works on the hardware. If you find a platform it doesn't work on, contact the author.
+
+There are currently no known bugs. Please note, however, that the patch has only been tested on an American Sega Genesis Model 2. The code has been written in such a way that it should work on all models, though.
+
+http://www.romhacking.net/trans/1375/

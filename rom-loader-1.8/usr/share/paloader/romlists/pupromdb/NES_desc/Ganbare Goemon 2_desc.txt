@@ -1,0 +1,8 @@
+If you have to play any NES game, this is the game to play. Personally I love the music, which I believe is made possible by that VRC6 something or ever. It's just fantastic. I would describe the gamplay as a romp through Japan causing all sorts of havoc with your partner in crime, Ebi. Did you know that this is the first game where Goemon has his fro and Ebi's first appearance in the series? Great times.
+
+Translation Description
+
+Finally after about two years of work, I have a complete patch for Ganbare Goemon 2. Everything should be translated, but there were several strings I did not find in-game. I have given them numbers, so if you find a number please let me know. Have fun.
+
+Reviewer - Pennywise
+http://www.romhacking.net/trans/1329/

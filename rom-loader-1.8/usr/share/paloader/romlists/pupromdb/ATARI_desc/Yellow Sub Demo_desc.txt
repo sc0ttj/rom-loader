@@ -1,0 +1,5 @@
+This prototype is simply a movement demo featuring the famous Beatles yellow submarine.  Using the joystick you can move the submarine in all eight directions until you get bored and shut it off.  There are no borders, and the sub will wrap around to the other side of the screen after a second or two.
+
+It's unknown if the submarine was going to be used in a future game based on the Beatles movie, but it's more likely this was simply a movement demo done as a learning project (especially given how much licensing the Beatles would cost).  The submarine is nicely detailed, and there are even a few frames of animation when it changes direction.  To date the programmer responsible for this demo has not been identified.
+
+http://www.atariprotos.com/5200/software/yellowsub/yellowsub.htm

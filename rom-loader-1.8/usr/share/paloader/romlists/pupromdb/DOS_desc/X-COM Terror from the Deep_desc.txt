@@ -1,0 +1,24 @@
+X-COM: Terror from the Deep is the follow-up to the successful resource management and tactical combat game X-COM: Enemy Unknown.
+
+It has been 40 years since X-COM last defeated the aliens. Now, in the year of 2040, aliens begin to appear on the Earth again. This time the threat to humanity is coming from the depths of oceans.
+
+The game is almost identical to the original X-COM game. The user interface, weapons, and aliens are all the same. The only difference is the adaptation of the aliens and weapons to the ocean environment. The game features both undersea and on-land missions, and is significantly harder than its predecessor.
+
+Trivia:
+
+The research tree in this game had a few bugs which prevent you from researching certain items, one of them can even stop you from successfully completing the game. Luckily there are guides that contain ways to avoid these bugs.
+
+---------------------
+
+"X-Com II" is heavily based on the writings of Howard Phillips Lovecraft. Many names and creatures are taken straight from HPL. Also, T'leth is R'lyeh, and in the final mission, you can see the tomb and the portrait of the Great Cthulhu himself! 
+
+---------------------
+
+TFTD added hand-to-hand weapons to the usual arsenal of weapons (unless you count the stun rod as a hand-to-hand weapon). 
+
+---------------------
+
+"After completing UFO MicroProse wanted to do a quick follow up within six months. We said that this was not feasible, and if it were possible it would be little more than the same game with different graphics. Instead we started work on X-Com:Apocalypse, which was much more ambitious. Once UFO/X-Com was clearly known to be a success, MicroProse suggested that we license the code for them to develop their own sequel. The rest is history."
+
+
+http://www.mobygames.com/game/dos/x-com-terror-from-the-deep/trivia

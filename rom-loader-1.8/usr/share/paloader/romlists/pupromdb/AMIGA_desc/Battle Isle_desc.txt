@@ -1,0 +1,117 @@
+On the distant planet Chromos, the Drullian people fight the forces of Skynet-Titan, an AI out of control.
+The player has to lead the Drull armies to victory in several battles.
+
+A turn-based strategy game. The screen is split in two, one half for each player. While the first player can move his units, the other can attack and vice versa.
+
+There are 16 levels to play against the computer and another 16 for 2 player competitive play.
+ 
+http://www.mobygames.com/game/amiga/battle-isle
+_________________________
+CHEATS:
+
+Level|One player|Two player|Special
+
+0|CONRA|FIRST|EUROP
+
+1|PHASE|GHOST|STORM
+
+2|EXOTY|GAMMA|
+
+3|MOUNT|MARSS
+
+4|FIGHT|EAGLE
+
+5|RUSTY|METAN
+
+6|FIFTH|FOTON
+
+7|VESUV|POLAR
+
+8|MAGIC|TIGER
+
+9|SPACE|SNAKE
+
+10|VALEY|ZENIT
+
+11|TESTY|DONNN
+
+12|TERRA|VESTA
+
+13|SLAVE|OXXID
+
+14|NEVER|DEMON
+
+15|RIVER|GIANT 
+
+_________________________
+_________________________
+Battle Isle: Scenario Disk 1 - Air-Land-Sea
+Release Year: 1992
+Players: 1-2 Players
+
+The battle for Chromos continues in this add-on to Battle Isle. It features 24 new maps for play against the computer, 8 new two-player maps and two new landscape types: ice and desert.
+
+Gameplay is the same as in the original game: On a split screen, one player moves his units while the other player attacks and vice versa. A map is won when all enemy units are destroyed or the enemy headquarters are captured.
+
+http://www.mobygames.com/game/amiga/battle-isle-data-disk-i
+_ 
+
+CHEATS
+
+Go to the player option before the game starts and then press fire on
+the human option.  Then move down and press fire on the computer
+option.  Then, when the game starts, you'll have all the computer's
+units and he'll have yours.  Because the game usually gives the
+computer more units, you'll gain this advantage.
+
+                            (LEVEL CODES)
+
+One player game:
+
+      1-"BLOCK"       07-"YUKON"      13-"SOUND"      19-"NOUTH"
+      2-"WATCH"       08-"POINT"      14-"TWEAK"      20-"FJORD"
+      3-"LAGUN"       09-"FROGS"      15-"NIPON"      21-"DONOR"
+      4-"BIRMA"       10-"ITALY"      16-"FLAIR"      22-"LEYES"
+      5-"SERPT"       11-"LINES"      17-"ARROW"      23-"JUMPY"
+      6-"RAMBO"       12-"VARUS"      18-"KORSO"      24-"WERFT"
+
+Two player game:
+
+      1-"CLOAK"       3-"BOMBS"       5-"PEARL"       7-"ROMEL"
+      2-"LOSAG"       4-"COMET"       6-"MIROR"       8-"MAGMA"
+
+_________________________
+_________________________
+Battle Isle'93 - The Moon of Chromos
+Conversion hardware:	PC (DOS)
+
+In this turn-based strategy you command military forces, which want to eliminate each other. Moving them on hexagons you have to kill every unit of opponent or conquer his headquarter to win. The plot of the game is fiction. Somewhere on the far planet the AI get control over itself and want to destroy his creators. You must stop it, progressing from easy levels to hard ones.
+ 
+http://www.mobygames.com/game/amiga/battle-isle-93-the-moon-of-chromos
+
+Released as both a standalone product and a data disk.
+
+http://hol.abime.net/67
+_
+
+LEVEL CODES:
+
+ONE PLAYER:     
+                LEVEL  1-"LUMIT"    LEVEL 13-"FINXT"
+                LEVEL  2-"LUNAR"    LEVEL 14-"EBENE"
+                LEVEL  3-"LUTOF"    LEVEL 15-"EBSYL"
+                LEVEL  4-"SONIX"    LEVEL 16-"EBONY"
+                LEVEL  5-"SOWYN"    LEVEL 17-"EBTAR"
+                LEVEL  6-"SOSOO"    LEVEL 18-"KARST"
+                LEVEL  7-"SONAF"    LEVEL 19-"KANTO"
+                LEVEL  8-"RACHE"    LEVEL 20-"KAROT"
+                LEVEL  9-"RAMPE"    LEVEL 21-"KAISR"
+                LEVEL 10-"RANGG"    LEVEL 22-"SYBIL"
+                LEVEL 11-"FILMO"    LEVEL 23-"SFNIX"
+                LEVEL 12-"FIEST"    LEVEL 24-"SYNOM"
+
+TWO PLAYER:     
+                LEVEL 01-"LUDOS"    LEVEL 05-"FISCH"
+                LEVEL 02-"SONNE"    LEVEL 06-"EBTON"
+                LEVEL 03-"SOTEX"    LEVEL 07-"KABEL"
+                LEVEL 04-"RASEN"    LEVEL 08-"SYTAX"

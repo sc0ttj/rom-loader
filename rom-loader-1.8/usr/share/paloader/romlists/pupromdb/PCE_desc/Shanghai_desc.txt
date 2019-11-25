@@ -1,0 +1,10 @@
+Shanghai is yet another game that exists on every console and computer ever invented. It's a puzzle game, where you match up tiles. The tricky thing is, the tiles can only be on the left or right edge of the row that it's on. Otherwise, you can't move it. Make sense? Probably not. (wraith) says that trying to explain the concept of Shanghai makes a person's head explode, so I thought what the hell. I'm feeling particularly depressed today anyways.
+
+I used to have a freeware Shanghai program on my old 486, and I played it constantly, so I am definitely down with the Shanghai. Of course, it was probably called TileMatch or some other such silly freeware-type name. That version was more fun than this (official) incarnation in two ways: you could use a mouse, and this version has the most godawful music I have ever heard in a game, ever. It, like, tries to be eastern mysterious music or something, and ends up making you cry tears of pure agony. Fortunately Magic Engine has a sound on/off switch.
+
+Translation Description:
+
+Pretty easy stuff to translate, just a few menus. So, this is translated. Whee!
+
+Reviewer: Spinner 8
+http://romhacking.net/trans/674/

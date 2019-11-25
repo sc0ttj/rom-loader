@@ -1,0 +1,25 @@
+This is a great little first person shooter for the Genesis. The colors are bright and the animation is smooth, though the music is a little wearying. You can see the inside of a very intricate cockpit as you pilot the plane in first person. Swing your plane round and round searching for your enemy. Shoot them down before they shoot you down.
+
+The controls aren't too difficult to get the hang of, but the game itself is very difficult. Beginning enemies are fairly difficult to hit and they only get harder and harder. It is very challenging indeed, but well worth a few hours of focused, intense game play.
+
+Directions:
+
+To begin with you'll be taken to a map screen. As you move the lines around on the screen by pressing the directional buttons, information on the areas will come up. The lower the attack and defense number the easier that area will be to clear.
+
+Choose a mission you feel comfortable with and press A.
+
+Destroy your enemies by lining them up in your crosshairs and pressing B. This will be much more difficult than it sounds. Enemies will weave and roll while firing at you and launching huge missiles that will kill you with one hit. Not to worry. You have a few tricks up your sleeves as well. You can do loops and rolls. Rolling to the left or right can be effective for dodging those huge missiles they fire at you. Looping will get you behind any guys that are behind you so you can shoot at them and not be shot at. To roll simply press and hold left or right and then tap C twice. To loop lift the plane's nose and tap C twice. If you press C while flying normally you will just get a small burst of speed, which might be just what you need sometimes. Be warned, some damage you take will destroy your ability to do these maneuvers. Certain parts of your ship are essential to doing these moves and if they are damaged you won't be able to do them any longer.
+
+In addition to your main weapon you have missiles. These missiles will seek (chase) an enemy to a certain point, but you can only use them when you are locked on to an enemy. The crosshairs will flash and you will hear a beeping sound when you are locked on to an enemy. Now you can press B to launch a missile at them. Missiles do tend to be a bit slow and don't always hit, so don't depend on them too much. Strafing the enemies with your machine gun fire is the best way to take them out.
+
+Not all enemies will behave the same. Some enemies will be much more agile than others, and some will take more hits to bring down. Also, after fighting a bunch of lowly henchmen you'll have to face someone with real talent near the end of the level. These guys will be red and real hard to hit and to avoid. That's not the end either. After that you'll have to face a big bad boss who has big bad weapons that hit hard and will kill you with one shot. Take out the weapons first if you can. 
+
+Controls:
+
+A Button: Fire
+B Button: Launch Missile
+C Button: Boost
+Start Button: Pause Game
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/air_diver.html

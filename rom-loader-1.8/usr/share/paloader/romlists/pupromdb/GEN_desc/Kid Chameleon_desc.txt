@@ -1,0 +1,54 @@
+Kid Chameleon is a side-scrolling platform game in which the main character has entered a virtual reality game called "Wild Side" to free the other kids inside that have been captured (*cuckoo*). He can change his shape into various other forms (hence the "Chameleon"). This gives him special abilities which must be used to pass each of the game's 100+ stages.
+
+An interesting point about Kid Chameleon is that the game has 100+ levels (most of which are very, very difficult) which must be played in sequence AND there is no save feature or password feature - which means completing this game would be a major feat of endurance (and patience).
+
+Gameplay:
+
+The player, as Kid Chameleon, progresses through a series of levels. Most levels contain a flag, which is the primary goal of each level, from which the player progresses to the next level. However, a number of teleporters throughout the game can warp the player not only to different places in the same level, but also to different levels, and sometimes to an entirely different path through the game. At the end of the game, Kid fights and defeats the final boss, Heady Metal. Kid Chameleon contains nearly a hundred levels, of which only about half are on the "main path" (traversing levels only by flags), and also counts the two-dozen smaller unnamed levels, simply called "Elsewhere". Despite the game's considerable length, there was no password system or other method of saving the game. However, both Sega Genesis Collection and the Virtual Console service allow players to save their progress mid-game.
+
+As Kid Chameleon moves through the game's levels, he gains access to masks that transform him into different characters. Each character has different special abilities and varying amounts of hit points. The sheer amount of variety in gameplay due to the various characters is part of what gave Kid Chameleon such an addictive style; few levels repeated the same structure and they usually had specific strategies and characters to be beaten. In addition to the offensive abilities of each form, the Kid could also defeat enemies by jumping on them, although he may take damage from some enemies by doing so.
+
+Trivia:
+
+The Axe-thrower shape is a tribute to Rick, the main character from the Splatterhouse games.
+
+Controls:
+
+D-Button:
+-Press left/right to move left/right.
+-Press down to crouch.
+-Press down and left/right to crawl left/right.
+
+A Button:
+-Press A to run. When the game is set to "Fast Action", use A to slow
+down.
+
+A Button + Start:
+-Press these at the same time to use the Diamond Powers. (Note: You must
+have a set number of diamonds to use this.)
+
+B Button:
+-Press B to jump.
+
+C Button:
+-Use your transformation's special power. See the Transformations
+section to see what they are.
+
+Hints:
+
+10,000 bonus points:
+Complete Blue Lask Woods in under 20 seconds.
+
+5000 Bonus Points:
+Complete any level without collecting any special items to get 5000 bonus points.
+
+5000 Bonus Points:
+Complete a stage without being hurt by an enemy to earn 5000 bonus points.
+
+Last boss warp:
+At the end of Blue lake woods there is a series of blocks just above the flag. Jump to the last one and then press down and right, jump and special together. You will be warped to Plethora, the last level.
+
+Reviewer: Tibes80, gamewarrior,Masvega
+http://www.mobygames.com/game/kid-chameleon
+http://en.wikipedia.org/wiki/Kid_Chameleon_(video_game)
+http://www.gamefaqs.com/console/genesis/file/586273/2789

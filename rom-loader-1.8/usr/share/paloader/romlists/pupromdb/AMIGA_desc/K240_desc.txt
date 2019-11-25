@@ -1,0 +1,41 @@
+A space-based resource management game,loosely a sequel to the earlier Utopia.
+
+You start building your community on an asteroid, whose natural resources must be mined and put to use. You must use generators to power the mines and their auxilliary buildings such as storage facilities, which must be maintained. All of this costs money, but the mined resources can be sold or used.
+
+Problems you face include pollution, collisions with other asteroids, worker discontent and alien unrest. Battles against the aliens indigenous to the area must be fought, making building and maintaining a space fleet a priority.
+ 
+http://www.mobygames.com/game/amiga/k240
+_________________________
+CHEATS:
+
+Press [Enter] during game play, type one of
+the following codes, then press [Enter] again to activate
+the corresponding cheat function. A sound will confirm correct
+code entry.
+
+Effect
+Code
+Toggle single day buildingskyscraper
+
+Toggle asteroid movementiceman
+
+Swap Sci-Tek blueprint possessionwidget
+
+100,000 creditsloadsadosh
+
+Four of each missile and four spy satellites on current asteroid
+icbm
+Toggle all asteroids visible on maptelescope
+
+50 extra people to current asteroidlemings
+
+Standard buttons; rotate asteroid once after activation to view
+panel
+Toggle speechtracey
+
+Press A through U for speech test, press [Esc] to resume
+bjork
+Press A through W for sound test, press [Esc] to resume
+noises
+Press 1 through 8 to create indicated ship over current asteroid
+nasa

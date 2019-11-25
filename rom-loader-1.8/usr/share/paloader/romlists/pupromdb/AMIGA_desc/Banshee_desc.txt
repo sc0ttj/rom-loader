@@ -1,0 +1,16 @@
+A vertically-scrolling shoot 'em up from the old school, with similarities to games like 1942 and SWIV. There are lots of big, brash enemy vehicles to take on, plus individual soldiers (these often lie in a pool of blood afterwards, a gruesome sight making full use of AGA graphics) and civilians. Many of the enemies have good hiding places and can emerge surprisingly, Commando-style.
+
+There are four large levels, which also scroll a small amount horizontally, the idea being that you can evade some opposition. There's a special loop-the-loop type feature available, which can double as an attack or an evasive move.
+ 
+http://www.mobygames.com/game/amiga/banshee
+_________________________
+CHEATS:
+
+Enter KANNIJADE KREW as a name on the high score screen to enable invincibility. Additionally, press the Top L + Top R to select a starting level.
+
+Cheat mode (alternate):
+Type FLEV17 and press [Enter] at the title screen. The screen will flash to confirm correct code entry.
+Begin game play to have unlimited lives and press the various function keys to advance to different levels.
+
+Evil mode:
+Enter MARY WHITEHOUSE as a name on the high score screen. Polar bears and civilians may now be killed during game play.

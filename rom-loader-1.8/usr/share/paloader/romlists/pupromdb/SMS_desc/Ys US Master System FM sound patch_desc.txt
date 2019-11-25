@@ -1,0 +1,15 @@
+SPECIAL NOTE:  This is an awesome hack.  The FM sound is so much better than the original.  Give this hack a shot!  ~Rx
+
+Update Description:
+
+The Japanese version of the Sega Master System had vastly superior sound hardware called the FM Sound module that was stripped out for the US and Euro releases of the system, thus any games that utilized that hardware had inferior sound when they were brought out in the US and Europe. In Japan the module was originally an optional upgrade, so all Master System games that used it also supported the regular sound chip in case the player only had a stock SG-3000.
+
+A few US games will play FM sound if they detect the hardware (for example, Miracle Warriors and Kenseiden will play FM sound if you enable it in an emulator or use a flash cart on real hardware), but most had the capability removed. This patch adds the FM sound back into Ys, which I believe is one of the best things about the game. The arrangements on the Master System version are amazing, and the drums the FM sound module produces are incredible.
+
+I also changed all the names back to their proper Ys names (mainly just all instances of ARON instead of Adol and DEKT instead of Fact, but also a few other minor ones). In addition I changed all names from ALL CAPITALS to the Normal Way of capitalizing names.
+
+You should apply this patch to a US/EURO rom, the one usually labeled Ys - The Vanished Omens (UE) [!].sms or some variation thereof.
+
+NOTE- Version 1.2 fixes the bug where pressing pause would reset the game.
+
+http://www.romhacking.net/hacks/572/

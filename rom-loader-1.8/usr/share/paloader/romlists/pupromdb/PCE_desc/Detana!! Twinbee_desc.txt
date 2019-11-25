@@ -1,0 +1,11 @@
+One or two player cute 'em up from Konami.
+
+HINTS:
+
+- Arcade Mode -
+Press I, II, Right, Left, Right, Left, Down, Down, Up, and Up on controller three. Then, under the options menu, select ''Vmode'.
+
+- Level Select -
+Press Up, Right, Down, Left, Down, Right, I, II, and Left on controller four.
+
+http://www.pcengine.co.uk/HTML_Games/Twin_Bee.htm

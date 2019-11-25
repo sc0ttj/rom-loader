@@ -1,0 +1,3 @@
+The game is basically a straight-forward, virtual game of the popular American billiards game, 8-ball, but also allows you to play 9-ball or straight pool You could play the computer or up to seven other players using the "Party Pool" option.
+
+http://en.wikipedia.org/wiki/Championship_Pool

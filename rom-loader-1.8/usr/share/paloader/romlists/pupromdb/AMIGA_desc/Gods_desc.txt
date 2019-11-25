@@ -1,0 +1,104 @@
+Hercules is aiming to achieve immortality by completing the task the Gods have set him. His task is presented as a  platform adventure set in ancient Greece, featuring a variety of enemies as you play it through.
+
+Of more significance, however, is the game's Artificial Intelligence system, in which creatures monitor how you play, and try to find safer positions. Also, the game offers more bonuses and power-ups if you're struggling to progress. Even without those, there are lots of bonus sections to find and unlock.
+ 
+http://www.mobygames.com/game/amiga/gods
+_________________________
+CHEATS:
+
+On level two, buy a shield and a magic potion, then get three
+fireballs and three stars.  Spend all of your remaining money on food
+and health.  Collect all the gems in the usual manner, then get a key
+and make for the exit.  Now comes the tricky bit.  When you descend
+the last ladder, two thieves will appear.  Make sure that you don't
+quite have enough energy to survive a direct contact!  Before going
+down the ladder, release your magic potion, then climbdown and open
+the door.  Stand in front of the door ready to leave, but don't push
+up yet!  Wait until the thieves jump down at you and as soon as they
+touch you push the joystick up.  You may lose that life, but then
+something rather strange will happen.  The bonus will start to whiz up
+for quite some time, until the game starts again on world two with 28
+extra men and about five million points!
+
+Unlimited energy:
+Enter SORCERY as a password. Note: This is only
+effective on early versions of the game.
+
+Level passwords:
+Note: Some versions of the game generate a unique password
+per disk. Therefore following passwords may not work as expected.
+
+Level|Password|Alternate|Alternate
+
+2|JZS|CEL|APV
+
+3|SFJ|HHO|AVJ
+
+4|USX|DRA|LHH
+You play a god, gaming against other gods in a celestial game of conquest.  To win, you must help your chosen people take over the world and wipe out the vermin who worship that other god.
+
+Each god starts out with a single human, dumped into the middle of the wilderness.  Sometimes there is inhabitable land in sight, sometimes not.  To get win, you must change the landscape, creating flat land for your followers to build on.  The more followers you have you have, the more powerful you will be, so take care of them. Build as fast as you can, because the other god is doing the same.
+
+When you have enough followers, you can make the leader of your people into a hero.  He will then go around the land you have built, literally taking strength from the people into himself, and working his way toward the enemy.  When he gets there, he will engage in holy warfare upon your enemy's people.  He will burn; he will kill.  And he won't stop until they're all dead... or he is.
+
+But you don't have to let your people have all the fun; the god's have other tools as well.  You can drown your enemies one at a time with your land lowering powers.  Submerge their towns in swamps. Raise a volcano in the middle of their best farmland.  Even better, you can flood the land and drain all the people who didn't build on high-ground. 
+
+And when you win, you'll have 500 more worlds to conquer.  A god's play is just never done.
+ 
+http://www.mobygames.com/game/amiga/populous
+_________________________ 
+
+Populous: The Promised Lands
+Release Year: 1989
+___________________________
+
+This Data Disk for Populous adds five new landscape types: Wild West, Silly Land, Block Land, R?volution Fran?aise and Bit Plains. The types can be used to create new maps in Paint Map mode and the disk also has 500 new maps for Conquest mode.
+ 
+http://www.mobygames.com/game/amiga/populous-the-promised-lands
+
+Populous & The Promised Lands
+Release Year: 1993
+_________________________
+A double pack of the original classic God-sim Populous, and the Promised Lands data disk, which adds five new worlds, each with a distinctly different setting to the main game.
+ 
+http://www.mobygames.com/game/amiga/populous-the-promised-lands-
+
+Populous: The Final Frontier
+Release Year: 1989
+_________________________
+Data Disk for Populous. This adds a single new landscape with 500 levels to Populous. The landscape is themed as to be based on another planet. The colonists from Earth follow your god, and the indigenous inhabitants of the planet follow the enemy god. As usual build, multiply and conquer.
+ 
+http://www.mobygames.com/game/amiga/populous-the-final-frontier
+_________________________ 
+CHEATS: 
+	
+Level 999: Type killuspal at the title screen.
+
+Hidden monsters: 
+Place the maximum of 200 people on the landscape to
+force one of the three hidden monsters to appear. 
+
+Easy victory:
+Load a conquest game as usual, then click on the game
+setup icon. Select "Custom Game" and enter the game
+options and set them as desired. Click on "Evil", then
+"Two Players", and then cancel your selection. Your
+opponent will now be unable to alter the landscape and progress
+in the game.
+Populous II continues the "god game" genre pioneered by Bullfrog's classic Populous.  In PII, you're an unproven immortal who must fight your way through an entire pantheon of Greek gods, each with his or her own strategy and attacks, and ultimately enter into a showdown with Zeus himself.
+
+The gameplay mechanics are similar to Populous, but PII features a wider array of spells, digitized sound, and high-resolution graphics to give the spell effects extra punch.  Multiplayer is supported via serial link and dial-up.
+ 
+http://www.mobygames.com/game/amiga/populous-ii-trials-of-the-olympian-gods
+_________________________ 
+CHEATS:
+
+When the "Choose your Deity" screen appears, enter "ADKIUCMCZNDIFINL" to start the game with maximum power gor in all areas of godly control. Note Amiga Action gives the password as "ADKITAKDVGZLRGWZ". It might also be "ADKIUCKBZNZEFIWX", or "ADKITDMEVQDPXWTN".
+
+To activate lightning, hold down the Left Mouse Button, Press '1' on the keyboard, and release the Mouse Button. Now the lightning remains and your manna won't decrease. Amazing!
+
+If you can use "TREES" in the vegetation section and you have either the "RAIN of FIRE" or the "COLUMN of FIRE" in the fire section, then combining "TREES" and either "FIRE" will enable you to destroy enemy masses. Simply place trees all over the enemy territory, close enough to one another that the burning of one will cause another to ignite and it another, and so on.
+
+Choose the Conquest game you're stuck on and locate the first of the enemies' houses. Note its location on the big map. Quit back to the main menu and chose a Conquest game you have completed and in which you had the rain of fire spell. Go to the location in the game where you noted the house in the game you're stuck in. Cast the rain of fire spell and when it appears, quit back to the main menu again. Again choose the Conquest game you're stuck on, and if you've positioned the rain of fire properly in the prior game, the enemy will be killed.
+
+You may also try "MUSIC" as a special code for different music, and clicking on the writing that encircles the game area for some special effects.

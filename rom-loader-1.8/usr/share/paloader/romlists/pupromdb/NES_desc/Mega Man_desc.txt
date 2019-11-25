@@ -1,0 +1,160 @@
+The evil plans of Dr.Wily have been foiled many times by MegaMan, the blue bomber. All of Wily's robots destroyed, Wily resorts to his secret project? "Bass". Bass is a prototype among many powerful warrior 'bots that Wily has created. Unlike the others, Bass has incredible power.
+
+As Wily ponders which 'bot to continue on with, suddenly an alarm sounds deep in Skull Castle. A mysterious army of renegade robots had attacked his old domain, "Monsteropolis". Wily seizes this opportunity to test Bass. And so begins Bass's first adventure. As Bass defeat the six robot emperors, PirateMan, GroundMan, ColdMan, MagicMan, BurnerMan and DynamoMan, and retake Monsteropolis, as Bass's first task.
+
+The world of Monsteropolis has changed over the years, so be careful!
+
+http://www.romhacking.net/hacks/164/
+This hack is of Rockman J NES. It stared out as nothing serious, but it soon grew into what it is today. Thanks to the help of a good friend named Glyph, it also features an ASM hack that makes it stand apart from other Mega Man hacks. You will see it when you play. :)
+
+Thank you all for taking the time to play my hack.
+
+http://www.romhacking.net/hacks/296/
+*
+********************************************** C **********************************************
+*
+4d5f2eb0,da115a05,1e653b1b,7e2ce39c,a7ee80a9
+Cabal
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Platformer
+Release Year - 1989
+Developer - TAD Corporation
+Manufacturer - Fabtek
+Players - 1 or 2 CO-OP
+@END
+Your Orders, Soldier
+
+At ease! Major I.M. Havoc here - Combat Consultant to the International World Affairs Council. We've just received notice of a world-wide assault being planned by D.R.A.T. - the Dreaded Republic of Allied Terrorists. The Council has instructed me to select a volunteer to defuse the situation... and guess what? You just volunteered!
+
+Get ready for a week's R&R (Recon and Ruination) at the terrorist camp, on a secluded island paradise. You'll stroll the warm, tropical beaches as bullets shred the sand at your feet. Gaze at enchanting sunsets as you dodge the raking fire of deadly combat choppers. And admire the beauty of ancient ruins. And then ruin 'em some more!
+
+This is strictly a covert operation. The Council cannot claim responsibility for you if you fail. You're on your own and if ya' mess up, it's your hide. The entire terrorist camp must be wiped out or the vermin will begin their reign of terror.
+
+Leave no buildings standing. No ships floating. No choppers flying. And most importantly... clear the entire zone of enemy personnel!
+
+Keep your eyes open and your finger on the trigger. Complete your mission and the world can breathe a sigh of relief. And good luck, soldier. You're gonna need it!
+
+Major I.M. Havoc
+Combat Consultant, I.W.A.C.
+
+--From the NES Cabal instruction manual.
+
+Overview - 
+The point of Cabal is to to defeat D.R.A.T (the Dreaded Republic of Allied Terrorists, I know, awful) by wiping out men, helicopters, buildings, and pretty much everything. A great game if you just want to destroy, destroy, destroy. Play with a friend, if you don't mind sharing the massacre, and you can watch each other's backs, or fronts in this case, since the enemies are all in front of you.
+
+This game is colorful, and it's pretty easy to see what you're doing. Objects on the screen are crisply lined and identifiable. The music is not really anything to speak of and can get on your nerves, but hey, you can always mute it.
+
+Directions - 
+As mentioned, the idea is to destroy everything. Here's an idea of how. Demolish your way through 5 levels of enemy camps by depleting the enemy strength meter. Destroy men, vehicles and buildings with machine gun fire and grenades.
+
+Pick up better guns to add intense and rapid fire to your gun. Pick up as many grenades as you can, you'll need 'em to blow up tanks and such.
+
+Take evasive action! Hold down the B button and move the joystick to execute dives, rolls, and jumps to avoid incoming fire.
+
+After you beat a stage, you will do a little celebration before moving on to the next battle. It's worth playing Cabal at least once to see our hero dancing like he's late for the bathroom. Who's idea was that? 
+
+Controls - 
+Hold A Button - Fire machine gun
+Tap A Button - Throw grenade
+B Button - Dodging Maneuvers
+Start Button - Start Game, Pause
+Select Button - No Use
+
+Hints - 
+Barriers and Obstacles
+- There are many objects on the screen which can be destroyed by grenades or guns, such as walls, buildings, trees, etc. Use the closer ones as a shield from enemy fire, and try not to knock them down (the enemy will do that for you). The enemy will use objects for protection as well, so you may want to knock those down, but it isn't necessary to complete the level.
+
+Reviewer - fallenrain
+http://www.consoleclassix.com/nes/cabal.html
+This was Googie's first attempt at MM1 hacking, this hack throws Mega Man in all new different levels that are more challenging than the original levels. There's also some text changes in here too. So if you're up for a Mega Man challenge, try out this hack. There's also some minor graphics editing in here too, like the weapons and energy capsules were change into capsules from Mega Man 2. Enjoy.
+
+http://www.romhacking.net/hacks/161/
+Dr. Light and Dr. Wily were partners, working together on a new robotics technology. Together they create Protoman, the first of the Robot Masters. After Protoman, they create six other robots designed to aid society. Dr. Light then created Rock and Roll to act as household aids to him. Because of this technological breakthrough, Dr. Light was given the Nobel Prize.
+
+Now, Dr. Wily, jealous and infuriated, stole the six robots made for society and reprogrammed them into robotic warriors to terrorize the public. As a last act of desperation, Dr. Light changed Rock into a super combat warrior named Mega Man to combat the six robots and stop Dr. Wily.
+
+Mega Man is the first in a classic series of video games that had more sequels than Rocky Balboa (And now Pongo's review of Rocky Five..... thousand). The graphics in this game were revolutionary and only get better as you go up in the series. The music in this game had a futuristic feel to it, albeit 8-bit sounds, but definitely keeps the game exciting and has become as classic as the video game itself. All in all, this is a classic game that deserves to be played over and over again, and if you like this one, then don't hesitate to play all the others in the series. Lock and load, and Good Luck!
+
+Gameplay - 
+Mega Man is made up of six stages, with a Robot Master at the end guarding a weapon. The stage select screen allows the player to choose from these six stages, which can be replayed if they were cleared. When they are all completed, the seventh and last stage appears in the middle of the menu, replacing the text "Stage Select, Press Start". This last stage, known as the Wily Fortress, is in fact more like four regular stages linked together, some a bit shorter than average, but with bosses that are considered harder than usual. During the two final stages, the six Robot Masters must also be fought again as well in a predetermined order, before the final confrontation against Dr. Wily.
+
+The stages in Mega Man are designed in the "platformer" genre. In each stage, Mega Man fights his way through various enemies and obstacles before facing a Robot Master at the level's end. Upon defeating a Robot Master, Mega Man is able to assimilate the Robot Master's signature attack into his arsenal for the rest of the game.
+
+Unlike his standard blaster, however, the Robot Master powers have limited ammunition which must be replenished by collecting ammo cells randomly dropped by defeated enemies. While the player is free to proceed through the game in any order, each Robot Master is designed to be especially vulnerable to a specific weapon, encouraging the player to complete certain stages before others. Some vulnerabilities can be determined by observation (e.g., Fire Man is vulnerable to Ice Slasher) and others only by experimentation. Aside from the weapons taken from the Robot Masters, Mega Man is also able to get a platform generator item known as Magnet Beam, which is mandatory in order to advance through the last stage.
+
+Localization - 
+
+Character designer Keiji Inafune stated in a G4 interview that the concept of the game was inspired by Rock, Paper, Scissors; every weapon and Robot Master has a strength and a weakness.[1]
+
+Due to Nintendo of America's strict rules concerning religious references at the time, the Yellow Devil boss was instead named the "Rock Monster" for the original NES version[citation needed]. Also, when released in America, Capcom was forced to change the title of the game from Rock Man to Mega Man because Scholz Research & Development, Inc. had copyrighted the name for their Rockman amplifier.
+
+(I had heard that the reason they changed the name was because "Rock Man" sounded too much like a drug dealer reference..... seriously... ~Rx)
+
+In the original U.S. Instruction manual, "Dr. Light" is referred to as "Dr. Wright". In Mega Man 2, he is called "Dr. Light". The in-game text of Mega Man 3 refers to him as "Dr. Right". However, "Dr. Light" remains his official romanized name.
+
+In the original Japanese version of the story, Dr. Wily was not Dr. Light's partner. Instead, he is simply a mad scientist who gets revenge on the world for not recognizing his scientific work.
+
+Reception - 
+Mega Man was rated the 61st best game made on a Nintendo System in Nintendo Power's Top 200 Games list.
+
+The picture on the game's American box has been criticized as it contains virtually nothing that can be found in the game. Mega Man himself resembles a middle-aged man rather than a boy, and he is holding a handgun instead of his Arm Cannon. The game's cover is commonly ridiculed because of its inaccuracy; GameSpy placed it in first place of its Top Ten Worst Covers list. The European box cover, however, features Mega Man looking more like his video game counterpart.
+
+Controls - 
+A Button - Jump
+B Button - Use weapon
+Start Button - Open Menu
+Select Button - Pause game
+
+Hints - 
+The Select Trick
+When using a weapon that goes through an enemy, press the Select button (this pauses the game with out bringing up the weapon menu) when the weapon is making contact with the enemy. While the game is paused this way the enemy will continue to flash. When the flashing has stopped, press the Select button again to un-pause the game and the weapon will 'hit' the enemy again causing more damage. You can do this trick repeatedly with many of the bosses, making them very easy to beat.
+
+Reviewer - grimjockey
+http://consoleclassix.com/nes/mega_man.html
+http://en.wikipedia.org/wiki/Mega_Man_(video_game)
+This is a graphical hack of Mega Man.
+
+Mega Man takes on a more futuristic look, and his much-lampooned jump animation has been changed. Many of the minor enemies look different, and Ice Man is somewhat more menacing.
+
+Beyond that, the game is exactly the same. Any FCEU movies recorded with the original Mega Man ROM will work exactly the same under Mega Man Alpha. 
+
+http://datacrystal.org/wiki/Mega_Man_Alpha
+Skip the stages and go right to the boss battles in Mega Man I.  ~Rx
+Some of you may have heard about me working on this hack for a while. And I'm proud to announce that it's finally finished!
+
+So anyway, here's the story - Wily has returned to try to achieve World Domination again! He used the same 6 robot masters that he used in his first attempt to destroy Megaman. Only this time, they have no weaknesses! (Or do they?)
+
+This hack features completely redesigned levels, graphics and palette changes, enemy AI changes, and even some custom music! Be careful though, this hack is alot harder than the original Mega Man, so save states are strongly recommended.
+
+So good luck and have fun! ;)
+
+http://www.romhacking.net/hacks/438/
+Dr. Wily finally concedes that Mega Man may be too much for his evil robotic creations. Determined to get the best of the blue bomber, Dr. Wily contacts another famous villian, Bowser! Having combined their forces, Dr Wily and Bowser unleash their new destructive creations upon the Mushroom Kingdom. After hearing news of Wily's new plan, Mega Man decides to travel to the Mushroom Kingdom himself to stop Wily again. Mega Man now finds himself in a strange new world filled with obstacles and locales very foreign to him. Fearless, Mega Man presses on to Super Mario's old stomping grounds to defeat these new foes.
+
+Mega Man in the MK is set in various classic Mario games. Including Super Mario Bros1, 2, 3 and World. Megaman faces off against Wily's Bosses as well as Bowser's minions. This being Super Mario's World, he gladly helps out Mega Man by increasing his jumping power as well as outfitting the Blue Bomber with some of his old garbs.
+
+Features - 
+- The 6 main starting levels have had extensive level design and graphics modifications.
+
+- Every single enemy graphic had been changed in to a Mario themed bad guy.
+
+- Megaman can jump higher.
+
+- Every boss has been made easier, their shots do less damage, Megaman's do more.
+
+- The first 2 of 4 Wily stages have had extensive graphic modifications but only minor level design tweaks (Game engine Constraints)
+
+- The last 2 of 4 Wily stages only undertook minor tweaks to make them less utterly frustrating. (Made easier)
+
+- Minor title screen edit, minor text edits here and there.
+
+- Symbols representing their respective powers have been put in place of letters in the pause/power menu. (A bomb symbol instead of a "B", Fire ball instead of" F")
+
+http://www.romhacking.net/hacks/110/
+This is Dragonsbrethren's lame first hack.
+
+http://www.romhacking.net/hacks/210/
+No info online for this Hack.  ~Rx

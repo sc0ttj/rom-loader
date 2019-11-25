@@ -1,0 +1,49 @@
+# resolution combobox
+RES_ARRAY=(320X200 320x240 640x400 640x480 800x600 960x600 1024x768 1280x800 1280x960)
+RES_ITEMS="<item>$RES</item>" #stored value should be first in list
+for i in "${RES_ARRAY[@]}"
+do
+	if [  "$RES" != "$i" ];then
+		RES_ITEMS=`echo "$RES_ITEMS<item>$i</item>"`
+	fi
+done
+
+# scale combobox
+SCALE_ARRAY=(1x 2x 3x 4x)
+SCALE_ITEMS="<item>$SCALE</item>" #stored value should be first in list
+for i in "${SCALE_ARRAY[@]}"
+do
+	if [  "$SCALE" != "$i" ];then
+		SCALE_ITEMS=`echo "$SCALE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# effects combobox
+FX_ARRAY=("None" "Scanlines" "TV" "TV+Scanlines")
+FX_ITEMS="<item>$FX</item>" #stored value should be first in list
+for i in "${FX_ARRAY[@]}"
+do
+	if [  "$FX" != "$i" ];then
+		FX_ITEMS=`echo "$FX_ITEMS<item>$i</item>"`
+	fi
+done
+
+# bits per pixel combobox
+BPP_ARRAY=("Default" "8" "16" "32")
+BPP_ITEMS="<item>$BPP</item>" #stored value should be first in list
+for i in "${BPP_ARRAY[@]}"
+do
+	if [  "$BPP" != "$i" ];then
+		BPP_ITEMS=`echo "$BPP_ITEMS<item>$i</item>"`
+	fi
+done
+
+# controller combobox
+CONTROL_ARRAY=("Default" "Zapper" "PowerPad-A" "PowerPad-B" "Arkanoid")
+CONTROL_ITEMS="<item>$CONTROL</item>" #stored value should be first in list
+for i in "${CONTROL_ARRAY[@]}"
+do
+	if [  "$CONTROL" != "$i" ];then
+		CONTROL_ITEMS=`echo "$CONTROL_ITEMS<item>$i</item>"`
+	fi
+done

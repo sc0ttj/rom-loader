@@ -1,0 +1,315 @@
+This is the hack of SMB1 with all new levels and the new World A of this game. This is for SMB champions who have already completed World 8 in the original SMB1.
+
+http://www.romhacking.net/hacks/178/
+Imagine playing SMB 1 on an Atari 2600. Now you get the picture... It's a really cool concept, and I don't think anyone has done anything like this before.
+
+http://www.zophar.net/hacks/nes/super-mario-bros-1/atario-bros.html
+I knew from the time that I say this hack sitting in the queue that it was going to be one of those quirky hacks that just makes me laugh for no apparent reason. While one could argue that this patch is entirely pointless, which for the most part it is, the concept behind it is somewhat absurd and amusing.
+
+I do have a bit of criticism, however - The sprites and BG graphics are still using their original mappings. For some things which are already block-shaped, like Mario, this works out fine. For others, though, it does not, and they don't look nearly as blockilicious as they could. Ideally the mappings should be edited so everything looks like it's constructed entirely out of stacked blocks. The palettes for some things don't look so hot either, I think those could do with a bit of editing. Also, the new ending text is lame, bitch!
+
+I honestly want to see a version 2.0 of this hack, with edited levels designed to take advantage of this new, block-based Mario reality. Justify its presence on this site, Eclypsis! The hack just barely made it on as a graphics and text overall, go the rest of the way and make it truely complete!
+
+Reviewer - Dragonsbrethren
+http://www.romhacking.net/hacks/558/
+No information online about this NES Hack.  ~Rx
+Bowser's jumping challenge is a throwback to old-school platform gaming. It's been specifically designed with the focus on completing difficult jumps rather than defeating enemies. The developer also made sure to keep the game playable, so you won't find any "impossible" scenarios to overcome. As a word of warning, the nature of this game may make it difficult to complete using a keyboard. A gaming controller is definitely highly recommended.
+
+http://www.derok.net/emulation0/supermariobros.html
+For SMB Hack Contest, according to the title screen.  ~Rx
+One of the best SMB hacks of all time
+
+Extra Mario Bros. is not just a typical SMB hack. The gameplay has been altered significantly and is reminiscent of Metriod in many ways, including maze-like level design and even the graphic style. Some Metroid tiles are imported directly as well.
+
+There are multiple new enemies and other modified gameplay elements which will impress even the most jaded SMB hack fan, but what really shows ATA's hacking skill is the final scene with Bowser (available for viewing on Youtube).
+
+This is a must have hack for fans of both SMB and Metriod.
+
+Difficulty - moderate to hard. Fun factor - high but can become tedious if you're expecting straightforward Mario action.
+
+Description - 
+New maps, new graphics, new enemies, new powerups, new physics, new final boss. It's practically a new game.
+
+Reviewer - frantik
+http://www.romhacking.net/hacks/369/
+*
+********************************************** F **********************************************
+*
+6aa0a7ad,80fe9c09,e4541f6d
+F-117A Stealth Fighter
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Flight Simulator , Stealth
+Release Year - 1992
+Developer - MicroProse
+Manufacturer - MicroProse
+@END
+Strap yourself into the cockpit of the world's most elite fighting weapon! It's the F-117A Stealth Fighter. And once you fly it, you'll see why no other flight simulator compares! Incredible 3-D graphics will keep you glued to your screen as you experience the same intense pressures that gripped America's Gulf War pilots. Penetrate enemy airspace without being seen! Tangle with the enemy in treacherous dogfights! Launch awesome firepower against fierce opponents! Your wait is over. The ultimate weapon has arrived. Now it's your turn to pilot the real Stealth Fighter!
+
+http://www.gamefaqs.com/console/nes/home/587267.html
+No information oline about this Hack. ~Rx
+No information oline about this Hack. ~Rx
+No information oline about this Hack. ~Rx
+No information oline about this Hack. ~Rx
+An interesting hack where you star Princess Peach on your search for Mario. This hack combines graphics from SMB2, SMB3, and Yoshi's Island. Jumping and the play control have been hacked as well and feel more consistent with SMB2.
+
+http://www.romhacking.net/hacks/599/
+No information about this Super Mario Bros Hack online.  ~Rx
+Here's a SmB1 hack that stars TheGreatWhiteDope and his friend Tim. They were brought to the Mushroom Kingdom by an unknown power to rescue peach since Mario and Luigi suddenly vanished. So in order to get back to their world they have to rescue peach no matter what.
+
+This hack shouldn't be too hard, so anyone'll fit right in with the level design. And you also start with 50 lives. So give this hack a try, help justin and Tim get back to earth?
+
+http://www.romhacking.net/hacks/150/
+*
+********************************************** K **********************************************
+*
+5ee7a400,824793da,371d9c3c,667dc639,2904e99b,700e9e41,27a2c84b,c477885f,c244e97e,965ce78e,a97c67dd,87955d9c
+Kabuki - Quantum Fighter
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Platformer
+Release Year - 1991
+Developer - Human Entertainment
+Manufacturer - HAL America
+Players - 1
+@END
+Players adopt the persona of Colonel Scott O'Connor, a military agent who has transferred his brain into raw binary code in order to combat a rogue program in the Main Defense Computer. When Colonel Scott O'Connor enters the system, his body forms the self-image of his ancestors which were Kabuki actors.
+
+Gameplay - 
+The field is generally side-scrolling, with a single room with a boss at the end of each level.
+
+Players use their long hair and chip based weaponry to attack enemies inside the computer.
+
+Upon beating the game, a sound test menu is active with a two-frame animation of Scott under his Kabuki guise, bowing. He also states a message to watch for him in his next game, which never came to be.
+
+Plot - 
+In the far future, a virus has appeared in the Main Defense Computer of the planet Earth. The origin and nature of the virus is unknown. Scott O'Connor volunteers to undergo an experimental transfer technology that converts his brain into raw binary code. He takes on the image of a Kabuki dancer, since the computer recognizes his grandfather as one. The virus in the virtual world takes on properties of an actual virus-it leaves behind debris, mutant creatures, and parastite enivironments of a biological nature. At the final level, it is revealed that the virus is of alien origin, having been picked up by a lost Hyperion probe launched to a neighboring planet. O'Conner stops it before the virus can order the Hyperion to fire its laser weapons and destroy the human population.
+
+Trivia - 
+This game has gained a peculiar currency in popular culture, with oblique references in the TV show Lost, as well as the film Garden State.
+
+In the background of the first person shooter, Soldier of Fortune, a character is briefly seen playing the game.
+
+Similarly, the hairstyle sported by the main playable character enjoyed a small amount of popularity in fashionable districts of Tokyo during the early nineties.
+
+http://en.wikipedia.org/wiki/Kabuki_Quantum_Fighter
+Now that Ghosts have invaded the Mushroom Kingdom and Mario is gone, Luigi in on an adventure to save the Mushroom Kingdom from his greatest fear. He'll also encounter zombies, Panser plants and the Phantom who makes Luigi's life miserable. You'll also find that this hack has two endings, one good and one real. And the music has a sad creppy tone to it. So if your craving for a challenge, help Luigi end this nightmare?
+
+
+
+This hack to me is very special to me cause it was insipred by Mikachu's Mario Panic 4. Luigi from SMAS SMB is the star. And this hack is yup...challenging, don't go insane & don't complain about the difficulty of the hack, it'll make you strong if you finish it. ;) 
+
+Game A and Game B? WTF?
+
+There's two versions of Luigi's Chronicles, Game A is the regular hack that plays like Super Mario Bros. Game B makes the enemies act different and you get a new power up, there are two endings in this hack. The Good ending and the Real ending. Enjoy Luigi's Chronicles everyone. 
+
+~ Googie
+
+http://www.romhacking.net/hacks/33/
+Now that Ghosts have invaded the Mushroom Kingdom and Mario is gone, Luigi in on an adventure to save the Mushroom Kingdom from his greatest fear. He'll also encounter zombies, Panser plants and the Phantom who makes Luigi's life miserable. You'll also find that this hack has two endings, one good and one real. And the music has a sad creppy tone to it. So if your craving for a challenge, help Luigi end this nightmare?
+
+
+
+This hack to me is very special to me cause it was insipred by Mikachu's Mario Panic 4. Luigi from SMAS SMB is the star. And this hack is yup...challenging, don't go insane & don't complain about the difficulty of the hack, it'll make you strong if you finish it. ;) 
+
+Game A and Game B? WTF?
+
+There's two versions of Luigi's Chronicles, Game A is the regular hack that plays like Super Mario Bros. Game B makes the enemies act different and you get a new power up, there are two endings in this hack. The Good ending and the Real ending. Enjoy Luigi's Chronicles everyone. 
+
+~ Googie
+
+http://www.romhacking.net/hacks/33/
+You can play alone, or team up with a friend as Mario and Luigi tackle this underground adventure together. There are plenty of cagey critters to conquer -- turtles, crabs and fireflies, to mention a few. You'll progress through endless levels of challenge collecting gold coins and building your score as you go.
+
+--From the NES Mario Brothers instruction manual.
+
+Overview - Selling over 1.6 million copies, this arcade game port was, to say the least, very popular. The game was a lot more successfull here in the U.S. than it was in Japan. It looked just as good as it's arcade counterpart, graphically, and the sounds were well ported also. The controls were easy to learn besause there were only two functions, move and jump. The story is kinda silly with it being set in the sewers of New York. This arcade mega classic offers a lot of fun and a ton of replayability.
+
+Directions - 
+Mario Bros. features two plumbers, Mario and Luigi, having to investigate the sewers of New York after strange creatures have been appearing down there.
+
+The objective of the game is to defeat all of the enemies in each phase.
+
+Both sides of every phase feature a mechanism that allows the player to go off-screen to the left and appear on the right, and vice versa.
+
+Like many other arcade games at the time, Mario Bros. features a scoring system. Points may be earned in a number of ways, be it by collecting coins or defeating enemies. The player may get points by defeating multiple enemies one after the other, and the player may participate in a bonus round that gives him or her an opportunity to gather more points. Enemies are defeated by hitting them from below the platform they are on to flip them onto their back, and then to them and kick them, ultimately defeating them. If the player allows the enemy to get up, the enemy will be angry, and have increased speed. Each phase has a certain number of enemies, with a more powerful enemy indicating the final enemy in that phase. Enemies come in variantsfor example, Sidesteppers, a type of crab, are usually red, but when they recover from being flipped or if they're the final enemy, they will turn blue and become faster than before.
+
+Each enemy has their own mechanicsthe Shellcreeper, a type of turtle, can be made vulnerable by hitting them from below once, the Fighter Fly, a type of fly, jumps into the air every once in a while and must be hit from below when they are not in the air, and the Sidesteppers must be hit twice from below in that fashion to become vulnerable.[18] Another enemy is called a Freezie, which has the ability to melt down and freeze the platform it is on, making it more difficult for the player to control Mario or Luigi. 
+
+Controls - 
+A Button - Jump
+Start Button - Pause, Unpause
+Select Button - Choose between 1 or 2-Player Game
+
+Hints - 
+POWs
+Be sure to save the POWs for when you really need them, you only get three at a time. 
+
+Reviewer - Adrian
+http://consoleclassix.com/nes/mario_brothers.html
+This is the final cut to the game called "Odd Mario Bros. 3? which can be found on many ROM sites. Ringodoggie added some pretty neat ASM changes all well as slick clever level design. People thought that this hack was lost, so now you get to play another great ROM hack. Try the hack out, you'll be glad you did?
+
+http://www.romhacking.net/hacks/371/
+Here's a smb1 hack that me and other smb1 hackers worked on. This hack originally started in 2003 when Tek Hacks used to be around (read the readme for more information) So if you have some time to kill, try the hack out. I hope you all enjoy it as much as we did working on it. =D
+
+http://www.romhacking.net/hacks/159/
+Here's a hack that's only 6 levels long and the object of the game is you gotta beat the levels before the 99 seconds run out. Please read the readme for more information that's in the zip file.
+
+Enjoy?
+
+http://www.romhacking.net/hacks/306/
+In this hack of SMB1, you play as Megaman.
+
+- The fireball properties are changed to portray Megaman's shooting technique
+
+- The graphics/sprites are from various Megaman games in the NES series
+
+- All 32 levels and bonus rooms were designed in respect of Megaman's sliding technique
+
+http://www.romhacking.net/hacks/556/
+No information online about this NES Hack.  ~Rx
+A complete hack of SMB1 in which you play as the Sandman, who is on a quest to find the sand he uses to make people fall asleep, as he has lost them. He will travel through the realm of dreams, full of nightmares and fever dreams. This game is rather challenging and requires a lot of precise jumps and timing. Have fun!
+
+http://www.romhacking.net/hacks/535/
+Mushroom Nightmare is a hack of the classic game, Super Mario Brothers. It features completely revamped graphics, along with major level editing throughout the game. It also features a new storyline, as the brothers aren't trying to save the Princess anymore, it's the Chancellor they're after.
+
+Bowser has taken the Mushroom Chancellor hostage, and is using his power to warp the landscape to his wicked desire. His forces are all over the land, and the Brothers must come to the rescue again, before the King of the Koopa forces the Chancellor to forfeit his powers to him. This game takes place right after the original SMB.
+
+The brothers now have different abilities! Mario, being the one that previously rescued the princess, is more experienced of the two. He is able to jump higher than his brother. However, due to his larger mass, it takes a longer amount of time and distance for him to stop, after a sprint. Luigi plays exactly like Mario, or Luigi from the original SMB.
+
+http://www.romhacking.net/hacks/114/
+No information online about this NES Hack.  ~Rx
+A graphics upgrade for Super Mario Bros. that brings the graphics up to the style seen in Super Mario Bros. 2 the American Version. There are various graphic patches. This patch can only be patched without graphic and TSA changes.
+
+http://www.romhacking.net/hacks/222/
+This release (20090219) is the second official beta test of the Super Mario Bros. Special for NES port. SMBS is a SMB based game licensed by Nintendo and created by Hudson Soft for the Japanese PC8801 computer. It was later ported to the Sharp X1. However, beyond these (now) obscure platforms, it was largely ignored and forgotten until suddenly becoming a cult hit in the emulation scene.
+
+The game became notorious for it's fiendish difficulty and it's (unusual for a Mario game) use of single screens rather than smooth scrolling. The suggestion was made to give the game a facelift and expose it to a wider audience by porting it to the NES. This is the result of that effort.
+
+http://www.romhacking.net/hacks/527/
+This is a hack of our old-time fav Super Mario Brothers 1 for the NES. Mario has been abducted by Cyber-Ridley and taken to Zebes, and Samus' mission is to save Mario so he can go back to Mushroom Land to save the Princess.
+
+The hack was created by me and took just a couple of months. Specifically, I've worked on this project from December 2003 to February 2004. Every level and almost all graphics has been changed from the original game. The fireball movement has been changed as well!
+
+http://www.romhacking.net/hacks/298/
+This is the true version of Strange Mario Brothers - The Lost Levels.
+
+NOTE - In worlds 3-1 and 6-2, you're going to have to find the vine to find the flagpole, but in 3-1, it's not so hard. In world 6-2 though, it's in the last block that's above the tenth pipe in the level.
+
+http://www.romhacking.net/hacks/356/
+Super Greyscale Brothers is a complete palette only hack of Super Mario Brothers 1. Changes the entire palette from nes color to only 6 grey nes variant colors. Darkgrey, Lightgrey, Black, White, Grey2, White2. That is it no other changes. It is however a stand alone palette hack no external palette file is needed just apply the patch and play it in you favorite emulator.
+
+http://www.romhacking.net/hacks/393/
+Mario decided it was time for a vacation, so he went to the Tofu Kingdom for some rest and relaxation. One of the sites he was going to visit first was a famous play where the most beautiful Geisha in all the land performs. When Mario buys his ticket he notices a big ball of light coming from the sky and crashes right into the hall where he was going to watch the play. When Mario arrives at the hall he sees people running out in a panic and some people already dead in a massacre. When Bowser sees that Mario is at the Tofu Kingdom he takes the famous Geisha along with her three uncles, and flies away into the sky. One of her other uncles was lying on the floor and tells Mario that Bowser has gone into the Exile Valley, he also warns Mario that people who went there has never returned. So before he dies, he gives Mario a map where the Valley is located. So now Mario is in a new land, with a new quest, while he's on vacation?
+
+Super Loco Spoof! is a Smb1 hack that was being made while I was working on my other hacks in progress. You'll notice that there's a couple of changes in this hack, like the ability to shoot while being small. Hard players will get their fix since the levels are challenging. So if you have what it takes, help Mario save the Geisha.
+
+http://www.romhacking.net/hacks/140/
+Super Mario Bash includes all new levels (all 8 worlds) and new graphics. I find most Mario hacks to be too hard (by making them super-hard they get away with only changing world 1?), and not actually fun, like it's supposed to be. So my levels are more like what you'd find in a real Mario game.
+
+BTW, I borrowed some graphics from the Japanese Mario 2, but I think there's a little bit from other hacks as well. It's been 5+ years since I made it so I can't remember for sure, nevertheless find and contact the original authors to ask for permission. Hope it's not a problem.
+
+http://www.romhacking.net/hacks/205/
+This is an old SMB hack that was being worked on by Challenge Games back in 1999 to 2002 (you can find the old demo at Zophar's Domain) This hack was long forgotten and someone needed to finish it, so here it is. There's also a HTM file with this patch that talks about this hack from the original authors.
+
+So here's the final version of Super Mario Bros. Challenge, a tribute if you will, to The Challenge Games Community. Enjoy the hack everyone. :D
+
+http://www.romhacking.net/hacks/192/
+One day the kingdom of the peaceful mushroom people was invaded by the Koopaa tribe of turtles famous for their black magic. The quiet, peace-loving Mushroom People were turned into mere stones, bricks and even field horse-hair plants, and the Mushroom Kingdom fell into ruin.
+
+The only one who can undo the magic spell on the Mushroom People and return them to their normal selves is the Princess Toadstool, the daughter of the Mushroom King. Unfortunately, she is presently in the hands of the great Koopa turtle king.
+
+Mario, the hero of this story (maybe) hears about the Mushroom People's plight and sets out on a quest to free the Mushroom Princess from the evil Koopa and restore the fallen kingdom of the Mushroom People.
+
+You are Mario! It's up to you to save the Mushroom People from the black magic of the Koopa!
+
+--From the NES Super Mario Bros. instruction manual.
+
+Overview - 
+Super Mario Bros. was one of the great classics, and everyone has played it, but we will give you a little insight on the game. Based on the arcade game Mario Bros., Super Mario Bros. became one of the most popular games ever. It had decent graphics and was fairly easy to play. You play either Mario Or Luigi, two plumbers that are trying to save the Princess Toadstool of the Mushroom Kingdom from the dreaded King Koopa. Super Mario Bros. was the start of a great series that has continued to this day.
+
+Directions - 
+Run, jump, and collect items, but most importantly keep moving. Collect Mushrooms to get bigger and flowers to spit fire. Collect coins to get extra lives.
+
+Nine worlds, containing three levels each, stand between you and your goal. Find secret areas that might let you skip certain levels and save the princess. 
+
+Controls - 
+A Button - Jump
+B Button - Run, shoot fireballs
+Start Button - Pause the game/Start the game
+Select Button - Select 1 player, 2 player(or Duck Hunt if playing SMB/DH)
+
+Hints - 
+Continue
+If you die and lose all your lives, just hold A+B and press start at the start screen to start at the first level of the world you were in.
+
+Extra Points
+When finishing a stage you have to jump onto a flagpole as high as you can. To get the highest score possible, be sure to land on the pole as high as possible and try to land on the pole when the clock's last digit is a multiple of three. If you do this, fireworks will go off that give you extra points.
+
+http://consoleclassix.com/nes/super_mario_bros.html
+No information online about this hack.  ~Rx
+Super Mario Bros. DX is a complete graphics upgrade for Super Mario Bros., based partly on Super Mario Bros. 3 including a combination of directly-imported, modified, and entirely new graphics. Special attention has been paid to color. This hack may be combined with separate level hacks, or (if credited) used as a springboard for your own hacks.
+
+http://www.romhacking.net/hacks/144/
+Hello there! You're probably here because you're looking for a fun hack of Super Mario Bros, right? If so, Super Mario Bros HF could be just for you. Perhaps the main focus of SMBHF is the difficulty. Most hacks that redo levels (at least the ones that I've tried) make the game nearly impossible! I've had quite a few games where I couldn't get past the first few levels without savestates. In my opinion, games like these are just not fun. How can you enjoy a game if you have to keep saving after each major jump? I don't think you can.
+
+That is why SMBHF's levels are about as difficult as the original game's. You will NOT find ultra-hard levels in SMBHF; if you can beat Super Mario Bros, you can beat SMBHF. These levels were created for the gamer's enjoyment, not for the gamer's frustration. Each level (1-1 through 8-4) has been changed. Some have been changed moreso than others, but each has been significantly altered.
+
+The lesser focus of SMBHF is graphic changing. Some major graphic changes include - New floor tile, New underwater tile, New "?" blocks, New brick graphics (Borrowed from SMB2J), and others. There are also some minor graphic changes that you may notice throughout the game. (And yes, those lines on Mario's face are longer sideburns.)
+
+If you expect SMBHF to be terribly difficult, you will probably be dissapointed. If you are here to play an enjoyable remake of the original, you should enjoy this game. Thanks for giving SMBHF a try, and I'm sure you will enjoy it! ^_^
+
+http://www.romhacking.net/hacks/93/
+100% of graphics updated to look more like SMB3/SMW. There are no other changes, so you can mix and match this with level mods and other features.
+
+http://www.romhacking.net/hacks/116/
+No information online about this NES Hack.  ~Rx
+No information online about this NES Hack.  ~Rx
+No information online about this NES Hack.  ~Rx
+A watered down version of Super Mario Bros. Challenge. 
+
+http://datacrystal.org/wiki/Super_Mario_Bros_Revisited
+No information online about this NES Hack.  ~Rx
+No information online about this NES Hack.  ~Rx
+Mario has found his way into another adventure by going after Bowser once again to get Peach back. Holy crap, Mushroom Kingdom Chaos! It's a little harder, but a little funner.
+
+http://www.romhacking.net/hacks/257/
+This is a hack found on a Japanese site which does a pretty good job of hiding the fact it's a regular Mario Game. It changes the music, graphics, and level structure to be a bit unlike your normal Mario game. While it is relatively short, it is pretty fun while it lasts.
+
+http://www.romhacking.net/hacks/188/
+No information online about this NES Hack.  ~Rx
+Sub Zero has to travel through different worlds even weirder than Outworld. Sub Zero must go hunt down Onaga and give him what for. Scorpion is available in Co-Op.
+
+http://www.romhacking.net/hacks/288/
+This is an update of acmlm's hack of yesteryear, The Strange Mario Bros. The graphics have been restored to that of the original Super Mario Bros game. This means that they aren't as buggy as those of the original version.
+
+The levels are still the same great ones developed by ACMLM and with the same modifications to the gameplay, this game ought to keep bringing people back for more and more.
+
+http://www.romhacking.net/hacks/542/
+A graphics hack that is the opposite of most; instead of an improvement, it is a downgrade. The effects are pretty cool. Be sure to check out the castle level.
+
+http://www.romhacking.net/hacks/394/
+This is mostly a level hack of Super Mario Bros. with a bit of hex editing. It is somewhat harder than the original SMB1 (but not hard like Kaizo or Air).
+
+http://www.romhacking.net/hacks/531/
+A complete and total conversion for Super Mario Bros, in which you star Toad. New levels, graphics, and even some small sound and ASM changes.
+
+http://www.romhacking.net/hacks/86/
+Toad's Treasure Quest is my latest SMB 1 romhack. The foundation of this romhack is what makes it special and very fun to play. A fellow romhacker, Googie, put together a rom containing hacks from various open-source Japanese SMB hacks. He then changed all the GFX and sent me the file for a collaboration project. That project ended up dieing unfortunately. But after a couple months, I found myself with some free time and decided to make a new SMB hack using this incredible hack as a starting point.
+
+This hack contained new music, new GFX, conveyor belts, new lead character animations and upside down pipes/piranha plants. None of the levels were actually changed though. So I loaded up SMB Utility and went to town. I created 16 original levels making sure to utilize these cool new features. This romhack is definitely easier than my previous SMB Bowser's Jumping Challenge and the levels flow much more smoothly.
+
+The story involves how Toad came to posses all those useful items in SMB3. In this hack, you search for those warp flutes. Yes, I know Toad doesn't actually give you those flutes in SMB3. Just pretend he finds em and intends on giving them to Mario, but then Toad trips on a Goomba and drops the flutes which then get stolen by Bowser's henchmen.
+
+http://www.romhacking.net/hacks/191/
+This is one of those rare SMB hacks out there that have alot of replay value. The object is to find stars in order to reach Boswer's castle, this is a fun hack that will keep you busy most defenitly. And the music in this hack is really good too. The spikes can kill you in an instant, so be careful. If you like SMB hacks then this game is right up your alley? 
+
+http://www.romhacking.net/hacks/104/
+No information online about this hack.  ~Rx
+Here's a hack that Dr. Mario made in 2003 when Tek Hacks used to be around, he gives SMB a Zelda feel. If you're a Zelda fan, or like Platforms make sure to give this oldie but goodie hack a try. :)
+
+http://www.romhacking.net/hacks/209/

@@ -1,0 +1,220 @@
+Original Title - Final Fantasy
+Hacked By - Silver X
+@END
+A full scale hack of Final Fantasy, nothing remains but the core programming routines. It features all new graphics, music, levels, enemies, text, statistics and more. Think of it as a "Total Conversion" for the NES.
+
+After numerous releases, the hack has come to a state I consider final - All known bugs have been fixed and the gameplay has been polished to the best of my abilities. SRAM files from any versions other than 1.30 or Final will *not* work properly with this release. Sorry, too much has changed.
+
+http://www.romhacking.net/hacks/143/
+Original Title - Final Fantasy
+Hacked By - Kenny1835
+@END
+Evil dead related Final Fantasy hack that replaces some text and the characters.
+
+http://www.compmike19.com/ffhacks/id52.htm
+Final Fantasy
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Role Playing Game
+Release Year - 1987
+Developer - Squaresoft
+Manufacturer - Squaresoft
+Players - 1
+@END
+Hironobu Sakaguchi's Final Fantasy... the first of one of the longest role-playing game series known to mankind. Final Fantasy is the game for the NES console that started it all.
+
+The world is veiled in darkness. Winds don't blow, the seas are stormy, and the earth rots. All people can hope for is that the ancient prophecy will be finally fulfilled. "When the world is veiled in darkness, four warriors will come..." And indeed, they come - the four characters you have previously chosen. Their first quest is to free a princess from the evil Garland.
+
+Final Fantasy uses a turn-based combat system. The enemies wait until all of your party members have performed their moves, and the ATB (active-time battle) system is not used. You can buy weapons and rest in the towns, and the world map is populated by monsters, with which you will be engaged in random fights.
+
+Before the game starts, you choose four characters from six different classes - Fighter, Thief, Blue Belt, White Mage, Red Mage, and Black Mage. Which four classes you choose for your character is entirely up to you. You also give the characters names.
+
+Controls - 
+A Button - Talk, make selection
+B Button - Cancel, go back
+Start Button - Show status screen
+Select Button - Change order of marching
+
+Hints - 
+Hidden Puzzle Game
+When you're on the ship, hold down the A button and press the B button 55 times to access the hidden puzzle game.
+
+Extra Classes
+The first 6 classes don't just stop there. Later on in the game, you get a secondary classes, which include Knight, Ninja, Master, White Wizard, Red Wizard, and Black Wizard.
+
+http://consoleclassix.com/nes/final_fantasy.html
+Original Title - Final Fantasy
+Hacked By - RPG Man
+Version - 2.0
+@END
+Final Fantasy 1X changes the appearances of the characters in battle and makes some of the useless weapons, armor, and magic better. It also gives the black belt/master class his own set of skills.
+
+Here are some of the changes, take from RPG Man's website - 
+Weapons - 
+- Falcon Sword (renamed from Falchon) can be used by FI/KN/TH/NI/RM/RW.
+
+- Power Staff has been renamed Golden Staff.
+
+- Vorpal Sword has been changed to the Sage Staff.
+
+Armor - 
+- Allowed the BB/MA to equip the ProCape.
+
+Magic - 
+- LV1 - FOG has been replaced by PURE and LOCK has been replaced by KICK
+
+- LV2 - LAMP has been replaced by ABLT (Aura Bolt)
+
+- LV3 - LOK2 has been replaced by FDAN (Fire Dance)
+
+- LV4 - PURE has been replaced by CHKA (Chakra)
+
+- LV5 - HEL2 has been replaced by MNTA (Mantra)
+
+- LV6 - STUN has been replaced by LSTM (Lightning Storm)
+
+http://www.romhacking.net/hacks/73/
+Original Title - Final Fantasy
+@END
+No information can be found on this hack. Graphics are updated. It is unknown if the story is updated too.
+Original Title - Final Fantasy
+@END
+This ROM hack is for those of you who already own Final Fantasy and found that it wasn't as polished as it could have been.
+
+I have taken the liberty of "improving" upon this marvelous game, correcting as many of Nintendo's stylistic errors, graphical censorships, and mistranslations as possible. However, truth be told, Nintendo did a very good job translating Final Fantasy1. At least there were no "This guy are sick" lines. Even so, the script was rather bland and important words stuck out like a sore thumb (ORBS and LIGHT WARRIORS come to mind). By using a more optimized DTE scheme, decapitalizing 90% of the text (^_^) and streamlining the tile table (which took a lot of effort BTW!), I found that there was not only plenty of room for a full trannslation, but there was room for more! Since my Japanese skills aren't all that great yet, and since no one on the face of this planet would dare dream of translating the script for me, I decided that I would simply rewrtie the American script, putting my personal interpretive "spin" on it. The result is, I hope, a script that is more cohesive, entertaining, and logical than the original.
+
+Please keep in mind that EXTENSIVE liberties were taken with the hack. Do not think that Nintendo cheated you out of all this information. I have heavily researched Final Fantasy I, and sought to expand on very minute, almost insignificant details. In essence, you are getting a condensed version of the story that will appear in Final Fantasy Silver. 
+
+http://www.compmike19.com/ffhacks/id11.htm
+Original Title - Final Fantasy
+@END
+AKA Final Fantasy Dark Cecil Hack
+
+Several characters from Final Fantasy II (US) make an apperance. Choose from Dark Cecil, Rydia, Rosa and others.
+
+http://www.compmike19.com/ffhacks/id15.htm
+Original Title - Final Fantasy
+Hacked By - FF1freak
+@END
+Sweet, another major hack. New story to follow. There's new character sprites and what looks like a lot of new dialogue. 
+
+http://www.compmike19.com/ffhacks/id21.htm
+Original Title - Final Fantasy
+@END
+Final Fantasy update with a lot of new character and enemy sprites. Pretty impressive looking.
+
+http://www.compmike19.com/ffhacks/id22.htm
+Original Title - Final Fantasy
+Hacked By - Goongyae
+Version - 1.30
+@END
+FinalFacelift is a fun patch that changes the look, but none of the gameplay, of Final Fantasy for the NES. It's not a game itself, but only a patch file specifying minor changes.
+
+That's a very modest description of this hack. Here's a short list of changes - 
+- Five letter character names
+- Default names for characters
+- Retranslated names for items, equipment, and monsters
+- Touched up dialog
+- Enhanced graphics (With censored graphics restored)
+
+It may not seem like a lot, but it has been the base for countless Final Fantasy hacks and offers an enhanced gameplay experience on its own.
+
+http://www.romhacking.net/hacks/12/
+Original Title - Final Fantasy
+Hacked By - Grond
+Version - 1.5
+@END
+Final Fantasy ++ (or Final Fantasy Double-Plus, or Final Fantasy Plus Plus) is a "re-imagining" of the very first Final Fantasy game.
+
+What's been changed - 
++ Redone graphics. (Mostly ripped from later games in the series.)
++ Redone enemies. (Many are new; some are returning enemies with new properties.)
++ Redone magic spells. (Magic is now divided into White, Black, and Time Magic.)
++ Redone weapons and armor. (Some armors now increase evasion rather than lowering it!)
++ Redone maps. (Most are similar to the original game's; some are totally new.)
++ Redone character class system. (See Read Me.txt for details.)
++ Two new pieces of music. (Adapted from Final Fantasy 4.)
++ Some other relatively minor stuff.
+
+http://www.romhacking.net/hacks/81/
+Original Title - Final Fantasy
+Hacked By - Grond
+Version - 1.2
+@END
+This is a semi-sequel (or more like an expansion pack) for my previous hack, Final Fantasy ++ (so if you haven't played that, then you really shouldn't be playing this). At any rate, this is quite a bit harder to beat than FF++, so n00bs beware. Also, one can consider this sort of a tribute to classic SquareEnix (the way they were?). It includes adaptations of various dungeons from FFs 3, 4, 5, & 6, SaGa 2 (a.k.a. FF Legend 2), and Dragon Quest 5 (along with a couple of new ones by me). And, of course, lots of classic FF enemies are here for you to battle.
+
+http://www.romhacking.net/hacks/113/
+Original Title - Final Fantasy
+Hacked By - Omniverse
+@END
+Another Omiverse production. This looks to be a very promising hack. Graphics replacement, text changed, characters changed, and items renamed. It even has some of the weapons renamed. Looks good all in all, characters say new things now.
+
+http://www.compmike19.com/ffhacks/id10.htm
+Original Title - Final Fantasy
+Hacked By - Lord Steak
+Version - 2.4F
+@END
+This is actually a very nice and imaginative hack of FF1. Difficulty is increased, but not ridiculously. There are new layouts and such. A very nice job by one of ZMD's own.
+
+http://www.zophar.net/hacks/nes/final-fantasy-1/final-fantasy-deluxe-edition.html
+Original Title - Final Fantasy
+Hacked By - Codeman
+Version - 1.9a
+@END
+This is one of the more famous Final Fantasy Hacks. It's completed and tells a story taking place a century after the original Final Fantasy.
+
+http://www.romhacking.net/hacks/16/
+Original Title - Final Fantasy
+Hacked By - Magus
+Version - 0.9
+@END
+What's been changed - 
+- Fighter => Rydia
+
+- Thief => Butz
+
+- B. Belt => Lenna as the "Monk" class
+
+- RedMage => Cecil, Paladin
+
+- W. Mage => Plain Lenna with a cape
+
+- B. Mage => Butz (I think) as the "Black Mage" class
+
+- The class-changed characters are original creations, so they are not from any other game, however they may slightly resemble their former selves in most cases.
+
+- The palette for the 16-24 character sprites (the ones you control in combat) has been changed to better colors.
+
+- Hammers have been replace by whips.
+
+- The starting values for chars have been grossly inflated to enable you to progress throught the game at a faster pace.
+
+http://www.romhacking.net/hacks/62/
+Original Title - Final Fantasy
+Hacked By - Kabucho
+Version - Patch
+@END
+Kabucho informed us a week ago that he released a hack of Final Fantasy, called Quadruple Dragons. Quadruple Dragons is about four warriors that set out to revive the Four Orbs of the elements. You can choose from a Soldier, who is very strong in melee attacks, but is as dumb as a brick. The Bandit, who is very quick and is an average fighter. The Monk is very strong if you know how to use him. The Mage masters the art of black magic, while the Priest studies white magic. The Comic is useless... unless you get his character class up. In this game, all of the text, armor, weapons, magic, almost everything is changed from the original Final Fantasy. Even some of the towns and overworld map is changed.
+
+WARNING - I got froze after saving the Princess in the beginning.  I don't know if this hack is beatable past that point.  ~Rx
+
+http://www.zophar.net/news-archive/quadruple-dragons-2786.html
+Original Title - Final Fantasy
+Hacked By - Grindill
+Version - 2.0
+@END
+Originally, this started as a script and graphics improvement by Phin. However, I took the project under my wing and developed on it further, adding a whole new script, bug fixes, even more graphical improvements and a few changes to game balance. Enjoy!
+
+http://www.romhacking.net/hacks/182/
+Original Title - Final Fantasy
+Hacked By - Unknown Hacker
+@END
+No information can be found on this hack. Graphics are updated. It is unknown if the story is updated too.
+Original Title - Final Fantasy
+Hacked By - Acmlm
+@END
+The stars of the Super Mario Bros. series star in this complete re-creation of the original Final Fantasy game. There's new graphics, new text, a redesigned map, and even some new music!
+
+http://www.derok.net/nes-roms/final-fantasy/mario-adventure

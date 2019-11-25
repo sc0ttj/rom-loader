@@ -1,0 +1,40 @@
+Do you love cookies? Then try Yoshi's Cookie! This fast-paced puzzle game is fun for kids of all ages. It's easy... just move the randomly placed cookies (HEART, FLOWER, DIAMOND, CHECK, CIRCLE AND YOSHI) into rows and columns of the same type. If you make a row or column of the same cookies, the line disappears and you score points. remove more than one row or column at a time for really big points!
+
+--From the SNES Yoshi's Cookie instruction manual.
+
+Overview:
+
+This is probably the best looking of the Yoshi's Cookie games. The colors are much brighter than NES and it's easier on the eyes. Mario and Yoshi work together in this one to get the cookies lined up and packaged. There is a bit of simple animation as the cookies slide around on the screen and Yoshi and Mario pull their levers, but it's mostly a very simple looking game. If you are drawn to play this game it will be because you love puzzles and not because you care about dazzling animation or effects. Still, the backgrounds do change, providing you with a bit more visual stimulation than other Yoshi's Cookie games.
+
+The music is cute and just what you would expect from a game like this. You even get to decide which music you prefer in the action option, which really increases the odds that you will be able to find something that you can at least tolerate.
+
+Directions:
+
+ACTION:
+
+Lock on to a cookie then press a direction to change the order of the cookies. Move the cookies around to get all of the same kind of cookie in one row. Only two cookies are necessary to be a row, but no matter how long the row is, all of the cookies must be the same in it for the row to be eliminated.
+
+Sometimes you can do this in one move! If the cookies reach the edge of the screen, it's game over. Manipulate them as fast as you can to keep that from happening. While you are trying to clear the cookies you started with, more cookies will begin creeping in from the sides. When they touch each other they will then be permanently (until you eliminate them) on the screen. However, if you eliminate the cookies already there while the new ones are still creeping up, you win and the new ones disappear and don't count at all. Any cookies approaching when you eliminate some cookies but not all of them will retreat and give you a bit of a break. Also, any approaching that match with those currently being eliminated will vanish as well. Speed up the movement of the cookies by pressing B if you don't have anything that matches.
+
+Fill all the bars to the left of the screen next to any cookie and you will get a special Yoshi cookie that is basically a wild card... er, cookie. It will help eliminate any cookies you don't have a match for. 
+
+VS:
+
+In this part of the game you can choose to play against either the computer or a friend. You will have a fuse connected to your cookie box that is slowly burning down. If it burns all the way down your cookies will burn up and you will lose. Clearing cookies will gain you more fuse and time. New cookies will enter as you eliminate cookies, keeping your board full at all times. Clearing cookies also gains you points. The first player to 25 points wins. There will be different things written in the box below your character. This tells you what will happen when you complete a row of Yoshi cookies. Don't assume that everything that will happen is good for you though! Watch the X and O in the character box. When there is an X it will be bad for you (or good for your opponent) and when there is an O it will be good for you (or bad for your opponent). Be the first to win three games and you win!
+
+By the way, the different levels of ATK (Attack), DEF (Defense), MES (Message), LMT (Limit) will affect how easy that character is to play as or play against. More: Attack power= longer attacks (the things the messages say), Defense= shorter time of attacks that have been performed against you, Message= faster message changing, and Limit= slower burning fuse (or more time).
+
+PUZZLE:
+
+In the puzzle option, you only have a limited number of moves to clear all of the cookies from the screen. Eliminate the cookies in the same fashion as you get rid of them in the Action game. Where it was 'possible' to clear them all in one move in the Action game, it will be required of you sometimes in the Puzzle game. New pieces do not enter the board in this game. 
+
+Controls:
+
+A Button - Hold to Lock On to Cookies
+B Button - Makes Cookies Move Onto Screen Faster
+L Button - Takes You Back One Move (Puzzle Game Only)
+R Button - Takes You Back to the Start of That Stage (Puzzle Game Only)
+Start Button - Pause
+Select Button - Change Menu Selections
+
+http://www.consoleclassix.com/snes/yoshis_cookie.html

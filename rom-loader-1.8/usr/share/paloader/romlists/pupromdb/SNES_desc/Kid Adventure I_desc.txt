@@ -1,0 +1,14 @@
+A final release of my hack,I translated the game into English, but I am French, thus saddened if there are spelling mistakes.
+
+This game use :
+-ExGFX
+-Customs sprites
+-Customs musics
+-New ending & credits
+-News characters.
+
+The final boss is not impossible has to beat, you owe find yourself the means to eliminate him(it).
+
+Kid Adventure by BOBO/Lunartoad, good game!
+
+http://www.smwcentral.net/?p=showhack&id=2031

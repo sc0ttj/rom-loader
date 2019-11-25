@@ -1,0 +1,8 @@
+This football game is presumably developed by Sculptured Software using the same rotoscope Mode 7 engine that is used in games such as NHL Stanley Cup, NCAA Basketball, and Tony Meola's Sidekick Soccer. The presence of the Arizona Cardinals, L.A. Raiders and L.A. Rams indicates that this game was in development for the 1994 season. There in no apparent use of real player names, so perhaps there was no plans to have a NFLPA liscense (similar to NHL Stanley Cup). 
+
+Aside from the game, which I would say it pretty much complete, there was a lot of issues with the menu system. You had to manually select that it was a single player match, and it seems that you cannot chose which of the two teams you pick to play as. Also, when you go to the play menu, it defaults to "pass game", so that it just simulates the outcome. Blah.
+
+On the whole, I thought that this untitled NFL Football game would actually be a pretty decent sports game for the snes. There wasn't much of a frame rate issue, which plagued many EA games. It was also a hell of a lot more balanced than NHL Stanley Cup. One can only guess as to why this wasn't released, but I imagine intense competition at the time had something to do with it. 
+
+Reviewer: Evan G
+http://www.snescentral.com/article.php?id=0852

@@ -1,0 +1,3 @@
+The original game is "Higemaru Makaijima Nanatsu no Shima Dai Bouken" c. 1987 by Capcom licensed for the NES Famicom. This title translates as "Haunted Pirate Ship Seven Islands Adventure," which is a Legend of Zelda type game with a nautical pirate theme. This translation patch was created so that you can play this game in English on an eight bit Nintendo emulator.
+
+http://www.romhacking.net/trans/1278/

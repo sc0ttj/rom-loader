@@ -1,0 +1,42 @@
+Xenon 2: Megablast is vertically scrolling space shooter, in which you have to pass several levels, filled with waves of enemies, that all end with a level boss creature. Each group of enemies you destroy grants you a cash reward and every once in a while you enter Colin's Bargain Basement, where you can use this cash to purchase upgrades for your ship like better weapons, speed & health upgrades etc. Some upgrades can also be picked up during the levels.
+
+The first part of the game has an organic feel to it, while the second part of the game features mechanical enemies. As there are some maze-like sections with dead-ends in the game, your spaceship  scrolls backwards when you keep pressing the down key.
+
+A typical Bitmap Brothers smash, the game is also famous for its soundtrack by British electronica group Bomb The Bass.
+ 
+http://www.mobygames.com/game/amiga/xenon-2-megablast
+
+Jointly developed by The Bitmap Brothers and The Assembly Line.
+
+Amiga and Atari ST versions were released simultaneously.
+PC versions: CGA, EGA, VGA
+
+TRIVIA: The theme tune is David Whittaker's rendition of 'Megablast (Hip Hop on Precinct 13)(7'' Mix)' by BOMB THE BASS, taken from the album "Into the Dragon" ? 1988 Rhythm King/BCM Records.
+BOMB THE BASS's album version of "Megablast", in turn, is a remix of the soundtrack from the 1976 motion picture "Assault on Precinct 13", composed and directed by John Carpenter.
+
+http://hol.abime.net/1605
+_________________________
+CHEATS:
+
+Level skip:
+Pause the game and type "RUSSIAN AIR", then unpause the game.  Press 'N' to skip levels.  This doesn't work on all versions.
+
+*** Halfway and End Monsters ***
+
+SNAIL:    Shoot at eye, avoid mines.
+
+ALIEN:    Shoot eyes at either side at top.  Scroll back and shoot center eye.
+
+SPIDER:   Destroy as much web as possible.  Fly down to face spider and fire continuously.
+
+CRAYFISH: Travels in figure eight.  Stay below and fire in it's  face.
+
+SNAKE:    Attacks from left of screen.
+
+DRAGON:   Shoot the side heads first, then tail, then main head.
+
+HEAD:     Shoot both eyes, avoiding laser fire and extending tongue.  Shoot at head when tongue goes in.
+
+TANK:     Use missiles
+
+GRAND SPACESHIP: Shoot all cannons until totally destroyed.

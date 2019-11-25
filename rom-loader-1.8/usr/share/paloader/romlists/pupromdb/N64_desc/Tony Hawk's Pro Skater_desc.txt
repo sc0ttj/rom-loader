@@ -1,0 +1,18 @@
+Description
+
+Go Big, Go Pro! Skate as legendary Tony Hawk, or as one of nine top pros. Work your way up the ranks by landing suicidal tricks in brutal competitions to become the highest ranked skate champ! Great features such as: Signature Pro Moves, fully skateable worlds, head-to-head competition, and Instant Replay Mode.
+
+Gameplay
+
+The goal of the game is to successfully perform and combine aerials, flips, and grinds, with successful executions adding to the player's score. The point value of the trick is based on time maintained, degrees rotated, number of tricks performed in sequence, and the amount of times the tricks have been used (the more often a trick is used, the less it's worth). Successful tricks also add to the player's special meter, which, once full, allows for the execution of "signature moves" which are worth a great deal more than normal tricks. Bails (falling off the skateboard due to poor landing) cause for no points to be awarded for the attempted trick and resets the special bar to empty.
+The player, as Tony Hawk, has just collected all of the letters to spell "SKATE". Screenshot is of Dreamcast port.
+
+In "Career Mode", the player has five tapes (i.e. objectives) to obtain in six of the nine levels. The player has only two minutes in which to obtain a tape after which their run ends. It is not necessary to get every given tape in a level in one run though, as individual objectives are marked off once completed. In each level, two of the tapes are acquired by reaching set scores (with the second score being two to three times the amount required for the first), one is obtained by collecting the five letters to spell "SKATE", and one is a hidden tape which the player must find by looking in secluded areas, and the last tape's requirement varies from level to level, but always involves doing something to five objects (e.g. "grind five tables"). The other three levels are competitions, where the goal is to receive a gold, silver, or bronze medal by ranking higher than the other skaters. In these levels, the basis for ranking is not the player's score, but the mean number of points given on a scale of one to ten by three computer AI judges after three sets.
+
+The player can also play levels they have unlocked in "Career Mode" in "Single Session", where the object is to simply to get as high of a score as possible in two minutes, or "Free Skate", where there is no time limit
+
+There are also three multiplayer modes playable between two people: "Graffiti", "Trick Attack", and "Horse".
+
+
+http://en.wikipedia.org/wiki/Tony_Hawk%27s_Pro_Skater
+http://www.gamefaqs.com/n64/199059-tony-hawks-pro-skater

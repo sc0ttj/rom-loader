@@ -1,0 +1,32 @@
+Zone 66 took the overhead shooter to another level. Rather than move in just one direction, it let the user move freely in 360 degrees around a map. Thus, Zone 66 was born. Featuring high-action gameplay, a techno soundtrack and plenty of options, this game is a winner.
+
+Trivia:
+
+Zone 66" has a total of 8 missions with only the first mission in Shareware version. Different companies packaged these as two or four mission packs. Or altogether!
+
+Those mission titles: 
+Mission 1: Foreign Shores. 
+Mission 2: Ice Wind. 
+Mission 3: Desert Heat. 
+Mission 4: War Plains. 
+Mission 5: Highway Fury. 
+Mission 6: Plantation Crash. 
+Mission 7: Hell. 
+Mission 8: Final Frontier.
+
+---------------------------
+
+This game was distributed as shareware; it was possible to register the whole game at once or to purchase it a few missions at a time.
+
+---------------------------
+
+Zone66 is one of the first games whose production team consists almost entirely from demosceners. It is programmed and composed by two members of the legendary North American demogroup Renaissance.
+
+---------------------------
+
+A "GUS Enhancement Pack" was available for Zone 66 that provided greatly enhanced music for Gravis Ultrasound cards.
+
+Zone 66 was developed on a 386 running at 16MHz. For an action game with full-screen updates, this was a technical achievement. Tran was able to eek more speed out of such a machine because he used a preliminary version of his own 386 protected-mode extender "pmode". Unfortunately, due to the extender being an early version, the game is incompatible with all Pentiums and higher. (Which is probably why it's nearly impossible to take a screenshot of gameplay as well -- that, and the game takes over nearly every interrupt in the system :-)
+
+http://www.mobygames.com/game/dos/zone-66
+*

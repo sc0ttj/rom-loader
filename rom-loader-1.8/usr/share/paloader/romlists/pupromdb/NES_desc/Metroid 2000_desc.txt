@@ -1,0 +1,3 @@
+This is a basic redo of the classic, with rooms changed around and some color changes in enemies.
+
+http://www.zophar.net/hacks/nes/metroid-1/metroid-2000.html

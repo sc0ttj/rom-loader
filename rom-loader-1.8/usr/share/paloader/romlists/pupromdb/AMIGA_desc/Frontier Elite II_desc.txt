@@ -1,0 +1,142 @@
+You have a ship with virtually no equipment. Take her and trade among the different star systems. You can be safe and trade on razor-thin margins among the safe systems, or take some risks and trade with anarchic systems while watching out for pirates. You can save on fuel costs by buying a fuel scoop and fly near the sun, but again, watch out for pirates! Or be a pirate yourself and raid other ships...  Don't get a bad rep as the police will come after you... Dock with space stations and do your trades (some may take contraband...) Upgrade your ship with your proceeds with better weapons,  shields, and other equipment. With 8 different galaxies, each with HUNDREDS of planets, there are plenty of room for exploration! Can you make your reputation all the way up to "elite"?
+ 
+http://www.mobygames.com/game/amiga/elite
+_________________________
+CHEATS:
+
+Further jumps:
+This technique can result in a distance of 80 light
+years in about two jumps. Buy some fuel and launch from the station.
+Press [F6] to display the local cluster chart and select
+a planet that lies within the fuel range. Press H to jump
+into hyperspace and the pointer will disappear.  However, it may
+still be moved even though it is invisible.  Move the pointer
+to a planet outside the range and press to get the local chart
+for that planet.  This must be done within the ten second limit
+of the countdown.  This should cause the jump to move to the selected
+planet, well outside the 7.2 light year range. 
+
+Control ship preview:
+Press A when the rotating ships appear on the
+opening screen to stop their movement.  Use the cursor keys to
+rotate the ships.  Hold A and press a cursor key to rotate
+them differently.  Press O or I to zoom in and out.
+ Press D to continue.
+
+View credits:
+Press W when flying to view your score and the
+credits.
+
+Longer song:
+Press H to jump into hyperspace, then engage
+the docking computer when the counter is below 5.  The song, The
+Blue Danube will play until your ship reaches the next station.
+
+Cheat mode:
+Enter SARA or SUZANNE when prompted for
+a word from the manual during the copy protection check. Then,
+enter a valid word when the prompt appears again. Press [Keypad
+Plus] and/or [Keypad Asterisk] during game play to
+display the cheat screen. A prompt for a byte and new value will
+appear. Enter the first number of the set, press [Enter],
+enter the second number, press [Enter], then press [Esc]
+to resume game play. Note: Press [Help] to edit the amount
+of arms and cargo.  Additionally, this will not work in the Space
+Legends compilation version of the game.
+
+
+
+Effect|Byte/Value
+
+Create a new galaxy|12/00-FF
+
+Create a new galaxy|13/00-FF
+
+Extra credits|18/FF
+
+7 light years fuel|1F/46
+
+Escape capsule|20/01
+
+Large cargo bay|23/02
+
+ECM system; press L to toggle|24/01
+
+Pulse laser|26/01
+
+Galactic hyperdrive or Beam Laser|28/01
+
+Escape pod|2C/01
+
+Energy bomb|2F/01
+
+ECM jammer|31/01
+
+Naval energy unit|31/0C
+
+Docking computer|32/01
+
+Galactic hyperdrive|34/03
+
+Mining laser|36/01
+
+Military laser|38/01
+
+Cloaking; press Y to toggle|3F/01
+
+Food|40/01
+
+Textiles|47/01
+
+Radioactives|49/01
+
+Slaves|4C/01
+
+Wine|50/01
+
+Narcotics|54/01
+
+Computers|5C/01
+
+Machinery|63/01
+
+Alloys|67/01
+Firearms|69/01
+
+Furs|6C/01
+Minerals|72/01
+
+Gold|75/01
+Platinum|79/01
+
+Gem stones|83/01
+
+Alien items|84/01
+
+Refugees from Super Nova|88/01
+
+Important Thargoid doc|8C/01
+
+Clean legal status|(may be 97 - 01)|91/00
+
+Harmless - Elite ranking|97/00-08
+
+Loads of combat points|98/FF
+
+Seek & destroy|9D/01
+
+Deliver Thargoid Docs|9D/02
+
+Rescue Refugees|9D/03
+
+Destroy Cougar|9D/04
+
+Destroy Space Station|9D/05
+Frontier: Elite 2 is, of course, the sequel to Elite and it continues in much the same way. You have a ship and limited funds, and nowhere to go but out into space. Trade, fight, hunt criminals, work for the various governments, anything goes in Frontier. There are few, if any, limits on what you can do or where you can go. And Frontier's universe (with approx. 100,000,000,000 planets and moons) is so big you'll never see the end of it.
+ 
+http://www.mobygames.com/game/amiga/frontier-elite-ii
+_________________________
+CHEATS:
+		
+Extra money:
+Purchase an extra passenger cabin, obtain a passenger, then try to sell your ship. Your offer will be refused, but your money will increased each time you try to sell.

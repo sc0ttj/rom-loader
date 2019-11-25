@@ -1,0 +1,13 @@
+Pac-Land is a side-scrolling 1-2 player game with a cartoony feel to it. Now equipped with arms, face, and legs, Pac must guide a fairy back to her home in Fairy Land, but this task will not be easy because Inky, Blinky, Pinky, Clyde, and Sue will pursue Pac-Man as he travels through Pac-Land. When he finally transports the fairy back to her home, Pac is given some magic shoes, which will help him get to his own home, where he will be greeted by his family: Ms. Pac-Man, Baby Pac-Man, Chomp Chomp, and Sourpuss.
+
+There are sixteen rounds to complete, with four trips each. During each round, he can grab a power pellet, which cause ghosts to turn blue, allowing Pac-Man to eat them for points. Points are also awarded by collecting fruit that appear, like cherries and strawberries. In some rounds, Pac must use a springboard to jump over a lake. He must also make it to the end of each round before time runs out, otherwise a ghost will chase him.
+
+HINTS:
+
+- Floating Hat Trick -
+When you enter Break Time, hit Run and Select to reset the game just as Pac-Man's hat rises, revealing the fairy. When you start the game, Pac-Man's hat will be floating over his head for the entire game.
+
+- Upside down, backwards walking or both upside down and backwards walking Pac-Man -
+In Round 2, find a stump that you can move. Move it a little, stop, and then continue moving it as far as it'll go and Pac-Man will be upside down. Move the stump all the way without stopping and Pac-Man will walk backwards. Move the stump most of the way, stop, then finish moving the stump and Pac-Man will both be upside down and walk backwards (All of this works in the Turbo Grafx 16 version only). 
+
+http://www.mobygames.com/game/turbo-grafx/pac-land

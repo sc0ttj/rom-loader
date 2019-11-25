@@ -1,0 +1,279 @@
+#!/bin/sh
+
+cd /root # v1.8 set in root as default
+
+# set some vars as defaults
+export WORKDIR=$HOME/.paloader/tmp
+export DECORATED='decorated="true"'
+export ENABLESPLASH=true
+export FORCESPLASH=false
+export FULLSCREENGUI=''
+export VERSION="2.0"
+export RCFILE=/root/.paloader/paloader.cfg
+export RCLIST=/root/.paloader/rclist.txt
+export SELF="paloader_new"
+
+#####     F U N C T I O N S     ######
+set -a 
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+# present list of all systems, on one line .. example :  amiga amstrad atari atari2600 atarist dos .. 
+list_systems () {
+	 cat $RCLIST | grep -v '^#' | grep -v ^$ | cut -f1 -d '|' | sort | uniq
+}
+
+backend_to_gui () {
+	# for each emulated system 
+	GUI_LIST=""
+	if [ -f  /root/.paloader/backend_to_gui.txt ];then
+
+		export GUI_LIST="`cat /root/.paloader/backend_to_gui.txt`"
+
+	else
+	
+		for sys in `list_systems`
+		do
+			# if a system was found
+			if [ "$sys" != "" -a "$sys" != " " ];then
+				# get name of romloader gui for the system from rcfile, based on the backend being used for that system
+				backend="`cat \"$RCFILE\" | grep -v '^#' | grep -v ^$ | grep '_BACKEND=' | grep -i ^$sys | cut -f2 -d'='`"
+				#echo $sys: $backend
+				# get the romloader gui listed in the romloader database for that backend
+				gui="`cat \"$RCLIST\" | grep -v '^#' | grep -v ^$ | grep \"|$backend|\" | grep \"^$sys|\" | cut -f4 -d'|'`" || gui=""
+				#build a list of system|gui, each on a new line .. can be accessed like `echo "$GUI_LIST" | grep $system | cut -f2 -d'|'`
+				export GUI_LIST="$GUI_LIST
+$sys|$gui"
+			fi
+		done
+		echo "$GUI_LIST" | grep -v ^$ > /root/.paloader/backend_to_gui.txt
+
+	fi
+}
+
+#here we must get the details needed for the system chosen, as listed in the rclist file
+run_pagui(){
+	
+	#change the names to match the rclist file (first field)
+	SYS_LIST="${SYS_LIST,,}" #convert to lowercase
+	case $SYS_LIST in
+	atari*2600) SYS_LIST=atari2600 ;;
+	atari*st) SYS_LIST=atarist ;;
+	atari*lynx) SYS_LIST=atarilynx ;;
+	colecovision) SYS_LIST=coleco ;;
+	commodore*64) SYS_LIST=com ;;
+	ms*dos) SYS_LIST=dos ;;
+	gameboy*) SYS_LIST=gba ;;
+	game*gear) SYS_LIST=gamegear ;;
+	genesis) SYS_LIST=gen ;;
+	intellivision) SYS_LIST=intv ;;
+	linux) SYS_LIST=linux ;; 
+	neogeo*cd) SYS_LIST=neocd ;;
+	nintendo*entertainment*system) SYS_LIST=nes ;;
+	famicom) SYS_LIST=nes ;;
+	master*system) SYS_LIST=sms ;;
+	media*) SYS_LIST=media ;;
+	msx*) SYS_LIST=msx ;;
+	nintendo*64) SYS_LIST=n64 ;;
+	nintendo*ds) SYS_LIST=nds ;; #031014 added nintendo ds
+	neogeo*pocket) SYS_LIST=ngp ;;
+	pc*engine) SYS_LIST=pce ;;
+	pc*fx) SYS_LIST=pcfx ;;
+	psp) SYS_LIST=psp ;;		#031014 added psp
+	playstation) SYS_LIST=psx ;;
+	scumm*vm) SYS_LIST=scumm ;;
+	sega*32x) SYS_LIST=sega32x ;;
+	sega*cd) SYS_LIST=segacd ;;
+	*sega*net*) ROMSYSTEM=genesis ;;
+	virtual*boy) SYS_LIST=vb ;;
+	wonderswan*) SYS_LIST=wswan ;;
+	*zx*spectrum*) SYS_LIST=zxspec ;;
+	#extras
+	#sega*8*bit) SYS_LIST=sega8bit ;;
+	sg*1000) SYS_LIST=sega8bit ;; 
+	esac
+	
+	#now that we changed the names to match those in /root/.paloader/rclist.txt
+	#we can run the correct romloader gui
+	case $SYS_LIST in 
+	linux) 		palinux $C ;;
+	media) 		pamedia $C ;;
+	recent*) 	parecent $C ;;
+	settings) 	paloader_settings $C ;;
+	quit) 		#quitting, so remove all rejoystick profiles, kill it, then use xdotool to stop the spam!
+				kill_rejoystick &>/dev/null
+				killall -9 unclutter &>/dev/null
+				exit 0
+			;;
+	*)					
+				#get the name of the rom-loader gui used to load up the backend for this sytem
+				PAGUI="`echo "$GUI_LIST" | grep -i "^$SYS_LIST|" | cut -f2 -d'|'`"
+				#if the backend is not a rom-loader gui (stella or scummvm), remove the romloader options, or they crash
+				#031014 added psp to line below
+				[ "$PAGUI" = "scummvm" -o "$PAGUI" = "stella" -o "$PAGUI" = "ppsspp" ] && C=''
+				[ "$PAGUI" = "ppsspp" ] && export C="--fullscreen -fgui " # make ppsspp run in fullscreen from rom-loader, AND return to rom-loader
+				# now run the rom-loader gui for backend of the chosen system
+				$PAGUI $C
+			;;
+	esac
+	exit 0
+}
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -s|--splash) FORCESPLASH="true";;
+         -sk|--skip-splash) ENABLESPLASH="false";;
+         -f|--fullscreen) FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "paloader $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: paloader [OPTION]
+
+Options
+  -s    Force the splash screen to appear
+  -sk    Skip the splash screen
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+# set the options to load pa*** in fullscreen or not
+if [ "$FULLSCREENGUI" != "" ];then
+	C=' -f'
+	 #unclutter -idle 1 -jitter 6 -reset -root &
+else 
+	C=''
+fi
+
+# add full gui param here, so all sub GUIs know they were loaded from romloader.. so they will return to romloader on exit
+export C="${C} -fgui"
+
+# get main rc file option(s)
+if [ -f "$RCFILE" ];then #get profile being used right now
+	. "$RCFILE" 	# read config file
+else 
+	# no config file, set default vars, add to a new config file
+
+	# if settings directory not found, create it
+	[ ! -d /root/.paloader ] && mkdir -p /root/.paloader
+
+	#backends/emus
+	export AMIGA_BACKEND=uae_nogui
+	export AMSTRAD_BACKEND=cpcemu
+	export ARCADE_BACKEND=sdlmame
+	export ATARI_BACKEND=atari800
+	export ATARI2600_BACKEND=stella
+	export ATARILYNX_BACKEND=mednafen
+	export ATARIST_BACKEND=hatari
+	export COLECO_BACKEND=colem
+	export COM_BACKEND=vice
+	export DOOM_BACKEND=prboom-plus
+	export DOS_BACKEND=dosbox
+	export GAMEGEAR_BACKEND=mednafen
+	export GBA_BACKEND=mednafen
+	export GEN_BACKEND=gens
+	export INTV_BACKEND=jzintv
+	export MSX_BACKEND=fmsxfan
+	export N64_BACKEND=mupen64plus-dev
+	export NDS_BACKEND=desmume
+	export NEOCD_BACKEND=neocd-1.3
+	export NEOGEO_BACKEND=gngeo
+	export NGP_BACKEND=mednafen
+	export NES_BACKEND=mednafen
+	export PCE_BACKEND=hugo
+	export PCFX_BACKEND=mednafen
+	export PSP_BACKEND=ppsspp #031014 added psp
+	export PSX_BACKEND=pcsx
+	export SCUMM_BACKEND=scummvm
+	export SEGA32X_BACKEND=gens
+	export SEGACD_BACKEND=gens
+	export SMS_BACKEND=mednafen
+	export SNES_BACKEND=snes9x-gtk
+	export WSWAN_BACKEND=mednafen
+	export VB_BACKEND=mednafen
+	export ZXSPEC_BACKEND=fbzx
+
+	#themes
+	export MAIN_THEME=maschine_orange
+
+fi
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+[ "$FULLSCREENGUI" = "" ] && export HEIGHT_TREE=$(( $HEIGHT_SCREEN - 230 ))  || export HEIGHT_TREE=$(( $HEIGHT_SCREEN - 160 )) 
+
+#set theme file
+THEME="$MAIN_THEME"
+#get contents of main theme file, then add bigger icons
+echo "`cat \"/root/.paloader/themes/${THEME:-maschine_orange}\"`" > /tmp/gtkrc
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc with
+# whatever works best for this current resolution
+export SELF=paloader
+set_theme
+
+backend_to_gui #get the romloader gius to be used for each system
+
+# enable joypad rom support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+export GUI='<window title="Rom-Loader '$VERSION'" '$DECORATED' allow-shrink="false" allow-grow="true" width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+<vbox>
+
+	<text name="title"><label>"Rom-Loader"</label></text>
+	<text name="subtitle"><label>"Choose a system"</label></text>
+	<hbox homogeneous="true">
+		<vbox>
+			<text width-request="20"><label>""</label></text>
+			<tree name="maintree" headers_visible="false" has_focus="true" auto-refresh="true">
+			   <height>'$HEIGHT_TREE'</height><width>300</width>
+				<label>System</label>
+				<variable>SYS_LIST</variable>
+				<input icon_column="0">cat /root/.paloader/main_menu_list.txt</input>
+			   <action>run_pagui & sleep 0.6</action>
+			   <action>refresh:CHOOSER</action>
+			   <action>refresh:DIR</action>
+				<action type="exit">EXIT_NOW</action>
+			</tree>
+			<text width-request="15"><label>""</label></text>
+		</vbox>
+	</hbox>
+
+	<button visible="false" use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+		<action>killall -9 unclutter &>/dev/null</action>
+		<action type="exit">EXIT_NOW</action>
+	</button>
+
+</vbox>
+</window>'
+
+gtkdialog "$FULLSCREENGUI" -c -p GUI
+
+#kill_rejoystick &>/dev/null
+
+exit 0

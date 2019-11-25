@@ -1,0 +1,27 @@
+This game is mesmerizing and addictive. Columns is a puzzle block elimination game. Drop three or more like colored blocks on top of each other and they'll vanish. The game pieces are beautiful jewels which are just fun to look at. In this particular Columns game you work your way through a stream of opponents, defeating them by lasting longer, i.e. having their screen pile up before yours.
+
+Directions:
+
+Get three or more like colored blocks in a row to make them vanish and score points. Points allow you to accomplish other tasks like bumping up your opponent's screen. The crush bar is affected by points, magic jewels, items, and flashing jewels.
+
+The crush bar will rise up under your (or your opponent's) jewels causing them to be closer to the ceiling and closer to stacking, and it can also break any jewels currently falling on the screen. Be careful that your opponent doesn't break any special ones that you have. Having at least 10 points will allow you to knock your crush bar down one line and your opponent's up one line, 20 points= two lines and 30 points= three lines. A magic jewel will allow you to do these things and more, but they are rare. A magic jewel has two triangles and a square that flash crazily. When the triangle on the bottom points down you will knock your crush bar down with it. If you rotate the pieces so that the triangle on the bottom points up, you will knock your opponent's crush bar up. Having the square on the bottom allows you to pick a jewel to set it on and all of that type of jewel will vanish.
+
+Pressing start takes you to a new menu where you can use items. Just hit start then B when you have the cursor next to the item you want to use. You will pick items up after defeating enemies. An hour glass allows you to continue if you lose two out of three matches against the computer. A magic gem will get you a magic jewel column to use. The bell will eliminate all jewels on your screen. Awesome huh? The heavy weight knocks your crush bar all the way down. The barrier will prevent your crush bar from being moved up for a time, and the antidote will cure any flashing jewel effects you have.
+
+You will get a flashing jewel if you get a combo of 3 or more. That means that you clear a set of jewels and, as any that were on top of those drop into place, more clear and then any on those drop... and so on. The effects are random, but all bad for your opponent (and you if they do it to you). It can cause the screen to turn black and white and since color is the only distinguishing variable for some of the jewels it can cause mistakes. It can switch the left and right controls, reversing the direction you need to press. It can flip the screen upside down. It can make jewels drop faster. It can up the crush bar. It can make you unable to rotate the jewels. If you get a flashing jewel in the jewels that are already settled on your screen, it will stay there, but if it's falling you only have a limited amount of time to use it.
+
+Play by yourself or against one or two friends. 
+
+Controls:
+
+A Button: Crushes your opponent
+B Button: Rotates jewels
+Start Button: Start game/ Pause
+
+Hints:
+
+Magic Jewels
+When you use it, the best use is determined by circumstance, but when you use the square on the bottom, take quick stock of your board and get rid of the piece that you have the most of on the screen. This increases your chances of combos and lowers your screen the most. There's no need to try to plan it. While it doesn't always gain you combos, it does help to make them more available. 
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/columns_3.html

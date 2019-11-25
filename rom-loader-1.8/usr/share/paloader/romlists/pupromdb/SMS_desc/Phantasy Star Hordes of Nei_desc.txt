@@ -1,0 +1,25 @@
+This is a thorough alteration of Phantasy Star for the Sega Master System to make it better tie-in with the rest of the classic Phantasy Star series. Nearly every piece of equipment has a different attack or defense value, many cost more, some items have been overhauled, some are only found from battles with boss monsters. The monsters now come at you in large numbers, so be prepared to fight the Hordes to get where you are going. As for Nei? that is for the player to discover!
+
+Features:
+
+- Every single piece of equipment has a use! If something costs a great deal of money, it is worth it.
+
+- The restorative spells, (Heal and Cure) and items, (Cola and Burger) are now more potent and require more MP/Meseta to compensate.
+
+- All the guns do more damage.
+
+- Many of the shops have different items for sale.
+
+- The following items are no longer in the game: Wand, Needle Gun, Silver Fang, Ceramic Sword, Iron Shield, Laser Shield, and Light Suit. The items that replace these are FAR better.
+
+- All four of the player characters have been greatly changed to better represent their roles in the party.
+
+- Alis and Myau have new Spells.
+
+- Finally, the monsters have all been edited to keep a challenging level of play throughout, including having different combat skills, and nearly all drop more money to buy the new ultimate equipment.
+
+- New graphics for characters and vehicles!
+
+- Some dialogue fixes and renamed Noah: Lutz!
+
+http://www.romhacking.net/hacks/287/

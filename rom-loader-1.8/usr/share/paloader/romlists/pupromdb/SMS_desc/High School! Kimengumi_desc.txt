@@ -1,0 +1,9 @@
+This translation was originally released as a ROM, so we cant offer the original distribution here. However, we can offer a patch made from the translation that you can use here.
+
+Hurrah!
+
+Anyway, the patch translates everything that needs translating. The only problem I had with it was missing punctuation, and the fact that the Throw? item on the main menu actually meant Throw away?, so I was shooting myself in the foot before I read the walkthrough on GameFAQs. Though, I guess that and the rather dry script make it a very authentic translation for a game of its age.
+
+It would have been nice if the authors had released the translation as a patch, but what this thing really needs is a readme, because without any clues the game is beyond understanding.
+
+http://www.romhacking.net/trans/883/

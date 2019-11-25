@@ -1,0 +1,18 @@
+Fido Dido is a hip line-art cartoon character animated into various situations. However Fido's animator has fallen asleep and because of that, there is trouble brewing inside of other drawings. Fido must enter each one of these strange worlds and use his laid back attitude to overcome obstacles and solve the problems.
+
+Gameplay:
+
+Fido Dido is a side-scrolling platform game. The player, controlling Fido Dido himself can move left and right, jump, pick up items and use them. If Fido is ever without items, the use button instead causes him to snap his fingers which can open doors and cause things to happen. Fido has an energy meter on the screen, enemies and hazards that touch him will deplete that meter. When it is gone, Fido Dido loses a life. Each level features a new and unique objective as well as items specific to that level.
+
+Hints:
+
+- Level passwords -
+ALLISFAIR   Level 2
+SOFTWAREWOLF   Level 3
+BONETOPICK   Level 4
+FEAROFFLYING   Level 5
+SINCORSWIM   Level 6
+YIPPEEAYEAY   View ending
+
+http://www.mobygames.com/game/genesis/fido-dido
+http://www.gamefaqs.com/console/genesis/code/586181.html

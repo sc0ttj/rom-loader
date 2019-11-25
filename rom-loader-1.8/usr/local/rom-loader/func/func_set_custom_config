@@ -1,0 +1,38 @@
+#!/bin/sh
+
+set -a 
+
+# this func is used to set custom option for each rom 
+# it will get the custom configs for each backend (emulator) that is supported and available, 
+# starting with the first in the list (see rclist.txt or the Backend menus in Settings page)
+# if a cfg was found, it is used (the other backend auto-loads the rom with those custom settings..)
+# .. if not, check next backend.. if no configs found for non-enabled backends, 
+# then check and use the one for the current backend (if it exists)
+
+set_custom_config(){
+	#here we get any custom configs for other backends.. we go down the list,
+	#and when we find a cfg file for another gui, auto-load the rom using that gui
+	BACKEND_LIST="`cat /root/.paloader/rclist.txt | grep \"^${SYSTEM,,}\" | cut -f2 -d'|'`"
+	for x in `echo "$BACKEND_LIST"`
+	do
+		other_gui="`cat /root/.paloader/rclist.txt | grep \"^${SYSTEM,,}\" | grep \"|$x\" | cut -f4 -d'|'`"
+		f="${other_gui}_${CHOOSER%.*}" #name of the cfg file (without extension)
+		#if the cfg file exists, and its not for this gui
+		if [ -f "/root/.paloader/gamecfgs/${f}.cfg" -a "${f}.cfg" != "${SELF}_${CHOOSER%.*}.cfg" ];then
+			#run the other gui, auto load the rom
+			"${other_gui}" "$DIR$CHOOSER"
+			#if not auloading a rom, we will return to the original loader, so lets enable romloaders rejoystick profile
+			[ ! -f "$ROMFILE" -o "$ROMFILE" = "" ] && rejoystickcc --load --profile romloader
+			#rebuild the correct list for the rom tree
+			build_chooser_list
+			#now exit this script
+			exit
+		fi
+	done # at this point, we didnt find any custom configs for other backends
+
+	# if rom has its own config file for this gui, use it.. 
+	if [ -f "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.cfg" ];then
+		# load the games config file, it will overwrite the settings chosen in the gui
+		. "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.cfg"
+	fi
+}

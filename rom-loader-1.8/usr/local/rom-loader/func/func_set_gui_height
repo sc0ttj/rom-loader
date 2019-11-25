@@ -1,0 +1,45 @@
+#!/bin/sh
+set -a 
+
+# this func should be called set_tree_height
+
+# this func sets the height of the rom tree in the rom loader GUIs ...
+# we need to do this to take up the whole screen height in fullscreen mode, or at all... 
+
+# if the rom loader GUIs are "freezing" and not responding, it might be cos the HEIGHT_TREE 
+# value is too high ... try increasing the $(($HEIGHT_SCREEN-300)) to $(($HEIGHT_SCREEN-350)), for example... 
+# NOTE, this will need to be done for both fullscreen and windowed heights
+
+set_gui_height () {
+
+	#make gui fill screen by setting <tree> height.
+	export HEIGHT_SCREEN=`xwininfo -root | grep -m 1 '\geometry' | cut -f4 -d ' ' | cut -f2 -d 'x' | cut -f1 -d '+'`
+	[ ! "$HEIGHT_SCREEN" ] && export HEIGHT_SCREEN=600 #in case xwininfo doesn't return any worthy.
+
+	if [ "$FSGUI" != "" ];then
+	
+		# running fullscreen
+
+		#dont go under 300, it'll freeze the gui in 1024x768, 800x600 might need even higher
+		HEIGHT_TREE=$(($HEIGHT_SCREEN-300)) #maximize window by defining the height of <tree>
+
+	else
+		
+		#we're not in fullscreen 
+
+		#dont go under 330, it'll freeze the gui in 1024x768, 800x600 might need even higher
+		HEIGHT_TREE=$(($HEIGHT_SCREEN-330)) #maximize window by defining the height of <tree>
+
+	fi
+	
+	# if both the box art and descr are disabled, there will be no bottom panel, 
+	# so increase the height of the rom tree to fill the extra space
+	ROM_BOTTOM_PANEL=true
+	if [ "$ROM_DESCR_ENABLE" = false -a "$ROM_BOXART_ENABLE" = false ];then
+		ROM_BOTTOM_PANEL=false
+		HEIGHT_TREE=$(($HEIGHT_TREE+200))	
+	fi
+	
+	export HEIGHT_TREE
+	export ROM_BOTTOM_PANEL
+}

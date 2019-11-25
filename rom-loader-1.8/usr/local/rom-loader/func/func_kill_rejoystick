@@ -1,0 +1,28 @@
+#!/bin/sh
+
+# this func is called by all guis when they exit and do not return to the main romloader menu... 
+# if not returning to main menu, we dont want romloader joypad controls being used
+# as it might override the joypad settings of other programs... so we kill rejoystick.. 
+
+kill_rejoystick(){
+	killall -9 rejoystick &>/dev/null
+	killall -9 rejoystick_p1 &>/dev/null
+	killall -9 rejoystick_p2 &>/dev/null
+	xdotool keydown BackSpace
+	xdotool keyup BackSpace
+	xdotool keydown Escape
+	xdotool keyup Escape
+	exit 0
+	#xdotool keydown Return
+	xdotool keyup Shift
+	xdotool keyup Tab
+	xdotool keyup Return
+	xdotool keyup Up 
+	xdotool keyup Down 
+	xdotool keyup Left 
+	xdotool keyup Right 
+	xdotool keyup space
+	xdotool keyup q
+	xdotool keyup alt
+	xdotool keyup ctrl
+}

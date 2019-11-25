@@ -1,0 +1,36 @@
+This is a pin ball game. The Crue bit in the name is for Motley Crue. You'll be hearing Motley Crue as you play, though admittedly nothing like the real thing. If you love Motley Crue, that's not the reason to play this game. Play this game for love of pin ball games.
+
+The sound effects are pretty good and there is a good variety of them. There's also plenty of different kinds of targets to hit. If you're bored with it, it's likely because you haven't figured out the right things to hit to bring out new enemies.
+
+As pin ball games go, this one is pretty good. It's not as flashy and elaborate as Dragon's Fury, but it's still fun to play.
+
+Directions:
+
+Fire the ball with A. The strength of the fire varies with the length of time you hold A. Experiment with different firing strengths. A special amount could win you big points! Operate the right flipper with the C button and the left flipper with any of the directional buttons.
+
+To tilt (which meant to literally tilt the table in a real pinball game, but is simulated in this one) press B. Use this to give the board a little shake that may just keep your ball from going down the drain. In some games you can tilt too much, but not in this one.
+
+If your ball drops down between the flippers in the bottom section of the screen, it's lost and you'll have to start over with a new one, if you have one. Your score doesn't reset until you run out of all of your balls, but the board resets when one goes down the drain. Next to the flippers at the bottom of the screen are Kickstart lanes. Usually a ball would roll down these and down the drain, but in this game you can press and hold the right flipper button for the left lane and the left flipper button for the right lane and, instead, your ball will be fired up and out of it. Keep in mind that the flipper on the opposite side from the lane you want to activate is the one you want to use.
+
+In the center of the table, knock out all of the letters to spell "ROCK" and "ROLL" and the center diamond will raise up. Now knock out all of the pieces of the diamond. Next knock out the letter tiles that say "JUMP RAMP". Now a ramp will appear in the center of the diamond. If you fire the ball straight up it you'll be sent to a bonus round with a different style and layout! The bonus round works more like pong. Bounce the ball at the skeletons that come out of the wall. If you miss the ball or a skeleton gets past you, it will load a bonus ball (if you have any). You could play here infinitely, if you have the skill.
+
+Destroy the three green haired skulls in the center section. Now knock down the tiles that say "HEAD" as well as the skull tile on either end. Now knock out the tiles that say "BANGER". Now shoot the ball into the top section. A head wearing shades will come out. Destroy the head and you'll get an extra ball. It'll take quite a few hits. In the top of the screen there is a volume knob, but you can't get to it until you break the walls that are in the very center of the top of the screen. The head will float back and forth in front of this wall, making it difficult to break. When you break the wall down, shoot the ball around the knob and it'll say "Crank it up!". Now shoot the ball into the door that just opened that has an arrow in front of it.
+
+Keeping knocking down targets, walls, and the dudes that come out on the screen. Figure out the right order and you'll crank the volume up higher and higher (and the points as well). Bring out more and more beasties until you bring out the final one! Destroy him and you win! 
+
+Controls:
+
+A Button: Fire Ball
+B Button: Tilt
+C Button: Right Flipper
+D Pad: Left Flipper
+Start Button: Pause Game
+
+Hints:
+
+- Stage Select and Sound Test -
+Go to Music Demo and pick ''Twisted Flipper.'' While the words are on the screen, press A, C, A, B, and Start the game. Press Up and B to raise the ''volume level'' to the next stage, you can go all the way to level nine. Press Down and B to lower the volume level. Press A, B, and C at the same time any time during the game to enter a sound test mode.
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/crue_ball.html
+http://www.gamefaqs.com/console/genesis/home/586121.html

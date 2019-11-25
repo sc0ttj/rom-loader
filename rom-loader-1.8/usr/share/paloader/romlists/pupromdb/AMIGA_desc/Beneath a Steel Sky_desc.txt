@@ -1,0 +1,42 @@
+In futuristic Australia, there are giant cities owned solely by corporations, separated by a giant wasteland known as The Gap. When Robert Foster's Gap-dwelling tribe is killed by soldiers from Union City who capture him, everything changes for him. After a narrow escape from the helicopter bringing him there as it inexplicably crashes, Robert and his droid Joey must search the decaying city, attempting to befriend both the snobby rich and the frustrated poor as the two attempt to get out of the city, but in the middle of everything they uncover the dark truth about LINC, the bizarre computer which makes the city tick.
+
+Using the then revolutionary Virtual Theatre engine, BASS' characters can move freely independent of the player, allowing the game world to be much more dynamic than anything seen before (other than Virtual Theatre's debut game, the less popular Lure of the Temptress). Otherwise, the engine provides tried and true point-and-click adventure gameplay.
+
+The iPhone version introduces a touch-based interface, new animated movies by Dave Gibbons, a context-sensitive hint system and a remastered audio track.
+ 
+http://www.mobygames.com/game/amiga/beneath-a-steel-sky
+_________________________
+CHEATS:
+
+000000
+The Beginning
+
+936842
+The Furnace
+
+623845
+The Factory
+
+543961
+One Level Down
+
+810354
+With Potts
+
+692730
+Security Building
+
+180283
+With Mrs. Piermont
+
+986254
+With Eduardo
+
+280870
+Subway
+
+178931
+Linc Hideout
+
+574439
+The End

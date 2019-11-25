@@ -1,0 +1,13 @@
+This is an overhead-viewed racing game similar in style to Super Sprint. There are 7 courses of increasing difficulty, incorporating ramps and bumps which significantly affect the bike's handling. Each course has a time limit you must complete 3 laps of the course within, or it's game over. The further inside the time limit you are, the more points you score.
+
+There's a computer opponent, but the scoring isn't affected by whether you beat him just so long as you qualify. There is a two-player mode. A unique feature at the time is the action replay, which can be viewed in slow motion.
+
+Trivia:
+
+The game sold over 100,000 copies in its first year in the UK, a huge amount at the time. The budget price (£1.99) helped, as did great reviews and the popularity of BMX bikes among computer owners.
+
+To celebrate the 18th birthday of Codemasters, they released this game for free on September 18th 2004 as this was Codemasters' first ever published game.
+
+The magazine quote mentioned on the Ad Blurb proved correct, a fact pointed out when the game appeared on one of Codemasters' Quattro compilations. The quote was repeated, along with a note - "It did!"
+
+http://www.mobygames.com/game/zx-spectrum/bmx-simulator/

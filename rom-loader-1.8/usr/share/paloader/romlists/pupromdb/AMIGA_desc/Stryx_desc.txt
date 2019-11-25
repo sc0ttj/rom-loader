@@ -1,0 +1,13 @@
+You star as half-robot operative Stryx. Dome City is under attack by KILLER CYBORG ASSASSINS! You navigate Stryx through numerous levels on foot, hovercrafts and some weird round eyeball-type flying craft. It's basic side scrolling action/arcade whackiness. This game was released for IBM PC, Amiga and Atari ST systems.
+ 
+http://www.mobygames.com/game/amiga/stryx
+_________________________
+CHEATS:
+
+Cheat mode:
+Enter one of the following codes during game play to activate the corresponding cheat function.
+
+Effect Code 
+Restore strength, ammo, and fuel Hold [Help] + M + E  
+All color keys Hold [Help] + M + E + P  
+Skip to last task Hold [Help] + M + E + P + [F10]

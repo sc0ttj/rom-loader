@@ -1,0 +1,40 @@
+THE STORM BREWS:
+
+Prepare to enter worlds of terror, where daylight battles the darkened night. As thunder roars its ravenous call throughout the land, streaks of lightening crackle through the dimly lit sky.
+
+You, StormLord, have been summoned to the valley of the Enchanted Realm to rescue the entombed princesses captured by the Evil Rotting Crone.
+
+As StormLord, you embark upon your most perilous journey. Only you possess the power and fury necessary to vanquish all who dare oppose you. Prepare to charge into battle with the Dreaded Draconian Fire Dogs. Thrust your mighty sword at Barbaric Killer Bees. Keep an eye out for Pearsbteh, the mutated man-munching moss, for they are hungrily eyeing you.
+
+Rescue the entombed princesses hidden throughout the desolate world. Locate the treasures hidden within the labyrinth so the legend of StormLord will be told for centuries.
+
+--From the Genesis Storm Lord instruction manual.
+
+Trivia:
+
+- Censorship -
+An urban legend surrounds the Sega Genesis edition of the game. According to the legend, Sega of America pulled the game off the market and forced Ravorsoft to give clothing to cover up the faries breasts. Indeed, certain advertisements for the game often made note of the controversy.
+
+Yet, programmer Kevin Seghetti stated that the changes on the Genesis version were done voluntarily.
+
+However, When Amstrad Action gave the complete CPC version of the game away on their free covertape they edited the code of the game to cover up the fairies with a black square. This was due to avoid controversy with their young readership, or their parents.
+
+Hints:
+
+- More Lives -
+Enter the following code at the Pause screen....
+A - A - A - A - C - C - B - B - B - C - A
+Then you should have gotten 9 more lives
+
+- More Time -
+Enter the following code at the Pause screen....
+B - A - A - A - C - Up - Up - Up - A - A - A
+Then you should have more time to complete the level
+
+- Skip Current Level -
+Enter the following code at the Pause screen....
+C - B - B - B - A - A - A - A - C - C - A - A - A - A
+Then you should skip to the next level
+
+http://www.consoleclassix.com/genesis/storm_lord.html
+http://www.gamefaqs.com/console/genesis/code/586492.html

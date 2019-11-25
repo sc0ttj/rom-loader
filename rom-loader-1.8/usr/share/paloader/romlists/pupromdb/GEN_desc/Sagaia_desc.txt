@@ -1,0 +1,65 @@
+The planet Darius, which formerly boasted a very advanced civilization, has been destroyed. Proco and Tiat escaped from Darius in search of a New World. They started a new civilization on the planet Orga. The descendants of Proco and Tiat happened to pick up strange radio waves being emitted from the Milky Way galaxy. The strange radio waves were an SOS from the planet Darius where their ancestors used to live. Having discovered the source of the strange radio waves, they immediately boarded the Silver Hawk, whose power had been greatly increased, and took off for the Milky Way. A fierce battle ensued on the planets of the Milky Way and in outer space in order to save the inhabitants of Darius from destruction.
+
+You have boarded the Silver Hawk as a member of the rescue team and the battle is about to begin!
+
+--From the Genesis Sagaia instruction manual.
+
+Directions:
+
+You can choose in the Options whether to use the Silver Hawk Red (Proco Jr) or the Silver Hawk Blue (Tiat Young). The Blue has more initial armament and is meant for beginners. Fight when you can, run when you must.
+
+Blast away without compassion or conscience.
+
+There are 7 rounds of action with 28 total zones in the game. You must defeat a Boss at the end of each zone to advance to the next round. There are 12 Bosses and if you want to meet them personally, join the party.
+
+Pick-Ups:       If you totally destroy the special enemies that appear during the game, the power increasing units appear:
+Red:            Missile power increases
+Green:          Bomb power increases
+Blue:           Defensive capability increases
+Yellow:         Laser power increases
+Small Rainbow:  Missile, bomb and laser power increases
+Large Rainbow:  Level for missile, bomb and laser increases by two stages
+1 UP:           Number of Vessels increases 
+
+Gameplay:
+
+Sagaia is a warp-speed space adventure with vibrant, colorful, complex scenery and high-energy background music. The Silver Hawk, our Heroes' spacecraft, changes into various elaborate shapes as it attains higher power levels. The enemies' crafts are highly detailed, with interesting shapes and colors, and complicated movements. The Silver Hawk's weapon fire, which includes missiles, bombs and lasers, has a distinctive staccato sound to it.
+
+Difficulty of play is what you make of it. I simply fired non-stop and moved when I had to. OK, I went through every spaceship I had and killed half-a-dozen crews, but computer people have no rights, so tough luck. They should have been born real if they wanted Life, Liberty and the Pursuit of Happiness.
+
+Controls:
+
+A Button: Missile / Laser
+B Button: Bombs
+C Button: Missile / Laser
+
+Hints:
+
+- Big Hi-Score List -
+In title screen, enter A,B,C,A,B,C,A,B,C,A,B,C
+
+- Infinite Continues -
+Enter the following code at the Title Screen....
+B - B - B - C - A - A - A - B - B - C - C - C
+Then when you play the game you should never run out of continues
+
+- Level Select -
+Enter the following code at the Title Screen....
+C - A - C - B - C - A - B - A - B - C - A - C
+Then you should have access to any level
+
+- Sound Test -
+To enable the sound test, earn a high score while playing and enter the initials ZZT.
+
+- Super Hard Mode -
+Enter the following code at the Title Screen....
+C - C - C - C - C - C - C - C - C - C - C - C
+Then when you play the game it will be harder than normal
+
+- Invincibility -
+During the intro sequence...
+A, B, A, C, B, C, C, B, C, A, B, A, A
+The phrase "No hit" will appear and you will have invincibility.
+
+http://www.consoleclassix.com/genesis/sagaia.html
+http://www.gamefaqs.com/console/genesis/code/586439.html

@@ -1,0 +1,18 @@
+The Fairyland Council feared that the same evil in the legends was back again. A wise old oracle was among them. He predicted the second coming of evil. He also spoke of a young man who could save Fairyland from its gravest crisis. A young man was chosen to find the reason and source of the evil. As the people gathered to bid him good luck, they couldn't help but wonder if they had chosen the right one. What fate awaits our hero and Fairyland? Only you can answer those questions.
+
+Gameplay:
+
+Super Hydlide is the second sequel to the NES game Hydlide, and a port of Hydlide 3: The Space Memories (released in Japan for the MSX and Famicom). The game was made by T&E Soft, makers of the original Hydlide and Hylide II: The Space Memories, and released on the Sega Mega Drive/Genesis in early 1990 in the United States, October 6, 1989 in Japan, and 1991 in Europe. This sequel evidences substantial upgrades to every aspect of the original Hydlide. Interestingly before its release, it was called Hollo Fighter in some Sega advertising material for the Mega Drive.
+
+This game incorporates a 'good/evil character' system. The game has both good and evil monsters. The evil ones attack the player on sight, while the good ones only attack if the player gets in their way or attacks them first. If the player kills a good monster (which gives more XP and gold) points are lost from a statistic called "MF". If the player's MF stat drops to zero, frequent traps will appear across the world. If the player manages to keep it over 100, rewards appear in the form of random items found around Fairyland. This aspect the game was first introduced in Hydlide 3: The Space Memories.
+
+Another aspect of the game is the weight system. Every item in the game (including money) has a weight to it; the more items the player carries, the slower the character moves. The character also has to eat and sleep regularly; if the player fails to do this, health and strength are lost over time. As consequence of a loss of strength, the player will be unable to cause any damage to enemies or carry more than a certain number of items, will be slowed down marginally, and will become "sleepy" and unable to move without first dropping items.
+
+Hints:
+
+- Sound Test -
+Go left from the City of the Forest to a small building to unlcock the Sound Test.
+
+http://www.gamefaqs.com/console/genesis/home/586505.html
+http://en.wikipedia.org/wiki/Super_Hydlide
+http://www.gamefaqs.com/console/genesis/code/586505.html

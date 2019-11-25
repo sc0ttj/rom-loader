@@ -1,0 +1,385 @@
+Ace of Aces|2676|887D9F6B|x|0|1991|Flying|Europe|Sega|Artech Digital Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Action Fighter|2677|3658F3E0|x|0|1986|Driving|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Addams Family|3056|72420F38|x|0|1992|Action|Europe|Flying Edge|Ocean|Not Rated|Cartridge|Master System Controller|Master System
+Aerial Assault|2679|15576613|x|0|1990|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+After Burner|1613|1C951F8E|x|0|1988|Flying|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Air Rescue|2680|8B43D21D|x|0|1992|Shooter|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Aladdin|2867|C8718D40|x|0|1994|Platformer|Europe|Sega|SIMS|Not Rated|Cartridge|Master System Controller|Master System
+Alex Kidd High-Tech World|5536|013C0A94|x|0|1989|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Alex Kidd The Lost Stars|5498|C13896D5|x|0|1988|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Alex Kidd in Miracle World|2684|AED9AAC4|x|0|1986|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Alex Kidd in Shinobi World|2685|D2417ED7|x|0|1990|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Alf|2686|82038AD4|x|0|1989|Action|USA|Sega|Nexa Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Alien 3|2967|B618B144|x|0|1992|Action|Europe|Arena|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Alien Storm|2687|7F30F793|x|0|1991|Beat-'Em-Up|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Alien Syndrome|2973|5CBFE997|x|0|1988|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Altered Beast|5244|BBA2FE98|x|0|1989|Beat-'Em-Up|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+American Baseball|2688|7B27202F|x|0|1988|Baseball/Sports|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+American Pro Football|2689|3727D8B2|x|0|1989|Football/Sports|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Andre Agassi Tennis|1705|F499034D|x|0|1993|Sports/Tennis|Europe|Sega|Lance Investments|Not Rated|Cartridge|Master System Controller|Master System
+Arcade Smash Hits|2691|E4163163|x|0|1992|Miscellaneous|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Assault City|11521|861B6E79|x|0|1990|Gun|Europe|Sega|Sanritsu|Not Rated|Cartridge|Master System Controller|Master System
+Asterix|2981|8C9D5BE8|x|0|1991|Action|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Asterix and the Great Rescue|2693|F9B7D26B|x|0|1993|Platformer|Europe|Sega|Core Design|Not Rated|Cartridge|Master System Controller|Master System
+Asterix and the Secret Mission|2694|DEF9B14E|x|0|1993|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Astro Warrior and Pit Pot|2696|69EFD483|x|0|1986|Miscellaneous|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Astro Warrior|2695|299CBB74|x|0|1986|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Ayrton Senna's Super Monaco GP II|2697|E890331D|x|0|1992|Driving|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Aztec Adventure The Golden Road to Paradise|2698|FF614EB3|x|0|1988|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Back to the Future Part II|2699|E5FF50D8|x|0|1990|Action|Europe|Imageworks|Mirrorsoft|Not Rated|Cartridge|Master System Controller|Master System
+Back to the Future Part III|2700|2D48C1D3|x|0|1993|Action|Europe|Imageworks|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Bank Panic|2702|655FB1F4|x|0|1987|Gun|Europe|Sega|Sanritsu|Not Rated|Cartridge|Master System Controller|Master System
+Basket Ball Nightmare|NOID|0DF8597F|x|0|1989|Basketball/Sports|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Batman Returns|5245|B154EC38|x|0|1993|Action|Europe|Sega|Aspect|Not Rated|Cartridge|Master System Controller|Master System
+Battle Out Run|NOID|C19430CE|x|0|1989|Driving|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Black Belt|2706|DA3A2F57|x|0|1986|Beat-'Em-Up|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Blade Eagle|NOID|8ECD201C|x|0|1988|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Bomber Raid|2708|3084CF11|x|0|1988|Shooter|USA|Activision|Sanritsu|Not Rated|Cartridge|Master System Controller|Master System
+Bonanza Bros.|NOID|CAEA8002|x|0|1990|Action|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Bram Stoker's Dracula|3075|1B10A951|x|0|1993|Action|Europe|Sony Imagesoft|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Bubble Bobble|2777|E843BA7E|x|0|1992|Platformer|Europe|Sega|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Buggy Run|2711|B0FC4577|x|0|1994|Driving|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+California Games|7746|AC6009A7|x|0|1989|Sports|USA|Sega|Epyx|Not Rated|Cartridge|Master System Controller|Master System
+California Games II|3080|C0E25D62|x|0|1993|Sports|Europe|Sega|Epyx|Not Rated|Cartridge|Master System Controller|Master System
+Captain Silver|2712|B81F6FA5|x|0|1988|Platformer|USA|Sega|Data East|Not Rated|Cartridge|Master System Controller|Master System
+Casino Games|2713|3CFF6E80|x|0|1989|Casino|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Castle of Illusion Starring Mickey Mouse|3084|B9DB4282|x|0|1989|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Champions of Europe|2714|23163A12|x|0|1988|Soccer/Sports|Europe|TecMagik|Tecmagik|Not Rated|Cartridge|Master System Controller|Master System
+Championship Hockey|2715|7E5839A0|x|0|1992|Hockey/Sports|USA|U.S. Gold|Electronic Arts|Not Rated|Cartridge|Master System Controller|Master System
+Cheese Cat-Astrophe Starring Speedy Gonzales|2716|46340C41|x|0|1995|Platformer|Europe|Sega|Time Warner Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Choplifter|2717|4A21C15F|x|0|1986|Action|USA|Sega|Broderbund Software|Not Rated|Cartridge|Master System Controller|Master System
+Chuck Rock|11762|DD0E2927|x|0|1992|Platformer|Europe|Virgin Interactive|Core Design|Not Rated|Cartridge|Master System Controller|Master System
+Chuck Rock II Son of Chuck|2718|C30E690A|x|0|1993|Platformer|Europe|Sega|Core Design|Not Rated|Cartridge|Master System Controller|Master System
+Cloud Master|2719|E7F62E6D|x|0|1989|Shooter|USA|Sega|Hot-B / Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Columns|3085|665FDA92|x|0|1990|Puzzle|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Cool Spot|3087|13AC9023|x|0|1993|Platformer|Europe|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Cosmic Spacehead|2721|29822980|x|0|1991|Adventure|Europe|Codemasters|Codemasters|Not Rated|Cartridge|Master System Controller|Master System
+Cyber Shinobi|2071|1350E4F8|x|0|1990|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Cyborg Hunter|2722|908E7524|x|0|1988|Beat-'Em-Up|USA|Activision|Activision|Not Rated|Cartridge|Master System Controller|Master System
+Daffy Duck in Hollywood|2724|71ABEF27|x|0|1993|Platformer|Europe|Sega|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Danan The Jungle Fighter|2726|AE4A28D7|x|0|1991|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Dead Angle|2727|E2F7193E|x|0|1989|Action|USA|Sega|Seibu Kaihatsu|Not Rated|Cartridge|Master System Controller|Master System
+Deep Duck Trouble Starring Donald Duck|2728|42FC3A6E|x|0|1993|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Desert Speedtrap starring Road Runner and Wile E. Coyote|18804|B137007A|x|0|1993|Platformer|Europe|Sega|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Desert Strike|2730|6C1433F9|x|0|1992|Action|Europe|Domark|Electronic Arts|Not Rated|Cartridge|Master System Controller|Master System
+Dick Tracy|3088|F6FAB48D|x|0|1990|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Double Dragon|2883|A55D89F3|x|0|1988|Beat-'Em-Up|USA|Sega|Technos Japan|Not Rated|Cartridge|Master System Controller|Master System
+Double Hawk|2732|8370F6CD|x|0|1990|Shooter|Europe|Sega|OperaHouse|Not Rated|Cartridge|Master System Controller|Master System
+Dr. Robotnik's Mean Bean Machine|3092|6C696221|x|0|1994|Puzzle|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Dragon The Bruce Lee Story|1799|C88A5064|x|0|1995|Platformer|Europe|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Dragon Crystal|2733|9549FCE4|x|0|1991|Role Playing|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Dynamite Duke|2734|07306947|x|0|1989|Action|Europe|Sega|Seibu Kaihatsu|Not Rated|Cartridge|Master System Controller|Master System
+Dynamite Dux|2735|0E1CC1E0|x|0|1989|Beat-'Em-Up|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+E-SWAT City Under Siege|NOID|C10FCE39|x|0|1990|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Ecco the Dolphin|2898|6687FAB9|x|0|1993|Adventure|Europe|Sega|Novotrade|Not Rated|Cartridge|Master System Controller|Master System
+Enduro Racer|2737|00E73541|x|0|1987|Motorcycle|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+F-16 Fighting Falcon|NOID|184C23B7|x|0|1986|Flying|USA|Sega|Nexa Corporation|Not Rated|Cartridge|Master System Controller|Master System
+F1|2739|EC788661|x|0|1993|Driving|Brazil|Domark|Virgin Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Fantastic Dizzy|2741|B9664AE1|x|0|1993|Adventure|region-unknown|Codemasters|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Fantasy Zone|3102|65D7E4E0|x|0|1986|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Fantasy Zone The Maze|2742|D29889AD|x|0|1988|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Fantasy Zone II The Tears of Opa-Opa|2743|B8B141F9|x|0|1987|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Fire and Forget II|2746|F6AD7B1D|x|0|1990|Driving|region-unknown|Titus Software|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Flash|3059|BE31D63F|x|0|1993|Platformer|Europe|Sega|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Flintstones|3060|CA5C78A5|x|0|1993|Action|Europe|Sega|Grandslam|Not Rated|Cartridge|Master System Controller|Master System
+Forgotten Worlds|2748|38C53916|x|0|1991|Shooter|Europe|Sega|Capcom|Not Rated|Cartridge|Master System Controller|Master System
+G-LOC Air Battle|2798|05CDC24E|x|0|1991|Flying|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Gain Ground|2751|3EC5E627|x|0|1991|Shooter|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Galaxy Force|2753|6C827520|x|0|1989|Shooter|USA|Activision|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Gangster Town|2754|5FC74D2A|x|0|1987|Gun|USA|Sega|SEGA|Not Rated|Cartridge|Light Phaser|Master System
+Gauntlet|2755|D9190956|x|0|1990|Action|Europe|U.S. Gold|Atari Games|Not Rated|Cartridge|Master System Controller|Master System
+George Foreman's KO Boxing|1838|A64898CE|x|0|1992|Boxing/Sports|Europe|Flying Edge|SIMS|Not Rated|Cartridge|Master System Controller|Master System
+Ghost House|2791|F1F8FF2D|x|0|1986|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Ghostbusters|2793|1DDC3059|x|0|1987|Action|USA|Sega|Activision|Not Rated|Cartridge|Master System Controller|Master System
+Ghouls'n Ghosts|2795|7A92EBA6|x|0|1990|Platformer|USA|Sega|Capcom|Not Rated|Cartridge|Master System Controller|Master System
+Global Defense|2797|B746A6F5|x|0|1987|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Golden Axe|2799|C08132FB|x|0|1989|Beat-'Em-Up|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Golden Axe Warrior|2800|C7DED988|x|0|1991|Role Playing|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Golfamania|2801|48651325|x|0|1990|Golf/Sports|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Golvellius|2802|A51376FE|x|0|1988|Role Playing|USA|Sega|Compile|Not Rated|Cartridge|Master System Controller|Master System
+GP Rider|2803|EC2DA554|x|0|1993|Driving|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Great Baseball|2804|10ED6B57|x|0|1987|Baseball/Sports|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Great Basketball|2806|2AC001EB|x|0|1987|Basketball/Sports|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Great Football|2808|2055825F|x|0|1987|Football/Sports|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Great Golf|2810|98E4AE4A|x|0|1987|Golf/Sports|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Great Ice Hockey|2812|0CB7E21F|x|0|1987|Hockey|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Great Soccer|2814|0ED170C9|x|0|1987|Soccer/Sports|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Great Volleyball|2816|8D43EA95|x|0|1987|Sports/Volleyball|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Hang-On and Astro Warrior|2695|1C5059F0|x|0|1986|Motorcycle/Shooter|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Hang-On and Safari Hunt|2821|E167A561|x|0|1986|Action/Motorcycle|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Hang-On|2817|071B045E|x|0|1985|Motorcycle|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Heavyweight Champ|2822|FDAB876A|x|0|1990|Boxing|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Heroes of the Lance|2824|CDE13FFB|x|0|1991|Role Playing|Europe|U.S. Gold|Strategic Simulations Inc.|Not Rated|Cartridge|Master System Controller|Master System
+Home Alone|2829|C9DBF936|x|0|1993|Action|Europe|Sega|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Impossible Mission|2852|64D6AF3B|x|0|1988|Adventure|Europe|U.S. Gold|Epyx|Not Rated|Cartridge|Master System Controller|Master System
+Incredible Crash Dummies|3061|B4584DDE|x|0|1993|Action|Europe|Flying Edge|Software Creations|Not Rated|Cartridge|Master System Controller|Master System
+Incredible Hulk|3062|BE9A7071|x|0|1994|Platformer|Europe|U.S. Gold|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Indiana Jones and the Last Crusade|2855|8AEB574B|x|0|1990|Action|Europe|U.S. Gold|Tiertex Design Studio|Not Rated|Cartridge|Master System Controller|Master System
+James 'Buster' Douglas Knockout Boxing|NOID|6A664405|x|0|1990|Boxing/Sports|USA|Sega|SIMS|Not Rated|Cartridge|Master System Controller|Master System
+James Bond 007 The Duel|2857|8D23587F|x|0|1993|Platformer|Europe|Domark|The Kremlin|Not Rated|Cartridge|Master System Controller|Master System
+James Pond 2 Codename RoboCod|2861|102D5FEA|x|0|1991|Platformer|Europe|U.S. Gold|Vectordean / Millennium Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Joe Montana Football|2870|0A9089E5|x|0|1990|Football/Sports|USA|Sega|Electronic Arts|Not Rated|Cartridge|Master System Controller|Master System
+Jungle Book|NOID|695A9A15|x|0|1993|Action|Europe|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Jurassic Park|2873|0667ED9F|x|0|1993|Adventure|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Kenseiden|2874|516ED32E|x|0|1988|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+King's Quest Quest for the Crown|2875|F8D33BC4|x|0|1989|Adventure|USA|Parker Bros.|Sierra On-Line|Not Rated|Cartridge|Master System Controller|Master System
+Klax|2877|2B435FD6|x|0|1991|Puzzle|Europe|Tengen|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Krusty's Fun House|2879|64A585EB|x|0|1992|Puzzle|Europe|Flying Edge|Audiogenic Software|Not Rated|Cartridge|Master System Controller|Master System
+Kung Fu Kid|2439|1E949D1F|x|0|1987|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Land of Illusion Starring Mickey Mouse|2881|24E97200|x|0|1992|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Laser Ghost|2882|0CA95637|x|0|1991|Gun|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Lemmings|2885|F369B2D8|x|0|1992|Puzzle|Europe|Sega|DMA Design Psygnosis|Not Rated|Cartridge|Master System Controller|Master System
+Line of Fire|2888|CB09F355|x|0|1991|Shooter|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Lion King|3064|C352C7EB|x|0|1994|Platformer|Europe|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Lord of the Sword|2889|E8511B08|x|0|1989|Adventure|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Lucky Dime Caper Starring Donald Duck|3065|A1710F13|x|0|1991|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Marble Madness|2895|BF6F3E5F|x|0|1992|Action|Europe|Virgin Interactive|Atari Games|Not Rated|Cartridge|Master System Controller|Master System
+Marksman Shooting and Trap Shooting and Safari Hunt|NOID|E8215C2E|x|0|1986|Gun|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Marksman Shooting and Trap Shooting|2897|E8EA842C|x|0|1986|Gun|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Master of Darkness|2901|96FB4D4B|x|0|1992|Action|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Masters of Combat|2902|93141463|x|0|1993|Fighter|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Maze Hunter 3-D|2502|31B8040B|x|0|1987|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Mercs|2905|D7416B83|x|0|1987|Shooter|Europe|Sega|Capcom|Not Rated|Cartridge|Master System Controller|Master System
+Michael Jackson's Moonwalker|2908|56CC906B|x|0|1989|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Mick and Mack as the Global Gladiators|NOID|B67CEB76|x|0|1992|Platformer|region-unknown|Virgin Games|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Micro Machines|2915|A577CE46|x|0|1993|Driving|Europe|Codemasters|Codemasters|Not Rated|Cartridge|Master System Controller|Master System
+Miracle Warriors Seal of the Dark Lord|5500|0E333B6E|x|0|1988|Role Playing|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Missile Defense 3-D|2919|FBE5CFBB|x|0|1987|Gun|USA|Sega|SEGA|Not Rated|Cartridge|Light Phaser|Master System
+Monopoly|2921|69538469|x|0|1988|Board Games|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Montezuma's Revenge Featuring Panama Joe|NOID|82FDA895|x|0|1989|Adventure|USA|Parker Bros.|Parker Brothers|Not Rated|Cartridge|Master System Controller|Master System
+Mortal Kombat|2926|302DC686|x|0|1993|Fighter|Europe|Acclaim|Midway Games|Not Rated|Cartridge|Master System Controller|Master System
+Mortal Kombat II|2929|2663BF18|x|0|1994|Fighter|Europe|Acclaim|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Ms. Pac-Man|2932|3CD816C6|x|0|1987|Action|Europe|Tengen|General Computer Corporation|Not Rated|Cartridge|Master System Controller|Master System
+My Hero|2936|62F0C23D|x|0|1986|Beat-'Em-Up|USA|Sega|Coreland|Not Rated|Cartridge|Master System Controller|Master System
+New Zealand Story|3066|C660FF34|x|0|1992|Platformer|Europe|TecMagik|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Ninja Gaiden|2942|1B1D8CC2|x|0|1988|Platformer|Europe|Sega|Tecmo|Not Rated|Cartridge|Master System Controller|Master System
+Ninja|3076|66A15BD9|x|0|1987|Action|Europe|Sega|Tecmo|Not Rated|Cartridge|Master System Controller|Master System
+Olympic Gold|NOID|6A5A1E39|x|0|1992|Olympic|Europe|Sega|U.S. Gold|Not Rated|Cartridge|Master System Controller|Master System
+Operation Wolf|2946|205CAAE8|x|0|1988|Gun|Europe|Sega|Taito Corporation|Not Rated|Cartridge|Light Phaser|Master System
+Ottifants|3067|82EF2A7D|x|0|1993|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Out Run|NOID|5589D8D2|x|0|1987|Driving|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Out Run 3-D|NOID|D6F43DDA|x|0|1991|Driving|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Out Run Europa|NOID|3932ADBC|x|0|1991|Driving|Europe|U.S. Gold|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Pac-Mania|2953|BE57A9A5|x|0|1991|Action|Europe|Namco|Namco|Not Rated|Cartridge|Master System Controller|Master System
+Paperboy|2956|327A0B4C|x|0|1990|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Parlour Games|2958|E030E66C|x|0|1988|Party|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Penguin Land|2962|F97E9875|x|0|1988|Puzzle|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+PGA Tour Golf|2964|95B9EA95|x|0|1993|Golf/Sports|Europe|Tengen|Polygames|Not Rated|Cartridge|Master System Controller|Master System
+Phantasy Star|2965|00BEF1D7|x|0|1988|Role Playing|USA|Tengen|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Pit Fighter|NOID|B840A446|x|0|1991|Beat-'Em-Up|region-unknown|Domark|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Populous|2968|C7A1FDEF|x|0|1991|Strategy|Europe|TecMagik|Bullfrog Software|Not Rated|Cartridge|Master System Controller|Master System
+Poseidon Wars 3-D|2971|ABD48AD2|x|0|1989|Action|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Power Strike|2972|4077EFD9|x|0|1988|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Power Strike II|2974|A109A6FE|x|0|1993|Shooter|Europe|Sega|Compile|Not Rated|Cartridge|Master System Controller|Master System
+Predator 2|2975|0047B615|x|0|1991|Action|Europe|Arena|Teeny Weeny Games|Not Rated|Cartridge|Master System Controller|Master System
+Prince of Persia|2977|7704287D|x|0|1990|Platformer|Europe|Sega|Broderbund Software|Not Rated|Cartridge|Master System Controller|Master System
+Pro Wrestling|2978|FBDE42D3|x|0|1986|Sports/Wrestling|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Psychic World|2979|5C0B1F0F|x|0|1991|Action|Europe|Sega|Hertz Co. Ltd|Not Rated|Cartridge|Master System Controller|Master System
+Psycho Fox|2980|97993479|x|0|1989|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Putt and Putter|2982|357D4F78|x|0|1992|Golf/Sports|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Quartet|2983|E0F34FA6|x|0|1987|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+R-Type|2996|BB54B6B0|x|0|1988|Shooter|USA|Sega|Irem|Not Rated|Cartridge|Master System Controller|Master System
+R.C. Grand Prix|2985|54316FEA|x|0|1989|Driving|USA|Seismic|Absolute Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Rainbow Islands The Story of Bubble Bobble 2|2986|C172A22C|x|0|1993|Platformer|Europe|Sega|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Rambo First Blood Part II|5246|BBDA65F0|x|0|1986|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Rambo III|2987|DA5A7013|x|0|1988|Action|USA|Sega|SEGA|Not Rated|Cartridge|Light Phaser|Master System
+Rampage|2988|42FC47EE|x|0|1988|Action|USA|Activision|Bally Midway|Not Rated|Cartridge|Master System Controller|Master System
+Rampart|11522|426E5C8A|x|0|1991|Strategy|Europe|Tengen|Atari Games|Not Rated|Cartridge|Master System Controller|Master System
+Rastan|2989|C547EB1B|x|0|1988|Platformer|USA|Sega|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Reggie Jackson Baseball|NOID|6D94BB0E|x|0|1988|Baseball/Sports|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Renegade|2990|3BE7F641|x|0|1993|Beat-'Em-Up|Europe|Sega|Technos Japan / Taito|Not Rated|Cartridge|Master System Controller|Master System
+Rescue Mission|2991|79AC8E7F|x|0|1988|Action|USA|Sega|SEGA|Not Rated|Cartridge|Light Phaser|Master System
+Road Rash|2557|B876FC74|x|0|1989|Driving|Europe|U.S. Gold|Electronic Arts|Not Rated|Cartridge|Master System Controller|Master System
+RoboCop 3|2993|9F951756|x|0|1993|Platformer|Europe|Flying Edge|Eden Entertainment / Ocean|Not Rated|Cartridge|Master System Controller|Master System
+RoboCop Versus The Terminator|2994|8212B754|x|0|1991|Platformer|Europe|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Rocky|2995|1BCC7BE3|x|0|1987|Boxing/Sports|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Running Battle|2997|1FDAE719|x|0|1991|Beat-'Em-Up|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Sagaia|2998|66388128|x|0|1992|Shooter|Europe|Sega|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Scramble Spirits|3001|9A8B28EC|x|0|1988|Shooter|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Sega Chess|3003|A8061AEF|x|0|1991|Board Games|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Sega World Tournament Golf|3004|296879DD|x|0|1993|Golf/Sports|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Sensible Soccer|3005|F8176918|x|0|1988|Soccer/Sports|Europe|Sega|Sensible Software|Not Rated|Cartridge|Master System Controller|Master System
+Shadow Dancer|NOID|3793C01A|x|0|1991|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Shadow of the Beast|3007|1575581D|x|0|1992|Platformer|Europe|TecMagik|Reflections Interactive / Psygnosis|Not Rated|Cartridge|Master System Controller|Master System
+Shanghai|3008|AAB67EC3|x|0|1988|Puzzle|USA|Sega|Activision|Not Rated|Cartridge|Master System Controller|Master System
+Shinobi|2071|0C6FAC4E|x|0|1988|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Shooting Gallery|3009|4B051022|x|0|1987|Gun|USA|Sega|SEGA|Not Rated|Cartridge|Light Phaser|Master System
+Simpsons Bart vs the Space Mutants|NOID|D1CC08EE|x|0|1991|Platformer|region-unknown|Flying Edge|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Simpsons Bart vs the World|NOID|F6B2370A|x|0|1993|Action|region-unknown|Flying Edge|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Slap Shot|3011|702C3E98|x|0|1990|Hockey/Sports|USA|Sega|Sanritsu|Not Rated|Cartridge|Master System Controller|Master System
+Smurfs|3071|3E63768A|x|0|1994|Platformer|Europe|Infogrames|Infogrames|Not Rated|Cartridge|Master System Controller|Master System
+Sonic Chaos|NOID|AEDF3BDF|x|0|1993|Platformer|USA|Sega|Aspect|Not Rated|Cartridge|Master System Controller|Master System
+Sonic Spinball|NOID|11C1BC8A|x|0|1993|Pinball|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Sonic The Hedgehog|3016|B519E833|x|0|1991|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Sonic the Hedgehog 2|3017|D6F2BFCA|x|0|1992|Platformer|USA|Sega|Aspect|Not Rated|Cartridge|Master System Controller|Master System
+Space Gun|3019|A908CFF5|x|0|1992|Gun|Europe|Sega|Taito Corporation|Not Rated|Cartridge|Light Phaser|Master System
+Space Harrier|3020|CA1D3752|x|0|1986|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Space Harrier 3-D|3021|6BD5C2BF|x|0|1988|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Special Criminal Investigation|3022|FA8E4CA0|x|0|1992|Driving|Europe|Sega|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Speedball|3023|5CCC1A65|x|0|1992|Sports|Europe|Virgin Interactive|Bitmap Brothers|Not Rated|Cartridge|Master System Controller|Master System
+Speedball 2|3024|0C7366A0|x|0|1992|Sports|Europe|Virgin Interactive|Bitmap Brothers|Not Rated|Cartridge|Master System Controller|Master System
+SpellCaster|3025|4752CAE7|x|0|1989|Role Playing|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Spider-Man Return of the Sinister Six|3026|EBE45388|x|0|1992|Platformer|Europe|Flying Edge|B.I.T.S.|Not Rated|Cartridge|Master System Controller|Master System
+Spider-Man vs the Kingpin|NOID|908FF25C|x|0|1991|Action|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Sports Pad Football|3028|E42E4998|x|0|1987|Football/Sports|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Spy vs Spy|NOID|78D7FAAB|x|0|1988|Action|region-unknown|Sega|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+Star Wars|3030|D4B8F66D|x|0|1993|Platformer|Europe|U.S. Gold|Lucasfilm Games|Not Rated|Cartridge|Master System Controller|Master System
+Streets of Rage|3032|4AB3790F|x|0|1993|Beat-'Em-Up|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Streets of Rage II|3033|04E9C089|x|0|1993|Beat-'Em-Up|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Strider|3034|9802ED31|x|0|1991|Platformer|USA|Sega|Capcom|Not Rated|Cartridge|Master System Controller|Master System
+Strider II|NOID|B8F0915A|x|0|1991|Platformer|Europe|U.S. Gold|Tiertex Design Studio|Not Rated|Cartridge|Master System Controller|Master System
+Submarine Attack|3036|D8F2F1B9|x|0|1993|Action|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Summer Games|3038|8DA5C93F|x|0|1988|Olympic/Sports|Europe|Sega|Epyx|Not Rated|Cartridge|Master System Controller|Master System
+Super Kick Off|3039|406AA0C2|x|0|1991|Soccer/Sports|Europe|U.S. Gold|Anco Software / Tiertex|Not Rated|Cartridge|Master System Controller|Master System
+Super Monaco GP|3040|3EF12BAA|x|0|1990|Driving|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Super Off Road|3041|54F68C2A|x|0|1992|Driving|Europe|Virgin Mastertronic|Graftgold|Not Rated|Cartridge|Master System Controller|Master System
+Super Smash T.V.|3043|E0B1AFF8|x|0|1992|Action|Europe|Flying Edge|Probe Entertainment|Not Rated|Cartridge|Master System Controller|Master System
+Super Space Invaders|3044|1D6244EE|x|0|1991|Shooter|Europe|Domark|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Super Tennis|3045|914514E3|x|0|1986|Sports/Tennis|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Superman The Man of Steel|3046|6F9AC98F|x|0|1993|Platformer|Europe|Virgin Interactive|Graftgold|Not Rated|Cartridge|Master System Controller|Master System
+T2 The Arcade Game|3132|93CA8152|x|0|1991|Gun|Europe|Midway|Midway Games|Not Rated|Cartridge|Master System Controller|Master System
+Taito Chase H.Q.|3047|85CFC9C9|x|0|1990|Driving|Europe|Sega|Taito Corporation|Not Rated|Cartridge|Master System Controller|Master System
+Taz-Mania|3049|7CC3E837|x|0|1992|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Tecmo World Cup '93|3051|5A1C3DDE|x|0|1993|Soccer/Sports|Europe|Tecmo|Tecmo|Not Rated|Cartridge|Master System Controller|Master System
+Teddy Boy|3052|2728FAA3|x|0|1986|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Tennis Ace|3053|1A390B93|x|0|1989|Sports/Tennis|Europe|Sega|Sanritsu|Not Rated|Cartridge|Master System Controller|Master System
+Terminator 2 Judgment Day|3055|AC56104F|x|0|1993|Platformer|Europe|Flying Edge|Arc Developments|Not Rated|Cartridge|Master System Controller|Master System
+Terminator|2994|EDC5C012|x|0|1990|Platformer|Europe|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Master System Controller|Master System
+Thunder Blade|3077|AE920E4B|x|0|1988|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Time Soldiers|3078|51BD14BE|x|0|1988|Shooter|USA|Sega|Alpha Denshi|Not Rated|Cartridge|Master System Controller|Master System
+Tom and Jerry The Movie|3081|BF7B7285|x|0|1992|Platformer|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+TransBot|3083|4BC42857|x|0|1986|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Trivial Pursuit Genus Edition|3090|E5374022|x|0|1992|Board Games|Europe|Domark|Domark|Not Rated|Cartridge|Master System Controller|Master System
+Ultima IV Quest of the Avatar|3091|B52D60C8|x|0|1990|Role Playing|Europe|Sega|Origin Systems|Not Rated|Cartridge|Master System Controller|Master System
+Ultimate Soccer|3093|15668CA4|x|0|1993|Soccer/Sports|Europe|Sega|Rage Software|Not Rated|Cartridge|Master System Controller|Master System
+Vigilante|3094|DFB0B161|x|0|1988|Beat-'Em-Up|USA|Sega|Irem|Not Rated|Cartridge|Master System Controller|Master System
+Walter Payton Football|NOID|3D55759B|x|0|1989|Football/Sports|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Wanted|3098|5359762D|x|0|1989|Action|USA|Sega|SEGA|Not Rated|Cartridge|Light Phaser|Master System
+Where in the World is Carmen Sandiego|3099|428B1E7C|x|0|1989|Puzzle|USA|Parker Bros.|Broderbund Software|Not Rated|Cartridge|Master System Controller|Master System
+Wimbledon|3101|912D92AF|x|0|1992|Sports/Tennis|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Wimbledon II|3103|7F3AFE58|x|0|1993|Sports/Tennis|Europe|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Winter Olympics Lillehammer '94|3104|A20290B6|x|0|1994|Olympic/Sports|USA|U.S. Gold|Tiertex Design Studio|Not Rated|Cartridge|Master System Controller|Master System
+Wolfchild|3105|1F8EFA1D|x|0|1993|Platformer|Europe|Virgin Interactive|Core Design|Not Rated|Cartridge|Master System Controller|Master System
+Wonder Boy|3106|73705C02|x|0|1987|Platformer|USA|Sega|Westone|Not Rated|Cartridge|Master System Controller|Master System
+Wonder Boy III The Dragon's Trap|3108|679E1676|x|0|1989|Adventure|USA|Sega|Westone|Not Rated|Cartridge|Master System Controller|Master System
+Wonder Boy in Monster Land|3109|8CBEF0C1|x|0|1988|Adventure|USA|Sega|Westone|Not Rated|Cartridge|Master System Controller|Master System
+Wonder Boy in Monster World|3110|7D7CE80B|x|0|1993|Adventure|Europe|Sega|Westone|Not Rated|Cartridge|Master System Controller|Master System
+World Class Leader Board|NOID|C9A449B7|x|0|1991|Golf/Sports|Europe|U.S. Gold|Access Software / Tiertex|Not Rated|Cartridge|Master System Controller|Master System
+World Cup Italia '90|3115|6E1AD6FD|x|0|1990|Soccer/Sports|Europe|Sega|Virgin Mastertronic / Ing.|Not Rated|Cartridge|Master System Controller|Master System
+World Cup USA 94|3116|A6BF8F9E|x|0|1992|Soccer/Sports|region-unknown|U.S. Gold|dev-unknown|Not Rated|media-unknown|controller-unknown|Master System
+World Games|3117|A2A60BC8|x|0|1989|Sports|Europe|Sega|Epyx|Not Rated|Cartridge|Master System Controller|Master System
+World Grand Prix|3118|7B369892|x|0|1986|Driving|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+WWF Wrestlemania Steel Cage Challenge|3120|2DB21448|x|0|1992|Sports/Wrestling|Europe|Flying Edge|Flying Edge|Not Rated|Cartridge|Master System Controller|Master System
+Xenon 2 Megablast|3121|EC726C0D|x|0|1991|Shooter|Europe|Imageworks|Bitmap Brothers|Not Rated|Cartridge|Master System Controller|Master System
+Ys The Vanished Omens|5501|B33E2827|x|0|1988|Role Playing|USA|Sega|Nihon Falcom|Not Rated|Cartridge|Master System Controller|Master System
+Zaxxon 3-D|3124|A3EF13CB|x|0|1987|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Zillion|3125|7BA54510|x|0|1987|Platformer|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Zillion II The Tri Formation|3126|2F2E3BC9|x|0|1988|Shooter|USA|Sega|SEGA|Not Rated|Cartridge|Master System Controller|Master System
+Zool Ninja of the 'Nth' Dimension|7510|9D9D0A5F|x|0|1993|Platformer|Europe|Gremlin Graphics|Gremlin Graphics Design|Not Rated|Cartridge|Master System Controller|Master System
+20 em 1|3129|f0f35c22|x|0|1995|Compilation|Brazil|Tec TOy|Tec Toy|No Rating|Cartridge|Master|Master System
+Alex Kidd BMX Trial|2683|f9dbb533|x|0|1987|Racing , Cars|Japan|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Alf|2686|82038ad4|x|0|1989|Platformer|USA|SEGA|Nexa Corporation|No Rating|Cartridge|Master|Master System
+Ariel the Little Mermaid|NOID|f4b3a7bd|x|0|1992|Action , Side-Scrolling|Brazil|Tec Toy|SEGA|No Rating|Cartridge|Master|Master System
+Baku Baku Animal|2701|35d84dc2|x|0|1998|Puzzle|Brazil|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Basketball Nightmare|2703|0df8597f|x|0|1989|Sports , Basketball|Europe|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Battletoads in Battlemaniacs|2705|1cbb7bf1|x|0|1994|Beat 'em Up|Brazil|Tec Toy|Virgin Interactive|No Rating|Cartridge|Master|Master System
+Blade Eagle 3-D|2707|8ecd201c,58d5fc48|x|0|1988|Shooter|USA|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Bonkers Wax Up!|NOID|b3768a7a|x|0|1995|Platformer|Brazil|SEGA|Al Baker & Associates|No Rating|Cartridge|Master|Master System
+Chase H.Q. II Special Criminal Investigation|3022|1b7d2a20,fa8e4ca0|x|0|1996|Racing|Europe|SEGA|Taito Corporation|No Rating|Cartridge|Master|Master System
+Comical Machine Gun Joe|NOID|9d549e08|x|0|1986|Shooter|Japan|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Dallyeora Pigu-Wang|NOID|89b79e77|x|0|No Date|Sports , Dodgeball|Unlicensed (Korea)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+Dinobasher Starring Bignose the Caveman|2731|ea5c3a6f|x|0|Unreleased|Platformer|Prototype (Europe)|Unpublished|dev-unknown|No Rating|Cartridge|Master|Master System
+Disney's Aladdin|2867|c8718d40|x|0|1994|Movie Adaption|Europe|SEGA|SIMS|No Rating|Cartridge|Master|Master System
+Disney's The Jungle Book|3063|695a9a15|x|0|1993|Movie Adaption|Europe|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Master|Master System
+Disney's the Lion King|3064|c352c7eb|x|0|1994|Movie Adaption|Europe|Virgin Interactive|Virgin Interactive|No Rating|Cartridge|Master|Master System
+Dynamite Headdy|2736|7db5b0fa|x|0|1994|Platformer|Brazil|SEGA|Treasure Co. Ltd|No Rating|Cartridge|Master|Master System
+Earthworm Jim|2892|c4d5efc5|x|0|1996|Platformer|Brazil|Tec Toy|EuroCom|No Rating|Cartridge|Master|Master System
+Ecco The Tides of Time|3097|7c28703a|x|0|1996|Action|Brazil|Tec Toy|Novotrade|No Rating|Cartridge|Master|Master System
+Ferias Frustradas do Pica Pau|2744|bf6c2e37|x|0|1996|Platformer|Brazil|Tec Toy|Tec Toy|No Rating|Cartridge|Master|Master System
+FIFA International Soccer|2745|9bb3b5f9|x|0|1993|Sports , Soccer|Brazil|Electronic Arts|EA Sports|No Rating|Cartridge|Master|Master System
+Fire and Ice|2747|8b24a640|x|0|1995|Platformer|Brazil|Virgin Interactive|Graftgold|No Rating|Cartridge|Master|Master System
+Gaegujangi Ggachi|2750|8b40f6bf|x|0|No Date|Platformer|Unlicensed (Korea)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+Galactic Protector|2752|a6fa42d0|x|0|1988|Shooter|Japan|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Global Gladiators|NOID|b67ceb76|x|0|1993|Platformer|Europe|Virgin Games, Inc|Virgin Games, Inc|No Rating|Cartridge|Master|Master System
+Golvellius Valley of Doom|NOID|a51376fe|x|0|1988|Role Playing Game|USA|SEGA|Compile|No Rating|Cartridge|Master|Master System
+High School! Kimengumi|2828|8a296a3e|x|0|2005|Action|Translated (Japan)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+Hook|NOID|9ced34a7|x|0|Unreleased|Platformer|Prototype (Europe)|Unpublished|Mark Tailor|No Rating|Cartridge|Master|Master System
+Legend of Illusion Starring Mickey Mouse|2884|6350e649|x|0|1994|Platformer|Brazil|SEGA|Aspect|No Rating|Cartridge|Master|Master System
+Megumi Rescue|2903|29bc7fad|x|0|1988|Action|Japan|SEGA|Aicom|No Rating|Cartridge|Master|Master System
+Mickey's Ultimate Challenge|2913|25051dd5|x|0|1998|Strategy|Brazil|Tec Toy|Designer Software|No Rating|Cartridge|Master|Master System
+Mortal Kombat 3|2928|395ae757|x|0|1995|VS Fighter|Brazil|Tec Toy|Midway Games|No Rating|Cartridge|Master|Master System
+Nekkyuu Koushien|2940|5b5f9106|x|0|1988|Sports , Baseball|Japan|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Olympic Gold Barcelona '92|2944|6a5a1e39,d1a7b1aa|x|0|1992|Sports , Competitive|Europe|SEGA|U.S. Gold|No Rating|Cartridge|Master|Master System
+Pat Riley Basketball|2961|9aefe664|x|0|Unreleased|Sports , Basketball|Prototype (USA)|Unpublished|dev-unknown|No Rating|Cartridge|Master|Master System
+Phantasy Star Hordes of Nei|NOID|3ca83c04|x|0|2007|Role Playing Game|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+Pit-Fighter|2966|b840a446,aa4d4b5a|x|0|1991|VS Fighter|Europe|Tengen|Atari Games|No Rating|Cartridge|Master|Master System
+Pit Pot|NOID|e6795c53,69efd483|x|0|1985|Action|USA|SEGA|SEGA|No Rating|Cartridge|Game|Master System
+Quest for the Shaven Yak Starring Ren Hoek and Stimpy|2984|f42e145c|x|0|1994|Platformer|Brazil|Tec Toy|Realtime Associates|No Rating|Cartridge|Master|Master System
+Rygar|NOID|bae75805|x|0|1988|Platformer|Japan|Salio|Tecmo|No Rating|Cartridge|Master|Master System
+Sangokushi 3|2999|97d03541|x|0|1993|VS Fighter|Unlicensed (Korea)|Panda Entertainment|Panda Entertainment|No Rating|Cartridge|Master|Master System
+Satellite 7|3000|16249e19|x|0|1985|Shooter|Japan|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Sega Chess|3003|a8061aef|x|0|1991|Board Game ,|Europe|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Sega World Tournament Golf|3004|296879dd|x|0|1993|Sports , Golf|Europe|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Sensible Soccer European Champions 92/93 Edition|NOID|f8176918|x|0|1993|Sports , Soccer|Europe|SEGA|Sensible Software|No Rating|Cartridge|Master|Master System
+Solomon's Key|3012|11645549|x|0|1988|Puzzle|Japan|Salio|Tecmo|No Rating|Cartridge|Master|Master System
+Sonic Blast|3013|96b3f29e|x|0|1997|Platformer|Brazil|Tec Toy|Aspect|No Rating|Cartridge|Master|Master System
+Sonic's Edusoft|3018|d9096263,9cc4ae7c|x|0|Unreleased|Educational|Prototype (USA)|Unpublished|"The Programmer"|No Rating|Cartridge|Master|Master System
+Street Fighter II|3031|0f8287ec|x|0|1997|VS Fighter|Brazil|Tec Toy|Capcom|No Rating|Cartridge|Master|Master System
+Super Racing|3042|7e0ef8cb|x|0|1988|Racing|Japan|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+Super Tetris|NOID|8230384e|x|0|No Date|Puzzle|Unlicensed (Korea)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+Taito's Super Space Invaders|3044|1d6244ee|x|0|1991|Shooter|Europe|Domark|Taito Corporation|No Rating|Cartridge|Master|Master System
+Taz in Escape from Mars|3048|11ce074c|x|0|1996|Platformer|Brazil|Tec Toy|Head Games Publishing|No Rating|Cartridge|Master|Master System
+The Addams Family|3056|72420f38|x|0|1993|Movie Adaption|Europe|Flying Edge|Ocean|No Rating|Cartridge|Master|Master System
+The Cyber Shinobi|2071|1350e4f8|x|0|1990|Platformer|Europe|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+The Dinosaur Dooley|3058|32f4b791|x|0|No Date|Shooter|Unlicensed (Korea)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+The Excellent Dizzy Collection|NOID|8813514b,aa140c9c|x|0|Unreleased|Compilation|Prototype (USA)|Unpublished|Codemasters|No Rating|Cartridge|Master|Master System
+The Fantastic Adventures of Dizzy|NOID|b9664ae1|x|0|1993|Platformer|Europe|Codemasters|Codemasters|No Rating|Cartridge|Master|Master System
+The Flash|3059|be31d63f|x|0|1993|Platformer|Europe|SEGA|Probe Entertainment|No Rating|Cartridge|Master|Master System
+The Flintstones|3060|ca5c78a5|x|0|1991|Platformer|Europe|Grandslam|Grandslam|No Rating|Cartridge|Master|Master System
+The Incredible Crash Dummies|3061|b4584dde|x|0|1993|Platformer|Europe|Acclaim Entertainment|Software Creations|No Rating|Cartridge|Master|Master System
+The Incredible Hulk|3062|be9a7071|x|0|1994|Platformer|Europe|U.S. Gold|Probe Entertainment|No Rating|Cartridge|Master|Master System
+The Lucky Dime Caper Starring Donald Duck|3065|7f6d0df6,a1710f13|x|0|1991|Platformer|Europe|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+The New Zealand Story|3066|c660ff34|x|0|1992|Platformer|Europe|Tecmagik|Taito Corporation|No Rating|Cartridge|Master|Master System
+The Ninja|3076|66a15bd9|x|0|1986|Action|USA|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+The Ottifants|3067|82ef2a7d|x|0|1993|Platformer|Europe|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+The Simpsons Bart vs the Space Mutants|NOID|d1cc08ee|x|0|1992|Platformer|USA|Acclaim Entertainment|Imagineering|No Rating|Cartridge|Master|Master System
+The Simpsons Bart vs the World|NOID|f6b2370a|x|0|1993|Platformer|USA|Acclaim Entertainment|Arc Developments|No Rating|Cartridge|Master|Master System
+The Smurfs|3071|3e63768a|x|0|1994|Platformer|Europe|Infogrames|Infogrames|No Rating|Cartridge|Master|Master System
+The Smurfs 2 Travel the World|NOID|97e5bb7d,7982ae67|x|0|1996|Platformer|Europe|Infogrames|Infogrames|No Rating|Cartridge|Master|Master System
+The Terminator|2994|edc5c012|x|0|1992|Movie Adaption|Europe|Virgin Interactive|Probe Entertainment|No Rating|Cartridge|Master|Master System
+Toto World 3|3082|4f8d75ec|x|0|No Date|Platformer|Unlicensed (Korea)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+Virtua Fighter Animation|3096|57f1545b|x|0|1996|VS Fighter|Brazil|Tec Toy|SEGA|No Rating|Cartridge|Master|Master System
+Wanted!|NOID|5359762d|x|0|1989|Shooter|USA|SEGA|SEGA|No Rating|Cartridge|Light|Master System
+Woody Pop Shinjinrui no Block Kuzushi|3111|315917d4|x|0|1987|Action|Japan|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+World Cup USA '94|NOID|a6bf8f9e|x|0|1994|Sports , Soccer|Europe|U.S. Gold|Tiertex Design Studio|No Rating|Cartridge|Master|Master System
+World Soccer|3119|72112b75|x|0|1987|Sports , Soccer|USA|SEGA|SEGA|No Rating|Cartridge|Master|Master System
+X-Men 3 Mojo World|NOID|3e1387f6|x|0|1996|Platformer|Brazil|Tec Toy|SEGA|No Rating|Cartridge|Master|Master System
+Ys US Master System FM sound patch|NOID|7ed5dca2|x|0|2009|Role Playing Game|Prototype (USA)|No Publisher|dev-unknown|No Rating|Cartridge|Master|Master System
+Argos no Juujiken|2692|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Battle OutRun|2704|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+F-16 Fighter|2740|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Hoshi o Sagashite...|2849|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Les Schtroumpfs Autour du Monde|2886|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Loretta no Shouzou|2891|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Mahjong Sengoku Jidai|2893|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Marksman Shooting / Trap Shooting / Safari Hunt|2899|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Mick and Mack Global Gladiators|2910|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+OutRun 3-D|2949|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+OutRun Europa|2951|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Secret Command|3002|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Shadow Dancer The Secret of Shinobi|3006|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Sitio do Picapau Amarelo|3010|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Sonic the Hedgehog Chaos|3014|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Sonic the Hedgehog Spinball|3015|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Spy vs. Spy|3029|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Strider 2|3035|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Sukeban Deka II Shoujo Tekkamen Densetsu|3037|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Tecmo World Cup '92|3050|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Tensai Bakabon|3054|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Pro Yakyuu Pennant Race|3068|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Simpsons Bart vs. The Space Mutants|3069|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Simpsons Bart vs. The World|3070|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+World Class Leader Board Golf|3113|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+X-Men Mojo World|3123|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Fushigi no Oshiro Pit Pot|3130|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System
+Mike Ditka Power Football|4509|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|Master System

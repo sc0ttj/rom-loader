@@ -1,0 +1,75 @@
+Super Lode Runner is an Action Puzzle game, published by Irem, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578389.html
+A follow-up to the original Lode Runner, with identical gameplay. This package contained 50 of the most challenging levels ever designed, and was intended for expert players only. It did not include the level editor, you had to play through the levels in order, but a save-game option was provided (although you lost one life every time you restored).
+
+http://www.mobygames.com/game/nes/championship-lode-runner
+The player controls a stick figure, collecting all the gold in the level, and avoiding robots trying to catch the player. The levels feature a multi-story brick platform motif, with ladders and hand-to-hand bars suspended in the air offering multiple ways to travel within the level. The player can dig holes into the brick floors and temporarily trap the robots.
+
+The player may safely walk on top of a robot trapped in a hole. Over time the turf regenerates. If a hole is filled before a robot escapes, it is consumed and immediately respawns at a random place at the top of the level. The player's character can fall from an unlimited height without being injured, but cannot jump, so it is possible for the player to become trapped in a pit and have to abort the character life (the game starts with five lives; each level passed earns an extra life). Certain parts of turf are trapdoors through which the player and robots will fall.
+
+The player's character finishes each level by collecting all the boxes available in that level and traveling to the top of the screen.
+
+http://www.nesguide.com/games/loderunner/
+This hack is based on the good old game - Lode Runner. Anyone familiar with Lode Runner knows the basic gameplay. Traveling around looking for gold on 50 levels. The Hero collects coins and avoids obstacles along with three enemies, which try to stop the hero from succeeding.
+
+In this hack I have changed - graphics, text and music. The Music and graphics were taken from the Mario series. The language of the game is russian.
+
+http://www.romhacking.net/hacks/228/
+This hack is based on the good old game - Lode Runner. Anyone familiar with Lode Runner knows the basic gameplay. Traveling around looking for gold on 50 levels. The hero collects coins and avoids obstacles along with three enemies, which try to stop the hero from succeeding.
+
+In this hack I have changed graphics, text, music, and levels. The music and graphics were taken from the Mario series. The language of the game is Russian.
+
+Levels - 
+ - 01 Execution
+ - 02 Solomon's Key
+ - 03 Flip Level 3
+ - 04 Poison mushrooms
+ - 05 Diamond
+ - 06 Old_terrapin
+ - 07 Elevator
+ - 08 Big garden
+ - 09 Two towers
+ - 10 Goomba
+ - 11 London bridge
+ - 12 Skull
+ - 13 Letter "M"
+ - 14 Flytrap
+ - 15 Mario Runner
+ - 16 Board Game
+ - 17 Mario
+ - 18 Mister Crabs
+ - 19 Egyptian pyramid
+ - 20 Irritating fish
+ - 21 Platform
+ - 22 Octopus
+ - 23 My joypad
+ - 24 Popeye
+ - 25 New year
+ - 26 Olympic games
+ - 27 Blocks
+ - 28 Smile of the devil
+ - 29 Squares
+ - 30 Pirate boat
+ - 31 Ancient pyramid
+ - 32 Small ant
+ - 33 R.R.C.
+ - 34 Pac-Man
+ - 35 Binary Land
+ - 36 Joust
+ - 37 Millipede
+ - 38 Warpman
+ - 39 Nuts & Milk
+ - 40 Burger Time
+ - 41 Dig Dug
+ - 42 Chack'n Pop
+ - 43 Mappy
+ - 44 Battle City
+ - 45 Bomberman
+ - 46 Lunar Ball
+ - 47 Donkey Kong 3
+ - 48 Arkanoid
+ - 49 King Bouzer
+ - 50 Happy End
+
+http://www.romhacking.net/hacks/548/

@@ -1,0 +1,37 @@
+Formula 1 Grand Prix is the first instalment of what would quickly become the Formula 1 simulation series for the PC in the 1990's. Designed and programmed by racing game specialist Geoff Crammond (REVS, Stunt Track Racer), Grand Prix 1 did not only introduce a multitude of features previously unknown to computer racing simulations, but also sported a physics engine that was, at its time, unmatched in its complexity and realism. Grand Prix 1 features:3D graphics out of filled, unshaded polygons on PC and Amiga - the PC version has pavement and lawn textures. The sheer number of track-side details (down to billboards and camera cranes) forced any computer below a decent 386 DX to its knees.
+
+Working rear mirrors. Though they show only cars and no scenery, they are invaluable for blocking overtakers.
+
+Collisions with flying debris and actual crude damage models: wings are visibly bent after crashes.
+
+Wet weather that influences traction. No rain graphics, but a fog effect obscures your vision when you drive in another car's splash water.
+
+An extensive tuning part that greatly influences the performance of your car. In-race setup allows you to adjust gear ratios, brake balance, wing downforce and tires during each visit to the box.
+
+Six optional driving aids that help F1 rookies finish their race: toggle best line and suggested gear displays to learn track tactics, or have auto brakes, auto gears, self-righting spins and indestructability improve your driving.
+
+A replay system that lets you watch race scenes from three different views, including track-side cameras.Formula 1 Grand Prix includes all 16 international GP circuits of 1991. You may drive them in quick race mode, single race or a full championship. The 18 teams and 35 drivers and their performance are based on the 1991 season, but the game doesn't include real names. You can edit and save team and driver names by hand.
+
+While the Amiga version allows multiplayer races in hotseat mode, the PC version originally had solo races only. In 1993, the v1.05 update added modem support (and a couple of other improvements). Find it in the related links section.
+ 
+http://www.mobygames.com/game/amiga/world-circuit
+_________________________
+CHEATS:
+
+Get the pole position:
+Enter the pits, pause the game and accelerate time.
+This should allow your car to finish the Grand Prix at the pole
+position. Note: This may need to be done during the final lap.
+
+No crashes:
+Enter the pits after the first lap and hold P
++ A + L + I + R and press Fire.
+In addition to disabling crashes, the game will ignore [F4].
+
+Win the race:
+Compete in a non-championship race and keep driving
+until the last lap. Then, enter the pits and drive to your pit-crew.
+Wait for the message "Race Over" to appear to automatically
+win. Alternatively, enter the pits on the last lap. Use the brakes
+and press [Esc] to quit the race. Accelerate time to win
+the game if your car was far enough ahead.

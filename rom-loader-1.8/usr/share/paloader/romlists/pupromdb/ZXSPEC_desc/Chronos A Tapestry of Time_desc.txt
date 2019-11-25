@@ -1,0 +1,8 @@
+This shoot 'em up resembles many others, but was released at budget price. You're in control of space craft Chronos, which must get way out of the Mystical Dimension it has been trapped in. This means zapping through six constantly-scrolling and diverse levels of minions including balls, ships and spinning dice. The level designs are such that many sections of barriers and force fields need to be shot before you get to them. Lots of immovable blockades and blind tunnels are in place, so the route is extremely mazy. Bonus tokens can be picked up in a sequence which grows in value progressively, so be careful to pick up the earlier ones and keep the sequence going.
+
+Trivia:
+
+The level designs ensure that some sections of the screen are not within the play area, and the programmers used these to display various messages. Examples from throughout the game include 'Hello Mum', 'Disconnect From Power Supply When Not In Use', and even a nod to the progressive rock group 'Jethro Tull'.
+
+
+http://www.mobygames.com/game/zx-spectrum/chronos-a-tapestry-of-time

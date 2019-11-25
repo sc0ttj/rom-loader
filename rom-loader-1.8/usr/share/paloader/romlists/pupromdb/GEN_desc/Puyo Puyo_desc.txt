@@ -1,0 +1,8 @@
+Based on an arcade game the objective is to stop your grid from filling up by arranging the falling bricks into various groups which will then cause them to vanish, gaining you points. The longer you carry on, the more points you get, but if your grid fills up completely your game will end, how high can you score?
+
+Hints:
+
+- Sound Test -
+To unlock the Sound Test, complete the game on any difficulty. The Sound Test appear in the Options Menu.
+
+http://www.neoseeker.com/Games/Products/GENESIS/puyo_puyo/

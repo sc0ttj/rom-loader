@@ -1,0 +1,24 @@
+This is a very entertaining game for the Genesis Console. It's almost an entire arcade in one little game. The games that are included are UltraPong, Missile Command, and Centipede. The graphics are colorful and lively, especially on the Sega version. You can also choose to play the Classic versions. Both versions are filled with plenty of MIDI tunes to fill your ears up. The games are very fun, and good to pass the time with. These really are some of the classics that today's kids just don't know about.
+
+Directions:
+
+After the title screen comes up, you are prompted to hit the Start Button. This then takes you to the menu where you can choose from Centipede, Ultrapong, and Missile Command.
+
+If you choose Centipede, you are sent to the Centipede menu.
+
+You can choose one player, two player alternate, two player compete, and team play. For skill level, you can choose between novice, standard, advanced, and expert. In Centipede, you move around the bottom of the screen, and your goal is to destroy the centipede before it kills you. In two player alternate, two players take turns playing, trying to get a collective high score. In two player competition, two players play on the same screen and compete to get the highest score. In two player team, both players play on the same screen to try and get a high score.
+
+If you choose Ultrapong from the main menu, you are sent to the Ultrapong menu. Here, you can choose between pong and hockey, regular, super, hyper, or ultra style, barriers or no barriers, one or two players, and to play the right side or left side. After you choose your setup, you hit start to begin playing.
+
+If you choose Missile Command from the main menu, it sends you to a menu where you can choose between Beginner or Normal. If you choose Beginner, you're sent to a menu with Player 1 and Player 2. Beside Player 1, you can choose easy or hard, and beside Player 2, you can choose easy, hard, or none, if you don't have two players. After you hit the start button, you are taken to the game. All you have to do is move the cross-hair to where you want to fire and hit the A or B button. If you choose Normal, it will send you to a menu with control, cruise, wave speed, and the same player options from the other menu. You choose your options and then hit start to begin the game.
+
+At the bottom of the Main Menu, you can choose between Classic Version and Sega Version. The only difference between the two is the quality of the graphics. 
+
+Controls:
+
+A Button: Fire, Differs According to Game
+B Button: Fire, Differs According to Game
+Start Button: Pause Game
+
+Reviewer: superdoccy
+http://www.consoleclassix.com/genesis/arcade_classics.html

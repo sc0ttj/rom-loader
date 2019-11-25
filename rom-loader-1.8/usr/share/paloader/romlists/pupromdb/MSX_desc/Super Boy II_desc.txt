@@ -1,0 +1,5 @@
+This game is to Super Boy I what the Japanese Super Mario Bros. 2 (Known in the west as The Lost Levels) is to the first game by Nintendo, or even less so, as the evil mushroom isn't implemented. Once again the game ends after stage 4, with no such thing as an ending. 
+
+Super Boy II is the first Zemina game that is confirmed to have received a Master System conversion. As both machines had a similar system architecture, MSX games could be easily converted to the Sega system. There was no actual porting work done, so the game is virtually identical on both platforms.
+
+http://www.hardcoregaming101.net/korea/part1/company-zemina.htm

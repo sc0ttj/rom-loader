@@ -1,0 +1,66 @@
+Can four average kids save the world from certain destruction at the hands of an evil, alien invader? They might be inexperienced, but don't count them out!
+
+The four spunky kids have the fate of mankind in their hands and the weight of the world on their shoulders, so it's a good thing that they have psychic powers -- and you -- on their side. As you begin this unique gaming experience and explore the world in search of the sinister spirit of Giygas, pack along our travel guide. You'll need it to find your way through Earthbound's twisted and hilarious world, and you won't want to miss a single side-trip or pass up any sights along the way. Just remember to phone dear old Mom and Dad -- after all, the kids will wander a long way from home.
+
+--from the SNES EarthBound Manual
+
+A game where you can name ALL of your characters and your magic and you don't have to stick with the pathetic excuses for names. That is one of the things I like in an RPG, the ability to personalize the game. It really opens the way for your imagination. Earthbound was probably one of the best RPG's on the SNES. It had pretty good graphics and the sound was awesome. Where this game really shines is in gameplay, it's easy to pick up and lots of fun. Try Earthbound as soon as possible. 
+
+Directions:
+
+Just like any RPG game, walk around until you come around a bunch of enemies and you have to kill them! Later on in the game, you get to lead a full party of other people with great strengths! Gain and save money to buy items, such as weapons.
+
+Controls:
+
+A Button - View command menu
+B Button - View HP/PP/cash windows
+X Button - View map
+Y Button - No use
+L Button - Check whatever's around you
+R Button - Ring bicycle bell while riding bike
+Start Button - No use
+Select Button - View HP/PP/cash windows
+
+Hints:
+
+Level 99 Battle (PAR Code)
+C1D9FBFF 
+
+Tips:
+
+secret scene
+Talk to Paulas father in Twoson, then visit the hotel.  When you leave the hotel a bonus scene involving Paulas father will be shown.
+
+Exit Mouse in the Cave of the Past
+Note: This only works in the Super Famicom version of Earthbound(Mother 2).  In Mother 2, you could use the Exit Mouse in the Cave of the Past, which was never intended obviously, since the feature is missing in Earthbound.
+
+Infinite use of Rock Candy
+You can use the Rock Candy in battles an unlimited amount of times to increase your stats. You have to have it in one of the two very bottom spaces of one of your characters' inventories, and you have to use it with any condiment (preferably something like Sugar Packets or Jars of Delisauce, because they will increase one of your stats by 2 instead of one). This will allow you to get greater boosts in stats when you level up.
+
+$50 Easy in Twoson
+Outside of the hotel room in Twoson, there will be a man sitting at a table. Constantly speak to him (his response will change each time) until he decides to hand you $50 so you can leave him alone. It takes about 20 sessions of talking for him to fork it over, but it's well worth it, plus it'll make up for the night you spent at the hotel.
+
+Avoid battles.
+If you go into a room with a large amount or any amount of enemies in it, you can exit the room and re-enter it
+and the amount of enemies changes sometimes even taking them all out of that room. This can eliminate time consuming fights.
+
+Reviewer: Adrian
+http://www.consoleclassix.com/snes/earthbound.html
+This classic hack matches you up gladiator-style against a slew of EarthBoundy opponents. It's an enjoyable new twist on our old favorite. It may seem dated now, but at the time it was made, it was one of the most innovative hacks ever made. Watch out for ROFISH, too - he'll put the hurt on you!
+
+http://starmen.net/pkhack/pk_junk/down_hack.php
+Taking a page from Chrono Trigger, this patch allows you - upon finishing the game - to start from the beginning with all of your items, stats, and PSI intact! In this enhanced version, all events are reset, eliminating the event-glitch problems in the original. As a result, however, you will not be able to Teleport to places you have not been yet. Even with this limitation, you'll be able to cut a swath through your enemies quicker than ever before.
+
+http://starmen.net/pkhack/pk_junk/down_hack.php
+This hack was made for EB Funktastic Gameplay in the summer of 2005. It commemorates ten years of EarthBoundy goodness with a rockin' Starmen.Net party in Onett's Town Hall. Chill with Reid, Tomato, and a bunch of other wacky SM.Netters as you investigate undercurrents of intrigue and sidequestyness!
+
+http://starmen.net/pkhack/pk_junk/down_hack.php
+Blue Antoid's seminal, acclaimed, n00btastic work. It's the first full-length hack of EB, though it came before any sort of map or compressed graphics editing. It was also pretty much made up on the spot, with no real plan - just an accumulation of random ideas and plot threads gleaned from a forum topic, and tied together with minty dental floss. It generally follows the EarthBound story line (if not the plot) in a "new" scenario with new characters and enemies. (Most people hail JonBound as the Holy Grail of EB hacking, but Blue Antoid really hopes a newcomer will arrive and blow it away. Problem is he's been waiting since 2001!)
+
+http://starmen.net/pkhack/pk_junk/down_hack.php
+Trouble strikes on the eve of EB No Matsuri! Ness and his friends must team up to save the world from an evil menace that would destroy the holiday spirit and do away with strawberry tofu forever! :O This hack was the winning entry of the 2003 Hexmas Hackfest, and as such it's full of EarthBoundy, Christmassy goodness. Makes you hungry for candy canes and kicking Elves. :D
+
+http://starmen.net/pkhack/pk_junk/down_hack.php
+A mini-sequel to EarthBound, starring Mr. Saturn and Jeff. Short but sweet, Hat Quest is one of the most advanced hacks released to date. It's also the first finalized hack to make liberal use of map editing, advanced event-based changes, and a bevy of other recent discoveries. This game was made with classic puzzle adventure games in mind, so expect a lot of old-school LucasArts-style action.
+
+http://starmen.net/pkhack/pk_junk/down_hack.php

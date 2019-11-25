@@ -1,0 +1,47 @@
+KLAX! The game with the same name as the noise the tiles make as they roll down on the screen! To be honest, KLAX is used a lot in this game.
+
+KLAX is a puzzle game that was meant to capitalize on Columns and Tetris. It now has a large fan base of the gamers who fell in love with this game in the 90's! It's unique, because unlike in most puzzlers you are dealing with one tile at a time in a different way other than sliding down the screen or bouncing up to similar pieces. It doesn't even require knowing shapes or working with a three or four grouped structure. Nope, this game is all on its own as no one has ever tried imitating or restructuring it. That's part of the reason this game is so fun.
+
+A major reason why this game is so fun, though, is its sheer simplicity. It was made with all gamers in mind, which makes it great. The man who designed it wanted it as small, simple and playable as possible. In simplest terms (no pun intended) this game plays out like a cross of Columns and Tic-Tac-Toe, and it gets the same addicting play as in most puzzle games. Though simple, the game has its complexities which stand out in a great way, altering your score, providing level warps and special opportunities. We'll get to those in a second.
+
+Be sure to catch each of the rolling tiles on your plunger! This should be your top priority, as failing to do so will cause you to lose the game quickly. As you stack, drop the tiles below to form groups of three or more tiles of the same color in either horizontal, vertical or diagonal manner to form a KLAX and gain points depending on complexity and number of tiles.
+
+Graphic and sound wise, this game is a little lacking. It was meant to be small so it could be very affordable and fun, so don't expect pretty colors and explosions such as ones you'd find in Mean Bean Machine or Columns 3. The sound is actually pretty good for being a puzzler. Each tile color, as it rolls, makes a unique noise, and every object, plunger and all, makes some sort of noise. Even different score types have different noises. They are all fun, but what the game really is missing is MUSIC. There isn't any to be found, and with some of the creative music you hear in puzzle games, it's a disappointment. Everyone has the Tetris theme stuck in their head, but will never have a KLAX theme to hum.
+
+One big thing this game lacks, and it's a real bummer, is 2-player. You can't challenge a friend unless you keep your hi-score. That's a real drag considering how awesome it would have been to be able to dump tiles on them. One other thing, the plunger, at times, seems to be sticky and doesn't want to move fast enough. This can become very annoying in later levels or when you want to pull off a complex combination. With these minor flaws, KLAX still doesn't lack and is a great pleasure to play. Pick it up if you have a few hours to burn!
+
+KLAX, KLAXes up a score of 8 out of 10.
+
+Directions:
+
+First, let me explain the concept of this game. In KLAX tiles roll down the top conveyor belt in several different colors. As they descend you must catch them on the plunger. The plunger can hold up to five tiles before it overflows and every additional tile "caught" will fall off the screen.
+
+Once your drop-meter fills, you lose. Once tiles are on the plunger, you toss them down to the platform below. Tiles stacked on the plunger will toss as they are ordered top to bottom, allowing you to pull off some interesting combinations. When three or more tiles of the same color touch in either horizontal, vertical or diagonal manner you have formed a KLAX, those tiles tally up a score and disappear, and any remaining tiles on top of the disappearing ones fall again, allowing interesting combinations if you stack properly. If you fill up the platform below, you lose as well, so be sure to catch the tiles, get rid of them quickly, and keep your base clear.
+
+Each level in KLAX is called a Wave. In order to clear a wave you must meet the requirements at the bottom of the screen. Some Waves require you to meet a certain score or KLAX, others require you to collect four tiles, not three, and some require diagonal, horizontal, or vertical only! This makes the game all the more unique and challenging, at the same time remaining fun! Since the rules of the game keep changing, it encourages you to play diligently and pay close attention to every tile! It keeps you very entertained as it's not the same block and same skill every time. This is what makes the game truly stand out, because in most puzzlers you just hit a certain score and it grows in difficulty on the same board, same rules. Having separate waves adds to unknowing! Every so many waves you will have more colors to deal with, a faster conveyor belt, and harsher stipulations. It will keep you coming back for more, intrigued as to what else you can uncover and how far you can go! Every 5 waves you're presented to a warp. Take the warp and you can increase your score with a high bonus and more drops, but it becomes very difficult. This is the great challenge of whether you should leap ahead or not, adding a faster pace to the game and some good decisions. Also, every 5 waves your theme will change, keeping from the same boring screen and adding a bit of interest to what odd designs you can reach!
+
+Be wise as you drop, and form inevitable combinations. Forming combinations will not only help eliminate tiles, but add a multiplier to each consecutive KLAX you earn. This is the quickest way to reach the hi-score! Make sure to meet each Wave's requirements and make your way through each of the 100 waves included in the game! Each wave is important, score as high as possible with the fewest tiles used. At the end of each wave your score is tallied in many ways, so be sure to hold many tiles on your plunger when you win, have minimal tiles on the platform, and win with a combination! This game is simple, score high and go far!
+
+Trivia:
+
+Strictly speaking, this isn't a coin-op conversion per se, as the home and arcade versions were developed alongside each other. The top home versions (PC, Amiga and ST) are identical to the arcade game.
+
+Controls:
+
+A Button: Drop Tile
+B Button: Drop Tile
+C Button: Drop Tile
+Start Button: Start/Pause
+
+Hints:
+
+Easiest Setting
+At the Options menu, highlight DIFFICULTY and press C button ten times. This mode is extremely easy!
+
+Warp to Wave 49
+On Wave 6 or 11, if you can manage to create an X using the same colored tiles, across the entire platform ( one big X using 9 tiles) you will be warped to Wave 49!
+
+Reviewer: Aggort, keth
+http://www.consoleclassix.com/genesis/klax.html
+http://www.mobygames.com/game/genesis/klax
+http://en.wikipedia.org/wiki/Klax_(video_game)

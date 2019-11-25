@@ -1,0 +1,37 @@
+Bubsy is a cartoonish fellow for one amazingly popular game. He is by far one of the first ever well-remembered animal characters in a side scroller and probably gave Sonic a boost, and Sly and Crash a head start! This platformer has very colorful and well drawn graphics. The sound effects are cute and the music is kinda catchy. The controls are simple to learn, but Busby seems to slide a little after you stop pushing the button, so be careful. This game is amusing for a long time of enjoyment. Even when you die, it makes you laugh.
+
+Directions:
+
+The player moves Bubsy left and right along the screen with the D-pad, jumps with the B button, and glides with the A button. Enemies are defeated by jumping on top of them. Touching an enemy while not falling on top of him will cause Bubsy to lose a life.
+
+The player scores points by collecting yarn balls, defeating enemies and finishing the level. T-shirts conferring extra lives, invincibility, and invisiblity are present. Being a cat, Bubsy starts with 9 lives. However, Bubsy is very vulnerable. He'll instantly die if he touches an enemy from the sides, gets hit by an enemy projectile, steps on something pointed, falls too far without gliding, or lands in water, thus making it very hard to survive. Another problem is Bubsy's lack of traction, which makes him hard to control and can result in many deaths. Whenever Bubsy dies, a comical death animation is shown.
+
+Controls:
+
+A Button: Jump/Glide
+B Button: Jump High
+C Button: Look Around
+Start Button: Start/Pause
+
+Hints:
+
+Chapter Passwords
+JSSCTS Chapter 01
+CKBGMM Chapter 02
+SCTWMN Chapter 03
+MKBRLN Chapter 04
+LBLNRD Chapter 05
+JMDKRK Chapter 06
+STGRTN Chapter 07
+SBBSHC Chapter 08
+DBKRRB Chapter 09
+MSFCTS Chapter 10
+KMGRBS Chapter 11
+SLJMBG Chapter 12
+TGRTVN Chapter 13
+CCLDSL Chapter 14
+BTCLMB Chapter 15
+STCJDH Chapter 16 
+
+Reviewer: adrian
+http://www.consoleclassix.com/genesis/bubsy.html

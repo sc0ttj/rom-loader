@@ -1,0 +1,3 @@
+Originally, this started as a script and graphics improvement by Phin. However, I took the project under my wing and developed on it further, adding a whole new script, bug fixes, even more graphical improvements and a few changes to game balance. Enjoy!
+
+http://www.romhacking.net/hacks/182/

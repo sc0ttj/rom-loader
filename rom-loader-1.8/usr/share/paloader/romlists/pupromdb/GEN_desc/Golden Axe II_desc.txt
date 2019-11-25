@@ -1,0 +1,49 @@
+SAVE THE WORLD FROM CHAOS!
+
+The evil lord Dark Guld should have been put away for good the last time he was defeated in battle. But now he has recouped and is back in full force. And he's accompanied by his clan of evil followers who are creepier, slimier and more disgusting than ever.
+
+Dark Guld has come for revenge and he is driven by the desire to see this world revert to chaos. He has taken the powerful Golden Axe, which is a symbol of peace and prosperity, to use for his own evil purposes. His creatures terrorize every town they descend upon. Someone must put a stop to this horror!
+
+Once again, three warriors stand up to face the oppressors. One is Axe- Battler, the fierce barbarian; the second is Tyris-Flare, the ferocious Amazon; and the third is Gilius Thunderhead, the fearless dwarf. They are willing to risk their lives to put a stop to the terror. They won't rest easy until the Golden Axe is returned to its rightful place.
+
+It's time to start the long journey through enemy-infested territory. Don't let the strange reptilian enemy creatures frighten you, because you'll need every ounce of courage you can muster. Fight onward until you reach the final showdown, a battle with Dark Guld himself!
+
+--From the Genesis Golden Axe 2 instruction manual.
+
+Gameplay:
+
+Golden Axe II is a side-scrolling arcade hack 'n' slash game, very similar to the previous Golden Axe. The player is given a choice of three fighters: a battle axe-wielding dwarf, Gilius Thunderhead; a barbarian, Ax Battler, wielding a two handed broadsword; and long-sword wielding Tyris Flare, an amazon. Each of the fighters has a unique magic which can be used at any time in the game to inflict damage upon enemies. Each player is given a set of life bars which are lost one by one if the player is hit.
+
+Though the characters and gameplay were virtually unchanged from the first game, there were a few improvements. The "back attack" (performed by pressing the Jump and Attack buttons simultaneously) for each character was changed to a more useful attack that hit enemies on all sides. Enemies could now be thrown in either direction by pressing right or left on the D-pad immediately after picking them up, allowing you to hit other enemies with them. Most importantly, the magic system was overhauled. Whereas in the first game, pressing the magic button used all of a player's magic pots, one could now use part or all of one's magic by holding the button and releasing it when the meter had reached the desired level. The magic was also changed - Ax Battler's exploding magic from the first game was replaced with wind magic, and Gillius Thunderhead now used rock magic instead of lightning. Tyris Flare retained her fire magic, but was still given entirely new animations for it. Finally, there were small cosmetic changes in the form of a shoulder guard for Ax Battler and black gauntlets for Gillius Thunderhead.
+
+There are two types of game modes, one is "The Duel" where players are pitted against enemies in one arena, battling one after the other and gradually getting more difficult. The other is normal mode, where players must navigate through different areas battling various enemies.
+
+Between each level a rating is awarded to the player(s) based on their performance, with a final rating awarded at the end of the game. A small exposition of the main story is also given.
+
+- Normal mode -
+Normal mode puts the player into the story of the game, where they must recover the golden axe from Dark Guld. The player must navigate through multiple areas until eventually they reach Dark Guld's castle. Each area ends with a boss where the player must battle a large group of enemies at once. Magic books are also gathered along the way allowing the player to increase their magic meter.
+
+- Duel mode -
+The duel mode consists of multiple rounds where the player must stand of an enemy, or a group. Every round is set in the same scenery.
+
+Hints:
+
+- Full Magic -
+Enter the options menu and select the ''Special Magic'' option. Begin game play and Hold A when the music for the Bosses on levels 1 to 4 begins to play. Defeat the Boss while holding A. Release the button when the screen turns black and your character is transported to the bonus level. Do not press any buttons or move the D-pad. When the next level begins, player one will cast a spell that will increase the magic points to 255. Note: Do not use more magic points that what your character normally is allowed to use. Doing so will freeze the game.
+
+- Level Select -
+While the opening screen scrolls, simultaneously hold down a, b, c and start. Still holding A, realease b and c and press them again. This will bring you to the options screen. Still holding a, let go of the other two, pick 'exit,' and press b and c once more. You'll be back at the main menu. Still holding a, release b and c and hit them again to choose the number of players. Keep all the buttons down and press start. Release only start, select your character, then still holding down a, b and c, press up and hit start. You can now select the level you want to play.
+
+- Level select; 8 credits (ultimate procedure) -
+With the cursor go to ''options'' sign.
+Now press & hold A+B+C.
+In the options screen relase only B & C
+Now configure game if you want.
+From now on ever use B to confirm successive selections,
+until the warrior selection.
+For the 8 credits, the cheat is identical, but you must relase only A and use START to confirm successive selections.
+
+http://www.consoleclassix.com/genesis/golden_axe_2.html
+http://www.mobygames.com/game/genesis/golden-axe-ii
+http://en.wikipedia.org/wiki/Golden_Axe_II
+http://www.gamefaqs.com/console/genesis/code/586214.html

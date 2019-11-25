@@ -1,0 +1,297 @@
+Exciting Baseball is a Baseball Sim game, published by Konami, which was released in Japan in 1987.
+
+http://www.gamefaqs.com/console/fds/home/578513.html
+*
+********************************************** F **********************************************
+*
+ac7ed005
+Fairy Pinball - Yousei Tachi no Pinbal
+Platform - Famicom Disk System
+Region - Japan
+Media - Disk
+Controller - NES Gamepad
+Genre - Adult
+Developer - Hacker International
+Manufacturer - Hacker International
+Players - 1
+@END
+I'm not kidding when I say that Video Pinball for the 2600 is far superior to this game. Choppy graphics and gameplay that defies physics make for a painful gaming experience. 
+
+When I finished the short game, that blonde girl with oversized blue eyes looked so sad for me and the size of my.... um score.
+
+Reviewer - Ressurectionx
+Bad News Baseball has made-up players and teams. Note that this game has both a "boys mode" and a "girls mode", though you can hardly tell the difference (you can see the hair is a bit longer in girls mode). As the manual states " Unfortunately, in this mode, the zoom-up display shows only boy players. Sorry for letting you down.". You have to be a contortionist to get this mode, too.
+
+Easter Eggs - 
+The official code of Digital Press staffers - play with an all female team! To change all the rosters to girls' teams, hold Down/Left on controller 1 and Up on controller two, then hit Reset. The cursor at the main menu will change from a baseball into a heart.
+
+http://www.digitpress.com/
+Baseball is a game where you can pitch, hit, field, and run just like in a real baseball game. You can choose between USA and Japan modes, two different teams, and among a line-up of unique players. In the 1-player game, you play against the computer, and the in the 2-player game, your friend is your opponent.
+
+Gameplay - 
+Despite its simplistic graphics, Baseball had fairly sophisticated control of pitching and batting. Though entirely 2-D, the system of curving and varying the speed of the ball allowed for a handful of tricky pitches, and too many fastballs will wear out the pitcher's arm. For such an early game, the success with which it exhibited intuitive controls is outstanding. In Batting, for example, the player can vary where in the box the batter is standing simply by using the arrows before the pitch, and stopping the swing early attempts a bunt. Timing (and the placement of the ball) determines the path of the ball in a logical, and even consistent way. The fielding aspects of the game are less impressive, with the player only controlling the actions of the outfielders after they've stumbled along to retrieve it. The infielders have slightly better instincts, and it is a challenge to steal a base against a pitcher who can see the whole field. Overall, the skill most crucial in the game is making the right decisions, rather than mastering a complex control scheme.
+
+http://en.wikipedia.org/wiki/Baseball_(Nintendo_game)
+http://www.mobygames.com/game/nes/baseball
+Has made-up players and teams. In fact, this one even has made-up physics (balls splitting in two, turning invisible, and the like)! Features battery back-up.
+
+Periodicals - 
+Named "Best NES Sports Game of 1990" by Game Players' Magazine. Received honorable mention for "Best Sports Game of 1990" by Video Games & Computer Entertainment Magazine. Received "Best Sports-Themed Nintendo Game of 1989" by Electronic Gaming Monthly.
+
+http://www.digitpress.com/
+Player, manager, owner... You can do it all in Baseball Stars! Make your own team and leagues; hire, fire, and trade players; develop your players from inexperienced rookies into veteran pitchers and hitters. Play against a friend or the computer - you'll never have to worry about being rained out again!
+
+--From the NES Baseball Stars instruction manual.
+
+Gameplay - 
+Simple graphics are coupled with repetitive upbeat 8-bit music. The pitching is simple - curve balls, fast balls, off speed pitches, and sinkers. The batting is a swing on a level plane, thus it is simply a question of timing. The fielding, at the time, was a revolution in arcade baseball; it achieved a level of realism unseen prior to its release. This realism, coupled with ease-of-fielding features contributed to the game's popularity. These ease-of-fielding features are characterized by examples such as - off-screen fielders automatically drifting towards fly balls, fielders catching balls anywhere near them, the ability to jump and dive, infielders shifting to prevent extra base hits down the line when men are on base, etc.
+
+Seasons and vs. - 
+Baseball Stars includes a simple one-off versus mode, but it provides the option of creating a mini-league of up to six teams, with each team playing up to 25 games against every other team. That means a season with a maximum 125 game schedule can be created. When making a season, one chooses how many teams, how many games, and which teams are controlled by the AI (computer) and which are controlled by the gamers. In vs. mode no stats, such as wins, losses, hits, or home runs are kept but money can still be won when a player controlled team plays against an AI controlled team. No money is won in this mode when it is player vs. player. Versus mode games can be considered exhibition games.
+
+Teams - 
+There can be a total of 14 teams. Eight teams come with the game and six more teams can be created. The original eight cannot in any way be edited or changed.
+
+Although the game does not use any real Major League Baseball teams, one of the default teams, the American Dreams, included players with names that are based on real (former) baseball players such as "Pete" (Pete Rose), "Hank" (Hank Aaron), "Babe" (Babe Ruth), "Sandie" (Sandy Koufax), "Cy" (Cy Young), "Denny" (Denny McLain), and "Willie" (Willie Mays). In addition, the Japan Robins included a player named "Oh," presumably after Sadaharu Oh of Japan's Nippon Professional Baseball.
+
+The other default teams are the Ninja BlackSox, Brave Warriors, Japan Robins, World Powers, Ghastly Monsters, Lovely Ladies (an all-women's team), and SNK Crushers.
+
+When creating a new team, one is given the option of choosing its main strength (for example - defense, running, batting, balanced, etc). This does not mean that a chosen strength will remain with the team forever. The option simply favors the chosen attribute when the computer randomly generates the players. Each new teams gets about $30,000 to start and 18 players (5 pitchers, 8 batters, and 5 pinch hitters). From there, games are played and games that are won earn money for the team. Players on created teams can be modified and improved as well as traded amongst other created teams. It must be noted, though, that a pitcher cannot be traded for a batter; it must always be batter for batter or pitcher for pitcher. There is also a free agent market in which players can be bought ranging in price from $5,000 to $2,980,000. Since there is a limit of 18 players per team, before a free agent can be bought, a player must be fired.
+
+Statistics - 
+In season play, the game conveniently keeps track of various stats. By going into the SEE STANDINGS menu, it can be seen how each team fares compared to each other team, each teams' win/loss records, top ten batting averages, top ten home run batters, top ten RBI hitters, top ten ERA pitchers, top ten winning pitchers, and top ten save leaders.
+
+Each individual player's batting average and home run totals can be seen when that player is up to bat and individual pitcher's ERA is shown when that pitcher is pitching. With the exception of a pitcher's ERA, stats are current when a player steps into the batter's box.
+
+Mercy Rules - 
+The game has a 10-run mercy rule. Thus, if at the end of any inning, one team is up by a total of 10 runs, the game is called in favor of the leading team. In addition to the 10-run mercy rule, there is also a 100-run mercy rule. If at any point in the game one team attains a lead of 100 or more, play is immediately stopped and a winner is declared, even though the inning is not over. For example, if the visiting team scores 100 runs in the top of the first inning, the visiting team will be declared the winner and the home team will not even have the chance to bat. If the game remains tied after 18 innings, the game is over and no winner is declared; all hits and other stats are not saved - as if the game never happened.
+
+http://www.consoleclassix.com/nes/baseball_stars.html
+Has made-up players and teams. Most sports game of this generation did.
+
+http://www.digitpress.com/
+It's the top of the ninth and you're at bat in the seventh and final game of the World Series. Your team is ahead by one run - that's not a lot, since your opponent just scored three in the eighth!
+
+You've battled back in every game - no one figured it would be this tough. Your best hitter is in a slump; but, the rookie has gotten a hot bat the past two games. The bottom of your line-up will face your opponent's ace reliever. They've got the momentum. But you've got the heart.
+
+So, ready for what could be your last at-bat, you've got to pick your hitters carefully. Use your imagination. Catch your opponent off guard. Wait for the right pitch. Bunt. Steal. Play aggressively or don't play at all.
+
+The inning you've been waiting for all season is finally here. Make the most of it. After 11 years of waiting, you're ready to wear that World Series' ring and bring home that trophy.
+
+--From the NES Bases Loaded instruction manual.
+
+Overview - 
+Bases Loaded is filled to the brim with eight bit fun. The graphics were good for the time. It was the first game to be in the perspective of the pitcher. Prior to this, baseball games were usually from the batter's perspective, or an overhead view of the whole field. It was also the first baseball game to make the batter have to decide to swing high or low. The attention to detail made this game worthwhile. You can make substitutions while batting or pitching. Definitely a good attempt at realism. The sounds were realistic, but the music was annoying.
+
+Directions - 
+Compete with your friends in baseball, or join the race for the pennant by yourself. Choose your team and play the best game of baseball you can. When playing offense, you can swing the bat by pressing A.
+
+Watch the catcher's glove to see where the ball is headed, and press down while you swing if the ball goes low, and press up while you swing if the ball is going high. You can also press B to bunt, but you will still have to move the bat up or down to make sure you hit the ball. After you hit the ball you can press down and A at the same time to make your baserunner run. If you press down and B the runner will go back. Also if you press down and B while you're batting and have a runner on base, the runner will try to steal.
+
+When you play defense you can press A to pitch the ball, or B to try to pick off a runner that is on base. Pressing the D-pad before you throw it will move the pitcher on the mound. Pressing the D-pad while the pitcher is in his wind up will move the ball's path. Pressing up will add speed and pressing down will make it slower. While fielding the ball, you can throw to the different bases by pressing the d-pad while throwing the ball. Right will throw it to first, up will throw it to second, left will throw it to third, and down will throw it home. Pressing both buttons at the same time when the ball tries to go by a fielder will make that fielder slide or jump for the ball. At any time during the game you can press Start to call timeout and make substitutions. 
+
+Controls - 
+Start Button - Pause/Timeout
+Offense
+A Button - Swing, Run
+B Button - Bunt, Return
+Defense
+A Button - Pitch, Throw
+B Button - Pick Off, Throw
+
+Hints - 
+Selecting a Pitcher
+- When selecting a pitcher remember that the lower a pitcher's E.R.A., the better he is.
+
+Reviewer - Adrian
+- http://www.consoleclassix.com/nes/bases_loaded.html
+Like its predecessor, Bases Loaded II offers both a single-game mode and a single- player "pennant race" mode. In the "pennant race", a player must first achieve at least a 75-55 record during the regular season, then win a best-of-7 "World Series" against L.A. or N.Y. depending whether you have chosen a team from the Eastern or Western league respectively.
+
+Though some characteristics remained the same between Bases Loaded and Bases Loaded II (e.g. the same fictitious 12-team league returns in this game, with new players. It is worth noting that all of the players on the Washington, D.C. team are named after famous politicians, while all of Los Angeles's players take their names from Hollywood luminaries. In addition, one of Hawaii's pitchers is named Ho.), there are several noteworthy changes. One new feature was the "biorhythm" concept; players in the game had "biorhythms" that could be monitored to ensure optimal performance. Bases Loaded II had a little faster play action then the original game, and the point of view once a ball was hit into play was also different. In Bases Loaded the view was from behind home plate, whereas in Bases Loaded II the view was either from the first-base line if the ball was hit to left field, or from the third-base line if the ball was hit into right field.
+
+http://en.wikipedia.org/wiki/Bases_Loaded_II:_Second_Season
+Playball -- like you've never played it before! Ryne Sandberg Plays Bases Loaded 3 not only offers you the great graphics, sound and gameplay you've come to expect of Jaleco's Bases Loaded series of games, but also adds the most demanding baseball challenge possible -- to play the perfect game!
+
+Sure, we've also changed the fielding perspective to a centerfield camera point of view to make fielding more realistic. And we've made fielders much larger than they have been in any other Bases Loaded games. We've also added an EDIT team so that you can alter the statistics of the players. And yes, we've added the choice of three ballparks, each with unique characteristics. And of course you can make diving stops and leaping grabs, throw curves and changeups, make lineup changes, bunt, steal bases, and everything else you expect from a great baseball game. But the biggest difference in Bases Loaded 3 is the challenge it makes to you -- can you play a perfect game?
+
+With Bases Loaded 3, winning the game is only part of the challenge of a one-player game against the computer. You won't beat Bases Loaded 3 unless you play a perfect game against the toughest team we can throw at you. And in two-player head-to-head games, expect nothing less than exhilaration! If you're anything like those of us at Jaleco who have played the game together, you'll scream at your player for making a bad throw, you'll taunt your opponent with biting sarcasm when his baserunner gets caught off third base, and you'll laugh together when your opponent scores seven runs in the bottom of the ninth to tie the game 15-15. We're pretty sure you're going to have a good time with this game -- because we sure do!
+
+--From the NES Bases Loaded 3 instruction manual.
+
+Overview - 
+This installment of the vast Bases Loaded series is a pretty good one. It plays just like the first two. The gameplay is the same as it was, but the gameplay was great, so that's a good thing. They kept the controls the same so there wasn't a big transitional phase between the games.
+
+The biggest difference is that this installment has much better graphics. The colors are better and so is the detail. The sounds are just as annoying if not more. You can turn the music off, but the sound effects are annoying too, so I suggest turning down the volume.
+
+Directions - 
+Compete with your friends in baseball, or join the race for the pennant by yourself. Choose your team and play the best game of baseball you can.
+
+When playing offense, you can swing the bat by pressing A. Watch the catcher's glove to see where the ball is headed, and press down while you swing if the ball goes low, and press up while you swing if the ball is going high. You can also press B to bunt, but you will still have to move the bat up or down to make sure you hit the ball. After you hit the ball you can press down and A at the same time to make your baserunner run. If you press down and B the runner will go back. Also if you press down and B while your batting and have a runner on base, the runner will try to steal.
+
+When you play defense you can press A to pitch the ball, or B to try to pick off a runner that is on base. Pressing the D-pad before you throw it will move the pitcher on the mound. Pressing the D-pad while the pitcher is in his wind up will move the ball's path. Pressing up will add speed and pressing down will make it slower. While fielding the ball, you can throw to the different bases by pressing the d-pad while throwing the ball. Left will throw it to first, up will throw it home, left will throw it to first, and down will throw it to second. Pressing both buttons at the same time when the ball tries to go by a fielder will make that fielder slide or jump for the ball. At any time during the game you can press start to call timeout and make substitutions.
+
+In this installment they added the ability to make your own teams by editing the teams offered by the game. You can also edit the stats of the players. You can make super men that never get tired, or make them really weak. There are three different ballparks, Chicago, L.A., and N.Y. Each one has it's own dimensions, making it a little easier or harder to hit home-runs. 
+
+Controls - 
+Start Button - Pause/ Timeout
+Offense
+A Button - Swing, Run
+B Button - Bunt, Return
+Defense
+A Button - Pitch, Throw
+B Button - Pick Off, Throw
+
+Hints - 
+Selecting a Pitcher
+- When selecting a pitcher remember that the lower a pitcher's E.R.A., the better he is.
+
+Reviewer - Adrian
+http://www.consoleclassix.com/nes/bases_loaded_3.html
+Batter up! Jaleco hits another one out of the ballpark with Bases Loaded 4... the ultimate experience for baseball fans who just want to get out there and play ball. We've included all the best features to create the greatest baseball game ever - you get lineup changes, realistic player stats, a centerfield perspective, easy-to-use controls, exhibition and regular season games, two-player mode, even a Super Series.
+
+In Bases Loaded 4, you coach your team just like they do in the big leagues. Study your players' stats, then assemble a lineup that'll stop the opposition in their tracks! A simple black and white star system shows you how each player is doing at a glance. If a player's performance starts to lag, you can send in a replacement from the bench or the bullpen. Study the opposing teams' lineups, too, so you'll know what you're up against when you meet that ace pitcher in the bottom of the ninth!
+
+The umpire decides when your players make an outstanding play or really blow it... and believe me, it affects how they play. You may not agree with the decision, but you can't argue with the ump - ask any big league coach! Because the computer keeps track of how your players are doing, you can throw yourself into the game - and we know you will. Whether you're pitching, fielding, batting, or stealing a base, just concentrate on winning and keep your eye on the ball... we'll take care of the rest!
+
+--From the NES Bases Loaded 4 instruction manual.
+
+Overview - 
+Bases Loaded 4 is yet another addition to the series. More of the same stuff, with a little bit better graphics. Jaleco made a good game that's a lot of fun and then rode it for all it was worth. This same recipe is a little bland after four games. It's a good game and fun to play, it's just the same old stuff. They could have added a home-run derby or something.
+
+The only thing I noticed other than the graphics was the addition of little blips that let you know where your outfielders are while the ball is in the air. The sound is a little better. The music is the same, but you can turn it off, and the sound effects were more realistic.
+
+Directions - 
+Compete with your friends in baseball, or join the race for the pennant by yourself. Choose your team and play the best game of baseball you can. 
+
+When playing offense, you can swing the bat by pressing A. Watch the catcher's glove to see where the ball is headed, and press down while you swing if the ball goes low, and press up while you swing if the ball is going high. You can also press B to bunt, but you will still have to move the bat up or down to make sure you hit the ball. After you hit the ball you can press down and A at the same time to make your baserunner run. If you press down and B the runner will go back. Also if you press down and B while your batting and have a runner on base, the runner will try to steal.
+
+When you play defense you can press A to pitch the ball, or B to try to pick off a runner that is on base. Pressing the D-pad before you throw it will move the pitcher on the mound. Pressing the D-pad while the pitcher is in his wind up will move the ball's path. Pressing up will add speed and pressing down will make it slower. While fielding the ball, you can throw to the different bases by pressing the d-pad while throwing the ball. Left will throw it to first, up will throw it home, left will throw it to first, and down will throw it to second. Pressing both buttons at the same time when the ball tries to go by a fielder will make that fielder slide or jump for the ball. At any time during the game you can press start to call timeout and make substitutions.
+
+In this installment, they got rid of a couple features. The Edit Player Stats system was removed. This was a mistake in my opinion. It was a pretty neat feature. They also got rid of the different ballparks. You don't even get to choose the stadium, which was another thing that gave the player a better sense of control. 
+
+Controls - 
+Start Button - Pause/ Timeout
+Offense
+A Button - Swing, Run
+B Button - Bunt, Return
+Defense
+A Button - Pitch, Throw
+B Button - Pick Off, Throw
+
+Hints - 
+Selecting a Pitcher
+- When selecting a pitcher remember that the lower a pitcher's E.R.A., the better he is.
+
+Reviewer - Adrian
+http://www.consoleclassix.com/nes/bases_loaded_4.html
+Has made-up players and teams, although they try to simulate the real thing (i.e. Boston's 1991 ace is "Clemonds").
+
+Easter Eggs - To play with a team made up entirely of Bo Jackson's (!), choose a team and from the roster screen, press Left, Select, and B all at the same time.
+
+http://www.digitpress.com/
+This game is Baseball of the future...except with weapons. This game is a Sport/Baseball game. It basically follows the rules of Baseball, but with a few important differences. It involves multiple weapons that you can upgrade. There are no referees in Basewars. Instead, when you get in a pickle you have to fight the baseman with whatever weapon you have.
+
+There is a multiplayer feature where you can both play at the same time and not have to take turns. The robots don't really have uniforms but different color body paint. Don't worry, it's easy to tell which team is which.
+
+The graphics are good for the time period, but the sound could have been better.
+
+Directions - 
+There are two different game modes - Open mode and Pennant mode. Open mode is a quick play mode which puts you in a game right away. Pennant mode is a tournament mode where you play a series of games against five different teams.
+
+There are four different types of robots on each team, with different abilities.
+
+They are mcycles, cyborgs, tanks, and flybots. Mcycles are made for speed, but can't turn very well. Tanks are slow, but powerful. Cyborgs are average in all abilities. Finally flybots are the unique robots, they don't have legs but they can hover and attack rapidly.
+
+The Best weapons on the game are the laser sword and the laser pistol, but there are other weapons you can buy, including iron gloves, fire guns, muramasa, hand guns, and engine upgrades. 
+
+Controls - 
+A Button - Punch/Attack
+B Button - Pitch/Swing bat
+Start Button - Pause
+Select Button - Nothing
+
+Hints - 
+Laser Weapons
+- Go to Team Edit, then choose Team A or B. Now enter ''Terminator'' as your name.
+- Team A will have laser guns. Team B will have laser swords.
+
+Reviewer - wbowers
+http://www.consoleclassix.com/nes/basewars.html
+Dusty Diamond's All-Star Softball (released in Japan as Softball Tengoku) is a one- or two-player NES game where players can pick and choose various fictional softball players and customize their own team to take to the championship. The player can even pick a letter out of the alphabet to customize his team name with.
+
+In the original Japanese version, however, monsters like Draculas, mummies, ghosts and other fantasy creatures could be selected. Once that is done, the player then selects a field (with each one of them having its own special house rules).
+
+http://en.wikipedia.org/wiki/Dusty_Diamond%27s_All-Star_Softball
+Legends of the Diamond is a Nintendo Entertainment System game that features legends of the baseball world including Babe Ruth and Lou Gehrig, among others. There is exhibition mode as well as tournament mode, that can be loaded with passwords. Each player uses his career stats to determine how good he plays on the baseball field. Fielders have to controlled manually and baseballs can be manipulated mid-flight like in an arcade game.
+
+http://www.nesguide.com/games/legendsofthediamond/
+You get your choice of 16 teams to play, eight domestic teams and eight foreign teams from Asia and Europe. In One-Player mode you play the computer in an international tournament. For Two Players, you each have a squad in the tourney. All games are seven innings long.
+
+To help you pick a team, Power Analysis screen enables you to see how teams rate on hitting, pitching, overall defense, and running. When you're up to bat you can move around in the box, control your swing, and bunt. Pitcher's have a choice of fastball and changeup, and curving the ball left and right.
+
+On defense, all players can dive for balls or jump up to snare line drives. A great defensive plus here is the ability to move players into pre-set defensive shifts, for example, to defend against pull hitters or bunts
+
+http://www.nesguide.com/games/littleleaguebaseball/
+Officially licensed by Major League Baseball, the most immediately visible aspect of the game is that it features all twenty-six teams that existed in 1987. In addition, the lineups and the player numbers are accurate to the team rosters that year. Since the game did not have the endorsement of the Major League Baseball Players Association at the time, the team members are only listed by number, not name. This means that, in modern times, it is difficult to ascertain who the actual players are. In addition to their numbers, the players are represented by their statistics, abilities, throwing arm and even placement in the batting order. 1988's Major League Baseball was therefore the first NES game to be officially endorsed by Major League Baseball and to feature accurate contemporary lineups, albeit without the actual player names attached to their numbers.
+
+Managerial decisions are an important focus and, based on the reviews, a large portion of the appeal of this version. Game players are allowed to select their own lineups, although the game lacks Sabremetrics statistics due to the limitations of the era. Instead, the "manager" must make their decisions based on data such as player's average and home run totals. They also have the ability to change and decide who will be a pinch-hitter and who will be a substitute pitcher. One is even allowed to pick out a designated hitter. The game prohibits one from putting out more team members in a certain part of the field than would normally be allowed, which makes deciding which player will be used where a crucial part of the experience. There are three modes that can be played with teams from either the American League or the National League - regular season games, All-star games or the World Series (interleague). The World Series rounds, however, are only one match each, which is not accurate to the real World Series. 
+Due to the licensing, the teams even appear complete in their official uniforms and colours and also have all the options that a real baseball player would have, including bunting, pitching out, base stealing and throwing errors.
+
+Gameplay Issues - 
+Pitching in the game contains several flaws. The quality of the AI means that when the computer plays as the batter, it hits nearly every ball it swings at, making it difficult for the player to perform a strike and only slightly easier to manage a walk. This forces the player to pitch fastballs, which in turn quickly wears the pitcher down to a point where he can no longer maintain the required speed. Furthermore, the pitcher is unable to move around the pitcher's mound. Many are also able to perform the feat of 100 mph (160 km/h) pitches.
+
+Upon contact, the system's fielding is flawed as well. The rapid pace of the batters running to the base, combined with the "erratic" speed of the ball means throwing out an opponent is an extremely difficult feat. The ball's physics have been called into question, with the ball stopping on a dime after three or less bounces. Furthermore, even catching a fly ball requires much effort because of the slow and uncoordinated rate at which the outfielders run. The game's camera system does not function properly either. When a ball is hit, the outfield camera follows the ball looking upwards, making it impossible for the game player to see where their fielders are.
+
+The ball can also be thrown and get stuck in the well between the stands and the field on an overthrow of a baseman, and cause inside the park home runs, which would not happen within a real game (in that case a ground rule double and/or error would be scored instead). Another bug allows players to go into the stands past the wall with the ball if they enter at certain points in foul territory. There are also gameplay issues when the player takes their turn to bat. The AI is not developed and, when the player hits a pitch, it nearly always takes the longest possible route to the ball, making runs easy to score. It also lacks the capability to throw out a runner who is returning to a base (instead of advancing) or perform a double play after catching a fly ball. Furthermore, the batter can only move vertically, not horizontally, in the batter's box, meaning many balls on the edge of strike zone are often missed.
+
+http://en.wikipedia.org/wiki/Major_League_Baseball_(video_game)
+No other baseball game gets you closer to playing in the big time than R.B.I. Baseball. Because every one of the ten teams in R.B.I. Baseball contains the rosters and player stats officially licensed from the MLB Players Association. Like real baseball, these skills and stats affect the outcome of every play. Like a real manager, you'll need to make good use of this vital information - and wise strategy decisions - if you want a winning record. R.B.I. Baseball is so intensely realistic, we've added amusing animation and a touch of humor to keep the action light-hearted and fun. You can play against the computer in a nine game season or compete against a friend in your own best-of-seven series. Stop playing with no-names and step up to the plate with real superstars in R.B.I. Baseball!
+
+http://www.gamefaqs.com/console/nes/home/587559.html
+RBI BASEBALL first set the standard as the only baseball game for play on the NES to use real players and their stats. RBI BASEBALL 2 raises the standard to a new level - You get all 26 pro teams, each with a roster of 24 real players. Every player comes with his actual 1989 stats. There's instant replay, as well as new and improved animation, graphics, music and sound effects to make the game come alive. As the manager, you get the designated-hitter rule, switch-hitting, and your own lineup of starters and subs. It's so great, it's approved by the Major League Baseball Players Association!
+
+http://www.gamefaqs.com/console/nes/home/587560.html
+R.B.I. Baseball 3 took the popular baseball series a step further statistically, adding each Major League Baseball division winning team from 1983-1990, in addition to the 1989 All Star teams and all 26 1990 teams (with full 1989 statistics). Want to see how the 1986 Mets might have done against the 1987 Twins? Here's your chance.
+
+The game was licensed by the Major League Baseball Players' Association; thus, real Major League players and statistics are included, but the teams themselves are represented only by their home cities. Team names are not used. Also, retired players who were no longer under contract with the MLBPA in 1991 are not present. Rather, they are represented by their initials and their fielding positions. Game mechanics remain unchanged from R.B.I. Baseball 2, focusing more on arcade fun than realistic gameplay.
+
+http://www.nesguide.com/games/rbibaseball3/
+Join one of the most dominant pitchers in baseball history... More for Roger Clemens' MVP Baseball. While the game does not come with the license of Major League Baseball or the MLBPA, there are still 26 similar teams with rosters resembling those of their actual MLB counterparts, including 1991 statistics.
+
+Though player names could not be used, the fictional ones make it apparent who each player represents. For instance, you can strike out one of Oakland's Bash brothers (M. Bash or J. Bash) with Texas' R. Nolan or hit a home run with Detroit's C. Fieldman off of Chicago's M. Gaddox. The gameplay of Roger Clemens differs from that of most NES baseball games. Though the batting scenes may resemble those typified by R.B.I. Baseball and Major League Baseball, the view switches to what one might see from the outfield stands once the ball is hit. This results in different controls from most baseball games as well.
+
+A player can challenge a friend or the computer, and one-player games may be exhibition or part of a 33-game season, complete with playoffs once the season is complete. In order to help make your season a successful one, Roger Clemens himself is there to offer advice. ~ Christopher Michael Baker, All Game Guide
+
+http://www.nesguide.com/games/rogerclemens/
+Softball Heaven plays just like every other Nes baseball game. Except this one is actually fun because you get to play as all sorts of strange animals, mythical figures, and whatnot. You can even be Mike Tyson! Also, there are a bunch of different fields to play on, each with it's own house rules. Softball Heaven is about as fun as baseball is going to get on the Nes, so you should give it a shot. But then again, Sunday Funday is about as fun the Bible is going to get on the Nes, so I guess that isn't the best reasoning ? aw hell, just play the damn game.
+
+Translation Description - 
+Can you imagine having to translate all those stupid names? Bleh. Anyway the game's complete, even though the title screen kinda sucks.
+
+Reviewer - wraith
+http://romhacking.net/trans/215/
+Tecmo Baseball is a video game developed by Tecmo for the Nintendo Entertainment System. Released in January 1989, it was a game for baseball. There were three modes for the game; 1 player, 2 player, and watch. In addition to games between teams, there was also an all-star game with the best players in the game. The game has become very popular on college campuses.[citation needed] One of the major drawbacks of this game is that the pitchers become tired after only a few innings.
+
+There was a National division (comparable to the National League) and an American division (comparable to the American League, although both divisions only featured seven teams each. The National teams were - St. Louis, San Francisco, New York, Cincinnati, Los Angeles, Atlanta and Chicago. The American division teams were - Minnesota, Detroit, Milwaukee, New York, Boston, California, and Texas.
+
+All the players on the teams had names and statistics similar to those of real Major League ballplayers. A player on the Detroit team was named Arex but his statistics were those that Alan Trammell of the Detroit Tigers had in 1987. The best teams in the game were St. Louis and Minnesota, the two teams that also played each other in the 1987 World Series.
+
+No other baseball game gets you closer to playing in the big time than R.B.I. Baseball. Because every one of the ten teams in R.B.I. Baseball contains the rosters and player stats officially licensed from the MLB Players Association. Like real baseball, these skills and stats affect the outcome of every play. Like a real manager, you'll need to make good use of this vital information - and wise strategy decisions - if you want a winning record. R.B.I. Baseball is so intensely realistic, we've added amusing animation and a touch of humor to keep the action light-hearted and fun. You can play against the computer in a nine game season or compete against a friend in your own best-of-seven series. Stop playing with no-names and step up to the plate with real superstars in R.B.I. Baseball!
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.gamefaqs.com/console/nes/home/587559.html
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

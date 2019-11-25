@@ -1,0 +1,56 @@
+You are probably aware that there are a great many hacks of "The Legend of Zelda". So why bother creating yet another? Well, I beleive that even at this hack's early stages of development, it surpasses many others in terms of graphical enhancement. The graphical additions are borrowed largely from "Link's Awakening", but in some cases, are improvised following the tradition of modern (post 1990) Nintendo graphic art. A slight amount of text has been varied, and there have been no dungeon or overworld changes to date, although once I have completed updating the graphics, you can expect to see a separate version containing the "third" and "fourth" quests, possibly with a few added enemies and characters.
+
+http://www.romhacking.net/hacks/26/
+A patch that changes link into Cartman, and Kyle's mom into Ganon. The overworld and text are changed around too...
+
+http://www.zophar.net/hacks/nes/legend-of-zelda/southpark-zelda.html
+Overview - 
+In one of the darkest times in the Kingdom of Hyrule, a young, pointy-eared boy named Link takes on an epic quest to restore the fragmented Triforce of Wisdom and save the Princess Zelda from the clutches of the evil, power-hungry Ganon.
+
+The Legend of Zelda for the NES marks the first action-adventure title of the popular Nintendo series. Players must make their way through the various forests, graveyards, plains, and deserts of the Overworld to find the secret entrances of the eight dungeons in an attempt to piece together the broken Triforce. Once all pieces are joined, Link will be able to gain entry to Death Mountain, home of Ganon, and prison of Princess Zelda.
+
+The Legend of Zelda is known for several factors that were revolutionary at the time - A full world that could be freely explored, power-ups that would permanently enhance your character's abilities, and a battery back-up save feature that allowed players to retain their progress instead of having to start over. The gameplay balanced out frequent action sequences with discovery, secrets, and exploration.
+
+Controls - 
+A Button - Input letter on Register Screen, Use Sword
+B Button - Backspace on Reg Screen, Use selected item
+Start Button - Items Menu
+Select Button - Select game file, Pause
+
+Hints - 
+Save game
+Press Start on Controller #1 to bring up the pause menu. On Controller #2, press Up and A, then a screen with the options 'Continue, Save, Retry' will show up.
+
+Second Quest
+To start your game in the second quest, enter your name as "ZELDA".
+
+Reviewer - Adrian
+http://consoleclassix.com/nes/legend_of_zelda.html
+This new version of The Legend of Zelda features a completely altered overworld, with new item placements and increased difficulty. 
+
+http://www.derok.net/nes-roms/legend-of-zelda/gannons-revenge
+100% of graphics updated to look more like Zelda 3/Oracle Series. Other changes (item names) kept minimal so this can be mixed and matched with other level mods. Font optimized for PocketNES.
+
+http://www.romhacking.net/hacks/117/
+Little documentation can be found about this game at all. Omniverse is quite well known in the hacking community for his abilities and his "Special Edition" hacks.
+
+Give it a try and find out what it's all about!
+
+~Rx
+Timecrisis - Fall of the Moon is an extensive hack of the original Legend of Zelda, changing the maps, graphics, and storyline. The storyline and a short walkthrough can be found in the readme.
+
+http://www.romhacking.net/hacks/97/
+This is probably the best Zelda hack out there. Almost every single thing possible to modify in the game has been modified. This hack exemplifies the talented individuals in our community. Anybody even remotely interested in ROMhacking should give this one a try!
+
+The old world map has been completely overwritten by the new one. You are guaranteed not to recognize any locations from the previous game. All location of dungeons and secreats have been changed as well.
+
+Secrets are now locked according to what quest you're playing. For example, the rock you push to find a dungeon won't move on the second quest, so you have to find a new entrance somewhere else in the world. The game allows each secret to be set to 1st Quest, 2nd Quest, both, or neither. So, many places where you can bomb, burn, push things and use the recorder are quest-specific.
+
+Most of the monsters have new graphics (including all bosses) and some even have new colors.
+
+There are 42 possible block, water & statue arrangements for the many dungeon rooms, and all but 3 are brand new.
+
+That's just a taste of what has been changed and how much work went into this hack!
+
+http://www.romhacking.net/hacks/10/
+No information online for this hack.  ~Rx

@@ -1,0 +1,26 @@
+Hudson Soft's Vol. 1 game, The Kung Fu was a graphical showcase for the release of the PC Engine, with half-screen high sprites and no clash or slowdown. The gameplay is particularly simple - the screen auto scrolls and you have to punch, kick and dodge the various enemies and obstacles that appear in your way.
+
+COMMENT:
+
+The Kung Fu suffers from very shallow gameplay, playing more like a souped-up graphics demo than a full blown game, which it probably was at the time. The clumsy controls don't help either - however, once you get into the feel of it there is some enjoyment to be had. This game is more about showing what the PC Engine could do than anything else and because of its place in the history of the console, it gains a little more interest than it probably deserves. But because it is what it is, it's hard to truly dislike the game, and is certainly worth a look, especially for collectors.
+
+HINTS:
+
+- Debug Mode -
+Press Run + Select to reset the game, keep the buttons held, then release Run and press Up when the title screen is displayed. Release Select and press Up three times, Right six times, Down, Down, Left, Left. Invincibility and level select will now be enabled.
+
+http://www.pcengine.co.uk/HTML_Games/Kung_Fu.htm
+China Warrior is a game in the spirit of Kung-Fu Master. The story is of a Kung-Fu warrior named Wang who sets out the destroy the Dark Emperor and liberate China. The gameplay is a side-scroller and the goal of the game is to make it to the end of the stage and battle its boss, bashing bad guys along the way. There are only three types of attack; punch, kick and jump-kick and there are four stages in all.
+
+HINTS:
+
+- Debug Mode -
+Press Run + Select to reset the game, keep the buttons held, then release Run and press Up when the title screen is displayed. Release Select and press Up three times, Right six times, Down, Down, Left, Left. Invincibility and level select will now be enabled.
+
+- Level Skip -
+Hold Up then Select + I + II to skip the first level. For the other levels, hold Down instead of up.	Level Skip
+
+- Three Continues -
+Hold I + II + Right and press Run, Run when the phrase ''The End'' appears after game play is over. Alternatively, hold I + II + Down and press Run at the title screen after game play is over. The game will continue up to three times from the start of the last level played.
+
+http://www.mobygames.com/game/turbo-grafx/china-warrior

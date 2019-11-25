@@ -1,0 +1,12 @@
+This is clone version of the 1983 Mario Bros.game. Mario and Luigi, the best plumbers in the world, have a real job on their hands. A host of characters have taken over the sewers, and the brothers must clear them out of the pipes.
+
+The platform puzzle which first introduced Luigi to the world has both single and multiplayer action with two differing game types, but with the same objective. Crabs, turtles and fighter flies must be cleared out by jumping underneath the platform they sit on, then kicking them away. Each level is cleared when a set number of coins is collected.
+
+For the two player mode, the first to collect the set amount of coins wins.
+
+http://www.mobygames.com/game/msx/brother-adventure
+
+
+Zemina's first game is basically Mario Bros. The sprites are all redrawn and the characters renamed, so Titan is conquering the sewer with his brother Gamma. All the enemy types, levels and bonus rounds are in, but flickering is even worse than on the NES. Mario's trademark skidding is missing in this version, which makes it somewhat more playable, but physics behaviour is a little odd, to say the least. The best thing about this version is that music is played during the levels, where Mario Bros was rather silent.
+
+http://www.hardcoregaming101.net/korea/part1/company-zemina.htm

@@ -1,0 +1,5 @@
+The Genius Bakabon is based on the anime and manga "Heisei Tensai Bakabon". The game is a platform game vaguely of the classic Prince of Persia variety. You move carefully to avoid dangers, taking care not to make huge falls. Each world of the game is four levels, plus a minigame-style boss round.
+
+This patch should be complete. Be sure to read the documentation on how to apply the patch, and try using FCEUltra or Nestopia to play it.
+
+http://www.romhacking.net/trans/1180/

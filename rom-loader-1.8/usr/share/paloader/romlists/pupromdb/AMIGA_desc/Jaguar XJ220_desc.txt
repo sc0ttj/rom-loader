@@ -1,0 +1,23 @@
+In the early nineties, the Jaguar XJ220 was the fastest serial-produced car ever. Core Design acquired the right to build a game around it, in a move to counter Gremlin's immensely successful Lotus series.
+
+Just like Lotus, Jaguar XJ200 is a view from behind racer. There are 32 tracks all over the world, with varying road conditions and animated weather conditions such as rain and fog in England, snow in Switzerland, and tumbleweed crossing the street in Egypt. You race your Jaguar in a constructor grand prix, with opponents running for Porsche, Ferrari and other famous makers. Between races, you must mend the damage your car has sustained, which eats up your prize money. Background music is selected through a dashboard CD player, which also features some rather uninspiring radio stations.
+
+The game can also be played in a two-player split-screen mode and features a track editor for when you tire of the built-in courses.
+
+http://www.mobygames.com/game/amiga/jaguar-xj220
+_________________________
+CHEATS:
+
+Press Fire when prompted to start your engine.
+When "Go" appears, press P to pause game play,
+then press P again to resume.  The race will end with you
+car having the fastest lap time.
+
+Break track records:
+Before starting the race, select radio mode on the
+CD player and tune it to "065.4".
+
+Faster scenery:
+Enter the sound selection screen, select the sound
+effects option, and choose radio. The scenery will appear at twice
+the normal speed while your car remains at its normal speed.

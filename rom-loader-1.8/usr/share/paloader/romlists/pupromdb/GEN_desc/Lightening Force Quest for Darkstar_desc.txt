@@ -1,0 +1,16 @@
+You must lead the battle against the evil Lohun Empire. Their computer system is poised to destroy your Galaxy Federation's defenses. Lead the attack on their heavily defended military planet. Knock out the planet's command center to pave the way for the invasion force. Take the fight underwater to destroy massive marine battlecruisers. Launch magnetically-charged photon blasts at alien bio-machines. Twist through the labyrinthine structure of the enemy's Bio-Base. There you'll meet your final objective, the destructive regenerating computer. Cut loose with the Thunder Sword, your most powerful energy beam, as you battle this ultimate weapon!
+
+Hints:
+
+99 Lives:
+At the Title Screen, wait for the words "Press Start" to appear. When they do, press A and Start simulanteously. Go to the config screen and set "Stock Ship" to zero. Start the game and you'll now have 99 lives.
+
+All Weapons:
+Enter the following code at the Pause Screen:
+Up - Right - A - Down - Right - A - Down - Right - A - C - Left - Up - B - Up
+When you un-pause the game you should have all of the weapons
+
+Omake BGM:
+Complete the game once on any difficulty. Then go to the options screen (A+Start during the opening or title screen) and go to the Music option. You will notice that in addition to the added staff roll and ending songs, you also get to listen to 10 really cool songs that can't be found anywhere else in the game.
+
+http://www.gamefaqs.com/console/genesis/home/586290.html

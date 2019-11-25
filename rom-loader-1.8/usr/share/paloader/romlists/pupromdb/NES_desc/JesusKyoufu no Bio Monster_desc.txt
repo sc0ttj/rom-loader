@@ -1,0 +1,3 @@
+Although it's probably not perfectly clean, I've tested it a few times and there are no major issues. There is also a translated instruction manual on my website, it would be a helpful introduction to the game.
+
+http://romhacking.net/trans/1043/

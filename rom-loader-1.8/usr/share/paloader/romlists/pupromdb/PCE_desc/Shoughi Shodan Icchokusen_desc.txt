@@ -1,0 +1,3 @@
+Shougi board game with a variety of characters.
+
+http://www.pcengine.co.uk/HTML_Games/Shogi_Shodan_Icchokusen.htm

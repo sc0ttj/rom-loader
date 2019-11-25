@@ -1,0 +1,10 @@
+Bubble Bobble is the story of two humans, Bub and Bob who wander into the mysterious cave of monsters and magically turn into dinosaurs. The only way to transform back is to reach the end of the cave...
+
+Bubble Bobble is a platform game, with each level being a single screen. The enemies must be cleared from a level to go to the next one. With one player controlling Bub and the other controlling Bob, the player can jump and collect items for points (such as fruit). The real power Bub and Bob have however is the ability to blow bubbles. These bubbles can be as platforms to leap on, or to trap enemies. Enemies trapped in a bubble must be popped by jumping into them, wherein they'll turn to fruit. Additionally, power-ups sometimes float by in bubbles. They include lightning, which flies out horizontally at enemies, and water, which drags the player and enemies straight down flowing over platforms. Taking too long to complete any level will summon Baron Von Blubba, who will float around the screen trying to destroy the player.
+
+http://www.mobygames.com/game/gameboy/bubble-bobble
+Blue Dino has become ill, and its up to Green Dino to find a cure. Essentially a remake of the classic arcade title, without the ability to play with two players.
+
+The aim of the game is to use your Dino's bubble abilities to trap and pop the bad guys while dodging their attacks to complete the level, collecting the bonus items along the way. Popping the enemies turns them into fruit for bonus points.
+
+http://www.mobygames.com/game/gameboy-color/classic-bubble-bobble

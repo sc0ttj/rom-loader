@@ -1,0 +1,27 @@
+You play as the Rocket Knight, Sparkster. The Rocket Knights are a group of elite fighters who protect the empire from all dangers. One day, the empire is attacked by a rival nation and the princess Sherry is kidnapped by the rival's leader, Axle! Axle plans to unleash a powerful weapon that will decide the fate of this war! Sparkster now must find Axle and flush him out!
+
+Directions:
+
+If you read the "Controls" section, you learned that you can charge up Sparkster's jetpack. While it's fully charged, you can push the directional buttons in the way of where you want to go, which works well for high places. As some games, you'll find a boss to fight, which will take a while to destroy!
+
+Gameplay:
+
+Gameplay is often a side scrolling platform, with linear runs through levels. The player is able to jump, attack with Sparkster's sword, either directly or by "shooting" energy forward when swung, or charge up their rocket pack and go flying in one of the 8 standard directions, depending of the direction the player presses (if no direction is pressed, Sparkster performs a stationary spinning attack).
+
+Levels are occasionally switched up with alternate styles of gameplay. Some levels are horizontal scrolling shooters (akin to Gradius, often with in-level references to that game), while one level has the player control a large machine to duel with Axel Gear.
+
+Playing on the easiest difficulty mode, Children, drops the final level from the game, and prevents the player from getting the 'true' ending. Selecting 'Hard' gives you less lives and less continues. There are also extra difficulties that can be unlocked by inputting codes on the Konami loading screen. The hardest of which is 'Crazy Hard' which leaves you with one life, no continues and all attacks however small are an instant kill.
+
+Controls:
+
+A Button: Press to attack, hold to chrage up rocket
+B Button: Jump
+C Button: Same as A button
+
+Hints:
+
+- Build Your Own Demo -
+Pause the game and press Up, Up, Up, Up, Up, Up, Up, Down, Left, Left, Left, Right. You will see the word 'PAUSE' in reverse if you did it correctly. Now get yourself killed in whatever entertaining way pleases you. After the Game Over screen, wait until the game goes into demo mode. The demo should look hauntingly familiar... 
+
+http://en.wikipedia.org/wiki/Rocket_Knight_Adventures
+http://www.consoleclassix.com/genesis/rocket_knight_adventures.html

@@ -1,0 +1,115 @@
+Alchemist Marie and Elie Futari no Atelier|NOID|B18CDC0D|x|0|2001|Role Playing|region-unknown|Gust Corporation|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Another Heaven Memory of those Days|NOID|D7A0AB74|x|0|2000|Adventure|region-unknown|Omega Mikotto|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Arc the Lad Kishin Fukkatsu|NOID|E2317345|x|0|2002|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Battle Spirit Digimon Frontier|NOID|8BA49DAB|x|0|2002|Fighter|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Blue Wing Blitz|NOID|99027238|x|0|2001|Strategy|region-unknown|Square|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Dark Eyes Battle Gate|NOID|12AE932C|x|0|2001|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Dicing Knight.|NOID|D28DC930|x|0|2004|Action/Adventure/Role Playing|region-unknown|Qute|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digimon Anode Tamer and Cathode Tamer|NOID|77689273|x|0|2001|Role Playing|region-unknown|Banda1|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digimon Adventure 02 D1 Tamers|NOID|4D28637E|x|0|2000|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digimon Tamers Battle Spirit|NOID|C927BFCB|x|0|2001|Fighter|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digimon Tamers Battle Spirit Ver. 1.5|NOID|6CAAD4A2|x|0|2002|Fighter|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digimon Tamers Brave Tamer|NOID|F1F4D41F|x|0|2001|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digimon Tamers Digimon Medley|NOID|FA92418D|x|0|2001|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digital Monster D-Project|NOID|FAAEFBCB|x|0|2002|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Digital Monster Card Game Ver. WonderSwan Color|NOID|603CB5E6|x|0|2002|Card Battle|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Dokodemo Hamster 3 Odekake Saffron|NOID|93E19F13|x|0|2000|Simulation|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Dragon Ball|NOID|067238D1|x|0|2003|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Final Fantasy|NOID|B7243E88|x|0|2000|Role Playing|region-unknown|Square|dev-unknown|Everyone|media-unknown|controller-unknown|WonderSwan
+Final Fantasy II|NOID|F09E752F|x|0|2001|Role Playing|region-unknown|Square|dev-unknown|Everyone|media-unknown|controller-unknown|WonderSwan
+Final Fantasy IV|NOID|F699D6D1|x|0|2002|Role Playing|region-unknown|Square|dev-unknown|Everyone 10+|media-unknown|controller-unknown|WonderSwan
+Final Lap Special GT and Formula Machine|NOID|B07E6A56|x|0|2001|Driving|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Flash Koibito-kun|NOID|69D8D433|x|0|2000|Puzzle|region-unknown|Koubunsha|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+From TV Animation One Piece Chopper no Daibouken|NOID|8E120B5A|x|0|2003|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+From TV Animation One Piece Grand Battle Swan Colosseum|NOID|F8A1DD2B|x|0|2002|Fighter|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+From TV Animation One Piece Niji no Shima Densetsu|NOID|427056C4|x|0|2001|Action/Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+From TV Animation One Piece Treasure Wars|NOID|205503C3|x|0|2002|Board Games|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+From TV Animation One Piece Treasure Wars 2 Buggy Land e Youkoso|NOID|0D1048F0|x|0|2002|Board Games|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Front Mission|NOID|2F9E2560|x|0|2002|Role Playing|region-unknown|Square|dev-unknown|Everyone 10+|media-unknown|controller-unknown|WonderSwan
+Gekitou! Crash Gear Turbo Gear Champion League|NOID|8A8B827C|x|0|2002|Action|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Gensou Maden Saiyuuki Retribution Hi no Ataru Basho de|NOID|446E2581|x|0|2001|Role Playing|region-unknown|Mubik|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Golden Axe|NOID|BC944A98|x|0|2002|Beat-'Em-Up|Japan|Bandai|Bandai|Teen|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Gransta Chronicle|NOID|AF24F95C|x|0|2002|Role Playing|region-unknown|Omega Micott|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Guilty Gear Petit|NOID|9750BC2A|x|0|2001|Fighter|region-unknown|Sammy|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Guilty Gear Petit 2|NOID|D7A12BD5|x|0|2001|Fighter|region-unknown|Sammy|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+GunPey EX|NOID|0C9CB12C|x|0|2000|Puzzle|Japan|Bandai|Bandai|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Hanjuku Hero Ah, Sekai yo Hanjuku Nare...!!|NOID|31E09BED|x|0|2002|Strategy|region-unknown|Square|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Hataraku Chocobo|NOID|7A29E9A6|x|0|2000|Simulation|region-unknown|Square|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Hunter X Hunter Greed Island|NOID|A487B7A8|x|0|2003|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Hunter X Hunter Michibikareshi Mono|NOID|9402BCA9|x|0|2001|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Hunter X Hunter Sorezore no Ketsui|NOID|D0B20C5A|x|0|2001|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Inuyasha Fuuun Emaki|NOID|3FF5791F|x|0|2002|Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Inuyasha Kagome no Sengoku Nikki|NOID|0C23D551|x|0|2001|Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Inuyasha Kagome no Yume Nikki|NOID|44453234|x|0|2002|Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Judgement Silversword Rebirth Edition|NOID|60191872|x|0|2004|Shoot-'Em-Up|Japan|Qute|Qute|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Kidou Senshi Gundam Giren no Yabou Tokubetsu Hen Aoki Hoshi no Hasha|NOID|D4061551|x|0|2003|Strategy|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Kidou Senshi Gundam Seed|NOID|BCE15137|x|0|2003|Action|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Kidou Senshi Gundam Vol. 1 Side 7|NOID|08C0247B|x|0|2001|Role Playing/Strategy|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Kidou Senshi Gundam Vol. 2 Jaburo|NOID|39A1391A|x|0|2001|Role Playing/Strategy|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Kidou Senshi Gundam Vol. 3 A Baoa Qu|NOID|A9F5BF54|x|0|2002|Role Playing/Strategy|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Kinnikuman IIsei Choujin Seisenshi|NOID|6142FD9D|x|0|2003|Fighter|Japan|Bandai|Bandai|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Kinnikuman IIsei Dream Tag Match|NOID|462F9275|x|0|2002|Fighter|Japan|Bandai|Tose Software|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Kurupara!|NOID|274719F5|x|0|2001|Puzzle|Japan|Tom Create|Tom Create|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Last Alive|NOID|DA4479BF|x|0|2001|Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Makai Toushi Sa-Ga|NOID|1B6F5F30|x|0|2002|Role Playing|region-unknown|Square|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Meitantei Conan Yuugure no Koujo|NOID|9F6E3F8D|x|0|2001|Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Memories Off Festa|NOID|8E123373|x|0|2001|Mahjong|region-unknown|Kid|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Mikeneko Holmes Ghost Panic|NOID|D75EFFC2|x|0|2001|Adventure|region-unknown|Kobunsha|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Mr. Driller|NOID|5555D95C|x|0|2001|Puzzle|Japan|Namco|Namco|Everyone|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Namco Super Wars|NOID|8CE4652F|x|0|2001|Role Playing/Strategy|region-unknown|Namco|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Naruto Konoha Ninpouchou|NOID|71556E6A|x|0|2003|Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Pocket no Naka no Doraemon|NOID|2B61BB2B|x|0|2001|Adventure|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Raku Jongg|NOID|FE4FF701|x|0|2001|Mahjong/Puzzle|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Rhyme Rider Kerorican|NOID|60706555|x|0|2000|Rhythm|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Riviera Yakusoku no Chi Riviera|NOID|2460B45A|x|0|2002|Role Playing|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Rockman EXE N1 Battle|NOID|1F10CA75|x|0|2003|Simulation|region-unknown|Capcom|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Rockman EXE WS|NOID|658C4B98|x|0|2003|Platformer|region-unknown|Bandai|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Romancing Sa-Ga|NOID|9C98D97D|x|0|2001|Role Playing|region-unknown|Square|dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+RUN=DIM Return to Earth|NOID|15C4552E|x|0|2002|Shooter|Japan|Digital Dream|Digital Dream|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Saint Seiya Ougon Densetsu Hen Perfect Edition|NOID|6E8A792D|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+SD Gundam Operation U.C.|NOID|F0ACDA5C|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+SD Gundam Eiyuuden Kishi Densetsu|NOID|C60E5162|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+SD Gundam Eiyuuden Musha Densetsu|NOID|18ECFFB8|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+SD Gundam G-Generation Gather Beat 2|NOID|4D21A347|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+SD Gundam G-Generation Mono-Eye Gundams|NOID|6ACA1F04|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Senkaiden Ni TV Animation Senkaiden Houshin Engi Yori|NOID|9F35D00F|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Shaman King Asu e no Ishi|NOID|6C029674|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Shaman King Asu e no Ishi|NOID|34908CB4|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Sorobang|NOID|0E467D97|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Star Hearts Hoshi to Daichi no Shisha|NOID|138D1018|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Star Hearts Hoshi to Daichi no Shisha Taikenban|NOID|9874E9A2|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Super Robot Taisen Compact 3|NOID|6918C824|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Super Robot Taisen Compact 3|NOID|188CA644|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Super Robot Taisen Compact for WonderSwan Color|NOID|16E0D929|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Terrors 2|NOID|9BD8F08C|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Tetris|NOID|7B0CAEA9|x|0|||Japan||Vanguard|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Tonpuusou|NOID|47659B2C|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Uchuu Senkan Yamato|NOID|5793BDDA|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Ultraman Hikari no Kuni no Shisha|NOID|DE2208AB|x|0|||Japan||Bandai|Not Rated|Cartridge|Wonderswan Color Gamepad|Wonderswan Color
+Wild Card|NOID|D9401F0A|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+With You Mitsumete Itai|NOID|E14E9D36|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Wizardry Scenario 1 Proving Grounds of the Mad Overlord|NOID|15E55706|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Wonder Classic|NOID|12F10B27|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+X Card of Fate|NOID|66B617D5|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+XI Little|NOID|25E2BA75|x|0|||region-unknown||dev-unknown|Not Rated|media-unknown|controller-unknown|WonderSwan
+Buffers Evolution|NOID|b25a0635|x|0|1999|Action|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Engacho! for WonderSwan|NOID|4e467626|x|0|1999|Puzzle|Japan|NAC Geographic Products Inc.|NAC Geographic Products Inc.|No Rating|Cartridge|Wonderswan|WonderSwan
+Final Lap 2000|NOID|ce2f1a1d|x|0|2000|Racing , Cars|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Ganso Jajamaru-kun|NOID|a193458c|x|0|2000|Platformer|Japan|Koubunsha|Koto|No Rating|Cartridge|Wonderswan|WonderSwan
+Ghosts 'n Goblins|NOID|00b31fbb|x|0|1999|Platformer|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Kaze no Klonoa Moonlight Museum|NOID|80c6ef12|x|0|1999|Puzzle|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Lode Runner for WonderSwan|NOID|e407cabf|x|0|2000|Platformer|Japan|Banpresto|Banpresto|No Rating|Cartridge|Wonderswan|WonderSwan
+Magical Drop for WonderSwan|NOID|637ada93|x|0|1999|Puzzle|Japan|Data East|Data East|No Rating|Cartridge|Wonderswan|WonderSwan
+Pocket Fighter|NOID|35361250|x|0|2000|VS Fighter|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Puyo Puyo Tsuu|NOID|5a41a7ba|x|0|1999|Puzzle|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Puzzle Bobble|NOID|302499b9|x|0|1999|Puzzle|Japan|SunSoft|SunSoft|No Rating|Cartridge|Wonderswan|WonderSwan
+Rainbow Islands Putty's Party|NOID|8f8608ad|x|0|2000|Platformer|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Rockman and Forte Mirai Kara no Chousensha|NOID|cd206a9e|x|0|1999|Platformer|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Shanghai Pocket|NOID|1c489351|x|0|1999|Puzzle|Japan|SunSoft|SunSoft|No Rating|Cartridge|Wonderswan|WonderSwan
+Shin Nippon Pro Wrestling Toukon Retsuden|NOID|5b76f901|x|0|1999|Sports , Wrestling|Japan|Tomy|Tomy|No Rating|Cartridge|Wonderswan|WonderSwan
+Space Invaders|NOID|8d83014f|x|0|1999|Shooter|Japan|SunSoft|SunSoft|No Rating|Cartridge|Wonderswan|WonderSwan
+Tare Panda no GunPey|NOID|a5643aa3|x|0|1999|Puzzle|Japan|Bandai|Bandai|No Rating|Cartridge|Wonderswan|WonderSwan
+Trump Collection 2 Bottom-Up Teki Sekaiisshuu no Tabi|NOID|64aaf392|x|0|2000|Casino|Japan|Bottom Up|dev-unknown|No Rating|Cartridge|Wonderswan|WonderSwan
+Trump Collection Bottom-Up Teki Trump Seikatsu|NOID|07a3b862|x|0|1999|Casino|Japan|Bottom Up|dev-unknown|No Rating|Cartridge|Wonderswan|WonderSwan
+XI  Little|NOID|25e2ba75|x|0|2001|Puzzle|Japan|Bandai|MBI|No Rating|Cartridge|Wonderswan|WonderSwan
+Digimon Digital Monsters Anode and Cathode Tamer Veedramon Version|NOID|NOCRC|x|2|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown

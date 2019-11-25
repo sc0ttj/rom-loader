@@ -1,0 +1,3 @@
+Gary's Nuts is a Nuts & Milk hack by Googie and Quick Curly. Play as Gary to rescue Professor Oak and escape this weird dimension! The levels, music, sounds, and graphics have been changed along with a few minor ASM modifications. Please refer to the readme for more information.
+
+http://www.romhacking.net/hacks/620/

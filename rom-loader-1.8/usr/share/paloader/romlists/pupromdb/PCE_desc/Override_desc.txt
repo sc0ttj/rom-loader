@@ -1,0 +1,18 @@
+Sci-fi vertically scrolling shoot 'em up.
+
+HINTS:
+
+- Level select mode -
+Enter the "Level Select Mode" code before entering the level password.
+Hold Run and press Select ten times
+
+- Sound Test, Invincibility and Ending -
+(At the title Screen, reset 10 times and then enter the following codes at the title screen)
+
+Holding up-left, I, II, Select, press Run : Ending
+
+Press Run, then quickly press and hold I, II, Select & Run : Invincibility
+
+Hold Select and press Run : Sound Test
+
+http://www.pcengine.co.uk/HTML_Games/Override.htm

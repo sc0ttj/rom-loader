@@ -1,0 +1,5 @@
+This hack modifies the game Adventures of Lolo. Features 50 new rooms, some sprites changed to the Lolo 2/3 ones, some palette changes, and some text changes.
+
+Special thanks to bbitmaster's editor for making all this possible.
+
+http://www.romhacking.net/hacks/201/

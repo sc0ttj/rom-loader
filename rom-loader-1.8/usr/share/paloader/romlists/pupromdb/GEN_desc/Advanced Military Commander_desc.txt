@@ -1,0 +1,3 @@
+This patch translates all the dialogue and all briefings completely into English. All that's left are some splash screens, but this patch is marked final, so these apparently won't get translated.
+
+http://www.romhacking.net/trans/564/

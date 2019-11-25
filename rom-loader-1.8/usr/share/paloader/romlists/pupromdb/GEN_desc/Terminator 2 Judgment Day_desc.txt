@@ -1,0 +1,20 @@
+An action-adventure game developed by Bits Studios, Probe Entertainment, and Arc Developments and published by Flying Edge and LJN for the Sega Genesis/Mega Drive and Super NES. respectively in 1993. Based on the film of the same name.
+
+Gameplay:
+
+One plays as the T-800 sent back in time to 1994 in order to protect John and Sarah Connor from the T-1000. There are two gameplay types: side-scrolling and driving. During the side-scrolling levels, the player's objective is to locate and retrieve all future objects (gray boxes with a flashing light on top) and complete all objectives for that mission. Once all objectives are completed, the player goes back to the beginning of the level to finish the mission. Between the side-scrolling levels are the driving levels. During the driving levels, the player's objective is to drive to the next mission location while avoiding pursuers.
+
+In the side-scrolling levels, the T-800 has 100% health to begin with, but gets 50% health from the secondary power supply if its health drops to 0%. If the secondary power supply drops to 0%, the T-800 dies and the game ends. In the driving levels, the T-800 has 100% vehicular health, but the game ends if the health reaches 0%.
+
+Starting with Level 3, the T-1000 will appear (or Level 2 if the alarm is tripped or too much time is spent there). The T-1000 attacks using a pistol and arms morphed into stabbing weapons. The T-1000 will mold back into shape if shot, but it will be temporarily incapacitated if it suffers enough damage. The T-1000 does not appear in levels 6 and 7.
+
+The T-800 must also protect John Connor starting with Level 3, and Sarah Connor starting with Level 4. If either one loses all of their health, they will start dying, and the T-800 must heal them by ducking down over them and transferring some of its health to them. If they are left alone for too long, they die and the game ends. However, Sarah Connor wields a pistol for extra defense. Neither one appears in levels 5 or 6.
+
+Hints:
+
+- Skip Current Level -
+Enter the following code at the Title screen....
+Up - Down - Left - Right - Up - Down - Left - Right
+Then pause the game and press B + C to skip to the next level.
+
+http://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day_(Platform_Video_game)#Terminator_2.3A_Judgment_Day_.28LJN.29

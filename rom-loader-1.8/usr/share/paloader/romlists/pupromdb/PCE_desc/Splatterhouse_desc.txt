@@ -1,0 +1,27 @@
+The first known hack of the PC Engine Splatterhouse, Splatterhouse Chrome features new levels, enemy AI, color palettes and even a restored weapon from the arcade version.
+
+The difficulty is extremely high, so even those familiar with Splatterhouse will face a serious challenge. The game also contains far more gore than the original.
+
+Note that this patch is based on the Japanese version of the game.
+
+http://romhacking.net/hacks/520/
+One of the reasons that I initially found myself attracted to the TurboGrafx over the Sega Genesis was its selection of quirky games. A number of games that NEC brought over to the United States had a unique Japanese flavor. While this may have ultimately contributed to the Turbo's lack of success stateside, it was an added bonus as far as I was concerned.
+
+Splatterhouse is a good example of one of the really wacked out games that were released for the TurboGrafx. Sure, the story sounds normal enough. Your girlfriend has been kidnapped and you have to rescue here from the clutches of evil and you have been called upon to rescue her. However, that's where the similarities to a lot of other games end. You will find yourself battling it out with some of the strangest creatures ever to grace a video game title. Not only that, but you have a unique arsenal of weapons at your disposal, including a board, a shotgun, and a meat cleaver. As you would expect, with those kinds of weapons, this game is a bit on the bloody side. Knowing that American parents might not be so happy with that, NEC decided to change the blood to a green color, so as not to make things look so realistic.
+
+Namco, the game's developer, did a good job of using dark colors to setup up a spooky atmosphere that is very well suited to this game. Besides that, they did a good job of using some fairly large sprites, including the main character. Overall, the graphics are not spectacular, but they do a decent job of putting the player into the game. Along with this, there is some well placed evil sounding background music that will leave the player on edge. Sound effects could've been a little bit nicer, but some of them are kind of interesting.
+
+Probably one of the game's weakest points is the gameplay. Controls are a bit on the clunky side, and it can be somewhat cumbersome to try to spin around quickly to attack an enemy. Likewise, well timed jumping can be difficult, and it sometimes makes things a bit on the frustrating side.
+
+If nothing else, I have to give Splatterhouse some credit for its originality. The gameplay can be a bit tedious at times, but it isn't so bad that it makes the game overwhelmingly difficult to complete. Besides, if you like games that are on the dark side, this would be a good one for you to check out. For those who've never tried it or one of its sequels, it may be worth a look if the price is right.
+
+HINTS:
+
+- Hard mode -
+At the title screen, hold Select until "HARD" appears on the screen.
+
+- Level Select -
+When the prologue starts up and there's a house in the rain, press Select 3 times, followed by pressing and holding down-left on the directional pad and then press button 1 or 2. It'll bring up the option to select a level.
+
+Reviewer: Fabio
+http://www.turbografx.net/softdetail.asp?soft_id=13

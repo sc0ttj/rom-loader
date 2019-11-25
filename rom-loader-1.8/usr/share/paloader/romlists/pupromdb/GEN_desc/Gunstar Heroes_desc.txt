@@ -1,0 +1,56 @@
+Chaos has broken out on the planet Gunstar-9!!
+The mad Colonel Red has discovered four crystals that imprison a deadly being known as GoldenSilver, and plans on unleashing it onto the population of the planet! He must be stopped! Enter...the Gunstar Heroes, Red and Blue!
+Unleash some mad blasting action onto the Colonel's army and don't let him bring GoldenSilver to life!! The fate of Gunstar-9 is in your hands!
+
+Directions:
+
+Start out the game by selecting whether to play as Red (controller 1) or Blue (controller 2). Both play very similarly, so the decision is really just your preference. You'll then be asked whether you want Fixed Shot (Shoot and Move separately, allows you too shoot a bit more precisely, but you can't run'n'gun) or Free Shot (Shoot and Run Together, shooting takes a bit more skill, but you can run'n'gun).
+
+After this you have to select your starting gun. You choose between:
+Fire - A short-range flame thrower with the highest attack!
+Lightning - A narrow blue beam that can go through enemies, great for newbs or multiple enemies!
+Force - A rapid fire weapon, standard straight shooter
+Chaser - Small green triangles that seek out the closest enemy. Best for new guys!
+Lastly you select your beginning level. Let it be noted that it is easiest to go left to right, but for a bit of a challenge, do the two middle first, then left, then right!
+
+This game includes many enhancements to your starting weapon, especially the ability to combine weapons to make interesting combinations to take out your foes. Your characters are quite agile and will jump, throw, shoot in 8 directions while moving or stopping and focusing, slide, flip, and ride on futuristic machines, in 6 long and impressive levels, 4 of which you choose from at the very beginning. Each level ends with a boss, with an array of maneuvers and ways of dishing out damage. You'll have to be quick and smart to get through these invigorating levels, assuring you are using the proper weapons on the right enemies and that you are being quick enough to not die! This game will definitely challenge you, but it's well worth it.
+
+In each level it is your mission to do as much destruction to your enemies as possible, in any way you see fit. Shoot them with your superior weapons or throw them as an insult, it doesn't matter, just do it fast and safe. Shooting helper-bots throughout the levels will give you a second weapon to combine with your primary weapon! You will then be able to cycle between the two separate weapons or use them together for much added force! You'll be running into some massive and difficult bosses and mini bosses, so gauge your health appropriately and play smart!
+
+If you must, play through a level more than once and learn every weakness and what weapons work best at what points! If you play Difficult, you might get frustrated fast, so try to keep your cool and blast your way through, having every bit of fun and driving your score through the roof! 
+
+Gameplay:
+
+Gunstar Heroes is a side scrolling shooter. The player has four weapons to choose from, and they can be combined in various pairs to create a total of 14 unique weapons. In addition to the weapons, the player can engage enemies in close quarters combat. It is possible to grab and toss enemies, perform sliding and jumping attacks and a long-range skid.
+
+Unlike most games in the genre, the player has a life total calculated in numbers. Therefore, death to a player requires multiple hits but just one death will issue the option to continue or to end the game.
+
+The main highlight of the game are its boss encounters, which often feature large enemies made up of multiple sprites allowing for fluid movement.
+
+Controls:
+
+A Button: Select Weapon
+B Button: Shoot / Pick Up
+C Button: Jump (Double Tap- Attack)
+Start Button: Start/Pause
+
+Hints:
+
+- Hidden Special Move -
+With either Gunstar Red or Gunstar Blue motion: b, db, d, df, f+shot button to execute a powerful standing slide.
+
+- Make the logo rotate -
+Hold Down on controller one before the Gunstar Heroes logo appears on the screen in order to rotate it.
+
+- The Timeron's Secret: A Hidden Easter Egg. -
+During the 2nd Timeron encounter (which is in the Space Battle stage) a timer will begin ticking from 00'00''00.
+As the timer keeps going, the Timeron's attacks will change, and at every 20 minutes or so, a circular drone will appear, accompanied by Smash Daisaku's laughter. Avoid this drone for about 2 minutes until it self-destructs, for a single hit will reduce your health to zero.
+At about 50'00''00 or so, large blue balls will appear. These will rebound once against the screen, and do 11 points of damage instead of the normal 10 points from the smaller ones.
+Once the timer gets up to 99'50''00 or so, don't destroy the Timeron yet. Instead, wait out the remaining 10 seconds whilst avoiding the Timeron's attacks, but don't stay too close to the Timeron, or you'll get killed by the drone.
+Once the timer reaches 00'00''00 again, you'll hear that nasty laughter again, but this time, ''GIVE UP!!'' appears in the middle of the screen, and the Timeron will self-destruct, accompanied by the message, ''YOU OPENED THE - SATORI MIND -''.
+A bit more of that nasty laughter accompanies the next message, ''REPROGRAMMED BY NAMI - 1993''.
+Now, instead of getting a Timer Bonus like you usually would, a Soul Bonus of exactly 930410 points is added to your score. That might be the date that Nami reprogrammed the Timeron, I believe.
+
+http://en.wikipedia.org/wiki/Gunstar_Heroes
+http://www.mobygames.com/game/genesis/gunstar-heroes
+http://www.consoleclassix.com/genesis/gunstar_heroes.html

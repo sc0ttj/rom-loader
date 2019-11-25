@@ -1,0 +1,8 @@
+Unofficial sequel to the Atari 2600 classic Adventure.
+
+6/2003 - One of the first playable demos, with only 2 kingdoms including the original (scrapped) hedge maze.
+9/2003 - Dragon will eat you now; Only 1 item will appear each game.  Can kill dragons if you get the sword.
+6/2005 - Title screen, sounds, all three dragons, the speed boost, and the Troll are in.
+2/2006 - 2 games to play, press * or 7 key. Bridge is unfinished. #6 key will flip the sword/bridge.
+
+http://cafeman.www9.50megs.com/atari/5200dev/AdventureII.html

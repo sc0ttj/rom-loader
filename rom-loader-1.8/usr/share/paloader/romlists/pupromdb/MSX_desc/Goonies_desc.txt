@@ -1,0 +1,7 @@
+The game is based on a movie from 1985. A group of youngsters organizes a gang called The Goonies. You control one of the gang members, and your goal is to rescue your buddies, at the same time trying to escape from a level, avoiding pesky monsters and vicious rivaling gangsters.
+
+The gameplay is platform action. You run through platforms, killing regenerating enemies (such as mice) by kicking them, and neutralizing pistol-shooting gangsters who are there to kill you (and whom you can't kill permanently). You collect items such as bombs, with which you can blast doors open, release your friends, or find valuable items. You can also jump and duck. There is a time limit for each level.
+
+Unlike the sequel, the NES version was never released outside of Japan.
+ 
+http://www.mobygames.com/game/msx/goonies

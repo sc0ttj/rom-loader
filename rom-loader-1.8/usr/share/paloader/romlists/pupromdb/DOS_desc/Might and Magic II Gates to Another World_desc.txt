@@ -1,0 +1,11 @@
+The Sequel to the successful Might and Magic I, it boasted better graphics, a larger world, but still pretty much the same game engine and presentation. Embark on a glorious journey then save the world of CRON and yourself.
+
+A balanced party is a necessity in this game. There are several locations and items that are restricted to certain genders, alignments, or races. A party made up of Good Human Males won't get you very far. Time plays a large role in this game. Time travel is a part of it, but on a more basic level, you will find that characters age as the game goes on. If you wait too long, your characters' statistics will change to reflect their aging.
+
+Trivia:
+
+There is a sorceress by the name of Aeriel who is with Thund R. when you first meet them in Vulcania. As with Thund R., Ariel is the name of a character from "Thundarr the Barbarian" who was also a sorceress. It's also interesting to note that both these hirelings are human and good, which corresponds to their alter egos in the cartoon series.
+
+Hireling ages are calculated in an interesting way. If a hireling is at level one, then they will be 18, but if their level is higher, then one is subtracted from their level number and then added to 18.
+
+http://www.mobygames.com/game/might-and-magic-ii-gates-to-another-world

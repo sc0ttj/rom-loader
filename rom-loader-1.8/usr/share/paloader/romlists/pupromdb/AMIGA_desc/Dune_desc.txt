@@ -1,0 +1,26 @@
+Based on the legendary Frank Herbert novel of the same name and visually inspired by the 1984 David Lynch movie, Dune is a strategy-adventure hybrid where the player takes the role of young Paul Atreides, the son of Duke Leto. The Emperor Shaddam Corrino IV has given the Atreides House the rights to manage the extraction of the most precious substance in the entire universe - the Melange, commonly known as Spice in the desolate desert planet Arrakis (Dune), the only place in the universe capable of producing the substance. While everything indicates the offer is a trap orchestrated by their enemies the Harkonnen, the Atreides family agrees on moving, as he who controls the spice, controls the universe.
+
+The player arrives in Arrakis with the mission of contacting and convincing the Fremen tribes residing in sietches (desert settlements) near the Atreides palace to harvest the spice. Harvesting is the most important part of the game, required to purchase equipment from the smugglers and appease the emperor. To speed up the process of harvesting, the player can equip the tribes with harvesters to increase production and ornis to protect them from the gigantic protectors of the planet: Shai-Hulud - the sandworms. 
+
+However, the spice doesn't last forever and new sietches must be prospected before having a mining crew assigned, but the player cannot run Southwards forever, as the Harkonnen enemy controls the North of the Planet, dangerously close to the Atreides Palace. Soon after the initial batches are sent to the Empreror, the player will have to actively deal with the Harkonnen, who will try to take control of player Sietches. For those, Fremen tribes can be assigned to military training with Gurney Halleck, but before doing such work Paul must have a certain reputation, gained by the control of Arrakis.
+
+As the game advances, the player will untap Paul's latent powers, as well as meeting other characters from the Dune universe, such as Duke Leto, Jessica, Thufir Hawat, Duncan Idaho, Harah, Chani, Stilgar and Liet Kynes, the mastermind behind the ecological plans on Dune - the ultimate goal.
+ 
+http://www.mobygames.com/game/amiga/dune
+The planet Arrakis (also known as Dune for it's sandy landscape) is  the only place in the known universe where the Spice Melange can be found. The Spice is very important, being the basis of interstellar travel and thus the standard of the Imperial economy. To increase productivity, The Padishah Emperor has invited three powerful Houses (Harkonnen, Atreides and Ordos) to compete against one another economically and bring up spice production. Competition between these houses will begin peacefully but soon turn to conflict involving weaponry, troops and spies. At the same time, the planet itself is hostile, with dangerous sandworms that inhabit the spicefields.
+
+Dune II is often considered the first mainstream modern real-time strategy game and established many conventions of the genre. Even though set in Frank Herbert's famous Dune universe, the game is only loosely connected to  the plot of any of the books or the films based from them. Controlling either of the three Houses, the player must fight a number of battles against the other Houses.  In the early levels, the goal is simply to earn a certain number of credits, while in the later missions, all enemies must be destroyed.
+
+The single resource in the game is the Spice, which must be collected by harvesters. The spice is converted to credits in a refinery, which are then spent to construct additional buildings and units. There are two terrain types: buildings can only be constructed on stone, while the Spice is only found on sand. However, units moving on sand attract the large sandworms of Dune, who are virtually indestructible and can swallow even large units whole. As levels progress, new and more advanced buildings and units are made available, including structures like a radar station, a repair facility or defense turrets and, for units, various ground troops, light vehicles and tanks. Each House can construct one unique special unit, and, after building a palace improvement, can unleash a unique palace effect.
+
+After a mission is completed, the player can select the next mission on a map of Dune. This choice determines the layout of the next map to be played, but has no effect on the overall campaign.
+ 
+http://www.mobygames.com/game/amiga/dune-ii-the-building-of-a-dynasty
+_________________________
+CHEATS:
+
+Extra credits:
+When playing the level with no remaining credits and no spice to harvest, send a harvester to your opponent's camp. It will be destroyed and replaced, with seven credits added to your total. Repeat this as needed for extra credits.
+
+Faster harvesting:
+Repeatedly click on a harvester that is currently collecting spice to increase the percentage of gathered spice.

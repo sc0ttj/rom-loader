@@ -1,0 +1,3 @@
+A bizarre sort of Breakout/Arkanoid clone, you are presented with a constantly dropping wall of various items (apples, melons...) and have to destroy as many as possible by rebounding the small bouncing ball around the screen. Pushing the button toggles between 'open' and 'closed', which affects whether the ball will bounce in a shallow or steep angle when it hits. Missing the ball will eventually destroy the barrier behind you so you must keep your wits about you at all times.
+
+http://www.pcengine.co.uk/HTML_Games/Drop_Rock_Hora_Hora.htm

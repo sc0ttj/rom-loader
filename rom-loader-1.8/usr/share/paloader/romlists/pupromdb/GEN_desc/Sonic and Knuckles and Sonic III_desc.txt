@@ -1,0 +1,1 @@
+Hack to allow the Sonic & Knuclkes addon to work with the Sonic the Hedgehog III rom.  ~Rx

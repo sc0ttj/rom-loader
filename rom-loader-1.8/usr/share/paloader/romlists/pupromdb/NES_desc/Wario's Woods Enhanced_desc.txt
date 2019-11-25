@@ -1,0 +1,3 @@
+This hack enhances the game by animating the icons and other things. The "?" icon was replaced with color changing icon. Monster icons and arrow are animated. You should give it a try.
+
+http://www.romhacking.net/hacks/301/

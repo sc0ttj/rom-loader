@@ -1,0 +1,59 @@
+Game concept, gfx and original music/sound by St?phane Belin. Amiga music/sound and encouragement to make available the unreleased game was provided by Mike Clarke. Additional work for completion of unreleased game by Bertrand Jardel (CFOU!). 
+
+According to designer & coder St?phane Belin, the game was due for release in Sept 1993, but was inexplicably cancelled shortly before the release date when it was nearly complete [Source: St?phane Belin].
+
+Additional info. about the game, including an interview with St?phane Belin, can be found on the Amiga Games that Weren't (aGTW) website.
+
+Complete, unreleased disk versions for both the Amiga and Atari ST were kindly made available for non-commercial use by St?phane Belin. They are available available for download from:
+
+- St?phane Belin's website
+- Amiga Games that Weren't (aGTW) website
+
+An Amiga disk version with HD installer is available from the WHDLoad website.
+
+http://hol.abime.net/4832
+_________________________ 
+RESTORATION WORK
+
+Mike Clarke (FromWithin) - instigator of release
+Bertrand Jardel (CFOU) - repair and WHDLoad version
+aGTW can take no credit for finding Indigo. The game's musician, Mike Clarke, persuaded the author, Stephane Belin, to release the game some years after its original non-appearance. Bertrand Jardel did sterling work to repair the Amiga version for release.
+
+Both the Amiga and Atari ST versions were unreleased. Both are available for download
+
+Thanks to Stephane Belin for allowing this to happen.
+_________________________ 
+FROM THE AUTHOR
+
+Indigo was originally born between 1991 and 1993. I first did the ST version, including the original concept, code, graphics, music and sound.
+
+My friend Dominico Manfredi did the Amiga port.
+
+The game was due to be released by Psygnosis in September 1993. I signed the publishing contract in December 1992, but for some obscure reason, nearly 6 months later the game was unfortunately trashed soon before its release; At this point, it was nearly completed.
+
+In 2005, Mike Clarke, who remixed the ST tunes for Amiga at the time, encouraged me to release the game for the first time. If it were not for him, the game would have undoubtly begone to oblivion. My warmest thanks go to him.
+
+I also want to sincerely thank Bertrand Jardel (CFOU!) who did a great job in no time for the Amiga version. Thanks to him, Amiga users will have the opportunity to play the game as it was intended. Among other things, he fixed the broken level, added the ending screens and music and did the WHDLoad.
+
+Please feel free to download either version. You are welcome to distribute them freely but keep the zip archives as they are. Any commercial use is strictly prohibited without the written consent of the author Stephane Belin.
+
+The story of Indigo is quite simple. You play Jack, a young kid who loves drawing in a book the adventures of his imaginary friend Indigo. But Indigo gets trapped for some reason inside the book. It leaves no other choice to Charley but to go inside his own worlds in the hope of rescuing his friend.
+
+Indigo is a platformer where the objective is to reach the end of each level within the time limit. To open the exit, you have to find all the keys. The number of keys left is displayed in the bottom right corner of the screen. Some of the keys can be found on monsters.
+
+Controls are simple. You can walk left and right. Jump by pushing the joystick upward. While jumping, press fire to go into attack stance and land on monsters to stun them. You can then bounce on the monster until he awakens or kill him by attacking again. You can also stand beside the monster and press fire to grab him. Press fire to throw him at enemies. Some monsters can't be stunned. Also, a thrown monster will make every hidden bonus appear in its path.
+
+There are a variety of power ups you can find throughout the game. The remaining active time gauge is displayed in the top left corner:
+
+The football: Press fire to throw balls.
+The Bombs: Bombs fly down the screen.
+The Flash: Zaps all the ennemis on screen.
+The Droid: A droid follows the player and reveals hidden power ups and bonuses.
+The Super Hero: Transforms the player in a super hero who can fly and fire lasers.
+The clock. Adds 30 seconds to the time limit.
+Indigo does not pretend to be the greatest game but I had a very good time creating it. I hope you'll enjoy it for what it is.
+
+Stephane Belin 
+December 2005 
+
+http://agtw.abime.net/games/view/indigo

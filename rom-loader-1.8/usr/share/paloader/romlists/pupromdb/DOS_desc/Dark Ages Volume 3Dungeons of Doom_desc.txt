@@ -1,0 +1,13 @@
+You are the prince and heir to the land's greatest kingdom. Garth, a wizard of immense power and greed, banished you as a child to far away while he ran the kingdom with an iron hand.
+
+As you grew, you were taught the ways of a master fighter. And you learned well. Return to your kindgom to end Garth's rule!
+
+Trivia:
+
+Dark Ages was the first shareware game to support the FM music/sound synthesis of the Adlib and Sound Blaster cards.
+
+Dark Ages was a shareware trilogy, with the first part freely released as shareware, and the second and third parts as commercial games. The three sections were called "Prince of Destiny", "The Undead Kingdom", and "Dungeons of Doom" respectively.
+
+Dark Ages used The PCX Programmer's Toolkit by Genus Microprogramming, a popular commercial graphics library of the time.
+
+http://www.mobygames.com/game/dos/dark-ages-volume-i-prince-of-destiny

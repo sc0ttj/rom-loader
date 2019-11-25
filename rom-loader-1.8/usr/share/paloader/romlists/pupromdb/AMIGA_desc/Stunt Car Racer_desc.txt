@@ -1,0 +1,23 @@
+Race a single computer opponent for first place on a unique racetrack -- 100 feet in the air! You start in the fourth three-man division of a league, all racing each other twice, and must come top to progress. The action is viewed from within the car throughout the 3-lap races, with the distance between you always on screen.
+
+Jump chasms, jumps, and drawbridges; take banks hard or slow; pass your opponent on the track or while catching mass air. Your car has the ability to burn a limited amount of turbo boost fuel as a way to accelerate faster and achieve higher speeds, but don't use it all up at once or you'll fall behind.  Don't damage your engine too much; severe dents will show up during your next race.
+
+Whatever you do, don't fall off the track, as this will cost you time as you are placed back on.
+ 
+http://www.mobygames.com/game/amiga/stunt-track-racer
+_________________________ 
+CHEATS: 
+
+If you get stuck in a hole or at the bottom of a jump, drive slowly up to the wall and accelerate with boost. This will minimise your damage.
+_________________________ 
+
+Title: Stunt Car Racer TNT (The New Tracks)
+Year: 2004 
+
+This game was created by AmiGer/CARE (http://www.discreetfx.com/care/) by modifying the original game Stunt Car Racer. The TNT of the title stands for "The New Tracks". A track designer was written in Delphi and used to create 8 new tracks to race. The title screen and menu screen have been modified, as well as the colour palette.
+
+The disk version has the track colours incorrect in the track preview window - they retain the reds from the original. The WHDLoad version fixes this problem.
+
+2-player mode via null-modem connection.
+
+http://hol.abime.net/2345

@@ -1,0 +1,20 @@
+Budokan is a martial arts game covering Karate (unarmed combat), Kendo (using a wooden sword), Nunchaku (using piercing chain weapons) and Bo (using a staff). The player has a realistic range of moves and must use them wisely, as Ki (life-force) is drained for every move made, whether successful or not, and both this and your stamina level must be kept high.
+
+You can practice your skills alone, or spar against the instructors or your friends. Finally, when you feel you are ready, you can travel to the martial arts world championship tournament at Budokan.
+
+Trivia:
+
+There is a hidden easter egg in the game: When in the courtyard, move as far right as you can. When you are between the dojo and the fence, type "b" and you will be in a small game of pong (the "b" is for "breakout").
+
+If you wait long enough in front of the tournament building, you can see the Godzilla walking in the cityscape.
+
+If you try to list the contents of BUDO.COM with the DOS command "TYPE", you will see a nicely formatted full screen message about software piracy. 
+
+The inside flap of the box has some revealing text:
+
+You'd think that when the designers of Skyfox and Skate or Die got together, you'd get something like Space Thrashers from Mars. Instead, you've got the most unique and comprehensive martial arts game to date. Go figure. Ray Tobey, Michael Kosaka, and Rick Tiberi are computer senseis, true black belts in their art. Give them a few commands, a few pixels of color, and they could reconstruct the Sistine Chapel--and animate it, to boot. If only they had a Game Designing and Programming competition at Budokan...
+
+While it was intended as advertising copy, it also adequately describes most early "one-man wonder" games of the first decade of PC gaming; designers and programmers had to be true black belts in their art in order for a game to be a technical and financial success.
+
+
+http://www.mobygames.com/game/zx-spectrum/budokan-the-martial-spirit

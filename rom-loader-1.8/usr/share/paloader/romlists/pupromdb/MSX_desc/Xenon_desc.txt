@@ -1,0 +1,9 @@
+Xenon is the obscure and mysterious prequel to the much better known Xenon 2: Megablast. The game is actually nothing like its successor, with completely different control scheme and gameplay. The plot overlaps however, with the Xenites making their first attempt to control the galaxy.
+
+Xenon is essentially an overhead shooter, where you control the ship and move around the screen. However, the difference between Xenon and its sequel is that here you actually control the movement of the playfield (up or down) by simply moving the ship in the direction of your choice. To do this in the sequel, you need to slam your ship against the bottom of the screen and pull back on the stick in order to reverse-scroll the playfield.
+
+It also features a 3D playfield (some enemies, for example, will be mounted on hills of sort, where you can't shoot them). To combat these the player can transform its tank into a plane. The game then switches to the more familiar gameplay style as seen in other vertically scrolling shooters. The plane has to transform back into a tank again to combat most ground units.
+
+In Xenon, upgrades are taken from destroyed enemies.
+ 
+http://www.mobygames.com/game/msx/xenon

@@ -1,0 +1,5 @@
+This is a simple platform game, you're in a role of porter, jumping down the streets and buildings, and taking as many points as you can get. There's no strong background story.
+
+Bit Managers was working on a Game Gear version, but ultimately Infogrames decided not to publish the game.
+
+http://www.mobygames.com/game/spirou

@@ -1,0 +1,69 @@
+The Fantasy Zone is once again under siege! Dark Menon is back, and his forces are stronger than ever! Guide Opa-Opa through hosts of creepy creatures and stop the Menons for good!
+
+Gameplay:
+
+Opa-Opa must clear the levels by moving through them and shooting down all of the "Enemy Generators". Once every "Enemy Generator" in the level has been destroyed a "Menon Guardian" will appear. These are essentially the bosses of each level. In order to obtain better weapons/equipment, etc, the player needs to collect gold. Gold coins can be collected when an enemy is destroyed. Vast amounts of Gold will also be given when Menon Guardians are defeated.
+
+The Gold Values are as follows:
+
+5000, 2000, 1000, 500, 200, 100, 50, 10 gold
+
+To buy weapons, etc, the player has to fly into the "shop". The shop is shown as a red weather balloon. Here many different items may be purchased to increase Opa-Opa's chances of victory. The items for sale and their prices are as follows:
+
+SPEED UPGRADES-
+1: Big Wings, 200 Gold. An upgrade from the small wings.
+2: Jet Engine, 5,000 Gold. An upgrade from the Big Wings.
+3: Turbo Engine, 20,000 Gold. An upgrade from the Jet Engine.
+4: Rocket Engine, 100,000 Gold. Insanely fast; the ultimate upgrade.
+
+WEAPON UPGRADES-
+
+1: Wide Beam, 1,000 Gold. This item shoots off Semi-Circles of energy. Can be useful at close range.
+2: Laser Beam, 4,000 Gold. The laser is a powerful weapon that fires a continuous beam of energy that damages enemies greatly.
+3: 7-Way Shot, 10,000 Gold. This item has a large range.
+4: Cross-Rang, 20,000 Gold. A boomerang-type weapon.
+
+BOMB UPGRADES-
+1: Twin Bomb, 200 Gold. Double the firepower of the default weapon.
+2: Quartets, 1,000 Gold. Four heat-seeking missiles.
+
+SPECIAL WEAPONS-
+1: Ultra Bomb, 2,000 Gold. A powerful bomb, with cumulative damage.
+2: Heavy Bomb, 2,000 Gold. A giant weight that kills any enemies that are under the player.
+3: Thunder Volt, 2,000 Gold. Random thunderbolts strike across the screen.
+4: Hurricane, 2,000 Gold. Whirlwinds spiral out from the player's ship, killing anything that comes in contact with them.
+5: Smart Bomb, 2,000 Gold. Destroys all weaker enemies on screen. This does not include Enemy Generators or bosses.
+6: BackFire, 2,000 Gold. A burst of flame comes from behind the ship.
+7: Shower Bombs, 2,000 Gold. Six bombs are dropped from the player's ship.
+
+OTHER ITEMS-
+1: Extra Life, 5,000 Gold. Another chance.
+2: Shield, 40,000 Gold. A bubble will surround the player's ship and defend the player from attacks for a short time.
+3: Rubber Boots, 5,000 Gold. Useful to insulate electricity.
+4: Super Lights, 4,000 Gold. Used to see in the dark.
+
+- Bosses -
+
+LEVEL ONE
+The boss for level one is a giant floating pumpkin, which can be seen on the cover art for the game. Its attacks by spitting a seed that splits into eight spiraling projectiles once it lines up with Opa-Opa either vertically or horizontally. It also teleports around the screen, moving to where Opa-Opa has just been.
+
+LEVEL TWO
+The boss for level two is a metal face covered with small gun turrets, which all need to be destroyed to defeat it. The gun turrets shoot in turn, and when a couple have been destroyed the rest will start to rotate.
+
+LEVEL THREE
+This boss is a floating metal fish, which attacks by sucking the player in and shooting scales at them. It is hard to kill as the only time it is vulnerable is when it is inhaling, and this is when its mouth is open.
+
+LEVEL FOUR
+This boss is a metal octopus, which attacks by swinging its axe-like tentacles and shooting at the player. The only vulnerable part of this boss is its face.
+
+LEVEL FIVE
+The boss for this level are two square stone heads. They move in sequence, parallel to each other round the screen. As they move they open and close their eyes, and they can only be damaged when their eyes are open.
+
+LEVEL SIX
+The boss for this level is a metal ship that conducts electricity from the ground and air, and then uses it to fire balls of energy at the player. When he has run out of energy he charges again, creating bolts of energy at his top and bottom.
+
+LEVEL SEVEN
+This Boss is a giant nautilus that fires balls of energy at the player. Once the player destroys him, it multiplies. First into four, then into sixteen. Although the smallest nautili do not shoot at Opa-Opa, they remain on-screen when defeated, still able to kill by collision.
+
+http://en.wikipedia.org/wiki/Super_Fantasy_Zone
+http://www.gamefaqs.com/console/genesis/home/565466.html

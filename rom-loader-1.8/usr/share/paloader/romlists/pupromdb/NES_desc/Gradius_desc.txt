@@ -1,0 +1,48 @@
+The people of Gradius are in trouble. The ameoboid Bacterions have launched an all out attack against the planet, and it's up to you to fly into battle and save them.
+
+Along the way you'll be able to power up your ship with hyper speed, force fields, lasers, missiles, double beam cannons and more to help you battle. Based on the arcade game, Gradius is a side scrolling shooter. Shooting certain enemies will leave a power up pod behind which can be collected to add more power to your ship. Each level features a wide variety of enemies trying to stop you, with a large boss at the end. Gameplay is for one player or two players alternating.
+
+Gradius was one of the first really popular space shooters. It was a revolutionary new type of game which ended up spawning many others. While not as fun as some of its sequels, Gradius still manages to pack a punch.
+
+The graphics are amazing for the time. On it's own it looks like a very well-done Nintendo game. But more astoundingly is the fact that it's an arcade-perfect port. Your ship is small, but quite detailed. Some weapons are your ship's size or smaller. But, the bosses are also huge. In some cases, they can take up nearly half of the screen! Ranging from giant space stations to huge space monsters, to floating Easter Heads (?), the graphics are great. Not to mention some of the better backgrounds.
+
+The story seems to be nonexistent. It's pretty typical otherwise. You, a small little space ship, must save the world from destruction and face impossible odds. You know how it goes. But then again, this is a space shooter. How many do we know of that actually tries to incorporate a story anyway?
+
+Controls - 
+A Button - Shoot
+B Button - Use Power Up
+Start Button - Pause
+Select Button - Nothing
+
+Hints - 
+Warp Ahead
+Destroy the boss of the level within five seconds to warp to the level two levels! For example, this would take you from level 1 to level 3.
+Super Ship
+Pause during a game and enter the Konami code (UP UP DOWN DOWN LEFT RIGHT LEFT RIGHT B A START) and you will have all equipment. Only works once per game.
+
+Secret Message
+Hold B + A while turning the power on or resetting to get the following message - 
+KONAMI ONE
+GRADIUS ONE
+
+Reviewer - Agoaj
+http://consoleclassix.com/nes/gradius.html
+You are the last hope of the gentle people of Gradius. You've just lifted off to confront the all-out attack of the amoeboid Bacterions. Your hyper-space fighter is armed with the greatest arsenal in the galaxy. Air-to-surface and double beam laser cannons for incredible firepower. Powerful force fields for protection. Time and space warps for fleeing the dimension. You'll need it all just to survive. Because at the heart of the Bacterion Empire lies the Xaerous Superfortress - the nerve center of the all-knowing, all-seeing Bacterion Bio-Computer. It's a duel to the death, while the entire galaxy watches, waits, and hopes!
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.gamefaqs.com/console/nes/home/587317.html
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

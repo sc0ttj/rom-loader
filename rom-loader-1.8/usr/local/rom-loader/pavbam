@@ -1,0 +1,611 @@
+#!/bin/sh
+
+# enable joypad rom browsing
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/pavbamrc
+# set some vars as defaults
+export FULLGUI=''
+export FSGUI=''
+export FULLSCREENGUI='';
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.gb$|\.gba$|\.gbc$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_gameboy' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "PAvbam $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: pavbam [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR=$HOME #default browser dir
+	FULL="true"
+	DRI="Default"																	# --opengl=[0|1|2]
+	IFB="Default"																	# --ifb-filter=[0|1|2|3]
+	FLASH="Default"																# [--flash-64k|--flash-128k]
+	THROTTLE_TOG="false"													# --no-throttle
+	THROTTLE="0"																# --throttle=[5...1000]
+	BIOS="None"																	# path to file
+	UCONFIG="None"															# path to file
+	FILTER="Default"																# --filter=[0|1|...|16]
+	FRAMESKIP="0"																# --frameskip=[0...9]
+	AUTOFS="true"																# --auto-frameskip
+	OSD="Default"																# [--no-show-speed|--show-speed-normal|--show-speed-detailed]
+	PAUSE="Default"																# [--no-pause-when-inactive|--pause-when-inactive]
+	WORD1=""
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAvbam config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	# DISPLAY OPTIONS
+	echo FULL=$FULL >> $CONFIG
+	echo DRI=$DRI >> $CONFIG
+	echo IFB=$IFB >> $CONFIG
+	echo FILTER=$FILTER >> $CONFIG
+	# SPEED OPTIONS
+	echo THROTTLE_TOG=$THROTTLE_TOG >> $CONFIG
+	echo THROTTLE=$THROTTLE >> $CONFIG
+	# FILE OPTIONS
+	echo UCONFIG="\"$UCONFIG\"" >> $CONFIG
+	echo BIOS="\"$BIOS\"" >> $CONFIG
+	echo FLASH=$FLASH >> $CONFIG
+	# SPEED OPTIONS
+	echo FRAMESKIP=$FRAMESKIP >> $CONFIG
+	echo AUTOFS=$AUTOFS >> $CONFIG
+	echo PAUSE=$PAUSE >> $CONFIG
+	# MISC OPTIONS
+	echo OSD=$OSD >> $CONFIG
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	# set fullscreen
+	if [ "$FULL" = true ];then
+	  C="--fullscreen "
+	else
+	  C=""
+	fi
+
+	if [ "$GBA_BACKEND" = "vbam" ];then
+
+		# DRI
+		if [ "$DRI" = "Disabled" ];then
+		  C="$C --no-opengl "
+		elif [ "$DRI" = "Unfiltered" ];then
+			C="$C --opengl-nearest "
+		elif [ "$DRI" = "Bilinear" ];then
+			C="$C --opengl-bilinear "
+		else
+			C="$C --no-opengl "
+		fi
+
+		# Inter Frame Blending
+		if [ "$IFB" = "None" ];then
+		  C="$C --ifb-filter=0 "
+		elif [ "$IFB" = "Blur" ];then
+		  C="$C --ifb-filter=1 "
+		elif [ "$IFB" = "Smart" ];then
+		  C="$C --ifb-filter=2 "
+		else
+		  C="$C --ifb-filter=0 "
+		fi
+
+	fi
+	
+	# set graphics filter 
+	if [ "$FILTER" = "Default" ];then
+	  C="$C --filter=0 "
+	elif [ "$FILTER" = "Stretch2x" ];then
+	  C="$C --filter=1 "
+	elif [ "$FILTER" = "2xSai" ];then
+	  C="$C --filter=2 "
+	elif [ "$FILTER" = "Super2xSai" ];then
+	  C="$C --filter=3 "
+	elif [ "$FILTER" = "SuperEagle" ];then
+	  C="$C --filter=4 "
+	elif [ "$FILTER" = "Pixelate" ];then
+	  C="$C --filter=5 "
+	elif [ "$FILTER" = "AdvanceMAME" ];then
+	  C="$C --filter=6 "
+	elif [ "$FILTER" = "Bilinear" ];then
+	  C="$C --filter=7 "
+	elif [ "$FILTER" = "BilinearPlus" ];then
+	  C="$C --filter=8 "
+	elif [ "$FILTER" = "Scanlines" ];then
+	  C="$C --filter=9 "
+	elif [ "$FILTER" = "TV" ];then
+	  C="$C --filter=10 "
+	elif [ "$FILTER" = "lq2x" ];then
+	  C="$C --filter=11 "
+	elif [ "$FILTER" = "hq2x" ];then
+	  C="$C --filter=12 "
+	elif [ "$FILTER" = "Stretch3x" ];then
+	  C="$C --filter=13 "
+	elif [ "$FILTER" = "hq3x" ];then
+	  C="$C --filter=14 "
+	elif [ "$FILTER" = "Stretch4x" ];then
+	  C="$C --filter=15 "
+	elif [ "$FILTER" = "hq4x" ];then
+	  C="$C --filter=15 "
+	else
+	  C="$C --filter=0 "
+	fi
+	
+	# set the throttle on or off
+	if [ "$THROTTLE_TOG" = false ];then
+		C="$C --no-throttle "
+	else
+		C="$C"
+	fi
+
+	# set the throttle amount
+	if [ "$THROTTLE" = "0" ];then
+		C="$C"
+	else
+		C="$C --throttle=$THROTTLE "
+	fi
+
+	# set the CONFIG file
+	if [ "$UCONFIG" = "None" ];then
+		C="$C"
+	else
+		C="$C --config=\"$UCONFIG\" "
+	fi
+
+	# set the BIOS file
+	if [ "$BIOS" = "None" ];then
+		C="$C"
+	else
+		C="$C --bios=\"$BIOS\" "
+	fi
+
+	# FLASH
+	if [ "$FLASH" = "64k" ];then
+	  C="$C --flash-64k "
+	elif [ "$FLASH" = "128k" ];then
+	  C="$C --flash-128k "
+	else
+		C="$C"
+	fi
+
+	# auto frameskip
+	if [ "$AUTOFS" = true ];then
+		C="$C --auto-frameskip "
+	else
+		C="$C"
+	fi
+
+	# frameskip
+	if [ "$FRAMESKIP" != "Off" ];then
+	  C="$C --frameskip=$FRAMESKIP "
+	else
+		C="$C"
+	fi
+	
+	# pause when inactive
+	if [ "$PAUSE" = true ];then
+		C="$C --pause-when-inactive "
+	else
+		C="$C --no-pause-when-inactive "
+	fi
+		
+	# on screen display (OSD)
+	if [ "$OSD" = "None" ];then
+		C="$C --no-show-speed "
+	elif [  "$OSD" = "Normal" ];then
+		C="$C --show-speed-normal "
+	elif [  "$OSD" = "Detailed" ];then
+		C="$C --show-speed-detailed "
+	else
+		C="$C --no-show-speed "
+	fi
+
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile vbam &>/dev/null
+	rejoystick2cc --load --profile vbam &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	[ "$GBA_BACKEND" = "vbam" ] && GBA_EXEC="/usr/local/vbam/vbam" || GBA_EXEC="VisualBoyAdvance"
+
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	echo "$GBA_EXEC $C $WORD1 \"$DIR$CHOOSER\""  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad rom browsing
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo -e 'Select a valid ROM the browser and execute' > $WORKDIR/info
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${GBA_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+#build gui
+S='
+<window title="Puppy Arcade - Gameboy loader ('$GBA_BACKEND')" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+	<vbox>
+	
+		<frame>
+		<text height-request="5"><label>""</label></text> 
+
+			<notebook labels="Display|Files|Speed|Custom">
+
+				<frame>
+					<hbox>
+						<checkbox tooltip-text="Enable fullscreen display">
+							<label>Enable fullscreen</label>
+							<variable>FULL</variable>
+							<default>"'$FULL'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<text><label>OpenGL:</label></text>
+						<combobox width-request="110" tooltip-text="Choose your preferred OpenGL settings. If you have not enabled OpenGL, make sure it is disabled here, or it will not work.">
+							<variable>DRI</variable>
+							'$DRI_ITEMS'
+						</combobox>
+					</hbox>
+
+					<text height-request="10"><label>""</label></text> 
+					<hbox>
+						<text><label>Display Filter:</label></text>
+						<combobox width-request="135" tooltip-text="Choose your preferred graphics filter to enable smoother (but slower) emulation">
+							<variable>FILTER</variable>
+							'$FILTER_ITEMS'
+						</combobox>
+					</hbox>
+
+					<text height-request="10"><label>""</label></text> 
+					<hbox>
+						<text><label>Frame blending:</label></text>
+						<combobox width-request="120" tooltip-text="Choose how indivdual frames are shown in sequence">
+							<variable>IFB</variable>
+							'$IFB_ITEMS'
+						</combobox>
+						<text><label>OSD:</label></text>
+						<combobox width-request="110" tooltip-text="Choose how much information you want to show on the on-screen-display">
+							<variable>OSD</variable>
+							'$OSD_ITEMS'
+						</combobox>
+					</hbox>
+				</frame>
+
+				<frame>
+
+					<text height-request="10"><label>""</label></text> 
+					<vbox>
+						<text width-request="450"><label>When NOT using config or BIOS files, set the field(s) below to "None"</label></text>
+					</vbox>
+					<text height-request="10"><label>""</label></text> 
+					<hbox>
+						<text><label>Config file (optional):</label></text>
+						<entry>
+							<variable>UCONFIG</variable>
+							<input>echo '$UCONFIG'</input>
+						</entry>
+						<button>
+							<input file icon="gtk-open"></input>
+							<action type="fileselect">CONFIG</action>
+						</button>
+					</hbox>
+					<vbox>
+						<text width-request="450"><label>- a config file can be found here:  /root/.vbam/VisualBoyAdvance.cfg</label></text>
+						<text width-request="450"><label>- using a config file will overwrite any settings you choose!</label></text>
+					</vbox>
+					<text height-request="10"><label>""</label></text> 
+					<hbox>
+						<text><label>BIOS file (optional):</label></text>
+						<entry>
+							<variable>BIOS</variable>
+							<input>echo '$BIOS'</input>
+						</entry>
+						<button>
+							<input file icon="gtk-open"></input>
+							<action type="fileselect">BIOS</action>
+						</button>
+					</hbox>
+					<text height-request="10"><label>""</label></text> 
+					<hbox>
+						<text><label>Flash memory size:</label></text>
+						<combobox width-request="110" tooltip-text="Choose the size of the Flash memory of the emulated device">
+							<variable>FLASH</variable>
+							'$FLASH_ITEMS'
+						</combobox>
+					</hbox>
+				</frame>
+
+				<frame>
+					<text height-request="10"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="Enable speed throttle">
+							<label>Enable Throttle</label>
+							<variable>THROTTLE_TOG</variable>
+							<action>if true enable:THROTTLE</action>
+							<action>if false disable:THROTTLE</action>
+							<default>"'$THROTTLE_TOG'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<text><label>Throttle speed:</label></text>
+						<combobox width-request="110" tooltip-text="Choose how much throttling to do">
+							<variable>THROTTLE</variable>
+							'$THROTTLE_ITEMS'
+							<visible>disabled</visible>
+						</combobox>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="Enable automatic frameskipping - this may speed up emulation, but will appear less smooth">
+							<label>Auto frameskip</label>
+							<variable>AUTOFS</variable>
+							<action>if true disable:FRAMESKIP</action>
+							<action>if false enable:FRAMESKIP</action>
+							<default>"'$AUTOFS'"</default>
+						</checkbox>
+						<text width-request="15"><label>""</label></text> 
+						<text><label>Frameskip:</label></text>
+						<combobox tooltip-text="Enable frame-skipping - dropping frames may improve smoothness and speed" width-request="100">
+							<variable>FRAMESKIP</variable>
+							'$FRAMESKIP_ITEMS'
+						</combobox>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<checkbox tooltip-text="Pause emulation when window is inactive (the focus is lost to another application)">
+							<label>Pause when inactive</label>
+							<variable>PAUSE</variable>
+							<default>"'$PAUSE'"</default>
+						</checkbox>
+					</hbox>
+				</frame>
+
+				<frame>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>"Custom options (see help)"</label></text>
+						<entry editable="true" left_margin="10">
+							<variable>WORD1</variable>
+							<default>"'$WORD1'"</default>
+						</entry>
+					</hbox>
+				</frame>
+			
+			</notebook>
+		
+		</frame>
+
+	</vbox>
+	<vbox>
+	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"'$GBA_BACKEND' Help:
+=============================
+Emulator controls:
+
+Quit		ESCAPE
+
+Speed up	SPACE
+Capture		F12
+----------------------------------
+In-game controls:
+
+Player 1:
+
+	Up            	W
+	Down          	S
+	Left          	A
+	Right         	D
+	B             	V
+	A             	B
+	L             		C
+	R             	N
+	Start        	ENTER
+	Select        	R_SHIFT
+
+-----------------------------------
+
+3. More Options:
+
+  -G, --gdb=PROTOCOL        		GNU Remote Stub mode:
+                                tcp      				- use TCP at port 55555
+                                tcp:PORT 		- use TCP at port PORT
+                                pipe     			- use pipe transport
+  -N, --no-debug            	 	Do not parse debug information
+  -d, --debug                  		Enter debugger
+  -i, --ips=PATCH              	Apply given IPS patch
+  -p, --profile=[HERTZ]		Enable profiling
+  -t, --save-type=TYPE        Set the available save type
+      --save-auto               	0 - Automatic (EEPROM, SRAM, FLASH)
+      --save-eeprom             	1 - EEPROM
+      --save-sram               	2 - SRAM
+      --save-flash              	3 - FLASH
+      --save-sensor             	4 - EEPROM+Sensor
+      --save-none               	5 - NONE
+  -v, --verbose=VERBOSE        Set verbose logging (trace.log)
+                                  1 - SWI
+                                  2 - Unaligned memory access
+                                  4 - Illegal memory write
+                                  8 - Illegal memory read
+                                 16 - DMA 0
+                                 32 - DMA 1
+                                 64 - DMA 2
+                                128 - DMA 3
+                                256 - Undefined instruction
+                                512 - AGBPrint messages
+
+Long options only:
+      --agb-print			Enable AGBPrint support
+      --no-agb-print		Disable AGBPrint support
+      --no-ips			Do not apply IPS patch
+      --rtc				Enable RTC support
+      --no-rtc			Disable RTC support
+      
+See config files: 
+	VBA-M: 						/root/.vbam/VisualBoyAdvance.cfg
+	VisualBoyAdvance: 	/usr/etc/VisualBoyAdvance.cfg
+
+
+"</default>
+	</edit>		
+	</vbox>
+	</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>defaulttexteditor /usr/local/vbam/vbam.txt &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export pavbam="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p pavbam $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset pavbam
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

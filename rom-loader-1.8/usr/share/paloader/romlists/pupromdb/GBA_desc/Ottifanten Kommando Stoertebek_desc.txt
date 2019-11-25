@@ -1,0 +1,25 @@
+This is a mediocre platform game, you know the kind, where it constantly scrolls to the right, whether you want it to or not, and one hit from ANY object instantly kills you. Great stuff. Anyways, this is notable for its being developed and released completely in Germany, and the nice kiddies at the Matrix Arcade Division were kind enough to provide us with a translation of this riveting tale of an elephant in search of his "honk".
+
+Translation Description:
+
+This game is completely finished, except for one tiny phrase I found (Spiel Ende in the Pause menu), but it's pretty much complete for anyone's purposes but the Whirlpool's. The grammar really sucks too, but I don't think a native speaker translated this, so I guess you can't complain too much. I guess.
+
+Reviewer: Spinner 8
+http://www.romhacking.net/trans/38/
+*
+********************************************** P **********************************************
+*
+3485ef86,f565647f
+Pac-Man: Special Color Edition
+Platform: Gameboy Color
+Region: USA
+Media: Cartridge
+Controller: Gameboy Color
+Genre: Maze
+Release Year: 1999
+Developer: Namco
+Publisher: Namco
+@END
+In celebration of the 20th anniversary of Pac-Man, this game pack includes a conversion of the original Pac-Man arcade game as well as the Tetris style puzzle game Pac-Attack. 
+
+http://www.mobygames.com/game/gameboy-color/pac-man-special-color-edition

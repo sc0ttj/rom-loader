@@ -1,0 +1,97 @@
+#!/bin/sh
+
+# this function essentially builds the rom browsing part of the Rom-Loader GUIs
+# without it, puppy arcade does next to nothing
+# it will build a filw browser GUI, so we can browser our files and dirs to find our roms
+# once roms are found, we can list all the rom details instead of just filenames
+
+
+build_chooser_gui () {
+	
+	# create the headers we need for the rom tree
+	# if the $SYSTEM.txt file exists, we need lots of headers, cos we have lots of rom info
+	if [ -f /usr/share/paloader/romlists/pupromdb/$SYSTEM.txt -a "$ROM_DATABASE" = true ];then
+		TREE_LABELS="Rom|Fav|Pl|Date|Genre|Region|Publisher|Developer|Cert.|Media|Input|Platform"
+	else
+		TREE_LABELS="Rom"
+	fi
+
+	# if both box art and rom descriptions are disabled, remove the whole bottom panel from the gui
+	if [ "$ROM_BOXART_ENABLE" = false -a "$ROM_DESCR_ENABLE" = false ];then
+		ROM_BOTTOM_PANEL=false
+	else
+		ROM_BOTTOM_PANEL=true
+	fi
+	
+	# if box art and descriptions are true, disable homogenous (centered) placement of boxart
+	if [ "$ROM_BOXART_ENABLE" = true -a "$ROM_DESCR_ENABLE" = true ];then
+		ROM_BOTTOM_HOMOG=false
+	else
+		ROM_BOTTOM_HOMOG=true
+	fi
+	
+	case $ROM_HSCROLLBAR in
+	true) HSCROLLBAR=1;; # enabled
+	false) HSCROLLBAR=2;; # disabled
+	*) HSCROLLBAR=2 ;;
+	esac
+	
+	#set position of rom boxart and descriptions (top or bottom) ... 
+	# the setting is actually ROM_LIST_POS ... but here, we move stuff (boxart and descrs) around it instead... 
+	BOXART_DESC_TOP=''
+	BOXART_DESC_BOTTOM=''
+	BOXART_DESC_GUI='<hbox homogeneous="'$ROM_BOTTOM_HOMOG'" visible="'$ROM_BOTTOM_PANEL'">
+		<pixmap visible="'$ROM_BOXART_ENABLE'" allow_expand="false" auto_refresh="true">
+			<variable>BOXART</variable>
+			<width>'${1:-280}'</width><height>'${2:-200}'</height>
+			<input file>/root/.paloader/tmp/boxart.jpg</input>
+		</pixmap>
+		<edit name="romdescr" visible="'$ROM_DESCR_ENABLE'" indent="5" editable="false" can_focus="true" hscrollbar_policy="2" vscrollbar_policy="1">
+		   <height>200</height>
+		   <input file>'$WORKDIR'/info</input>
+		   <variable>INFO</variable>
+		</edit>
+	</hbox>'
+	#if romlist at 'top',			we move rom boxart and descriptions to bottom,
+	# if romlist at 'bottom',	we move rom boxart and descriptions to top 
+	case ${ROM_LIST_POS:-top} in
+		top) export BOXART_DESC_BOTTOM="$BOXART_DESC_GUI" ;;
+		bottom) export BOXART_DESC_TOP="$BOXART_DESC_GUI" ;;
+	esac
+	
+	# for keeping line number in separate files per system in selected-line="$LAST_LINE" ...
+	#export LAST_LINE="`cat /tmp/paloader/${SYSTEM}_lastrom`"
+	#LAST_LINE="${LAST_LINE:-1}"
+	#now build the actual file browsing, rom listing part of the current rom-laoder gui
+	CHOOSER_GUI='<vbox>
+    <hbox>
+       <entry auto_refresh="true" visible="false" can_focus="false"><variable>DIR</variable><input>cat '$WORKDIR'/dir</input></entry>
+       <button visible="false" can_default="true" has_default="false" use_stock="true" can_focus="false">
+        <label>Go</label>
+        <action>browser_go_to_dir</action>
+        <action>refresh:CHOOSER</action>
+        <action>refresh:DIR</action>
+       </button>
+    </hbox>
+    '$BOXART_DESC_TOP'
+    <tree name="romtree" rules-hint="true" selected_row="0" headers_visible="true" auto_refresh="true" has_focus="true" 
+    hover_selection="false" selection-mode="'${SEL_MODE:-1}'" column-sort-function="0|0|1|1" hscrollbar_policy="'${HSCROLLBAR:-2}'" vscrollbar_policy="1">
+       <label>'$TREE_LABELS'</label>
+       <height>'$HEIGHT_TREE'</height>
+	   <variable>CHOOSER</variable>
+       <input icon_column="0">cat "'$WORKDIR'/ls"</input>
+	   ## the cursor-changed signal will refresh INFO using joypad navigation of rom list
+	   ##<action signal="button-release-event">export lineno=`cat "'$WORKDIR'/files" | grep -F -B2000 "${CHOOSER}" | wc -l`; echo $lineno > /tmp/paloader/${SYSTEM}_lastrom</action>
+	   <action signal="cursor-changed">filecheck</action>
+	   <action signal="cursor-changed">refresh:INFO</action>
+	   <action signal="cursor-changed">refresh:BOXART</action>
+       <action>browser_change_dir</action> ## I M P O R T A N T
+       ## refreshing CHOOSER makes us lose the last selected ROM, but enables auto update of list info
+       <action>refresh:CHOOSER</action>   ## if we dont do this, the popup menu sometimes gets stuck in a loop!
+       <action>refresh:DIR</action>
+    </tree>
+	'$BOXART_DESC_BOTTOM'
+  </vbox>'
+  export CHOOSER_GUI
+
+}

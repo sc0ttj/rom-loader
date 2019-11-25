@@ -1,0 +1,27 @@
+The original Tyrian was a shoot 'em up developed for the PC by Eclipse Productions (later named World Tree Games) and published in 1995 by Epic MegaGames. A version of Tyrian 2000 was in development for the Game Boy Advance, but after the then publisher Symmetry Entertainment had closed business, the European publisher Stealth Productions, Inc. (Stealth Media Group, Inc.) obtained the publish rights, but it was cancelled. The game was eventually leaked online as a rom.
+
+2 Sidekick weapons can be fired at the same time. Super Arcade and audio are not included. New to this game is Challenge mode, where additional levels are unlocked by completing existing Challenge levels. 
+
+http://www.unseen64.net/2009/05/16/tyrian-2000-gba-cancelled/
+The original Tyrian was a shoot 'em up developed for the PC by Eclipse Productions (later named World Tree Games) and published in 1995 by Epic MegaGames. A version of Tyrian 2000 was in development for the Game Boy Color, but it was later cancelled to work on the Tyrian 2000 GBA version. The game was eventually leaked online as a rom.
+
+In the Game Boy Color version, the Full Game incorporates a shorter stories (from Episodes 1-4) than the original DOS game, but planet Ixmucane core always gets destroyed at the end, and the levels were redesigned. The rear weapon from the DOS game is not available. Player can carry 2 Sidekick weapons at once, but only 1 is usable at a time. New game modes and items can be unlocked by purchasing Extras using credits obtained by completing a stage.
+
+http://www.unseen64.net/2009/06/23/tyrian-2000-gbc-cancelled/
+*
+********************************************** U **********************************************
+*
+92a5a1ad,d5f036ce
+Ultimate Fighting Championship
+Platform: Gameboy Color
+Region: USA
+Media: Cartridge
+Controller: Gameboy Color
+Genre: VS Fighter
+Release Year: 2000
+Developer: Fluid Studios
+Publisher: Crave
+@END
+Ultimate Fighting Championship is a 2D Fighting game, developed by Fluid Studios and published by Crave, which was released in 2000.
+
+http://www.gamefaqs.com/portable/gbcolor/home/915814.html

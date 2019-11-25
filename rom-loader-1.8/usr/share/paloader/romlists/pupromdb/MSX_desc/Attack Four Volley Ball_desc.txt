@@ -1,0 +1,3 @@
+Attack Four is a fast-paced, four-man lady volleyball game. The human player plays as Japan, against either USSR, USA or China. All the basic rules of volleyball are implemented, but few moves are available. The graphics are plain but with humourous animations such as players being thrown back when receiving the ball.
+ 
+http://www.mobygames.com/game/msx/attack-four-volleyball

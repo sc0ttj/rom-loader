@@ -1,0 +1,26 @@
+The story of the Addams Family game was unoriginal, with the family being kidnapped. This seems to be the story for so many games, your loved one/ones have been kidnapped and you have to save them.
+
+This game had some very good looking backgrounds along with well drawn sprites. The controls were responsive and easy to learn. The sounds, of course, included that famous and catchy Addams Family theme song. The sound effects were good, although there weren't many.
+
+Directions:
+
+Search the Addams Family mansion for your lost family, fighting monsters and watching out for traps. To win you must beat Tully, who has had the family evicted from their home.
+
+Be careful, because when you first start the game, you only have two hit points. You will find other heart containers later in the game and end up with a total of five.
+
+There are a few other power-ups that you should know about. First, hearts replenish your life. Money, marked by a $, will refill one heart for every 10$ you collect. A fez hat with a propeller will allow you to fly for a short time by tapping the jump button. If you leave the screen or get hit, the hat will disappear. There is also a shield you can get that will protect you for a short time.
+
+Controls:
+
+A Button: None
+B Button: Jump
+C Button: Attack
+Start Button: Start/Pause
+
+Hints:
+
+Cheat Code
+Enter this password and get 16 lives and 3 hearts: &1RKD 
+
+Reviewer: Adrian 
+http://www.consoleclassix.com/genesis/addams_family.html

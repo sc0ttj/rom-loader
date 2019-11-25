@@ -1,0 +1,5 @@
+A vertical shoot'em up. A conversion of Taito's arcade classic Scramble Formation. The player pilots a biplane over what is presumably the city of Tokyo. Power-ups include multiple biplanes. The option of using plane formations increases gameplay substantially.
+
+At the end of each level you 'll have to face the Big Enemy.
+ 
+http://www.mobygames.com/game/msx/scramble-formation

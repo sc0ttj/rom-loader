@@ -1,0 +1,19 @@
+# buils gui elements
+# gfx filter combobox
+FILTER_ARRAY=("None" "TV" "Scanlines" "Monochrome" "Nearest Neighbour")
+FILTER_ITEMS="<item>$FILTER</item>" #stored value should be first in list
+for i in "${FILTER_ARRAY[@]}"
+do
+	if [ "$i" != "$FILTER" ];then # if not already the selected value
+		FILTER_ITEMS=`echo "$FILTER_ITEMS<item>$i</item>"`
+	fi
+done
+
+SCALE_ARRAY=("Normal"  "Double" "Double-Scanlines")
+SCALE_ITEMS="<item>$SCALE</item>" #stored value should be first in list
+for i in "${SCALE_ARRAY[@]}"
+do
+	if [ "$i" != "$SCALE" ];then # if not already the selected value
+		SCALE_ITEMS=`echo "$SCALE_ITEMS<item>$i</item>"`
+	fi
+done

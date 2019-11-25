@@ -1,0 +1,7 @@
+Predator: Soon The Hunt Will Begin is an 2D action game. There are 30 stages in the game, and each one is split up into two modes: Jungle Mode, and Big Mode. 
+
+In Jungle Mode, the object of the game is to survive the dangers of the jungle while you shoot down guerillas and wildlife using  variety of weapons including machine guns, laser rays, and grenades (all with unlimited ammo). You exit the stage by entering a cave to proceed to the next level. Sometimes there is more than one cave, and you will be warped to another stage other than the next one, depending on what cave you enter.
+
+After three or so stages, you enter the game's Big Mode. The object here is to blast blue and purple spheres before they have a chance to hurt you. Some spheres have power-ups that will increase your firepower. When you have made some distance, you have to defeat the Predator before you can continue on to the next stage. Big Mode is the same throughout the game, but the only difference here is the Predator's attack pattern.
+ 
+http://www.mobygames.com/game/msx/predator-soon-the-hunt-will-begin

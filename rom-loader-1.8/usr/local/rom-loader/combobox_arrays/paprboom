@@ -1,0 +1,19 @@
+# resolution combobox
+VID1_ARRAY=(Default 320X200 320x240 512x384 640x400 640x480 800x600 960x600 960x720 1024x600 1024x768 1280x800 1280x960)
+VID1_ITEMS="<item>$VID1</item>" #stored value should be first in list
+for i in "${VID1_ARRAY[@]}"
+do
+	if [ "$i" != "$VID1" ];then # if not already the selected value
+		VID1_ITEMS=`echo "$VID1_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done
+
+# difficulty combobox
+DIFF1_ARRAY=("ITYTD" "NotTooRough" "HurtMePlenty" "UltraViolent" "Nightmare")
+DIFF1_ITEMS="<item>$DIFF1</item>" #stored value should be first in list
+for i in "${DIFF1_ARRAY[@]}"
+do
+	if [ "$i" != "$DIFF1" ];then # if not already the selected value
+		DIFF1_ITEMS=`echo "$DIFF1_ITEMS<item>$i</item>"` # add the value to the list
+	fi
+done

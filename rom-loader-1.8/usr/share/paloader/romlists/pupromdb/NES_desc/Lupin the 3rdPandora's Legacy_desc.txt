@@ -1,0 +1,62 @@
+This is a very early example of the old truism that games based on licensed properties are by default Bad. It applies here with crappy movie licenses just as it applies to crappy Japanese games with anime licenses (hi Banpresto).
+
+The story is a continuation of Castle of Cagliostro - Clarisse is (again) kidnapped, and everyone races to the rescue. You can choose which of three characters you want to control - Lupin shoots short distances, Jigen shoots long distances, and Goemon uses his badass close-range sword. I'm sure there are other differences, but they don't apply to the first level, and none of you will pass the first level anyways.
+
+For starters, this is one of the cheapest games ever. It's an early game, so the jump physics might be excused, but enemies that suddenly appear in front of you in the middle of a long jump that you can't actually see the end of, well, whose bright idea was that? The jumps in the first level are a pain anyways; you have to actually run down the roof to gain the momentum you need to get to the next roof. If you try to keep running at that point, you'll instantly run into an enemy that suddenly appeared directly in front of you.
+
+Toss in the one-hit-kills-you-instantly gimmick, and you've got tons of fun for everyone! Man, I loves me some Lupin, but I defy you to play this game without savestates. It's a pain, man.
+
+Translation Description - 
+Obviously, not much needed doing, which makes it all the more confusing that at least two people have attempted this translation before. I hear there are still some bugs in this patch, but I didn't see anything. Course, I didn't play very far.
+
+Tips - 
+Level Passwords - Lupin, Jigen, Zenigata, Fujiko 02
+Goemon, Lupin, Lupin, Jigen 03
+Jigen, Goemon, Zenigata, Lupin 04
+Zenigata, Lupin, Fujiko, Jigen 05
+Lupin, Goemon, Lupin, Fujiko 06
+Fujiko, Goemon, Zenigata, Lupin 07
+Jigen, Jigen, Fujiko, Lupin 08
+Goemon, Lupin, Zenigata, Goemon 09
+Zenigata, Lupin, Jigen, Goemon 10
+Goemon, Fujiko, Lupin, Zenigata 11
+Fujiko, Lupin, Goemon, Zenigata 12
+Jigen, Fujiko, Goemon, Fujiko 13
+Jigen, Fujiko, Inspector, Inspector 14
+
+Reviewer - Spinner 8
+http://www.romhacking.net/trans/773/
+*
+********************************************** M **********************************************
+*
+84eeffed,9a78fb49,ba52b37f,ba1e27a1,6de33894
+M.C. Kids
+Platform - Nintendo Entertainment System
+Region - USA
+Media - Cartridge
+Controller - NES Gamepad
+Genre - Platformer
+Release Year - 1992
+Developer - Virgin Interactive
+Manufacturer - Virgin Interactive
+Players - 1 or 2 CO-OP
+@END
+While spending the night in their tent, Mick and Mack decided to read about Ronald's adventures. One sunny day while Ronald McDonald is performing magic tricks at a picnic, the Hamburglar runs off with Ronald's Bag of Magic. The Hamburglar is hiding in the worlds of McDonaldLand. The M.C. Kids must collect the Puzzle Cards for each level to track down the Hamburglar and return the Bag of Magic to Ronald McDonald. Keeping them from their quest is a variety of unique creatures sent by the Hamburglar to keep the Bag of Magic to himself! They must hurry, before they are too late!
+
+Mick and Mack went to sleep and were magically transformed into the M.C. Kids. Being Ronald's friends, they want to catch the Hamburglar just as much as you do!
+
+--From the NES M.C. Kids instruction manual.
+
+Overview - 
+Don't judge a book by it's cover! This is not a lame licensed game based around flipping patties and struggling to make rent. M.C. Kids is a great platform game with a large exploratory element.
+
+Directions - 
+Take Mick or Mack through McDonald Land and find the missing cards. The game plays largely like Super Mario Bros 3, and if you liked that game you'll like this one too. 
+
+You don't take out enemies by jumping on their heads, instead you throw blocks at them. Press B to pick up a block. If it is below you, press down and B. B again to throw it. You can aim which way it's thrown with the D-pad.
+
+To clear a stage, break through the goal at the end. If you land on the moving M you get a bonus round.
+
+There are many cool level gimmicks, like walking on the ceiling of the first level by running over the gears. You'll have to experiment to find all the hidden secrets! 
+
+http://consoleclassix.com/nes/mc_kids.html

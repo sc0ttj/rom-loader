@@ -1,0 +1,113 @@
+This puzzle game has 101 levels, in which you have to guide a varying number of Brainies of four different colors onto a spot that matches their color. You control a cross-hair, and press fire while over a Brainy to take or give up control of its motion. Running out of time costs you a life.
+
+The challenge lies in the fact that you can only control the direction in which a Brainy will walk. Once this is set, he will continue to walk until he hits a wall, an obstacle or another Brainy. 
+
+To make things a bit more complicated, there are various obstacles like arrows that change the direction a Brainy is walking in and items than can optionally be picked up.
+
+http://www.mobygames.com/game/brainies
+_________________________
+CHEATS:
+
+Level: Password
+
+0: ADJUACES
+1: GASIANDA
+2: GROIDEKN
+3: NEBRACRUC
+4: RESTUSHA
+5: ENTRLACO
+6: BOTCREPA
+7: OCTOANVA
+8: COADSUPP
+9: RAWBSKIT
+10: TANGVILI
+11: DENAJOIN
+12: VAMBTHEA
+13: UNPASUBO
+14: LANDPAPY
+15: PREPPAND
+16: NIFESAILO
+17: BROCINDI
+18: BUSKPULI
+19: LOGIMARA
+20: OCTOGLAB
+21: TRISEMES
+22: CONVJEHO
+23: RENDCLIN
+24: NEGAPOLY
+25: PETRACCE
+26: SPONENCR
+27: LAZYHOMI
+28: HENDOUTH
+29: PAPYEPIP
+30: COCKSTUM
+31: ETHIGANG
+32: INLADONC
+33: INTEASSA
+34: MASTWOOD
+35: ABROINST
+36: BACKBANA
+37: ECLOWHIP
+38: GROIIMPO
+39: CUBACUBA
+40: DECLDROL
+41: SIMPUNDE
+42: UNHUSCHO
+43: LEGAMURA
+44: ANIMCATE
+45: LAUGMAGE
+46: PALSDYSS
+47: BROCREVE
+48: PORRUNDE
+49: UIGUAPER
+50: NONHMISC
+51: PERUSMIT
+52: DYSSDEKN
+53: DIURGASI
+54: ODORCAUS
+55: PEASANCH
+56: URORDEFE
+57: SUBBPICK
+58: RULASCAR
+59: NODUOOPH
+60: COBEGALE
+61: TROLTACS
+62: PEASVAMB
+63: XYLOWIRE
+64: SCIUMINT
+65: EUGERUNE
+66: ERUPPLOT
+67: MARICONK
+68: NURSHISP
+69: SNOBHOMO
+70: PORTCARO
+71: CHARGEDA
+72: UNNEPOWS
+73: POONROMA
+74: PREAPREP
+75: SAILZOON
+76: ISOSNURS
+77: HENDWOOD
+78: AGONUPSN
+79: LANDDIVY
+80: NICKMAST
+81: PICKROLL
+82: OUTSSPOT
+83: KALAACCE
+84: TELORULA
+85: WORKLAUD
+86: GRAIUPLA
+87: POLOOCTO
+88: REPADETA
+89: FELDUNFO
+90: BADIVELL
+91: PATIBEEF
+92: TITASAUC
+93: PUPIUNPR
+94: MASTERUP
+95: QUARFELD
+96: GRIFSIDE
+97: WHITUNNI
+98: DOWNINSU
+99: UNLIISOP
+100: MUAD DIB

@@ -1,0 +1,644 @@
+#!/bin/sh
+
+# enable joypad support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/padgenrc
+# set some vars as defaults
+export FULLSCREENGUI='';
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.zip$|\.smd$|\.gen$|\.gg$|\.sms$|\.bin$|\.fig$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_genesis' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "padgen $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: padgen [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	AUOLOAD="Default" #boolean
+	AUTOSAVE="Default" #boolean
+	AUTOCONF="Default" #boolean
+	FSKIP="Default" #boolean 
+	CRAPTV="Default" #boolean
+	SCALINGSTARTUP="Default" #boolean
+	SOUND="Default" #boolean
+	SOUNDRATE="Default" #11025 22050 44100
+	VOLUME="Default" #1-100
+	INTHZ="Default" #boolean
+	PAL="Default" #boolean
+	REGION="Default" # U / E / J / X
+	SHOWFPS="Default" #bool
+	FULLSCREEN="Default" #bool
+	OGL="Default" #bool
+	OGLASPECT="Default" #bool
+	OGLLINEAR="Default" #bool
+	OGLBL="Default" #bool
+	OGL32BIT="Default" #bool
+	DOUBLEBUFFER="Default" #bool
+	JOYSTICK="Default" #bool
+	WORD1=""
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#padgen config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	# display
+	echo AUTOLOAD=$AUTOLOAD >> $CONFIG
+	echo AUTOSAVE=$AUTOSAVE >> $CONFIG
+	echo AUTOCONF=$AUTOCONF >> $CONFIG
+	echo FSKIP=$FSKIP >> $CONFIG
+	echo CRAPTV=$CRAPTV >> $CONFIG
+	echo SCALING=$SCALING >> $CONFIG
+	echo SOUND=$SOUND >> $CONFIG
+	echo VOLUME=$VOLUME >> $CONFIG
+	echo PAL=$PAL >> $CONFIG
+	echo INTHZ=$INTHZ >> $CONFIG
+	echo REGION=$REGION >> $CONFIG
+	echo SHOWFPS=$SHOWFPS >> $CONFIG
+	echo FULLSCREEN=$FULLSCREEN >> $CONFIG
+	echo OGL=$OGL >> $CONFIG
+	echo OGLASPECT=$OGLASPECT >> $CONFIG
+	echo OGLLINEAR=$OGLLINEAR >> $CONFIG
+	echo OGL32BIT=$OGL32BIT >> $CONFIG
+	echo DOUBLEBUFFER=$DOUBLEBUFFER >> $CONFIG
+	echo JOYSTICK=$JOYSTICK >> $CONFIG
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+	## editing dgen config file directly, update its settings here
+	#auto load
+	[ "$AUTOLOAD" = "true" ] && sed -i "s|bool_autoload = false|bool_autoload = true|g" /root/.dgen/dgenrc
+	[ "$AUTOLOAD" = "false" ] && sed -i "s|bool_autoload = true|bool_autoload = false|g" /root/.dgen/dgenrc
+
+	#autosave
+	[ "$AUTOSAVE" = "true" ] && sed -i "s|bool_autosave = false|bool_autosave = true|g" /root/.dgen/dgenrc
+	[ "$AUTOSAVE" = "false" ] && sed -i "s|bool_autosave = true|bool_autosave = false|g" /root/.dgen/dgenrc
+
+	#autoconf
+	[ "$AUTOCONF" = "true" ] && sed -i "s|bool_autoconf = false|bool_autoconf = true|g" /root/.dgen/dgenrc
+	[ "$AUTOCONF" = "false" ] && sed -i "s|bool_autoconf = true|bool_autoconf = false|g" /root/.dgen/dgenrc
+
+	#fskip ### switched the ifs around....
+	[ "$FSKIP" = "false" ] && sed -i "s|bool_frameskip = false|bool_frameskip = true|g" /root/.dgen/dgenrc
+	[ "$FSKIP" = "true" ] && sed -i "s|bool_frameskip = true|bool_frameskip = false|g" /root/.dgen/dgenrc
+
+	#craptv
+	if [ "$CRAPTV" != "Default" ];then
+		OLDCRAPTV="`cat /root/.dgen/dgenrc | grep -m1 ^ctv_craptv_startup`"
+		sed -i "s|$OLDCRAPTV|ctv_craptv_startup = $CRAPTV|g" /root/.dgen/dgenrc
+	fi	
+
+	#scaling - "default", "hqx" and "scale2x"
+	[ "$SCALING" = "Default" ] && SCALING=default
+	OLDSCALING="`cat /root/.dgen/dgenrc | grep -m1 ^scaling_startup`"
+	sed -i "s|$OLDSCALING|scaling_startup = $SCALING|g" /root/.dgen/dgenrc
+
+	#sound
+	[ "$SOUND" = "true" ] && sed -i "s|bool_sound = false|bool_sound = true|g" /root/.dgen/dgenrc
+	[ "$SOUND" = "false" ] && sed -i "s|bool_sound = true|bool_sound = false|g" /root/.dgen/dgenrc
+
+	#volume
+	if [ "$VOLUME" != "Default" ];then
+		OLDVOLUME="`cat /root/.dgen/dgenrc | grep -m1 ^int_volume`"
+		sed -i "s|$OLDVOLUME|int_volume = $VOLUME|g" /root/.dgen/dgenrc
+	fi	
+	
+	#pal
+	[ "$PAL" = "true" ] && sed -i "s|bool_pal = false|bool_pal = true|g" /root/.dgen/dgenrc # &&  C="$C -P"
+	[ "$PAL" = "false" ] && sed -i "s|bool_pal = true|bool_pal = false|g" /root/.dgen/dgenrc # &&  C="$C -N"
+
+	#Hertz. default is 60hz (NTSC), PAL is 50hz
+	if [ "$INTHZ" != "Default" ];then
+		OLDHZ="`cat /root/.dgen/dgenrc | grep -m1 ^int_hz`"
+		sed -i "s|$OLDHZ|int_hz = $INTHZ|g" /root/.dgen/dgenrc && C="$C -H $INTHZ"
+	fi	
+
+	#region
+	if [ "$REGION" != "Default" ];then
+		OLDREGION="`cat /root/.dgen/dgenrc | grep -m1 ^region`"
+		sed -i "s|$OLDREGION|region = $REGION|g" /root/.dgen/dgenrc # && C="$C -R $REGION" 
+	fi	
+
+	#showfps
+	[ "$SHOWFPS" = "true" ] && sed -i "s|bool_fps = false|bool_fps = true|g" /root/.dgen/dgenrc
+	[ "$SHOWFPS" = "false" ] && sed -i "s|bool_fps = true|bool_fps = false|g" /root/.dgen/dgenrc
+
+	#fullscreen
+	[ "$FULLSCREEN" = "true" ] && sed -i "s|bool_fullscreen = false|bool_fullscreen = true|g" /root/.dgen/dgenrc && C="$C -f"
+	[ "$FULLSCREEN" = "false" ] && sed -i "s|bool_fullscreen = true|bool_fullscreen = false|g" /root/.dgen/dgenrc
+
+	#opengl
+	[ "$OGL" = "true" ] && sed -i "s|bool_opengl = false|bool_opengl = true|g" /root/.dgen/dgenrc && C="$C -g 1"
+	[ "$OGL" = "false" ] && sed -i "s|bool_opengl = true|bool_opengl = false|g" /root/.dgen/dgenrc C="$C -g 0"
+
+	#opengl aspect ratio
+	[ "$OGLASPECT" = "true" ] && sed -i "s|bool_opengl_aspect = false|bool_opengl_aspect = true|g" /root/.dgen/dgenrc
+	[ "$OGLASPECT" = "false" ] && sed -i "s|bool_opengl_aspect = true|bool_opengl_aspect = false|g" /root/.dgen/dgenrc
+
+	#opengl linear
+	[ "$OGLLINEAR" = "true" ] && sed -i "s|bool_opengl_linear = false|bool_opengl_linear = true|g" /root/.dgen/dgenrc
+	[ "$OGLLINEAR" = "false" ] && sed -i "s|bool_opengl_linear = true|bool_opengl_linear = false|g" /root/.dgen/dgenrc
+
+	#opengl 32 bit
+	[ "$OGL32BIT" = "true" ] && sed -i "s|bool_opengl_32bit = false|bool_opengl_32bit = true|g" /root/.dgen/dgenrc
+	[ "$OGL32BIT" = "false" ] && sed -i "s|bool_opengl_32bit = true|bool_opengl_32bit = false|g" /root/.dgen/dgenrc
+
+	#double buffer
+	[ "$DOUBLEBUFFER" = "true" ] && sed -i "s|bool_doublebuffer = false|bool_doublebuffer = true|g" /root/.dgen/dgenrc
+	[ "$DOUBLEBUFFER" = "false" ] && sed -i "s|bool_doublebuffer = true|bool_doublebuffer = false|g" /root/.dgen/dgenrc
+
+	#joystick
+	[ "$JOYSTICK" = "true" ] && sed -i "s|bool_joystick = false|bool_joystick = true|g" /root/.dgen/dgenrc
+	[ "$JOYSTICK" = "false" ] && sed -i "s|bool_joystick = true|bool_joystick = false|g" /root/.dgen/dgenrc
+
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	# enable joypad support
+	rejoystick1cc --load --profile dgen &>/dev/null
+	rejoystick2cc --load --profile dgen &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	echo "dgen $C $WORD1 \"$DIR$CHOOSER\""  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad support
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo -e 'Select a valid ROM the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${GEN_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+#build gui
+S='
+<window title="Puppy Arcade - Genesis loader (dgen)" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+
+	<vbox>
+		<frame Load and Save Settings>
+				<text height-request="5"><label>""</label></text>
+
+				  <hbox>
+					   <checkbox tooltip-text="auto load games from last played point">
+							<label>Auto Load</label>
+							<variable>AUTOLOAD</variable>
+							<default>"'$AUTOLOAD'"</default>
+						</checkbox>
+						<text width-request="20"><label>""</label></text>
+		
+					   <checkbox tooltip-text="auto save game position on exit">
+							<label>Auto Save</label>
+							<variable>AUTOSAVE</variable>
+							<default>"'$AUTOSAVE'"</default>
+						</checkbox>
+						<text width-request="20"><label>""</label></text>
+
+					   <checkbox tooltip-text="auto save a config file when settings are chenged within the emulator, and on exit">
+							<label>Auto Conf Save</label>
+							<variable>AUTOCONF</variable>
+							<default>"'$AUTOCONF'"</default>
+						</checkbox>
+					<text width-request="20"><label>""</label></text>
+				  </hbox>
+
+		</frame>
+		<frame Display Settings>
+
+				<hbox>
+				   <checkbox tooltip-text="Enable fullscreen display">
+						<label>Fullscreen</label>
+						<variable>FULLSCREEN</variable>
+						<default>"'$FULLSCREEN'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+				   <checkbox tooltip-text="Frame skipping can make a game run faster">
+						<label>Frameskip</label>
+						<variable>FSKIP</variable>
+						<default>"'$FKSIP'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+					<checkbox tooltip-text="Enable double buffering output">
+						  <label>Double Buffer</label>
+						  <variable>DOUBLEBUFFER</variable>
+						  <default>"'$DOUBLEBUFFER'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+				</hbox>
+
+				<hbox>
+				   <checkbox tooltip-text="Enable OpenGL rendering.. this will enable to video to fill the screen, if you are having problems.">
+						<label>OpenGL</label>
+						<variable>OGL</variable>
+						<default>"'$OGL'"</default>
+					</checkbox>
+
+				   <checkbox tooltip-text="Enable fixed OpenGL aspect ratio">
+						<label>OpenGL Ratio</label>
+						<variable>OGLASPECT</variable>
+						<default>"'$OGLASPECT'"</default>
+					</checkbox>
+
+				   <checkbox tooltip-text="Enable OpenGL bilinear filtering for smoother graphics">
+						<label>OpenGL Bilinear</label>
+						<variable>OGLLINEAR</variable>
+						<default>"'$OGLLINEAR'"</default>
+					</checkbox>
+
+				   <checkbox tooltip-text="Enable OpenGL 32-bit rendering">
+						<label>OpenGL 32-bit</label>
+						<variable>OGL32BIT</variable>
+						<default>"'$OGL32BIT'"</default>
+					</checkbox>
+				</hbox>
+				
+				<hbox>
+					<text><label>Crap TV Filter:</label></text>
+					<combobox width-request="100">
+						 <variable>CRAPTV</variable>
+						 '$CRAPTV_ITEMS'
+					</combobox>
+					<text width-request="20"><label>""</label></text>
+
+					<text><label>Scaling:</label></text>
+					<combobox width-request="100">
+						 <variable>SCALING</variable>
+						 '$SCALING_ITEMS'
+					</combobox>
+				</hbox>
+
+			</frame>
+			<frame Sound Settings>
+
+				<hbox>
+					<checkbox tooltip-text="Enable sound">
+					  <label>Enable Sound</label>
+					  <variable>SOUND</variable>
+					  <default>"'$SOUND'"</default>
+					</checkbox>
+					<text width-request="20"><label>""</label></text>
+
+					<text><label>Volume:</label></text>
+					<combobox width-request="100">
+						 <variable>VOLUME</variable>
+						 '$VOLUME_ITEMS'
+					</combobox>
+				</hbox>
+
+			</frame>
+			<frame Other Settings>
+
+			<hbox>
+				<text><label>Heartz (Hz):</label></text>
+				<combobox width-request="100" tooltip-text="60hz is NTSC (the default), and 50hz is PAL.. It is best to leave this at default, unless you know otherwise.">
+					 <variable>INTHZ</variable>
+					 '$INTHZ_ITEMS'
+				</combobox>
+				<text width-request="20"><label>""</label></text>
+
+				<text><label>Region:</label></text>
+				<combobox width-request="100" tooltip-text="Choose the ROM region: U (USA), E (Europe), J (Japan), X (auto)">
+					 <variable>REGION</variable>
+					 '$REGION_ITEMS'
+				</combobox>
+				<text width-request="20"><label>""</label></text>
+			</hbox>
+
+			<hbox>
+				<checkbox tooltip-text="Enable PAL output">
+					  <label>PAL output</label>
+					  <variable>PAL</variable>
+					  <default>"'$PAL'"</default>
+				</checkbox>
+				<text width-request="20"><label>""</label></text>
+
+			   <checkbox tooltip-text="Show the frames per second on screen">
+					<label>Show FPS</label>
+					<variable>SHOWFPS</variable>
+					<default>"'$SHOWFPS'"</default>
+				</checkbox>
+				<text width-request="20"><label>""</label></text>
+
+				<checkbox tooltip-text="Enable Joypads">
+					  <label>Enable Joypads</label>
+					  <variable>JOYSTICK</variable>
+					  <default>"'$JOYSTICK'"</default>
+				</checkbox>
+				<text width-request="20"><label>""</label></text>
+			</hbox>
+
+		</frame>
+		<frame CUSTOM SETTINGS>
+	
+			<hbox>
+				<entry editable="true">
+					<variable>WORD1</variable>
+					  <default>"'$WORD1'"</default>
+				</entry>
+				<button tooltip-text="Clear entry box">
+					<input file icon="gtk-clear"></input>       
+					<action type="clear">WORD1</action>
+					<label>Clear</label>
+				</button>
+			</hbox>
+		</frame>
+
+	</vbox>
+		
+	## H E L P
+	<vbox>
+		<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"Dgen Help:
+=======================
+
+Emulator Controls:
+
+Quit = F12
+Fullscreen toggle = alt-RETURN
+
+----------------------------------
+In-game controls:
+
+Player 1
+
+W,S,A,D		up, down, left, right
+Enter		Start button
+R_Shift		Select button
+v			A button
+b			B button
+n			C button
+#			Mode button
+f			X button
+g			Y button
+h			Z button
+
+Player 2
+
+Cursor keys		up, down, left, right
+Numpad Enter	Start button
+Numpad +		Select button
+Numpad 1		A button
+Numpad 2		B button
+Numpad 3		C button
+Numpad -		Mode button
+Numpad 4		X button
+Numpad 5		Y button
+Numpad 6		Z button
+----------------------------------------
+
+More Emulator Controls:
+
+key_fix_checksum = F1
+key_save = F2
+key_load = F3
+key_craptv_toggle = F5
+key_scaling_toggle = F6
+key_z80_toggle = F10
+key_cpu_toggle = F11
+key_screenshot = F12
+key_stop = z
+key_game_genie = F9
+key_debug_enter = `
+key_prompt = :
+key_reset = TAB
+
+key_slot_0 = 0
+key_slot_1 = 1
+key_slot_2 = 2
+key_slot_3 = 3
+key_slot_4 = 4
+key_slot_5 = 5
+key_slot_6 = 6
+key_slot_7 = 7
+key_slot_8 = 8
+key_slot_9 = 9
+
+joy_pad1_up = joystick0-axis1-min
+joy_pad1_down = joystick0-axis1-max
+joy_pad1_left = joystick0-axis0-min
+joy_pad1_right = joystick0-axis0-max
+joy_pad1_a = joystick0-button0
+joy_pad1_b = joystick0-button3
+joy_pad1_c = joystick0-button1
+joy_pad1_x = joystick0-button6
+joy_pad1_y = joystick0-button4
+joy_pad1_z = joystick0-button5
+joy_pad1_mode = joystick0-button9
+joy_pad1_start = joystick0-button8
+joy_pad2_up = joystick1-axis1-min
+joy_pad2_down = joystick1-axis1-max
+joy_pad2_left = joystick1-axis0-min
+joy_pad2_right = joystick1-axis0-max
+joy_pad2_a = joystick1-button0
+joy_pad2_b = joystick1-button3
+joy_pad2_c = joystick1-button1
+joy_pad2_x = joystick1-button6
+joy_pad2_y = joystick1-button4
+joy_pad2_z = joystick1-button5
+joy_pad2_mode = joystick1-button9
+joy_pad2_start = joystick1-button8
+
+joy_fix_checksum = 
+joy_quit = 
+joy_craptv_toggle = 
+joy_scaling_toggle = 
+joy_screenshot = 
+joy_reset = 
+joy_slot_0 = 
+joy_slot_1 = 
+joy_slot_2 = 
+joy_slot_3 = 
+joy_slot_4 = 
+joy_slot_5 = 
+joy_slot_6 = 
+joy_slot_7 = 
+joy_slot_8 = 
+joy_save = 
+joy_load = 
+joy_z80_toggle = 
+joy_cpu_toggle = 
+joy_stop = 
+joy_game_genie = 
+joy_debug_enter = 
+joy_prompt = 
+joy_debug_enter = 
+joy_prompt = 
+
+See /root/.dgen/dgenrc for all available keycodes
+"</default>
+	</edit>		
+	</vbox>
+
+	
+	
+</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+		    <action>rox /usr/share/doc/gens &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export padgen="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p padgen $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset panes
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

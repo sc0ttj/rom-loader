@@ -1,0 +1,3 @@
+Unreleased game, developped by Optimus Software for Codemasters in 1993/1994. Reviewed by Sega Power (March 1994 issue), but never made it the market. One prototype cartridge has been found.The game seems pretty much complete (requires confirmation by someone who finish it), but appears to locks up from time to time (eg: after killing a boss).
+
+http://www.smspower.org/db/dinobasher-proto-sms.shtml

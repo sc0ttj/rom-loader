@@ -1,0 +1,409 @@
+007 GoldenEye|160|8B70CB5B|x|0|1997|Shooter|region-unknown|Nintendo|dev-unknown|Teen|media-unknown|controller-unknown|N64
+007 The World Is Not Enough|238|34F0EE5B|x|0|2000|Shooter|USA|Electronic Arts|Electronic Arts|Teen|Cartridge|controller-unknown|Nintendo 64
+1080 Snowboarding|237|D1744951|x|0|1998|Snowboarding/Sports|region-unknown|Nintendo|Nintendo EAD|Everyone|Cartridge|controller-unknown|Nintendo 64
+AeroFighters Assault|1052|B08EF0B9|x|0|1997|Flying|region-unknown|Vic Tokai|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+AeroGauge|1053|04038CB8|x|0|1998|Driving|region-unknown|ASCII Entertainment|Locomotive|Everyone|Cartridge|controller-unknown|Nintendo 64
+Aidyn Chronicles The First Mage|1054|8DA62304|x|0|2001|Role Playing|region-unknown|THQ|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Air Boarder 64|1055|92659837|x|0|1998|Sports|region-unknown|GMI|dev-unknown|General Audience|media-unknown|controller-unknown|N64
+All Star Tennis '99|1056|7326E6C9|x|0|1999|Sports/Tennis|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+All-Star Baseball '99|1057|82B7E47D|x|0|1998|Baseball/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+All-Star Baseball 2000|1058|15063EAC|x|0|1999|Baseball/Sports|region-unknown|Acclaim|Acclaim Entertainment|Everyone|Cartridge|controller-unknown|Nintendo 64
+All-Star Baseball 2001|1059|3E8BE0E0|x|0|2000|Baseball/Sports|region-unknown|Acclaim|High Voltage Software|Everyone|Cartridge|controller-unknown|Nintendo 64
+Armorines Project S.W.A.R.M.|1060|950985F6|x|0|1999|Shooter|region-unknown|Acclaim|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Army Men Air Combat|2535|2355E4F3|x|0|2000|Action|region-unknown|3DO|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Army Men Sarge's Heroes|240|97BF6DB2|x|0|1999|Shooter|region-unknown|3DO|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Army Men Sarge's Heroes 2|1061|3E9D1C51|x|0|2000|Shooter|region-unknown|3DO|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Asteroids Hyper 64|1062|FB982B44|x|0|1999|Shoot-'Em-Up|region-unknown|Crave|Syrox Developments|Everyone|Cartridge|controller-unknown|Nintendo 64
+Automobili Lamborghini|1063|17932C62|x|0|1997|Driving|region-unknown|Titus Software|Titus Software|Everyone|Cartridge|controller-unknown|Nintendo 64
+Banjo-Kazooie|162|90B38651|x|0|1998|Platformer|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Banjo-Tooie|176|0E0DC5A5|x|0|2000|Platformer|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Bassmasters 2000|NOID|8B7BD07E|x|0|1999|Fishing/Sports|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Batman Beyond Return of the Joker|1065|D64E0A7B|x|0|2000|Beat-'Em-Up|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+BattleTanx|241|66123C8B|x|0|1998|Action|region-unknown|3DO|dev-unknown|Teen|media-unknown|controller-unknown|N64
+BattleTanx Global Assault|242|5819D423|x|0|1999|Action|region-unknown|3DO|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Battlezone Rise of the Black Dogs|1066|18CCCCFD|x|0|2000|Strategy|region-unknown|Crave|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Beetle Adventure Racing!|1067|E3517FD8|x|0|1999|Driving|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Big Mountain 2000|1068|FF44020C|x|0|2000|Snowboarding/Sports|region-unknown|SouthPeak Games|Imagineer|Everyone|Cartridge|controller-unknown|Nintendo 64
+Bio F.R.E.A.K.S.|1069|52283865|x|0|1998|Fighter|region-unknown|Midway|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Blast Corps|1070|23D415F8|x|0|1997|Action|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Blues Brothers 2000|243|109907B5|x|0|2000|Platformer|region-unknown|Titus Software|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Body Harvest|244|7B878C56|x|0|1998|Action|region-unknown|Midway|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Bomberman 64|1072|50A98BDF|x|0|1997|Action|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Bomberman 64 The Second Attack!|1071|302B3135|x|0|2000|Action|region-unknown|Vatical Entertainment|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Bomberman Hero|245|3E73AF1A|x|0|1998|Platformer|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Bottom of the 9th|1073|0F016E17|x|0|1999|Baseball/Sports|region-unknown|Konami|dev-unknown|General Audience|media-unknown|controller-unknown|N64
+Brunswick Circuit Pro Bowling|1074|3AC1BBAE|x|0|1999|Bowling/Sports|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Buck Bumble|1075|DA2ACD5E|x|0|1998|Action|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Bug's Life|NOID|7C2F610D|x|0|1999|Platformer|region-unknown|Activision|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Bust-A-Move '99|1077|2A95290F|x|0|1999|Puzzle|region-unknown|Acclaim|Taito|Everyone|Cartridge|controller-unknown|Nintendo 64
+Bust-A-Move 2 Arcade Edition|1076|47511877|x|0|1998|Puzzle|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+California Speed|1078|387B0C4C|x|0|1999|Driving|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Carmageddon 64|1079|E78DEBB6|x|0|1999|Driving|region-unknown|Titus Software|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Castlevania|2848|7F50E637|x|0|1998|Platformer|region-unknown|Konami|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Castlevania Legacy of Darkness|246|1F147376|x|0|1999|Platformer|region-unknown|Konami|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Centre Court Tennis|1080|2573171A|x|0|1999|Sports/Tennis|region-unknown|BigBen Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|N64
+Chameleon Twist|1081|4246EE14|x|0|1997|Platformer|region-unknown|SunSoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Chameleon Twist 2|1082|356736C7|x|0|1997|Platformer|region-unknown|SunSoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Charlie Blast's Territory|1083|928A2968|x|0|1999|Action|region-unknown|Kemco|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Chopper Attack|247|2C22147D|x|0|1998|Action|USA|Midway|SETA Corporation|Teen|Cartridge|controller-unknown|Nintendo 64
+Clay Fighter Sculptor's Cut|NOID|F59FD73E|x|0|1998|Fighter|region-unknown|Interplay|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Clay Fighter 63 1-3|NOID|E7C70F25|x|0|1997|Fighter|region-unknown|Interplay|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Command and Conquer|1560|8D23BA95|x|0|1999|Strategy|region-unknown|Nintendo|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Conker's Bad Fur Day|249|6ACDB3FC|x|0|2001|Platformer|region-unknown|Rare Ltd.|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Cruis'n Exotica|230|20E7DBD7|x|0|2000|Driving|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Cruis'n USA|228|E466C124|x|0|1996|Driving|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Cruis'n World|229|41877D7D|x|0|1998|Driving|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+CyberTiger|1085|F0F89BB9|x|0|2000|Golf/Sports|region-unknown|Electronic Arts|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Dark Rift|1086|2AFAB93C|x|0|1997|Beat-'Em-Up|region-unknown|Vic Tokai|Kronos Digital Entertainment|Teen|Cartridge|controller-unknown|Nintendo 64
+Deadly Arts|1087|B4AFBF51|x|0|1998|Fighter|region-unknown|Konami|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Destruction Derby 64|1088|EF680F71|x|0|1999|Driving|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Diddy Kong Racing|178|96C32BB6|x|0|1997|Driving|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Donald Duck Goin' Quackers|1089|6D48B64E|x|0|2000|Adventure|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Donkey Kong 64|250|96972D67|x|0|1999|Platformer|region-unknown|Rare Ltd.|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Doom 64|251|0F080D06|x|0|1997|Shooter|region-unknown|Midway|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Dr. Mario 64|1090|F7C44B5B|x|0|2001|Puzzle|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Dual Heroes|1091|8968D989|x|0|1998|Fighter|region-unknown|Electro Brain|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Duck Dodgers Starring Daffy Duck|265|B67BBC15|x|0|2000|Platformer|region-unknown|Infogrames|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Duke Nukem Zero Hour|1092|912F576F|x|0|1999|Shooter|region-unknown|GT Interactive|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Duke Nukem 64|1093|1BF948C3|x|0|1997|Shooter|region-unknown|GT Interactive|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Earthworm Jim 3D|1094|1017BE14|x|0|1999|Platformer|region-unknown|Rockstar Games|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+ECW Hardcore Revolution|1095|4BA40079|x|0|2000|Sports/Wrestling|region-unknown|Acclaim|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Elmo's Letter Adventure|NOID|710011FB|x|0|1999|Miscellaneous|region-unknown|NewKidCo|dev-unknown|Early Childhood|media-unknown|controller-unknown|N64
+Elmo's Number Journey|3100|B7AD0F05|x|0|1999|Miscellaneous|region-unknown|NewKidCo|dev-unknown|Early Childhood|media-unknown|controller-unknown|N64
+Excitebike 64|1097|EF78ED7E|x|0|2000|Motorcycle|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Extreme-G|957|A43A0B17|x|0|1997|Driving|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Extreme-G XG2|958|849C18CE|x|0|1998|Driving|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+F-1 World Grand Prix|1100|4D203242|x|0|1998|Driving|region-unknown|Video System|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+F-1 World Grand Prix II|1101|484C801D|x|0|1999|Driving|region-unknown|Nintendo|dev-unknown|General Audience|media-unknown|controller-unknown|N64
+F-Zero X|10836|9408C2C1|x|0|1998|Driving|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+F1 Pole Position 64|1098|873BC45A|x|0|1997|Driving|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+F1 Racing Championship|1099|0605E5AC|x|0|2000|Driving|region-unknown|Ubisoft|dev-unknown|General Audience|media-unknown|controller-unknown|N64
+FIFA Road to World Cup 98|1102|9504B3DF|x|0||Soccer/Sports|region-unknown|Electronic Arts|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+FIFA 99|1103|D69DD3D1|x|0|1998|Soccer/Sports|region-unknown|Electronic Arts|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+FIFA Soccer 64|1104|3B22F9F2|x|0|1997|Soccer/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Fighter Destiny 2|252|7FC19103|x|0|1998|Fighter|region-unknown|Ocean|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Fighters Destiny|1105|A625973F|x|0|1998|Fighter|region-unknown|Ocean|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Fighting Force 64|253|ADE7DCA4|x|0|1999|Beat-'Em-Up|region-unknown|Crave|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Flying Dragon|959|87E4E352|x|0|1998|Fighter|region-unknown|Natsume|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Forsaken 64|254|F970E4A4|x|0|1998|Shooter|region-unknown|Acclaim|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Fox Sports College Hoops '99|1106|FEDE3EF8|x|0|1998|Basketball/Sports|region-unknown|Fox Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Gauntlet Legends|255|7E90C0A8|x|0|1999|Action|region-unknown|Midway|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Gex 3 Deep Cover Gecko|1108|3571F3BD|x|0|1999|Platformer|region-unknown|Crave|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Gex 64 Enter the Gecko|1109|3F90E7C2|x|0|1998|Platformer|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Glover|1110|D024893A|x|0|1998|Platformer|region-unknown|Hasbro Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Goemon's Great Adventure|1111|E3C7A184|x|0|1999|Platformer|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Golden Nugget 64|1112|9670A4B7|x|0|1998|Casino|region-unknown|Electronic Arts|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+GT64 Championship Edition|NOID|B6DC4CFD|x|0|1998|Driving|region-unknown|Ocean|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Harvest Moon 64|1114|D2EE315F|x|0|1999|Strategy|region-unknown|Natsume|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Hercules The Legendary Journeys|256|CF90BC4A|x|0|2000|Adventure|region-unknown|Titus Software|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Hexen|1115|D2B22343|x|0|1997|Shooter|region-unknown|GT Interactive|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Hey You, Pikachu!|257|0149E9F6|x|0|2000|Adventure|region-unknown|Nintendo|Ambrella|Everyone|Cartridge|controller-unknown|Nintendo 64
+Hot Wheels Turbo Racing|1116|525E8F8F|x|0|1999|Driving|region-unknown|Electronic Arts|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Hybrid Heaven|1117|7CE3EA39|x|0|1999|Role Playing|region-unknown|Konami|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Hydro Thunder|258|6B78C2C8|x|0|2000|Water|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Iggy's Reckin' Balls|1118|5953567E|x|0|1998|Driving|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+In-Fisherman Bass Hunter 64|1120|88279F19|x|0|1999|Fishing/Sports|region-unknown|Take-Two Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Indiana Jones and the Infernal Machine|259|A8F86EB6|x|0|2000|Adventure|region-unknown|LucasArts|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Indy Racing 2000|1119|1C622354|x|0|2000|Driving|region-unknown|Infogrames|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+International Superstar Soccer '98|NOID|D685F2EC|x|0|1998|Soccer/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+International Superstar Soccer 2000|1123|BB1824B8|x|0|2000|Soccer/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+International Superstar Soccer 64|1121|91CB6803|x|0|1997|Soccer/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+International Track and Field 2000|1124|F93868A3|x|0|2000|Olympic/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Jeopardy!|2840|82B2AB69|x|0|1998|Game Show|region-unknown|GameTek|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Jeremy McGrath Supercross 2000|1125|67BF293B|x|0|2000|Motorcycle|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Jet Force Gemini|260|B5932174|x|0|1999|Shooter|region-unknown|Rare Ltd.|dev-unknown|Teen|media-unknown|controller-unknown|N64
+John Romero's Daikatana|1126|CB126EA9|x|0|2000|Shooter|region-unknown|Kemco|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Ken Griffey Jr.'s Slugfest|1127|42D1ED42|x|0|1999|Baseball/Sports|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Killer Instinct Gold|261|8E1DB3C2|x|0|1996|Fighter|region-unknown|Nintendo|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Kirby 64 The Crystal Shards|262|8EB3565B|x|0|2000|Platformer|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Knife Edge Nose Gunner|1128|CF204405|x|0|1998|Shooter|region-unknown|Kemco|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Knockout Kings 2000|264|A26533FC|x|0|1999|Boxing/Sports|region-unknown|EA Sports|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Kobe Bryant's NBA Courtside|NOID|0FF8C439|x|0|1999|Basketball/Sports|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Legend of Zelda Majora's Mask|175|3EE3F2D1|x|0|2000|Adventure|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Legend of Zelda Ocarina of Time|161|3C7DBF5B|x|0|1998|Adventure|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Lego Racers|1130|3339E557|x|0|1999|Driving|region-unknown|Lego Media|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Lode Runner 3-D|1131|5AF38589|x|0|1999|Action|region-unknown|Infogrames|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mace The Dark Age|1132|E49D603A|x|0|1997|Fighter|region-unknown|Midway|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Madden Football 64|1133|43B28179|x|0|1997|Football/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Madden NFL 2000|1134|F41B2332|x|0|1999|Football/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Madden NFL 2001|268|3B49EC33|x|0|2000|Football/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Madden NFL 2002|269|0C711DFE|x|0|2001|Football/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Madden NFL 99|267|AC21A5BF|x|0|1998|Football/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Magical Tetris Challenge|1135|167C60E6|x|0|1999|Puzzle|region-unknown|Capcom|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Major League Baseball featuring Ken Griffey Jr.|NOID|7542D45D|x|0|1998|Baseball/Sports|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mario Golf|1136|CEB5B977|x|0|1999|Golf/Sports|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mario Kart 64|266|2BCEE11C|x|0|1997|Driving|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mario Party|42|4717CD1B|x|0|1999|Party|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mario Party 2|270|3BA5471B|x|0|2000|Party|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mario Party 3|960|A1BEE3F8|x|0|2001|Pinball|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mario Tennis|1137|995C9F24|x|0|2000|Sports/Tennis|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mega Man 64|1138|B57DD0E4|x|0|2001|Adventure|region-unknown|Capcom|Capcom Production Studio 2|Everyone|Cartridge|controller-unknown|Nintendo 64
+Mia Hamm Soccer 64|3222|3AA4BFF5|x|0|2000|Soccer/Sports|region-unknown|SouthPeak Games|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mickey's Speedway USA|1139|6E589C47|x|0|2000|Driving|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Micro Machines 64 Turbo|1140|02790693|x|0|1999|Driving|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Midway's Greatest Arcade Hits Volume 1|3223|202A2718|x|0|2000|Miscellaneous|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mike Piazza's StrikeZone|NOID|9042CB8E|x|0|1998|Basketball/Sports|region-unknown|GT Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Milo's Astro Lanes|1142|DFF1BA7E|x|0|1998|Bowling/Sports|region-unknown|Crave|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mischief Makers|1143|C454E245|x|0|1997|Platformer|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mission Impossible|2827|2DBD815D|x|0|1998|Adventure|region-unknown|Ocean|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Monaco Grand Prix|1144|30079403|x|0|1999|Driving|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Monopoly|2912|416B1F8F|x|0|1999|Board Games|region-unknown|Hasbro Interactive|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Monster Truck Madness 64|1146|B8D03FFB|x|0|1999|Driving|region-unknown|Rockstar Games|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mortal Kombat 4|1147|AA865B66|x|0|1998|Fighter|region-unknown|Midway|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Mortal Kombat Mythologies Sub-Zero|1148|F0F7D9E3|x|0|1997|Platformer|region-unknown|Midway|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Mortal Kombat Trilogy|1149|E58597D7|x|0|1996|Fighter|region-unknown|Midway|dev-unknown|Mature|media-unknown|controller-unknown|N64
+MRC Multi Racing Championship|NOID|2F30B7FE|x|0|1997|Driving|region-unknown|Ocean|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Ms. Pac-Man Maze Madness|1151|D5017D76|x|0|2000|Action|region-unknown|Namco|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Mystical Ninja Starring Goemon|1152|81C10AD9|x|0|1998|Action|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Nagano Winter Olympics '98|1153|1F8D21FB|x|0|1998|Olympic/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Namco Museum 64|3224|03776764|x|0|1999|Miscellaneous|region-unknown|Namco|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NASCAR 2000|1154|D07AD471|x|0|1999|Driving|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NASCAR 99|2818|2D234FB7|x|0|1998|Driving|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA Courtside 2 Featuring Kobe Bryant|1155|7A8FD7D3|x|0|1999|Basketball/Sports|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA Hangtime|1156|72E2ACA9|x|0|1997|Basketball/Sports|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA In The Zone '98|1157|2BB83C0E|x|0|1998|Basketball/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA In the Zone '99|272|C15AFC69|x|0|1999|Basketball/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA in the Zone 2000|1158|D850CFA3|x|0|2000|Basketball/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA Jam 2000|1160|65A3BD1C|x|0|1999|Basketball/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA Jam 99|1159|F40C871A|x|0|1998|Basketball/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA Live 2000|2811|94FC12D3|x|0|2000|Basketball/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA Live 99|2809|74BC96BE|x|0|1998|Basketball/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NBA Showtime NBA on NBC|2807|A9302DEE|x|0|1999|Basketball/Sports|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+New Tetris|1161|82A76DC9|x|0|1999|Puzzle|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Blitz|1163|5FA3455D|x|0|1998|Football/Sports|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Blitz Special Edition|1162|3DD3EB64|x|0|2001|Football/Sports|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Blitz 2000|581|E4B42E6A|x|0|1999|Football/Sports|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Blitz 2001|2914|E18211E5|x|0|2000|Football/Sports|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Quarterback Club 2000|1167|B61D114A|x|0|1999|Football/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Quarterback Club 2001|1168|2C0D748B|x|0|2000|Football/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Quarterback Club 98|NOID|94368DB1|x|0|1997|Football/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NFL Quarterback Club 99|NOID|CE525BC5|x|0|1998|Football/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NHL 99|NOID|50F81F73|x|0|1998|Hockey/Sports|region-unknown|EA Sports|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NHL Blades of Steel '99|1170|5EF28CFB|x|0|1999|Hockey/Sports|region-unknown|Konami|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NHL Breakaway 98|1171|F59B082F|x|0|1998|Hockey/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+NHL Breakaway 99|1172|9F774781|x|0|1998|Hockey/Sports|region-unknown|Acclaim|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Nightmare Creatures|1173|134C09DA|x|0|1998|Adventure|region-unknown|Activision|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Nuclear Strike 64|1174|1A70D11A|x|0|1999|Action|region-unknown|THQ|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Off Road Challenge|1175|129BADCC|x|0|1998|Driving|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Ogre Battle 64 Person of Lordly Caliber|1176|50C78D4C|x|0|2000|Strategy|region-unknown|Atlus Co.|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Olympic Hockey 98|NOID|C57C7643|x|0|1998|Hockey/Sports|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Paper Mario|141|D56D1C89|x|0|2001|Role Playing|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Paperboy|1178|2FCEEFF6|x|0|1999|Action|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Penny Racers|1179|06BEEA3F|x|0|1999|Driving|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Perfect Dark|173|F85A16F1|x|0|2000|Shooter|region-unknown|Nintendo|dev-unknown|Mature|media-unknown|controller-unknown|N64
+PGA European Tour|1180|2B07F591|x|0|2000|Golf/Sports|region-unknown|Infogrames|Infogrames|Everyone|Cartridge|controller-unknown|Nintendo 64
+Pilotwings 64|961|C445F7E3|x|0|1996|Simulation|region-unknown|Nintendo|Nintendo, Paradigm Simulation|Everyone|Cartridge|controller-unknown|Nintendo 64
+Pokemon Puzzle League|NOID|281AFB0D|x|0|2000|Puzzle|region-unknown|Nintendo|NST, Intelligent Systems|Everyone|Cartridge|controller-unknown|Nintendo 64
+Pokemon Snap|NOID|DF387848|x|0|1999|Action|region-unknown|Nintendo|HAL Laboratory, Pax Softnica|Everyone|Cartridge|controller-unknown|Nintendo 64
+Pokemon Stadium|NOID|9DEDBA0E|x|0|2000|Strategy|region-unknown|Nintendo|Nintendo EAD|Everyone|Cartridge|controller-unknown|Nintendo 64
+Pokemon Stadium 2|NOID|FBFF058A|x|0|2001|Strategy|region-unknown|Nintendo|Nintendo EAD|Everyone|Cartridge|controller-unknown|Nintendo 64
+Polaris SnoCross|1182|BA3EC852|x|0|2000|Water|region-unknown|Vatical Entertainment|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Power Rangers Lightspeed Rescue|1183|EB8CE95B|x|0|2000|Action|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Powerpuff Girls Chemical X-traction|1184|4EE7CD7E|x|0|2001|Action|region-unknown|Bam Entertainment|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Premier Manager 64|4202|74A0C415|x|0|1999|Soccer/Sports|region-unknown|Gremlin Interactive|Gremlin Interactive|General Audience|Cartridge|controller-unknown|Nintendo 64
+Quake 64|NOID|06D5CDBB|x|0|1998|Shooter|region-unknown|Midway|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Quake II|2924|5D880E55|x|0|1999|Shooter|region-unknown|Activision|Raster Productions|Mature|Cartridge|controller-unknown|Nintendo 64
+Quest 64|1185|E90856E8|x|0|1998|Role Playing|region-unknown|THQ|Imagineer|Everyone|Cartridge|controller-unknown|Nintendo 64
+Rakuga Kids|1186|2146409A|x|0|1998|Beat-'Em-Up|region-unknown|Konami|KCEK|General Audience|media-unknown|controller-unknown|Nintendo 64
+Rally Challenge 2000|1187|FAF5C3B6|x|0|2000|Driving|region-unknown|SouthPeak Games|Genki Xicat Interactive, Inc.|Everyone|Cartridge|controller-unknown|Nintendo 64
+Rampage World Tour|394|6FE4DA23|x|0|1998|Action|region-unknown|Midway|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Rampage 2 Universal Tour|2930|75E8C2AD|x|0|1999|Action|region-unknown|Midway|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Rat Attack!|1188|78F6FFA2|x|0|2000|Puzzle|region-unknown|Mindscape Inc.|Pure Entertainment|Everyone|media-unknown|controller-unknown|Nintendo 64
+Rayman 2 The Great Escape|395|72EE54B2|x|0|1999|Platformer|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Razor Freestyle Scooter|1189|208350C5|x|0|2001|Sports|region-unknown|Crave|Titanium Studios|Everyone|Cartridge|controller-unknown|Nintendo 64
+Re-Volt|1191|9366C53C|x|0|1999|Driving|region-unknown|Acclaim|Acclaim|Everyone|Cartridge|controller-unknown|Nintendo 64
+Ready 2 Rumble Boxing|396|E8D926F3|x|0|1999|Boxing/Sports|region-unknown|Midway|Midway/Point of View|Teen|Cartridge|controller-unknown|Nintendo 64
+Ready 2 Rumble Boxing Round 2|1190|A64FDF28|x|0|2000|Boxing/Sports|region-unknown|Midway|Midway, Point of View|Teen|media-unknown|controller-unknown|Nintendo 64
+Resident Evil 2|397|6A0D64BB|x|0|2000|Adventure|region-unknown|Capcom|Capcom|Mature|Cartridge|controller-unknown|Nintendo 64
+Road Rash 64|962|2DA44585|x|0|1999|Motorcycle|NOID|THQ|Pacific Coast Power Road Rash 64|Teen|Cartridge|controller-unknown|2DA44585
+Roadsters Trophy|NOID|F68D139E|x|0|1999|Driving|region-unknown|Titus Software|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Robotron 64|1193|123D44CC|x|0|1998|Action|region-unknown|Crave|dev-unknown|Teen|Cartridge|controller-unknown|Nintendo 64
+Rocket Robot on Wheels|1194|B0F36D79|x|0|1999|Platformer|region-unknown|Ubisoft|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+RR64 Ridge Racer 64|1195|7CCB9749|x|0|2000|Driving|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Rugrats Scavenger Hunt|1196|EA79AD0A|x|0|1999|Board Games|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Rugrats in Paris The Movie|3294|8F09AF37|x|0|2000|Platformer|region-unknown|THQ|dev-unknown|General Audience|media-unknown|controller-unknown|N64
+Rush 2 Extreme Racing USA|1197|5412916B|x|0|1998|Driving|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+S.C.A.R.S.|1198|6594B593|x|0|1998|Driving|region-unknown|Ubisoft|Vivid Image|Everyone|Cartridge|controller-unknown|Nintendo 64
+San Francisco Rush Extreme Racing|1199|32E250BA|x|0|1997|Driving|region-unknown|Midway|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+San Francisco Rush 2049|398|1A03B9DE|x|0|2000|Driving|region-unknown|Midway|Atari Games|Everyone|media-unknown|controller-unknown|Nintendo 64
+Scooby-Doo! Classic Creep Capers|1200|E3A2F1E7|x|0|2001|Adventure|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Shadow Man|177|47E05128|x|0|1999|Adventure|region-unknown|Acclaim|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Shadowgate 64 Trials of the Four Towers|1201|1E9986E5|x|0|1999|Adventure|region-unknown|Kemco|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Snowboard Kids|1202|540C190B|x|0|1998|Snowboarding/Sports|region-unknown|Atlus Co.|Racdym|Everyone|Cartridge|controller-unknown|Nintendo 64
+Snowboard Kids 2|1203|CA84AACE|x|0|1999|Snowboarding/Sports|region-unknown|Atlus Co.|Racdym|Everyone|Cartridge|controller-unknown|Nintendo 64
+South Park|1204|FAAE9AA3|x|0|1998|Shooter|region-unknown|Acclaim|Iguana Entertainment|Mature|Cartridge|controller-unknown|Nintendo 64
+South Park Chef's Luv Shack|400|67D38382|x|0|1999|Party|region-unknown|Acclaim|dev-unknown|Mature|media-unknown|controller-unknown|N64
+South Park Rally|399|2C1F0859|x|0|2000|Driving|region-unknown|Acclaim|Tantalus Interactive|Mature|Cartridge|controller-unknown|Nintendo 64
+Space Invaders|3295|62E6DEFF|x|0|1999|Shoot-'Em-Up|region-unknown|Activision|Z-Axis, Ltd.|Everyone|Cartridge|controller-unknown|Nintendo 64
+SpaceStation Silicon Valley|NOID|76DB1DA1|x|0|1998|Platformer|region-unknown|Take-Two Interactive|DMA Design|Everyone|Cartridge|controller-unknown|Nintendo 64
+Spider-Man|2952|A2866A6E|x|0|2000|Adventure|region-unknown|Activision|Edge of Reality|Everyone|Cartridge|controller-unknown|Nintendo 64
+Star Fox 64|4|D71902B0|x|0|1997|Shoot-'Em-Up|region-unknown|Nintendo|Nintendo EAD|Everyone|Cartridge|controller-unknown|Nintendo 64
+Star Soldier Vanishing Earth|1206|052945E7|x|0|1998|Shooter|region-unknown|Electro Brain|Hudson Soft|Everyone|Cartridge|controller-unknown|Nintendo 64
+Star Wars Rogue Squadron|403|4A479574|x|0|1998|Shooter|region-unknown|LucasArts|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Star Wars Shadows of the Empire|231|F4E546D1|x|0|1999|Shooter|region-unknown|Nintendo|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Star Wars Episode I Battle for Naboo|401|97EBBEA8|x|0|2000|Shooter|region-unknown|LucasArts|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Star Wars Episode I Racer|402|494C667A|x|0|1999|Driving|region-unknown|LucasArts|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+StarCraft 64|1207|14C77369|x|0|2000|Strategy|region-unknown|Nintendo|Mass Media|Teen|Cartridge|controller-unknown|Nintendo 64
+Starshot Space Circus Fever|1208|64370749|x|0|1999|Platformer|region-unknown|Infogrames|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Stunt Racer 64|1209|F60613DE|x|0|2000|Driving|region-unknown|Midway|Boss Game Studios|Everyone|Cartridge|controller-unknown|Nintendo 64
+Super Bowling|1210|E651CBAA|x|0|2001|Bowling/Sports|region-unknown|UFO Interactive|Athena|Everyone|Cartridge|controller-unknown|Nintendo 64
+Super Mario 64|216|42C43204|x|0|1996|Platformer|region-unknown|Nintendo|Nintendo EAD|Everyone|Cartridge|controller-unknown|Nintendo 64
+Super Smash Bros.|404|DD2DF6D9|x|0|1999|Beat-'Em-Up|region-unknown|Nintendo|HAL Laboratory|Everyone|Cartridge|controller-unknown|Nintendo 64
+Supercross 2000|1125|5A8A721D|x|0|1999|Motorcycle|region-unknown|Electronic Arts|MBL Research|Everyone|Cartridge|controller-unknown|Nintendo 64
+Superman|1164|F10D66F0|x|0|1999|Adventure|region-unknown|Titus Software|Titus Software|Everyone|Cartridge|controller-unknown|Nintendo 64
+Tarzan|NOID|2B59490B|x|0|2000|Platformer|region-unknown|Activision|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+Taz Express|1213|85382541|x|0|1999|Platformer|region-unknown|Infogrames|Zed Two|General Audience|Cartridge|controller-unknown|Nintendo 64
+Tetrisphere|405|5DB18578|x|0|1997|Puzzle|region-unknown|Nintendo|H2O Entertainment|Everyone|Cartridge|controller-unknown|Nintendo 64
+Tigger's Honey Hunt|1214|79F8BF3B|x|0|2000|Platformer|region-unknown|NewKidCo|Disney Interactive/DokiDenki Studio|Everyone|Cartridge|controller-unknown|Nintendo 64
+Tom and Jerry in Fists of Furry|1215|F0BFC6AB|x|0|2000|Beat-'Em-Up|region-unknown|NewKidCo|VIS Entertainment|Everyone|Cartridge|controller-unknown|Nintendo 64
+Tom Clancy's Rainbow Six|1216|67F3D120|x|0|1999|Shooter|region-unknown|Red Storm Entertainment|Saffire|Teen|Cartridge|controller-unknown|Nintendo 64
+Tonic Trouble|1217|0ECD289A|x|0|1999|Platformer|region-unknown|Ubisoft|Ubisoft Montreal|Everyone|Cartridge|controller-unknown|Nintendo 64
+Tony Hawk's Pro Skater|406|1BE278C1|x|0|2000|Skateboarding/Sports|USA|Activision|Edge of Reality|Everyone|Cartridge|Controller Pak, Rumble|Nintendo 64
+Tony Hawk's Pro Skater 2|1218|6DF2D58E|x|0|2001|Skateboarding/Sports|USA|Activision|Neversoft|Everyone|Cartridge,|Controller Pak, Rumble|Nintendo 64
+Tony Hawk's Pro Skater 3|1219|ED73272E|x|0|2002|Skateboarding/Sports|region-unknown|Activision|Edge of Reality|Everyone|media-unknown|controller-unknown|Nintendo 64
+Top Gear Hyper-Bike|1220|3E9CE2AF|x|0|2000|Motorcycle|USA|Kemco|Snowblind Studios|Everyone|Cartridge,|Controller Pak, Rumble|Nintendo 64
+Top Gear Overdrive|1221|B5B23053|x|0|1998|Driving|USA|Kemco|Snowblind Studios|Everyone|Cartridge,|Rumble Pak|Nintendo 64
+Top Gear Rally|963|A04F1CC0|x|0|1997|Driving|USA|Kemco|Boss Game Studios|Everyone|Cartridge|Controller Pak, Rumble|Nintendo 64
+Top Gear Rally 2|1222|7E4E181C|x|0|1999|Driving|USA|Kemco|Saffire|Everyone|Cartridge|Controller Pak, Rumble|Nintendo 64
+Toy Story 2|NOID|F7A72276|x|0|1999|Platformer|USA|Activision|Traveller's Tales|Everyone|Cartridge|controller-unknown|Nintendo 64
+Transformers Beast Wars Transmetals|1224|14C6B5E3|x|0|2000|Fighter|region-unknown|Bam Entertainment|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Triple Play 2000|1225|BFB124FC|x|0|1999|Baseball/Sports|USA|EA Sports|Treyarch|Everyone|Cartridge|Controller Pak, Rumble|Nintendo 64
+Turok Dinosaur Hunter|68|AF6EA1B8|x|0|1997|Shooter|region-unknown|Acclaim|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Turok Rage Wars|408|416474D8|x|0|1999|Shooter|region-unknown|Acclaim|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Turok 2 Seeds of Evil|407|ADEC745F|x|0|1998|Shooter|region-unknown|Acclaim|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Turok 3 Shadow of Oblivion|1226|E0D0D902|x|0|2000|Shooter|region-unknown|Acclaim|dev-unknown|Mature|media-unknown|controller-unknown|N64
+Twisted Edge Extreme Snowboarding|1227|3A572B23|x|0|1998|Snowboarding/Sports|USA|Midway|Boss Game Studios|Everyone|Cartridge|controller-unknown|Nintendo 64
+V-Rally Edition 99|NOID|BFEF13E9|x|0|1999|Driving|USA|Infogrames|Eden Studios|Everyone|Cartridge|Rumble Pak|Nintendo 64
+Vigilante 8|964|B445EDCD|x|0|1998|Driving|USA|Activision|Luxoflux|Teen|Cartridge|Controller Pak, Rumble|Nintendo 64
+Vigilante 8 2nd Offense|409|764ABDB3|x|0|2000|Driving|region-unknown|Activision|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Virtual Chess 64|1228|3CD894C4|x|0|1998|Board Games|USA|Titus Software|Titus Software|Everyone|Cartridge|controller-unknown|Nintendo 64
+Virtual Pool 64|1229|584B2A5F|x|0|1998|Pool and Dart|USA|Crave|Celeris|Everyone|Cartridge|controller-unknown|Nintendo 64
+Waialae Country Club True Golf Classics|410|76EBDB18|x|0|1998|Golf/Sports|region-unknown|Nintendo|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+War Gods|1231|10635B27|x|0|1997|Fighter|USA|Midway|Midway Games|Mature|Cartridge|controller-unknown|Nintendo 64
+Wave Race 64|411|DD2BB7B6|x|0|1996|Water|USA|Nintendo|Nintendo EAD|Everyone|Cartridge|Controller Pak|Nintendo 64
+Wayne Gretzky's 3D Hockey '98|2773|5C593E2E|x|0|1997|Hockey/Sports|USA|Midway|Software Creations|Everyone|Cartridge|Controller|Nintendo 64
+Wayne Gretzky's 3D Hockey|1232|6E5A30ED|x|0|1996|Hockey/Sports|USA|Midway|William's Entertainment Inc.|Everyone|Cartridge|Controller Pak|Nintendo 64
+WCW Backstage Assault|412|D3A9F234|x|0|2000|Sports/Wrestling|USA|Electronic Arts|Kodiak Interactive|Teen|Cartridge|Rumble Pak|Nintendo 64
+WCW Mayhem|1233|A1911368|x|0|1999|Sports/Wrestling|region-unknown|EA Sports|dev-unknown|Teen|media-unknown|controller-unknown|N64
+WCW Nitro|1234|AC1909A9|x|0|1999|Sports/Wrestling|USA|THQ|Inland Productions|Everyone|Cartridge|Controller Pak, Rumble|Nintendo 64
+WCW vs nWo World Tour|NOID|85E0C097|x|0|1997|Sports/Wrestling|region-unknown|THQ|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+WCW-nWo Revenge|NOID|2257FD02|x|0|1998|Sports/Wrestling|USA|THQ|Asmik Ace Entertainment|Everyone|Cartridge|Rumble Pak|Nintendo 64
+Wetrix|1237|4EDA94C1|x|0|1998|Puzzle|USA|Ocean|Zed Two|Everyone|Cartridge|Controller PAK|Nintendo 64
+Wheel of Fortune|2769|C2571693|x|0|1997|Game Show|USA|GameTek|GameTek|Everyone|Cartridge|controller-unknown|Nintendo 64
+WinBack Covert Operations|413|1A6334D0|x|0|1999|Shooter|region-unknown|Koei|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Wipeout 64|1238|3E8CCE96|x|0|1998|Driving|USA|Midway|Psygnosis|Everyone|Cartridge|Controller Pak, Rumble|Nintendo 64
+World Cup 98|1102|B875CD94|x|0|1998|Soccer/Sports|USA|EA Sports|EA Canada|Everyone|Cartridge|Controller Pak|Nintendo 64
+World Driver Championship|414|DCD9D2D2|x|0|1999|Driving|USA|Midway|Boss Game Studios|Everyone|Cartridge|Controller Pak, Rumble|Nintendo 64
+Worms Armageddon|1240|556268B7|x|0|2000|Strategy|region-unknown|Infogrames|dev-unknown|Everyone|media-unknown|controller-unknown|N64
+WWF Attitude|415|F694DB1E|x|0|1999|Sports/Wrestling|USA|Acclaim|Iguana Entertainment|Teen|Cartridge|Controller Pak, Rumble|Nintendo 64
+WWF No Mercy|416|AFBC514E|x|0|2000|Sports/Wrestling|USA|THQ|Aki Corp|Teen|Cartridge|Controller Pak, Rumble|Nintendo 64
+WWF War Zone|2759|6CFE13A8|x|0|1998|Sports/Wrestling|region-unknown|Acclaim|dev-unknown|Teen|media-unknown|controller-unknown|N64
+WWF WrestleMania 2000|417|D514E83C|x|0|1999|Sports/Wrestling|USA|THQ|Asmik Ace Entertainment/Aki Corporation|Teen|Cartridge|Controller Pak, Rumble|Nintendo 64
+Xena Warrior Princess The Talisman of Fate|418|7CB26725|x|0|1999|Fighter|region-unknown|Titus Software|dev-unknown|Teen|media-unknown|controller-unknown|N64
+Yoshi's Story|419|01A4B1E9|x|0|1998|Platformer|USA|Nintendo|Nintendo EAD|Everyone|Cartridge|Rumble Pak|Nintendo 64
+40 WINKS|NOID|ABA51D09|x|0|1999|Platformer|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+64 Ozumo|NOID|9C961069|x|0|1997|Sports , Wrestling|Japan|Bottom Up|Bottom Up|No Rating|Cartridge|controller-unknown|N64
+Aero Fighters Assault|NOID|22212351,1B598BF1,5C4EB1C9,62F6BE95,0BBCDFCF|x|0|1997|Shooter|region-unknown|Video System|Paradigm Entertainment|No Rating|Cartridge|controller-unknown|N64
+AI Shogi 3|16730|8CC182A6|x|0|1998|Board Game|Japan|I4|I4|No Rating|Cartridge|controller-unknown|N64
+Airboarder 64|NOID|27C425D0,89A498AE,6C45B60C,26809B20,F255D6F1|x|0|1998|Racing|region-unknown|Human Entertainment|Human Entertainment|No Rating|Cartridge|controller-unknown|N64
+Alice no Wakuwaku Trump World|NOID|7A6081FC|x|0|1998|Card Game|region-unknown|Bottom Up|Bottom Up|No Rating|Cartridge|controller-unknown|N64
+All-Star Baseball 99|NOID|C43E23A7,D9EDD54D|x|0|1998|Sports , Baseball|region-unknown|Acclaim Entertainment|Acclaim Entertainment|No Rating|Cartridge|controller-unknown|N64
+All-Star Tennis '99|NOID|E084E191,E185E291,DFD784AD,2D56F77B,3015A8AD|x|0|1999|Sports , Tennis|region-unknown|Ubisoft|Smart Dog|No Rating|Cartridge|controller-unknown|N64
+J. League Tactics Soccer|NOID|E8D29DA0,15E61D94|x|0|1999|Sports , Soccer|Japan|ASCII Entertainment|ASCII Entertainment|No Rating|media-unknown|controller-unknown|N64
+Jikkyou Powerful Pro Baseball Basic 2001|NOID|6EDD4766|x|0|2001|Sports , Baseball|Japan|Konami|Diamond Head|No Rating|Cartridge|controller-unknown|N64
+PD Ultraman Battle Collection 64|NOID|F468118C,E32EE44E,37B52113,3A77A655,170D4973,8FA23F51|x|0|1997|Strategy , Role|Japan|Bandai|Bandai|No Rating|Cartridge|controller-unknown|N64
+Pip's Pong|NOID|D072CFE7|x|0|No Date|Simulation , Flight|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Pip's Porn Pack 1 by Mr. pips|NOID|D851B920|x|0|No Date|Adult , Pr0n|region-unknown|No Publisher|dev-unknown|No Rating|Cartridge|controller-unknown|N64
+Pip's Porn Pack 2 by Mr. pips|NOID|BF9D0FB0|x|0|No Date|Adult , Pr0n|region-unknown|No Publisher|dev-unknown|No Rating|Cartridge|controller-unknown|N64
+Pip's Porn Pack 3 by Mr. pips|NOID|EA2A6A75|x|0|No Date|Adult , Pr0n|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Pip's RPG|NOID|DB363DDA,C830954A,7194B65B,3CB8AAB8,56563C89,AFBBB9D5|x|0|No Date|Role Playing Game|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Pip's World|NOID|762C75D1|x|0|No Date|Role Playing Game|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Placeholder|NOID|No CRC|x|0|No Date|Role Playing Game|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Polaris Sno Cross|NOID|41380792|x|0|2000|Racing|region-unknown|Vatical Entertainment|Vicarious Visions|No Rating|Cartridge|controller-unknown|N64
+PONG|NOID|DAA76993|x|0|No Date|Racing|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Power League Baseball 64|NOID|D7A6DCFA|x|0|1997|Sports , Baseball|Japan|Hudson|Hudson Soft|No Rating|Cartridge|controller-unknown|N64
+Powerpuff Girls Chemical X-traction|1184|FC74D475|x|0|2001|Action|region-unknown|BAM! Entertainment|VIS Entertainment|No Rating|Cartridge|controller-unknown|N64
+Pro Mahjong Kiwame 64|NOID|9BA10C4E|x|0|1997|Board Game|Japan|Athena|Athena|No Rating|Cartridge|controller-unknown|N64
+Pro Yak Yu King Baseball|NOID|8ACE6683|x|0|No Date|Sports , Baseball|Japan|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Puyo Puyo 4 Puyo Puyo Party|NOID|4B4672B9|x|0|1999|Puzzle|Japan|Compile|Compile|No Rating|Cartridge|controller-unknown|N64
+Puyo Puyo Sun 64|NOID|94807E6B|x|0|1997|Puzzle|region-unknown|Compile|Compile|No Rating|Cartridge|controller-unknown|N64
+Puzzle Master 64|NOID|4BBBA2E2|x|0|No Date|Puzzle|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Racing Simulation 2|NOID|2877AC2D|x|0|1999|Racing|region-unknown|UbiSoft|Ubisoft|No Rating|Cartridge|controller-unknown|N64
+Ridge Racer 64|1195|FEE97010,2500267E|x|0|2000|Racing|region-unknown|Nintendo|Nintendo Software Technology, Namco|No Rating|Cartridge|controller-unknown|N64
+Robot Ponkottsu 64 Caramel of the 7 Seas|NOID|272B690F|x|0|1999|Role Playing Game|region-unknown|Hudson|Red|No Rating|Cartridge|controller-unknown|N64
+Robotech Crystal Dreams|3571|75A0B893|x|0|No Date|Simulation , Flight|region-unknown|N/A|GameTek|No Rating|media-unknown|controller-unknown|N64
+RTL World League Soccer 2000|NOID|658F8F37|x|0|2000|Sports , Soccer|region-unknown|THQ|Silicon Dreams|No Rating|Cartridge|controller-unknown|N64
+San Francisco Rush 2049|398|51D29418,B9A9ECA2|x|0|2000|Racing|region-unknown|Midway Games|Atari Games|No Rating|media-unknown|controller-unknown|N64
+Scooby-Doo Classic Creep Capers|NOID|E3BD221D,0C814EC4|x|0|2000|Platformer|region-unknown|THQ|Terraglyph Interactive Studios|No Rating|Cartridge|controller-unknown|N64
+SD Hiryuu no Ken Densetsu|NOID|EBF5F6B7|x|0|1997|Role Playing Game|Japan|Culture Brain|Culture Brain|No Rating|Cartridge|controller-unknown|N64
+Shadowman|NOID|84D5FD75,EA06F8C3,60C437E5,3A4760B5|x|0|1999|Adventure , Action|region-unknown|Acclaim Entertainment|Acclaim Studios Teesside|No Rating|Cartridge|controller-unknown|N64
+Shin Nihon Pro Wrestling Brave Spirits|NOID|EF703CA4|x|0|1998|VS Fighter ,|Japan|Hudson|Yuke's|No Rating|Cartridge|controller-unknown|N64
+Shin Nihon Pro Wrestling 2- the Next Generation|NOID|551C7F43|x|0|1998|VS Fighter ,|region-unknown|Hudson|Yuke's|No Rating|Cartridge|controller-unknown|N64
+Sim City 2000|NOID|B1D5280C|x|0|1998|Strategy , Simulation|region-unknown|Maxis, Electronic Arts DSI|Maxis|No Rating|Cartridge|controller-unknown|N64
+Simon|NOID|18531B7D|x|0|No Date|Puzzle|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Sin and Punishment Tsumi To Batsu|NOID|B6BC0FB0,E3812198|x|0|2000|Shooter , Rail|Japan|Nintendo|Treasure|No Rating|Cartridge|controller-unknown|N64
+Snowbow Kids|NOID|84FC04FF,5FD7CDA0,DBF4EA9D|x|0|1997|Racing , Snowboarding|region-unknown|Atlus|Racdym|No Rating|Cartridge|controller-unknown|N64
+Spacestation Silicon Valley|NOID|FC70E272,BFE23884|x|0|1998|Platformer , 3D|region-unknown|Take-Two Interactive|DMA Design|No Rating|Cartridge|controller-unknown|N64
+StarCraft 64|1207|0684FBFB,5D3EA8A5,42CF5EA3,BC9B2CC3|x|0|2000|Strategy , Realtime|region-unknown|Nintendo|Mass Media|No Rating|Cartridge|controller-unknown|N64
+Super Bowling 64|NOID|F3F2F385,6E490C7F,AA1D215A,91CBBE9A|x|0|2001|Sports , Bowling|region-unknown|UFO Interactive|Athena|No Rating|Cartridge|controller-unknown|N64
+Super Mario 64 the Missing Stars|NOID|21FEAE88,A4101424|x|0|2009|Adventure , Action|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Super Robot Spirits|NOID|66572080,28E348E1|x|0|1998|VS Fighter ,|Japan|Banpresto|Banpresto|No Rating|Cartridge|controller-unknown|N64
+Super Robot Taisen 64|NOID|1649D810,F73AD6D2|x|0|1999|Strategy , Role|Japan|Banpresto|Banpresto|No Rating|Cartridge|controller-unknown|N64
+Super Speed Race 64|NOID|9CE02E22,206EF1B0|x|0|No Date|Racing|Japan|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Susume! Taisen Puzzle Dama Toukon! Maruma|NOID|35E811F3,99792724|x|0|1998|Puzzle|Japan|Konami|KCEK|No Rating|Cartridge|controller-unknown|N64
+Tamagotchi World 64|NOID|B98BA456,5B2B76AF|x|0|1997|Board Game|Japan|Bandai|Bandai / AI|No Rating|Cartridge|controller-unknown|N64
+Telefoot Soccer 2000|NOID|D9042FBB,FCFF997C|x|0|2000|Sports , Soccer|region-unknown|THQ / Southpeak Interactive|Silicon Dreams|No Rating|Cartridge|controller-unknown|N64
+Tetris 64|NOID|963ADBA6,F7D5C89B|x|0|1998|Puzzle|region-unknown|SETA|Amtex|No Rating|Cartridge|Bio|N64
+Tetris Beta Demo|NOID|81361532,2AEB643F|x|0|No Date|Puzzle|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Toy Story 2 Buzz Lightyear to the Rescue|1223|A150743E,CF2522CD,CCEB3858,26952D97,CB93DB97,7F5C63D5,782A9075,E552631D|x|0|1999|Platformer , Action|USA|Activision|Traveller's Tales|No Rating|Cartridge|controller-unknown|N64
+TRON|NOID|CB3FF554,8773CD0B|x|0|No Date|Sports , Baseball|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+True Golf Classics Waialae Country Club|NOID|8066D58A,C3DECAC1,93053075,261E0F43,0C5057AD,046E126E|x|0|1998|Sports , Golf|USA|Nintendo|T&E Soft|No Rating|Cartridge|Controller|N64
+Virtual Pro Wrestling|NOID|045C08C4,4AFD798B|x|0|1997|VS Fighter ,|Japan|Asmik Ace Entertainment|Asmik Ace Entertainment/Aki Corporation|No Rating|Cartridge|controller-unknown|N64
+Virtual Pro Wrestling 2|NOID|CD094235,88074B62|x|0|2000|VS Fighter ,|Japan|Asmik Ace Entertainment|Asmik Ace Entertainment/Aki Corporation|No Rating|Cartridge|controller-unknown|N64
+Wave Race 64 Shindou Edition|NOID|535DF3E2,609789F1|x|0|No Date|Racing , Simulation|Japan|Nintendo|Nintendo EAD|No Rating|Cartridge|Controller|N64
+WCW Mayem|NOID|33BE8CD6,EC186912,AA7B0658,9C96937B|x|0|1999|VS Fighter ,|USA|Electronic Arts|Kodiak Interactive|No Rating|Cartridge|Rumble|N64
+Wonder Project J2|NOID|4F1E88F7,004A5A3F,E43C9765,05B1C1BE|x|0|1996|Role Playing Game|Japan|Square Enix|Givro|No Rating|Cartridge|controller-unknown|N64
+Xena Warrior Princess Talisman of Fate|NOID|0A1667C7,293346A6,0553AE9D,EAD8E0C1|x|0|1999|VS Fighter|USA|Titus Software|Saffire|No Rating|Cartridge,|Controller|N64
+Yakouchuu II Satsujun Kouru|NOID|9F8B96C3,A01194DC|x|0|1999|Adventure|Japan|Athena|Athena|No Rating|Cartridge|controller-unknown|N64
+Yousuke Ide's Mahjong School|NOID|77DA3B8D,162B0D7C|x|0|No Date|Puzzle|region-unknown|No Publisher|dev-unknown|No Rating|Cartridge|controller-unknown|N64
+Yuke Yuke!! Trouble Makers|NOID|9FE6162D,E97E4037|x|0|1997|Platformer|Japan|Nintendo|Treasure|No Rating|media-unknown|controller-unknown|N64
+Zool Majou Tsukai Densetsu|NOID|1C010CCD,22D3B7FA|x|0|1999|Role Playing Game|Japan|Imagineer|Pandora Box|No Rating|Cartridge|controller-unknown|N64
+A Bug's Life|239|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+64 Hanafuda Tenshi no Yakusoku|16127|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Major League Baseball Featuring Ken Griffey, Jr.|271|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Pokémon Snap|390|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Pokémon Stadium|391|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Pokémon Stadium 2|392|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Bass Masters 2000|1064|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Custom Robo|16995|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+ClayFighter 63⅓ Sculptor's Cut|1084|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Sesame Street Elmo's Letter Adventure|1096|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+GT 64 Championship Edition|1113|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+International Superstar Soccer 98|1122|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Kobe Bryant in NBA Courtside|1129|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Mike Piazza's Strike Zone|1141|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+MRC Multi-Racing Championship|1150|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+NFL Quarterback Club '98|1165|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+NFL Quarterback Club '99|1166|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+NHL '99|1169|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Olympic Hockey Nagano '98|1177|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Pokémon Puzzle League|1181|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Space Station Silicon Valley|1205|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+V-Rally Edition '99|1230|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+WCW vs. nWo World Tour|1235|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+WCW/nWo Revenge|1236|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+G.A.S.P! Fighter's NEXTream|1561|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Bust-A-Move 3 DX|2460|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Disney's Tarzan|3148|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Michael Owens WLS 2000|4203|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Clay Fighter 63⅓|9362|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+64 Professional Sumo Wrestling 2|16728|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Animal Crossing|16732|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Neon Genesis Evangelion|15117|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+64 Trump Collection Alice's Exciting Trip to Trump World|16729|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Bakuretsu Muteki Bangaioh|16736|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Bakushō Jinsei 64 Mezase! Resort Ō|16764|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Bass Rush Ecogear PowerWorm Championship|16768|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Super Mario 64 Star Road|18877|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Super Mario 64 Star Road Multiplayer|18878|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64
+Super Mario Bros 64 Multiplayer|18946|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|N64

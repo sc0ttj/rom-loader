@@ -1,0 +1,48 @@
+# choices: "blur", "scan‐line", "interlace" and "swab"
+CRAPTV_ARRAY=("Default" "blur" "scan-line" "interlace" "swab")
+CRAPTV_ITEMS="<item>$CRAPTV</item>" #stored value should be first in list
+for i in "${CRAPTV_ARRAY[@]}"
+do
+	if [ "$i" != "$CRAPTV" ];then
+		CRAPTV_ITEMS=`echo "$CRAPTV_ITEMS<item>$i</item>"`
+	fi
+done
+
+SCALING_ARRAY=(Default hqx scale2x)
+SCALING_ITEMS="<item>$SCALING</item>" #stored value should be first in list
+for i in "${SCALING_ARRAY[@]}"
+do
+	if [ "$i" != "$SCALING" ];then
+		SCALING_ITEMS=`echo "$SCALING_ITEMS<item>$i</item>"`
+	fi
+done
+
+# Default is 100, over 100 causes bad sound
+VOLUME_ARRAY=(Default 0 10 20 30 40 50 60 70 80 90 100 110)
+VOLUME_ITEMS="<item>$VOLUME</item>" #stored value should be first in list
+for i in "${VOLUME_ARRAY[@]}"
+do
+	if [ "$i" != "$VOLUME" ];then
+		VOLUME_ITEMS=`echo "$VOLUME_ITEMS<item>$i</item>"`
+	fi
+done
+
+#hertz
+INTHZ_ARRAY=(Default 50 60 65)
+INTHZ_ITEMS="<item>$INTHZ</item>" #stored value should be first in list
+for i in "${INTHZ_ARRAY[@]}"
+do
+	if [ "$i" != "$INTHZ" ];then
+		INTHZ_ITEMS=`echo "$INTHZ_ITEMS<item>$i</item>"`
+	fi
+done
+
+REGION_ARRAY=(Default U E J X)
+REGION_ITEMS="<item>$REGION</item>" #stored value should be first in list
+for i in "${REGION_ARRAY[@]}"
+do
+	if [ "$i" != "$REGION" ];then
+		REGION_ITEMS=`echo "$REGION_ITEMS<item>$i</item>"`
+	fi
+done
+

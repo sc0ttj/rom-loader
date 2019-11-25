@@ -1,0 +1,574 @@
+Akira|12956|No CRC|x|0|1994|Action|region-unknown|ICE|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Alfred Chicken|10161|No CRC|x|0|1993|Platformer|region-unknown|Mindscape|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Alien Breed '92 Special Edition and Qwak|NOID|No CRC|x|0|1994|Miscellaneous|region-unknown|Team 17|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Alien Breed Tower Assault|NOID|No CRC|x|0|1994|Shooter|region-unknown|Team 17|Team17 Software Limited|General Audience|Floppy|Joystick|Amiga
+Alien Breed 3D|9043|No CRC|x|0|1995|Shooter|region-unknown|Team 17|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Amiga CD32 Sports Football|NOID|No CRC|x|0|1993|Sports/Football|region-unknown|Commodore|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Arabian Nights|10162|No CRC|x|0|1993|Platformer|region-unknown|Buzz|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Arcade Pool|10163|4611245d,5af5bc42|x|0|1994|Sports/Pool and Dart|region-unknown|Team 17|Team17 Software Limited|General Audience|CD-ROM|Joystick|Amiga
+ATR All Terrain Racing|10164|No CRC|x|0|1995|Driving|region-unknown|Team 17|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Banshee|10165|ec22c350,e5a387a7|x|0|1994|Shooter|region-unknown|Core|Core Design Ltd.|General Audience|Floppy,|Joystick|Amiga
+Base Jumpers|10166|No CRC|x|0|1994|Platformer|region-unknown|Rasputin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Battle Chess|10167|ad83a198,a384057a|x|0|1994|Board Games|region-unknown|Interplay|Interplay Productions, Inc.|General Audience|Floppy,|Mouse|Amiga
+Battletoads|10168|No CRC|x|0|1994|Beat-'Em-Up|region-unknown|Minscape|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Beavers|10169|No CRC|x|0|1994|Platformer|region-unknown|Unique|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Beneath a Steel Sky|10170|9E02014E,0E3D667B,f449b51a|x|0|1994|Adventure|region-unknown|Virgin|Revolution Software Ltd.|General Audience|FloppyCD|Mouse|Amiga
+Benefactor|9046|faf10e52,d5467f12|x|0|1994|Platformer|region-unknown|Psygnosis|Digital Illusions CE|General Audience|Floppy|Joystick|Amiga
+Big 6|NOID|No CRC|x|0|1994|Adventure|region-unknown|Codemasters|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Black Viper|10171|No CRC|x|0|1994|Motorcycle|region-unknown|Digital Illusions|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Brian the Lion|10172|No CRC|x|0|1994|Platformer|region-unknown|Psygnosis|Reflections Interactive Limited|General Audience|Floppy|Joystick|Amiga
+Brutal Paws of Fury|10173|No CRC|x|0|1995|Beat-'Em-Up|region-unknown|Gametek|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Brutal Football Brutal Sports Series|NOID|No CRC|x|0|1994|Sports/Football|region-unknown|Millenium|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Bubba 'n' Stix|10175|5897e151,e8af3d17,57a59b04|x|0|1994|Platformer|region-unknown|Core|Core Design Ltd.|General Audience|Floppy|Joystick|Amiga
+Bubble and Squeak|10176|No CRC|x|0|1994|Platformer|region-unknown|Audiogenic|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Bump 'n' Burn|10177|No CRC|x|0|1994|Driving|region-unknown|Grandslam|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Cannon Fodder|9577|4d13c602,36f91839,286171fb,c78530d1,a1ac6cb4,78789609|x|0|1993|Action|region-unknown|Virgin|Sensible Software|Parental Guidance|Floppy|Mouse|Amiga
+Castles II Siege and Conquest|10178|No CRC|x|0|1993|Strategy|region-unknown|Interplay|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Cedric And the Lost Sceptre|NOID|No CRC|x|0|1996|Beat-'Em-Up|region-unknown|Alcatraz|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Chambers of Shaolin|10180|No CRC|x|0|1993|Beat-'Em-Up|region-unknown|Unique|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Chaos Engine|10181|58dc1dca,debee998,f04d9a8e,ca3a9a98,46175cd9,9b1e8218|x|0|1994|Action|region-unknown|Renegade|The Bitmap Brothers|General Audience|Floppy|Joystick|Amiga
+Chuck Rock|NOID|f8a2066f,78470f0d,7e9ea90e|x|10|1994|Action|region-unknown|Core|Core Design Ltd.|General Audience|Floppy|Joystick|Amiga
+Chuck Rock II Son of Chuck|16901|No CRC|x|0|1994|Action|region-unknown|Core|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Classic Lotus Trilogy|NOID|No CRC|x|0|1994|Driving|region-unknown|Gremlin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Clockwiser|10183|No CRC|x|0|1994|Puzzle|region-unknown|Rasputin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Clue!|10184|No CRC|x|0|1994|Strategy|region-unknown|Kompart|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+D-Generation|NOID|No CRC|x|0|1993|Puzzle|region-unknown|Minscape|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Dangerous Streets and Wing Commander|9551|No CRC|x|0|1993|Compilation|region-unknown|Commodore|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Dangerous Streets|10185|No CRC|x|0|1993|Beat-'Em-Up|region-unknown|Flair Software|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Dark Seed|10186|No CRC|x|0|1993|Adventure|region-unknown|Cyberdreams|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Death Mask|9901|No CRC|x|0|1994|Shooter|region-unknown|Alternative Software|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Deep Core|9900|No CRC|x|0|1993|Platformer|region-unknown|ICE|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Defender of the Crown II|10187|No CRC|x|0|1993|Strategy|region-unknown|Commodore|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Dennis|NOID|No CRC|x|0|1993|Platformer|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Diggers and Oscar|10230|No CRC|x|0|1993|Compilation|region-unknown|Commodore|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Diggers|10190|No CRC|x|0|1993|Puzzle|region-unknown|Millennium|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Disposable Hero|10191|bf036dac,b5a92480|x|0|1994|Shooter|region-unknown|Gremlin|Euphoria|General Audience|Floppy|Joystick|Amiga
+Donk! the Samurai Duck!|NOID|No CRC|x|0|1994|Platformer|region-unknown|Supervision|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Dragonstone|10193|No CRC|x|0|1995|Adventure|region-unknown|Core|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Emerald Mines|NOID|No CRC|x|0|1994|Puzzle|region-unknown|Almathera|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Exile|10195|No CRC|x|0|1995|Action|region-unknown|Audiogenic|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Fears|10196|No CRC|x|0|1995|Shooter|region-unknown|Attic|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Fields of Glory|10197|No CRC|x|0|1994|Strategy|region-unknown|MicroProse|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Fightin' Spirit|12957|No CRC|x|0|1994|Fighter|region-unknown|Neo|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Final Gate|NOID|No CRC|x|0|1997|Shooter|region-unknown|Alternative Software|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Fire and Ice the Daring Adventures of Cool Coyote|NOID|No CRC|x|0|1994|Platformer|region-unknown|Renegade|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Fireforce|NOID|No CRC|x|0|1993|Shooter|region-unknown|Buzz|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Flink Misadventures of|NOID|No CRC|x|0|1994|Platformer|region-unknown|Psygnosis|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Fly Harder|10201|No CRC|x|0|1993|Action|region-unknown|Buzz|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Frontier Elite II|10202|No CRC|x|0|1994|Simulation|region-unknown|Gametek|David Braben|General Audience|FloppyCD|Mouse|Amiga
+Fury of the Furries|9498|e52b54b7,ed2a3fb5|x|0|1994|Platformer|region-unknown|Kalisto|Atreid Concept SA|General Audience|Floppy|Joystick|Amiga
+Gamers' Delight|NOID|No CRC|x|0|1994|Compilation|region-unknown|GTI|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Global Effect|10203|No CRC|x|0|1994|Strategy|region-unknown|Millennium|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+GLoom|9547|No CRC|x|0|1995|Shooter|region-unknown|Guildhall Leisure Services|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Grandslam Gamer Gold Collection|NOID|No CRC|x|0|1995|Compilation|region-unknown|Grandslam|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Guardian|10204|No CRC|x|0|1994|Shooter|region-unknown|Acid Software|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Gulp!|NOID|No CRC|x|0|1994|Puzzle|region-unknown|ICE|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Gunship 2000|10205|No CRC|x|0|1994|Flying|region-unknown|MicroProse|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Heimdall 2 Into the Hall of Worlds|NOID|No CRC|x|0|1994|Role Playing|region-unknown|Core|8th Day, The|General Audience|Floppy|Joystick|Amiga
+HeroQuest II Legacy of Sorasil|10207|No CRC|x|0|1994|Strategy|region-unknown|Gremlin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Humans 1 and 2|NOID|No CRC|x|0|1994|Puzzle|region-unknown|Gametek|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Humans 3 Evolution Lost in Time...|NOID|No CRC|x|0|1995|Puzzle|region-unknown|Gametek|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Impossible Mission 2025 the Special Edition|NOID|No CRC|x|0|1994|Platformer|region-unknown|MicroProse|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+International Karate +|NOID|7ad614e1,12898903,163baee1|x|0|1994|Beat-'Em-Up|region-unknown|System 3|System 3 Software, Ltd.|General Audience|Floppy|Joystick|Amiga
+International Open Golf Championship|NOID|No CRC|x|0|1993|Sports/Golf|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+James Pond 2 Codename RoboCod|10209|No CRC|x|0|1993|Platformer|region-unknown|Millennium|Vectordean Ltd.|General Audience|Floppy|Joystick|Amiga
+James Pond 3 Operation Starfi5h|NOID|No CRC|x|0|1994|Platformer|region-unknown|Kompart|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Jetstrike|10211|No CRC|x|0|1995|Flying|region-unknown|Rasputin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+John Barnes European Football|10212|No CRC|x|0|1993|Sports/Soccer|region-unknown|Buzz|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Jungle Strike|10213|No CRC|x|0|1994|Shooter|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Kang Fu|10214|No CRC|x|0|1996|Platformer|region-unknown|ALTER interservice|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Kid Chaos|10215|No CRC|x|0|1994|Platformer|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Kingpin Arcade Sports Bowling|10216|No CRC|x|0|1995|Sports/Bowling|region-unknown|Team 17|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Labyrinth of Time|10217|No CRC|x|0|1994|Adventure|region-unknown|Electronic Arts|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Lamborghini American Challenge|10218|No CRC|x|0|1994|Driving|region-unknown|Titus|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Last Ninja 3|NOID|No CRC|x|0|1994|Action|region-unknown|System 3|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Legends|NOID|5afff67f,5e4f07e5|x|0|1996|Action|region-unknown|Guildhall Leisure Services|Ubi Soft Entertainment Software|General Audience|Floppy|Mouse|Amiga
+Lemmings|9546|306070a0,dc063adc|x|2|1994|Puzzle|region-unknown|Psygnosis|DMA Design Limited|General Audience|Floppy|Mouse|Amiga
+Liberation Captive II|NOID|No CRC|x|0|1994|Role Playing|region-unknown|Mindscape|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Litil Divil|10220|No CRC|x|0|1994|Adventure|region-unknown|Gremlin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Lost Vikings|9549|cfc6bba8,9e8f9a6c|x|0|1993|Puzzle|NOID|Interplay|Silicon Lost Vikings|General Audience|Floppy|Joystick|No CRC
+Manchester United Premier League Champions|NOID|No CRC|x|0|1994|Sports/Soccer|region-unknown|Krisalis|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Marvin's Marvellous Adventure|NOID|No CRC|x|0|1995|Platformer|region-unknown|21st Century Entertainment|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Mean Arenas|NOID|No CRC|x|0|1993|Action|region-unknown|ICE|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Microcosm|10224|No CRC|x|0|1994|Shooter|region-unknown|Psygnosis|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Mitre Soccer Superstars|10311|No CRC|x|0|1995|Sports/Soccer|region-unknown|Flair Software|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Morph|10225|No CRC|x|0|1993|Platformer|region-unknown|Millennium|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Myth History in the Making|NOID|No CRC|x|0|1994|Platformer|region-unknown|System 3|System 3 Software, Ltd.|General Audience|Floppy|Joystick|Amiga
+Naughty Ones|10227|c177cb91,9ad37b5d,FBC6FDD2,DB83BB6E|x|0|1994|Platformer|region-unknown|Interactivision|Melon Dezign|General Audience|Floppy|Joystick|Amiga
+Nick Faldos Championship Golf|NOID|No CRC|x|0|1994|Sports/Golf|region-unknown|Grandslam|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Nigel Mansell's World Championship|NOID|No CRC|x|0|1993|Driving|region-unknown|Gremlin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Overkill and Lunar-C|NOID|No CRC|x|0|1993|Shooter|region-unknown|Mindscape|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+PGA European Tour|10231|5d0b3f07,fc97248a,89699CF6,B3166B15|x|0|1994|Sports/Golf|region-unknown|Ocean|Dome Software Developments, The|General Audience|FloppyCD|Mouse|Amiga
+Pierre le Chef is... Out to Lunch|NOID|No CRC|x|0|1994|Platformer|region-unknown|Mindscape|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Pinball Fantasies|10232|b1a50df5,708fc612|x|0|1993|Pinball|region-unknown|21st Century Entertainment|Digital Illusions CE AB|General Audience|Floppy|Keyboard|Amiga
+Pinball Illusions|10233|b1a50df5,708fc612|x|0|1995|Pinball|region-unknown|21st Century Entertainment|Digital Illusions CE AB|General Audience|Floppy|Keyboard|Amiga
+Pinball Prelude|10234|26331c09,f4f1b43b,09c46a0b|x|0|1996|Pinball|region-unknown|Effigy Software|Effigy Software|General Audience|FloppyCD|Keyboard|Amiga
+Pinocchio|10235|No CRC|x|0|1993|Platformer|region-unknown|Si-Lab|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Pirates! Gold|10236|AC173E57,ABDE6511|x|0|1993|Action|region-unknown|MicroProse|MicroProse Software, Inc.|General Audience|CD|Mouse|Amiga
+Power Drive|9564|No CRC|x|0|1994|Driving|region-unknown|U.S. Gold|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Premiere|10237|No CRC|x|0|1994|Platformer|region-unknown|Core|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Prey An Alien Encounter|10238|No CRC|x|0|1993|Role Playing|region-unknown|Almathera|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Project-X and F17 Challenge|NOID|No CRC|x|0|1993|Compilation|region-unknown|Team 17|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Project-X and Ultimate Body Blows|10303|No CRC|x|0|1994|Compilation|region-unknown|Team 17|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Quik the Thunder Rabbit|NOID|No CRC|x|0|1994|Platformer|region-unknown|Titus|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Rise of the Robots|NOID|No CRC|x|0|1994|Fighter|region-unknown|Time Warner Interactive|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Roadkill|10317|4e647b04,54610b5a,f425ca5a,4d681374|x|0|1994|Driving|region-unknown|Acid Software|Vision|General Audience|Floppy,CD|Joystick|Amiga
+Ryder Cup Johnnie Walker|NOID|No CRC|x|0|1993|Sports/Golf|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Sabre Team|10316|6c49613f,2c25d6d4,50db82cd|x|0|1994|Strategy|region-unknown|Krisalis|Krisalis Software Ltd.|General Audience|Floppy|Mouse|Amiga
+Seek and Destroy|NOID|ef36cef5,50ba7359|x|0|1993|Flying|region-unknown|Mindscape|Vision Software|General Audience|Floppy,|Joystick|Amiga
+Sensible Soccer European Champions|NOID|c6d97b9f,e83522d3,1618ccdc,036cd768,de959777,60f86d5d|x|0|1993|Sports/Soccer|region-unknown|Renegade|Sensible Software|General Audience|Floppy|Joystick|Amiga
+Sensible Soccer International Edition v1.2|NOID|No CRC|x|0|1994|Sports/Soccer|region-unknown|Renegade|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Seven Gates of Jambala|NOID|51115e93,2a24b3d9,c51d8cb5|x|0|1993|Platformer|region-unknown|Unique|Thalion|General Audience|Floppy,|Mouse|Amiga
+Shadow Fighter|10315|No CRC|x|0|1995|Fighter|region-unknown|Gremlin|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Simon the Sorcerer|10314|153f4d4f,968982ea|x|0|1994|Adventure|region-unknown|Adventure Soft|Adventuresoft Ltd.|General Audience|Floppy,|Mouse|Amiga
+Skeleton Krew|10313|No CRC|x|0|1995|Action|region-unknown|Core|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Sleepwalker and Pinball Fantasies|10232|No CRC|x|0|1993|Compilation|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Sleepwalker|12960|4d91daa2,b82ea5fe|x|0|1993|Platformer|region-unknown|Ocean|CTA Developments|General Audience|Floppy,|Joystick|Amiga
+Soccer Kid|10312|da795017,4b0eb27d|x|0|1994|Platformer|region-unknown|Krisalis|Krisalis Software Ltd.|General Audience|Floppy,|Joystick|Amiga
+Speedball 2 Brutal Deluxe|9505|No CRC|x|0|1995|Sports/Futuristic|region-unknown|Renegade|Bitmap Brothers, The|General Audience|Floppy,|Joystick|Amiga
+Speris Legacy|10309|No CRC|x|0|1995|Role Playing|region-unknown|Ocean|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Star Crusader|10308|No CRC|x|0|1994|Simulation|region-unknown|Gametek|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Striker|NOID|No CRC|x|0|1994|Sports/Soccer|region-unknown|Gremlin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Strip Pot|NOID|No CRC|x|0|1994|Casino|region-unknown|Pixel Blue|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|Amiga
+Subwar 2050|10307|No CRC|x|0|1994|Simulation|region-unknown|MicroProse|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Summer Olympix|NOID|No CRC|x|0|1994|Sports/Olympic|region-unknown|Flair Software|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Super League Manager|NOID|No CRC|x|0|1995|Sports/Soccer|region-unknown|Audiogenic|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Super Methane Bros|NOID|No CRC|x|0|1994|Platformer|region-unknown|Apache|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Super Putty|10295|No CRC|x|0|1994|Platformer|region-unknown|System 3|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Super Skidmarks|10689|6348c6f8,dae0fb3e|x|0|1995|Driving|region-unknown|Acid Software|Acid Software|General Audience|Floppy,|Joystick|Amiga
+Super Stardust|NOID|No CRC|x|0|1994|Shooter|region-unknown|Team 17|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Super Street Fighter II Turbo|10294|No CRC|x|0|1995|Fighter|region-unknown|Gametek|dev-unknown|Parental Guidance|media-unknown|controller-unknown|Amiga
+Superfrog|10305|b7182237,be06919f|x|0|1994|Platformer|region-unknown|Team 17|Team17|General Audience|Floppy,|Joystick|Amiga
+Surf Ninjas|12961|No CRC|x|0|1993|Beat-'Em-Up|region-unknown|Microvalue|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Syndicate|9512|c70c2c6a,df38f221|x|0|1995|Strategy|region-unknown|Mindscape|Bullfrog Productions|General Audience|Floppy,|Mouse|Amiga
+Theme Park|10293|1f28f407,39dcad63,63547a1c,3c34d481,5a9ae11a|x|0|1995|Strategy|region-unknown|Mindscape|Bullfrog Productions, Ltd.|General Audience|Floppy|Mouse|Amiga
+Thomas the Tank Engine's Pinball|NOID|No CRC|x|0|1995|Pinball|region-unknown|Alternative Software|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Top Gear 2|10291|No CRC|x|0|1994|Driving|region-unknown|Gremlin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Total Carnage|10290|No CRC|x|0|1994|Action|region-unknown|ICE|dev-unknown|HSRS - 17 (17+)|media-unknown|controller-unknown|Amiga
+Trivial Pursuit the CD32 Edition|NOID|No CRC|x|0|1994|Game Show|region-unknown|Domark|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Trolls|10304|99bcb0a4,5436cb78,2a3023dc,2dcb1d44|x|0|1993|Platformer|region-unknown|Flair Software|Flair Software Ltd.|General Audience|Floppy|Joystick|Amiga
+UFO Enemy Unknown|9554|No CRC|x|0|1994|Strategy|region-unknown|MicroProse|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Ultimate Body Blows|10303|ab23813e|x|0|1994|Beat-'Em-Up|region-unknown|Team 17|Team 17|Parental Guidance|CD|Joystick|Amiga
+Ultimate Super Skidmarks|10689|No CRC|x|0|1995|Driving|region-unknown|Acid|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Universe|10302|dc4eef24,3b96af38|x|0|1994|Adventure|region-unknown|Core|Core Design|General Audience|Floppy|Mouse|Amiga
+Vital Light|10301|No CRC|x|0|1994|Puzzle|region-unknown|Millennium|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Wembley International Soccer|10300|No CRC|x|0|1994|Sports/Soccer|region-unknown|Audiogenic|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Wendetta 2175|10299|No CRC|x|0|1994|Action|region-unknown|Vortex Design|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Whale's Voyage|10298|No CRC|x|0|1994|Adventure|region-unknown|Flair Software|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Whizz|NOID|No CRC|x|0|1995|Platformer|region-unknown|Flair|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Wild Cup Soccer|10297|No CRC|x|0|1994|Sports/Soccer|region-unknown|Millennium|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Will Bridge Initiation Junior|NOID|No CRC|x|0|1994|Tabletop|region-unknown|Will Bridge|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Worms|10288|No CRC|x|0|1995|Strategy|region-unknown|Ocean|Team17 Software Limited|General Audience|Floppy|Keyboard|Amiga
+Zool Ninja of the 'Nth' Dimension|NOID|No CRC|x|0|1993|Platformer|region-unknown|Gremlin|dev-unknown|General Audience|media-unknown|controller-unknown|Amiga
+Zool 2|NOID|5bc01c4f,21475910,0395f012,1cba146f,c002e17f|x|0|1994|Platformer|region-unknown|Gremlin|The Warp Factory|General Audience|Floppy,|Joystick|Amiga
+Agony|NOID|a09af59a,c9f09342|x|0|1992|Shoot 'em Up|region-unknown|Psygnosis Limited|Art & Magic S.A.|No Rating|Floppy|Joystick|Amiga
+Alien Breed II The Horror Continues|9891|8f2a88eb,16a17b1b,2f1b1b6d,7c226d7d,9078b816|x|0|1993|Shoot 'em Up|region-unknown|Team17 Software Limited|Team17 Software Limited|No Rating|Floppy|Joystick|Amiga
+All New World of Lemmings|9546|306070a0,dc063adc|x|0|1995|Strategy , Side-Scrolling|region-unknown|Psygnosis Limited|DMA Design Limited|No Rating|Floppy|Mouse|Amiga
+Another World|NOID|e07fd1b4,11e8276d|x|0|1991|Action-Adventure , Multi-Screen|region-unknown|U.S. Gold Ltd.|Delphine Software International|No Rating|Floppy|Joystick|Amiga
+Apano Sin|NOID|470754bc,80b42c1e|x|0|2000|Shoot 'em Up|region-unknown|V.A.K. Entertainment|Level One Entertainment|No Rating|Floppy|Joystick|Amiga
+Apidya|NOID|6ba6e1d9,46e88ca2,bf08af20|x|0|1992|Shoot 'em Up|region-unknown|Play Byte|Kaiko|No Rating|Floppy|Joystick|Amiga
+Arcticfox|NOID|404470d8,ac59cf7a|x|0|1986|Vehicular Combat ,|region-unknown|Electronic Arts, Inc.|Dynamix, Inc.|No Rating|Floppy|Joystick|Amiga
+Arkanoid|9580|adfe6eb4,8d24afc5,57c5c5c0,19a0d913,754617bc|x|0|1987|Breakout , Multi-Screen|region-unknown|Discovery Software International, Inc.|Discovery Software International, Inc.|No Rating|Floppy|Mouse|Amiga
+Armour-Geddon 2 Codename Hellfire|NOID|f718ebb4,e9dcc996,74c73123|x|0|1994|Strategy , First|region-unknown|Psygnosis Limited|Psygnosis Limited|No Rating|Floppy|Mouse/Keyboard|Amiga
+Awesome|NOID|1bff8381,5abc3f63,b7906d2c,b4831062|x|0|1990|Shoot 'em Up|region-unknown|Psygnosis Limited|Reflections Interactive Limited|No Rating|Floppy|Joystick|Amiga
+B.A.T.|NOID|459dfc38,15340998|x|0|1990|Adventure , First|region-unknown|Ubi Soft Entertainment Software|Computer's Dream|No Rating|Floppy|Mouse|Amiga
+Ballistix|NOID|5dd53d5f,549c37a5|x|0|1989|Board Game ,|region-unknown|Psyclapse (Psygnosis)|Reflections Interactive Limited|No Rating|Floppy|Joystick-Mouse|Amiga
+Barbarian the Ultimate Warrior|NOID|37ab8629,7ac297a4|x|0|1988|VS Fighter ,|region-unknown|Palace Software, LTD.|Palace Software, LTD.|No Rating|Floppy|Joystick|Amiga
+Bard's Tale, The Tales of the Unknown|NOID|0fbfd896,39d9e44b|x|0|1986|Role Playing Game|region-unknown|Electronic Arts, Inc.|Interplay Productions, Inc.|No Rating|Floppy|Mouse|Amiga
+Bargon Attack|NOID|fee7aea7,f95cfd09|x|0|1992|Adventure , Point|region-unknown|Coktel Vision|Coktel Vision|No Rating|Floppy|Mouse|Amiga
+Battle Isle|NOID|b91d7b3d,b8a95082,f6566501,27ccc60f,7aade962,2916731c|x|0|1991|Strategy , Top|region-unknown|Ubi Soft Entertainment Software|Blue Byte Software GmbH|No Rating|Floppy|Mouse|Amiga
+Battle Squadron the Destruction of the Barrax Empire|NOID|24668770,03927838,7157bf12,d5055adf|x|0|1989|Shoot 'em Up|region-unknown|Innerprise Software, Inc.|Cope-com|No Rating|Floppy|Joystick|Amiga
+BC Kid|NOID|49d8b8ef,96617d5c,5823f055,fda53cd3|x|0|1992|Platformer , Side-Scrolling|region-unknown|Ubi Soft Entertainment Ltd.|Factor 5|No Rating|Floppy|Joystick|Amiga
+Beach Volley|NOID|e0cebe80,4b1cc2e1|x|0|1989|Sports , Side-Scrolling|region-unknown|Ocean Software Ltd.|Ocean France|No Rating|Floppy|Joystick|Amiga
+Beneath a Steel Sky|10170|9E02014E,0E3D667B,f449b51a|x|0|1994|Adventure , Point|region-unknown|Virgin Interactive Entertainment (Europe)|Revolution Software Ltd.|No Rating|FloppyCD|Mouse|Amiga
+Black Crypt|NOID|e2758b69,f2efd6e7,a7b0518d|x|0|1992|Role Playing Game|region-unknown|Electronic Arts, Inc.|Raven Software Corporation|No Rating|Floppy|Mouse|Amiga
+Blood Money|NOID|6fc22952,949d5de1|x|0|1989|Shoot 'em Up|region-unknown|Psygnosis Limited|DMA Design Limited|No Rating|Floppy|Joystick|Amiga
+Brat|NOID|d58faeb5,542505a9|x|0|1991|Puzzle , Isometric|region-unknown|Image Works|Foursfield|No Rating|Floppy|Joystick|Amiga
+Brian the Lion starring in Rumble in the Jungle|NOID|6f46940e,c93391b2,fdafac28,b91f8281|x|0|1994|Platformer , Side-Scrolling|region-unknown|Psygnosis Limited|Reflections Interactive Limited|No Rating|Floppy|Joystick|Amiga
+Bubble Bobble|NOID|8edc48e6,3d9cd97b,3fc3983f|x|0|1987|Platformer , Multi-Screen|region-unknown|Firebird [Telecomsoft] (Rest of|Software Creations|No Rating|Floppy|Joystick|Amiga
+Budokan the Martial Spirit|NOID|d61e3057,5832b27c|x|0|1989|VS Fighter ,|region-unknown|Electronic Arts, Inc.|Electronic Arts, Inc.|No Rating|Floppy|Joystick|Amiga
+Cadaver and Cadaver the Payoff|NOID|c88ceaa1,7f01a4d1,a0828cae,a95897b2,2c48e4c6|x|0|1990|Action-Adventure , Isometric|region-unknown|Image Works, Renegade|The Bitmap Brothers|No Rating|Floppy|Mouse|Amiga
+Captain Blood|NOID|5e711950,9f3faa1c|x|0|1988|Adventure , First|region-unknown|Infogrames Europe SA, Mindscape,|Exxos|No Rating|Floppy|Mouse|Amiga
+Captive|NOID|929157a5,a2a1de2b|x|0|1990|Role Playing Game|region-unknown|Mindscape, Inc.|Mindscape, Inc.|No Rating|Floppy|Mouse|Amiga
+Celtic Legends|NOID|5afff67f,5e4f07e5|x|0|1991|Strategy , Top|region-unknown|Ubi Soft Entertainment Software|Ubi Soft Entertainment Software|No Rating|Floppy|Mouse|Amiga
+Chaos Engine, The|NOID|58dc1dca,debee998,f04d9a8e,ca3a9a98,46175cd9,9b1e8218|x|0|1994|Shoot 'em Up|region-unknown|Renegade Software|The Bitmap Brothers|No Rating|Floppy|Joystick|Amiga
+Chip's Challenge|NOID|4b961fa4,a17d2394|x|0|1990|Puzzle , Multi-Directional|region-unknown|Epyx  (Rest of|Image software|No Rating|Floppy|Joystick|Amiga
+Civilization|NOID|9471c943,8b98d1dc,042298d3|x|0|1992|Strategy , Top|region-unknown|MicroProse Software, Inc.|MPS Labs (MicroProse)|No Rating|FloppyCD|Mouse|Amiga
+Colonization|NOID|ac97af92,4619af00,8883e3e6,DF613EB4|x|0|1995|Strategy , Top|region-unknown|MicroProse Software, Inc.|MicroProse Software, Inc.|No Rating|FloppyCD|Mouse|Amiga
+Cool Spot|9531|fcf014a9,96f3e13d|x|0|1993|Platformer , Multi-Directional|region-unknown|Virgin Games, Ltd.|Virgin Games, Ltd.|No Rating|Floppy|Joystick|Amiga
+Crazy Cars III|NOID|2ac3799f,fd81dad4,526171b9|x|0|1992|Racing , 3D|region-unknown|Titus France SA|Titus France SA|No Rating|Floppy|Joystick|Amiga
+CREATURES to the Rescue|9586|393e045a,f96442bd|x|0|1993|Platformer , Side-Scrolling|region-unknown|ThalamusWorldwide|W. J. S.|No Rating|Floppy|Joystick|Amiga
+Cruise for a corpse|NOID|f7125d01,b163d210|x|0|1991|Adventure , Point|region-unknown|U.S. Gold Ltd.|Delphine Software International|No Rating|Floppy|Mouse|Amiga
+Crystal Hammer|NOID|d3568804,dad35e42|x|0|1988|Breakout , Multi-Screen|region-unknown|reLINE Software|reLINE Software|No Rating|Floppy|Mouse|Amiga
+Curse of Enchantia|NOID|b0fe4b92,65098e38,83c1b7b9|x|0|1992|Adventure , Point|region-unknown|Core Design Ltd.|Core Design Ltd.|No Rating|Floppy|Mouse|Amiga
+Curse of RA, The|NOID|62C84CFA,BFE367A0|x|0|1990|Puzzle , Multi-Screen|region-unknown|Rainbow Arts (Softgold)Worldwide|Cyberstyle|No Rating|Floppy|Joystick|Amiga
+Curse of the azure bonds|NOID|ee2d3319,AE89A22D|x|0|1990|Role Playing Game|region-unknown|Strategic Simulations, Inc.|Strategic Simulations, Inc.|No Rating|Floppy|Mouse|Amiga
+Cybernoid II The Revenge|9587|d7039bed,ec469b2f|x|0|1989|Shoot 'em Up|region-unknown|Hewson Consultants Ltd.|Hewson Consultants Ltd.|No Rating|Floppy|Joystick|Amiga
+D/Generation|NOID|a28d6c75,f3c88e4c,34c3fe3c|x|0|1993|Action-Adventure , Isometric|region-unknown|Mindscape, Inc.|Abersoft|No Rating|Floppy|Joystick|Amiga
+Darkmere the Nightmare's Begun|NOID|7a47fc84,34745bc0|x|0|1993|Action-Adventure , Isometric|region-unknown|Core Design Ltd.|Zero Hour Software|No Rating|Floppy|Mouse|Amiga
+Deluxe Galaga|NOID|f39355f4,8f05f1bf|x|0|1995|Shoot 'em Up|region-unknown|Shareware|Edgar M. Vigdal|No Rating|Floppy|Joystick|Amiga
+Denaris|9915|639f430b,cdcb6356,a5cd0da5,91ae4807|x|0|1989|Shoot 'em Up|region-unknown|Rainbow Arts Software GmbH|Factor 5 GmbH|No Rating|Floppy|Joystick|Amiga
+Desert Strike Return to the Gulf|NOID|bc8317a9,cc28b166|x|0|1993|Shoot 'em Up|region-unknown|Electronic Arts, Inc.|Electronic Arts, Inc.|No Rating|Floppy|Joystick|Amiga
+Detroit|NOID|ffd6bdca|x|0|1994|Strategy , Isometric|region-unknown|Impressions Games|Impressions Games|No Rating|Floppy|Mouse|Amiga
+Deuteros the Next Millennium|NOID|99a3c2b2,2aac7cc2|x|0|1991|Strategy , First|region-unknown|Activision (UK)|Activision (UK)|No Rating|Floppy|Mouse|Amiga
+Dragon Wars|NOID|60a1e513,f25f1e5f|x|0|1990|Role Playing Game|region-unknown|Interplay Entertainment Corp.|Interplay Entertainment Corp.|No Rating|Floppy|Joystick|Amiga
+Dragonflight|NOID|091a4aca,a146dc68|x|0|1990|Role Playing Game|region-unknown|Thalion Software|Thalion Software|No Rating|Floppy|Mouse|Amiga
+Drakkhen|NOID|856b4b6c,b50b018a,9a774395|x|0|1990|Role Playing Game|region-unknown|Data East Corporation|Infogrames Europe SA|No Rating|Floppy|Mouse-Joystick|Amiga
+Dune|NOID|a17974bc,55da0774|x|0|1992|Adventure , First|region-unknown|Virgin Games, Inc.|Cryo Interactive Entertainment|No Rating|Floppy|Mouse|Amiga
+Dune II The Battle for Arrakis|9576|ad6e1468,cd4ce1c3|x|0|1993|Strategy , Top|region-unknown|Virgin Games, Inc.|Westwood Studios, Inc.|No Rating|Floppy|Mouse|Amiga
+Dungeon Master|NOID|263ded07,81bc0e3f,042ad4e6,4e361bdc,2c47fd92|x|0|1992|Role Playing Game|region-unknown|FTL Games|FTL Games|No Rating|Floppy|Mouse|Amiga
+Dungeon Quest|NOID|f894ac84,7adf028d|x|0|1989|Adventure , Text|region-unknown|Image Tech|Image Tech|No Rating|Floppy|Mouse|Amiga
+Dyna Blaster|NOID|373ba115,ed9317b0|x|0|1991|Maze , Isometric|region-unknown|Ubi Soft Entertainment Software|Hudson Soft Company, Ltd.|No Rating|Floppy|Joystick|Amiga
+E-Motion|NOID|06e53702,f5edb03f|x|0|1990|Puzzle , 3D|region-unknown|U.S. Gold Ltd.|Assembly Line, The|No Rating|Floppy|Joystick|Amiga
+Elite|NOID|e3f5ac62,ffcf5a1f,c82a7609,51985a1f,dd0eef0b|x|0|1988|Strategy , First|region-unknown|Firebird Software Ltd.|Mr. Micro|No Rating|Floppy|Mouse|Amiga
+Elvira Mistress of the Dark|NOID|af327f84,355b6fa4|x|0|1990|Adventure , First|region-unknown|Accolade, Inc.|Horror Soft|No Rating|Floppy|Mouse|Amiga
+Empire Wargame of the Century|NOID|74ab7f56|x|0|1990|Strategy , Top|region-unknown|Interstel Corporation|Northwest Software|No Rating|Floppy|Mouse|Amiga
+Epic|NOID|76644ae3,3019c7e2,8320e737|x|0|1992|Shoot 'em Up|region-unknown|Ocean Software Ltd.|Digital Image Design Ltd.|No Rating|Floppy|Joystick-Mouse|Amiga
+Escape from Colditz|NOID|93b2ef5a,e6db8216|x|0|1991|Action-Adventure , Isometric|region-unknown|Digital Magic Software Ltd.|Digital Magic Software Ltd.|No Rating|Floppy|Joystick|Amiga
+Escape from the Planet of the Robot Monsters|9493|728a5e7a,c4873c99|x|0|1990|Shoot 'em Up|region-unknown|Domark Software, Inc.|Tengen Inc.|No Rating|Floppy|Joystick|Amiga
+Extase|NOID|514f85bd,1623ce6c|x|0|1990|Puzzle , Multi-Screen|region-unknown|Virgin Mastertronic Ltd.|Cryo Interactive Entertainment|No Rating|Floppy|Mouse|Amiga
+Eye of Horus|NOID|1d02116a,18b6c91a|x|0|1989|Shoot 'em Up|region-unknown|Britannica Software|Denton Designs|No Rating|Floppy|Joystick|Amiga
+Eye of the Beholder|NOID|78d8562c,911eb662|x|0|1991|Role Playing Game|region-unknown|U.S. Gold Ltd.|Westwood Associates|No Rating|Floppy|Mouse|Amiga
+Faery Tale Adventure Book I, The|NOID|4dad7c02,13d5a608|x|0|1986|Role Playing Game|region-unknown|MicroIllusions|MicroIllusions|No Rating|Floppy|Mouse|Amiga
+Fate Gates of Dawn|NOID|a2682e63,9df83422,679BA3DC|x|0|1991|Role Playing Game|region-unknown|reLINE Software|reLINE Software|No Rating|Floppy|Mouse|Amiga
+Feud|NOID|4233b920,d56afe4a|x|0|1987|Action-Adventure , Isometric|region-unknown|Mastertronic Ltd.|Binary Design, Ltd.|No Rating|Floppy|Joystick|Amiga
+Fire and Brimstone|NOID|76fc24ae,dd5ed3d9,5d879f2c,f990d923|x|0|1990|Platformer , Side-Scrolling|region-unknown|Firebird Software Ltd., MicroProse|Vectordean Ltd.|No Rating|Floppy|Joystick|Amiga
+Fire Power|NOID|1f03c031,4348590d|x|0|1988|Shoot 'em Up|region-unknown|CDS Software Ltd|Silent Software|No Rating|Floppy|Joystick|Amiga
+First Samurai|NOID|bf5fe758,8126911e|x|0|1991|Platformer , Multi-Directional|region-unknown|Image Works|Vivid Image|No Rating|Floppy|Joystick|Amiga
+Flashback The Quest for Identity|9496|28e0cbbb,551e664e|x|0|1993|Action-Adventure , Multi-Screen|region-unknown|U.S. Gold Ltd.|Delphine Software International|No Rating|Floppy|Joystick|Amiga
+Flight of the Amazon Queen|NOID|2707fb58,b19b40d1|x|0|1995|Adventure , Point|region-unknown|Renegade Software|Interactive Binary Illusions|No Rating|Floppy|Mouse|Amiga
+Formula 1 Grand Prix|NOID|562b4c3c,d7aae06e|x|0|1991|Racing , 3D|region-unknown|MicroProse Ltd.|MicroProse Ltd.|No Rating|Floppy|Joystick|Amiga
+Future Wars Time travellers|NOID|ed22e135,0d3fc437|x|0|1989|Adventure , Point|region-unknown|Palace Software, LTD.|Delphine Software International|No Rating|Floppy|Mouse|Amiga
+Garrison II the Legend Continue|NOID|d28144f2,d8fea0a4|x|0|1987|Shoot 'em Up|region-unknown|Rainbow Arts Software GmbH|Digital Dreams|No Rating|Floppy|Joystick|Amiga
+Gem'X|NOID|e493aa50,7e966484|x|0|1991|Puzzle , Multi-Screen|region-unknown|Demonware Softwarehaus GmbH|Kaiko|No Rating|Floppy|Joystick|Amiga
+Goal!|NOID|db0df603,0b1d6350,46c174d4|x|0|1993|Sports , Top|region-unknown|Virgin Games, Ltd.|Dini & Dini Productions|No Rating|Floppy|Joystick|Amiga
+Gobliins 2 the Prince Buffoon|NOID|3e0c0ee3,6391b8ae|x|0|1992|Adventure , Point|region-unknown|Sierra On-Line, Inc.|Coktel Vision|No Rating|Floppy|Mouse|Amiga
+Gods|17603|8a68cea8,89bd4e27|x|0|1991|Platformer , Multi-Directional|region-unknown|Renegade Software|Bitmap Brothers, The|No Rating|Floppy|Joystick|Amiga
+Gravity Force|NOID|b7c13c96,47417f3f|x|0|1989|Shoot 'em Up|region-unknown|Kingsoft GmbH|Stephan Wenzler|No Rating|Floppy|Joystick|Amiga
+Great Courts|NOID|76aef6b3,1829eb2a|x|0|1989|Sports , Top|region-unknown|Ubi Soft Entertainment Software|Blue Byte Software GmbH|No Rating|Floppy|Joystick|Amiga
+Great Courts 2|NOID|a99f1b7d,cb06dabd|x|0|1991|Sports , Top|region-unknown|Blue Byte Software GmbH,|Blue Byte Software GmbH|No Rating|Floppy|Joystick|Amiga
+Great Giana Sisters, The|NOID|10f41a15,08d548ca,4c4a1211|x|0|1988|Platformer , Side-Scrolling|region-unknown|GO!|Time Warp Productions|No Rating|Floppy|Joystick|Amiga
+Heart of China|NOID|63335f98,d6ffc1f3|x|0|1992|Adventure , Point|region-unknown|Sierra On-Line, Inc.|Dynamix, Inc.|No Rating|Floppy|Mouse|Amiga
+Hero Quest + Hero Quest Return of the Witch Lord|NOID|6a497f19,397d8119,1efb0b98|x|0|1991|Strategy , Isometric|region-unknown|Gremlin Graphics Software Ltd.|Gremlin Graphics Software Ltd.|No Rating|Floppy|Joystick|Amiga
+Hero's Quest So You Want To Be A Hero|NOID|7a7bff43,070b78c6,509b549b|x|0|1989|Adventure , Point|region-unknown|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|Floppy|Mouse|Amiga
+Hired Guns|NOID|e92249b0,c57b96b9|x|0|1993|Role Playing Game|region-unknown|Psygnosis Limited|DMA Design Limited|No Rating|Floppy|Mouse|Amiga
+Historyline 1914-1918|NOID|e35b2a2d,c8ae4938|x|0|1992|Strategy , Top|region-unknown|Blue Byte Studio GmbH|Blue Byte Studio GmbH|No Rating|Floppy|Mouse|Amiga
+Hostages|NOID|9dd457dd,2ae3b9e8|x|0|1988|Action-Adventure , Multi-Screen|region-unknown|Infogrames Europe SA|Infogrames Europe SA|No Rating|Floppy|Joystick|Amiga
+Hudson Hawk|NOID|db9f80b0,4dd134be|x|0|1991|Platformer , Side-Scrolling|region-unknown|Ocean Software Ltd.|Special FX Software Ltd.|No Rating|Floppy|Joystick|Amiga
+Humans, The|NOID|feda6c56,0e481617|x|0|1992|Puzzle , Multi-Directional|region-unknown|GameTek, Inc., Mirage Technologies|Imagitec Design Inc.|No Rating|Floppy|Joystick|Amiga
+Hunter|NOID|93ef052c,15f425c4,18e1f2e9|x|0|1991|Action-Adventure , 3D|region-unknown|Activision, Inc.|Activision, Inc.|No Rating|Floppy|Joystick|Amiga
+Hybris|NOID|a1af035a,e129216f|x|0|1988|Shoot 'em Up|region-unknown|Discovery Software International, Inc.|Cope-com|No Rating|Floppy|Joystick|Amiga
+Indiana Jones and the Fate of Atlantis|9491|a3c0f7f4,ed93e091|x|0|1992|Adventure , Point|region-unknown|Lucasfilm Games LLC|Lucasfilm Games LLC|No Rating|Floppy|Mouse|Amiga
+Indianapolis 500 the Simulation|NOID|979f1843,e269fac4|x|0|1990|Racing , 3D|region-unknown|Electronic Arts, Inc.|Papyrus Design Group, Inc.|No Rating|Floppy|Joystick-Mouse|Amiga
+Indigo|NOID|E1BFA4BF,57912760|x|0|1993|Platformer , Multi-Directional|region-unknown|PsygnosisUnreleased|Charley Brewster|No Rating|Floppy|Joystick|Amiga
+Indy Heat|NOID|2414DB88,8CE518DB|x|0|1992|Racing , Isometric|region-unknown|Storm (The Sales Curve)Worldwide|Sales Curve, The|No Rating|Floppy|Joystick|Amiga
+Iron Lord|NOID|4b1e09ff,48f81d05|x|0|1989|Action-Adventure , Multi-Screen|region-unknown|Ubi Soft Entertainment Software|Ubi Soft Entertainment Software|No Rating|Floppy|Mouse|Amiga
+Ishar 3 the Seven Gates of Infinity|NOID|9e4a36d8,459f7e08,d80671bd|x|0|1994|Role Playing Game|region-unknown|Silmarils|Silmarils|No Rating|Floppy|Mouse|Amiga
+It Came From The Desert|9492|2e1a2c25,929fb41a|x|0|1989|Action-Adventure , Multi-Screen|region-unknown|Mirrorsoft Ltd.|Cinemaware|No Rating|Floppy|Joystick|Amiga
+Ivan 'Iron Man' Stewart's Super Off Road|NOID|5e3055b4,2a65f1f6|x|0|1990|Racing , Isometric|region-unknown|Virgin Mastertronic Ltd.|Leland Corporation|No Rating|media-unknown|controller-unknown|Amiga
+Jaguar XJ220|NOID|e32d623c,F255D87E|x|0|1992|Racing , 3D|region-unknown|Core Design Ltd.|Core Design Ltd.|No Rating|Floppy|Joystick|Amiga
+James Pond 2 Codename RoboCod|10209|e311adc5,ec73e579|x|0|1993|Platformer , Multi-Directional|region-unknown|Millennium Interactive Ltd.|Vectordean Ltd.|No Rating|Floppy|Joystick|Amiga
+Jimmy White's Whirlwind Snooker|NOID|577fccda,e9b92819|x|0|1991|Sports , 3D|region-unknown|Virgin Games, Inc.|Virgin Games, Inc.|No Rating|Floppy|Mouse|Amiga
+Jumpin' Jackson|NOID|1db1f67a,688407fa|x|0|1990|Puzzle , Top|region-unknown|Infogrames Europe SA|Infogrames Europe SA|No Rating|Floppy|Joystick|Amiga
+K240|NOID|37f9e1c4,149b5d83|x|0|1994|Strategy , Isometric|region-unknown|Gremlin Graphics Software Ltd.|Celestial Software|No Rating|Floppy|Mouse|Amiga
+KGB|NOID|33a92ba5,ec820277|x|0|1992|Adventure , Point|region-unknown|Virgin Games, Ltd.|Cryo Interactive Entertainment|No Rating|Floppy|mouse|Amiga
+Kick Off 2|NOID|1057e49c,2cd57157,4682b2e8|x|0|1990|Sports , Top|region-unknown|Anco Software Ltd.|Anco Software Ltd.|No Rating|Floppy|Joystick|Amiga
+Killing Cloud|NOID|0e5544b4,e47677af|x|0|1991|Strategy , 3D|region-unknown|Image Works|Vektor Grafix Ltd|No Rating|Floppy|Mouse/Keyboard|Amiga
+Killing Game Show, The|NOID|ecaf537a,3afa9e0e,dcfd7e56,97448347|x|0|1990|Shoot 'em Up|region-unknown|Psygnosis Limited|Raising Hell Productions|No Rating|Floppy|Joystick|Amiga
+King of Chicago, The|NOID|083587c1,bc75d007|x|0|1987|Action-Adventure , Multi-Screen|region-unknown|Cinemaware|Cinemaware, Master Designer Software,|No Rating|Floppy|Mouse|Amiga
+King's Quest V Absence Makes the Heart Go Yonder!|NOID|89d061ba,7bb20bb9,0ecfe410|x|0|1991|Adventure , Point|region-unknown|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|Floppy|Mouse|Amiga
+Klax|NOID|ddf37823,0c4fa7cc|x|0|1990|Puzzle , First|region-unknown|Domark Software, Inc.|Atari Games Corporation|No Rating|Floppy|Joystick|Amiga
+Knights of the sky|NOID|85B96124,07A03EEB,6F836F93|x|0|1990|Flight Simulator ,|region-unknown|MicroProse Software, Inc.|MicroProse Software, Inc.|No Rating|Floppy|Joystick-Keyboard|Amiga
+Kult|NOID|f472b2cf,b380edac|x|0|1989|Adventure , First|region-unknown|Infogrames Europe SA, Data|ERE Informatique, Exxos|No Rating|Floppy|Mouse|Amiga
+Laser Squad|NOID|fa30aef6,F9929ACE|x|0|1989|Strategy , Top|region-unknown|MicroIllusions|Target Games Limited|No Rating|Floppy|Mouse/Keyboard|Amiga
+Leander|NOID|e3536145,5a8641b3|x|0|1991|Platformer , Multi-Directional|region-unknown|Psygnosis Limited|Traveller's Tales Ltd.|No Rating|Floppy|Joystick|Amiga
+Leavin Teramis|NOID|815DFD1D,BDF0209B|x|0|1990|Shoot 'em Up|region-unknown|Thalion|Thalion|No Rating|Floppy|Joystick|Amiga
+Legend of Kyrandia, The|NOID|9bdad158,eef7e725|x|0|1992|Adventure , Point|region-unknown|Virgin Games, Ltd.|Westwood Studios, Inc.|No Rating|Floppy|Mouse|Amiga
+Legend of Robin Hood, The Conquests of the Longbow|NOID|258d1876|x|0|1992|Adventure , Point|region-unknown|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|Floppy|Mouse|Amiga
+Leisure Suit Larry 5 Passionate Patti Does a Little Undercover WOrk|9897|47a57c2e,012353a3,8f3d4cc2|x|0|1992|Adventure , Point|region-unknown|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|Floppy|Mouse/Keyboard|Amiga
+Lemmings 2 the Tribes|NOID|1c3cd573,31caba3c|x|0|1993|Strategy , Side-Scrolling|region-unknown|Psygnosis Limited|DMA Design Limited|No Rating|Floppy|Mouse|Amiga
+Lion King, The|NOID|6d2baaa0,d2c3d4ef|x|0|1995|Platformer , Multi-Directional|region-unknown|Virgin Interactive Entertainment (Europe)|Westwood Studios, Inc.|No Rating|Floppy|Joystick|Amiga
+Lionheart|NOID|ac4cbaf6,4b6de20c,EBD472D0|x|0|1993|Platformer , Multi-Directional|region-unknown|Thalion Software|Thalion Software|No Rating|Floppy|Joystick|Amiga
+Liquid Kids|NOID|24909092,f1b72838|x|0|2003|Platformer , Side-Scrolling|Protoype|Prototype|Ocean FranceTaito Corporation|No Rating|Floppy|Joystick|Amiga
+Loom|9547|c0f62e9d,2dbf3928|x|0|1990|Adventure , Point|region-unknown|Lucasfilm Games LLC|Lucasfilm Games LLC|No Rating|Floppy|Mouse|Amiga
+Lords of the Realm|NOID|43f8335c,cbfd9a57|x|0|1994|Strategy , Top|region-unknown|Impressions Games|Impressions Games|No Rating|Floppy|Mouse|Amiga
+Lords of the Rising Sun|NOID|e4d93450,29f012ef|x|0|1989|Strategy , Top|region-unknown|Cinemaware|Cinemaware|No Rating|Floppy|Mouse|Amiga
+Lost Patrol, The|NOID|d042af25,b301d0c5,0a339b93,5274e64e|x|0|1990|Strategy , Top|region-unknown|Ocean Software Ltd.|Shadow Development|No Rating|Floppy|Mouse|Amiga
+Lost Vikings, The|NOID|cfc6bba8,9e8f9a6c|x|0|1993|Platformer , Multi-Directional|region-unknown|Interplay Productions, Inc.|Silicon & Synapse, Inc.|No Rating|Floppy|Joystick|Amiga
+Lotus Esprit Turbo Challenge|9548|b21a57f5,770ce580|x|0|1990|Racing , 3D|region-unknown|Gremlin Graphics Software Ltd.|Magnetic Fields (Software Design)|No Rating|Floppy|Joystick|Amiga
+Lotus III the Ultimate Challenge|NOID|fcbe4cee,f382db12|x|0|1992|Racing , 3D|region-unknown|Gremlin Graphics Software Ltd.|Magnetic Fields (Software Design)|No Rating|Floppy|Joystick|Amiga
+Lotus Turbo Challenge 2|NOID|5f7ea34b,b8571528|x|0|1991|Racing , 3D|region-unknown|Gremlin Graphics Software Ltd.|Magnetic Fields (Software Design)|No Rating|Floppy|Joystick|Amiga
+Lure of the Temptress|NOID|5135928b,429da8ff|x|0|1992|Adventure , Point|region-unknown|Virgin Games, Ltd.|Revolution Software Ltd.|No Rating|Floppy|Mouse|Amiga
+Maniac Mansion|NOID|78bdbc8f,78a5148b|x|0|1989|Adventure , Point|region-unknown|Lucasfilm Games LLC|Lucasfilm Games LLC|No Rating|Floppy|Mouse|Amiga
+Marble Madness|NOID|757539a5,56e5b0a7|x|0|1986|Maze , Isometric|region-unknown|Electronic Arts, Inc.|Atari Games Corporation|No Rating|Floppy|Joystick-Mouse|Amiga
+Maupiti Island|NOID|1c486ad8,34dda13c|x|0|1990|Adventure , Point|region-unknown|Lankhor|Lankhor|No Rating|Floppy|Joystick|Amiga
+Mean Streets|NOID|8fc4775a,f297e5d1|x|0|1990|Adventure , First|region-unknown|U.S. Gold Ltd.|Access Software, Inc.|No Rating|Floppy|Mouse|Amiga
+Mega lo Mania|NOID|4ef5c160,9853b91e|x|0|1991|Strategy , Top|region-unknown|Image Works|Sensible Software|No Rating|Floppy|Mouse|Amiga
+Mega Typhoon|NOID|88EADCD4,9285C3E2|x|0|1996|Shoot 'em Up|region-unknown|Islona [Epic Marketing]|Nordlicht|No Rating|Floppy|Joystick|Amiga
+Menace|NOID|f19342b2,e525b084,29a2c306|x|0|1988|Shoot 'em Up|region-unknown|Psygnosis Limited|DMA Design Limited|No Rating|Floppy|Joystick|Amiga
+Micro Machines|NOID|99a12a95,512ec736|x|0|1993|Racing , Top|region-unknown|Codemasters Software Company Limited,|Codemasters Software Company Limited,|No Rating|Floppy|Joystick|Amiga
+MicroProse Golf|NOID|eacce160,0ddb807b|x|0|1991|Sports , 3D|region-unknown|MicroProse Software, Inc.|MicroProse Software, Inc.|No Rating|Floppy|Mouse|Amiga
+Microprose Soccer|NOID|e5dd6f32,fce9da13|x|0|1989|Sports , Top|region-unknown|MicroProse Software, Inc.|Sensible Software|No Rating|Floppy|Joystick|Amiga
+Midwinter|NOID|759e9bec,8a013364|x|0|1990|Action-Adventure , 3D|region-unknown|Rainbird Software|Maelstrom Games|No Rating|Floppy|Joystick-Mouse|Amiga
+Midwinter II Flames of Freedom|NOID|f62d7d12,d6df0bab|x|0|1991|Action-Adventure , 3D|region-unknown|MicroProse Software, Inc.|Maelstrom Games|No Rating|Floppy|Joystick-Mouse|Amiga
+Might and Magic III Isles of Terra|NOID|0fafb912,4bc5407a,12b09d91|x|0|1992|Role Playing Game|region-unknown|New World Computing, Inc.|New World Computing, Inc.|No Rating|Floppy|Mouse|Amiga
+Mikro Mortal Tennis|NOID|20165FD3|x|0|1999|Sports , Top|region-unknown|Epic Marketing|Skywards|No Rating|Floppy|Joystick|Amiga
+Millennium 2.2|NOID|5b04a1a2,c5955dd7|x|0|1989|Strategy , First|region-unknown|Electric Dreams Software|Software Studios|No Rating|Floppy|Mouse|Amiga
+Monkey Island 2 LeChuck's Revenge|9544|90e71111,1bd58e64|x|0|1992|Adventure , Point|region-unknown|Lucasfilm Games LLC|Lucasfilm Games LLC|No Rating|Floppy|Mouse|Amiga
+Moonstone A Hard Days Knight|NOID|b64c6208,2ad4f8cb|x|0|1991|VS Fighter ,|region-unknown|Mindscape International Ltd.|Mindscape International Ltd.|No Rating|Floppy|Joystick|Amiga
+Mr. Nutz Hoppin' Mad|NOID|8b89631f,411116c9|x|0|1994|Platformer , Side-Scrolling|region-unknown|Ocean Software Ltd.|NEON Software GmbH|No Rating|Floppy|Joystick|Amiga
+Murder|NOID|445D7B5C,0E4132C4|x|0|1990|Adventure , Isometric|region-unknown|U.S. Gold|Kingsley Harrison|No Rating|Floppy|Mouse|Amiga
+Nebulus|9539|98CEF43A,99C6A7FC,AFF72392|x|0|1988|Maze , Side-Scrolling|region-unknown|Hewson|Hewson|No Rating|Floppy|Joystick|Amiga
+Nebulus 2 Pogo a gogo|NOID|59C60979,498AD26E|x|0|1991|Maze , Side-Scrolling|region-unknown|21st CenturyWorldwide|Infernal Byte Systems|No Rating|Floppy|Joystick|Amiga
+Neuromancer|NOID|E1FDF3A0,C7AA4C5C|x|0|1989|Adventure , Point|region-unknown|Mediagenic|Interplay Productions, Inc.|No Rating|Floppy|Joystick|Amiga
+Ninja Remix|9540|D14BC6ED,752A5CDD,7B5E3EAD|x|0|1990|Action-Adventure , Isometric|region-unknown|System 3Worldwide|Eclipse (Austria)|No Rating|Floppy|Joystick|Amiga
+Nitro|18891|FA579A3D,10BE972F|x|0|1990|Racing , Top|region-unknown|Psygnosis Limited|Psygnosis Limited|No Rating|Floppy|Joystick-Keyboard|Amiga
+North and South|NOID|e0b8e5fc,c98d9290|x|0|1989|Strategy , Top|region-unknown|Infogrames Europe SA|Infogrames Europe SA|No Rating|Floppy|Mouse-Joystick|Amiga
+Nuclear War|NOID|6c0be002,acc3ede5|x|0|1989|Strategy , Isometric|region-unknown|U.S. Gold Ltd.|New World Computing, Inc.|No Rating|Floppy|Mouse|Amiga
+Obitus|NOID|c9b28281,53d959f9|x|0|1991|Role Playing Game|region-unknown|Psygnosis Limited|Scenario Developments|No Rating|Floppy|Mouse|Amiga
+Obliterator|NOID|1e16d1d0,110a0bfe|x|0|1988|Platformer , Multi-Directional|region-unknown|Psygnosis Limited|Psygnosis Limited|No Rating|Floppy|Joystick-Mouse|Amiga
+One Step Beyond feat Colin Curly|NOID|3db9a5ab,b4140a85|x|0|1993|Puzzle , Multi-Screen|region-unknown|Ocean Software Ltd.|Red Rat Software Ltd|No Rating|Floppy|Joystick|Amiga
+Ooops Up|NOID|88506377,6cb222fc|x|0|1990|Shoot 'em Up|region-unknown|Demonware Softwarehaus GmbH|Silicon Warriors|No Rating|Floppy|Joystick|Amiga
+Operation Stealth|NOID|1d379ca3,f3f9dfcb|x|0|1990|Adventure , Point|region-unknown|U.S. Gold Ltd.|Delphine Software International|No Rating|Floppy|Mouse|Amiga
+Ork|9897|c2812888,176d43ba,2259c21b|x|0|1991|Shoot 'em Up|region-unknown|Psygnosis Limited|WJS Design|No Rating|Floppy|Joystick|Amiga
+Oscar|10230|bbbd83bb,d78e4844,1F080CAA|x|0|1993|Platformer , Multi-Directional|region-unknown|Flair Software Ltd.|Flair Software Ltd.|No Rating|Floppy|Joystick|Amiga
+Overdrive|NOID|0BB280FC,57191801|x|0|1993|Racing , Top|region-unknown|Team 17|Psionic|No Rating|Floppy|Joystick|Amiga
+Pac-Mania|9534|e847f2cc,c690d150,012bf64c|x|0|1988|Maze , Isometric|region-unknown|Grandslam Entertainments Ltd.|Namco Limited|No Rating|Floppy|Joystick|Amiga
+Pang|NOID|ff2b987d,f19ac167,96126272|x|0|1990|Shoot 'em Up|region-unknown|Ocean Software Ltd.|Mitchell Corporation|No Rating|Floppy|Joystick|Amiga
+Panza Kick Boxing|NOID|b2cb7f65,ea8d0a3a|x|0|1990|VS Fighter ,|region-unknown|Loriciels|Futura|No Rating|Floppy|Joystick|Amiga
+Paradroid 90|NOID|95f79289,2a48bfd5,10bf4f40|x|0|1990|Shoot 'em Up|region-unknown|Hewson Consultants Ltd.|Graftgold Ltd.|No Rating|Floppy|Joystick|Amiga
+Parasol Stars the Story of Rainbow Islands II|NOID|07dbcf8c,67d92223,d991f2a9|x|0|1992|Platformer , Multi-Screen|region-unknown|Ocean Software Ltd.|Taito Corporation|No Rating|Floppy|Joystick|Amiga
+Pinball Dreams|NOID|0fa4d4a5,5276a67d,24A55769|x|0|1992|Pinball , Vertical|region-unknown|21st Century Entertainment Ltd.|Digital Illusions CE AB|No Rating|Floppy|Keyboard|Amiga
+Pool of Radiance|NOID|5c0733e2,9b584f3e|x|0|1990|Role Playing Game|region-unknown|U.S. Gold Ltd.|Strategic Simulations, Inc.|No Rating|Floppy|Mouse|Amiga
+Pools of Darkness|NOID|39a1611e,65ead01c|x|0|1992|Role Playing Game|region-unknown|Strategic Simulations, Inc.|Strategic Simulations, Inc.|No Rating|Floppy|Mouse|Amiga
+Populous|NOID|336c2308,094c4fd6,507B61CF,DDF39716,BCE806B5,5072AD62|x|0|1989|Strategy , Isometric|region-unknown|Electronic Arts, Inc.|Bullfrog Productions, Ltd.|No Rating|Floppy|Mouse|Amiga
+Populous II Trials of the Olympian Gods|17603|4868c402,377b4aee,1E415E82,717673A4|x|0|1991|Strategy , Isometric|region-unknown|Electronic Arts, Inc.|Bullfrog Productions, Ltd.|No Rating|Floppy|Mouse|Amiga
+PowerMonger|NOID|99c2b66b,98b3cc42,33ec53bd|x|0|1990|Strategy , Isometric|region-unknown|Electronic Arts, Inc.|Bullfrog Productions, Ltd.|No Rating|Floppy|Mouse|Amiga
+Prince of Persia|9535|6b6d2c59,9d80123a|x|0|1990|Platformer , Multi-Screen|region-unknown|Domark Software, Inc.|Broderbund Software, Inc.|No Rating|Floppy|Joystick|Amiga
+Projectyle|NOID|3bf3afd0,5c56ee2f|x|0|1990|Sports , Top|region-unknown|Electronic Arts, Inc.|Eldritch the Cat Ltd|No Rating|Floppy|Joystick-Mouse-Keyboard|Amiga
+Pushover|NOID|eb89e0dd,290e9f6b|x|0|1992|Puzzle , Multi-Screen|region-unknown|Ocean Software Ltd.|Red Rat Software Ltd|No Rating|Floppy|Joystick|Amiga
+Putty|NOID|b7cfa53f,1b659da8|x|0|1992|Platformer , Multi-Directional|region-unknown|System 3 Software, Ltd.|System 3 Software, Ltd.|No Rating|Floppy|Joystick|Amiga
+Puzznic|NOID|617eb8e6,f64f6561|x|0|1990|Puzzle , Multi-Screen|region-unknown|Ocean Software Ltd.|Taito Corporation|No Rating|Floppy|Joystick|Amiga
+Quest for the Time-Bird, The|NOID|b97af084,0326eb61|x|0|1989|Adventure , Point|region-unknown|Infogrames Europe SA|Infogrames Europe SA|No Rating|Floppy|Mouse|Amiga
+Qwak|NOID|c818b0b1,0adb6cfe|x|0|1993|Platformer , Multi-Screen|region-unknown|Team17 Software Limited|Team17 Software Limited|No Rating|Floppy|Joystick|Amiga
+Railroad Tycoon|NOID|026714a1,d72277e5|x|0|1990|Strategy , Top|region-unknown|MicroProse Software|MPS Labs|No Rating|Floppy|Mouse/Keyboard|Amiga
+Rainbow Islands|NOID|c241a6a9,f5cf5c20,f9e21657|x|0|1990|Platformer , Vertical|region-unknown|Ocean Software Ltd.|Graftgold Ltd.|No Rating|Floppy|Joystick|Amiga
+Rampart|16298|76bf6cbc,915d653c|x|0|1992|Strategy , Top|region-unknown|Domark Software, Inc.|Tengen Inc.|No Rating|Floppy|Mouse|Amiga
+Rick Dangerous|NOID|6cf3b258,0cad6a4f|x|0|1989|Platformer , Multi-Screen|region-unknown|Firebird|Core|No Rating|Floppy|Joystick|Amiga
+Rick Dangerous 2|NOID|1be26272,951801fd,c903ee01|x|0|1990|Platformer , Multi-Screen|region-unknown|MicroStyle|Core Design Ltd.|No Rating|Floppy|Joystick|Amiga
+Robocop|9533|56815ce3,8ff02a32,AE03C757|x|0|1989|Shoot 'em Up|region-unknown|Ocean|Ocean|No Rating|Floppy|Joystick|Amiga
+RoboCop 3|NOID|49495b2a,4381a4ac|x|0|1992|Action-Adventure , 3D|region-unknown|Ocean Software Ltd.|Digital Image Design Ltd.|No Rating|Floppy|Mouse/Joystick|Amiga
+Rock 'n Roll|NOID|86c28822,02c92c6c|x|0|1989|Maze , Multi-Directional|region-unknown|Rainbow Arts|Rainbow Arts|No Rating|Floppy|Mouse|Amiga
+Rocket Ranger|NOID|44cabb13,67d04572,f7679a9d|x|0|1988|Action-Adventure , Multi-Screen|region-unknown|Mirrorsoft Ltd.|Cinemaware|No Rating|Floppy|Joystick|Amiga
+Rodland|NOID|0e46966d,444f15b9|x|0|1991|Platformer , Multi-Screen|region-unknown|Storm|Sales Curve, The|No Rating|Floppy|Joystick|Amiga
+Ruff 'n' Tumble|NOID|335486f4,35d1606a|x|0|1994|Shoot 'em Up|region-unknown|Renegade Software|Wunderkind|No Rating|Floppy|Joystick|Amiga
+S.W.I.V.|NOID|97195d34,9da010d2,48019ed2|x|0|1991|Shoot 'em Up|region-unknown|Storm|Random Access, Sales Curve|No Rating|Floppy|Joystick|Amiga
+Secret of Monkey Island, The|NOID|20df2b8f,48516f4c|x|0|1991|Adventure , Point|region-unknown|U.S. Gold Ltd.|Lucasfilm Games LLC|No Rating|Floppy|Mouse|Amiga
+Sensible Golf|NOID|5ee0278d,175d7ad7|x|0|1995|Sports , Top|region-unknown|Virgin Interactive Entertainment (Europe)|Sensible Software|No Rating|Floppy|Mouse|Amiga
+Sensible Soccer European Champions 92 and 93|NOID|c6d97b9f,e83522d3,1618ccdc,036cd768,de959777,60f86d5d|x|0|1992|Sports , Top|region-unknown|Renegade Software|Sensible Software|No Rating|Floppy|Joystick|Amiga
+Sensible World of Soccer '96/'97|NOID|3fe00dd2,b190f7c3,1051ccc4,17126362,f4af023d,519aefeb,0ee50d64|x|0|1996|Sports , Top|region-unknown|Renegade Software|Sensible Software|No Rating|Floppy|Joystick|Amiga
+Sentinel, The|NOID|c61685cf,4928c2ec|x|0|1988|Strategy , First|region-unknown|Firebird Software Ltd.|Geoff Crammond|No Rating|Floppy|Mouse|Amiga
+Settlers, The|NOID|f7edea96,15b9a872,2a786568|x|0|1993|Strategy , Isometric|region-unknown|Blue Byte|Volker Wertich|No Rating|Floppy|Mouse|Amiga
+Seven Gates of Jambala, The|NOID|51115e93,2a24b3d9,c51d8cb5|x|0|1989|Platformer , Side-Scrolling|region-unknown|Grandslam|Thalion|No Rating|Floppy,|Mouse|Amiga
+Shadow of the Beast|NOID|82c7bb8d,f0ae521c|x|0|1989|Platformer , Multi-Directional|region-unknown|Psygnosis Limited|Reflections Interactive Limited|No Rating|Floppy|Joystick|Amiga
+Shadow of the Beast 3 Out of the Shadow|NOID|acccd6e3,48ed42f6,adb4e285|x|0|1992|Platformer , Multi-Directional|region-unknown|Psygnosis Limited|Reflections Interactive Limited|No Rating|Floppy|Joystick|Amiga
+Shadow of the Beast II|NOID|078c2b1a,4aeb282b,7e786b9b|x|0|1990|Platformer , Multi-Directional|region-unknown|Psygnosis Limited|Reflections Interactive Limited|No Rating|Floppy|Joystick|Amiga
+ShockWave|NOID|c12ec21e,07553dbb|x|0|1990|Shoot 'em Up|region-unknown|Digital Magic Software|Light Source Productions|No Rating|Floppy|Mouse/Joystick|Amiga
+Shufflepuck Cafe|NOID|0c589ded,54968e6b|x|0|1989|Sports , First|region-unknown|Broderbund Software, Inc.|Broderbund Software, Inc.|No Rating|Floppy|Mouse|Amiga
+Silent Service II|NOID|6a10d625,bf3be1c8|x|0|1991|Simulation , First|region-unknown|MicroProse Software, Inc.|MPS Labs|No Rating|Floppy|Mouse/Keyboard|Amiga
+Silkworm|NOID|64e6fbd9,3b5cda0f,7D8BBE46|x|0|1989|Shoot 'em Up|region-unknown|Virgin Mastertronic Ltd.|Tecmo, Ltd.|No Rating|Floppy|Joystick|Amiga
+Simulcra|NOID|338588a7,15351744|x|0|1990|Shoot 'em Up|region-unknown|MicroStyle|Graftgold Ltd.|No Rating|Floppy|Joystick|Amiga
+Skidz|NOID|2f857721,2dc0b74b,3bbc4949,5dd96c95|x|0|1990|Sports , Multi-Directional|region-unknown|Gremlin Graphics|Core Design|No Rating|Floppy|Joystick|Amiga
+Slam Tilt|NOID|af7b5927,a04cec7a|x|0|1996|Pinball , Vertical|region-unknown|21st Century Entertainment Ltd.|Liquid Dezign HB|No Rating|Floppy|Keyboard|Amiga
+Snow Bros.|NOID|63d226bb,659b1fc6,55cd9cd5|x|0|1991|Platformer , Multi-Screen|region-unknown|Prototype|Ocean FranceToaplan|No Rating|Floppy|Joystick|Amiga
+Space Quest III the Pirates of Pestulon|NOID|e7bb953c,e9a84489|x|0|1989|Adventure , Point|region-unknown|Sierra On-Line, Inc.|Sierra On-Line, Inc.|No Rating|Floppy|Mouse|Amiga
+Spindizzy Worlds|NOID|a3991873,3d1bab14,d3ba3086|x|0|1990|Maze , Isometric|region-unknown|Electric Dreams|Electric Dreams|No Rating|Floppy|Joystick|Amiga
+Starglider 2|NOID|e800e737,f909722c,9f0c24c3|x|0|1988|Shoot 'em Up|region-unknown|Rainbird Software|Argonaut Software Ltd.|No Rating|Floppy|Mouse/Joystick|Amiga
+Stormlord|NOID|7452727b,8f59e0b7,5b2ad1d6|x|0|1989|Platformer , Side-Scrolling|region-unknown|Hewson Consultants Ltd.|RazorSoft, Inc.|No Rating|Floppy|Joystick|Amiga
+Stryx|NOID|27b2eb13,ae08545c|x|0|1989|Platformer , Side-Scrolling|region-unknown|Psyclapse|Psygnosis|No Rating|Floppy|Joystick|Amiga
+Stunt Car Racer|9511|bf0ff186,aba8b898,1D49B6D3,6662FF8E,4F1864FC,6D61A04E|x|0|1989|Racing , 3D|region-unknown|Microplay Software|Geoff Crammond|No Rating|Floppy|Joystick|Amiga
+Super Cars II|NOID|5dec0a87,07609fd9|x|0|1991|Racing , Top|region-unknown|Gremlin Graphics|Magnetic Fields|No Rating|Floppy|Joystick|Amiga
+Super Hang-On|16468|5960ab92,38c75f0a|x|0|1988|Racing , 3D|region-unknown|Electric Dreams (Activision)Worldwide|Software Studios (Activision)|No Rating|Floppy|Keyboard/Mouse/Joystick|Amiga
+Super Skweek|NOID|0add479e,b0064920|x|0|1990|Puzzle , Multi-Directional|region-unknown|Loriciel|Loriciel|No Rating|Floppy|Joystick|Amiga
+Super Space Invaders|NOID|2670b941,07a04556|x|0|1991|Shoot 'em Up|region-unknown|Domark|The Kremlin|No Rating|Floppy|Joystick|Amiga
+Super Tennis Champs|NOID|f30ecf34,ed91ccf0|x|0|1995|Sports , Top|region-unknown|Audiogenic|Mental Software|No Rating|Floppy|Joystick|Amiga
+Switchblade|NOID|f15917ba,14d09c95,95bee25a|x|0|1989|Platformer , Multi-Screen|region-unknown|Gremlin Graphics|Core Design Ltd.|No Rating|Floppy|Joystick|Amiga
+Switchblade II|NOID|c0dfc2d5,a75c9b19|x|0|1991|Platformer , Side-Scrolling|region-unknown|Gremlin Graphics|Gremlin Graphics|No Rating|Floppy|Joystick|Amiga
+Sword|NOID|7f44ae6d,6329554c|x|0|1997|Platformer , Multi-Directional|region-unknown|Titan Computer|Serio-Comic|No Rating|Floppy|Joystick|Amiga
+Teenage Queen|NOID|234c06e3,887f4325|x|0|1988|Card Game ,|region-unknown|Infogrames Europe SA|ERE Informatique|No Rating|Floppy|Mouse|Amiga
+Tetris|9513|3397df19,de06cc5b,c14e0c7e|x|0|1988|Puzzle , Multi-Screen|region-unknown|InfogramesEurope; Spectrum HoloByte [Sphere]Rest|Abersoft|No Rating|Floppy|Mouse/Keyboard|Amiga
+Three Stooges, The|NOID|a496793d,9ac0e214|x|0|1987|Action-Adventure , Multi-Screen|region-unknown|Cinemaware|Cinemaware|No Rating|Floppy|Joystick|Amiga
+Tiny Skweeks|NOID|852797f8,174bf995|x|0|1992|Puzzle , Multi-Screen|region-unknown|Loriciel|Atreid Concept|No Rating|Floppy|Joystick-Mouse-Keyboard|Amiga
+Titan|NOID|e028e380,a45b48de|x|0|1989|Breakout , Multi-Directional|region-unknown|Titus Software|Titus Software|No Rating|Floppy|Mouse|Amiga
+Titus the Fox To Marrakech and Back|NOID|3ea19f9f,748d8a9c|x|0|1992|Platformer , Multi-Directional|region-unknown|Titus France SA|Titus France SA|No Rating|Floppy|Joystick|Amiga
+Toki|NOID|ae3ca579,cda47b14|x|0|1991|Platformer , Side-Scrolling|region-unknown|Ocean Software Ltd.|Ocean FranceTaito Corporation|No Rating|Floppy|Joystick|Amiga
+Tower of Babel|NOID|71793412,522493e5|x|0|1990|Puzzle , 3D|region-unknown|MicroProse Ltd.|MicroProse Ltd.|No Rating|Floppy|Mouse|Amiga
+Transarctica|NOID|d8fcdab5,e38b333b,33d85396,78f4baa1|x|0|1993|Adventure , Point|region-unknown|Silmarils|Silmarils|No Rating|Floppy|Mouse|Amiga
+Traps 'n' Treasures|NOID|80385ba1,2004d201|x|0|1993|Platformer , Multi-Directional|region-unknown|Starbyte Software|Nightingale|No Rating|Floppy|Joystick|Amiga
+Turrican|9515|10a4f9f4,7b0bb379,6001249d,805ed778|x|0|1990|Platformer , Multi-Directional|region-unknown|Rainbow Arts Software GmbH|Factor 5|No Rating|Floppy|Joystick|Amiga
+Turrican 3|NOID|3d9c3a5f,ea4d9dbb,5d37ad58|x|0|1993|Platformer , Multi-Directional|region-unknown|Renegade Software|Factor 5|No Rating|Floppy|Joystick|Amiga
+Turrican II the Final Fight|9495|37203530,30070653,12f28ca4,0cfa8c05|x|0|1991|Platformer , Multi-Directional|region-unknown|Rainbow Arts Software GmbH|Factor 5|No Rating|Floppy|Joystick|Amiga
+TV Sports Basketball|NOID|d12eb68c,5428200c|x|0|1990|Sports , Multi-Screen|region-unknown|Cinemaware (Rest of the|Cinemaware|No Rating|Floppy|Joystick|Amiga
+Twintris|NOID|70ae8d6c,2ec601f4|x|0|1990|Puzzle , Multi-Screen|region-unknown|Digital Marketing|Svein Berge|No Rating|Floppy|Joystick-Mouse-Keyboard|Amiga
+Typhoon Thompson in Search for the Sea Child|NOID|29d3da15,ef141b15,1a26583b|x|0|1989|Shoot 'em Up|region-unknown|Br?derbund Software, Inc.|Dan Gorlin Productions|No Rating|Floppy|Mouse|Amiga
+U.N. Squadron|9556|ab1feca4,8250eac7|x|0|1990|Shoot 'em Up|region-unknown|U.S. Gold Ltd.|Tiertex|No Rating|Floppy|Joystick|Amiga
+Ugh!|NOID|801c9fb4,a1314f32,FA9B6179|x|0|1992|Platformer , Multi-Directional|region-unknown|Play Byte|Egosoft|No Rating|Floppy|Joystick|Amiga
+Ultima VI the False Prophet|NOID|4cd6543c,9746d3a4|x|0|1992|Role Playing Game|region-unknown|ORIGIN Systems, Inc.|Abersoft|No Rating|Floppy|Mouse|Amiga
+Unreal|NOID|80faccf7,1fb56b85|x|0|1990|Platformer , Multi-Directional|region-unknown|Ubi Soft Entertainment Software|Ordilogic Systems|No Rating|Floppy|Joystick|Amiga
+Uridium 2|NOID|8028f749,73de26b4|x|0|1993|Shoot 'em Up|region-unknown|Renegade Software|Graftgold Creative Software|No Rating|Floppy|Joystick|Amiga
+Venus the Flytrap|NOID|6b5370dd,113eb771|x|0|1990|Shoot 'em Up|region-unknown|Gremlin Graphics Software Ltd.|Gremlin Graphics Software Ltd.|No Rating|Floppy|Joystick|Amiga
+Virocop|NOID|7e0e07a0,3b8e64d9,d89643af|x|0|1995|Shoot 'em Up|region-unknown|Renegade Software, Time Warner|Graftgold Creative Software|No Rating|media-unknown|controller-unknown|Amiga
+Virus|NOID|a14bc514,9a1be284|x|0|1988|Shoot 'em Up|region-unknown|Firebird Software Ltd.|David Braben|No Rating|Floppy|Mouse/Joystick|Amiga
+Voodoo Nightmare|NOID|8d12612a,6688d43a|x|0|1990|Maze , Isometric|region-unknown|Palace Software|Zippo Games|No Rating|Floppy|Joystick|Amiga
+Vroom|NOID|d4a2598a,1a1ac542,2109ba84,203cb800|x|0|1991|Racing , 3D|region-unknown|Ubi Soft Entertainment Software|Lankhor|No Rating|Floppy|Joystick|Amiga
+Walker|NOID|c3a921e8,1bc9cbf7|x|0|1993|Shoot 'em Up|region-unknown|Psygnosis Limited|DMA Design Limited|No Rating|Floppy|Mouse/Keyboard|Amiga
+WaxWorks|NOID|dd3654b8,23990080|x|0|1993|Adventure , First|region-unknown|Accolade, Inc.|Horror Soft|No Rating|Floppy|Mouse|Amiga
+Ween the Prophecy|NOID|0e1c0052,9390d8cd|x|0|1992|Adventure , Point|region-unknown|Coktel Vision|Coktel Vision|No Rating|Floppy|Mouse|Amiga
+Weird Dreams|NOID|8432459c,f973b46f|x|0|1989|Action-Adventure , Multi-Screen|region-unknown|Rainbird Software|Rainbird Software|No Rating|Floppy|Joystick|Amiga
+Wings|NOID|ed605b0e,9a3ac67b|x|0|1990|Flight Simulator ,|region-unknown|CinemawareUSA, MirrorsoftRest of the|Cinemaware|No Rating|Floppy|Joystick|Amiga
+Wings of Death|NOID|1d6f5348,28d876eb|x|0|1989|Shoot 'em Up|region-unknown|Thalion Software|Eclipse (Austria)|No Rating|Floppy|Joystick|Amiga
+Wizball|NOID|19203c77,61d6d084,6e08d33d,765f02b8|x|0|1988|Shoot 'em Up|region-unknown|Ocean Software Ltd.|Sensible Software|No Rating|Floppy|Joystick|Amiga
+Wizkid the Story of Wizball II|NOID|ad16ca2c,487a93bc|x|0|1992|Breakout , Multi-Screen|region-unknown|Ocean Software Ltd.|Sensible Software|No Rating|Floppy|Joystick|Amiga
+Wolfchild|NOID|ce0b24fc,0aba15d2|x|0|1992|Platformer , Multi-Directional|region-unknown|Core Design Ltd.|Core Design Ltd.|No Rating|Floppy|Joystick|Amiga
+Worms the Directors Cut|NOID|60c8b756,b0818c4a|x|0|1997|Strategy , Side-Scrolling|region-unknown|Ocean Software Ltd.|Team17 Software Limited|No Rating|Floppy|Keyboard|Amiga
+Wrath of the Demon|NOID|434ed308,ca6e3dc6|x|0|1991|Platformer , Side-Scrolling|region-unknown|ReadySoft Incorporated|Abstrax|No Rating|Floppy|Joystick|Amiga
+X-Out|NOID|a8afff79,4ce205d2|x|0|1990|Shoot 'em Up|region-unknown|Rainbow Arts Software GmbH|Rainbow Arts Software GmbH|No Rating|Floppy|Joystick|Amiga
+Xenon 2 Megablast|9550|84400729,4fbe1b86,01be71f0,788305df,405ce750|x|0|1989|Shoot 'em Up|region-unknown|CinemawareUSA, Image Works (Mirrorsoft)Rest|The Assembly Line, The|No Rating|Floppy|Joystick|Amiga
+Yo! Joe! Beat the Ghosts|NOID|dac83928,5787d3c2|x|0|1993|Platformer , Multi-Directional|region-unknown|Hudson Soft, Play Byte|Scipio|No Rating|Floppy|Joystick|Amiga
+Yolanda|NOID|69b660c3,e166aab4,c58c4c56|x|0|1990|Platformer , Multi-Screen|region-unknown|Millennium|Millennium|No Rating|Floppy|Joystick|Amiga
+Z-Out|NOID|3c7f4fae,827970fe,ced9fe49|x|0|1991|Shoot 'em Up|region-unknown|Rainbow Arts Software GmbH|Advantec Software|No Rating|Floppy|Joystick|Amiga
+Zak McKracken and the Alien Mindbenders|NOID|cafc3189,cbf0e12d|x|0|1988|Adventure , Point|region-unknown|U.S. Gold Ltd.|Lucasfilm Games LLC|No Rating|Floppy|Mouse|Amiga
+Zany Golf|NOID|1d906329,44e81656|x|0|1988|Sports , Isometric|region-unknown|Electronic Arts, Inc.|Sandcastle|No Rating|media-unknown|controller-unknown|Amiga
+Zeewolf 2 Wild Justice|NOID|a16c22d1,13cc724e|x|0|1995|Shoot 'em Up|region-unknown|Pinnacle|Binary Asylum|No Rating|Floppy|Joystick-Mouse|Amiga
+Zool Ninja of the ''Nth'' Dimension|NOID|c432d374,b6e7fa5b,34fa3f1d,89e1a295|x|0|1993|Platformer , Multi-Directional|region-unknown|Gremlin Graphics Software Ltd.|Gremlin Graphics Software Ltd.|No Rating|FloppyCD|Joystick|Amiga
+Zoom!|NOID|7932c395,185b64f7|x|0|1988|Maze , Isometric|region-unknown|Discovery Software International, Inc.|Discovery Software International, Inc.|No Rating|Floppy|Joystick|Amiga
+Black Cauldron|9044|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+AAARGH!|9045|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Brides of Dracula|9047|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Barbarian II The Dungeon of Drax|9048|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Bad Cat|9263|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+A Mind Forever Voyaging|9338|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+A Prehistoric Tale|9339|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+A Question of Sport|9340|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+A-10 Tank Killer|9341|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+A320 Airbus|9342|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+A.G.E.|9343|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+A.P.B.|9344|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+ABC Wide World of Sports Boxing|9345|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Abandoned Places|9346|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Abandoned Places 2|9347|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Beast Busters|9474|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Bloodwych|9475|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Chuckie Egg II|9476|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Ghostbusters II|9477|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Baal|9478|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Ghouls 'N Ghosts|9479|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Gremlins 2 The New Batch|9480|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Hägar the Horrible|9481|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Hard Drivin'|9482|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Hawkeye|9483|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Head over Heels|9484|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Astaroth The Angel of Death|9485|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Home Alone|9486|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Hitchhiker's Guide to the Galaxy|9487|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Hook|9488|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Ikari Warriors|9489|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Impossible Mission II|9490|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+E-SWAT|9494|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Forgotten Worlds|9497|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Shinobi|9501|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+SimCity|9502|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Simpsons Bart vs. the Space Mutants|9503|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Space Ace|9504|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Star Wars|9507|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Strider|9509|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Strider 2|9510|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Tusker|9514|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Turrican III|9517|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Turbo Outrun|9518|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Toobin'|9519|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Last Ninja 2|9521|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Space Harrier|9526|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Winter Games|9527|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Buggy Boy|9528|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Bombuzal|9529|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Chase H.Q.|9530|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Rampage|9532|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Pipe Dream|9536|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Mercenary|9537|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Mortal Kombat|9538|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Navy Moves|9541|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+NARC|9542|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Last Duel|9543|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Leisure Suit Larry In the Land of the Lounge Lizards|9545|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Venom Wing|9552|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Viz The Game|9553|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Ultima V Warriors of Destiny|9555|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Untouchables|9557|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Pac-Land|9558|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Paperboy|9559|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Paperboy 2|9560|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Pawn|9561|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Platoon|9562|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Power Drift|9563|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Powerdrome|9565|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Operation Thunderbolt|9566|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Jurassic Park|9568|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Hunt For Red October|9569|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Fantastic Dizzy|9570|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Defenders of the Earth|9573|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Double Dragon|9574|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Dragon's Lair|9575|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Amazing Spider-Man|9579|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Armalyte The Final Run|9581|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Atomic Robo-Kid|9582|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Chessmaster 2000|9583|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Commando|9584|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Cool World|9585|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Dick Tracy|9588|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Dynamite Dux|9589|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Better Dead Than Alien!|9892|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Carcharodon White Sharks|9894|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Bio Challenge|9895|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Atomino|9896|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Demoniak|9898|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Demon Blue|9899|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Darius+|9902|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Dalek Attack|9903|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Cutthroats|9904|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Crystal Dragon|9905|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Fish|9906|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Frost Byte|9907|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Enchanted Land|9909|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Emerald Mine II|9910|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Elvira II The Jaws of Cerberus|9911|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Elf|9912|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Dungeon Master II Skullkeep|9913|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+D.R.A.G.O.N. Force|9914|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Demon's Tomb The Awakening|9916|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Gemini Wing|9918|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Gauntlet III The Final Quest|9919|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Operation Neptune|9920|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Munsters|9921|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Nightbreed The Action Game|9922|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Nightbreed The Interactive Movie|9923|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Cruncher Factory|9924|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Dennis the Menace|10188|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Fire Force|10199|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+James Pond 3 Operation Starfish|10210|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Liberation Captive 2|10219|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Marvin's Marvellous Adventures|10223|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Nick Faldo's Championship Golf|10228|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Nigel Mansell's World Championship Racing|10229|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Thomas the Tank Engine and Friends|10292|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Striker World Cup Special|10296|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Super Methane Brothers|10306|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Castlevania|11959|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Wonder Boy in Monster Land|16477|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+World Games|17634|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Puggsy|17770|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Race Drivin'|17771|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Double Dragon 3|18792|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Indiana Jones and the Last Crusade The Graphic Adventure|18892|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Godfather|18893|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA
+Archer MacLean's Pool|18894|No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|AMIGA

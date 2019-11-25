@@ -1,0 +1,19 @@
+Description
+
+Your passport to racing! Develop a racing career as you compete for job offers with each of the 15 World Driver Teams. Ten tracks located throughout the world. 20 challenging events spread across two different levels of competition. Over 30 highly detailed, exotic cars with realistic physics and handling! Race head-to-head in two-player split-screen mode. Save replay on the Controller Pak to analyze your driving skills from multiple camera angles.
+
+
+One of the last racing simulations to be released for Nintendo 64, this graphically intensive title used custom microcode optimization and high polygon count modelling. The development team was able to optimize the usage of the various processors within the N64 to allow far draw distance (reducing the need for fog or pop-up), high detail texturing and models, MP3 music, Doppler effect audio, and advanced lighting and fog effects for realistic weather conditions. Impressively the game has a high resolution 640x480 mode that does not require the add-on N64 RAM Expansion Pak. Additionally, unlike many other games of its type on the platform, the game runs high resolution at a sufficiently playable pace, undoubtedly due to the use of a reduced screen area letterbox mode that lessens the number of pixels needing to be displayed.
+
+
+Reviews
+
+The game received mixed reviews due to intense competition at the time. While WDC was an improvement in nearly every way compared to Boss's similar earlier effort, Top Gear Rally, it was up against the impressive new Gran Turismo series and other new racers. Complaints included a somewhat unconvincing driving physics model, non-licensed cars, and poor sound effects and music quality. The dislike for the physics model often stems from the beginning cars being difficult to drive and offering a "sloppy" feeling of control. As the game progresses and the player receives faster and better performing cars, the game becomes easier and more enjoyable.
+
+The soundtrack, composed of original rock & heavy metal tunes, was composed by musician Zack Ohren.
+
+
+
+Mega Man (?)
+http://en.wikipedia.org/wiki/World_Driver_Championship
+http://www.gamefaqs.com/n64/189710-world-driver-championship/data

@@ -1,0 +1,34 @@
+In olden days of yore, the realm of Alefgard was cloaked in darkness. According to legend, a brave warrior, Edrick, brought light back to the land by defeating an evil being. He used the Ball of Light bequeathed to him by a friend to drive off the enemies of Alefgard. He then gave the Ball of Light to King Lorik, who unified Alefgard.
+
+The land was at peace for many generations. In the time of King Lorik XVI, the Ball of Light were stolen from Tantegel Castle by the evil Dragonlord, and once again the Kingdom of Alefgard was plunged into darkness. Many travelers fell prey to the merciless fangs of monsters, and the beautiful land was transformed into poisonous swamps that hindered travelers. It was also rumored that several Towns and Villages were destroyed; wiped off the face of the land by Ghosts & Dragons.
+
+Many brave warriors tried to recover the Ball of Light, but none of them returned from Charlock, the Dragonlord's dark castle. The people longed for peace, but did not give up hope. The great Seer Mahetta predicted that "One day, a descendant of the valiant Edrick shall come forth to defeat the Dragonlord."
+
+Who is this brave soul? There is only one possible answer.
+You. Your quest is to find and defeat the Dragonlord. The time has come. This is the start of your adventure. Welcome To The Realm Of "Dragon Warrior"
+
+Controls - 
+A Button - Pull Up Command Window/Accept
+B Button - Cancel
+Start Button - Stats
+Select Button - Pause
+
+Hints - 
+Unlimited items
+- Explore a dungeon and collect items, leave the dungeon, then re-enter. All items previously collected will appear again in their original locations.
+
+Reviewer - egosolus
+http://www.consoleclassix.com/nes/dragon_warrior.html
+Dragon Warrior 1 is a great NES game, but the graphics aren't very good. That's normal, since the original Japanese game was released in 1986 in the early day of the NES. On the other site, Dragon Warrior 4, released a few years later, was very nice-looking. As such, I decided to replace the graphics of DW1 by those of DW4.
+
+I did a lot of graphics changes. I also hacked the palette for the overworld map and inside Tantagel castle. As you can see in the screenshots below, the overworld is pretty much complete, besides a few color mistakes. I'll do my best to fix that. I began to work inside Tantagel castle, but the work there is quite early. I still need to change all the characters sprites and palettes.
+
+http://www.interordi.com/romhack/dw1plus/index.php
+A nation just over a rebellion by their own psychic soldiers is attacked by an alien being in a giant star ship.
+
+The last one of the rebels that has not been executed is given a choice - Save the land of Amnethen or die at the hands of her former master, Lord Vin.
+
+An epic full-scale RPG Hack that is sure to blow you away!
+
+http://www.romhacking.net/hacks/1/
+No information online about this hack.  ~Rx

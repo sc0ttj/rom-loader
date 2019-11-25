@@ -1,0 +1,35 @@
+Kyle Reese, a lone warrior from the future, returns to the past to protect the one woman who holds the key to the survival of the human race. Together they must face not only everything Los Angeles has to throw at them, but also the terrifying might of a cyborg known as the Terminator... who will stop at nothing to kill them both!
+
+Gameplay:
+
+The Terminator is an action shooter game. The main character, Kyle Reese, traverses through levels that closely parallel the movie's environment. In all levels, the main character has a jump and has various weapons throughout the game. The first level takes place in the future and the main character has hand grenades, timed bombs, and a machine gun as weapon choices. The later levels take place in modern settings and the primary weapon is a shotgun only. The final level takes place inside the Cyberdyne factory, where you battle the Terminator alone. The objective of this level is to lead the Terminator into a compactor which destroys him.
+
+Hints:
+
+- Cheat Menu- 
+At the title screen, hold Right on the D-pad and press:
+B, C, B, B
+The cursor will change from an arrow into a square, press start to access the cheat menu.
+
+- Cinema Scene Select -
+At the Options menu, hold the C button and press:
+Right, Left
+Release C.
+Choose the Sound Test option and you'll find a new option called Cinema Sequences.
+
+- Infinite Health -
+Enable the secret menu. Now hold B and press left,right,right,left. The arrow should change to a square.
+
+- Level select -
+Enable the secret menu. Now hold the d-pad left and press b,c,b,c. The arrow should change to a square. now start the game. The level select menu should pop up.
+
+- Secrets Menu -
+Higlight the start game option. Hold the D-pad right. While holding d-pad right, press b,c,b,b. the pointer should change into a square.Now press start.
+
+- See Opening Cinema Without Text -
+Enter the following code at the Title screen....
+Start, then quickly press Up
+You should see the opening cinema without the words
+
+http://www.gamefaqs.com/console/genesis/home/586529.html
+http://en.wikipedia.org/wiki/The_Terminator_(1992_video_game)

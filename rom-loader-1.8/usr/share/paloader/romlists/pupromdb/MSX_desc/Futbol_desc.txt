@@ -1,0 +1,3 @@
+A side-scrolled football game with no much complexities, we cannot select team nor competition, it means we can only play a friendly match with the classical white team against yellow team. Details which deserve a mention are the coloured graphics and the presence of the varied public and photographers.
+
+http://www.mobygames.com/game/msx/ftbol

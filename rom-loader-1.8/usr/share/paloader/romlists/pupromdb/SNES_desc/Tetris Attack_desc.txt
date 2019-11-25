@@ -1,0 +1,35 @@
+Tetris Attack is a puzzle game in which you rearrange the order of a stack of panels in order to clear them. As the stack begins rising, switch two horizontally adjacent panels. If you place at least three identical panels in a row vertically or horizontally, they will disappear. If the stack of panels touches the top, the game is over.
+
+--From the SNES Tetris Attack instruction manual.
+
+Overview:
+
+Tetris Attack is a very fun and addictive addition to the Tetris series. I used to play this game for hours and hours. I love the use of colors and the graphics on this game. The music was very catchy also. Tetris Attack was just a pleasure all around. The controls were simple and responsive. The replay ability of this game is very high, as with almost any puzzle game. I recommend you give this game a try; be careful though, you may get hooked.
+
+Directions:
+
+You can play against the computer or your friend in several different ways. The game plays like this. Make three or more blocks that match touch, and they will dissappear, allowing you to score. Do this by moving your cursor to two blocks you want to switch and press B. Whenever you score, the blocks will stop moving up for a second. When you connect more than three blocks together it is called a combo. The way to get really big combos is to try to match up four or five of two different colors at the same time. The more you connect together the higher your point score will be. The pile will also stop for longer periods of time when you this.
+
+Blocks left hanging will fall, and if they fall beside two or more blocks that match, you will start a chain. These can go on for a while if you try to make changes to the bottom while the chain is happening so you can keep it going. Chains will also stop the pile longer than normal scores. On top of the point score bonus, whenever you make combos, or chains, your opponent will get garbage dropped on his screen. He will, however, be dropping it on you at the same time if he is any good. To get rid of garbage simply score with at least one block that is touching it, and the piece of garbage will turn into blocks. If you pay attention, when the blocks are falling you can make changes to the bottom for chain points that will land more garbage on your opponent.
+
+In endless mode you play until your stack has reached the top. Time trial requires you to reach a certain point score before time runs out. Stage clear is a mode in which it gives you a certain amount of blocks to clear before you can move on. There are several stages to beat in this mode. In puzzle mode you must clear a puzzle in a certain number of moves in order to move on to the next. 
+
+Controls:
+
+A Button - Switch highlighted panels/ Confirm menu selection
+B Button - Switch highlighted panels/ Cancel item
+X Button - Cancel your last switch
+Y Button - Cancel your last switch
+X and Y Buttons - Restart the current puzzle (Puzzle Mode Only)
+L Button - Raise the stack of panels
+R Button - Raise the stack of panels
+Start Button - Start/Pause
+Select Button - Select
+
+Hints:
+
+Bonus Characters
+At the player vs. player character select screen, hold L+R on both controllers for about five seconds. The question marks at the bottom will be replaced with pictures of the bosses.
+
+Tips:
+

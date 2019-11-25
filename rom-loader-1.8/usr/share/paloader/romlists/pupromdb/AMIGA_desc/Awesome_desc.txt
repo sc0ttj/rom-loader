@@ -1,0 +1,23 @@
+This multi-section space-based game was coded by Reflections, the team behind Shadow of the Beast. The plot involves an attempt to get across a harsh galaxy despite not having the funds or firepower to make it. 
+
+To reach each planet the player has to progress through numerous action sections, starting with some overhead-view shooting of rocks which break into progressively smaller blocks, a scanner tells the player roughly where they are located. This is followed by an into the screen shoot-out against an enemy flying backwards and forwards, and then the final approach to the trading centre, which involves the player progressing on foot from an overhead view, and sees contact with the enemies lose time rather than energy  the player has 3 attempts to get there in time.
+
+Once the player reaches the planet, a trading aspect comes into play. Strategic purchase of the right equipment to boost the ship, as well as extra shields and firepower (which can be balanced depending on the next level).
+ 
+http://www.mobygames.com/game/amiga/awesome
+_________________________
+CHEATS:
+
+Complete the first action segment, then move the pointer to the "Shield" box in the to left corner of "The Armoury" screen. Hold [Keypad Plus] and press Fire. The screen will flash to confirm correct code entry.  Refill energy to all the weapons.  Shields can still be depleted when hit, but the ship will be indestructible when they reach 000.  Additionally, press one of the following keys during game play to activate the corresponding cheat function. 
+
+Effect|Key
+
+Restore energy|[F6]
+
+Skip action sequences|[F1]
+
+Select various weapons|2 to 9
+
+Select more weapons|0, [Minus], [Equals] or [Plus]
+
+Remove extra weapon|1

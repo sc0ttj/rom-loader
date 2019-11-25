@@ -1,0 +1,41 @@
+Dragonia, the castle of doom, has come upon the world and its minions have stolen the Holy Goblet. Without it, the world will be in darkness forever. You play as Trykaar, who must enter the castle and traverse its thirty levels to retrieve the Holy Goblet. There is no other storyline; its dungeons are generated randomly each time you play, like the Rogue-type games which originated on the PC.
+
+Directions:
+
+Help Trykaar to find the Holy Goblet in order to save the world. There are a lot of items to find. You have to watch out for the staffs because you can't tell what they do until after you use them once. After you find out what they do, you will know for the rest of the game unless you die, in which case you will forget. It took me a while to figure this out, but you need to push your joypad in the direction of the enemy you want to hit in order to attack.
+
+Gameplay:
+
+The player controls a nondescript hero that has agreed to enter a forbidden labyrinth, battle various monsters, and make way up to the 30th floor where an evil dragon guards a stolen Holy Goblet. The hero may walk about town talking with the villagers for advice prior to entering the labyrinth. Upon defeating the dragon and reclaiming the Goblet, the player flies back to the village to speak to villagers, who offer praises and congratulations for the hero's efforts.
+
+Although Fatal Labyrinth does have a very basic experience points system, it is not exactly a typical turn-based OR action RPG. It is a graphically enhanced "roguelike", with a much simpler storyline and gameplay. Each level and its contents are randomly generated, similarly to Chunsoft's Mysterious Dungeon series.
+
+On each level of the labyrinth weapons, armor, magic rings, and other items are found, which can be equipped or thrown. Melee weapons includes axes, swords and polearms {although the length of the weapon determines its characteristics}. Short weapons (axes, short swords) are more powerful but hit less while longer weapons (broad swords, polearms) usually hit for less damage. Bows and shurikens are included for projectile combat. Armors include helmets, torso and shields. Magic rings vary from powering up the hero to using them as magical throwing projectiles.
+
+Fatal Labyrinth also has a wide variety of other items including scrolls, canes and potions. A key part of the game revolves around identifying which of these items benefit the character and which ones have curses. Sometimes throwing these items can cause projectile damage. After defeating monsters the hero levels and gains health points, added attack power and receives a better title.
+
+Enemies only move and attack in response to the player's actions; i.e., when the player takes a step, the enemies take a step. Checkpoints exist on every fifth floor; upon dying, the player is returns to those floors if they were reached. If the hero wanders around a level for too long the screen will flash and the monsters will respawn. Some floors have pits in which the character falls down one level and has to fight monsters on that level again. The hero may also step on an alarm and may become trapped by monsters.
+
+Food is an important part of the game. When fed, the hero slowly regenerates health. If unfed for extended periods of time, the hero becomes hungry and loses health. Conversely, if too much food is eaten, the character dies of overeating. Some items can help or hinder the digestion in the hero.
+
+Like many role-playing games, gold is present, though the only role it serves is to provide the player with a better funeral service upon death.
+
+Controls:  
+
+A Button: Back
+B Button: None
+C Button: Menu/Advance
+Start: Start/Pause
+
+Hints:
+
+- Full Armor -
+Collect two short bows then equip both of them. Your character's armor will remain at 99 regardless of the actual armor worn.
+
+- Hidden Attack -
+Punch opponents that can destroy standard weapons. Select the weapon icon on the options screen, then discard the current weapon. Pick up the weapon after defeating your opponent.
+
+Reviewer: Adrian
+http://www.mobygames.com/game/genesis/fatal-labyrinth
+http://www.consoleclassix.com/genesis/fatal_labyrinth.html
+http://en.wikipedia.org/wiki/Fatal_Labyrinth

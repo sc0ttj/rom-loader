@@ -1,0 +1,3 @@
+Super Greyscale Brothers is a complete palette only hack of Super Mario Brothers 1. Changes the entire palette from nes color to only 6 grey nes variant colors. Darkgrey, Lightgrey, Black, White, Grey2, White2. That is it no other changes. It is however a stand alone palette hack no external palette file is needed just apply the patch and play it in you favorite emulator.
+
+http://www.romhacking.net/hacks/393/

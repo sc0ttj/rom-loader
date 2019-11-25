@@ -1,0 +1,1058 @@
+#!/bin/sh
+
+# enable joypad rom support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/paamigarc
+# set some vars as defaults
+export FULLSCREENGUI=''
+export FULLGUI=''
+export FSGUI=''
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.adf$|\.ipf$|\.bin$|\.iso$|\.cue$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_amiga' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "PAamiga $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: paamiga [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	FULL="false"
+	# get screen res
+	export SCREEN_RES=`xwininfo -root | grep -m 2 '\geometry' | cut -f4 -d ' ' | cut -f2 -d ' ' | cut -f1 -d '+'`
+	RES="$SCREEN_RES"
+	RES_SET=""
+	FILTER="Double"
+	RATIO="true"
+	LORES="false"
+	VSYNC="false"
+	CHOR="true"
+	CVER="true"
+	SOUND="Default"
+	SNDCHNL="Stereo"
+	UAERCFILE="~/.uaerc-nogui"
+	KICKFILE="/usr/lib/uae/kick.rom"
+	KEYFILE=""
+	CPU="68060"
+	CPUSPEED="Maximum"
+	CPUCOMPAT="Default"
+	CPU24BIT="Default"
+	EMUFPU="Default"
+	CHIP="ECS Agnus"
+	NTSC="false"
+	KBLANG="false"
+	WORD1=""
+else
+	. $CONFIG #read config file
+fi
+
+# check settings for GUI build
+[ "$FULL" = true ] && RES_SET="<visible>disabled</visible>"
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAamiga config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	# DISPLAY OPTIONS
+	echo FULL=$FULL >> $CONFIG
+	echo RES=$RES >> $CONFIG
+	echo RES_SET="\"$RES_SET\"" >> $CONFIG
+	echo FILTER=$FILTER >> $CONFIG
+	echo RATIO=$RATIO >> $CONFIG
+	echo LORES=$LORES >> $CONFIG
+	echo CHOR=$CHOR >> $CONFIG
+	echo CVER=$CVER >> $CONFIG
+	echo VSYNC=$VSYNC >> $CONFIG
+	#SOUND OPTIONS
+	echo SOUND=$SOUND >> $CONFIG
+	echo SNDCHNL=$SNDCHNL >> $CONFIG
+	#FILE OPTIONS
+	echo UAERCFILE="\"$UAERCFILE\"" >> $CONFIG
+	echo KICKFILE="\"$KICKFILE\"" >> $CONFIG
+	echo KEYFILE="\"$KEYFILE\"" >> $CONFIG
+	# CPU options
+	echo CPU=$CPU >> $CONFIG
+	echo CPUSPEED=$CPUSPEED >> $CONFIG
+	echo CPUCOMPAT=$CPUCOMPAT >> $CONFIG
+	echo CPU24BIT=$CPU24BIT >> $CONFIG
+	echo EMUFPU=$EMUFPU >> $CONFIG
+	echo CHIP="\"$CHIP\"" >> $CONFIG
+	echo NTSC="false" >> $CONFIG
+	echo KBLANG="us" >> $CONFIG
+	# MISC OPTIONS
+	echo WORD1="\"$WORD1\"" >> $CONFIG
+	
+	#force FS-UAE to use the current desktop resolution in fs mode
+	SCREEN_WIDTH="`xwininfo -root | grep Width`"
+	SCREEN_WIDTH="${SCREEN_WIDTH##* }"
+	SCREEN_HEIGHT="`xwininfo -root | grep Height`"
+	SCREEN_HEIGHT="${SCREEN_HEIGHT##* }"
+	OLDSCREENWIDTH="`grep -w "^fullscreen_width =" /root/FS-UAE/Configurations/Default.fs-uae | cut -f2 -d'='`"
+	sed -i "s@fullscreen_width =$OLDSCREENWIDTH@fullscreen_width = $SCREEN_WIDTH@" /root/FS-UAE/Configurations/Default.fs-uae
+	OLDSCREENHEIGHT="`grep -w "^fullscreen_height =" /root/FS-UAE/Configurations/Default.fs-uae | cut -f2 -d'='`"
+	sed -i "s@fullscreen_height =$OLDSCREENHEIGHT@fullscreen_height = $SCREEN_HEIGHT@" /root/FS-UAE/Configurations/Default.fs-uae
+
+	#updates for FS-UAE .. kickfile
+	OLDKICKFILE="`grep -w "^kickstart_file = " /root/FS-UAE/Configurations/Default.fs-uae | cut -f2 -d'='`"
+	sed -i "s@kickstart_file =$OLDKICKFILE@kickstart_file = $KICKFILE@" /root/FS-UAE/Configurations/Default.fs-uae
+
+	#updates for FS-UAE .... floppy dir
+	OLDFLOPPYDIR="`grep -w "^floppies_dir = " /root/FS-UAE/Configurations/Default.fs-uae | cut -f2 -d'='`"
+	sed -i "s@floppies_dir =$OLDFLOPPYDIR@floppies_dir = $DIR@" /root/FS-UAE/Configurations/Default.fs-uae
+
+	#updates for FS-UAE .... cdroms dir
+	OLDCDROMDIR="`grep -w "^cdroms_dir = " /root/FS-UAE/Configurations/Default.fs-uae | cut -f2 -d'='`"
+	sed -i "s@cdroms_dir =$OLDCDROMDIR@cdroms_dir = $DIR@" /root/FS-UAE/Configurations/Default.fs-uae
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+	#FS-UAE specific stuff ... cos it doesnt use the normal $CONFIG file... 
+	if [ "$AMIGA_BACKEND" = "fs-uae" ];then
+
+		# this write_config func also is called when SAVING custom config files cos we need the latest $CONFIG to copy....
+		# so .. if $POPUP_MENU = "Save Custom Config", then we can save the FS-UAE cfgs at this time ... 
+		if [ "$POPUP_MENU" = "Save Custom Config" ];then
+			#lets save the custom FS config, that is what the user wants
+			echo "$FS_CFG_FILE" > "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.fs-uae"
+		fi
+		
+		# we do not store most fs-uae settings in $CONFIG, so lets get a copy of the fs-uae cfg file
+		# that was setup specifically for this game.. and we will use that as the default fs-uae config when we load it up
+		if [ -f "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.fs-uae" ];then
+			FS_CFG="/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.fs-uae"
+		else
+			FS_CFG="/root/FS-UAE/Configurations/Default.fs-uae"
+		fi
+	fi
+
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	# set the rc file if not ~./uaerc-nogui, requires file
+	if [ "$UAERCFILE" = "~/.uaerc-nogui" ];then
+		C="-f ~/.uaerc-nogui"
+	else
+		C="-f \"$UAERCFILE\""
+	fi
+
+	# set fullscreen
+	if [ "$FULL" = true ];then
+	 #disable fullscreen for uae_nogui, it's it seems impossible to exit....?
+	  [ "$AMIGA_BACKEND" = "uae_nogui" ] && C="$C -s gfx_fullscreen_amiga=false -s gfx_fullscreen_picasso=false" || C="$C -s gfx_fullscreen_amiga=true -s gfx_fullscreen_picasso=true"
+	  FSC="--fullscreen=1"
+	else
+	  C="$C -s gfx_fullscreen_amiga=false -s gfx_fullscreen_picasso=false"
+	  FSC="--fullscreen=0"
+	fi
+
+	# set resolutions
+	if [ "$RES" = "320x200" ];then
+	  C="$C -s gfx_width_windowed=320 -s gfx_height_windowed=200 -s gfx_width=320 -s gfx_height=200" 
+	  FSC="$FSC --window-width=320 --window-height=200"
+	elif [ "$RES" = "320x240" ];then
+	  C="$C -s gfx_width_windowed=320 -s gfx_height_windowed=240 -s gfx_width=320 -s gfx_height=240"
+	  FSC="$FSC --window-width=320 --window-height=240"
+	elif [ "$RES" = "512x384" ];then
+	  C="$C -s gfx_width_windowed=512 -s gfx_height_windowed=384 -s gfx_width=512 -s gfx_height=384"
+	  FSC="$FSC --window-width=512 --window-height=384"
+	elif [ "$RES" = "640x400" ];then
+	  C="$C -s gfx_width_windowed=640 -s gfx_height_windowed=400 -s gfx_width=640 -s gfx_height=400"
+	  FSC="$FSC --window-width=640 --window-height=400"
+	elif [ "$RES" = "640x480" ];then
+	  C="$C -s gfx_width_windowed=640 -s gfx_height_windowed=480 -s gfx_width=640 -s gfx_height=480"
+	  FSC="$FSC --window-width=640 --window-height=480"
+	elif [ "$RES" = "800x600" ];then
+	  C="$C -s gfx_width_windowed=800 -s gfx_height_windowed=600 -s gfx_width=800 -s gfx_height=600"
+	  FSC="$FSC --window-width=800 --window-height=600"
+	elif [ "$RES" = "960x600" ];then
+	  C="$C -s gfx_width_windowed=960 -s gfx_height_windowed=600 -s gfx_width=960 -s gfx_height=600"
+	  FSC="$FSC --window-width=960 --window-height=600"
+	elif [ "$RES" = "960x720" ];then
+	  C="$C -s gfx_width_windowed=960 -s gfx_height_windowed=720 -s gfx_width=960 -s gfx_height=720"
+	  FSC="$FSC --window-width=960 --window-height=720"
+	elif [ "$RES" = "1024x768" ];then
+	  C="$C -s gfx_width_windowed=1024 -s gfx_height_windowed=768 -s gfx_width=1024 -s gfx_height=768"
+	  FSC="$FSC --window-width=1024 --window-height=768"
+	elif [ "$RES" = "1024x600" ];then
+	  C="$C -s gfx_width_windowed=1024 -s gfx_height_windowed=600 -s gfx_width=1024 -s gfx_height=600"
+	  FSC="$FSC --window-width=1024 --window-height=600"
+	elif [ "$RES" = "1280x800" ];then
+	  C="$C -s gfx_width_windowed=1280 -s gfx_height_windowed=800 -s gfx_width=1280 -s gfx_height=800"
+	  FSC="$FSC --window-width=1280 --window-height=800"
+	elif [ "$RES" = "1280x960" ];then
+	  C="$C -s gfx_width_windowed=1280 -s gfx_height_windowed=960 -s gfx_width=1280 -s gfx_height=960"
+	  FSC="$FSC --window-width=1280 --window-height=960"
+	fi
+
+	# set FILTER
+	if [ "$FILTER" = "Double" ];then
+	  C="$C -s gfx_linemode=double"
+	  FSC="$FSC --line-doubling=1"
+	elif [ "$FILTER" = "Scanlines" ];then
+	  C="$C -s gfx_linemode=scanlines"
+	  FSC="$FSC --scanlines=1"
+	else
+	  C="$C -s gfx_linemode=double"
+	  FSC="$FSC  --scanlines=0 --line-doubling=0"
+	fi
+
+	# set aspect ratio
+	if [ "$RATIO" = true ];then
+		C="$C -s gfx_correct_aspect=true"
+		FSC="$FSC --keep-aspect=1 --disable-aspect-correction=0"
+	else
+		C="$C"
+		FSC="$FSC --keep-aspect=0 --disable-aspect-correction=1"
+	fi
+	
+	# set low res or not
+	if [ "$LORES" = true ];then
+		C="$C -s gfx_lores=true"
+	else
+		C="$C -s gfx_lores=false"
+	fi
+
+	# set horizontal centering
+	if [ "$CHOR" = true ];then
+		C="$C -s gfx_center_horizontal=simple"
+	else
+		C="$C -s gfx_center_horizontal=none"
+	fi
+
+	# set vertical centering
+	if [ "$CVER" = true ];then
+		C="$C -s gfx_center_vertical=simple"
+	else
+		C="$C -s gfx_center_vertical=none"
+	fi
+
+	# set vsync or not
+	if [ "$VSYNC" = true ];then
+		C="$C -s gfx_vsync=true"
+	else
+		C="$C -s gfx_vsync=false"
+	fi
+
+	# set SOUND 
+	if [ "$SOUND" = "Default" ];then
+	  C="$C -s sound_output=normal"
+	elif [ "$SOUND" = "Interrupts" ];then
+	  C="$C -s sound_output=interrupts"
+	elif [ "$SOUND" = "Off" ];then
+	  C="$C -s sound_output=none"
+	else
+	  C="$C"
+	fi
+
+	# set SOUND channels
+	if [ "$SNDCHNL" = "Stereo" ];then
+	  C="$C -s sound_channels=stereo"
+	elif [ "$SNDCHNL" = "Mono" ];then
+	  C="$C -s sound_channels=mono"
+	elif [ "$SNDCHNL" = "Mixed" ];then
+	  C="$C -s sound_channels=mixed"
+	else
+	  C="$C"
+	fi
+
+	#the the rom extension
+	export ext="${CHOOSER##*.}"
+	# if its not adf, were not loading a floppy, must be a CD .. i guess... could be whatever .. but we'll guess..
+
+	if [ "${ext,,}" = "iso" -o "${ext,,}" = "cue" -o "${ext,,}" = "nrg" -o "${ext,,}" = "bin" ];then
+			C="$C -s kickstart_rom_file=/usr/lib/games/amiga/Kickstart 3.1.rom"
+			FSC="$FSC --kickstart-file=/usr/lib/games/amiga/Kickstart 3.1.rom"
+	else # we're probably using amiga cd32/cdtv .. so force kickstart 3.1
+		# set the kickstart file if not , requires file
+		if [ "$KICKFILE" = "/usr/lib/uae/kick.rom" ];then
+			C="$C -s kickstart_rom_file=/usr/lib/uae/kick.rom "
+			FSC="$FSC --kickstart-file=\"$KICKFILE\""
+		else
+			C="$C -s kickstart_rom_file=\"$KICKFILE\""
+			FSC="$FSC --kickstart-file=\"$KICKFILE\""
+		fi
+	fi
+
+	# set the kickstart key file if not , requires file
+	if [ "$KEYFILE" != "" ];then
+		C="$C -s kickstart_key_file=\"$KEYFILE\""
+	else
+		C="$C"
+	fi
+
+	# set CPU type
+	if [ "$CPU" = "68000" ];then
+		C="$C -s cpu_type=68000 -C0"
+	elif [ "$CPU" = "68010" ];then
+		C="$C -s cpu_type=68010 -C1"
+	elif [ "$CPU" = "68020" ];then
+		C="$C -s cpu_type=68020 -C2"
+	elif [ "$CPU" = "68040" ];then
+		C="$C -s cpu_type=68040 -C4"
+	elif [ "$CPU" = "68060" ];then
+		C="$C -s cpu_type=68060"
+	else
+		C="$C"
+	fi
+
+	# set CPU speed
+	if [ "$CPUSPEED" = "Maximum" ];then
+		C="$C -s cpu_speed=max"
+	elif [ "$CPUSPEED" = "Real" ];then
+		C="$C -s cpu_speed=real"
+	else
+		C="$C"
+	fi
+
+	# set CPU compability mode
+	if [ "$CPUCOMPAT" = "Yes" ];then
+		C="$C -s cpu_compatible=true"
+	elif [ "$CPUCOMPAT" = "No" ];then
+		C="$C -s cpu_compatible=false"
+	fi
+
+	# set CPU 24 bit
+	if [ "$CPU24BIT" = "Yes" ];then
+		C="$C -s cpu_24bit_addressing=true"
+	elif [ "$CPU24BIT" = "No" ];then
+		C="$C -s cpu_24bit_addressing=false"
+	fi
+
+	# set FPU Emulation
+	if [ "$EMUFPU" = "Yes" ];then
+		C="$C -s compfpu=true"
+	elif [ "$EMUFPU" = "No" ];then
+		C="$C -s compfpu=false"
+	fi
+
+	# set CHIPSET
+	if [ "$CHIP" = "ECS Agnus" ];then
+		C="$C -s chipset=ecs_agnus -v1"
+	elif [ "$CHIP" = "Full ECS" ];then
+		C="$C -s chipset=ecs -v3"
+	elif [ "$CHIP" = "AGA" ];then
+		C="$C -s chipset=aga -v4"
+	elif [ "$CHIP" = "OCS" ];then
+		C="$C -s chipset=ocs -v0"
+	else
+		C="$C"
+	fi
+
+	# set NTSC or PAL
+	if [ "$NTSC" = true ];then
+		C="$C -s ntsc=true"
+	    FSC="$FSC --ntsc-mode=1"
+	else
+		C="$C -s ntsc=false"
+	    FSC="$FSC --ntsc-mode=0"
+	fi
+
+	#set keyboard language
+	[ "$KBLANG" != "Default" ] && C="$C -s kbd_lang=$KBLANG"
+	
+	## THE ACTUAL, FINAL COMMAND
+
+	# get the name of ther rom, with full path, minus extension and disk number
+	BASENAME="`echo $DIR$CHOOSER`"
+	BASENAME=${BASENAME%\.*}
+	NAME=$(echo ${BASENAME%\(1)})
+	NAME=$(echo ${NAME%\[1]})
+	NAME=$(echo ${NAME%\1})
+	
+	# create a file to run .. 
+	 if [ "$AMIGA_BACKEND" != "fs-uae" ];then
+		drive="floppy-drive-"
+	 	echo -n "$AMIGA_BACKEND -G -s use_gui=no $C $WORD1" > /tmp/run-uae
+	else
+		drive="floppy_drive_"
+		#if iso, cue or bin, load CD32, and change commands to load up current cd dir, and cd drives
+		if [ "${ext,,}" = "iso" -o "${ext,,}" = "cue" -o "${ext,,}" = "nrg" -o "${ext,,}" = "bin" ];then
+			drive="cdrom_drive_"
+			FSC="$FSC --amiga-model=CD32"
+		fi
+		echo -n "$AMIGA_BACKEND $FSC $WORD1" > /tmp/run-uae
+	fi
+	
+	#now update the default FS-UAE config file with the new floppy images
+	# we update the default, so that if a ROM has no specific cfg file, we can still load it up
+	cp /root/FS-UAE/Configurations/Default.fs-uae /root/FS-UAE/Configurations/Default.fs-uae.bak
+	grep -v "^$drive" /root/FS-UAE/Configurations/Default.fs-uae > /root/FS-UAE/Configurations/New.fs-uae
+
+	# for each rom file found (***1.adf, ***2.adf, etc)
+	for X in {1..12}; do
+		#get the file
+		BARENAME="`basename \"$NAME\" | sed 's@\[@*@g' | sed 's@\]@*@g'`"
+		FILE="`find \"$DIR\" -iname \"${BARENAME}*$X*.$ext\"`"
+		#echo "$BARENAME   --->   $FILE"
+		if [ -f "$FILE" ];then
+			# add to uae command file
+			if [ "$AMIGA_BACKEND" != "fs-uae" ];then
+				echo -n "-`expr $X - 1` \"$FILE\" " >> /tmp/run-uae
+			else
+				echo -n "--$drive`expr $X - 1`='$FILE' " >> /tmp/run-uae
+			fi
+			# update the FS-UAE config file
+			echo "$drive`expr $X - 1` = $FILE" >> /root/FS-UAE/Configurations/New.fs-uae
+		fi
+	done
+
+	#update the FS-UAE config file
+	mv /root/FS-UAE/Configurations/New.fs-uae /root/FS-UAE/Configurations/Default.fs-uae
+	
+	#now we use the game specific FS-UAE cfg file, if it exists
+	CFG_SWAPPED=false
+	if [ -f "$FS_CFG" -a "$FS_CFG" != "/root/FS-UAE/Configurations/Default.fs-uae" ];then
+		cp "$FS_CFG" /root/FS-UAE/Configurations/Default.fs-uae && CFG_SWAPPED=true
+	fi
+	
+	# make the command to run executable
+	chmod  777 /tmp/run-uae
+	
+	# enable joypad support
+	rejoystick1cc --load --profile amiga &>/dev/null
+	rejoystick2cc --load --profile amiga &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# run the final command
+	 mkdir -p /tmp/paloader
+
+	cat /tmp/run-uae > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output	
+	
+	# delete the old command, after its done
+	rm /tmp/run-uae
+
+	# old command
+	#uae -s use_gui=no $C $WORD1 -s -0 "$DIR$CHOOSER" #this is the actual command
+
+	[ "$CFG_SWAPPED" = true ] && cp /root/FS-UAE/Configurations/Default.fs-uae.bak /root/FS-UAE/Configurations/Default.fs-uae
+	
+	# re-enable "rom-browser" joypad support
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${AMIGA_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+# check for bios file
+if [ ! -e "/usr/lib/games/amiga/Kickstart 1.3.rom" ];then
+	. /usr/local/rom-loader/func/func_get_bios
+	get_bios_amiga
+fi
+
+#set default stuff for FS-UAE, we will change below if not using that emu
+export AMIGA_SETTINGS='<frame>
+	<frame Display options>
+		<hbox>
+			<text><label>Windowed resolution:</label></text>
+			<combobox width-request="120" tooltip-text="Choose your preferred screen resolution">
+				<variable>RES</variable>
+				'$RES_SET'
+				'$RES_ITEMS'
+			</combobox>
+
+			<checkbox tooltip-text="Enable fullscreen display">
+				<label>Enable fullscreen</label>
+				<variable>FULL</variable>
+				<action>if false enable:RES</action>
+				<action>if true disable:RES</action>
+				<default>"'$FULL'"</default>
+			</checkbox>
+
+		</hbox>
+
+		<hbox>
+			<checkbox tooltip-text="Enable the correct (original) aspect ratio">
+				<label>Force correct aspect-ratio</label>
+				<variable>RATIO</variable>
+				<default>"'$RATIO'"</default>
+			</checkbox>
+			<text width-request="15"><label>""</label></text> 
+			<checkbox tooltip-text="Enable NTSC emulation">
+				<label>Force NTSC emulation</label>
+				<variable>NTSC</variable>
+				<default>"'$NTSC'"</default>
+			</checkbox>
+		</hbox>
+
+		<hbox>
+			<text><label>Filter:</label></text>
+			<combobox tooltip-text="Choose how the on screen graphics are filtered"  width-request="95">
+				<variable>FILTER</variable>
+				'$FILTER_ITEMS'
+			</combobox>
+		</hbox>
+
+	</frame>
+
+	<frame Amiga OS File (Kickstart file)>
+
+	<hbox>
+		<text><label>Kickstart file:</label></text>
+		<entry>
+			<input>echo "'$KICKFILE'"</input>
+			<variable>KICKFILE</variable>
+		</entry>
+		<button>
+			<input file icon="gtk-open"></input>
+			<action type="fileselect">KICKFILE</action>
+		</button>
+	</hbox>
+
+	</frame>
+
+	<frame Config File>
+			<edit indent="20" auto-refresh="true" editable="true" can_focus="true" hscrollbar_policy="1" vscrollbar_policy="1">
+			   <input file>/root/FS-UAE/Configurations/Default.fs-uae</input>
+			   <variable>FS_CFG_FILE</variable>
+			</edit>
+			<button label="Save Cfg" tooltip-text="This button will save the above settings as the DEFAULT settings. If you edited the settings above to make a CUSTOM config for a specific game, do NOT click this button, instead go straight to your ROM and choose Save Custom Config.">
+			<action>echo "$FS_CFG_FILE" > /root/FS-UAE/Configurations/Default.fs-uae</action>
+			<action>Xdialog --title "Settings Saved" --msgbox "Settings saved to /root/FS-UAE/Configurations/Default.fs-uae" 0 0</action>
+			</button>
+	</frame>
+</frame>'
+
+	export AMIGA_HELP=' FS-UAE Help:
+========================
+
+!!!   NOTE:  !!!
+Your multi disk ROMs *must* have the disk number, 
+after the game name or they wont load up at all!!
+
+The disk numbers can be in [] or () brackets, and this 
+may help to improve matching game descriptions.
+
+Examples of good ROM names:
+
+	shooter game 1.adf
+	shooter game 2.adf
+	jumper_3_1.adf
+	jumper_3_2.adf
+	runner(1).adf
+	runner(2).adf
+	bomber-[1].adf
+	bomber-[2].adf
+	
+FS-UAE can also load AMIGA CD32 and CDTV ISO files, 
+Rom-Loader will auto detect ISO files and load the right 
+options and settings for Amiga CD32.
+
+FS-UAE Controls:
+
+	FS-UAE should be setup to use joypads
+	by default. But here are the emulator controls
+	that you need to quit the emulation:
+
+	F12					Emulator Menu
+	Cursor keys		Navigate Menu
+	ENTER				Confirm Menu Choice
+
+	If no joypad is enabled in FS-UAE:
+
+	key pad 4 			joystick left
+	key pad 6 			joystick right
+	key pad 8 			joystick up
+	key pad 2			joystick down
+	Numpad 0			joystick fire button
+	R Control			joystick fire button
+
+NOTE!!!
+
+You might need to use the mouse, although 
+if you know how, you can setup controls in E-UAE
+or edit the cfg files directly, to not use a mouse.
+
+
+Emulator Controls:
+
+	F12 – Enter/exit menu mode. 
+	F12 + Q – Quit the emulator.
+	F12 + G – Release/capture mouse and keyboard input grab. 
+	Clicking the middle mouse button will also release input grab.
+	F12 + F – Toggle full-screen mode.
+	F11 + Cycle through zoom modes.
+	F12 + B – Toggle border display, to reveal more of the display.
+	F12 + S or Print Scrn – Save a screenshot to the desktop.
+	F12 + R – Soft reset.
+	F12 + T – Hard reset.
+	F12 + A – Freeze button for use with Action Replay.
+	F12 + D – Activate debugger (console only).
+	F12 + M to mute the sound.
+	F12 + W to toggle warp mode (no frame limit, no audio). 
+	This option above removes the pauses between frames.
+	F12 + Comma to decrease the volume.
+	F12 + Period to increase the volume.
+	F12 + P or Pause/Break key to pause the emulation.'
+
+
+#so, if NOT using fs-uae, change some GUI stuff, to make it relevant to uae_nogui/uae
+if [ "$AMIGA_BACKEND" != "fs-uae" ];then
+	export AMIGA_HELP='UAE Help:
+=======================
+!!!   NOTE:  !!!
+Your multi disk ROMs *must* have the disk number, 
+after the game name or they wont load up at all!!
+
+The disk numbers can be in [] or () brackets, and this 
+may help to improve matching game descriptions.
+
+Examples of good ROM names:
+shooter game 1.adf
+shooter game 2.adf
+jumper_3_1.adf
+jumper_3_2.adf
+runner(1).adf
+runner(2).adf
+bomber-[1].adf
+bomber-[2].adf
+
+In Game Player Controls:
+
+	By default the controls are set as follows:
+
+	 Port 0 uses:
+			Right Control, and Cursor Keys,
+	 
+	 Port 1 uses:
+			Numpad 0 and Numpad Keys
+			
+	 Although a lot of games seem to use both!!
+ 
+In Game Emulator Controls:
+
+	Quit			Al-F4 
+
+	Press F1, F2, F3 or F4 to change display options
+
+
+Config Files:
+
+	Default emulator settings are stored in /root/.uaerc
+
+	 You can edit that file to change settings, or 
+	 load up the E-UAE emulator from the Fun menu, or 
+	 just type uae into a terminal and hit ENTER to open it.. 
+
+Custom configs Per Game
+
+	The options in /root/.uaerc can easily be replaced, or 
+	over-ridden using the  Custom Options  input, by using 
+	the -s option, followed by the option and value you 
+	want replaced in ~./uaerc
+
+	Example: uae -s use_gui=true -s fullscreen_amiga=true
+
+	Custom Configs per game can be made this way - add 
+	your own options in Custom Options and choose Save 
+	Custom Config for the game you want.. 
+
+	You can also choose a totally different config file, 
+	using this GUI - then you can choose Save 
+	Custom Config (which will use a separate rc file, 
+	linked to through this GUI).
+
+More help can be found in /usr/share/doc/uae'
+	
+	export AMIGA_SETTINGS='<vbox>
+	<frame>
+		<text height-request="5"><label>""</label></text> 
+
+			<notebook labels="Display and Sound|Files|CPU|Other">
+				
+				<frame>
+					<frame Display options>
+						<hbox>
+							<checkbox tooltip-text="Enable fullscreen display... You may be unable to quit!! Except to use Ctrl-Alt-Backspace, which will quit the whole desktop!">
+								<label>Enable fullscreen</label>
+								<variable>FULL</variable>
+								<action>if false enable:RES</action>
+								<action>if true disable:RES</action>
+								<default>"'$FULL'"</default>
+							</checkbox>
+							<text width-request="15"><label>""</label></text> 
+							<text><label>Windowed resolution:</label></text>
+							<combobox tooltip-text="Choose your preferred screen resolution">
+								<variable>RES</variable>
+								'$RES_SET'
+								'$RES_ITEMS'
+							</combobox>
+						</hbox>
+						<text height-request="15"><label>""</label></text> 
+						<hbox>
+							<text><label>Chipset:</label></text>
+							<combobox tooltip-text="Choose which chipset you would like to emulate"  width-request="120">
+								<variable>CHIP</variable>
+								'$CHIP_ITEMS'
+							</combobox>
+							<text width-request="15"><label>""</label></text> 
+							<text><label>Filter:</label></text>
+							<combobox tooltip-text="Choose how the on screen graphics are filtered"  width-request="95">
+								<variable>FILTER</variable>
+								'$FILTER_ITEMS'
+							</combobox>
+						</hbox>
+						<text height-request="15"><label>""</label></text> 
+						<hbox>
+							<checkbox tooltip-text="Enable the correct (original) aspect ratio">
+								<label>Force correct aspect-ratio</label>
+								<variable>RATIO</variable>
+								<default>"'$RATIO'"</default>
+							</checkbox>
+							<checkbox tooltip-text="Enable low resolution output">
+								<label>Enable low res graphics</label>
+								<variable>LORES</variable>
+								<default>"'$LORES'"</default>
+							</checkbox>
+							<checkbox tooltip-text="Enable vertical synchronsation">
+								<label>Enable Vsync</label>
+								<variable>VSYNC</variable>
+								<default>"'$VSYNC'"</default>
+							</checkbox>
+						</hbox>
+						<text height-request="15"><label>""</label></text> 
+						<hbox>
+							<checkbox tooltip-text="Enable NTSC emulation">
+								<label>Force NTSC emulation</label>
+								<variable>NTSC</variable>
+								<default>"'$NTSC'"</default>
+							</checkbox>
+							<checkbox tooltip-text="Centre the display horizontally">
+								<label>Center horizontally</label>
+								<variable>CHOR</variable>
+								<default>"'$CHOR'"</default>
+							</checkbox>
+							<checkbox tooltip-text="Centre the display vertically">
+								<label>Center vertically</label>
+								<variable>CVER</variable>
+								<default>"'$CVER'"</default>
+							</checkbox>
+						</hbox>
+					</frame>
+					<text height-request="20"><label>""</label></text> 
+					<frame Sound Options>
+						<hbox>
+							<text><label>Sound settings:</label></text>
+							<combobox tooltip-text="Normal should work, but choose interrupts if sound is bad quality" width-request="100">
+								<variable>SOUND</variable>
+								'$SOUND_ITEMS'
+							</combobox>
+							<text width-request="15"><label>""</label></text> 
+							<text><label>Channels:</label></text>
+							<combobox tooltip-text="Choose the number of sound channels" width-request="85">
+								<variable>SNDCHNL</variable>
+								'$SNDCHNL_ITEMS'
+							</combobox>
+						</hbox>
+					</frame>
+				</frame>
+
+				<frame File Options>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>Config file:</label></text>
+						<entry>
+							<input>echo "'$UAERCFILE'"</input>
+							<variable>UAERCFILE</variable>
+						</entry>
+						<button>
+							<input file icon="gtk-open"></input>
+							<action type="fileselect">UAERCFILE</action>
+						</button>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>Kickstart file:</label></text>
+						<entry>
+							<input>echo "'$KICKFILE'"</input>
+							<variable>KICKFILE</variable>
+						</entry>
+						<button>
+							<input file icon="gtk-open"></input>
+							<action type="fileselect">KICKFILE</action>
+						</button>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<vbox>
+						<text width-request="500"><label>NOTE: You must download a kickstart file (it is not included).</label></text> 
+					</vbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>ROM Key file:</label></text>
+						<entry tooltip-text="Needed for Cloanto Amiga Forever">
+							<input>echo "'$KEYFILE'"</input>
+							<variable>KEYFILE</variable>
+						</entry>
+						<button>
+							<input file icon="gtk-open"></input>
+							<action type="fileselect">KICKFILE</action>
+						</button>
+					</hbox>
+				</frame>
+
+				<frame>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>CPU type:</label></text>
+						<combobox tooltip-text="Choose which CPU you would like to emulate" width-request="100">
+							<variable>CPU</variable>
+							'$CPU_ITEMS'
+						</combobox>
+						<text width-request="40"><label>""</label></text>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>CPU speed:</label></text>
+						<combobox tooltip-text="Choose real-time or maxmum speed emulation" width-request="100">
+							<variable>CPUSPEED</variable>
+							'$CPUSPEED_ITEMS'
+						</combobox>
+						<text width-request="40"><label>""</label></text>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>High Compatibility CPU:</label></text>
+						<combobox tooltip-text="Yes means better support, fewer errors, but slightly weaker performance" width-request="100">
+							<variable>CPUCOMPAT</variable>
+							'$CPUCOMPAT_ITEMS'
+						</combobox>
+						<text width-request="40"><label>""</label></text>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>24-bit CPU:</label></text>
+						<combobox tooltip-text="must be set to No in order for Z3mem or P96mem to work" width-request="100">
+							<variable>CPU24BIT</variable>
+							'$CPU24BIT_ITEMS'
+						</combobox>
+						<text width-request="40"><label>""</label></text>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>Emulate FPU:</label></text>
+						<combobox tooltip-text="provides JIT FPU emulation" width-request="100">
+							<variable>EMUFPU</variable>
+							'$EMUFPU_ITEMS'
+						</combobox>
+						<text width-request="40"><label>""</label></text>
+					</hbox>
+				</frame>
+				
+				<frame Custom Options>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>Keyboard Language:</label></text>
+						<combobox tooltip-text="Choose the country layout for the keyboard" width-request="100">
+							<variable>KBLANG</variable>
+							'$KBLANG_ITEMS'
+						</combobox>
+						<text width-request="40"><label>""</label></text>
+					</hbox>
+					<text height-request="15"><label>""</label></text> 
+					<hbox>
+						<text><label>"Custom options (see info)"</label></text>
+						<entry editable="true" left_margin="10" tooltip-text="The options in /root/.uaerc can easily be replaced, or 
+over-ridden using this input, by using the -s option, 
+followed by the option and value to replace in 
+/root/.uaerc.. Example: 
+
+-s use_gui=true -s fullscreen_amiga=true -s kbd_lang=uk
+
+Custom Configs per game can be made this way - add 
+your own options in Custom Options and choose Save 
+Custom Config for the game you want.. ">
+							<variable>WORD1</variable>
+							<default>"'$WORD1'"</default>
+						</entry>
+					</hbox>
+				</frame>
+			
+			</notebook>
+		
+		</frame>
+	</vbox>'
+
+fi
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+#build gui
+export S='
+<window title="Puppy Arcade - Amiga loader" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="ROMs|Settings|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+
+	'$AMIGA_SETTINGS'
+	
+## H E L P
+
+	<vbox>
+	<edit editable="false" can-focus="no" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"'$AMIGA_HELP'"</default>
+	</edit>		
+	</vbox>
+
+
+	</notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; touch /root/FS-UAE/Configurations/Default.fs-uae</action>
+			<action>refresh:FS_CFG_FILE</action>
+			<action>Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+			<action>defaulttexteditor /usr/share/doc/uae/readme.txt &</action>	
+		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & sleep 0.6; fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+ </vbox>
+</window>'
+
+export paamiga="`echo "$S" | sed -e 's/##.*//'`"  ## I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p paamiga $FULLSCREENGUI ## this contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset paamiga
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

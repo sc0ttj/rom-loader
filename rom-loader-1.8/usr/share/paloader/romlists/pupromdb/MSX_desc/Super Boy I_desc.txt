@@ -1,0 +1,7 @@
+Zemina's take on Super Mario Bros. On the first four worlds of that game, to be precise. It seems the 32KB roms Zemina used had become to small for the full game (Super Mario Bros itself has only 6KB more, but the missing level data would have taken much less space as the graphics). But that's not the only thing amiss. Instead of being greeted in every castle by a mushroom with the legendary words 'Thank you Mario, but (...)', there's just an empty room with the statement \"Sorry Nothing\". The princess herself is missing as well. 
+
+A lot of gameplay mechanics also don't work quite the same as in the original, whether it was because of the incapability of the MSX, the programmer or just the limited cartridge space. Elevators are no simple platforms that start falling down when stepped on, there are no Water levels, and all the little secrets that gave the game its charme to begin with, like warp zones, bonus levels and entering pipes aren't implemented at all. Powerup distribution is much more harsh, as the blocks that are supposed to hold them are subject to a random generator as well. 
+
+All things considered, the whole program feels more of a consolation attempt for MSX owners than a full-fledged port
+
+http://www.hardcoregaming101.net/korea/part1/company-zemina.htm

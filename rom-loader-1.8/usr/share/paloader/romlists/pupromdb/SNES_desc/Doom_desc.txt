@@ -1,0 +1,90 @@
+Doom on the PC was without a doubt my favorite first person shooter "back in the day," I just liked the entire concept of being a nameless marine and saving the Earth from the forces of Hell, which appeared through a portal on Mars. Yeah, it's a convoluted B-movie style plot, but when a game is this fun you tend to forgive the writers for not being H.G. Wells.
+
+Doom makes the transition to the SNES without losing any of its atmosphere or fun in the process. The only thing that really disappointed me about this port was its lack of two-player, adversarial "Deathmatch," but even then, I still enjoy sitting back and tearing my way through the forces of Hell with nothing but a shotgun and my bare hands, and I have a feeling that you will too! The trademark MIDI soundtrack makes its way to the SNES intact, although the bass' volume has been brought up in the mix this time around, which may or may not annoy you (I honestly didn't mind). Like the sound, the graphics are mostly intact, except for being slightly more choppy and blurry due to the SNES' lower processing power, but even then, it's not like you'd notice that unless you've already played the PC version.
+
+For my money, nothing beats Doom on the PC for classic shooting action, but this is still a great port to play if you can't get your hands on a copy, or just want to witness the evolution of one of gaming's most celebrated franchises.
+
+Directions:
+
+Doom is essentially the archetype on which all other first person shooters are built. You go through various levels, killing zombies and monsters, starting with weapons like the pistol and shotgun, and gaining new weapons like the chaingun and plasma gun.
+
+In order to exit the level, you must find the "EXIT" and flip the switch. There might also be doors, which require keycards to open. Keycards are scattered all over, and you must find them to open the desired door(s).
+
+There are many power-ups throughout the game, such as "Berserk," which allows you to become invincible and kill any basic enemy in one or two hits with your fists. There are also various health packs and weapon power-ups strewn across the level, sometimes in out of the way places, that are essential to your survival when you'll face off against the games bosses.
+
+The bosses in Doom are an entirely different beast than the rest of the monsters in the game; you can't just yell "charge" and take them on at full force. Unless of course, you want to be completely and utterly annihilated. These fights are more cerebral, they require you to find a position and hunker down for a while until the monster has diverted his attention to something else (i.e. mindlessly wandering), then at that time you can proceed to blast him with your most powerful weapons. You'll find yourself repeating this process time and time again on some of the more powerful bosses throughout the game. 
+
+Controls:
+
+A Button - Open door, flip switch
+B Button - Run (when moving)
+X Button - Change weapon
+Y Button - Shoot
+L Button - Strafe left
+R Button - Strafe right
+Start Button - Pause/Unpause
+Select Button - View Automap
+
+Hints:
+
+Random Weapons Bug
+Immediately after picking up a chainsaw, switch to a weapon that you have no ammo for and try to fire it. When the empty weapon is used it will turn into another random weapon, which may be one you haven't found yet. As they say in the industry, this is a bug, not a feature, so it doesn't always work the same way. 
+
+http://www.consoleclassix.com/snes/doom.html
+THE SINISTRALS RETURN!
+
+Greetings, young hero. The mists of time reveal that you have not yet begun your quest. Who am I? A poet, a seer, one with just a bit of magic in his fingers -- no one of real importance. I exist only to assist you. It is said you are known by many names -- I will simply call you Hero. I have come to prepare you for a journey into darkness, to give you the secrets you must know to conquer the corrupt forces threatening our world.
+
+The terror began one hundred years ago, when the Sinistrals appeared in our sky on their floating island. Humanity was thrown into panic as the four nightmare beings, Chaos, Destruction, Terror, and Death, spread their dark powers across our land. I was a child then. Yes, I saw it all... and remembered. Our greatest warriors threw their lives away trying to defeat the Sinistrals. Then the only four surviving heroes gathered. They were Artea, Guy, and Selan, with Maxim, their leader. They fought a mighty battle against the Sinistrals and won. That was 99 peaceful years ago.
+
+But now, young Hero, the Sinistrals have risen again on their strange island. They call upon the power of night and send forth their foul servants to revenge themselves upon us all. You, with your three companions, must become the new band of heroes to destroy the Sinistrals.
+
+I will help you get started by showing you how Maxim led his warriors to victory. You will find yourself living that day of tremendous courage and strife. I have just enough magic in me to draw aside the curtain of time and let you walk in the steps of Maxim. I will try to send you close to the last battle. Use this opportunity to learn and gain experience for your own mission. Feel yourself change as you become Maxim ...
+
+--From the SNES Lufia and the Fortress of Doom instruction manual.
+
+Overview:
+
+Lufia and the Fortress of Doom is a lot of fun to play. It's no wonder it's one of our most popular games. There is a terrific story to the game and the graphics look great. The fact that Lufia is an RPG helps it's popularity too. A lot of the people that use our service love RPG's. A lot of people have misconceptions about what a role playing game (RPG) is. Originally, the term just meant a game in which you play the role of another (usually fictional) person. Then, it started to be used to describe games such as D&D and the like. As a matter of fact, I still think of D&D whenever I hear the term. Now, however, it is used to describe almost any game that has one or all of the elements mentioned above. RPG's used to be for what most people would call nerds, now RPG gamers are diverse and numerous. 
+
+RPG's have gone mainstream with games like Final Fantasy (parts 1-100 or something), Harvest Moon, and now they even have a Lord of the Rings RPG entitled The Third Age. RPG's are some of the most challenging games that software developers have to offer. If you like them, then give Lufia and the Fortress of Doom a try!
+
+Directions:
+
+Complete your mission by fighting your way through the dungeons and defeating the Sinistrals for good.....or so you think.
+
+Lufia is filled with RPG elements such as, round based combat, random encounters, random item generation, the ability to advance your character's level, the ability to dress your character in whatever armor/protective gear you want, and of course, role playing. 
+
+Controls:
+
+A Button - Confirm actions, including conversation, buying, selling, trading, and fighting
+B Button - Party Status
+X Button - Read descriptions of spells and items
+Y Button - No function
+L Button - Scroll through lists
+R Button - Scroll through lists
+Start Button - Start
+Select Button - No function 
+
+Hints:
+
+Double Experience and Gold
+Complete the game once, then start a new game and enter your name as Taito. 
+
+Reviewer: Adrian
+http://www.consoleclassix.com/snes/lufia_fortress_doom.html
+This patch changes all the following:
+
+- Character Names: Dios, Erin and Arty are back to normal.
+
+- Monster Names: Gardios and too many others to count.
+
+- Censorship: Bars now sell booze instead of cider. Church is run by a priest instead of a grey-haired shemale. Bunny girls kiss the hero on the second floor of Forfeit Isle. The dress is once again a One-Piece swimsuit. All references to death restored in place of gloom. Shop sells Bunny Ears and Bunny Suits.
+
+- Item Names: Brone to Bronze. Tan to Leather. Carbo to Holy. Might to Ancient. Stuffed Monkey. Rum, Vodka, Gin, Moonshine and Whiskey sold in stores. Lots more.
+
+- Magic Names: All magic names restored to their original, unintelligible syllables. Have fun figuring out what does what. It's Phantasy Star IV again!
+
+- Dialogue: Corrected the Gades in Sheran reference when Lufia first sees Gades so it is no longer Tarzan-speak.
+
+http://www.romhacking.net/hacks/129/

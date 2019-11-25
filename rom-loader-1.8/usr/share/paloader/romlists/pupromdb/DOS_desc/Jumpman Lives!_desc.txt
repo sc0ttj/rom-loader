@@ -1,0 +1,9 @@
+This shareware adaptation of the classic Epyx game featured all of the levels from Jumpman and Jumpman Junior, along with several original levels and an editor program. The plot is superficially changed, with the setting moved to a different planet, but this makes no difference to the gameplay.
+
+Trivia:
+
+This game was produced without the permission of Epyx, the copyright holder for the original Jumpman games. At their request, it was removed from the market shortly after its release.
+
+Dave Sharpless has made the Jumpman Lives source code available for public use. It is available at The Jumpman Lounge (see the links section). The game was developed using Turbo Pascal 6.0.
+
+http://www.mobygames.com/game/dos/jumpman-lives

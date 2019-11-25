@@ -1,0 +1,19 @@
+In this sequel, you must once again try to unite China under a single dominant ruler. It's really more of an update than a sequel, since all the Romance of the Three Kingdoms games have the same story. It is history, after all... 
+
+Gameplay:
+
+Upon starting the game, players choose from one of six scenarios that determine the initial layout of power in ancient China. The scenarios loosely depict allegiances and warlord holdings in the novel, although gameplay does not follow events after the game begins:
+
+    - Dong Zhuo Seizes Loyang (189 A.D.)
+    - Rivals Struggle for Power (194 A.D.)
+    - Aged Liu Bei Hides (201 A.D.)
+    - Cao Cao Covets Control of China (208 A.D.)
+    - Nation Breaks into 3 Divisions (215 A.D.)
+    - The Three-way Contest (220 A.D.)
+
+After choosing the scenario, players determine which warlord(s) they will control. Custom characters may be inserted into territories unoccupied by other forces, as well. A total of 41 different provinces exist, as well as over 200 unique characters. Each character has three statistics, which range from 1 to 100 (higher is better). A warlord's Intelligence, War Ability and Charm influence how successful he or she will be when performing certain tasks, such as dueling or increasing land value in a province.
+
+The goal of the game is to conquer China. This is accomplished by holding every province on the map.
+
+http://en.wikipedia.org/wiki/Romance_of_the_Three_Kingdoms_II
+http://www.consoleclassix.com/genesis/romance_three_kingdoms_2.html

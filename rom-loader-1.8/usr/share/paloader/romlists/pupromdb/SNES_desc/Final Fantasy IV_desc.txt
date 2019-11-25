@@ -1,0 +1,146 @@
+I'm fairly certain anyone with even a mild interest in Final Fantasy IV knows that the Easy Type version, which was released in Japan at about the same time the US got its Final Fantasy II, has many interesting changes that aren't present in any other version of the game. Nonetheless if you spend enough time on forums you will inevitably find people who use "Easy Type" and "Final Fantasy II" interchangeably, as if they were identical to one another, despite all the evidence to the contrary available via a quick search online.
+
+However, this erroneous claim is what inspired me to make this hack. Every byte of data that was changed for Easy Type has been ported to the 1.1 revision of Final Fantasy II US, text changes have only been made for the two new swords and anything else that needed text, the rest of the game is left entirely intact. This is as close to what we would have gotten in 1991 had Final Fantasy II US been a localized version of Easy Type. I hope you enjoy playing through this under-appreciated version of Final Fantasy IV.
+
+Tips:
+
+Unsealed Dark Elf's Cave
+I'm sure most of you remember that if you use weapons, armor, or accessories made out of any metal or any silver in the Dark Elf's cave. However, there's a little glitch that can be exploited if you don't feel like using wooden gear or your bare hands to fight.  Simply put, make sure all metallic/silver equipment is unequipped before the start of any random battle. Then when you get into battle, equip your metal weaponry(and shields, if you want) and you won't be paralyzed for that battle! Just remember to unequip the items after the battle and before the next battle
+and you can dominate your way through the Dark Elf's cave! As far as I know, this works in the Playstation and WonderSwan re-releases, too, but I know for a fact it works in the original FFII and FFIV carts.
+
+250 of a weapon!
+OK, this glitch is a way to get 250-255 of a weapon.  However, make sure you follow my directions EXACTLY how
+I say to, or else the trick will not work.  To start the trick, you need the Avenger sword, which you can find in the Sylvan cave in the underground, I think.  First, equip Cecil with arrows in his GOOD hand, and the any kind of bow in his BAD. Get into a battle (preferably an easy one), and make sure that nobody does anything. If a character's turn comes before his, have them parry (press right and the parry option will come up). Once it gets to Cecil's turn, enter the item screen. Grab the arrows he has equipped and bring them down to an empty slot. Without leaving the
+window, select the Avenger sword and move it up to his BAD hand.  From there, press B to exit the items window and his commands will disappear because the Avenger sword causes the person with it equipped to be berserked.
+Don't have any other characters do ANYTHING! Just let Cecil beat up all the enemies.  After the battle, go to the Equip screen for Cecil.  Move the Avenger sword to an empty slot, and then without leaving the screen move the sword you would like to duplicate 250 times into his GOOD hand (the one with the numbers). De-equip, and re-equip, and voila!  You should have a sword with a circle and a number next to it in your inventory. If not, make sure
+you followed my directions EXACTLY.  This works well for duplicating the Excalibur, and having Edge throw it for massive damage. Happy gaming!
+
+How to skip the Sealed Cave
+This has to be done right after the battle with Golbez in the underworld, right after the battle you get Rydia back. You cast Warp and you return to the Crystal Room with the Crystal returned. Doing this makes you completely eliminate the quest of the Sealed Cave.
+
+No MP cost Sylph spell
+Once you have the Sylph spell, simply arrange Rydia's spell list so that Sylph is in the top-right corner.  Whenever you cast the spell, Rydia will not lose any MP. Note, though, that if Rydia does not have at least 25 MP (the normal casting cost), you will not be able to select the spell for casting.
+
+Unlike the duplicate weapon trick, this glitch DOES NOT work in the PlayStation re-release (Final Fantasy Chronicles).
+
+Obtain the hidden summons quicke
+The Mage and Bomb summon spells are very random to archive after a battle with either a bomb or mage.  Hunting them down can very time consuming especially with a low encounter rate. A good way to enhance the chances of receiving it is with multiple kills in only one battle. You will need a lot of phoenix downs for this.  In a battle with either a mage or bomb (there must at least be two), memorize the party's attack order. With one member, select to kill the enemy. The next party member should IMMEDIATELY select a phoenix down and place it on the enemy. The result will be the enemy is killed and then resurrected by the next party member. You may repeat this for as many phoenix downs as you have, then finish the battle. The amount of treasure you earn will be a lot greater, and
+you will most likely earn a bomb or mage spell in the process.
+
+Item Duplication
+Firstly make sure you have the item you want to duplicate, and enter a battle and select the item option of the person with the item you wish to duplicate.  Then Scroll down to a blank space on the item list and press A to place a glove there, scroll back up to the equipped items then press A on the one you'll be duplicating, then press B to leave the screen.  Next, hold the L and R buttons to run from the battle, press X to see the subscreen, select Equip and the character who has the item, press A on empty spot the item used to occupy, then press A on the actual
+item that's now in the items list. You will now see that your character has two of the selected item equipped.
+
+http://www.romhacking.net/hacks/419/
+"This is a modification of the game Final Fantasy 2 US Version 1.0. This makes the game MUCH harder and adds a bit of new flavor throughout the game."
+
+Don't let the difficulty discourage you, this hack is really fun and a lot of things have been changed. Expect to see new monsters and many items from the original Japanese FF4 restored.
+
+http://www.romhacking.net/hacks/76/
+Final Fantasy IV was released here in the States as Final Fantasy II, and was the game to firmly establish Square as an RPG force to be reckoned with. Sadly though, the release was plagued by censors, edits, and a pretty godawful translation. Later Squaresoft rereleased FFIV in the States for Playstation as part of Final Fantasy Chronicles, complete, uncensored, and retranslated. Making an SNES translation kind of unnecessary in this day and age. But honestly, before that came along, how else were you supposed to check out the super-cool Programmer's Room? That's right.
+
+You play the part of Cecil, commander of the Baron's airship fleet, known as the Red Wings. You've served your king faithfully over the years, but recently he's been acting weird and demanding that you retrieve the Crystals from all over the world, and by using any means necessary. Cecil questions the king's judgement and is stripped of his command. What follows is a pretty nifty (and kinda weird) tale of good vs. evil, with some love and loss thrown into the mix. Granted, it's not the first FF game to have a decent plot, but it's the first to be a good game along with that.
+
+FFIV was the last truly traditional Final Fantasy game, with all the characters learning specific skills when they reached a certain level. Just like Dragon Quest! These days the game may not look like much (admit it, the graphics aren't too hot except for all the cool Mode7 stuff), but the gameplay is engaging, and the story keeps you playing. And the soundtrack is pretty sexy as well.
+
+Translation Description:
+
+This translation is very impressive, especially with the 3.21 update that fixes lots of bugs and makes the translation near-perfect. Of course it's received tremendous criticism due to Trainspotter's script revisions; though I personally don't mind them that much, apparently some people demand an untouched Japanese game to play in English.
+
+Tips:
+
+Adamant Armor
+Use Alerts in the L-Shaped room in the Lunar Underground 5th floor to summon Pink Puffs. There is a 1/64 chance that they will drop a Pink Tail. Take this tail to the Adamant Grotto for Adamant, then head for the blacksmith's house, located underground, to get the Adamant Armor.
+
+Item Duplication
+You will only be able to duplicate items that can be held in the Left Hand or Right Hand. A great way to get loads of Excaliburs to throw. Go into battle. Now select an empty slot in your item list. Now keep pressing UP until you get to the equipment list for the Left and Right Hand. Select the item that you want to duplicate. Now escape from the battle by holding L + R. Open up the menu and go to the character equipment. Re-equip your item. You will notice it has a '2' next to it. De-Equip it and then Re-equip it, to 'split it in half. '
+
+Developer's Room
+Yes, there is a hidden Developers' Room, and it's in the hardtype version of FFIV, so here's how you get to it!
+
+Go to the Dwarven Castle in the underworld. Get to the room where you can buy weapons and armor; there is a path in between both those counters. Walk up into the Rally-ho Pub. There, walk directly to the right (around the table of course) and you'll see an odd blackish section of floor. Walk right through the wall at that point and continue right and down the steps into the hidden Developers' Room!
+
+There is also a hidden porn magazine in this room as well. Get into the Nap Room (from the entrance to the
+room, go up and right, then down into the Nap Room). Check out the left side of the bookcase nearby to find Smut, which is the magazine. Select it on the Item menu and the screen will turn purplish as Cecil looks at it... Then after it's over, the screen's back to normal and the Smut is gone
+
+Reviewer: Spinner 8
+http://www.romhacking.net/trans/352/
+This is a hack based on the J2E translation of Final Fantasy 4. I loved playing the original version but there were several changes J2E made that in my opinion seemed to change the feel of the game. This hack changes these things to look more like Final Fantasy 2 US.
+
+Changes
+
+- Changed the font to the original 8-8 font.
+
+- renamed a few spells and items.
+
+- changed names such as Golbeze to Golbez.
+
+- changed in battle dialogue and item/spell box from two lines to one line.
+
+- rearranged some text on the status screens.
+
+http://www.romhacking.net/hacks/609/
+This ROM hack alters the game into a story mostly centered on characters from at least one other game in the Final Fantasy series, notably Celes and Terra.
+
+The game was modified to a large degree. Both graphics (mainly character graphics) and text were modified. One character was even changed into a totally new character.
+
+The text was changed from a base script of J2E's translation of the game. The game is now more female related. It is also a bit sapphic in nature, centering on the relationship of Celes and Terra.
+
+http://romhacking.net/hacks/46/
+This is a rather large FF6 hack that I have been hard at work on for quite some time.
+
+Some of the obvious changes are as follows?
+
+ - Increase in difficulty
+
+ - Script changes
+
+ - Changed the dialog font
+
+ - Lots of new monsters (from other games)
+
+ - New Espers
+
+ - New portraits for all
+
+ - Guile (Leo sprite) replaces Edgar, Edgar is Leo
+
+ - Changed who equips certain items
+
+ - New bosses
+
+ - Mature dialog (cussing)
+
+ - A few new Relics, and no more Moogle Charm
+
+ - Hold "B" to sprint
+
+ - Renamed most of the items
+
+ - Custom battle scripts
+
+ - High end magic cost more
+
+ - A lot of the major known bugs fixed (Evade Bug, Vanish/Doom Bug, Rippler Bug, along with many other lesser patches.)
+
+ - Changed some character sprites
+
+ - Czar Dragon enabled
+
+ - Custom title screen
+
+ - A lot of various nerfs & buffs
+
+ - Some graphics restored to original uncensored
+
+ - Auto Bow-Gun reduced damage and can miss
+
+ - Bum Rush damage reduced
+
+ - Ultima and Flare damage reduced
+
+ - Tornado changed so its not so useless
+
+Please enjoy!
+
+http://www.romhacking.net/hacks/597/

@@ -1,0 +1,68 @@
+Five years had passed since the Alien Wars, and mankind was slowly beginning to recover. Nevertheless, civilization was still in turmoil. The extreme concentration of people and goods in the few areas that escaped devastation during the fighting had turned the cities into hotbeds of crime.
+
+Worse, the rapid development of genetic engineering and cyborg technologies during the war had spawned a new, fearsome type of crime unimaginable before the conflict.
+
+To combat this threat, the government set up a special team of elite troops, the "Unified Military Special Mobile Task Force." Taking the name of the heroes who had saved the planet during the Alien Wars, the public called them the "Hard Corps."
+
+It's the Holiday Season. The chaotic city festively decorated, its citizens looked for a respite from the usual hustle and bustle. But unknown to the populace, the forces of evil were using this otherwise peaceful moment to advance their dark plans.
+
+Someone infiltrates the city's defense computer complex and unmanned weapons begin to run amuck on the streets, attacking people at random. receiving orders to destroy these rampaging machines, the Hard Corps heads out. But this was to prove to be only the opening chapter in their fight against an enormous conspiracy of evil.
+
+--From the Genesis Contra Hard Corps instruction manual.
+
+Overview:
+
+WARNING: This game is very difficult. Serious players, proceed at your own risk!
+
+Take control of one of four unique characters and gun everything in sight! Collect up to four new weapons and a bomb and figure out the right weapon for the right situation. Choose your path wisely as there are five different endings.
+
+Directions:
+
+Choose from four unique characters with different weapons:
+
+Ray - Weapon A: Laser. Weapon B: Crash Bombs. Weapon C: Spread. Weapon D: Homing Missiles.
+
+Sheena - Weapon A: Machine Gun. Weapon B: Crash Grenades. Weapon C: Laser. Weapon D: Homing Laser.
+
+Fang - Weapon A: Fire Shooter. Weapon B: Power Punch. Weapon C: Flamethrower. Weapon D: Power Ball.
+
+Browny - Weapon A: Rapid-fire Laser. Weapon B: Boomerang Grenades. Weapon C: Electric Yo-yo. Weapon D: Barrier.
+
+The fourth installment of the Contra games is, in my opinion, the best version of Contra. With the ability to switch between four weapons and a bomb, four unique characters, and the ability to choose your own path, this is a fun Contra game with a high replay value. Try to get all the endings!
+
+Controls:
+
+A Button: Switch Weapon
+B Button: Shoot
+C Button: Jump
+X Button: Change Shot Mode
+Y Button: Change Shot Mode
+Z Button: Change Shot Mode
+Start Button: Pause
+Mode Button: n/a
+
+Hints:
+
+- Secret Battle and Ending -
+Believe it or not, there are 5 endings. One of them is the secret ending you get at the middle of the game. In order to get the secret ending, you must play through to the Junkyard stage and instead of blasting the door to reach the hacker, jump on the wall and climb up. Someone will ask you to battle for money. If you accept, you appear in an arena and have to face three foes. Then, an unexpected thing happens and... well... no spoilers here! :)
+
+Reviewer: Nestea
+http://www.consoleclassix.com/genesis/contra_hard_corps.html
+It's a hack, not a retranslation, although the script has been cleaned up. Lots of minor tweaks and things to make this my ideal version of the far superior USA release. There may even be some undocumented stuff I added?
+
+- Copyright screen edited slightly.
+- Copyright screen can now be skipped by pressing the start button.
+- Minor rewording in options menus.
+- Maximum number of lives in options menu increased to 5 (default is still 3).
+- Got rid of the annoying "press start to exit" feature in some menus.
+- Start button can now be used to confirm some options.
+- Start button can now be used to select your character.
+- Mission briefings can now be skipped by pressing the start button.
+- You can now hold buttons B & C to skip through text faster.
+- In-game font fixed such that lower-case characters are now usable.
+- Added an alternate font (activated with a code).
+- Added 'e accent aigu' for 'coup d'?tat'.
+- Script corrected, edited, and optimized.
+- Soft reset added.
+
+http://www.romhacking.net/hacks/450/

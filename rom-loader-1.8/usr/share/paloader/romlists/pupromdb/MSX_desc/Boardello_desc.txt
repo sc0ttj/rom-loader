@@ -1,0 +1,3 @@
+Boardello is a board game is for two players, either against each other or one player against the computer. The aim of the game is quite simple. One player has red pieces and the other yellow. As you lay down your pieces you must try and trap the opponent's pieces so they will change colour similar to the concept of Reversi. At the end of the game the player with the most pieces of his own colour on the board, wins.
+
+http://www.mobygames.com/game/msx/boardello

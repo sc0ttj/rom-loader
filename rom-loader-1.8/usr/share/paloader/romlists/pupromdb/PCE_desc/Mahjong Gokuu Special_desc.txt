@@ -1,0 +1,3 @@
+Mahjong game based around the Monkey King legend.
+
+http://www.pcengine.co.uk/HTML_Games/Mahjong_Goku_Special.htm

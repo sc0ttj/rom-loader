@@ -1,0 +1,374 @@
+#!/bin/sh
+
+# go  to root, for config files
+cd /root
+
+# enable joypad support
+rejoystick1cc --load --profile romloader &>/dev/null
+rejoystick2cc --load --profile romloader &>/dev/null
+
+#make some shortcuts. Most for easy typing, but also for flexibility
+export WORKDIR=$HOME/.paloader/tmp
+export CONFIG=$HOME/.paloader/paosmoserc
+# set some vars as defaults
+export FULLGUI=''
+export FSGUI=''
+export FULLSCREENGUI='';
+export DECORATED='decorated="true"'
+
+##
+# for the build_chooser function, used by this script to browse files and dirs
+export EXT_LIST="\.zip$|\.gg$|\.sms$"  # goes in a `grep -iE "$EXT_LIST"` command to filter out unwanted filetypes in build_chooser_list, keep only those listed
+# get the guiname .. can use it to create game specific configs for each backend
+export SELF="`basename "$0"`"
+# $SYSTEM is used by func_build_chooser_list to choose the correct pupromdb file and descr dir
+SYSTEM="`cat /root/.paloader/rclist.txt |grep -m1 \"|${SELF}$\" |cut -f1 -d'|'`" #example: snes or atari2600 or pce
+#now we need to make it upper case
+export SYSTEM="${SYSTEM^^}" # ... note "${SYSTEM,,}" would force lower case
+export ROMFILE='' # the file to load up on program start
+export ROMICON='cartridge_sms' # the icon file in /usr/share/pixmaps/ to use for this system
+
+# set command line options
+while [ $# != 0 ]; do
+   I=1
+   while [ $I -le `echo $# | wc -c` ]; do
+      case $1 in
+         -rom) [ -f "$2" ] && ROMFILE="$2" || ROMFILE='' ;;
+         -fgui) FULLGUI="true";;
+         -f|--fullscreen) FSGUI="-f "; FULLSCREENGUI="--class=jwm-maximized"; DECORATED="decorated=\"false\"";;
+         -v|--version)echo "PAosmose $VERSION"; exit;;
+         -h|--help)
+echo 'Usage: paosmose [OPTION]
+
+Options
+  -romfile	    Load up the given rom on program startup (give full path)
+  -f    Start the rom loader GUI in fullscreen
+  -h    Show this help message'; exit;;
+         #if the given option is a file, assign to $ROMFILE, we will autoload it
+         *) [ -f "$1" ] && ROMFILE="$1";;
+      esac
+      shift
+      I=$[$I+1]
+   done
+done
+
+#check if config exists
+if [ ! -f $CONFIG ]; then #no config - set default values
+	mkdir -p $WORKDIR 2> /dev/null
+	DIR="$HOME" #default browser dir
+	BILINEAR=true;
+	FILTER="Default";
+	SCALE="Double";
+	FULLSCREEN=true;
+	SOUND=true;
+	JOYPAD=true;
+else
+	. $CONFIG #read config file
+fi
+
+#get settings from main rom loader settings file, for theme settings and other stuff
+export RCFILE=$HOME/.paloader/paloader.cfg
+if [ -f "$RCFILE" ];then
+	 . "$RCFILE"
+fi
+
+#####     F U N C T I O N S     ######
+
+set -a #export all functions
+
+# get rom loader functions
+. /usr/local/rom-loader/func/func_get_resolution 			#get screen res
+. /usr/local/rom-loader/func/func_set_theme					# adjust font sizes based on screen res
+. /usr/local/rom-loader/func/func_sanitise_romname		# clean up rom names to be searchable
+. /usr/local/rom-loader/func/func_build_chooser_list 		# needs SYSTEM and EXT_LIST set & exported near top of this file
+. /usr/local/rom-loader/func/func_browser_go_to_dir		# file browsing
+. /usr/local/rom-loader/func/func_browser_change_dir	# file browsing
+. /usr/local/rom-loader/func/func_set_custom_config	# get the custom cfg for the current rom
+. /usr/local/rom-loader/func/func_popup							# popup dialog when user lodas up a rom
+. /usr/local/rom-loader/func/func_file_check 					# set boxart ($IMG_FILE), desc file,
+. /usr/local/rom-loader/func/func_set_gui_height			# fill screen height
+. /usr/local/rom-loader/func/func_kill_rejoystick				# a nicer way to end joypad navigation control
+#for bottom panel
+. /usr/local/rom-loader/func/func_get_rom_descr 			# needs $CHOOSER, sets $desc_file
+. /usr/local/rom-loader/func/func_set_rom_descr 			# needs $DIR$CHOOSER and $desc_file
+. /usr/local/rom-loader/func/func_edit_rom_details 		#needs $romname
+. /usr/local/rom-loader/func/func_get_rom_boxart 		#needs $romname, sets $IMG_FILE
+. /usr/local/rom-loader/func/func_set_rom_boxart 		#needs $IMG_FILE
+
+write_config () {
+	#write all variable values to config file
+	echo '#PAosmose config file' > $CONFIG
+	echo DIR="\"$DIR\""	 >> $CONFIG
+	echo FULLSCREEN=$FULLSCREEN >> $CONFIG
+	echo BILINEAR=$BILINEAR >> $CONFIG
+	echo FILTER="$FILTER" >> $CONFIG
+	echo SCALE="$SCALE" >> $CONFIG
+	echo SOUND=$SOUND >> $CONFIG
+	echo JOYPAD=$JOYPAD >> $CONFIG
+
+	# here, we do 2 things: we get the custom config for any backends NOT being used, 
+	# starting with first in list, goind down (see backend menus in Settings page), 
+	# if a cfg for a non-enabled backend exists, that backend is used to auto load the rom with those custom settings
+	# if no custom configs exist for non used backends, get the custom config for the currently enabled backend
+	# we do this so users can set custom settings AND emulators for each ROM..
+	set_custom_config
+	
+}
+
+execute (){
+	export GTK2_RC_FILES="$HOME/.gtkrc-2.0"	#reset gtk-theme
+	write_config #keep settings for next startup
+
+	# set fullscreen or not
+	if [ "$FULLSCREEN" = true ];then
+	 C="-fs"
+	else
+	  C=""
+	fi
+
+	# set bilinear or not
+	if [ "$BILINEAR" = true ];then
+	  C="$C -bilinear "
+	else
+	  C="$C"
+	fi
+
+	# set graphics filter 
+	if [ "$FILTER" = "Monochrome" ];then
+	  C="$C -monochrome"
+	elif [ "$FILTER" = "TV" ];then
+	  C="$C -tv"
+	elif [ "$FILTER" = "Scanlines" ];then
+	  C="$C -scale2xscanline"
+	elif [ "$FILTER" = "Nearest-Neighbour" ];then
+	  C="$C -nn2x"
+	else
+	  C="$C"
+	fi
+
+	if [ "$SCALE" = "Double" ];then
+		C="$C -scale2x"
+	elif [ "$SCALE" = "Double-Scanlines" ];then
+		C="$C -scale2xscanline"
+	else
+		C="$C"
+	fi
+
+	# set sound or not
+	if [ "$SOUND" = true ];then
+	  C="$C"
+	else
+	  C="$C -nosound"
+	fi
+
+	# set joypad or not
+	if [ "$JOYPAD" = true ];then
+	  C="$C --joy"
+	else
+	  C="$C"
+	fi
+
+	#enable joypad support
+	rejoystick1cc --load --profile osmose &>/dev/null
+	rejoystick2cc --load --profile osmose &>/dev/null
+	unclutter -idle 1 -jitter 6 -reset -root &
+
+	# THE ACTUAL, FINAL COMMAND
+	mkdir -p /tmp/paloader
+	echo "osmose \"$DIR$CHOOSER\" $C"  > /tmp/paloader/${SELF}_cmd
+	. /tmp/paloader/${SELF}_cmd &> /tmp/paloader/${SELF}_cmd_output
+	
+	# enable joypad support
+	rejoystick1cc --load --profile romloader &>/dev/null
+	rejoystick2cc --load --profile romloader &>/dev/null
+	killall -9 unclutter &>/dev/null
+
+}
+
+#####     P R O G R A M     ######
+
+#define default directory in browser
+echo "$DIR" > $WORKDIR/dir
+ls -1p --group-directories-first "$DIR" > $WORKDIR/ls
+browser_go_to_dir
+
+#set default text in info-field
+echo 'Select a valid ROM in the browser and execute' > $WORKDIR/info
+# set the default puppy arcade box art
+rm /root/.paloader/tmp/boxart.jpg &>/dev/null
+ln -s /usr/share/paloader/romlists/boxart/default.jpg /root/.paloader/tmp/boxart.jpg
+
+# set the height to full height of screen if run with -if/--fullscreen
+set_gui_height
+
+#define a unique gtk-theme. This can be built really fancy. See /usr/share/themes/DeepThought/gtk-2.0/gtkrc.
+#Pmusic and Pburn uses this tecnique
+cat "/root/.paloader/themes/${SEGA8BIT_THEME:-$MAIN_THEME}" > /tmp/gtkrc
+
+#get the screen res .. this will also set TITLESIZE and SUBTITELSIZE, 
+# which are font sizes we update on the fly in theme files
+get_resolution 
+#now we update the font sizes based on current resolution
+# set_theme will replace the font sizes in /tmp/gtkrc and then set the theme
+set_theme
+
+# auto run the given rom ($ROMFILE)
+if [ -f "$ROMFILE" ];then #if rom was given
+	# set the required vars to locate the rom
+	export DIR="`dirname \"$ROMFILE\"`/"
+	export CHOOSER="`basename \"$ROMFILE\"`"
+	# load up the rom
+	execute
+	kill_rejoystick
+	exit
+fi
+
+# get all arrays for combobox items
+. /usr/local/rom-loader/combobox_arrays/`basename $0`
+
+# create the file browsing gui stuff ... do it here cos gui_height and so has to be set first...
+. /usr/local/rom-loader/func/func_build_chooser_gui
+# usage:  build_chooser_gui $boxart_width $boxart_height
+build_chooser_gui 280 200
+
+#build gui
+S='
+<window title="Puppy Arcade - SEGA loader (Osmose)" icon-name="gtk-execute" '$DECORATED' width-request="'$SCREEN_WIDTH'" height-request="'$SCREEN_HEIGHT'">
+ <vbox>
+  <notebook labels="Execute|Settings|Help">
+
+
+## E X E C U T E
+
+ '$CHOOSER_GUI'
+
+## S E T T I N G S
+
+   <vbox>
+
+	<frame>
+
+		<text height-request="10"><label>""</label></text>
+
+		 <hbox>
+			<text><label>Filter: </label></text>
+			<combobox>
+				<variable>FILTER</variable>
+				'$FILTER_ITEMS'
+			</combobox>   
+			<checkbox tooltip-text="Enable bilinear filtering for smoother graphics - but this maybe slower">
+				<label>Enable Bilinear</label>
+				<variable>BILINEAR</variable>
+				<default>"'$BILINEAR'"</default>
+			</checkbox>
+		</hbox>
+
+		<text height-request="10"><label>""</label></text>
+
+		 <hbox>
+			<text><label>Scale: </label></text>
+			<combobox>
+				<variable>SCALE</variable>
+				'$SCALE_ITEMS'
+			</combobox>   
+			<checkbox tooltip-text="Enable fullscreen">
+				<label>Enable Fullscreen</label>
+				<variable>FULLSCREEN</variable>
+				<default>"'$FULLSCREEN'"</default>
+			</checkbox>
+		</hbox>
+
+		<text height-request="10"><label>""</label></text>
+
+		 <hbox>
+			 <checkbox tooltip-text="Enable sound">
+			  <label>Enable sound [recommended]</label>
+			  <variable>SOUND</variable>
+				<default>"'$SOUND'"</default>
+			</checkbox>
+
+			 <checkbox tooltip-text="Enable joypads">
+			  <label>Enable joypad</label>
+			  <variable>JOYPAD</variable>
+				<default>"'$JOYPAD'"</default>
+			</checkbox>
+		</hbox>
+
+	</frame>
+
+  </vbox>
+  
+  <vbox>
+  	<edit can-focus="no" editable="false" indent="15">
+		<variable>EDITOR</variable>
+		<width>350</width><height>150</height>
+		<default>"
+Osmose Help
+=====================
+Default Keys:
+
+Player 1:
+
+PAD1 UP			UP
+PAD1 DOWN		DOWN
+PAD1 LEFT		LEFT
+PAD1 RIGHT		RIGHT
+PAD1 A			LEFT ALT
+PAD1 B			LEFT CONTROL
+
+Player 2:
+
+PAD2 UP			NUMPAD 5
+PAD2 DOWN		NUMPAD 2
+PAD2 LEFT		NUMPAD 1
+PAD2 RIGHT		NUMPAD 3
+PAD2 A			n
+PAD2 B			b
+
+Emulator controls
+
+QUIT			ESCAPE
+SOUNDSHOT		F1 (start/stop audio recording into wav file)
+             Be carefull, wave file grows about 2.58 Mo/minute.
+PAUSE			p
+SCREENSHOT		F2
+TILESHOT		F3  (this will rip gfx used at this moment).
+"</default>
+</edit>
+
+  </vbox>
+  
+ </notebook>
+
+
+## B U T T O N S
+
+	<hbox>
+		<button use-stock="true" label="gtk-save" tootlip-text="Save your emulator settings">
+			<variable>SAVE_SETTINGS</variable>
+			<action>write_config; Xdialog --title "Settings Saved" --msgbox "Settings saved to $CONFIG" 0 0</action>
+		</button>
+		<button use-stock="true" label="gtk-help" tooltip-text="View all usage options for this emulator">
+  			<action>defaulttexteditor /usr/share/doc/osmose-0.8.2 &</action>	
+  		</button>
+		<button use-stock="true" label="gtk-quit" tooltip-text="Exit this frontend">
+			<action>if [ "$FULLGUI" != "" ];then exec paloader -sk '$FSGUI' & fi</action>
+			<action type="exit">EXIT_NOW</action>
+		</button>
+	</hbox>
+  
+ </vbox>
+</window>'
+
+export paosmose="`echo "$S" | sed -e 's/##.*//'`"  #I use double hash (##) for comments. Colors are defined as #FF0000
+gtkdialog3 -p paosmose $FULLSCREENGUI # $FULLSCREENGUI contains (or not) --class=jwm-maximized and must be defined in jwm configuration to get window maximized
+unset paosmose
+
+# if NOT returning to the main menu ($FULLGUI=""), remove the rejoystick profile.. kill it to be safe... 
+# and then we must use xdotool to quit the output of the joypad when rejoystick exits.. 
+# if we dont do this, rejoystick/the joypad floods the next process/app/etc with a load of keypresses
+if [ "$FULLGUI" = "" ];then
+	kill_rejoystick
+fi
+
+exit 0

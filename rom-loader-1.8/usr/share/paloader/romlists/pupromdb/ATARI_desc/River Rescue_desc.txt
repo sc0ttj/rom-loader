@@ -1,0 +1,3 @@
+Side-scroller where you control a boat flying down a river. Shoot at or avoid crocodiles, logs, and mines. Stop at docks to pick up and drop off people.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=8504

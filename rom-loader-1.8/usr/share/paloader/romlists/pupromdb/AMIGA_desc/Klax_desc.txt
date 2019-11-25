@@ -1,0 +1,11 @@
+An action/puzzle game, the object is to catch assorted color falling tiles and create rows, columns, or diagonals of a single color. Each level requires a different pattern to be made, and the tiles fall faster, more at a time, and in an increasing number of colors as the game progresses.
+ 
+http://www.mobygames.com/game/amiga/klax
+_________________________
+CHEATS:
+
+Begin game play, then hold [Shift] + [Space]
+and press 1, 2, 3, or 4. Pressing
+4 will advance the game to level 100. Alternately, press
+[Ctrl] + 4 during game play to advance to level
+100.

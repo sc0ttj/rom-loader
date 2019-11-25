@@ -1,0 +1,29 @@
+Twelve fighters from across the globe have come together to face one another to see which of them has the strength, skill and courage to be crowned champion. Each fighter has mastered different skills and special moves, but it will take more than brute strength to defeat the others and earn the title of Grand Master.
+--from the Street Fighter 2 Special Champion Edition game manual 
+
+Gameplay:
+
+Street Fighter II - Champion Edition, known in Japan as Street Fighter II Dash, was released on April 1992. It was the first of several updated versions of Street Fighter II (hence the Japanese title Street Fighter II Dash, a derivative of the original Street Fighter II). The four boss characters from the first edition became selectable characters and a feature was added that allowed two players to select the same character, with one character being distinguished from the other with an alternate color scheme. Characters using their alternate color scheme have their names printed in blue below their lifebar. The number of opponents in the single-player mode increased to twelve due to the addition of clone matches. Some of the artwork was redrawn, as well and the stages' backgrounds were recolored. Much of the gameplay was revised to balance the characters out.
+
+Hints:
+
+- Alternate Character Colors -
+When picking a character, press Start to select him/her. He/she will have an alternate colored uniform/shorts/etc.
+
+- Change Button Configuration in Arcade Mode -
+After choosing your fighter, when the plane flies to the next location, press and hold Start to bring up the controls. You can then change your controls as you see fit.
+
+- Choose Same Character Twice in Group Mode -
+Go to group mode. Where it has the 2 modes to choose from, on Controller 2, press Down,Z,Up,X,A,Y,B,C. You should here Chun Li say her voice as if she was doing her whirlwind kick. It can also be done by using controller 2 and pressing Down,C,Up,A,A,B,B,C.
+
+- Five Star Mode in Champion mode -
+When the Capcom logo fades, the building will show up with the Street Fighter II logo. When the screen stops going up and you can see the logo, on a 6 button controller, press Down, Z, Up, X, A, Y, B, C. If right, you should here a short Zangief sound. It can also be done on a 3 button controller by pressing Down, C, Up, A, A, B, B, C
+
+- Hidden Ending -
+Complete the game with any character with the difficulty level on 4 or higher.
+
+- Only Special Moves -
+Press Down+Z, Up+X, A, Y, B,C. Now you can only use special moves when fighting.
+
+http://www.consoleclassix.com/genesis/street_fighter_2_special_champion_edition.html
+http://www.gamefaqs.com/console/genesis/code/586494.html

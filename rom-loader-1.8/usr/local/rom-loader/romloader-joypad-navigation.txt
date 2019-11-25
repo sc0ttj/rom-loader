@@ -1,0 +1,48 @@
+Enabling *FULL* Joypad Navigation in Rom-Loader
+
+You can use your joypad to browse, load (and play) your roms, by using the RejoystickCC tool with Rom-Loader.
+
+1. Plug in your joypad before the desktop loads up.
+
+2. Open 'Menu->Setup->Setup Puppy Arcade->RejoystickCC'
+	(or Quickstart->RejoystickCC)
+	
+3. Edit the Rom-Loader profile, using RejoystickCC:
+
+		- Select the 'romloader' profile and click 'Edit'
+		- Two windows will appear: Rejoystick (left) and a list of the Keyboard Controls for Rom-Loader (right)
+		- To the left is rejoystick, showing all the buttons and axes found for your joypad
+		- To the right is the Keyboard shortcuts that you need to map to your pad
+	
+4. How to map the Rom-Loader controls to your joypad:
+	
+		- Press a button on your joypad to see where how it is listed and numbered in the rejoystick menu
+		- Click on the button you want to use and you'll be asked to choose a keyboard key for that button, so do it.
+		- To use key combinations such as Alt+Q (Quit), you must map 'Alt' and 'Q' to separate buttons (and press them both at once)
+		- When you have mapped all the listed keys to separate joypad buttons, click 'OK'
+		
+		RejoystickCC will then save the profile.
+		Rom-Loader will automatically load all required Rejoystick profiles, you do not need to load them manually.
+
+5. To enable exit (from emulators) back to Rom-Loader via joypad:
+	
+		- Edit the RejoystickCC profiles of the emulators you wish to use through Rom-Loader:
+		- Important: You must map *AT LEAST* the 'Quit' keyboard shortcut of the chosen emulators to your joypad
+		
+		Example:
+		- Open RejoystickCC and edit the 'snes' profile in RejoystickCC, and map the 'Q' key to button09 on your joypad. 
+		- When you press button09 during play, Snes9x-GTK (the actual emulator) will quit (and return to Rom-Loader)
+		
+6. To complete full, working joypad navigation in Rom-Loader, you must also:
+
+		- Enable joypad controls in your emulators directly, or map all the in-game controls (the keys listed) to your pad
+
+		NOTE:
+		- If you map *only* the 'Quit' commands, you must setup your joypads using the emulators themselves, to play the roms.
+		- To do this, you can open the actual emulators and use their menus to edit your controls.
+
+		Loading the default emulators, to edit their settings:
+		
+		- You can easily load the emulators themselves by using the 'Fontend-Chooser' and setting all options to 'Default'
+		- You can then load the emulators themselves through the desktop icons or the Puppy Menu
+

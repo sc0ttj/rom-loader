@@ -1,0 +1,53 @@
+strategy game with cartoony graphics and an innocent line in humour. At the start of the level you choose a starting point, the intention being to get lots of flat land as well as resources to mine and ideally existing sources of trees, stones and water (for fish). Your people are vying for supremacy with up to 3 others.
+
+The gameplay focuses on resource management. Each building requires a certain amount of wood (and stones for some of them) to be constructed and requires particular resources to perform its function successfully. Food must be produced (either fish, bread (requiring a windmill, grain-farmer and baker) or pork (requiring a pig-farmer and butcher as well as the grain-farm) to feed the people working in mines to produce the iron, coal and gold (as well as additional stones).
+
+Huts and Watch-Towers are built to expand your territory, sometimes at the expense of an enemy's land (clever play involves targeting an area where your opponent has a crucial building, thus compromising his production). 
+
+To finally win the level, you must defeat your opponents. Combat is fought one-at-a-time by the little soldiers and a victory results in all surrounding buildings being lost.
+
+The game features 30 preset missions. 6 tutorials missions will help beginners to learn the game mechanics. The game also offers the possibility to play semi-randomly (based on a 16-number key) generated maps. The map size varies from small maps, for quick matches, to large maps to, depending on how much RAM is available, huge maps, for very long matches as the fact that the in-game statistics can be displayed on a 50-hour scale illustrates. These semi-random maps can be played in single-player mode but can also be played by 2 players on one system, if you have 2 mice, in which case the screen is 
+
+http://www.mobygames.com/game/amiga/serf-city-life-is-feudal
+_________________________
+CHEATS:
+
+Cheat mode:
+Search your opponent's borders for streets that are next to your border. Once found, place a flag directly next to the street. Click on the flag and click the symbol (green with the red arrows) for connecting the flag to the street. It will not connect if the street was not close enough. Once connected the following tricks may be done. Note: Never connect this new street system to your own system before disconnecting from your opponent to prevent leaking your resources, people and knights. 
+Have opponent build on your land
+Place a storage hall next to the flag. Connect it with that flag only, but not with your own streets. Your opponent's settlers will eventually begin building the hall on your land. This trick is even more useful if it happens next to a smith. The weapons will be transported into your storage hall, where your knights grow with the opponent's weapons. 
+Cut the street
+Delete your flag. 
+
+--------------------------------------------------------------------------------
+Level Password  
+1 START  
+2 STATION  
+3 UNITY  
+4 WAVE  
+5 EXPORT  
+6 OPTION  
+7 RECORD  
+8 SCALE  
+9 SIGN  
+10 ACRON  
+11 CHOPPER  
+12 GATE  
+13 ISLAND  
+14 LEGION  
+15 PIECE  
+16 RIVAL  
+17 SAVAGE  
+18 XAVER  
+19 BLADE  
+20 BEACON  
+21 PASTURE  
+22 OMNUS  
+23 TRIBUTE  
+24 FOUNTAIN  
+25 CHUDE  
+26 TRAILER  
+27 CANYON  
+28 REPRESS  
+29 YOKI  
+30 PASSIVE

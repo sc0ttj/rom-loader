@@ -1,0 +1,64 @@
+Your task is to rescue the Lemmings across 120 levels of fast-paced puzzling. These creatures simply walk blindly through the world in the hope of reaching safety at the end of the level - unfortunately these levels include steep drops, gaps in the ground, barriers and rivers amongst other hazards.
+
+You are in control not of any individual Lemming, but of a cross-hair, which can be moved over any of the Lemmings. Along the bottom are a selection of functions which can be assigned to a Lemming, including climbing, floating and bashing. You must click to select the appropriate function, then click on the Lemming to activate it. Each level has a different range of skills on offer, a different amount of Lemmings, and a different percentage target in order to progress.
+
+Trivia:
+
+French programming team calling themselves, "Brutal Deluxe" did a 'unofficial' conversion for Apple IIGS computer in 1997, formally known as "Brutal Deluxe's LemminGS". Mainly based on Atari ST version and contains 10 of 92 levels are in the playable demo. Minimum 700Kb free RAM and System 6. Tool 35 (Midi Synth) part of System 6, 4Mb RAM, Accelerator card and hard drive is recommended. 
+
+The Macintosh version of Lemmings contains a different Tricky 21, called "Going their separate ways". This level is much harder than the original "All the 6's".
+
+This was the most popular choice when Amiga Power magazine asked a number of famous programmers which Amiga game they wish they'd written and why. Archer MacLean was impressed by its cuteness and attention to detail, while Andy Beveridge said "It's refreshingly different, and fun too... and it's going to make lots of money, I'm sure" - other programmers echoed this final point.
+
+The software controllable LED of the Atari ST disk drive was used in-game. It blinks when the three last building bricks are used by the bridge builder lemming.
+
+An arcade coin-op version of Lemmings was prototyped by Data East (which mainly makes pinball equipment) in 1991, never to be released. It uses the same levels (occasionally edited to remove various things, more on that later), but has fewer levels. It is played with one trackball, one select button, and one start button for each of 2 players. Some differences in this version include:
+
+- The music is slower, the music quality is lower, there are some new songs, and the songs are apparently not finished (in most of the songs, some of the instruments do not play their parts of the song, and in a very few songs only the background rhythm is there and the other instruments do nothing)
+
+- The game does not tell you what skills a lemming has when you point at it like most other versions. Lemmings with skills that are not instantly visible (floaters, climbers, etc.) have flashing clothes to set them apart.
+
+- A high-pitched Lemming voice gives you hints and comments on your performance. This is apparently not entirely implemented, because it frequently tells you to blow Lemmings up for no good reason.
+
+- The time limit in some levels is completely impossible, due to the slow walking speed of the Lemmings. However, if you run out of time, you can put in more quarters to buy more.
+
+- Exploding lemmings just sit down and blow up, rather than walking around with a countdown. Therefore, in many levels (notably "Now Use Blockers and Bombers"), the Blockers are available, and the Hint Voice tells you to use them, but they are not needed.
+
+- Various references to "heaven" and "hell" were replaced with different things.
+
+- The slight goriness of the game has been toned down a bit, and exploding Lemmings do not "splatter".
+
+- The button animations are changed so that the debris and bricks in the Basher, Builder, Miner, and Digger match the color of the debris and bricks in the level you are on.
+
+- Some level names are changed, including a level now named "The Steel Mines of Kessel" in an apparent reference to the planet Kessel in Star Wars.
+
+- The lemmings occasionally go behind the exit when they should go in front. They still "jump" as if they are going in it, and they can be seen through parts of the exit.
+
+- The "666" level is not playable, but it is in the game's data ROM. Stored in a location in memory near it is an interesting bunch of text about a conversation between someone at Psygnosis and the VP of Data East relating to the 666 level, the hell references, the "Menacing" level, and an obstacle that appears to pull the skin off the Lemmings. Don't ask me why this is here. Silly programmers.
+
+- There are a few levels on difficulty level "Mystery" that are completely new. They're incredibly buggy.
+
+Not all ports of Lemmings contained the same levels. All ports contained the 120 standard levels from the DOS version, with the following exceptions:
+
+The Amiga, Atari ST, SNES and Sega Genesis versions contained 20 2-player levels.
+
+The SNES version contained 5 extra levels.
+
+The Genesis version contained 60 of the standard levels and an additional 120 unique levels!
+
+The Macintosh version contains a unique level in place of the standard level 21 in Tricky rating.
+
+The Windows 95, Playstation and Gameboy versions all contain less levels than the original DOS version.
+
+http://www.mobygames.com/game/dos/lemmings
+Although a standalone game, Oh No! More Lemmings is basically an add-on to Lemmings. The game features 100 new levels, and all new graphics and music.
+
+Trivia:
+
+The original 6 tunes from the Amiga version of Oh No! More Lemmings were quite short, on other systems (Macintosh, DOS, Atari ST) the songs had parts added to them making them go almost a minute longer. For example, the original Amiga "Tune 5" goes for 46 secs while the Mac version's goes for 2 minutes and 5 seconds! Twice as long as the original. The song has a new Intro (0:00-0:12) before the original Amiga tune, which loops twice (0:12-1:25), then a new finish (1:25-2:05). Similar things are done to the other 5 songs.
+
+As with Lemmings, the Amiga and Atari ST ports contained 10 special 2-player levels.
+
+Oh No! More Lemmings was available either as a stand-alone game, or as a datadisk for Lemmings. The stand-alone version cost more. A Windows 95 version of Lemmings was released in 1995, including (nearly) all of the levels from Lemmings and Oh No! More Lemmings. The game was ported to the new OS by Visual Sciences.
+
+http://www.mobygames.com/game/dos/oh-no-more-lemmings

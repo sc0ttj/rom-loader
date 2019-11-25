@@ -1,0 +1,192 @@
+#Native Instruments Maschine theme
+# for puppy linux, and whoever else wants it
+
+####################################
+# DO NOT MOVE, OR REMOVE, ANY COMMENTS!!
+####################################
+
+
+########## AUTO FONT SIZE ADJUST ##########
+
+# NOTE!! Design your themes and font sizes for 1024x768... font sizes can be auto-adjusted for other resolutions!
+# as the resolution increases, font sizes will be made bigger and as it decreases, font sizes will be made smaller..
+# the following tags are used to automatically resize fonts, based on screen resolution
+
+	#mainfont						affects fonts everwhere except those listed below
+	#titlefont							affects the 'Rom'Loader' title at the top, on the main rom-loader page (where you choose a system)
+	#subtitlefont					affects the 'choose a system' subtitle on the main rom-loader page (where you choose a system)
+	#maintreefont				affects the fonts in the system list, on the main rom-loader page
+	
+# NOTE: to disable auto resizing of fonts in your themes, simply rename the tags to #nomainfont, #notitlefont, etc
+
+####################################
+
+gtk-keynav-cursor-only = 0 # this must not change, or stuff breaks  
+
+style "default"
+{
+
+  font_name="Ubuntu Bold 9" #mainfont  ... this should be average sized ... 10, 12, 14, etc
+
+  #dont change this unless engine you know what you are doing
+  engine "clearlooks"
+  {
+  	menubarstyle    = 2
+  }
+
+  base[NORMAL] = "#666666" 		#Background for just about everything (editor windows, Evolutions folders, etc.)
+  base[PRELIGHT] = "#FF1111" 		#Background of selected text in a list when window is in foreground
+  base[ACTIVE] = "#FF1111" 			#Background of selected text in a list when window not in foreground
+  base[SELECTED] = "#FF1111" 		#Background of selected text in a list when window is in foreground
+  base[INSENSITIVE] = "#343434" 	#Background of disabled text
+
+  #disabled stuff
+  bg[INSENSITIVE]    = "#444444"
+  text[INSENSITIVE]    = "#555555"
+
+  #text
+  fg[NORMAL] = "#ffffff" 
+  fg[PRELIGHT] = "#ffffff" 
+  fg[ACTIVE] = "#ffffff" 
+  fg[SELECTED] = "#ffffff" 
+
+}
+
+#this is applied to all widgets 
+style "maschine-bg"
+{
+
+  bg[NORMAL]      = "#333333"
+  bg[PRELIGHT]      = "#333333"
+  bg[ACTIVE]      = "#FF1111"
+  bg[SELECTED]      = "#FF1111"
+  bg[INSENSITIVE]    = "#343434"
+
+  fg[NORMAL]      = "#ffffff"
+  fg[INSENSITIVE]    = "#454545"
+  text[NORMAL] = "#ffffff" 				#Foreground of selected text in a list when window is in foreground
+  base[NORMAL] = "#666666" 		#Background for just about everything (editor windows, Evolutions folders, etc.)
+  base[SELECTED] = "#FF1111" 		#Background of selected text in a list when window is in foreground
+  base[ACTIVE] = "#FF1111" 			#Background of selected text in a list when window not in foreground
+}
+
+#this is applied to the tree lists (the list of systems, list of roms)
+style "maschine-tree"
+{
+
+  fg[NORMAL]      = "#ffffff"
+  bg[NORMAL]      = "#333333"
+  base[NORMAL] = "#666666" 		#Background for just about everything (editor windows, Evolutions folders, etc.)
+  base[SELECTED] = "#FF1111" 		#Background of selected text in a list when window is in foreground
+  base[ACTIVE] = "#FF1111" 			#Background of selected text in a list when window not in foreground
+}
+
+#the dropdown lists
+style "maschine-combobox"
+{
+  bg[NORMAL]      = "#FF1111"
+  bg[PRELIGHT]      = "#FF6D6D"
+  bg[ACTIVE]      = "#FF8C8C"
+  bg[SELECTED]      = "#FF8C8C"
+  bg[INSENSITIVE]    = "#343434"
+  fg[INSENSITIVE]    = "#454545"
+}
+
+#button stylings
+style "maschine-button"
+{
+  bg[NORMAL]      = "#FF1111"
+  bg[PRELIGHT]      = "#FF6D6D"
+  bg[ACTIVE]      = "#FF8C8C"
+  bg[SELECTED]      = "#FF8C8C"
+
+  base[INSENSITIVE]    = "#333333"
+  bg[INSENSITIVE]    = "#333333"
+  fg[INSENSITIVE]    = "#444444"
+  text[INSENSITIVE]    = "#444444"
+}
+
+#sliders
+style "maschine-scale"
+{
+  bg[NORMAL]      = "#FF1111"
+  bg[PRELIGHT]      = "#FF6D6D"
+  bg[ACTIVE]      = "#FF8C8C"
+  bg[SELECTED]      = "#FF1111"
+  bg[INSENSITIVE]    = "#343434"
+}
+ 
+ #scrollbars
+style "maschine-scrollbars"
+{
+  bg[NORMAL]      = "#666666"
+  bg[PRELIGHT]      = "#454545"
+  bg[ACTIVE]      = "#454545"
+  bg[SELECTED]      = "#343434"
+  bg[INSENSITIVE]    = "#333333"
+}
+ 
+# title on main menu
+style "maschine-title"
+{
+	font_name="8bitoperator JVE 32" #titlefont   ... this should be big text, like 38, 48, or more
+} 
+
+# subtitle on main menu
+style "maschine-subtitle"
+{
+	font_name="8bitoperator JVE 22" #subtitlefont  .... this should be a little smaller than titlefont, above
+} 
+
+#main list of systems on the main menu
+style "maschine-maintree"
+{
+	font_name="Ubuntu Bold 14" #maintreefont .... the main list of systems... use font sizes like 22, 24, 28
+} 
+
+#the list in the popup menu, when you load a rom
+style "maschine-popuptree"
+{
+	font_name="Ubuntu Bold 11"
+} 
+
+# the list of roms, as used by all rom-loader frontends 
+style "maschine-romtree"
+{
+	font_name="Ubuntu Bold 12" 
+} 
+
+# the text in the rom descriptions panel at the bottom
+style "maschine-romdescr"
+{
+	font_name="Ubuntu Bold 11" 
+} 
+
+#
+# now here we apply the styles which we created above
+#
+widget "*" style "default"
+widget_class "*Gtk*" style "maschine-bg"
+
+#main menu
+widget "*title" style "maschine-title"
+widget "*subtitle" style "maschine-subtitle"
+widget "*maintree" style "maschine-maintree"
+
+# rom browsers
+widget "*romtree" style "maschine-romtree"
+widget "*romdescr" style "maschine-romdescr"
+
+#tree lists
+widget_class "*Tree*" style "maschine-tree"
+
+# scrollbars, sliders, separators
+widget_class "*Separator*" style "maschine-scale"
+widget_class "*Scale*" style "maschine-scale"
+widget_class "*Scroll*" style "maschine-scrollbars"
+
+#buttons
+widget "*Button*" style "maschine-button"
+
+#define default icon sizes, this affects the icons left of the roms, in the rom trees
+gtk-icon-sizes = "panel-menu=32,32:panel=32,32:gtk-menu=32,32:gtk-large-toolbar=32,32:gtk-small-toolbar=32,32"

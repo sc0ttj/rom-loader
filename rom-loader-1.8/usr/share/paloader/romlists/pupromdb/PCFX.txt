@@ -1,0 +1,62 @@
+Aa! Megami Sama|NOID|No CRC|x|0|1997|Adventure|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Aa! Megami Sama|NOID|No CRC|x|0|1997|Adventure|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Akazukin Chacha|NOID|No CRC|x|0|1996|Board Games|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+All Japan Womans Pro Wrestling Queen of Queens|NOID|No CRC|x|0|1995|Sports/Wrestling|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+All Japan Womans Pro Wrestling Queen of Queens|NOID|No CRC|x|0|1995|Sports/Wrestling|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Angelique Special|NOID|No CRC|x|0|1995|Simulation|region-unknown|Koei|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Angelique Special 2|NOID|No CRC|x|0|1996|Simulation|region-unknown|Koei|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Angelique Tenkuu No Requim|NOID|No CRC|x|0|1998|Role Playing|region-unknown|Koei|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Aruberea's Maiden|NOID|No CRC|x|0|1997|Simulation|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Battle Heat|NOID|No CRC|x|0|1994|Fighter|region-unknown|Hudson|dev-unknown|Parental Guidance|media-unknown|controller-unknown|PCFX
+Blue Breaker|NOID|No CRC|x|0|1996|Role Playing|region-unknown|Hunex|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Blue Chicago Blues|NOID|No CRC|x|0|1996|Adventure|region-unknown|Riverhill Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Blue Chicago Blues|NOID|No CRC|x|0|1996|Adventure|region-unknown|Riverhill Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Boundary Gate Daughter of Kingdom|NOID|No CRC|x|0|1997|Role Playing|region-unknown|Pack-In-Video|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Can Can Bunny Extra DX|NOID|No CRC|x|0|1996|Simulation|region-unknown|Kid|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|PCFX
+Chip Chan Kick|NOID|No CRC|x|0|1996|Platformer|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Comic Road|NOID|No CRC|x|0|1997|Simulation|region-unknown|Cocktail Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Cutey Honey FX|NOID|No CRC|x|0|1995|Adventure|region-unknown|DataWest|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Der Langrisser FX|NOID|No CRC|x|0|1996|Role Playing|region-unknown|NCS|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Doukyusei II|NOID|No CRC|x|0|1996|Simulation|region-unknown|NEC Interchannel|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|PCFX
+Dragon Knight IV|NOID|No CRC|x|0|1997|Role Playing|region-unknown|NEC Avenue|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|PCFX
+Farland Story FX|NOID|No CRC|x|0|1996|Simulation|region-unknown|NEC|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Fire Woman Matoi-Gumi|NOID|No CRC|x|0|1996|Action|region-unknown|Tokuma Shoten Intermedia|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+First Kiss Monogatari|NOID|No CRC|x|0|1997|Adventure|region-unknown|Hunex|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Fushigi No Kuni No Angelique|NOID|No CRC|x|0|1996|Board Games|region-unknown|Koei|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Ginga Ojousama Densetsu Yuna FX|NOID|No CRC|x|0|1996|Adventure|region-unknown|Hudson Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Kishin Douji Zenki Vajura Fight FX|NOID|No CRC|x|0|1995|Beat-'Em-Up|region-unknown|Hudson Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Kokuu Hyouryuu Nirgends|NOID|No CRC|x|0|1996|Adventure|region-unknown|Micro Cabin|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Konpeki No Kantai|NOID|No CRC|x|0|1995|Strategy|region-unknown|Micro Cabin|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Last Imperial Prince|NOID|No CRC|x|0|1997|Role Playing|region-unknown|Nihon Application|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Last Imperial Prince|NOID|No CRC|x|0|1997|Role Playing|region-unknown|Nihon Application|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Lunatic Dawn|NOID|No CRC|x|0|1995|Role Playing|region-unknown|Artdink|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Mahjong Goku Tenjiku|NOID|No CRC|x|0|1995|Mahjong|region-unknown|Chat Noir|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Makeruna! Makendou Z|NOID|No CRC|x|0|1998|Role Playing|region-unknown|Fill-In Cafe|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Megami Paradise II|NOID|No CRC|x|0|1996|Simulation|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Minimum Nanonic|NOID|No CRC|x|0|1997|Adventure|region-unknown|NEC|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Miraculum The Last Revelation|NOID|No CRC|x|0|1996|Role Playing|region-unknown|RayForce|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Ojousama Sousamou|NOID|No CRC|x|0|1996|Adventure|region-unknown|NEC|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Pachio-Kun FX Maboroshi no Shima Daikessen|NOID|No CRC|x|0|1995|Casino|region-unknown|NEC|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Pia Carrot He Youkoso|NOID|No CRC|x|0|1997|Simulation|region-unknown|Cocktail Soft|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|PCFX
+Power Dolls FX|NOID|No CRC|x|0|1996|Strategy|region-unknown|Kogado Studio|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Return To Zork|NOID|No CRC|x|0|1995|Adventure|region-unknown|Datawest|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Ruruli Ra Rura|NOID|No CRC|x|0|1998|Adventure|region-unknown|NEC|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Shanghai The Great Wall|NOID|No CRC|x|0|1996|Puzzle|region-unknown|Activision|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Sotsugyou II Neo Generation FX|NOID|No CRC|x|0|1994|Simulation|region-unknown|Riverhill Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Sotsugyou R Graduation Real|NOID|No CRC|x|0|1998|Simulation|region-unknown|NEC|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Sparkling Feather|NOID|No CRC|x|0|1997|Simulation|region-unknown|HuneX|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Super Power League FX|NOID|No CRC|x|0|1996|Sports/Baseball|region-unknown|Hudson|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Super Real Mahjong P.V. FX|NOID|No CRC|x|0|1996|Mahjong|region-unknown|Naxat Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Team Innocent|NOID|No CRC|x|0|1994|Adventure|region-unknown|Hudson Soft|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Tekipaki Working Love FX|NOID|No CRC|x|0|1998|Simulation|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Tenchi Muyo FX|NOID|No CRC|x|0|1996|Adventure|region-unknown|Micro Cabin|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Tenchi Muyo FX|NOID|No CRC|x|0|1996|Adventure|region-unknown|Micro Cabin|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Tengai Makyu Karakuri Kakutouden|NOID|No CRC|x|0|1995|Fighter|region-unknown|Hudson Soft|dev-unknown|Parental Guidance|media-unknown|controller-unknown|PCFX
+Tokimeki Card Paradise Koi no Royal Straight Flush|NOID|No CRC|x|0|1996|Board Games|region-unknown|Sonnet|dev-unknown|HSRS - AD (Adult)|media-unknown|controller-unknown|PCFX
+Tonari No Princess Rolfee|NOID|No CRC|x|0|1997|Adventure|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Tyoushin Heiki Zeroigar|NOID|No CRC|x|0|1997|Shooter|region-unknown|NEC Interchannel|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Voice Paradise|NOID|No CRC|x|0|1996|Miscellaneous|region-unknown|Ask Koudansha|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Voice Paradise|NOID|No CRC|x|0|1996|Miscellaneous|region-unknown|Ask Koudansha|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Wakusei-Koukitai Little Cats|NOID|No CRC|x|0|1996|Simulation|region-unknown|NEC Home Electronics|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Zoku Hatukoi Monogatari|NOID|No CRC|x|0|1996|Simulation|region-unknown|Tokuma Shoten Intermedia|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX
+Zoku Hatukoi Monogatari|NOID|No CRC|x|0|1996|Simulation|region-unknown|Tokuma Shoten Intermedia|dev-unknown|General Audience|media-unknown|controller-unknown|PCFX

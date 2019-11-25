@@ -1,0 +1,55 @@
+Indiana Jones is back! The great archaeologist and adventurer has to solve a grand mystery once again, aided by his trusty whip, his sharp wit, and his courage. A man who calls himself Mr. Smith is interested in a certain ancient statue. When the unsuspecting Indy hands it over to the client, he finds out that Mr. Smith is in fact a colonel in the Nazi army! Why was he so interested in that statue? A girl who had once worked together with Indy, the pretty red-haired (and a bit troublesome) Sophia, tells him the whole thing must have a connection with the legendary lost continent Atlantis. Gathering clues from all over the world, Indy and Sophia embark on their greatest journey!
+
+Fate of Atlantis is not a movie spin-off, but an independent adventure with a brand new story. The gameplay utilizes LucasArts' famous SCUMM system, with action verbs the player chooses from a menu; the objects that can be interacted with are highlighted. The game contains many puzzles of various kinds (mostly inventory-based) and dialogues with multiple choices. There are also a couple of hand-to-hand fights against the Nazis. The middle part of the game can be played in three "modes": co-operation (Indy and Sophia), adventure (Indy alone), and action (Indy alone, with less puzzles and more action). In each mode there are different locations to visit, different puzzles to solve, and different characters to meet.
+ 
+http://www.mobygames.com/game/amiga/indiana-jones-and-the-fate-of-atlantis
+_________________________
+CHEATS:
+
+On the title screen, type "NIGHTSHIFT" for infinite lives. Press 'F9' to skip levels.
+@END
+
+*
+24fc597d,cf19738c
+Indiana Jones and The Last Crusade: The Graphic Adventure
+Platform: Amiga
+Media: Floppy
+Controller: Mouse
+Genre: Adventure , Point and Click , Fictional
+Release Year: 1989
+Developer: Lucasfilm Games LLC
+Publisher: Softgold Computerspiele GmbH
+Players: 1 Player
+Disks: 1
+Conversions: atari_st c64 spectrum amstrad sega_16-bit sega_8-bit
+Hardware: OCS
+@END
+It is 1938 and adventurer Indiana Jones is joined by his father on this quest, preventing Adolf Hitler from capturing the Holy Grail. He will have to deal with Nazi guards, the Luftwaffe and enemy spies as he tries to stop the tyrannical Nazi leader.
+
+The Graphic Adventure uses the same SCUMM gameplay system as the previous Maniac Mansion. Most of the screen is used for a visual rendition of the current scene. At the bottom of the screen are words, which can be clicked on using the mouse to activate their functions. For example, objects can be picked up, used, pushed or pulled, and turned on and off. Most locations are from the movie, but some further scenes are added.
+
+In keeping with Indiana's action-man persona, the game also features pure action scenes. Unlike most Lucasfilm adventures, you can die.
+
+Two PC versions of the game were released, one with 16 color EGA graphics, and one with 256 color VGA graphics.
+ 
+http://www.mobygames.com/game/amiga/indiana-jones-and-the-last-crusade-the-graphic-adventure
+_________________________
+CHEATS:
+
+Enter iehovah at the title screen to enable
+cheat mode.  The screen will flash to confirm correct code entry.
+ Press one of the following keys during game play to activate
+the corresponding cheat function.
+
+
+
+Effect
+Key
+
+Level skipL
+
+First part of current level1
+
+Second part of current level2
+
+Get iconI

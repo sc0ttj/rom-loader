@@ -1,0 +1,17 @@
+You play a computer game programmer (Captain Blood) who finds himself trapped in one of his own computer games.  Worse yet, you've been cloned.  Each of your five clones has made off with a quantity of your bodily fluids and is hiding out on a planet somewhere in the galaxy.  Because of your depleted bodily fluids, you're gradually turning into a machine.  You need to find and assimilate those clones before the transformation is complete.
+ 
+http://www.mobygames.com/game/amiga/captain-blood
+
+Based on 1988 Ere Informatique/Infogrames Atari ST release.
+
+Game scenario by Philippe Ulrich. Original 68K code by Didier Bouchon; Amiga adaptation by Sylvain Tintillier. Titlescreen music is based on Jean-Michel Jarre's "Ethnicolor".
+
+CAPTAIN BLOOD was the first Amiga game released on Ere's Exxos label.
+
+The U.S. release only contains a synopsis of the short story included in the European game manual.
+
+http://hol.abime.net/2924
+_________________________
+CHEATS:
+
+Coordinates for all nearby aliens: Locate a friendly alien, and use the icons to ask it "CODE GG1". The alien will reply with coordinates of another alien named "GG". Go to the specified planet and ask GG for the coordinates of all nearby aliens by asking "CODE INFORMATION HELP". Alternatively, replace "HELP" with the name of an alien.

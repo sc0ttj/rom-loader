@@ -1,0 +1,14 @@
+Dino Land is a Pinball game, developed and published by Wolf Team, which was released in Japan in 1991. 
+
+Hints:
+
+- Color Test -
+When the wolfteam logo appears press A + B + C
+
+- Level Select -
+To execute level select, pause the game and press Down, Up, Down, Down, Down, Down, Down, Down, then simultaneously hit the b button and start. When the game restarts, hit the A button to move ahead.
+
+- Morph Anytime -
+Pause the game and press Up, Down, Up x 6, Up, Down, Up x 6. Hold B and press Start to resume play and then press B to switch forms.
+
+http://www.gamefaqs.com/console/genesis/data/586140.html

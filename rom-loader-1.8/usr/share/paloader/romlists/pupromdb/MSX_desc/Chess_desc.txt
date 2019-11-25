@@ -1,0 +1,9 @@
+Play against the computer on twelve different levels. During the game you can take back a move, save and load the game status, set up or change of position, change level or even switch sides! The moves of the computer become more complex with each level.
+The ancient game of chess is recreated here, with all the traditional rules and game concepts. The game is in 2D, as the programmers felt this was the most effective use of available memory. Controls involve moving a pointer over the square to move a piece from, pressing space, then moving to the destination square and pressing space again. You can set the amount of time players (human and computer) have to plan moves, although an over-ride option to force a move instantly also exists. You can save and reload games, and at any point can move pieces either from current settings or from scratch, to completely customise the game or play out classic positions.
+
+http://www.mobygames.com/game/msx/master-chess
+No synopsis information for this game. If you can supply more information on this game go to http://www.emuxtras.net
+Kenpelen Chess is a computer chess game with a top-down view but with a 3D-feel. It includes various boards and play options. You can choose to play at one of the seven different difficulty levels. Chess can be played against the computer or a friend.
+All pieces are animated when moved.
+ 
+http://www.mobygames.com/game/msx/kenpelen-chess

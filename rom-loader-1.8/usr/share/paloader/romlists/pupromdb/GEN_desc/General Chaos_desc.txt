@@ -1,0 +1,67 @@
+Armchair generals, unite! GENERAL CHAOS for the Sega Genesis gives you the opportunity to run your own war from the comfort of your home. Choose your virtual leader, either General Chaos or General Havoc, and get ready to exhibit your military mastery. There are more than 50 battlefields to fight on, and four different squads to choose from: the Assault Team, the Commandos, the Demolition Squad, and the Brute Force Troop. Once you make your way from the war room to the battlefield, you'll engage in brutal hand-to-hand combat that will determine the superior army. You'll find five distinct weapon types at your disposal, flame throwers, machine guns, bazookas, grenades, and dynamite, that can mean the difference between raising your army's flag in victory and waving the white flag of surrender.
+
+(This overview came from the original Genesis General Chaos game box.)
+
+Directions:
+
+The object of the game is simple. Try to destroy the opposing army and take over their base. As you win battles, you will move toward the enemy's base. If you lose battles, the enemy and you will be moving toward your own base.
+
+Armies are made up of five, four, or in rare cases two men. When the game starts, if you are General Chaos you will get to pick which area to fight in. And it's off to battle! In a normal army of five men, the "A" button will command all men to fire, the "B" button will send the highlighted character to where the cursor is pointing, and the "C" button changes the highlighted character. The control pad will move the cursor so you can move your armies.
+
+If you pick a commando team, you will be in control of two men instead of five. I recommend only fighting in commandos when you are playing with someone else that will be on your team. That way you can have a team of four, with each person controlling two men. If you try to fly solo with a commando, it will be two on five and it will be tough to win. If you're looking for a challenge, then go for it! The advantage of commandos is that when you move the control pad it actually controls a man instead of just a cursor, so you are more free to go where you need to go. In this case, "A" still fires both men, "B" calls the man you are not controlling to the man you are controlling, and "C" switches control between the two men.
+
+If your men are injured you have a limited amount of medics you can use to heal them. Be careful not to use all your medics in one battle or you won't be able to use any in later battles. Check the stats screen at the end of a battle to see how many you have. Move the cursor over the injured man and press "A" to call a medic. If you're in a commando unit, you have to get the other uninjured man to go to the injured man and press "A".
+
+Close Combat -
+If you get in close combat with someone "A" will punch, "B" will kick, and "C" will block. Use the control pad to pick the direction of a punch or kick. 
+
+Gameplay:
+
+The game is a quick and dirty battle (or a longer campaign mode that is a series of battles fought over a dynamic strategic map) between two generals, "General Chaos" and "General Havoc". The objective of the game is to capture the enemy's capital city.
+
+Each player has to pick one of 4 teams, 3 of which have 5 soldiers (with differing selections weapons), while one has 2 "commandos" and uses a different control system giving greater control.
+
+The player views the action from an isometric perspective, watching cartoony soldiers duke it out on the battlefield. The game features a balance between action and strategy. For instance, whenever two soldiers on opposite sides get close enough, close combat will ensue. The soldiers can punch, kick, or block the attack. If one of the player's men loses all his health points, he will fall down on the ground. To help the fallen soldier, the player must move the cursor, or another soldier in the case of the commandos, close to the injured soldier and call out for a medic to revive him. However, there is a limit on the number of times that a medic may be called. There are also many items that yield points on the battlefield to pick up.
+
+With a multiplayer adapter (or appropriate settings in the emulator), up to four people can play simultaneously against the computer in campaign mode where each battle is more difficult than the last. The player can also fight other human players without co-operation. Another feature of the game is the tutorial mode. Called "boot camp", this mode explains all the basics of gameplay and user interface in a clear-cut manner.
+
+The director of Hogan's Heroes TV series filed a lawsuit in 1994 based on some of the quotations used in the game. "HOGAN!!!", Col. Klink's infamous line, was used when a soldier was flame broiled on the battlefield. The suit flopped a few months later and EA recovered the blow.
+
+- Classes -
+
+Gunner: The well-rounded unit of the game with a high rate of fire though his gun might jam. It is used primarily for attacking.
+
+Launcher: While the game lacks a "sniper" character, the launcher serves essentially the same purpose with powerful long range attacks and a low rate of fire. Attack may randomly result in an "instant death" of an opposing combatant (reduced to a skeleton and therefore can't call a medic). Can destroy bonus objective targets.
+
+Chucker: Grenades are the primary weapon of this class. They have a low rate of fire but the explosions they cause can damage multiple units. Can destroy bonus objective targets.
+
+Scorcher: Possibly the most dangerous unit in the game, these soldiers use a close-range rapid firing flame thrower to do damage. Once a scorcher is on top of another unit, it is very difficult to survive. Because of this capability, they make excellent flanking and escort units. Attack may randomly result in an "instant death" of an opposing combatant (reduced to a pile of ash and therefore can't call a medic).
+
+Blaster: Considered the weakest unit in the game, the Blaster is similar to the Chucker. Instead of using grenades, they throw dynamite. However, they have an extremely slow rate of fire and a low range, so they are not as useful. Can destroy bonus objective targets.
+
+Controls:
+
+A Button: Fire
+B Button: Move/call man
+C Button: Select man
+Start Button: Pause 
+
+Hints:
+
+- Secret Mode -
+To access the game's secret mode, plug in both controllers. Pause the game and hold down buttons A and B on controller 1, and button C on controller 2.
+
+Once this code has been registered, you can go to the next battle, war or get maximum medics as follows.
+
+To execute battle advance, hold down buttons a, c and press up on controller 1, and button b on controller 2.
+
+To execute war advance, hold down buttons a, c and press down on controller 1 and press the b button on controller 2.
+
+To get Maximum Medics, press buttons a and c on controller 1 and button b on controller 2.
+
+- Pause Cheat -
+After you have your units to attack, pause the game. Any weapons in the air (i.e. rocket, grenade, TNT) will continue to move while the men on the field remain frozen. Any weapons that hit will damage and possibly kill their targets while the game is still paused. 
+
+http://www.consoleclassix.com/genesis/general_chaos.html
+http://en.wikipedia.org/wiki/General_Chaos
+http://www.gamefaqs.com/console/genesis/code/586206.html

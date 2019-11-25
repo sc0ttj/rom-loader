@@ -1,0 +1,36 @@
+Mission: Destroy Satellite Links!
+
+Your once-peaceful nation has been under siege by General Zorbia and his incredibly powerful armed forces from Halvary. They've advanced relentlessly, and you and your countrymen are standing with your backs to the wall - waiting for the inevitable final strike!
+
+According to the latest intelligence reports, the enemy is planning to strike the fatal blow with some outside help. Strong evidence exists that there will be a communiqu? sent by Halvary HQ to the allied forces waiting somewhere along the NESW ( Northeast /Southwest) communications network. Could things get any worse?
+
+Actually, there's some good news to tell. In addition to the report regarding the communiqu?, the intelligence organization has also been able to approximate the locations of 2 enemy microwave stations in the NESW network! These stations pass radio signals along with the help of signal-boosting equipment. If these locations are put out of commission the enemy will be unable to signal for help and will virtually be at your mercy!
+
+You're the pilot of the "Skycat", an F-14XX fighter that is widely regarded as the baddest bird ever to darken the skies! You're waiting nervously for your orders aboard the carrier Sega Enterprise, stationed some 200 miles (320 km) offshore in international waters. Your mission is to destroy the 2 locations' antennas and signal booster complexes, and return to the carrier. Your super-sophisticated battle computer knows the course, and will guide you directly to your targets. Whether or not you reach them in one piece, though, is entirely up to you! Good luck!
+
+--From the Genesis After Burner 2 instruction manual.
+
+Overview:
+
+You're a pilot of a plane that continuously shoots its machine guns, destroying anything in the path of its cross hairs, and uses missiles to target enemies from afar. Every so many levels you'll refuel and gain more missiles. Eliminate as many enemies level by level, as scenery changes, to gain the high score.
+
+Directions:
+
+At a continuous pace, dodge enemy planes as your machine gun is constantly fired to take them down. Use missiles to destroy oncoming planes and use maneuvers in the sky to protect yourself! Go through many levels of non-stop action.
+
+Controls:
+
+A Button: Speed Up Plane
+B Button: Launch Missile At Target
+C Button: Slow Plane Down
+Start Button: Select Option/Pause
+
+Hints:
+
+Free Continue
+Press Left, Left, Left, B, B, B, C, C, C, and Start at the title screen
+
+Level Select
+To select a level up to level 21, press and hold A, B, and C and press Start twice. 
+
+http://www.consoleclassix.com/genesis/after_burner_2.html

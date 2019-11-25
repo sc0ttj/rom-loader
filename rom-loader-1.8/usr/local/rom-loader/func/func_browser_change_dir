@@ -1,0 +1,26 @@
+#!/bin/sh
+
+# this  func is used to determine whether or not to cd into a dir 
+# and load up it contents or whether we try to execute the file
+
+set -a 
+
+browser_change_dir (){
+	#double-click in file-browser
+	if [ "$CHOOSER" != ".." ]; then
+		TMP="`find \"$DIR$CHOOSER\" -maxdepth 1 -type d -follow`" > /dev/null 2>&1 #check if hit is directory
+		if [ "$TMP" ];then
+			DIR="`echo \"$DIR$CHOOSER\" | sed -e \"s%//%/%g\"`"
+			rm $WORKDIR/ls_${SELF} &>/dev/null #remove the pre-built romlist, cos we're possibly changing dirs
+			build_chooser_list
+			write_config #do this here, so we are up to date with the last used dir
+		else #it's a file - execute
+			popup_menu
+			###execute
+		fi
+	else #go one level up in file structure (same as cd..)
+		rm $WORKDIR/ls_${SELF} &>/dev/null #remove the pre-built romlist, cos we ARE changing dirs
+		DIR="`dirname \"$DIR\"`/"
+		build_chooser_list
+	fi
+}

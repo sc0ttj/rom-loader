@@ -1,0 +1,3 @@
+Xyxolog is a nice little ball game developed by Taito. In this top view game the main screen is divided into small areas that have varying levels of elevation with obstacles placed on them. Each area contains one or more flashing red points. Your goal is to roll the ball over the flashing points and if you do that point will stop flashing. You will enter the next level when all points have been rolled over. But beware, you are pursuit by star shaped objects and if they touch you it's game over...
+
+http://www.mobygames.com/game/msx/xyzolog

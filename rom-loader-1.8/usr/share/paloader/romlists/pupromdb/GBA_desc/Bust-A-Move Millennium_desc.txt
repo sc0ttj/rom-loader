@@ -1,0 +1,22 @@
+An exclusive version of the puzzle franchise on the handheld includes all the fun of the original Bust-A-Move along with varying playfield sizes; story, puzzle and versus modes; and the ability to play against a friend in 2 player versus.
+
+Other modes include endless mode (play as long as you want), and a challenge mode where you must complete puzzles perfectly in order to move on.
+
+http://www.mobygames.com/game/gameboy-color/bust-a-move-millennium
+*
+********************************************** C **********************************************
+*
+351ba5ea
+Caesars Palace II
+Platform: Gameboy Color
+Region: USA
+Media: Cartridge
+Controller: Gameboy Color
+Genre: Casino
+Release Year: 1999
+Developer: Runecraft
+Publisher: Interplay
+@END
+Caesars Palace II is a Casino game, developed by Runecraft and published by Interplay, which was released in 1999.
+
+http://www.gamefaqs.com/portable/gbcolor/home/575439.html

@@ -1,0 +1,3 @@
+Gambling game where you bet on wallaby races.
+
+http://www.pcengine.co.uk/HTML_Games/Wallaby.htm

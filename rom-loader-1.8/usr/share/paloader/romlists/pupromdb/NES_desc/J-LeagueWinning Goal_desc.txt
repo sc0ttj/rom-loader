@@ -1,0 +1,6 @@
+This is a complete translation patch for the soccer/football game.
+
+http://www.romhacking.net/trans/1363/
+J-League Winning Goal is a Soccer Sim game, developed by GRC and published by Electronic Arts Victor, which was released in Japan in 1994.
+
+http://www.gamefaqs.com/console/nes/home/570741.html

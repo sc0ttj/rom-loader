@@ -1,0 +1,21 @@
+It's a Final Fantasy game! Final Fantasy 2 has all the things you've come to expect from the series - music, plot, pretty well-done character designs.. What's not to like? Well, I'll tell you. The experience/level system is done away with in FF2, and replaced with a SaGa-like system in which your character only improves in the skills that you actually use. Granted, it's very different, and you'll either like it or hate it. I really couldn't stand it the first time I played the game, but now I actually kind of like it, although it makes the game drag on a LOT in places. Of course, FF2 has numerous things that can be exploited, allowing for all kinds of cheating (some prefer the term "time-savers") to take place.. such as making an attack and then cancelling it, attacking your own teammates to raise their HP, and.. Well I can't think of anything else. Anyway, if you like this sort of thing, by all means try it out, since it is definitely a good game.
+
+Translation Description - 
+Apparently this translation takes great liberties in terms of dialogue; I'm not sure of course, it's just what I've heard from various people. Regardless, it's in English, and I certainly don't mind what's done with it, as long as the "spirit" is preserved.
+
+And anyone who tells you that the new intro isn't cool is just plain wrong.
+
+Reviewer - Spinner 8
+http://www.romhacking.net/trans/139/
+This is an extensive improvement hack that seriously tries to take the 'wasted potential' the author saw in the game and bring it to life to make the game more appealing to all. This was accomplished mainly by balancing all aspects of the gameplay.
+
+This patch is based on Neo Demiforce's FF2j translation.
+
+The following are just SOME of the changes that were made. (See the Readme for the rest) - 
+- Changed font
+- Revised difficulty ramp to be more balanced
+- Spells were made to be much strong and some were renamed
+- Complete overhaul of monster stats
+- Weapon system was revised to be more balanced and more appealing
+
+http://www.romhacking.net/hacks/69/

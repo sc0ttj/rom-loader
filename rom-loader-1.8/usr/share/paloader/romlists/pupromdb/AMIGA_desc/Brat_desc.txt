@@ -1,0 +1,17 @@
+In Brat you must guide a baby, Nathan, through levels with features such as dynamite, bridges and holes. You do this indirectly, by specifying which direction he goes in, in a manner vaguely similar to Lemmings. You also tell him when to use objects in a simplistic manner similar to the Dizzy games.
+
+The game combines reactions and planning in quite an original way. The character himself isn't at all cutesy, as the title implies, and that may affect your perception of the game.
+ 
+http://www.mobygames.com/game/amiga/brat
+_________________________
+CHEATS:
+
+If you hold down "1./*" (OR "1,/*") during play you can skip
+levels.  Here are the level codes:
+
+           LEVEL 01-----------         LEVEL 07-"MOZIMATO"
+           LEVEL 02-"MIHEMOTO"         LEVEL 08-"HOZITOMO"
+           LEVEL 03-"SASUTOZO"         LEVEL 09-"MOKITEMO"
+           LEVEL 04-"SUMATZEE"         LEVEL 10-"ZUMOHATO"
+           LEVEL 05-"NOKITAGO"         LEVEL 11-"CHANASTU"
+           LEVEL 06-"ITSANONO"         LEVEL 12-"NAGAITSU"

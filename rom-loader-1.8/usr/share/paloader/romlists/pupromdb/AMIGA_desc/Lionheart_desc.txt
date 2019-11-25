@@ -1,0 +1,30 @@
+As Valdyn aka "Lionheart", you will have to travel deep into the territory of your king's enemy to retrieve a stolen holy relic which happens to be named "Lionheart" as well.
+
+The game itself is a platform/hack'n'slay affair, similar to Rastan. You proceed through the world that is scrolling in all directions and cut everything to pieces with your trusty sword that is cocky enough to come close to you.
+ 
+http://www.mobygames.com/game/amiga/lionheart
+_________________________
+CHEATS:
+
+Pull down on the joystick then press 'P' to pause the game while
+still in the crouched position.  Next press and hold 'CTRL' and
+press 'HELP'.  This will give you infinite lives.
+
+Use the following keys:
+
+'F1-F10'_______________________________________Level select.
+'1-5'_____________________________________More level select.
+'RETURN'___________________________________Shake the ground.
+'S'_____________________________________________Plays sound.
+'UP CURSOR KEY'_______________________________Sound minus 1.
+'DOWN CURSOR KEY'______________________________Sound plus 1.
+'D'_____________________________________________________Die.
+'HELP'___________________Toggle one and two button joystick.
+'M'____________________________________________Toggle sound.
+'SPACE'_____________________________________Not really sure.
+'CTRL'______________________Invincibility and free movement.
+
+When you use the bottom 'CTRL' key, you can move the guy anywhere
+using the mouse.  When you have him in the desired position press
+'CTRL' again to release him.  The right mouse button also acts as a
+pause.

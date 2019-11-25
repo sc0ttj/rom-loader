@@ -1,0 +1,12 @@
+Unlicensed PC Engine release by Games Express. AV Poker is not a full poker simulator, but a simple gambling game. You choose from Normal, which is a standard game or Special Mode, where you travel around the world to show off your gambling skills. The poker part of the game is extremely simple. You place a bet, get a hand dealt to you, choose which cards to hold, and get a second deal to fill in the discards. If you match any of the standard poker hands, you win. You then get the options of taking the cash or playing a higher-lower game to increase your winnings significantly. Occasionally, you also get a fruit machine style mini-game which gives you the chance of winning 'special' cards that can be used during the game.
+
+COMMENT:
+
+The problem with AV Poker is its simplicity. There are no players to play against, no bluffing, none of the usual poker thrills. It's just a case of bet, get lucky (or not) and bet again. This makes the game extremely tedious in the long run and even the added mini-games are not interesting enough to keep you playing. And of course, because this is by Games Express, there are the obligatory images of women in various stages of undress - but you will get bored long before you get that far. 
+
+HINTS:
+
+- debug mode -
+On the title screen, push UP, DOWN, I, II, LEFT, RIGHT, SELECT and RUN to access the debug mode. This gives you various options, including sound test and the ability to see the girly pictures without all the tedium of actually playing the game.
+
+http://www.pcengine.co.uk/HTML_Games/AV_Poker.htm

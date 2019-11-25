@@ -1,0 +1,13 @@
+Alien Crush is an alien-themed video pinball game. The graphics feature strong similarities to the art from the "Alien" movies, and everything has a dark and sinister look.
+
+The main table is two screens high. There are at least 3 bonus games that are accessible from the top screen. Bonus games consist of knocking out moving targets on a separate single-screen bonus table. The main table also has numerous moving targets and ball locks.
+
+HINTS:
+
+- View score during gameplay -
+Press select while pausing.
+
+- 1 Million Points + Bonus Ball -
+Get to the bonus round with skulls and green aliens. Kill everything except for one skull. Keep going until a pteradactyl appears. Hit the pteradactyl with the ball to get a million points and a bonus ball once the stage is cleared.
+
+http://www.mobygames.com/game/turbo-grafx/alien-crush

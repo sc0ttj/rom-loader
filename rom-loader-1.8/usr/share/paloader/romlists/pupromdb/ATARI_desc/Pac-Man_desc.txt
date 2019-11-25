@@ -1,0 +1,76 @@
+Based on the 1983 Bally Midway coin-op. A phenomenal conversion of the coin-op game. It figures that one of the best games for the 5200 is only available as a prototype.
+ 
+Released for 8-bit by Glenn the 5200 man in xex format.
+
+http://www.gamefaqs.com/console/a5200/home/585310.html
+In 1982, Midway and Namco created a sequel to the incredibly popular Pac-Man in the form of his girlfriend, Ms. Pac-Man. This sequel continued on the "eat the dots/avoid the ghosts" gameplay of the original game, but added new features to keep the title fresh.
+
+Like her boyfriend, Ms. Pac-Man attempts to clear four various and challenging mazes filled with dots and ever-moving bouncing fruit while avoiding Inky, Blinky, Pinky and Sue, each with their own personalities and tactics. One touch from any of these ghosts means a loss of life for Ms. Pac-Man.
+
+Ms. Pac-Man can turn the tables on her pursuers by eating one of the four Energizers located within the maze. During this time, the ghosts turn blue, and Ms. Pac-Man can eat them for bonus points (ranging from 200, 400, 800 and 1600, progressively). The Energizer power only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Ms. Pac-Man again.
+
+Survive a few rounds of gameplay, and the player will be treated to humorous intermissions showing the growing romantic relationship between Pac-Man and Ms. Pac-Man, leading all the way up to the arrival of "Junior".
+
+Hints:
+
+1. Learn the ghost's characters and learn to use them to youradvantage.
+
+2. Learn to group in you own ways. If you learn your own ways you knowhow to use them.
+
+3. Develope methods that will aid you once you have a group.
+
+4. Eat all four ghosts on every energizer. It is hard to clear verymany mazes past 25.
+
+5. Don't get a "cruise elroy" until you have eaten all of theenergizers.
+
+6. Be real patient. These techniques take a long time.
+
+7. Points are hard to come by later in the game. Get all the pointspossible early in the game.
+
+8. Remember when you make a bad move the situation will probably showup again.
+
+9. Never take your hands off the joystick even in the worstsituations. You may run through the ghost.
+
+http://www.mobygames.com/game/atari-5200/ms-pac-man
+One of the most popular and influential games of the 1980's, Pac-Man stars a little, yellow dot-muncher who works his way around to clear a maze of the various dots and fruit which inhabit the board.
+
+Pac-Man's goal is continually challenged by four ghosts: The shy blue ghost Bashful (Inky), the trailing red ghost Shadow (Blinky), the fast pink ghost Speedy (Pinky), and the forgetful orange ghost Pokey (Clyde). One touch from any of these ghosts means a loss of life for Pac-Man.
+
+Pac-Man can turn the tables on his pursuers by eating of the four Energizers located within the maze. During this time, the ghosts turn blue, and Pac-Man can eat them for bonus points. This only lasts for a limited amount of time, as the ghost's eyes float back to their center box, and regenerate to chase after Pac-Man again.
+
+Survive a few rounds of gameplay, and be treated to humorous intermissions between Pac-Man and the ghosts.
+
+Based on the 1980 Namco coin-op. The original arcade game was designed by Toru Iwatani, modeled after a pizza with a slice taken out. Pac-Man is the videogame industries' first animated main character. This version includes the arcade intermissions. The Galaxian bonus item in the arcade version has been replaced with an Atari logo.
+ 
+The 8-bit cassette version has more arcade like sound.
+
+The 8-bit cart version is missing the commercials.
+
+http://www.mobygames.com/game/atari-5200/pac-man
+Based on the 1982 arcade game of the same name, Super Pac-Man has always been considered to be the red-headed stepchild of the Pac-Man family.  This is because Super Pac-Man's gameplay is quite different from the other Pac-Man titles, and doesn't appeal to all tastes (mostly Pac-Man purists). 
+
+The first and most notable difference is the fact that you're not after dots as in other Pac-Man games.  Instead Super Pac has decided to go the healthy route and munch on fruits and veggies instead (and the occasional donut).  Thankfully these goodies are quite a bit bigger than your average dot, so there are less of them to munch.  In addition to fruits and veggies, Super Pac can also munch keys which are scattered throughout the board.  These keys aren't only tasty (mmm... metal....) but can also open doors.  This is a good thing considering many of the goodies are hidden behind these locked doors.
+
+At this point you're probably wondering what makes Pac-Man so super in this game.  The answer is hidden in those large power pellets in the middle of the screen.  For it is these super power pellets that allow boring old regular Pac-Man to become Super Pac-Man: Killer of men, destroyer of worlds! (ok so I made that part up).  But what Super Pac-Man may lack in cool super powers (super strength, x-ray vision, invisibility, etc.) he makes up for with his super size, speed, and razor sharp mouth.
+
+Once you become Super Pac-Man the gameplay changes dramatically.  Not only are you invincible (you can fly over ghost monsters unless you've eaten a regular power pellet), but you can chew through those annoying doors that get in your way.  You can also move at super speed by pressing the fire button, and this is quite handy given that you only have a limited amount of time before you revert back into regular Pac-Man  Wise use of Super Pac-Man's super speed can make clearing the boards a breeze.
+
+As in all the Pac-Man games, to successful clear a board you must eat all the fruits/veggies, power pellets, and grab all the keys.  However instead of the bonus items bouncing around the board, Super Pac-Man adds a slight twist to the original bonus formula.  This time around Pac-Man is a gambling man and with a little luck you can help him score some big bonus points.  After clearing approximately half of the screen a bonus item will appear between two changing symbols, and if Pac-Man grabs the item while the symbols match he'll score big points.  However the bonus items will only remain on the screen for a limited amount of time so you'll have to be quick to cash in on Super Pac's gambling addiction.  Every few rounds Super Pac-Man is given another chance to earn big points with a fast Pace bonus round.  During these rounds you have a few seconds to clear the entire screen, but this time there are no ghost monsters to deal with and your Super Pac-Man time is unlimited.
+
+Amazingly the Atari 5200 is able to reproduce the arcade version brilliantly.  Everything from the screen ratio to the intermissions are arcade perfect.  The only minor problems are with the slightly washed out colors and some touchy control issues (which is to be expected with the 5200 controller).  According to Landon there may is a rare bug in the early prototype involoving the keys and doors (all the doors may not open), but I have yet to encounter this problem.
+
+Due to the rampant piracy and leaked prototypes that plagued Atari 8-bit games, Landon Dyer cleverly added copy protection to his code.  If someone attempted to copy his code and modify it boot from a disk (which happened to several 8-bit prototypes), the game would not work.  This was due to the game checking the checksum of the EPROM and matching it to the known correct value (something a disk hack wouldn't have).  Unfortunately this copy protection also prevented Super Pac-Man from functioning properly on several well known multi-carts that were sold in the late 90's.  Landon also put 'switch' in the code which detected which type of system it was being played on (Atari 8-bit or 5200), so it is possible to take the same code and play it on both systems without modification.  Landon was definitely ahead of his time...
+
+So why was this spot on arcade conversion never released?  Well according to Landon, Atari was never really hot on the title but since they had a license for it they decided to make the game anyway.  Super Pac-Man was essentially complete and ready to ship when Atari was sold to the Tramiels.  The Tramiels saw that the game market was waning and killed off almost all game development (including Super Pac-Man).  So once again the public was denied another great arcade game (see Sinistar, Elevator Action, Crystal Castles, etc.).  Such was life under the Tramiels...
+
+http://www.atariprotos.com/5200/software/superpac/superpac.htm
+This version has more arcade like sound and commercials.
+ 
+Based on the 1980 Namco coin-op. The original arcade game was designed by Toru Iwatani, modeled after a pizza with a slice taken out. Pac-Man is the videogame industries' first animated main character. This version includes the arcade intermissions. The Galaxian bonus item in the arcade version has been replaced with an Atari logo.
+
+The 8-bit cart version is missing the commercials.
+This version is missing the commercials.
+ 
+Based on the 1980 Namco coin-op. The original arcade game was designed by Toru Iwatani, modeled after a pizza with a slice taken out. Pac-Man is the videogame industries' first animated main character. This version includes the arcade intermissions. The Galaxian bonus item in the arcade version has been replaced with an Atari logo.
+
+The 8-bit cassette version has more arcade like sound.

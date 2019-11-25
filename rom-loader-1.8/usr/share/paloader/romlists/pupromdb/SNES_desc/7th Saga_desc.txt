@@ -1,0 +1,32 @@
+7th Saga was a challenging and original RPG for SNES, but suffered from ridiculous difficulty and tedious level grinding. This hack attempts to address the difficulty so that the game is challenging without being frustrating, and to add a few fun elements to expand the strategy. Equipment and attack spells have been powered-up. Some enemies have been given elemental weaknesses, and a new spell has been introduced.
+
+http://www.romhacking.net/hacks/421/
+7th Saga is a SNES jRPG notorious for its unforgiving difficulty in that monsters are brutally difficult and the heroes' stats don't rise particularly generously with their levels. It is not widely known, however, that 7th Saga is the localized version of Elnard, the Japanese incarnation of this game which is much, much easier by comparison. This IPS patch restores the monster stats of Elnard to the US 7th Saga and also modifies the mechanics of player leveling such that the player will now gain stats as he or she would in Elnard, making the game's difficulty level much more reasonable. Additionally, confrontations with the rival apprentices in this game are now properly balanced, an oversight in the localized version.
+
+http://romhacking.net/hacks/264/
+This is a simple hack that allows you to race on tracks that would otherwise be available in Grandprix only. All 15 tracks are available without the full grid. Best times work as normal.
+
+http://www.romhacking.net/hacks/278/
+The player chooses one of seven playable characters, all of whom separately embark on a quest to locate seven magical runes. As the player progresses through the game from one town to the next, they will encounter the other six characters on multiple occasions. The player may partner with one of the other playable characters to fight as a team, and they may also fight against other playable characters for the runes.
+
+Notable unique innovations include the use of a crystal ball "radar" that allows players to see enemies approaching their character in dungeons and in the overworld. This means that combat is not totally random, as players may theoretically avoid enemies (although enemies move extremely quickly and randomly, making combat difficult to avoid). The game also uses Mode 7 graphic effects to create the transition between exploration screen and battle screen.
+
+The game is particularly known for its unforgiving difficulty, considering that you might spend a great deal of time leveling up to advance in the game.
+
+Story:
+
+The game takes place on a world called Ticondera. 5000 years ago, a divine being named Saro defeated an evil entity named Gorsia with the power of seven runes. In the years since then, the runes have been scattered across the globe. Lemele, the son of Saro, was born 100 years ago, and became a hero when he defeated the demon Gariso. Now 100 years old, Lemele has become the benevolent and powerful ruler of the world.
+
+The seven characters are recruited from various walks of life and corners of the globe by the elderly King Lemele. After 5 years of training at his palace, Lemele dispatches his seven apprentices in a quest for the seven runes. Each rune possesses a great power that can be used by the person who wields it. The one who collects all seven runes will become Lemele's heir. To find the runes, the king gives each character a Crystal Ball to assist them in their search.
+
+Retrieving the runes means confronting the various powerful tyrants who have come into their possession, including wizards, kings, and dragons. The apprentices are also being hunted by a persistent bounty hunter named Pison, who has been hired by one of the apprentices to eliminate the rest (the identity of the "traitor" apprentice is randomized with each new game).
+
+After defeating a resurrected Gariso and collecting all seven runes, the player is confronted by Lemele, who reveals that he is actually Gorsia. Gorsia traveled to the present from 5000 years in the past, killed Lemele and took his identity, then recruited the seven apprentices to locate the runes for him. The power each rune contains is actually a trapped portion of Gorsia's power. Gorsia destroys the runes, re-absorbs his lost power, and zaps the player with lightning, sending them to a strange, unfamiliar world which turns out to be Ticondera 5000 years in the past.
+
+After passing through several towns, the player eventually ends up in the technologically advanced city of Melenam, which was originally explored as ruins by the player early in the game. Melenam is revealed to be the orign of the Tetsujin robots, and the player witnesses the destruction of the city at the hands of a rogue super-Tetsujin created by the city's scientists for the purposes of fighting Gorsia.
+
+The player eventually learns that although Saro had recently defeated Gorsia, Gorsia has returned from the future and fatally wounded Saro. Saro's disciples give the player the seven runes, which the player uses to seal Gorsia's powers and eventually defeat the evil being.
+
+The dying Gorsia kills the player in one last act of revenge, but 4900 years later Saro reincarnates the player's soul as a young baby and Saro's son: none other than Lemele.
+
+http://en.wikipedia.org/wiki/The_7th_Saga

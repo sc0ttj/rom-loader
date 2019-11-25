@@ -1,0 +1,4 @@
+Cannon Bubble is a Puzzle Bobble clone with a pirate theme. As a pirate apprentice, takes control of a cannon and has to earn his captain's respect by defeating the evil Captain Blackbeard. To do so he has to complete all the 30 levels of the game. Each level has a number of cannon balls in different colors spread out over the playfield. The goal is to clear the playfield from cannon balls by launching more cannon balls so that groups of three or more cannon balls are created. These cannon balls will then disappear. In addition to the regular cannon balls, there is bombs that makes all balls in their surroundings disappear upon explosion, and skull which eliminate all balls of a certain color. The game can be played in single player, or in multi player against one other player. 
+
+
+http://www.mobygames.com/game/zx-spectrum/cannon-bubble

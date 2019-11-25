@@ -1,0 +1,23 @@
+You are now the proud owner of the one and only REAL darts game around.  180 has 8 different opponents waiting to take you on, in a two player option for when your friends want to join in and a practise game to help you win when they do!  Against the computer you'll play in a Championship knockout (coming in at quarter final stage) and to carry off the tournaments you have to beat three opponents.  The game selects who you'll play and in what order at random each time so that every game is different.  Regardless of which of th e8 characters appear and when, they will get better as you progress towards the final.  Each of the players has his own style of play, with "favourite" doubles and finishing technique.  Working this out early in a match can often help you win through.
+
+The practice game, which we suggest you try out first, is there to help you become more skilful at throwing the darts.  There is (very) little luck in 180.  To win you need to have a good eye and complete mastery of the throw.  Practice is against the clock.  You have to hit each number in sequence, from 20 down to 1, in a limited time.  Easy it is not, but it is a lot of fun and it will develop your skills for the big match!
+
+[From the box back]
+Electronic Fun ? January, 1983
+
+Imagine this commercial...
+
+"Pushing a Federation jeep through the galaxy is hard work! Dodging meteors, zapping aliens and bringing the cargo home are all part of the job. At day's end, it's time to reward yourself with a trip to the local pub. It's mellow time-time to slosh through gallons of ale and enjoy good conversation and a game of..."
+
+Darts, by Thorn EMI, is something you play when you want to recover from space games. It's not one of those wonderful paranoid adrenalin-drenching, heart-thumping games. It's relaxing. It's also absorbing and intriguing. It's like - well - it's like a game of darts.
+
+Perhaps darts translate into a computer game so well because it is such an idler's pastime. The game's graphic display helps the illusion. The screen shows a young man (posterior view) standing in a British pub (complete with genuine fake tudor beams). The man, his hand poised to throw, faces a dart board. A graphic inset shows the dart board and a hand. Move the joystick and the hand moves in a similar direction. Pressing the fire button releases the dart.
+
+The game has been played over and over in my household. When two or more people have a go at it, we prefer to leave the computer out of the game. This makes it easier for a human to win. Going one on one with the computer doesn't have to be demoralizing. Just set the computer's skill level at six or above. It's kind of fun to see the computer's hand tremble.
+Step up to the oche and enjoy all the fun of competition darts with this program that includes three dart games for the price of one.
+
+A choice of these popular games; 501, Round the Board and Cricket are available in this package.
+
+Loading instructions: 
+- type CLOAD 
+- type RUN.

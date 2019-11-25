@@ -1,0 +1,5 @@
+Translation Description:
+
+As usual, this is a "dual-language" patch, meaning that it supports both Japanese and English. It's also got "remixed" music. See the included readme file for more details. Enjoy!
+
+http://www.romhacking.net/trans/1173/

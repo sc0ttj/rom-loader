@@ -1,0 +1,3 @@
+Conversion of Sega's arcade scrolling shuriken 'em up. Work your way through various missions, dispatching enemies with your throwing stars, or sword at close range. One hit to you is fatal and will send you back to the beginning. This version omits some of the original arcade levels.
+
+http://www.pcengine.co.uk/HTML_Games/Shinobi.htm

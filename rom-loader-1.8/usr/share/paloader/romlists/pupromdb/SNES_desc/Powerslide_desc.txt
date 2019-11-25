@@ -1,0 +1,6 @@
+Powerslide is a Super FX supported game that was also in development for the Jaguar and 3DO. It was being developed by Elite, an English game company. This preview shot was taken from the German magazine, Nintendo Fun Vision (issue 5). According to Steve Wilcox of Elite, the game was cancelled because the cost of producing cartridges for the game was too high to make a return on the costs of software development.
+
+MatthewCallis released a ROM image of a demo from the ECTS gaming show (essentially the European equivalent to E3 back in the 90s). As of writing, it is not yet supported in emulators, and only displays a static screen. 
+
+Reviewer: Evan G
+http://www.snescentral.com/article.php?id=0151

@@ -1,0 +1,31 @@
+# WINDOW combobox
+WINDOW_ARRAY=("1" "2" "3" "4")
+WINDOW_ITEMS="<item>$WINDOW</item>" #stored value should be first in list
+for i in "${WINDOW_ARRAY[@]}"
+do
+	if [ "$i" != "$WINDOW" ];then
+		WINDOW_ITEMS=`echo "$WINDOW_ITEMS<item>$i</item>"`
+	fi
+done
+
+# CDEMUL combobox
+CDEMUL_ARRAY=("1" "2" "3" "4")
+CDEMUL_ITEMS="<item>$CDEMUL</item>" #stored value should be first in list
+for i in "${CDEMUL_ARRAY[@]}"
+do
+	if [ "$i" != "$CDEMUL" ];then
+		CDEMUL_ITEMS=`echo "$CDEMUL_ITEMS<item>$i</item>"`
+	fi
+done
+
+# DEV combobox
+DEV_ARRAY=("/dev/cdrom" "/dev/sr0" "/dev/sr1" "/dev/sr2" "/dev/sr3")
+DEV_ITEMS="<item>$DEV</item>" #stored value should be first in list
+for i in "${DEV_ARRAY[@]}"
+do
+	if [ "$i" != "$DEV" ];then
+		DEV_ITEMS=`echo "$DEV_ITEMS<item>$i</item>"`
+	fi
+done
+
+

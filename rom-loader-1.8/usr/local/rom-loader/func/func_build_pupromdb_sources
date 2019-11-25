@@ -1,0 +1,621 @@
+#!/bin/sh
+# GPL, by sc0ttman, 2014
+# parse nointro xml files, build a pupromdb file
+# then parse gamesdb xml files, add IDs to pupromdb file
+# the pupromdb files are then used by Rom-Loader to show lots of nice info for users rom collections
+# version 0.6
+
+# this file is used to get rom information from 3 lists, created originally from 
+# nointro, thegamesdb (PlatformGames list), and 'gamedesc' file, from RomCollectionBowser (I think)
+
+# FORMAT, ROM DETAILS
+# the list is based on nointro lists, with thegamesdb IDs added .. 
+# any roms not in nointro lists found in thegamesdb lists is added at the end
+# then we add more (developer, controller, etc) info to each rom where possible, from the gamedesc
+# finally, we try to add info to all roms without any info (games not found in the nointro lists, from thegamesdb)
+
+
+
+
+
+
+
+
+
+
+### $SYSTEM must be one of these:
+case "$1" in
+32X|AMIGA|ARCADE|ATARI800|ATARI2600|ATARI5200|ATARILYNX|COM|COLECO|FAMICOM|GAMEGEAR|GBA|GBC|GB|GEN|INTELLIVISION|N64|NEOCD|NEOGEO|NES|NGP|PCE|PCECD|PCFX|SATURN|SCUMM|SEGACD|SG1000|SMS|SNES|VB|WSWAN|ZINC|ZXSPEC) SYSTEM="$1" ;;
+*) echo "No System of that name"; 
+	echo "Here's the list (case sensitive):"; 
+	echo "32X, AMIGA, ARCADE, ATARI800, ATARI2600, ATARI5200, ATARILYNX, COM, "
+	echo "COLECO, GAMEGEAR, GBA, GBC, GB, GEN, INTELLIVISION, N64, NEOCD, NEOGEO, "
+	echo "NES, NGP, PCE, PCECD, PCFX, SATURN, SCUMM, SEGACD, SG1000, SMS, SNES,"
+	echo "VB, WSWAN, ZINC, ZXSPEC"
+	exit 1
+	;;
+esac
+export SYSTEM="$1"
+
+
+##### FUNCTIONS
+
+set -a 
+
+sanitise_name (){  ## takes all the crap out of the rom names  (or sometimes standardises it), so they are searchable between lists
+	
+	[ ! "$1" ] && exit 1
+	VAR="$1"
+	#VAR="${VAR%.*}" 			# remove extension
+	VAR="${VAR// At / at }"				# remove :
+	VAR="${VAR// Of / of }"				# remove :
+	VAR="${VAR// In / in }"				# remove :
+	VAR="${VAR// On / on }"				# remove :
+	VAR="${VAR// With / with }"				# remove :
+	VAR="${VAR// The / the }"				# remove :
+	VAR="${VAR// Is / is }"				# remove :
+	VAR="${VAR//: / }"				# remove :
+	VAR="${VAR// - / }"				# remove -
+	VAR="${VAR//_/ }"				# convert _ to space
+	VAR="${VAR//&amp;/and}"				# convert
+	VAR="${VAR// & / and }"				# convert
+	VAR="${VAR//, the/}"				# convert
+	VAR="${VAR//, A/}"				# convert
+	VAR="${VAR// E /}"			# remove ' E '
+	VAR="${VAR// U /}"			# remove ' U '
+	VAR="${VAR// J /}"				# remove ' J '
+	VAR="${VAR// JUE /}"			# remove ' JUE '
+	VAR="${VAR// jue /}"			# remove ' JUE '
+	VAR="${VAR// UE /}"			# remove ' UE '
+	VAR="${VAR// EU /}"			# remove ' UE '
+	VAR="${VAR//(Japan, USA)/}"			# remove
+	VAR="${VAR//(Japan, Europe)/}"			# remove
+	VAR="${VAR//(USA, Europe)/}"			# remove
+	VAR="${VAR//(USA, Japan)/}"			# remove
+	VAR="${VAR//(Europe, USA)/}"			# remove
+	VAR="${VAR//(Europe, Japan)/}"			# remove
+	VAR="${VAR//(USA, Japan)/}"			# remove
+	VAR="${VAR// \[World\] /}"			# remove
+	VAR="${VAR// (World) /}"			# remove
+	VAR="${VAR// (world) /}"			# remove
+	VAR="${VAR// \[world\] /}"			# remove
+	VAR="${VAR// vs\. / vs }"			# remove
+	VAR="${VAR// Vs\. / Vs }"			# remove
+	VAR="${VAR// Vs / vs }"			# remove
+	VAR="${VAR// (v[0-9]) / }"			# remove
+	VAR="${VAR// (V[0-9]) / }"			# remove
+	VAR="${VAR// (v[0-9].[0-9]) / }"			# remove
+	VAR="${VAR// (V[0-9].[0-9]) / }"			# remove
+	VAR="${VAR// (v[0-9].*) / }"			# remove
+	VAR="${VAR// (V[0-9].*) / }"			# remove
+	#VAR="${VAR//./}"				# remove .
+	VAR="${VAR//beta/}"			# remove beta
+	VAR="${VAR// b[0-9]/}"			# remove beta
+	VAR="${VAR//o[0-9]/}"			# remove o1
+	#do multiple image stuff, for amiga and others ...
+	VAR="${VAR// Disk[0-9]/}"
+	VAR="${VAR// Disk [0-9]/}"
+	VAR="${VAR// disk[0-9]/}"
+	VAR="${VAR// disk [0-9]/}"
+	VAR="${VAR/_%[0-9]/}"
+	VAR="${VAR/-%[0-9]/}"
+	# remove ':', ' - ', multiple, leading and trailing spaces, then everything in and inc brackets () and [], 
+	#then version numbers (e.g. v.1.02 or v1) ...   `sed 's/v[0-9]//g' | sed 's/[v]*[0-9]*[0-9]*//g'` ... #sed -e 's% v[0-9].*%%g' | sed 's%(V[0-9].*%%g' | 
+	[ "$VAR" != "" ] && VAR="`echo \"$VAR\" | sed 's% \+% %g' | sed 's%([^()]*)%%g' | sed 's%\[[^][]*\]%%g' | sed 's%^[ \t]*%%;s%[ \t]*$%%' | sed 's%:%%g' | sed 's% - %%g' | sed 's%^[ \t]*%%;s%[ \t]*$%%'`"
+	echo "$VAR"
+
+}
+
+#### end funcs ####
+
+
+
+############		NOINTRO xml  to  /usr/share/paloader/romlists/pupromdb/SYSTEM.txt		################		 
+
+# from the nointro xml lists, we will build our puppy arcade rom database files (pupromdb).. 
+# these pupromdb files will be the basis of all rom searching on puppy arcade
+# they will contain easy to match generic rom names, with info for each rom, like date, genre, etc
+
+
+cd /usr/share/paloader/romlists/nointro
+mkdir -p ../pupromdb
+#rm ../pupromdb/*.txt
+
+for x in *$SYSTEM*.xml
+do
+	
+	if [ -f "$x" ];then
+		#the output file
+		output="../pupromdb/${x//.xml/}.txt"  ## SNES.txt  .. example... 
+		echo "building $output from $x"
+		# rebuild xml into nicer pupromdb format
+		# also
+		# create shorter, simpler ratings (age certifications/classifications)
+		# then clean up some of the genres, so they match other lists
+		echo "`cat "$x" | grep -v '<cloneof>'|grep  -v '<game name=' | grep -v '</game>' | grep -v '</enabled>' | \sed -e 's|\t\t||g'| tr -d '\r' | tr -d '\n' | sed -e 's|<description>|@|g' -e 's|</description>|\|NOID|g' -e "s|<crc>|\||g" -e "s|</crc>||g" -e "s|<manufacturer>|\||g" -e "s|</manufacturer>||g" -e "s|<year>|\||g" -e "s|</year>||g" -e "s|<genre>|\||g" -e "s|</genre>||g" -e "s|<rating>|\||g" -e "s|</rating>||g" -e "s|\|Platform\||\|Platformer\||g" -e "s|&apos;|\'|g" -e "s|&amp;|and|g" -e "s|\\\\\'|'|g" -e "s|</menu>||g" -e "s|  | |g" -e 's/Other - NR (Not Rated)/Not Rated/g' -e 's/Role-Playing/Role Playing/g' -e 's/HSRS - GA (General Audience)/General Audience/g' -e 's/ESRB - E (Everyone)/Everyone/g' -e 's/HSRS - PG (Parental Guidance)/Parental Guidance/g' -e 's/ESRB - EC (Early Childhood)/Early Childhood/g' -e 's/ESRB - M (Mature)/Mature/g' -e 's/ESRB - T (Teen)/Teen/g' -e 's/ESRB - M (Mature)/Mature/g' -e 's/PEGI - 12 (Everyone 12+)/Everyone 12+/g' -e 's/PEGI - 16 (Everyone 16+)/Everyone 16+/g' -e 's/PEGI - 3 (Everyone 3+)/Everyone 3+/g' -e 's/ESRB - E10+ (Everyone 10+)/Everyone 10+/g' -e 's/Role-Playing/Role Playing/g' -e "s@NOID||@NOID|No CRC|@g" | tr '@' '\n' | grep -v "<?xml"`" > "$output" #'
+	fi
+	
+done
+
+echo "done building nointro lists"
+
+####################### NOINTRO DONE... SANITISE THE NAMES IN IT... #################
+
+# now we will go through the list we just created and clean up each of the rom names
+# for example, we will change 'Zelda: Twilight Princess, The' to 'Zelda Twilight Princess'
+# this makes searching rom names from file names easier ..
+
+cd /usr/share/paloader/romlists/pupromdb #now sanitise the names
+for x in *$SYSTEM*.txt
+do
+	if [ -f "$x" ];then
+		cat "$x" | while read line
+		do
+			name="`echo "$line" | cut -f1 -d'|'`" 			# get the name in the list
+			san_name="`sanitise_name \"$name\"`"  	# sanitise it
+			echo "Fixing name: $name  --->  $san_name"
+			sed -i "s@$name|@$san_name|@" "$x"
+			#sed -i "s/$name|/$san_name|/" "$x" 	# replace it in the list 
+		done
+	fi
+done
+echo "Done sanitising rom names in nointro lists"
+
+############### ADD EXTRA FIELDS FROM  G A M E D E S C   ##################
+
+# here we can get even more info for each rom we have, and add any extra ones to the list as well..
+# first, i had to manually parse the files, and put them in /usr/share/paloader/romlists/gamedesc/
+# now they are parsed a usable format, we can work on them here ...
+# for each rom in our pupromdb list, we will search the gamedesc list
+# if a match is found, we will get extra info about that rom, and add it to the relevant pupromdb list
+
+cd ..
+cd /usr/share/paloader/romlists/gamedesc
+
+# extract descriptions for all games into their own files, named by rom name
+# sanitise the names the names to match pupromdb entries before creating the files
+# description files should go in /usr/share/paloader/romlists/pupromdb/${SYSTEM}_desc/
+# they should each by named something like 'F-Zero_desc.txt'
+
+echo "Extracting game descriptions..."
+# make the desc folder, get rom name from $SYSTEM.txt, while read rom name, extract its description, 
+# then create the sanitised rom name, then save to the desc folder, using romname_desc.txt
+mkdir -p ../pupromdb/${SYSTEM}_desc
+awk '/@START/ { getline;getline;print }' /usr/share/paloader/romlists/gamedesc/${SYSTEM}.txt | while read line
+do
+	oldline="$line"
+	desc=`awk '/'"${line//\//}"'/,/@START/' /usr/share/paloader/romlists/gamedesc/${SYSTEM}.txt`
+	line="`echo ${line} | sed 's/^The //g'`"; line="${line//&/and}";line="${line//:/}"; line="${line// - /}"; line="${line//\// }"
+	echo "$desc"| sed "/$oldline/,/@END/d" | grep -v '@START' > "../pupromdb/${SYSTEM}_desc/`echo ${line}| sed 's/\\r//'`_desc.txt"
+done
+
+# now we can parse the gamedesc files into a KIND OF pupromdb format: example:
+# name|id|crc|Region: blah|Developer: blah|... 
+# so, this means we will create files pa${SYSTEM}.txt from $SYSTEM.txt .. 
+# once done, we can grep a game in the file, keep that line, break it into new lines, and parse
+
+echo "Create pupromdb(ish) format for ${SYSTEM}.txt in pa${SYSTEM}.txt"
+#remove descriptions, remove @END lines, and other info for hacked roms, 
+#put everything on one line, tab separated, convert @START to newlines (it is before the name), then re-order the fields
+awk '/@START/,/@END/' $SYSTEM.txt |grep -vE '@END|Original Title:|Translated By:|Version:|Hacked By:|Players:' | tr '\r' '|' | tr -d '\n' | sed 's#@START#\n#g;' | awk -F'|' '{print $3"|NOID|"$2"|"$9"|"$8"|"$11"|"$10"|"$6"|"$7"|"$4"|"$5"|"$12}' | grep -v '^|' > pa${SYSTEM}.txt
+
+#
+# here, we read through the pupromdb file, and for each gamedesc file, we add extra info from gamedesc file to 
+# the matching rom in the pupromdb file
+#
+for x in pa${SYSTEM}.txt
+do
+
+	if [ -f "$x" ];then
+		export x
+		# read each line of pupromdb file
+		# get name on line, search gamesdec file, for that rom
+		pupromdbfile="${x/pa/}" # remove pa prefix.. keep only SNES or GENESIS, etc
+		pupromdbfile="../pupromdb/`basename $pupromdbfile`"
+
+		echo "Adding extra info from '$x' gamedesc file .... "
+		
+		# read the corresponding pupromdb file, 
+		
+		if [ -f "$pupromdbfile" ];then
+
+				cat "$pupromdbfile" | grep -v "^#" | while read line 
+				do
+					# get the name of rom in pupromdb
+					name="`echo "$line" | cut -f1 -d'|'`"
+					# search for a match in gamedesc file
+					name_search="`cat "$x" | grep -v \"^#\" | cut -f1 -d'|' | sed 's/://g' | sed 's/ - //g' | grep -i \"$name\"`"
+
+					#set this here, so never gets left out
+					platform="$SYSTEM"
+					newline="${line}|media-unknown|controller-unknown|dev-unknown|region-unknown|$SYSTEM"
+					# if rom match was found
+					if [ "$name_search" != "" ];then
+						#get all its info
+						all_gamedesc_info="`cat "$x" | grep -v \"^#\" | sed 's/://g' | sed 's/ - //g' | grep -i \"$name_search\" | head -1`"
+						#now divide it up into separate pieces .. 
+						#need to divide it up, cos not all roms have all info, some are missing bits
+						media="`echo \"$all_gamedesc_info\" | tr '|' '\n' | grep '^Media ' | tr '\n' ' ' | cut -f2 -d' '`"
+						controller="`echo \"$all_gamedesc_info\" | tr '|' '\n' | grep '^Controller ' | tr '\n' ' ' | cut -f2-4 -d' ' | sed -e 's/ \+/ /g' -e 's/^[ \t]*//;s/[ \t]*$//'`"
+						developer="`echo \"$all_gamedesc_info\" | tr '|' '\n' | grep '^Developer ' | tr '\n' ' ' | cut -f2-5 -d' '`"
+						region="`echo \"$all_gamedesc_info\" | tr '|' '\n' | grep '^Region ' | tr '\n' ' ' | cut -f2-5 -d' '`"
+						specific_platform="`echo \"$all_gamedesc_info\" | tr '|' '\n' | grep '^Platform ' | tr '\n' ' ' | cut -f2-4 -d' '`"
+						#original_title"`echo "$all_gamedesc_info" | tr '|' '\n' | grep '^Original ' | cut -f2 -d' '`" ##dont use this for now
+
+						# try to clean up the vars, remove newlines, leading/trailing spaces, double spaces, etc
+						developer="`echo $developer | tr '\n' ' ' | tr '\r' ' ' | sed -e 's/ \+/ /g' -e 's/^[ \t]*//;s/[ \t]*$//' `"
+						region="`echo $region | tr '\n' ' ' | tr '\r' ' ' | sed -e 's/ \+/ /g' -e 's/^[ \t]*//;s/[ \t]*$//' `"
+						specific_platform="`echo $specific_platform | tr '\n' ' ' | tr '\r' ' ' | sed -e 's/ \+/ /g' -e 's/^[ \t]*//;s/[ \t]*$//' `"
+						#use the platform listed, not just $SYSTEM, where possible
+						[ "$specific_platform" != "" ] && platform="$specific_platform"
+						#now standardise the platform names a little
+						platform="${platform//AMIGA/Amiga}"
+						platform="${platform//ATARI/Atari}"
+						platform="${platform//COM/C64}"
+						platform="${platform//Super NES/SNES}"
+						platform="${platform//Sega Genesis/Genesis}"
+						platform="${platform//GENESIS/Genesis}"
+						platform="${platform//GEN/Genesis}"
+						platform="${platform//INTELLIVISION/Intellivision}"
+						platform="${platform//NEOCD/NeoGeo CD}"
+						platform="${platform//NEOGEO/NeoGeo}"
+						platform="${platform//NGP/NeoGeoPocket}"
+						platform="${platform//Bandai Wonderswan/Wonderswan}"
+						platform="${platform//Sega Master/Master}"
+						platform="${platform//SMS/Master System}"
+						platform="${platform//Sega SG/SG}"
+						platform="${platform//Famicom Disk System/Famicom}"
+						platform="${platform//Nintendo Entertainment System/NES}"
+						platform="${platform//Sega Game Gear/GameGear}"
+						platform="${platform//GAMEGEAR/GameGear}"
+						platform="${platform//PCE/PC-Engine}"
+						platform="${platform//WSWAN/WonderSwan}"
+						platform="${platform//ZXSPEC/ZX Spectrum}"
+						
+						#if no new info was found, fallback to values below
+						[ "$media" = "" ] && media='media-unknown'
+						[ "$controller" = "" ] && controller='controller-unknown'
+						[ "$developer" = "" ] && developer='dev-unknown'
+						[ "$region" = "" ] && region='region-unknown'
+
+						#now we have the info from the gamedesc file...
+						# build the new line to replace the old one in pupromdb
+						newline="${line}|$media|$controller|$developer|$region|$platform"
+						echo "Updating $name, adding '$media|$controller|$developer|$region|$platform' .. "
+					else
+						#now standardise the platform names a little
+						platform="${platform//AMIGA/Amiga}"
+						platform="${platform//ATARI/Atari}"
+						platform="${platform//COM/C64}"
+						platform="${platform//Super NES/SNES}"
+						platform="${platform//Sega Genesis/Genesis}"
+						platform="${platform//GENESIS/Genesis}"
+						platform="${platform//GEN/Genesis}"
+						platform="${platform//INTELLIVISION/Intellivision}"
+						platform="${platform//NEOCD/NeoGeo CD}"
+						platform="${platform//NEOGEO/NeoGeo}"
+						platform="${platform//NGP/NeoGeoPocket}"
+						platform="${platform//Bandai Wonderswan/Wonderswan}"
+						platform="${platform//Sega Master/Master}"
+						platform="${platform//SMS/Master System}"
+						platform="${platform//Sega SG/SG}"
+						platform="${platform//Famicom Disk System/Famicom}"
+						platform="${platform//Nintendo Entertainment System/NES}"
+						platform="${platform//Sega Game Gear/GameGear}"
+						platform="${platform//GAMEGEAR/GameGear}"
+						platform="${platform//PCE/PC-Engine}"
+						platform="${platform//WSWAN/WonderSwan}"
+						platform="${platform//ZXSPEC/ZX Spectrum}"
+						
+						#no name was found, we have no extra info, just append some stuff, to keep same number of fields on each line
+						newline="${line}|media-unknown|controller-unknown|dev-unknown|region-unknown|$platform"
+						echo "Rom '$name' not found in gamedesc list '$x', adding 'unknown' .. "
+					fi
+					
+					# replace the line with the new one, which has extra info from gamedesc files
+					sed -i "s@${line}@${newline}@g" "$pupromdbfile"
+					
+				done #done reading $pupromdbfile
+		fi
+
+		echo "Finished reading $pupromdbfile and adding info to it"
+	
+	fi
+
+done
+
+######### FOR EACH ROM IN PUPROMDB, GET MISSING INFO FROM GAMEDESC, ADD IT ##########
+
+# we have roms in the list that contain info like No CRC, No Publisher and so on... 
+# these roms were added to pupromdb after they were NOT found the nointro list, but were found in thegamesdb list
+# we added them with No CRC etc, so we can go back & replace those values, if the rom is found in gamedesc files
+
+cd ..
+cd /usr/share/paloader/romlists/pupromdb
+
+cat $SYSTEM.txt | grep -E 'NOCRC|No CRC|No Publisher|No Date|No Genre|No Rating|region-unknown' | while read line   # get the roms with No CRC etc
+do
+	
+	# get the name only for the line ($line)
+	puprom_name="`echo \"$line\" | cut -f1 -d'|'`"
+
+	echo "Editing info in $puprom_name, using info from /gamedesc/pa${SYSTEM}.txt"
+
+	#get info from puprom file
+	puprom_id="`echo \"$line\" | cut -f2 -d'|'`"
+	puprom_crc="`echo \"$line\" | cut -f3 -d'|'`"
+	puprom_pub="`echo \"$line\" | cut -f4 -d'|'`"
+	puprom_date="`echo \"$line\" | cut -f5 -d'|'`"
+	puprom_genre="`echo \"$line\" | cut -f6 -d'|'`"
+	puprom_rating="`echo \"$line\" | cut -f7 -d'|'`"
+	puprom_media="`echo \"$line\" | cut -f8 -d'|'`"
+	puprom_controller="`echo \"$line\" | cut -f9 -d'|'`"
+	puprom_developer="`echo \"$line\" | cut -f10 -d'|' | head -1`"
+	puprom_region="`echo \"$line\" | cut -f11 -d'|' | head -1`"
+	puprom_platform="`echo \"$line\" | cut -f12 -d'|' | head -1`" #still the same
+	
+	# search the relevant gamedesc file for info for the current rom
+	name_match="`cat /usr/share/paloader/romlists/gamedesc/pa${SYSTEM}.txt | cut -f1 -d'|' | sed -e 's/://g' -e 's/ - / /g' | grep -i \"$puprom_name\"`"
+	# if name was found, get all info for that match
+	[ "$name_match" != "" ] && all_info="`cat ../gamedesc/pa${SYSTEM}.txt | grep -i \"$name_match\" | head -1`" || all_info=''
+	if [ "$all_info" != "" ];then
+		# get details for the matching rom from gamedesc file
+		crc="`echo \"$all_info\" | cut -f3 -d'|'`" ########### -f2 or -f3
+		publisher="`echo \"$all_info\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's@:@@g' | sed -e 's@ - @@g' | grep '^Publisher ' | cut -f2-5 -d' ' | head -1 | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+		date="`echo \"$all_info\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Release Year ' | tr '\n' ' ' | cut -f3 -d' ' | sed 's/^[ \t]*//;s/[ \t]*$//' `"
+		genre="`echo \"$all_info\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's@:@@g' | sed -e 's/ - //g' | grep '^Genre ' | tr '\n' ' ' | cut -f2-4 -d' ' | cut -f1 -d'|' | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+		media="`echo \"$all_info\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Media ' | tr '\n' ' ' | cut -f2 -d' ' | sed 's/^[ \t]*//;s/[ \t]*$//' `"
+		controller="`echo \"$all_info\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Controller ' | tr '\n' ' ' | cut -f2 -d' ' | sed 's/^[ \t]*//;s/[ \t]*$//' `"
+		developer="`echo \"$all_info\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's@:@@g' | sed -e 's@ - @@g' | grep '^Developer ' | cut -f2-5 -d' ' | head -1 | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+		region="`echo \"$all_info\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Region ' | tr '\n' ' ' | cut -f2-4 -d' ' | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+		
+		#replace puprom No CRC (etc) info, if we found better info in gamedesc list (just above)
+		[ "$crc" != "" -a "$puprom_crc" = "No CRC" ] && puprom_crc="${crc:-No CRC}"
+		[ "$publisher" != "" -a "$puprom_pub" = "No Publisher" ] && puprom_pub="$publisher"
+		[ "$date" != "" -a "$puprom_date" = "No Date" ] && puprom_date="$date"
+		[ "$genre" != "" -a "$puprom_genre" = "No Genre" ] && puprom_genre="$genre"
+		[ "$media" != "" -a "$puprom_media" = "media-unknown" ] && puprom_media="$media"
+		[ "$controller" != "" -a "$puprom_controller" = "controller-unknown" ] && puprom_controller="$controller"
+		[ "$developer" != "" -a "$puprom_developer" = "dev-unknown" ] && puprom_developer="$developer"
+		[ "$region" != "" -a "$puprom_region" = "region-unknown" ] && puprom_region="$region"
+		#clean up genres to match pupromdb lists here
+		[ "$puprom_genre" != "" -a "$puprom_genre" = "Role Playing Game" ] && puprom_genre="Role Playing"
+		[ "$puprom_genre" != "" -a "$puprom_genre" = "Fighter" ] && puprom_genre="Beat-'Em-Up"
+		[ "$puprom_genre" != "" ] && puprom_genre="${puprom_genre// , //}"
+		
+		#edit the details for the rom in pupromdb (currently called $SYSTEM.txt)
+		newline="$puprom_name|$puprom_id|$puprom_crc|$puprom_pub|$puprom_date|$puprom_genre|$puprom_rating|$puprom_media|$puprom_controller|$puprom_developer|$puprom_region|$puprom_platform"
+		
+		echo "Adding: $newline"
+		sed -i "s@$line@$newline@g" $SYSTEM.txt
+		
+	fi
+
+done
+
+################################
+
+# now we will re-order the columns (fields), so we put the more important stuff to the left, less important on the right
+
+echo "Re-ordering the columns, more important stuff to the left... "
+
+cat /usr/share/paloader/romlists/pupromdb/$SYSTEM.txt | awk -F'|' '{print $1"|"$2"|"$3"|x|0|"$5"|"$6"|"$11"|"$4"|"$10"|"$7"|"$8"|"$9"|"$12}' > /usr/share/paloader/romlists/pupromdb/${SYSTEM}_reordered.txt
+mv /usr/share/paloader/romlists/pupromdb/${SYSTEM}_reordered.txt /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt
+
+
+
+################   A D D    A L L   M I S S I N G  R O M S   FROM  pa$SYSTEM TO $SYSTEM    ################
+
+#now we go through the pa$SYSTEM list (built from the relevant gamedesc file)
+# we will add all roms from this list that are not found in the main pupromdb list
+
+#so lets build what we need
+
+cd ..
+cd /usr/share/paloader/romlists/gamedesc
+for x in pa${SYSTEM}.txt
+do
+
+	#get the contents of pa$SYSTEM
+	#then read it line by line, extract the info we need, if NOT found in pupromdb
+	# if is IS found in pupromdb, get edit for that rom, replace any missing info
+	
+	echo "Adding all roms from pa$SYSTEM.txt into final pupromdb file $SYSTEM.txt"
+		
+	cat $x | while read line
+	do
+		#get name of rom in pa$SYSTEM
+		rom_to_add="`echo \"${line}\" | cut -f1 -d'|'`"
+		rom_to_add="`sanitise_name \"$rom_to_add\"`"
+		#check that rom is in the pupromdb file
+		if [ "`grep -m1 \"^$rom_to_add\" /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt 2>/dev/null`" = "" ];then
+			
+			#rom is not in pupromdb, so lets add it
+
+			# get details for the matching rom from gamedesc file
+			crc="`echo \"$line\" | cut -f3 -d'|'`"
+			publisher="`echo \"$line\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's@:@@g' | sed -e 's@ - @@g' | grep '^Publisher ' | cut -f2-5 -d' ' | head -1 | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+			date="`echo \"$line\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Release Year ' | tr '\n' ' ' | cut -f3 -d' ' | sed 's/^[ \t]*//;s/[ \t]*$//' `"
+			genre="`echo \"$line\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's@:@@g' | sed -e 's/ - //g' | grep '^Genre ' | tr '\n' ' ' | cut -f2-4 -d' ' | cut -f1 -d'|' | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+			media="`echo \"$line\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Media ' | tr '\n' ' ' | cut -f2 -d' ' | sed 's/^[ \t]*//;s/[ \t]*$//' `"
+			controller="`echo \"$line\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Controller ' | tr '\n' ' ' | cut -f2 -d' ' | sed 's/^[ \t]*//;s/[ \t]*$//'`"
+			developer="`echo \"$line\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's@:@@g' | sed -e 's@ - @@g' | grep '^Developer ' | cut -f2-5 -d' ' | head -1 | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+			region="`echo \"$line\" | tr '|' '\n' | tr '\r' ' ' | sed -e 's/://g' | sed -e 's/ - //g' | grep '^Region ' | tr '\n' ' ' | cut -f2-4 -d' ' | sed 's@^[ \t]*@@;s@[ \t]*$@@' `"
+			
+			platform="$SYSTEM"
+			platform="${platform//AMIGA/Amiga}"
+			platform="${platform//ATARI/Atari}"
+			platform="${platform//COM/C64}"
+			platform="${platform//Super NES/SNES}"
+			platform="${platform//Sega Genesis/Genesis}"
+			platform="${platform//GENESIS/Genesis}"
+			platform="${platform//GEN/Genesis}"
+			platform="${platform//INTELLIVISION/Intellivision}"
+			platform="${platform//NEOCD/NeoGeo CD}"
+			platform="${platform//NEOGEO/NeoGeo}"
+			platform="${platform//NGP/NeoGeoPocket}"
+			platform="${platform//Bandai Wonderswan/Wonderswan}"
+			platform="${platform//Sega Master/Master}"
+			platform="${platform//SMS/Master System}"
+			platform="${platform//Sega SG/SG}"
+			platform="${platform//Famicom Disk System/Famicom}"
+			platform="${platform//Nintendo Entertainment System/NES}"
+			platform="${platform//Sega Game Gear/GameGear}"
+			platform="${platform//GAMEGEAR/GameGear}"
+			platform="${platform//PCE/PC-Engine}"
+			platform="${platform//WSWAN/WonderSwan}"
+			platform="${platform//ZXSPEC/ZX Spectrum}"
+			
+			rom_line_to_add="$rom_to_add|NOID|${crc:-No CRC}|x|0|${date:-No Date}|${genre:-No Genre}|${region:-region-unknown}|${publisher:-No Publisher}|${developer:-dev-unknown}|No Rating|${media:-media-unknown}|${controller:-controller-unknown}|$platform"
+			
+			echo "Adding: '$rom_to_add' to $SYSTEM.txt"
+			
+			echo "$rom_line_to_add" >> /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt
+			
+		else
+			echo "Skipping: '$rom_to_add' already in $SYSTEM.txt"
+		fi
+	done
+
+
+done
+
+############################		T H E G A M E S D B - build SYS_id.txt, then put IDs into pupromdb	 	###############
+
+# these lists only contain game names, dates and IDs ... the IDs are very useful, however..
+# we will use these IDs in rom loader to scrape extra info about the roms online, from thegamesdb.net
+# so, for each rom in the pupdbrom list, we will find a match in thegamesdb list, and add its ID to the pupromdb
+
+cd ..
+cd /usr/share/paloader/romlists/thegamesdb
+for x in $SYSTEM.xml
+do
+
+	if [ -f "$x" ];then
+		#the output file .... example /usr/share/paloader/romlists/pupromdb/SNES_id.txt
+		output="../pupromdb/${x//.xml/}_id.txt"
+
+		echo "building $output from $x"
+
+		##rebuild xml into nicer pupromdb format
+		echo "`cat "$x" | grep -v '<Data>' | grep  -v '</Data' | grep -v '</Game>' | grep -v '<Game>' | grep -v '<ReleaseDate>' | sed -e 's|\t\t||g'| tr -d '\r' | tr -d '\n' | sed -e 's|<GameTitle>|\||g' -e 's|</GameTitle>||g' -e "s|<id>|@|g" -e "s|</id>||g" -e "s|: | - |g" -e "s| - | |g" -e "s|&amp;|and|g" -e "s|\\\\\'|'|g" -e "s|</menu>||g" -e "s|  | |g" | tr '@' '\n' | sed -e "s|\|The |\||g" | grep -v "<?xml"`" > "$output" #'
+
+		
+		### done parsing, now get pupromdb file for current system
+		#systemname will be AMIGA800 or SNES or GBA or COLECO etc  ... needed when searching files in other dirs ... 
+		export systemname="${x%.*}"
+		export pupromdbfile="`find /usr/share/paloader/romlists/pupromdb/ -iname \"${systemname}*\" | head -1`" ### this is now the parsed nointro file
+
+		echo "Searching '$pupromdbfile', line by line"
+		
+		# if pupromdb has a matching file
+		if [ "$pupromdbfile" != "" ];then
+			# read each line of pupromdb file
+			cat "$pupromdbfile" | while read line
+			do
+				if [ "$line" != "" ];then
+					
+					id=''
+					name="`echo \"$line\" | cut -f2 -d'|'`" # get pre-sanitised name of rom we are searching info for ... from parsed nointro file (pupromdb)
+					#san_name="`sanitise_name "$name"`"
+					san_name="$name"
+
+					# if name was found on current line
+					if [ "$san_name" != "" ];then
+						# get id from the gamesdb file (SNES_id.txt) for this game, search by name taken from pupfomdb
+						id=`cat "$output" | grep -i -m1 "${san_name}\$" | head -1 | cut -f1 -d'|'`
+						
+						if [ "$id" != "" -a "$id" != " " ];then
+							# if id found for rom name..  add id after name
+							new="${san_name}|$id|"
+							#check if rom file already listed in output file (SNES.txt, etc)
+							if [ "`cat \"${output//_id/}\" | grep -i -m1 \"$san_name\"`" != "" ];then
+								# now add the id we got into the pupromdb files
+								echo "Adding id '$id' to $name, in file `basename ${output//_id/}`.."
+								sed -i "s/${san_name}|NOID|/${new}/gi" "${output//_id/}"
+							
+							else # rom not already listed in SNES_id.txt
+
+								#try again without The
+								[ "${san_name//The /}" != "${san_name}" -a "$id" = "" ] && echo "No id for $san_name, try without 'The ' (${san_name//The /})" && id=`cat "$output" | sed -e 's/.//g' | grep -i "${san_name//The /}|" | head -1 | cut -f1 -d'|'`
+								#try again without dots
+								[ "${san_name//./}" != "${san_name}" -a "$id" = "" ] && echo "No id for $san_name, try without dots (${san_name//./})" && id=`cat "$output" | sed -e 's/.//g' | grep -i "${san_name//./}|" | head -1 | cut -f1 -d'|'`
+								#try again without spaces
+								[ "${san_name// /}" != "${san_name}" -a "$id" = "" ] && echo "No id for $san_name, try without spaces (${san_name// /})" && id=`cat "$output" | sed -e 's/ //g' | grep -i "${san_name// /}|" | head -1 | cut -f1 -d'|'`
+								#try again without exclamations !
+								[ "${san_name//\!/}" != "${san_name}" -a "$id" = "" ] && echo "No id for $san_name, try without exclamations (${san_name//\!/})" && id=`cat "$output" | sed -e 's/!//g' | grep -i "${san_name//\!/}|" | head -1 | cut -f1 -d'|'`
+								# try again, take away the 1st word, then 2nd, etc
+								if [ "`echo \"$san_name\" | wc -w`" -gt 1  -a "$id" = "" ];then
+									count=1
+									san_name_short="$san_name"
+									while [ $count -lt 6 -a  "$id" = "" ]
+									do
+										san_name_short="${san_name_short#* }"
+										if [ "$san_name_short" != "" ];then
+											echo "No id for $san_name, try without first $count words (${san_name_short})"
+											id=`cat "$output" | grep -i "${san_name_short}|" | head -1 | cut -f1 -d'|'`
+										fi
+										count=`expr $count + 1`
+									done
+								fi
+								# try again, take away the last word, then last again, etc
+								if [ "`echo \"$san_name\" | wc -w`" -gt 1  -a "$id" = "" ];then
+									count=1
+									san_name_short="$san_name"
+									while [ $count -lt 6 -a  "$id" = "" ]
+									do
+										san_name_short="${san_name_short% *}"
+										if [ "$san_name_short" != "" ];then
+											echo "No id for $san_name, try without last $count words (${san_name_short})"
+											id=`cat "$output" | grep -i "${san_name_short}|" | head -1 | cut -f1 -d'|'`
+										fi
+										count=`expr $count + 1`
+									done
+								fi
+
+								# if id found for rom name..  add id after name
+								[ "$id" != "" ] && new="${san_name}|$id|"
+
+								echo "Rom '$san_name' will be added to ${output//_id/}..."
+
+								platform="$SYSTEM"
+								platform="${platform//Super NES/SNES}"
+								platform="${platform//Sega Genesis/Genesis}"
+								platform="${platform//GENESIS/Genesis}"
+								platform="${platform//GEN/Genesis}"
+								platform="${platform//Bandai Wonderswan/Wonderswan}"
+								platform="${platform//Sega Master/Master}"
+								platform="${platform//SMS/Master System}"
+								platform="${platform//Sega SG/SG}"
+								platform="${platform//Famicom Disk System/Famicom}"
+								platform="${platform//Nintendo Entertainment System/NES}"
+								platform="${platform//Sega Game Gear/GameGear}"
+								platform="${platform//GAMEGEAR/GameGear}"
+								platform="${platform//PCE/PC-Engine}"
+								platform="${platform//WSWAN/WonderSwan}"
+								platform="${platform//ZXSPEC/ZX Spectrum}"
+								
+								echo "${new}No CRC|x|0|No Date|No Genre|region-unknown|No Publisher|dev-unknown|No Rating|media-unknown|controller-unknown|$platform" >> "${output//_id/}" ####
+							fi
+						else
+							echo "No id for '$san_name' was found in `basename $output`"
+						fi
+					fi
+					
+				else
+					echo "$name not found in $pupromdbfile"
+				fi
+			done
+		fi
+		
+		echo "finished adding IDs"
+		rm "$output"
+
+	fi
+
+done
+
+##################################################################
+
+echo "Script finished."
+exit 0

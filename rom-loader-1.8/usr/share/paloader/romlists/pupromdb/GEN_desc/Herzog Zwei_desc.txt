@@ -1,0 +1,41 @@
+"Eins! Zwei! Drei!" In the murky dawn the tyrant's troops scuffle towards foxholes and tanks. Taking battle position, they quickly check their equipment and load cannons. Then they hunker down, awaiting the cry: "Attacke!" "Hup! Two! Three! Four!" On your order, rebel soldiers race to their war machines! Jets blast into the dawn, afterburners roaring. Convoys rumble toward the advance bases. Their single purpose: attack! War! You and your opponent face off for control of the world! You're equally matched, man for man, weapon for weapon. You sweat as you order out heavy metal, mobilize troops, and plot the attack! You collide in dogfights, ground frays, and naval clashes! At last, you advance to their home base. Now! Crush the enemy - and become Supreme Commander of the free world!
+
+Gameplay:
+
+Herzog Zwei has eight different land-based units and a unit representing the player, a transformable flying/land-based robot. Units can be picked up and dropped by the player, saving the power of the carried unit. Units are given orders such as "fight from a fixed position", "patrol this area", "fight in fixed radius," "go to/attack/occupy intermediate base" via six "programs" which cost differing amounts of money to activate.
+
+The maximum number of units allowed in the game at once is one hundred (fifty for each player), but after seventy units the console slows down, making play difficult.
+
+In addition to the two main bases are nine outposts or mini-bases, sometimes neutral, that can be captured to provide an additional 40G by ordering infantry units. Outposts act as a refueling station as well, both for the player-controlled transformer (who can only walk or fly for a finite time before running out of fuel, at which point he is destroyed and renewed at home base) and for any units he creates. Units will move and attack for as long as they have the fuel and ammunition to do so, and will come to a complete, vulnerable standstill when they run out.
+
+To complete the game in single-player mode, the player must defeat the computer on each level four times, each time representing an increasing level of difficulty. When the game is completed, the ending offered differs depending on whether the player played as the first player (red), or the second player (blue).
+
+- Levels -
+
+A key aspect of the game play is how the player interacts with the environments of the different levels. Each of the eight levels takes place in a different location that requires a different strategy for attacking the other side. Some levels have a large, physical barrier in the middle of the level that prevents a user from launching a direct ground attack at the main base in a timely fashion. For example, the jungle stage Waldung has a large swamp in the middle of the board that slows troops movement and eats up energy. Other levels, such as the volcano stage Vulkan are covered in lava rivers that will destroy any unit that comes in contact with it. This makes it difficult to launch ground assaults against the main bases as well as the mini-bases as the individual units artificial intelligence is quite limited. Only three of the levels, Strand, Eisfrei, and Oase, have bodies of water that allow boats to be launched against the enemy. The Abgrund level features a river but the player is not allowed to purchase boat units.
+
+On all levels with the exception of Abgrund, the both sides start off with a certain number of mini-bases already claimed. In Abgrund, all bases are neutral, including those directly near the main base.
+
+Hints:
+
+- Passwords -
+JLJOIGLAOKNFinal Stage (Round 32) Password
+CHGIGBCAGNJLevel 3 Password
+BPHOHACAGMLRound 12 Password
+NPLOFOCAGKPRound 19 Password
+IMLPFEGEMLCRound 22 Password
+JAJJBPDNCMCRound 25 Password
+LILOPBDPIKJRound 28 Password
+JLJOMGJAOKLRound 31 Password
+GGGKHAGOKLORound 5 Password
+IEJOJEIKNLAView Blue Army Ending
+
+http://www.gamefaqs.com/console/genesis/home/473001.html
+http://en.wikipedia.org/wiki/Herzog_Zwei
+http://www.gamefaqs.com/console/genesis/code/473001.html
+Herzog Zwei - 100 Year War Edition - alternate font, costs of units increased, orders available to units restricted making the game much more difficult.
+
+http://www.romhacking.net/hacks/403/
+Herzog Zwei - Bloodbath Edition - alternate font, cost of all units and orders cut in half.
+
+http://www.romhacking.net/hacks/403/

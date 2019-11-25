@@ -1,0 +1,3 @@
+A graphics upgrade for Super Mario Bros. that brings the graphics up to the style seen in Super Mario Bros. 2 the American Version. There are various graphic patches. This patch can only be patched without graphic and TSA changes.
+
+http://www.romhacking.net/hacks/222/

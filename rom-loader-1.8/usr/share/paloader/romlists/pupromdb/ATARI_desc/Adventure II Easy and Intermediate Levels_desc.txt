@@ -1,0 +1,5 @@
+This homebrew Atari 5200 cartridge is a direct, yet unofficial sequel to the Atari 2600 action role-playing classic Adventure. The player controls an unnamed knight on a quest to return the stolen chalice to the Seashore Kingdom's Castle. Like the original, Adventure II is played from top-down perspective, with player roaming the large game world, able to carry only one item at a time.
+
+While the main player graphic remains a square, the world of Adventure II is far larger and more robust than the original. The game's 32k cartridge features 4 distinct kingdoms, complete with unique inhabitants, items and secrets.
+
+http://www.mobygames.com/game/atari-5200/adventure-ii

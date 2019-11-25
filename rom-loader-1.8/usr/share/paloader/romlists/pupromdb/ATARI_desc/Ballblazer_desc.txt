@@ -1,0 +1,9 @@
+Ballblazer is a one-on-one soccer match set in the future. You control a robot and try to snare a floating ball called a Plasmorb, which could then be fired or carried into the opponent's goal.
+
+You play on a simple 3d playfield which is split in half. You can play against the computer or against another robot controlled by a human player.
+
+Easter Eggs:
+
+Designer David Levine states that if you win a game in the first minute, you'll get the author's initials in the lower-right corner of the playfield. When on title screen type the word "AUTHOR" (you have to start typing after the center text fades in, and finish before it starts fade out). You will see the credits.
+
+http://www.mobygames.com/game/atari-5200/ballblazer

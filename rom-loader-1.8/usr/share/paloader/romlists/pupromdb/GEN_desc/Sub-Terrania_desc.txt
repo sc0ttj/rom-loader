@@ -1,0 +1,57 @@
+THE PRESSURE IS ON!
+
+On an offworld asteroid, a red fire wipes the sky as headquarters explodes! Hostile alien forces have invaded the vital subterranean mining colony. The operation is blown sky high. Workers are trapped in crevices and chasms, helpless against the clouds of radioactive dust swirling toward them!
+
+Take control of the experimental attack fighter, the only weapon even remotely powerful enough to repel the alien attack. Begin each mission from a combat base. Return to base with "MISSION ACCOMPLISHED" or count yourself a failure.
+
+Pick up special weapons, fuel and shield recharges. Don't expect much help. Your one-of-a-kind fighter is still in the research stage. Indispensable equipment will be delivered to every area, but you have to find it!
+
+MISSION REPORTS
+
+Before you enter a stage, Mission Control will contact you via satellite. You'll see the Mission Report screen, which displays a stage map, a readout of your mission orders, verified data, suppositions about the combat situation, and strategy when available. Study the map and read the reports carefully; they contain vital information. You must begin and end the mission at the combat base and fulfill all mission orders to clear the area and advance.
+
+--From the Genesis Sub Terrania instruction manual.
+
+Directions:
+     
+Each Mission begins with a briefing that includes the tasks to be performed, a map of the terrain, locations that you must go to accomplish your goals, alien strengths and other pertinent information.
+
+Of course if you read the Storyline you would already know this.
+
+You must return to base to actually complete a mission. None of that usual magic where you kill the last aliens and are transported back safely to home. No, you better have fuel or you are toast.
+
+Since you are deep inside a mine, you can use the miners' rail system. They aren't likely to complain because you are there to save them. Just position your vehicle at the end of the rail and press the D-Control UP/DOWN to move. Press Forward Thrust at the end to disconnect.
+
+If you see a Support Pod or Support Capsule, lower your craft onto them to get their supplies.
+
+- Goodies -
+     
+Life Capsules - an extra life
+Missile Capsules - 10 missiles
+Laser Capsules - laser enhancements
+
+Fuel Pods - extra fuel
+Shield Pods - recharges shields
+
+Deflector Shields deflect laser fire.
+     
+You might find unknown weapons that even Mission Control doesn't know about. The A-Button allows selection of weapons, but don't expect Mission Control to know about them either because but apparently the game designers didn't know about them because they never described them. So select weapons at your own risk.
+
+Gameplay:
+
+The game takes place in a side-scrolling underground environment. The controls are based on the classic computer game Thrust, with the player rotating the ship with the directional pad and thrusting forward by pressing the B button. At all times, gravity is pulling down on the player's ship.
+
+To beat each of the game's 10 levels, the player must complete various mission objectives, which are outlined before the level begins (with the exception of the last three levels). The bulk of the missions involve rescuing prisoners, collecting sub modules (to allow your attack ship to go underwater), and defeating alien bosses. To make things more challenging, your ship has a limited fuel tank, which must be constantly recharged by collecting fuel canisters, which are scattered throughout the levels.
+
+Controls:  
+
+A Button: Weapon Select
+B Button: Forward Thrust
+C Button: Weapon Fire
+LEFT: Left Rotation
+RIGHT: Right Rotation
+DOWN: Back Thrust
+Start Button: Start / Pause / Resume
+
+http://en.wikipedia.org/wiki/Subterrania
+http://www.consoleclassix.com/genesis/sub_terrania.html

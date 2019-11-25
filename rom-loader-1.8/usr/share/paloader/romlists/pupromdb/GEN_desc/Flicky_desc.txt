@@ -1,0 +1,20 @@
+Tiger cats prowl on every shelf. Slimy Iggy lizards crawl slowly but surely closer. Flicky, the little blue bird that has a soft spot for Chicks, wants to help them get to the exit. But the cats and lizards stand in their way!
+
+Gameplay:
+
+In the game, the player controls Flicky, a bird who has to save the Chirps (Piopio in Japan), from housecats.
+
+The player has to collect all of the Chirps and guide them through the exit. The player has to avoid the cat, Tiger (Nyannan) and the green iguana, Iggy (Choro). They can also be killed by throwing items at them. Tiger tries to catch Flicky by jumping on platforms or running, while Iggy owns the ability to climb walls and crawl fast along the floors. He debuts in round 10.
+
+Players start with two lives and can gain more lives by acquiring certain scores; however there is a maximum of five lives they can attain.
+
+There are 48 proper levels ("rounds") in the game. Completing these yields a "Congratulations" message, followed by the possibility of playing through the game again at a faster speed. These levels are numbered 49, 50 and so on, and levels which previously did not contain the Iggy now do contain it. Furthermore, some throwable items are replaced with different ones. Once the game has been completed a second time (passing level 96 = fast version of 48), the game repeats again, but there is no speed increase (i.e. level 97 is identical to level 49), and the game simply carries on in this fashion until after the 256th level the game starts over at the very first level and continues from there.
+
+Hints:
+
+- Level Select -
+Start a new game, and then hold UP + (A) + (C) + START. When the ''Round 1'' screen appears, release all the buttons. Now you can press UP or DOWN to choose the round that you start on (up to 36).
+
+- Bikini Girl -
+If you complete the first 10 rounds of the game in under 20 seconds each and get a perfect score in each bonus round, you should then have over 240,000 points. After you get this feat, you will then see a window at the lower left corner of the screen with a girl in a bikini.
+

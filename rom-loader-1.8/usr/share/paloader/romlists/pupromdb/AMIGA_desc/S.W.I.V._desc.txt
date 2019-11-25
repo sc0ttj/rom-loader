@@ -1,0 +1,10 @@
+SWIV was an original vertical scrolling shooter that was an unofficial follow-up to Sales Curve's hit conversion of the side scroller Tecmo arcade game Silkworm.
+
+One player controlled a helicopter and the other a jeep, with the jeep transforming into a boat when the vehicles passed over water. As well as a host of blaster fodder the game also included a mid-level enemy inspired by the "Goose" enemy from the earlier title Silkworm. Pieces of this enemy would fly onto the screen and assemble into one vehicle before commencing to fire at the players' vehicles. When destroyed the "goose" would drop power-ups.
+ 
+http://www.mobygames.com/game/amiga/swiv
+_________________________
+CHEATS:
+
+Cheat mode:
+Pause game play and type NCC-1701 (case-sensitive), then press [Enter] to enable cheat mode with unlimited lives. The screen will flash blue to confirm correct code entry. Press [F1] through [F6] for weapon selection.

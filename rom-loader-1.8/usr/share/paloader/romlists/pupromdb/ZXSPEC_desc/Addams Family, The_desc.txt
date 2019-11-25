@@ -1,0 +1,8 @@
+The Addams Family is a platformer based on the movie of the same name. The player takes the role of Gomez who searches for his missing family members. To find them he has to explore different parts of the mansion, e.g. the woods, while jumping a lot and avoiding enemies. In comparison to the other versions of the game this one is more puzzle-oriented, meaning the player has to find keys to access certain parts of the game world. Another big difference is that this version is not side-scrolling, the player is always sees the whole room and the game switches to another one if the player leaves the screen or enters a door.
+
+Trivia:
+
+The code of the Spectrum version has a hidden message ranting that burglars and car thieves are the scum of the earth and should be hung, or shot if they enter your home. The programmer also bemoans the fact that his taxes help save their lives.
+
+
+http://www.mobygames.com/game/zx-spectrum/addams-family_

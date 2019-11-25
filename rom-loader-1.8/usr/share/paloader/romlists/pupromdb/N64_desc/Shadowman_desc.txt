@@ -1,0 +1,58 @@
+Plot
+
+Shadow Man revolves around a man by the name of Michael LeRoi, a former English literature student made into the Shadow Man, a voodoo warrior. Ten years prior to the game's events, Mike flunked his classes and his gambling habits exhausted his funds, forcing him to take up work as a taxi cab driver in Chicago, all the while keeping his failure a secret from his family back home in New Orleans. During a routine drop-off one night, his passenger was killed in a drive-by shooting, leaving a briefcase containing $20,000 behind. Mike took the money back home to spend on his family, using it to pay for his younger brother Luke's operation, among other things. However, the gang tracked him down and began issuing threats against him and his family. In desperation, Mike sought out a bokor to give him protection against the gang's attacks. This protection worked, but only for him; Mike's entire family was killed in a drive-by, leaving only Mike alive, albeit barely.
+
+Upon recovering from a coma and near-fatal injuries, Mike discovered he had lost his memory. The bokor tracked him down and collected the price for Mike's protection: Mike became his zombie slave, working under the pseudonym 'Zero'. Eventually, Mama Nettie, a powerful but dying voodoo priestess, arrived with several thugs to take revenge on the bokor for hits he had ordered against several of her gang members. In the ensuing chaos, Mama Nettie dragged Mike into a back room and used her remaining powers to forcibly implant the Mask of Shadows, a powerful voodoo artifact, into his chest. In doing so, Mike became the Shadow Man, the next in a long line of African voodoo warriors blessed by the gods with supernatural powers to protect both their native tribes and the entire world from threats crossing over from the spiritual plane known as Deadside — the place where everyone goes, without exception, when they die. In addition to his newfound powers, Mike regained his memory, which began to torment him endlessly. Unable to simply end his suffering due to his newfound immortality, Mike had little choice but to enter into Mama Nettie's service. It is here where the events of the game begin.
+
+One night in 1999, after an evening spent with Mike, Mama Nettie has a prophetic dream in which five serial killers known as 'the Five', under the direction of an immensely powerful and evil being known as 'Legion', are attempting to bring about the Apocalypse by transporting an immortal army of hideous monsters to Earth (Liveside) through an enormous construction on Deadside simply called 'Asylum'. After awaking Mike, she tells him of this and instructs him to immediately travel to Deadside using his strong emotional attachment to his dead brother's teddy bear as a conduit and meet up with Jaunty, a skull-headed snake who acts as Nettie's eyes and ears in Deadside. This is where the adventure begins.
+
+
+
+
+Characters
+
+Protagonists
+
+    * Michael LeRoi/Shadow Man: Mike is the character that the player takes control of throughout the entirety of the game. A failed English literature student turned hitman turned world-saving voodoo warrior, Mike has had a complex past (see above) and is haunted by the memories of his brother. He is voiced by Redd Pepper.
+    * Mama Nettie: Agnetta, or Mama Nettie, is the powerful voodoo priestess who created the Mask of Shadows and controls the bearer of it. Hundreds of years old, she lives in the body of a young woman who betrayed her. She cannot travel to Deadside. She gives various forms of advice.
+    * Jaunty: Kidnapped and slain by occult students. Nettie convinces him to work for her in exchange for a new body; fails to mention it would be a disfigured dwarf 'Lifeside' and a snake-skeleton 'Deadside'. Also gives advice.
+
+Antagonists
+
+    * Milton Pike (born July 4th, 1952): A member of the group of serial killers recruited by Legion known as 'The Five'. Known as the 'Video Nasty Killer' for sending police recordings of his crimes. He also served in the Vietnam war and the United States Army Special Forces. Not long before the events of the game Milton was apprehended by FBI agents after an intense gun battle and incarcerated in the fictional Gardelle County Jail in Texas, which is where he can be found in the game.
+    * Marco Cruz (born March 13th, 1968): Another member of 'The Five'. Called the 'Repo Man' by police due to his modus operandi of gaining entry to people's homes under the guise of a repossession agent, Marco preyed on couples in and around the Death Valley and Mojave Desert areas. He also worked as a DJ for a short period of time before being imprisoned in Gardelle County Jail.
+    * Avery Marx (born January 18th, 1973): Another member of 'The Five'. Known as the "Home Improvement Killer" because of his MO of cutting off the power to his victim's homes before stalking them in the dark wearing a pair of night vision goggles. Through several implications in his in-game dialogue, it appears that Avery was molested as a child by his own mother, whom he later killed. Part of his MO is to leave the skull of a canary with a written poem rolled up inside at the scenes of his crimes. As such he raises canaries at his home. He used the bodies of his slain victims to create "furniture" and a "decorative" river of blood for his hideout.
+    * John G. Pierce/Jack The Ripper: Another member of 'The Five', John Pierce is a fictional character in the game based on the infamous real life serial killer of the Victorian era known only as Jack the Ripper. The game starts with a cut-scene in 1888 (the year of the 'Ripper' murders) in a sewer beneath London where Legion appears before John (who is an architect by trade) and convinces him to commit suicide so as to cross over to Deadside and design Legion's "Asylum", a place for all the "misunderstood individuals of this world" (serial killers, rapists, pedophiles etc.) to seek refuge. There he stays until 1999, when he returns to Liveside and begins killing again.
+    * Victor Batrachian (born April 8th, 1961): Born to a wealthy banker in Geneva, Switzerland, Victor is the leader of 'The Five', known as "The Lizard King". Victor was quite a brilliant student, and by the end of his education held a Ph. D. in forensic psychiatry and was a licensed General Practitioner. This is when he began murdering his elderly female patients after convincing them to leave him large sums of money in their wills. As the heat rose in Europe, Victor used forged documents to attain a Green Card and emigrate to the US. Again he began killing, taunting the authorities with letters signed 'The Lizard King', but was eventually captured, tried and convicted for his crimes in the US. By the time the events of the game begin, he is awaiting punishment on death row in Gardelle County Jail. Victor is another of the game's boss characters. His surname may be an intentional pun on the developer's part, as "batrachos" (ßat?a???) means "frog" in Classic Greek.
+    * Legion: Legion is the main antagonist of the game. It is never stated exactly what Legion is in the game, though it is implied in a small piece of text in the game's instruction manual, which at the final confromtation Shadow Man asked to him, "Who are you? And he answered, saying, My name is Legion: for we are many". Legion also quotes and paraphrases this passage himself on several occasions throughout the game and, with increasing regularity towards the end of the game, refers to himself as 'we' or 'us'. The last few words of the passage, "for we are many", are also used as a sort of mantra by 'The Five'. Legion appears as a somewhat oddly dressed (wearing a grey morning coat, purple pin-stripe trousers and a bright yellow shirt) yet aristocratic man of between thirty and forty years of age wielding a cane-sword. However, most perturbing of all is Legion's mouth, which seems to be constantly bleeding. In addition to being the game's main antagonist, Legion is also the game's final boss.
+
+
+
+
+Gameplay
+
+Shadow Man is an action game comparable to games like Tomb Raider or the Legend of Zelda series. Most gameplay takes place in a third person perspective, though there is an option for first-person aiming. The player can run, jump, climb, swim and perform various other actions. Combat is focused on the use of firearms, the most important of which is the Shadowgun, a pistol through which Mike can channel his shadow power and reap life energy from his enemies. Numerous other weapons also exist, such as voodoo implements, ordinary Earth weapons, and some oddly-designed Deadside firearms.
+
+Shadow Man is also one of few games of its time to feature a 3D targeting feature (pioneered by The Legend of Zelda: Ocarina of Time a year earlier). This allowed for the player to lock-on to an enemy and strafe around them as desired during combat. Also unique to a game of its time, Shadow Man has a dual-wielding system, allowing the player to equip two items controlled by two different buttons/keys and use them independently of each other yet at the same time.
+
+The main focus of Shadow Man is the collection of "Dark Souls", a set of 120 indestructible souls which imbue Mike with greater power once enough are absorbed. These are what Legion intends to implant into his army of monsters, thus making them immortal. As the player collects them their shadow power level will increase level by level (to a maximum of 10), which serves two purposes: it increases the charge potential of the Shadowgun so the player can cause more damage, and it determines what level of coffin gates (coffin-shaped doors that restrict access to portions of the game) the player can open in Deadside. The player's voodoo meter increases in tandem with their shadow level, allowing voodoo weapons to be used for greater periods.
+
+A secondary focus of the game is the collection of the small ceremonial pots cadeaux (French for "gifts"). When the player has collected one-hundred cadeaux, they take whom to the Temple of Life and offer them to the Loa (gods of Deadside) so as to increase their life meter by one unit. There are five-hundred and twelve to collect in total, resulting in a possible ten health units.
+
+Another point of interest is Shadow Man's non-linearity. The player can play through the game as he or she likes, with the only limitation being the number of dark souls in the player's possession. For example, the five main bosses of the game can be fought in any order provided the player has access to both whose shadow powers in Liveside and the relevant area.
+
+
+
+
+
+Differences between the game and the comic
+
+Apart from the underlying theme of voodoo mythology, both Shadow Man the game and the original Shadowman comic book series have very little to do with one another. The only real connection is the main character of the comic, Jack Boniface, making a small cameo in the game as a past Shadow Man mentioned by name only in a report that is available for the player's viewing in-game.
+
+However, a second series of Shadowman comics (renamed Shadow Man, with the space that is present in the title of the game, or Shadowman V2) was launched near the release of the game. This second series and the game itself are nearly identical, sharing, among other things, Mike, Jaunty, and the revisited Mama Nettie.
+
+
+
+
+
+http://en.wikipedia.org/wiki/Shadow_Man_%28video_game%29

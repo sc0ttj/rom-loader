@@ -1,0 +1,75 @@
+A.P.B. All Points Bulletin|NOID|F6FB48FB|x|0|1991|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Awesome Golf|NOID|0483CD2A|x|0|1991|Golf/Sports|region-unknown|Hand Made Software, Ltd.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Basketbrawl|NOID|D0EE9038|x|0|1992|Basketball/Sports|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Batman Returns|NOID|277F82C2|x|0|1992|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Battle Wheels|NOID|779FAECE|x|0|1992|Driving|region-unknown|Beyond Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Battlezone 2000|NOID|30FEE726|x|0|1994|Action|region-unknown|Atari|dev-unknown|Everyone|media-unknown|controller-unknown|ATARILYNX
+Bill and Ted's Excellent Adventure|NOID|143A313E|x|0|1989|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Block Out|NOID|3CD75DF3|x|0|1991|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Blue Lightning|NOID|DAF587B1|x|0|1989|Flying|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Bubble Trouble|NOID|333DAECE|x|0|1991|Platformer|region-unknown|Telegames, Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+California Games|NOID|A08F0B59|x|0|1989|Sports|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Checkered Flag|NOID|19C5A7A5|x|0|1991|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Chip's Challenge|NOID|6A5F53ED|x|0|1989|Puzzle|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Crystal Mines II|NOID|A1973918|x|0|1990|Strategy|region-unknown|Color Dreams|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Desert Strike Return to the Gulf|NOID|B9AC1FE5|x|0|1993|Action|region-unknown|Telegames, Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Dinolympics|NOID|50386CFA|x|0|1992|Puzzle|region-unknown|Imagitec Design, Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Dirty Larry Renegade Cop|NOID|D565FBB7|x|0|1992|Beat-'Em-Up|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Double Dragon|NOID|FBFC0F05|x|0|1993|Beat-'Em-Up|region-unknown|Telegames, Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Dracula the Undead|NOID|33BB74C7|x|0|1991|Adventure|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Electrocop|NOID|BD97116B|x|0|1989|Shooter|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+European Soccer Challenge|NOID|F83397F9|x|0|1993|Soccer/Sports|region-unknown|Telegames, Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Fat Bobby|NOID|9034EE27|x|0|1997|Action|region-unknown|Telegames, Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Fidelity Ultimate Chess Challenge|NOID|7E4B5945|x|0|1992|Board Games|region-unknown|Telegames, Inc.|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Gates of Zendocon|NOID|494CC568|x|0|1993|Shoot-'Em-Up|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Gauntlet The Third Encounter|NOID|7F0EC7AD|x|0|1990|Adventure|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Gordo 106 The Mutated Lab Monkey|NOID|D20A85FC|x|0|1991|Platformer|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Hard Drivin'|NOID|6DF63834|x|0|1991|Driving|region-unknown|NuFX|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Hockey|NOID|E8B45707|x|0|1992|Hockey/Sports|region-unknown|Alpine Studios|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Hydra|NOID|E3041C6C|x|0|1992|Water|region-unknown|NuFX|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Ishido The Way of Stones|NOID|D80E7D52|x|0|1991|Puzzle|region-unknown|California Dreams|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Jimmy Connors' Tennis|NOID|2455B6CF|x|0|1993|Sports/Tennis|region-unknown|HandMade Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Joust|NOID|F4AE42A1|x|0|1992|Action|region-unknown|Shadowsoft|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Klax|NOID|A53649F1|x|0|1990|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Krazy Ace Miniature Golf|NOID|BED5BA2B|x|0|1993|Golf/Sports|region-unknown|Telegames|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Kung Food|NOID|CD1BD405|x|0|1992|Beat-'Em-Up|region-unknown|Lore Games|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Lemmings|NOID|39B9B8CC|x|0|1993|Strategy|region-unknown|DMA Design Limited|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Lexis|NOID|0271B6E9|x|0|1999|Puzzle|region-unknown|Shadowsoft|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Lynx Casino|NOID|1091A268|x|0|1992|Casino|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Malibu Bikini Volleyball|NOID|ABA6DA3D|x|0|1993|Sports/Volleyball|region-unknown|HandMade Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Ms. Pac-Man|NOID|7DE3783A|x|0|1990|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+NFL Football|NOID|006FD398|x|0|1992|Football/Sports|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Ninja Gaiden|NOID|22D47D51|x|0|1991|Beat-'Em-Up|region-unknown|Tecmo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Ninja Gaiden III The Ancient Ship of Doom|NOID|F3E3F811|x|0|1993|Beat-'Em-Up|region-unknown|Tecmo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Pac-Land|NOID|AA50DD22|x|0|1991|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Paperboy|NOID|4CDFBD57|x|0|1990|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Pinball Jam|NOID|14D38CA7|x|0|1992|Pinball|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Pit Fighter The Ultimate Competition|NOID|2393135F|x|0|1992|Fighter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Power Factor|NOID|99C42034|x|0|1992|Action|region-unknown|HandMade Software|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Qix|NOID|B9881423|x|0|1991|Puzzle|region-unknown|Knight Technologies|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Raiden|NOID|BCD10C3A|x|0|1997|Shoot-'Em-Up|region-unknown|Fabtek|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Rampage|NOID|B10B7C8E|x|0|1990|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Rampart|NOID|139F301D|x|0|1992|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+RoadBlasters|NOID|6867E80C|x|0|1990|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Robo-Squash|NOID|D1DFF2B2|x|0|1990|Sports|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Robotron 2084|NOID|7A6049B5|x|0|1991|Shoot-'Em-Up|region-unknown|Shadowsoft|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Rygar Legendary Warrior|NOID|67E5BDBA|x|0|1990|Platformer|region-unknown|Tecmo|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+S.T.U.N. Runner|NOID|8595C40B|x|0|1991|Driving|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Scrapyard Dog|NOID|BE166F3B|x|0|1991|Platformer|region-unknown|Creative Software Designs|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Shadow of the Beast|NOID|EB78BAA3|x|0|1992|Platformer|region-unknown|Digital Developments|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Shanghai|NOID|192BCD04|x|0|1990|Puzzle|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Steel Talons|NOID|5B2308ED|x|0|1992|Flying|region-unknown|NuFX|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Super Asteroids, Missile Command|NOID|2DA7E2A8|x|0|1995|Shoot-'Em-Up/Shooter|region-unknown|Atari|dev-unknown|Everyone|media-unknown|controller-unknown|ATARILYNX
+Super Off-Road|NOID|690CAEB0|x|0|1993|Driving|region-unknown|Telegames|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Super Skweek|NOID|DFA61571|x|0|1991|Puzzle|region-unknown|Loriciel|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Switchblade II|NOID|13657705|x|0|1992|Platformer|region-unknown|Gremlin Graphics|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Todd's Adventures in Slime World|NOID|AE267E29|x|0|1990|Action|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Toki|NOID|156A4A4C|x|0|1992|Platformer|region-unknown|Tad|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Tournament Cyberball|NOID|0590A9E3|x|0|1991|Sports|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Turbo Sub|NOID|A4B924D6|x|0|1991|Shooter|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Viking Child|NOID|8D56828B|x|0|1991|Action|region-unknown|Imagitec Design|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Warbirds|NOID|B946BA49|x|0|1991|Simulation|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+World Class Soccer|NOID|91233794|x|0|1992|Sports/Soccer|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Xenophobe|NOID|9BED736D|x|0|1990|Action|region-unknown|Atari|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Xybots|NOID|89E2A595|x|0|1991|Action|region-unknown|Tengen|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX
+Zarlor Mercenary|NOID|CB27199D|x|0|1990|Action|region-unknown|Epyx|dev-unknown|General Audience|media-unknown|controller-unknown|ATARILYNX

@@ -1,0 +1,3 @@
+3D Dungeon Master style romp where you navigate around complex mazes, fighting various fantasy monsters while trying to reach the exit.
+
+http://www.pcengine.co.uk/HTML_Games/Double_Dungeons.htm

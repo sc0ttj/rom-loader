@@ -1,0 +1,21 @@
+Bedlam is a vertically scrolling space shoot’em-up.
+
+Space fighter shoots patterns of swirling aliens and stationary cannons, collects extras and fights boss ships – Bedlam is ordinary shoot’em-up material, stretched out over 16 short levels and spiced up with your standard two-player option.
+
+While ZX Spectrum and C64 see a genuine space shooter with full-screen backgrounds and level variations, CPC and DOS get bare-bone versions stripped down to Galaga level.
+
+
+Trivia:
+
+Bedlam was released for the Amstrad CPC, the C-64, the ZX Spectrum and IBM PC. 
+
+The C64 version stands as the best of the bunch in terms of presentation, with solid gameplay slightly inferior to the ZX Spectrum rendition. Hidden extras warp the ship into bizarre pinball-style bonus levels, vertically scrolling but devoid of enemies except for bouncing metal balls.
+
+The ZX version plays best and contains most gameplay variation, despite cuts due to the Spectrum’s inferior technology. While close to the C64 version in style, level design differs strongly, and the pinball stages no longer scroll but turn out to be actual crude pinball mini-games.
+
+The CPC version cuts back on the backgrounds in favor of empty space and comes with completely changed enemy patterns, effectively making it a different game. It’s identically to the DOS version gameplay-wise, but vastly superior in color depth and sound.
+
+The DOS version is clearly the worst, owing mainly to the severely limited 4-color CGA palette and general soundlessness. While the screen scrolls fluently and the sprite move flawlessly, the presentation is hopelessly outdated for 1988.
+
+
+http://www.mobygames.com/game/zx-spectrum/bedlam__

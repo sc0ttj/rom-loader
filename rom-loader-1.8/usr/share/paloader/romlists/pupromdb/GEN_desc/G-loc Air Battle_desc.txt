@@ -1,0 +1,11 @@
+The enemy has started its attack. They've mobilized their air force and land forces for a major assault. You're stationed on an aircraft carrier on the front line, and it's up to you to show them what an ace pilot can really do!
+
+Gameplay:
+
+The game is split into 8 stages, which are split into sub-stages over land and sea, each of which has a strict time limit, and a target number of planes to shoot down. They take place from behind your plane, which can be controlled with 'up' referring to 'climb' or 'dive', depending on player preference. You are armed with 10 missiles as well as standard weapons. The plane can survive a few hits, so watch the damage report as it goes from red to black.
+
+Fail to complete a section in the time limit and you use up a continue, but the amount of planes previously shot down is not reset, making the second attempt easier Chase HQ style. As you destroy enemies you gain access to better planes, and the rank reported at the end of the game improves - this is also dependent on the skill level you play at.
+
+http://www.gamefaqs.com/console/genesis/home/586211.html
+http://en.wikipedia.org/wiki/G-LOC:_Air_Battle
+http://www.mobygames.com/game/genesis/g-loc-air-battle

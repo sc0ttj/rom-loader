@@ -1,0 +1,72 @@
+Just a few words to get you started... I am a 35-year old graphic designer from Mexico with permanent joypad scars (OK... not really) and this is my very first serious attempt of a ROM mod... honestly! I am good at drawing cartoons and skillful with my hands so it was easy once I got the hang of it.
+
+For the last three years, I had seen a number of attempts at altering the NES Punch-Out!! game, with varying results. Some were OK, some were terrible. That's one of the things that urged me to fullfill a long-time wish - to create a version of my own that truly captured the spirit of Nintendo and Punch-Out!! However, I have a full-time job and real life problems to deal with like the next person, so I didn't have the time or the patience to do it.
+
+Then I heard about the Nintendo Short Cuts contest held by mid-2007. Many great videos were created and entered, but there was one which caught my eye... probably because it was based on one of my all-time faves... Punch-Out!! (yeah, I'm biased) Not only did this video evoke many warm, earnest memories from my long gone teenage years, but caught my imagination from an artistic point of view. It was very well done, and chock full of references to the vintage, 80's NES and arcade games. 
+
+I then learned they didn't win the contest. Damn, they didn't even make the Top 10. WHY? The vid harnessed the very essence of Punch-Out!! I was outraged - and I was not alone. Over One Million Views and over 4,000 comments at Youtube speak by themselves. That's when I decided this artistic manifestation HAD to receive the credit it deserved. This HAD to become a game... of sorts.
+
+I surfed the web and learned the basics. I downloaded some apps. I had previous knowledge of Tile Layer Pro but was scared as hell to use it because the sprites were always scattered. I didn't care. I started and then some... it began to move and flow. Then I found Toma's unvaluable guide named The Palette Doc Thing, which explained how palettes worked and even included a chart showing all 64 NES colors! In no time, I was switching between four different programs - sprites, palettes, hex, emulator - and then it was completed. My heart was filled with joy.
+
+I know what is like to have a pet project and develop it, watch it grow and evolve like a child. This is what this mod became... a work of love. And a form of recognition for a very Awesome Team which should have won that contest.
+
+Thank you, Team Awesome. And thanks all Punch-Out!! fans and their kind comments. This work is for each and every one of you. You made it possible. Now it's up to you to decide if I did a good job - I look forward to hear your comments and suggestions to continue working on this project and improving it in the future.
+
+Now go and... GIVE HIM ZEE UPPERCUT!!  ;-)
+
+JpG
+
+http://theallnewpunchout.fortunecity.com/Index.html
+Little Mac - A 17-year-old fighter from the Bronx in New York. He loves nothing better than a tough challenge.
+
+Doc Louis - An ex-heavyweight who was a famous hard hitter in the U.S. around 1954.
+
+It all began one day when Little Mac and Doc Louis met by chance. Doc became Mac's trainer, teaching him everything there is to know about boxing. Doc and Mac's story continues over a seemingly endless path, until one day a champion is born.
+
+--From the NES Mike Tyson's Punch-Out!! instruction manual.
+
+Overview - 
+This is about as simple as it comes, ladies and gentlemen. Those of us who are old enough to remember, this game was the nifty when it came out. Spending hours with our friends trying to defeat these characters, Soda Popinsky is my favorite.
+
+Nostalgia rocks!!!!! This game was released before Mike Tyson's famed ear biting incident. Back when he was untouchable. However, playing the game now, on the other hand, it's a bit easier to beat him (many more years of game playing will do that to a person).
+
+If you played this game in the 80's, step back in time and play it again. If you haven't played it before, give it a shot just to give your StarCraft deserted eyes a break from reality.
+
+Directions - 
+The game is simple...You are Little Joe. You fight. You win some, you loose some, but if you play it right, at the end you get to fight Mike Tyson (anyone remember him back in the day?)
+
+Controls - 
+A Button - Right Punch
+B Button - Left Punch
+Start Button - Haymaker Punch
+Select Button - Read Hints
+
+Hints - 
+A little extra energy
+Between the first and second rounds, if you press the Select Button rapidly, Little Joe will gain more energy for the next round. The faster you press it, the longer you press it, the more energy you will gain. It IS possible to refill completely.
+
+http://consoleclassix.com/nes/mike_tysons_punch_out.html
+Development - 
+Genyo Takeda, who produced the Punch-Out!! arcade games, directed the NES versions. Because the NES was not as powerful as the arcade hardware, Takeda and his crew realized that it would be too difficult to make the NES port completely simulate the arcade versions. Instead of making the playable boxer wire-framed or transparent to see an opponent, they decided to shrink the playable boxer, so that players could easily see his opponents over his head. Though the arcade's playable boxer didn't have an official name, he was referred to as "Little Mac", because of his small stature. Other things added to the NES version that the arcade versions lacked were a rough plot, a background music track played during fights, animated cutscenes and a password system for saving progress.
+
+Around the time the Gold Version was released, Nintendo of America's founder and former president Minoru Arakawa attended a boxing match featuring Mike Tyson. While watching the boxer fight, Arakawa became so astonished with the athlete's "power and skill", he was inspired to use the athlete's name and likeness in the upcoming port of the Punch-Out!! series to help the game sell well.
+
+Gameplay - 
+Punch-Out!! features a boxer named Little Mac working his way up the professional boxing circuits, facing a series of colorful, fictional boxers, leading to a final fight with real-life boxer, the then-World Heavyweight Champion, which is Mike Tyson in the original version and Mr. Dream in the later version. The game requires good reflexes in reaction to the computer-controlled boxers' moves, as the more advanced boxers give very little indication of their coming moves. However, Punch-Out!! can be mastered by learning the computer-controlled boxers' consistent patterns.
+
+Little Mac has a limited repertoire compared to most of his opponents. His punches are limited to left and right jabs, left and right body blows, and a powerful uppercut. The uppercut can only be used once the player earns a star, which is typically accomplished by counter-punching the opponent directly before or after certain attacks are launched. For defensive techniques, Mac can dodge left or right, duck, and block attacks.
+
+Little Mac also has a heart meter, which decreases by three upon being struck by an opponent and one upon blocking an attack or an opponent blocking the player's attack. When the heart meter decreases to zero, Little Mac temporarily turns pink and appears exhausted, leaving the player unable to attack, but still able to defend. At this point, Mac can regain some hearts (and his normal color palette) only by avoiding the opponent's punches.
+
+A bout can end by knockout (KO), if a fighter is unable to get up within 10 seconds after being knocked down; by technical knockout (TKO), if a fighter is knocked down three times in one round; or by decision, if the bout lasts three full rounds without a clear winner. In order to win by decision, the player must accumulate a high enough point total by punching the opponent and/or knocking him down. However, some bouts cannot be won in this manner.
+
+When Little Mac loses his first bout, the opponent will offer a rematch. However if he loses a Title Bout, he will be ranked down (sometimes more than one place in the rankings.) On his second loss (if the loss was a rematch), he drops one place in the rankings (unless he is already at the bottom of his circuit) and must fight his way back up. A third loss (not necessarily a consecutive one) ends the game. The exception is the final fight against Mike Tyson/Mr. Dream; a loss to them automatically results in a game over.
+
+Characters - 
+The character models in Mike Tyson's Punch-Out!! are each used twice, with the exception of King Hippo, just changing the head image, colors, and the unique special moves performed. The pairing is as follows - 
+Glass Joe/Don Flamenco, Von Kaiser/Great Tiger, Piston Honda/Mike Tyson or Mr. Dream, King Hippo/(Unique), Bald Bull/Mr. Sandman, Soda Popinski/Super Macho Man.
+
+Other versions - 
+Before the release of Mike Tyson's Punch-Out!! in North America, Nintendo released it in a gold-colored Famicom cartridge simply titled Punch-Out!! in Japan, without Mike Tyson in it, as a prize for the Golf U.S. Course Famicom Tournament.[4] This version's final boxer was Super Macho Man, who was also the final boxer of the Super Punch-Out!! arcade. When Mike Tyson's Punch-Out!! sold well in North America, Nintendo later released the Mike Tyson version in Japan.[5]
+
+Punch-Out!! featuring Mr. Dream - 

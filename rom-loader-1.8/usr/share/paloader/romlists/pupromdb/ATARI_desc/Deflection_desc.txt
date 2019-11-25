@@ -1,0 +1,3 @@
+Loading instructions: 
+- type CLOAD 
+- type RUN.

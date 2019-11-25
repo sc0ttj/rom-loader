@@ -1,0 +1,6 @@
+Translation Description - 
+There wasn't much text in this game, but what was there is translated. You may experience some glitches, but they are most likely fault of the game itself rather than the patch. This was an unfinished, unreleased game of course.
+
+This game uses mapper 2 (16KB PRG switching, possibly the easiest one to implement in an emulator). So, nearly any emulator should support it.
+
+http://www.romhacking.net/trans/955/

@@ -1,0 +1,59 @@
+You're one of an an elite band of soldiers pitted against an overwhelming enemy who controls most of the world. Take on various missions ranging from assassination to demolition in an effort to defeat the enemy within a time limit.
+
+Fully 3D, you have the choice to go anywhere you please during any mission. A focus is put on freedom of choice; there's no one way to complete a mission. You can take control of any vehicle in the game, and these range from riding pedal bikes and windsurfing, to vans and ambulances, to tanks and armoured cars, to battleships and helicopters. Your arsenal includes grenades, explosives, various gadgets and a handgun, though deadlier weapons are mounted on some of the vehicles. Or if you prefer, you can acquire an enemy uniform and sneak in rather than blast your way through.
+
+There are also many structures to be found, many containing regular citizens who may be interacted with (talking to them, bribing them...), though there are also more specialised structures which may contain vehicles, ammo, or anything you might find useful to your mission.
+ 
+http://www.mobygames.com/game/amiga/hunter
+_________________________
+CHEATS:		
+
+Here are the co-ordinates (in order) for the places you need to
+visit while playing in adventure mode.
+
+    01. First man:      (163,080)   10. Security pass:  (224,153)
+    02. Old man:        (181,197)   11. Computer:       (224,199)
+    03. Second man:     (099,061)   12. Prison:         (135,239)
+    04. Professor:      (059,046)   13. Saw:            (151,121)
+    05. Master key:     (164,169)   14. Green monk:     (085,174)
+    06. Nuclear device: (028,227)   15. Animal:         (035,248)
+    07. Disk:           (100,225)   16. Hurt soldier:   (010,036)
+    08. Third man:      (195,119)   17. Scroll:         (091,173)
+    09. Fuel:           (224,123)   18. General:        (135,239)
+
+Here are some co-ordinates for the locations of fuel, which you may
+well need to power whatever vehicle you are using:
+
+          (006,145)           (008,124)           (063,039)
+          (084,245)           (101,134)           (110,106)
+          (120,155)           (134,068)           (143,030)
+          (145,051)           (168,107)           (176,249)
+          (224,123)           (242,077)           (249,109)
+          (250,237)           (251,100)
+
+Important locations:
+
+Security pass	90, 153
+Master key	164, 169
+Old man	181, 197
+Second man	99, 61
+Third man (in rock)	195, 119
+Professor	49, 115
+Prisoner	135, 239
+Injured man	10, 36
+Antibiotics and saw	151, 121
+Monk (in tree stump)	85, 174
+Scroll	91, 173
+Disk	100, 225
+Computer	244, 199
+General's bunker	135, 239
+Officer's red uniform	190, 65
+
+Vehicle locations:
+133, O67	1/2 tank
+177, 197	1/3 tank
+007, 241	1/8 tank
+005, 144	1/2 tank
+177, 059	1/8 tank
+137, 047	1/3 tank
+225, 032	1/2 tank

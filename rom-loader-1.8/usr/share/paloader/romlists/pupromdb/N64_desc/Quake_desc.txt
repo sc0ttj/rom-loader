@@ -1,0 +1,61 @@
+Description
+
+Heart-pounding gameplay, spectacular graphics and brain-shattering sound effects - guaranteed to have players jumping out of their skins! Incorporates the ferocity of the single-player game with the ultimate bloodlust of the two-player splitscreen Deathmatch. A true 3D polygonal environment that includes the most horrific creatures to grace a console. Startling dynamic lighting, levels designed by the masters, and an arsenal of the most awesome weaponry to match.
+
+
+Midway brings Id's classic 3D shooter home to Nintendo 64 in good form. Don't miss the full review
+
+Quake made its gaming debut for the PC two years ago. The dark 3D shooter was generally thought of as the "Doom killer"; sporting a polygon-pushing true 3D engine and options not found in Doom such as the ability to jump, look up-down and fight on multiple levels. But beyond everything else, Quake came to be known as one of, if not the very best multiplayer game ever created. Up to 16 (32 later) deathmatchers could battle it out over the Internet or local network, and new mission packs, hacks and upgrades were and still are a given.
+
+And now Nintendo 64 owners finally get a chance to do some Quakin' of their own, courtesy of Midway Home Entertainment and the same development team responsible for Doom 64. But is it too little far too late? Quake 2 has been available for the PC for nearly six months, Goldeneye has raised the standards of the first-person shooter for Nintendo 64 and the hype for Turok 2 is just beginning. The 64-bit update of Id's classic shooter has quite a bit to live up to.
+
+The Facts
+
+Quake (Nintendo 64)
+
+    * Resolution: 320x240
+    * Bi-Linear Filtering, Anti-aliaising
+    * Consistently high frame rate
+    * Ambient sound effects very similar to Doom 64. No music.
+    * A total of 25 single-player levels and seven deathmatch levels. No exclusive N64 levels. No Co-op mode
+    * Deathmatches are split-screen for two players. Frame rate suffers slightly in two-player mode.
+    * Fake colored-lighting via prerendered light-maps and no real-time light-sourcing. Rockets won't illuminate hallways as they go, the nailgun won't light up a room, etc. Everything has been pre-colored.
+    * Rumble Pak support
+    * Controls can be customized. There are six built-in configurations, including a scheme identical to Turok and another identical to Goldeneye. 
+
+Gameplay
+If you've ever sat down with the PC version of Quake then you probably won't be shocked with the changes made (or lack thereof) for the Nintendo 64 port of the game. All of the levels from the PC are back (with no Nintendo 64 exclusives) in slightly modified form; a few objects moved around here and there with monsters repositioned occasionally as well. Don't expect exclusive, brand new levels.
+
+For that one person out there who has never played or heard of Quake before, the object of the game is to make it through alive, while killing as many enemy soldiers and mutations as humanly possible. Of course, there's a simplistic story mixed in for good measure, but you'll never notice it (or remember it) once the carnage begins -- which is immediately.
+
+Players must battle through 25 levels, acquiring keys to unlock doors to progress through the game. A massive army of soldiers, sorcerers and demons await at every turn. Quakers aren't exactly harmless though; weapons such as the nailgun, super nailgun, shotgun, missile launcher, grenade launcher, lightning gun and axe make up the wide arsenal of destruction available.
+
+Whereas Goldeneye requires brains and technique, Quake requires quick thinking and lots of bullets. There are no objectives here, except to kill everything in sight and make it to the next level. It's bloody good fun at a frantic pace -- and we do mean bloody. Body parts explode into pieces upon being hit by a rocket, decapitated heads roll to a dead stop, and satanic overtones are everywhere. The Nintendo 64 version retains all of the violent goodness in its pure form.
+
+The analog stick is put to good use, delivering precise control (comparable to the PC mouse) for navigating or, if Turok-style is your thing, for aiming. It should be noted though, that turns can't be performed as fast as a sensitive mouse setup, where a complete revolution can be performed in a split second. Still, Quake responds better and moves much quicker than both Turok and Goldeneye, as it should.
+
+Graphics
+The game is running in a lower resolution than GL Quake and also seems to be using less detailed environments, probably to keep the frame rate high. Where as certain surroundings in PC Quake have grooves, markings, added design and more depth, the Nintendo 64 version looks a little naked in comparison. However, the difference, while noticeable, is not annoying and in fact the 64-bit version does look better than the unaccelerated version of Quake for PC. Like the PC version, there is no real-time environmental light-sourcing, which is disappointing considering that Lobotomy Software managed to add the feature for the Saturn version and it looks great. On the other hand, the colored-lighting present in Quake 64 gives the illusion of illuminated areas, colored rooms and so on. And we're not going to downplay this addition to the game because it really adds atmosphere. Hallways illuminate red, yellow, green, blue and orange; rooms glow with color and all of this happens with no hit on framerates, which run smoothly at all times.
+
+Sound
+Many will disagree, but we like the ambient sound effects in Quake 64 better than Trent Reznor's soundtrack for the PC version. The grunts, whispers, sadistic howls and everything else blend together nicely for a dark, urgent mood that while also present in Reznor's soundtrack, isn't as effective. Nintendo 64's Quake represents one of those rare cases where music simply isn't needed; the dark sound effects do much more for the frantic feeling of the game.
+
+Multiplayer
+Midway delayed Quake so that the development team would have time to implement a multiplayer mode for the game. Well, it's in there, but unfortunately the feature isn't all that it could be. Quake offers two-player split-screen deathmatches, whereas the competition (namely Goldeneye) has four. There are no cooperative modes. Framerates suffer (sometimes drastically -- lots of explosions on-screen at once) during the multiplayer mode and there are only a handful of levels that can be played (seven in all). And finally, if you've ever played the PC version of Quake you're probably going to gawk at the multiplayer options in comparison.
+
+On the other hand, the two-player deathmatches are playable and can be extremely fun, especially when explosions aren't interfering with smooth framerates. Quake generally moves much faster than other first-person shooters and usually whoever shoots first kills first.
+Closing Comments
+The Nintendo 64 version of Quake is exceptionally well done, but it's still the same game. There are no new levels, no new monsters or weapons and the multiplayer mode pales in comparison to its PC predecessor. Visually, it looks better than the original PC version, but not quite as good as the 3DFX accelerated upgrade. Pre-rendered colored textures give the game its own moody look and the framerate is very high most of the time.
+
+Despite its flaws, Nintendo 64 owners looking for the Quake experience can't go wrong with this game -- if for single-player mode alone. However, seasoned Quakers looking for the ultimate multiplayer game may want to rent before they buy.
+Another Take
+
+from Peer Schneider
+I agree with Matt's rating. The N64 conversion of Quake is a recommended buy for action fans, despite its disappointing shortcomings in the multiplayer department and the lack of improvements over the original (the animation and weapon effects are rather dated). Compared to the best of the genre, GoldenEye, Quake delivers faster action and (perhaps because of its ambient music) a surprisingly scary atmosphere. If you own any other version of Quake, skip this one. If not, prepare yourself for some major fragging.
+
+A little tip: Switch off the filtering effects in the Video menu to get rid of the blur.
+
+
+
+http://ign64.ign.com/articles/150/150397p1.html
+http://www.gamefaqs.com/n64/198375-quake

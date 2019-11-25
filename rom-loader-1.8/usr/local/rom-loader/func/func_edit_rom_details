@@ -1,0 +1,104 @@
+#!/bin/sh
+
+# this func is called by popup_menu
+# it allows ursers to edit the rom information listed alongside the current ROM
+
+# a popup GUI is created by this func, that lists all the info for the current rom
+# the user can then edit the info, and click save, the info will then be updated in 
+# the file /usr/share/paloader/romlists/pupromdb/$SYSTEM.txt .... 
+# if the current ROM is not even listed there, the user can add its info to the list
+
+edit_rom_details() {
+	# here we will replace the given details (from the user) with the listed details in the pupromdb for the current system
+	# get all details from pupromdb for this rom
+	export romname="`sanitise_romname \"${CHOOSER%.*}\"`"
+	details="`cat /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt | grep -i -m1 "$romname" | cut -f2-15 -d'|' | tr '|' '\n'`"
+	# rom might not be in the list at all
+	if [ "$details" = "" ];then
+		details="Unknown
+Unknown
+x
+0
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown
+Unknown"
+	fi
+
+	echo "$details" > $WORKDIR/edit_rom_info
+	# for each line, build a gtkdialog entry field
+	#these are the fields in the pupromdb file
+	i=0
+	for x in `cat $WORKDIR/edit_rom_info | sed 's/ /__/g'`
+	do		
+		ROM_INFO[$i]="${x//__/ }"
+		i=`expr $i + 1`
+	done
+
+	export EDIT_GUI='<window title="Editing ROM: '"$romname"'" decorated="false">
+	<vbox>
+	<hbox><text width-request="50"><label>"Name"</label></text><entry tooltip-text="This is important: The name shown here will be the name listed in the ROM database. Changing this name will either create a NEW entry in the database, or update an existing entry of the same name. TIP: You can change the name here to match any other ROM, and then that other ROM will also list the info below, in the rom list screen."><default>"'$romname'"</default><variable>name</variable></entry></hbox>
+	<hbox><text width-request="145"><label>"TheGamesDB.net ID"</label></text><entry tooltip-text="This is important: TheGamesDB.net lists many known games and gives each of them an ID. This ID can be used to get a ROMs box art and screenshots. NOTE: if you want to DISABLE online image scraping and downloading for this ROM, you can enter NOID here."><default>"'${ROM_INFO[0]//Unknown/NOID}'"</default><variable>id</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"CRC"</label></text><entry tooltip-text="The CRC is like a file hash. NOTE: This is NOT the CRC of your ROM file, but the CRC of the best version of this ROM as listed in the rom database. You can get the CRC of your files and compare with the CRC listed here."><default>"'${ROM_INFO[1]//Unknown/NOCRC}'"</default><variable>crc</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Fave"</label></text><entry tooltip-text="Add to favourites list or not"><default>"'${ROM_INFO[2]}'"</default><variable>fave</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Played"</label></text><entry tooltip-text="Number of times played"><default>"'${ROM_INFO[3]}'"</default><variable>played</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Year"</label></text><entry tooltip-text="The release year"><default>"'${ROM_INFO[4]}'"</default><variable>year</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Genre"</label></text><entry tooltip-text="The genre of the game. For Sports genres, use Sports/Soccer, etc"><default>"'${ROM_INFO[5]}'"</default><variable>genre</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Region"</label></text><entry tooltip-text="The region of the ROM. NOTE: This is NOT the region of your ROM file, but of the ROM listed in the database."><default>"'${ROM_INFO[6]}'"</default><variable>region</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Publisher"</label></text><entry tooltip-text="The game publisher"><default>"'${ROM_INFO[7]}'"</default><variable>publisher</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Developer"</label></text><entry tooltip-text="The game developer"><default>"'${ROM_INFO[8]}'"</default><variable>developer</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Rating"</label></text><entry tooltip-text="The ESRB or HSRS rating for this game. This can be anything like Everyone, General Audience, Mature, Teen, or No Rating"><default>"'${ROM_INFO[9]}'"</default><variable>rating</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Media"</label></text><entry tooltip-text="The media the game was released on, maybe cartridge, CD, downloadable, ROM hack, etc"><default>"'${ROM_INFO[10]}'"</default><variable>media</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Input"</label></text><entry tooltip-text="The device needed to play the game originally. Can be Gamepad or Light Gun, etc."><default>"'${ROM_INFO[11]}'"</default><variable>input</variable></entry></hbox>
+	<hbox><text width-request="90"><label>"Platform"</label></text><entry tooltip-text="The platform of the game. If unsure, choose '$SYSTEM'."><default>"'${ROM_INFO[12]}'"</default><variable>platform</variable></entry></hbox>
+	<hbox><button ok><action type="exit">EDIT_NOW</action></button><button cancel></button></hbox>
+</vbox>
+</window>'
+
+	# show a popup gui to edit the fields
+	RETVAL="`gtkdialog -p EDIT_GUI -c`"
+	eval "$RETVAL"
+	if [ "$EXIT" = "EDIT_NOW" ];then
+		echo "Editing $romname... "
+		#build the new line to be used in pupromdb file
+		newline="$romname|$id|$crc|$fave|$played|$year|$genre|$region|$publisher|$developer|$rating|$media|$input|$platform"
+		echo newline is $newline
+		# if rom is in the list, replace the old line with the new line	
+		rom_search="`cat /usr/share/paloader/romlists/pupromdb/${SYSTEM^^}.txt | grep -i -m1 "$romname"`"
+		if [ "$rom_search" != "" ];then
+			echo "romsearch is '$romsearch'.." 
+			sed -i "s/$rom_search/$newline/" /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt
+			padialog "Updated $romname entry in list"
+		else #rom is not in the list, so add it
+			echo "$newline" >> /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt
+			padialog "Added $romname to list"
+		fi
+		#update the list in the gui 
+		file_search=${CHOOSER//\[/\\[}
+		file_search=${file_search//\]/\\]}
+		export treeline="`cat $WORKDIR/ls | grep "$file_search"`"
+		export new_treeline="$ROMICON|$CHOOSER|$fave|$played|$year|$genre|$region|$publisher|$developer|$rating|$media|$input|$platform"
+		treeline=${treeline//\]/\\]}
+		treeline=${treeline//\[/\\[}
+		new_treeline=${new_treeline//\]/\\]}
+		new_treeline=${new_treeline//\[/\\[}
+		new_treeline=${new_treeline// & / \\& }
+		sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls
+		#update the tmp rom list
+		sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls_${SELF}
+		
+		# now we find and remove the boxart image fle for this rom, as it may need to be updated
+		IMG_FILE="`find /usr/share/paloader/romlists/boxart/${SYSTEM}/ -iname \"$romname.*\" | head -1`"
+		[ ! -f "$IMG_FILE" ] && IMG_FILE="`find /usr/share/paloader/romlists/boxart/${SYSTEM}/ -iname \"$romname*\" | head -1`"
+		[ -f "$IMG_FILE" -a "${ROM_INFO[0]//Unknown/NOID}" != "$id" ] && rm "$IMG_FILE"
+	fi
+	
+	
+}

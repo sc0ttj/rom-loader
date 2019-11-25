@@ -1,0 +1,25 @@
+Upon its release in 1980, Tempest took the arcades by storm (no pun intended).  Its mix of fast addictive gameplay and beautiful color vector graphics (a first for Atari), helped make Tempest an instant hit.  What most people don't know is that Tempest actually started out as a first person perspective Space Invaders game.  It wasn't until Dave Theurer added the tubes that Tempest began to resemble the arcade classic we all know today.
+
+For those of you not familiar with the game, SHAME ON YOU!  If you haven't played Tempest by now then you've lead a sheltered life.  But in fairness to those of you who may not have been lucky enough to live next to a decent arcade growing up and since Tempest was never released for any home system (only 2600 and 5200 prototypes exist), I'll give you the 411
+
+Tempest is a pseudo 3-D game in which the player moves along the outside of a series of interconnected tubes while enemies approach from the center of the screen.  The player must shoot these enemies before they climb up to the top of the tubes.  If things get too out of control the player can use their Super Zapper (one per level) to wipe out all the enemies on the screen.  However there are several different types of enemies to contend with, and each one has its own deadly attack.
+
+Flippers: These are the most common type of enemy in the game.  As the name suggests these red triangles flip along the tubes as they make their way to the top.  Once a Flipper makes it to the top of a tube it will roam along the outside trying to grab the player.
+
+Tankers: More annoying than deadly, Tankers are basically two Flippers in one package.  Shooting a Tanker will result in two Flippers springing forth and moving in opposite directions.
+
+Spike Layers: Spike Layers are devious little creatures, as they're not deadly themselves.  As a Spike Layer moves up a tube it leaves behind a little trail known as a Spike.  When a player warps after finishing a level, they must avoid the spikes left behind in the tubes or be destroyed.  Spikes can be shot back down the tubes (they disappear when they reach the bottom), but doing so while warping is difficult.  It's best to destroy Spike Layers before they can lay a Spike or shoot a clear path out before finishing a level.
+
+Fuse Balls: Fuse Balls are pretty harmless.  They appear as a multicolored ball that slowly moves up and down the tubes.  Make sure you don't accidentally run into these slow moving creatures while blazing across the tubes.
+
+Pulsars: Pulsars are the absolute worst enemies in the game.  Pulsars actually electrify the tube they're on, which will kill you instantly if you happen to be occupying the same tube.  There's a short delay between when a Pulsar moves onto a tube and when they electrify it, so use this time to quickly move off.  Thankfully Pulsars aren't encountered until the higher levels.
+
+Considered to be one of the holy grails of 5200 prototypes, Tempest was seen in the 1984 movie Cloak & Dagger as a box on a shelf in the computer store (quick, name that store).  Boxes were also shown for other unreleased 5200 games such as Battlezone and (naturally) Cloak & Dagger, teasing Atari fans with games that would never be.  It wasn't until 1998 that Tempest finally surfaced as a 50% complete prototype thanks to ex-Atari employee Dan Kramer (inventor of the 5200 trak ball), who had managed to grab a copy before leaving Atari.
+
+Unfortunately for fans of the games, one of the things missing from the prototype was collision detection which made the game virtually unplayable (although the deactivated code for collision detection was present in the rom).  Also missing from this version were most of the enemies (only Flippers are present), and the Super Zapper.  Still, 5200 fans rejoiced as one of the holy grails had finally been found albeit in an incomplete form. 
+
+The 5200 version of Tempest was everything that fans had been hoping for.  The vector graphics were reproduced nearly perfect (a difficult feat for the 5200), the sounds were flawless as they came straight from the arcade machine, and the gameplay (aside from the incomplete collision detection and missing enemies) was perfect.  Tempest surely would have been one of the crown jewels of the 5200's library.  Sadly this was not to be.
+
+Unfortunately Tempest was still in development when the video game market crashed in early 1984.  It was around this time that Atari decided to cancel all 5200 game development and kill off the system.  The last known version of Tempest was still only around 90% finished, but sadly this version may be lost to the sands of time.  However even in an incomplete state, Tempest clearly shows what the 5200 was capable of if properly programmed.  It's truly a shame that brilliant arcade ports like this didn't make it out the door.
+
+http://www.atariprotos.com/5200/software/tempest/tempest.htm

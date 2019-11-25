@@ -1,0 +1,69 @@
+Description
+
+Celtland has been cast into chaos by the theft of Eletale's Book. This mystical volume contains the secrets of the Spirit Tamers. Control Brian, a magician's apprentice, as he explores the expansive countryside and villages on his quest. If he does not reclaim the book, the Kingdom of Celtland will be cast into darkness forever.
+
+
+Story
+
+The playable character is an apprentice mage named Brian. Brian sets off to find his father who has left the monastery of the mages�the player learns later that his father is looking for a thief who has stolen the "Eletale Book". The player must also collect elemental amulets, which have been hoarded by powerful criminals and are integral in the defeat of the game's final boss.
+
+Characters
+
+The game's main characters and bosses are:
+
+Brian � A young boy who has set out to save his father. He lives at Melrode Monastery, and is an apprentice magician with the ability to use Water, Fire, Wind, and Earth magic. The protagonist's name in the Japanese version is Jean-Jacques (ジャンジャック?), while he is called Ayron in PAL region releases
+
+Lord Bartholomy � Brian's father and Master Spirit Tamer. He lives at Melrode Monastery and set out to get the Eletale Book which was stolen, but was subdued at Brannoch Castle before being able to continue.
+
+Leonardo � Another apprentice magician like Brian who appears at Normoon and at Brannoch Castle near the end of the game. Though not a "main" character, he still manages to help Brian by providing healing items in a room within Brannoch Castle.
+
+Leila � The guardian of Larapool, the city of water. She has the ability to control the water flow of the city, thus giving Brian access to Larapool's entrance to Blue Cave.
+
+Colleen � A Sorceress who has protected the Water Jewel for generations is the only inhabitant of the Isle of Skye; her home is connected to Epona's home.
+
+Epona � The mysterious seer who resides in the Blue Cave; her connection to the Isle of Skye gives Brian access to the Water Jewel. Later on, her powers allow her to enter Mammon's Dimension at the end of the game to provide aid to Brian.
+
+King Scottfort � King of Kenneshire, rules over Dondoran Castle in Dondoran.
+
+Queen Deanna � Queen of Carmagh, rules over Limelin Castle in Limelin and rules alone due to the death of her husband.
+
+Prince William � The son of Queen Deanna and the crowned prince of Limelin.
+
+King Beigis � Militant and power-hungry king of Highland, rules over Brannoch Castle in Brannoch Castle Town.
+
+Fargo � Arsonist and thief who stole the Fire Ruby.
+
+Nepty � Magician and thief who stole the Water Crystal.
+
+Zelse � Magician in a group of vagabonds in Normoon and thief who stole the Wind Jade.
+
+Solvaring � Self-proclaimed "King of the Beasts" and thief who stole the Earth Orb from the King of Dondoran.
+
+Mammon � The demonic embodiment of greed who attempts to trick Brian into releasing him from his prison so that he may seek to possess the powers of the human spirit.
+
+Shilf � Mammon's assistant, hiding in Baragoon Tunnel.
+
+Shannon � A puppet created by Mammon for the sole purpose of leading Brian around the world to collect the Elemental Gems, and who, near the end of the game, threatens to kill Brian's father, Bartholomy, unless Brian kills King Beigis and opens the World of Mammon.
+
+Guilty � King Beigis' monstrous looking apprentice. He has made Brannoch Castle Town a living mess with his magic experiments.
+Setting
+
+The game's story takes place in a typical medieval fantasy world. It bears incredible resemblance to Ireland.
+
+
+Gameplay
+
+The game differs from most other RPGs in that the experience system is not based upon a traditional "level-up" model. Instead, experience is gained for specific stats based on how the player performs in battle. If the character gets hit a lot, for instance, defense will increase. Also, whenever the player finds a wispy white spirit, they can choose an element of magic to upgrade (from Fire, Water, Earth, and Wind). Leveling up these elements grants the character new attacks and strengthens existing ones.
+
+The game has no money system. Every item is either found in a treasure chest, given to the player character free of charge, or dropped by a monster, if the character doesn't have one already. If the character runs out of HP, the game will return him to the last inn at which he saved. He will be allowed to retain all spells, items, and experience he has gained before death, but he may decline to do so by resetting the game without saving, and in any case, any items used before death will not be returned.
+
+
+Development
+
+The game was first previewed at Space World in 1997 under the working title Eltale (エルテイル) as its name.
+
+Because North American and PAL releases of the game were considered too short and too easy, Imagineer added new events and tightened some of the repetitive gameplay for the game's Japanese localization
+
+
+http://www.gamefaqs.com/n64/198386-quest-64
+http://en.wikipedia.org/wiki/Quest_64

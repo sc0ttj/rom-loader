@@ -1,0 +1,10 @@
+A Gypsy has placed a curse on you, shutting you out of your castle and trapping you in a sphere. To get back to your normal self you must find the Chalice of Cagara and return home with it.
+
+The game is viewed from above, and sees you move through various maze-like sections in order to find the chalice. Contact with enemies is fatal, but your hamster Eric has helicopter blades, and can be released to see them off. Later you can collect a sword allowing you to stab enemies.
+
+Trivia:
+
+The retail version of this is fatally flawed. When it was sent off to the publishers for review they used some incompetent 'cracker' guy to remove the turbo-load tape routines and the original loading screen, and apply their own, before sending to the duplicators. However, in doing so they corrupted a chunk of the game data, so certain screens will crash the game, and avoiding them means missing out on various items/locations. It also meant that the game no longer performed any of the hardware-detection routines since it thought they'd already been done, and therefore missed out on speech support via the Currah Microspeech unit. Same thing for kempston/fuller joystick support. The game got panned in the press, and sadly deserved it in the state it was published. A number of working copies existed amongst the authors' friends, but no-one else ever saw how it should have played.
+
+
+http://www.mobygames.com/game/zx-spectrum/cagara

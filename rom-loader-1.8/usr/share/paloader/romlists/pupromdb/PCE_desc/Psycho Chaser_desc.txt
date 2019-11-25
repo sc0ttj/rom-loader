@@ -1,0 +1,9 @@
+Psycho Chaser is a vertically scrolling shooter that has you taking control of a heavily armed cyborg. Players must guide their cyborgs through a series of stages blasting or evading the enemies before confronting the bosses at the end of each level. Played from an angled top-down view, Psycho Chaser's background scenery scrolls forward at a fixed rate, and players' cyborgs run along with the scenery.
+
+Players can rotate between four basic weapons at any point in the game. The default weapon emits a strong blast of fire. Players can also choose from a spread shot that fires one shot straight ahead and two shots diagonally back, a side shot that destroys anything on either side of the cyborg, or a homing energy vortex that remains on the screen for a certain amount of time doing damage to any enemies it homes in on.
+
+These basic weapons can be upgraded individually throughout the game. Players can also collect up to three missile power-ups. Each power-up gives players the ability to shoot a pair of missiles, one to either side, at fixed intervals.
+
+Players begin the game with five lives. If an enemy unit or projectile attack touches a cyborg, it will die and the player loses a life. Players can also lose a life if their cyborgs are trapped behind an obstacle in such a way so that the screen scrolls forward past them. If players lose all their cyborgs, the game is over.
+
+http://www.allgame.com/game.php?id=15544

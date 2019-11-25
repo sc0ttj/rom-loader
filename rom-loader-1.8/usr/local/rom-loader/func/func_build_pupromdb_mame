@@ -1,0 +1,7 @@
+#!/bin/sh
+
+
+rm /tmp/pupromdb_mame
+cat /root/.gxmame/gamelist| tr '¬' '|' | cut -f1-15 -d'|' | sed 's@, [a-z]*ed by @,@g' > /tmp/pupromdb_mame
+awk -F'|' '{print $1"@@"$7"@@"$8"@@"$2"|NOID|NOCRC|x|0|"$5"|No Genre|region-unknown|"$6"|dev-unknown|No Rating|media-unknown|input-unknown|"$9}' /tmp/pupromdb_mame > /tmp/pupromdb_arcade
+cp /tmp/pupromdb_arcade /usr/share/paloader/romlists/pupromdb/ARCADE.txt

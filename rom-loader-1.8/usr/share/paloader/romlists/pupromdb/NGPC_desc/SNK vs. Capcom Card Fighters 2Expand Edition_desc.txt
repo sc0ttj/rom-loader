@@ -1,0 +1,19 @@
+Having been an avid Magic: the Gathering freak in my middle school years, I can safely say that Card Fighters 2 plays VERY closely to that most hallowed of collectible card games. If youve played the first Card Fighters game, its pretty much like that game, only with better animations, and interesting facts about the characters, and I can only assume more cards. People seem to like the card games, dont they?
+
+Translation Description:
+
+Card Fighters Clash 2 is a cool NeoGeo Pocket game, which has sadly only been released in Japanese. Since we like this game so much and since there is no chance of SNK releasing an English version of CFC2, we decided to start the translation ourselves.
+
+As of 5-03-08, all in-game text? (except the on-card flavor? text) is translated. There are some graphics that are still in Japanese. The card flavor text has not been translated yet.
+
+The flavor? text shown on each card is completely missing. This is because it has not been translated. If you would like to translate it, please contact us.
+
+The name entry screen (where you enter your name or your deck name) is imperfect.
+
+The status screens (when you save your game or when your get battle status) have graphical glitches.
+
+Reviewer: Spinner 8
+http://www.romhacking.net/trans/82/
+SNK vs Capcom: Card Fighters 2 Expand Edition is a Miscellaneous game, published by SNK, which was released in Japan in 2001.
+
+http://www.gamefaqs.com/portable/neopocket/home/916658.html

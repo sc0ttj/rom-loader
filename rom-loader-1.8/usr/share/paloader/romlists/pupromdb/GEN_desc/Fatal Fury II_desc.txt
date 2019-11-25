@@ -1,0 +1,36 @@
+Again, the Lone Wolves return!
+
+Geese Howard may have been defeated, but that doesn't mean all is peaceful. A new opponent, Wolfgang Krauser, has come forth to begin a new Fatal Fury tournament. The Lone Wolves return, with new faces amongst them. Only one can be declared the winner though.
+
+Gameplay:
+
+Fatal Fury 2 was the second game in SNK's 100-Mega Shock series, offering improved graphics and gameplay over the original Fatal Fury. The play controls were modified, this time making full use of the Neo-Geo's four button configuration, by including four attack buttons (Light Punch, Light Kick, Hard Punch, and Hard Kick). The player can also dash towards the opponent or retreat by pushing the lever right or left twice.
+
+The two line battles from the first Fatal Fury has been retained. This time, the player can change freely between either lines by pressing the Light Punch and Light Kick buttons simultaneously for the Line Move. The player can also perform a Super Power Attack that will knock the opponent to the other line. When the opponent is another line, the player can press either punch button to jump towards the opponent with a Low Light Move Attack or either kick button for a High Line Move Attack. Certain stages have hazards in the background line, such as electrified wires or a stampede of bulls, and thus the player cannot change lines, but can knock the opponent to the other line, causing extra damage.
+
+Other specialized techniques have been added as well. After the player guards an opponent's attack, they follow it up with a special counterattack technique known as an Evasion Attack. The player can also taunt the opponent by pressing the Hard Punch button from a distance. Fatal Fury 2 also introduces Super Special Moves, a powerful type of Special Moves that can only be used when the player's life gauge is at 25% and flashing red.
+
+The single-player mode has the player facing against all eight characters (including a clone of the player's character), followed by four computer-only boss characters. After every fourth match, the player will participate in a bonus round for more points.
+
+Hints:
+
+- Dipswitch Mode -
+At the Takara Logo press Down, Down/Left, Left, Down/Left, Right, Y - Dipswitch Mode (activate in options menu)
+
+- Extra Continues -
+After your game is over and the Continue Screen is counting down, you can increase your continues up to nin by pressing UP, A, and B simultaneously. At the same time, press button C for every extra continue you want.
+
+- Play with the Bosses -
+To play with Krauser, Laurence, Billy or Axel, on the Takara screen, do a ''Power Geiser'' inverted move + B (directional pad, down, down-right, right, down-right, left + B). If done right, you will hear a Krauser's voice.
+Now you can play in the survival, and v.s. mode.
+To Play in the arcade mode, on the select fighter screen, put the cursor on Mai, and press down + start and right.
+
+- Second Ending sequence -
+Complete the game either with the normal or hard difficulty level without using a continue.
+
+- Set required wins to 99,999 in versus mode -
+Highlight the "Point" option in the "Control" section of the options menu for either player. Press and hold B and left until it reads 0. That player will now have to win 99,999 times to win (effectively making it impossible for them to win). This code works for either player, but only in versus mode. "1P" and "Survival" modes are unaffected.
+
+http://www.mobygames.com/game/genesis/fatal-fury-2
+http://en.wikipedia.org/wiki/Fatal_Fury_2
+http://www.gamefaqs.com/console/genesis/code/586177.html

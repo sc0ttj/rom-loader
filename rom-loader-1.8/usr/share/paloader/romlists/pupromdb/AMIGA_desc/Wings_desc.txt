@@ -1,0 +1,19 @@
+You are an allied fighter pilot in WW1, duking it out with the "Huns" up in the sky in over 200 missions.
+
+The missions usually come in three flavors: Top-down view bombing missions where you have to take out strategically important targets, isometric strafing runs where you get to blast anything that you fancy blasting with an unlimited supply of ammo, and of course the main part: Dogfights in the sky. Rendered in 3D, seems from behind your head.
+
+The game is set in the years 1916 through 1918, and to loosen things up a little, we get to read a page of our character's new entry for the diary-like journal in his company between every mission.
+ 
+http://www.mobygames.com/game/amiga/wings
+_________________________
+CHEATS:
+
+Each letter of the word wings on the main menu does something.  To access them hold down 'CTRL', 'L SHIFT', and 'L ALT' while holding down the right mouse button.  Keep holding the keys and the right mouse button and click on the letters with the left mouse button.
+
+          "W"__________________________________Music on/off
+          "I"_______Turns caps lock into an autofire button
+          "N"____________________________Skip flight school
+          "G"_________________________________________Guess
+          "S"______________Save game without having to exit
+
+To access the cheat mode you have to go to flight school.  To get an awesome pilot click on the bullseye on the airplane at the top of the flight school menu.  The screen will either flash or you will get a requester asking if you want to quit (say no).  Then create a new pilot with the name "Orca The Killer Tomato" type as it's printed.  Orca doesn't need school.  To access a menu option (much of which is no longer useful or active) create a new pilot and name him "  Who is The Riddler".  Make sure to put the two spaces before the name.  Don't use the 'RETURN' key to enter it, hit the 'ESC' key instead.  Now follow the prompts.

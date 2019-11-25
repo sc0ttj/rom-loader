@@ -1,0 +1,158 @@
+Plunge into a heart-wrenching race for survival! On a tropical island, a violent hurricane rips through the dinosaur preserve, trapping the tourists and freeing the most terrifying animals in prehistory! Two bigger-than-life ways to play: Be a dinosaur! As a Raptor, rampage across the island battling other beasts and eluding the traps and weapons of your human enemies. As Grant, the paleontologist, arm yourself with tranquilizer guns, and sleeping-gas grenades. Dodge the slashing jaws of the Tyrannosaurus Rex and the paralyzing spit of the Dilophosaurs! 16 mammoth megs of nerve-shredding action!
+
+Directions:
+
+Throughout the game, you play through a number of levels before reaching the boss at the end. As Grant, you get a cool set of weapons to use, such as darts and tazers. You must use these against the ruthless prehistoric beings that you come in contact with.
+
+Aid will also be available at some points through the scattered first aid kits. You have only three lives! Be sure to keep your eyes open for a dinosaur that could be coming your way...
+
+Playing as Raptor may seem easier than playing as Grant, depending on your preference. You don't need to worry about running out of weapons, because Raptor only uses his feet and his jaws of steel, so to speak. He has an amazing jump height and distance as well. His levels are also shorter, which may be a let down to some. Just like Grant, however, there may be times where you'll be desperate for aid. That's where the pieces of meat come in. Use those to fuel Raptor! 
+
+Gameplay:
+
+Jurassic Park is a standard action game, its level design seemingly putting it in the platform game genre, with the end objective being to reach the end of each level, traveling from left to right using items placed at fixed locations. However, the game features a then-uncommon variation in action games, giving players the option of using two characters that played almost totally differently to one another. The game was playable as either Dr Alan Grant or one of the film's versions of a Velociraptor. Grant is the default character and must be changed using the 'Player' option on the game's main menu.
+
+Grant, while driving a Jeep through the park, is attacked by the T-Rex after the power goes out and with his Jeep wrecked he must now make his way to the Visitors Center to escape. The Weapons he uses (with the exception of a Rocket Launcher) are non-lethal and will only knock out the dinosaurs for a short time, usually causing them to wake up more fierce opponents. Grant has 7 weapons: two kinds of Tranquilizer Darts (Blue is weaker, Red is stronger), three types of grenades (Gas, Flash and exploding Grenades) plus a Tazer Gun and Rocket Launcher, all of which will run out if their relevant items are not picked up with the Tazer Gun being the exception in that without any ammo it will let out a very close range shock. Grant's health item is a medical pack.
+
+The Raptor on the other hand, after lighting struck its pen and turned off the power, it escapes and pursues Grant. The Raptor uses its teeth and claws to stop opponents but Like Grant, it cannot kill dinosaurs easily - or at all - but it can kill any human enemies. Unlike Grant, The Raptor is a fast runner, and can jump higher and farther than him, making The Raptor's game slightly easier. Its health item is generic 'meat', although it has the ability to eat a Compy to refill its health as well.
+
+- Levels -
+
+The Jungle - A generic forest/jungle level with vine swinging. A good deal of both the Jurassic Park novel and film are set in this sort of location (though Jungle and Forest levels were very common in platform games of the era). There are no Velociraptors in this level.
+
+The Power Station - features ladders and boxes, making it quite similar to both it's novel and film depictions. Velociraptors first appear in this level as does the Tyrannosaurus rex who acts as the level's 'boss', his head bursting through the of the final screen causing you to carefully sneak around him or lose a life.
+
+The River - For this level Grant is required to use a motorized raft and players must pick up Fuel Tanks in order to keep the raft moving. The Tyrannosaurus appears again at the water's edge and an angry Triceratops must be passed at the levels finale. The Jungle River ride, while mentioned, does not appear in the motion picture. It was, however, a large part of the novel during which Grant Lex and Tim must evade the Tyrannosaurus at the edge of the river. This Level is omitted if the game is being played as the Raptor.
+
+The Pump House - This level is incredibly similar to a key scene in Crichton's novel where Grant and the Children face the Tyrannosaurus in the Jungle River's pump house behind a waterfall, though the level is much larger than the small area in the scene.
+
+The Canyon - The Canyon is a dry, desert-like area. No such area is mentioned in either the Jurassic park film or novel as being on the Island, which is tropical in nature. These sort of levels were, however, very common in the genre at the time. Raptors appear frequently and almost instantaneously in this level, which is slightly shorter than most.
+
+The Volcano - The Volcano is another area that does not appear in the film, although the novel's end does feature a geologically-active cave system serving as a Raptor nest. Like The Canyon, this level is short and there is even bigger abundance of Raptors. This level is omitted if the game is being played as the Raptor.
+
+The Visitors Center - This level is based very much on the design of the Visitors Center set from the film, and features the game's final boss battle, requiring the player to use the Rocket Launcher to destroy the large Tyrannousaurus skeleton in the main lobby to crush the Velociraptors.
+
+- Dinosaurs featured -
+
+    - Brachiosaurus
+    - Cearadactylus
+    - Dilophosaurus
+    - Procompsognathus
+    - Triceratops
+    - Tyrannosaurus
+    - Velociraptor
+
+Trivia:
+
+    - The final boss of Alan Grant's version of the game was also planned to be the motion picture's finale with the visitor center's giant skeletons crushing the Velociraptors. Spielberg changed the ending at the last moment after deciding the Tyrannosaurus needed to appear again (leading to that scene in the film relying solely on computer animated dinosaurs rather than a mix of animatronics and CGI)
+
+    - When the game starts, at the logo screen, there is a Tyrannosaurus right under the logo that roars "SEGA" once before the game goes to the main menu.
+
+    - A beta version rom image of this game is available for download on some rom image distribution sites. This is the final beta but it is very different from the final version of the game. The main differences include some slightly different music tracks with different precussion from the final. Grenades bounce a few times before exploding. An item not used in the final for Grant but could be used as a way to distract some dinosaurs is the chicken leg item. It only seems to work with the Compys though. It takes over 20 rockets to kill a raptor in this build as to where in the final it only takes one. Also dinosaurs respawn more frequently. Grant can beat the last level of the game by just simply leaving screen. However, Grant is transported to a glitched version of the Raptor's Power Plant with some of the bones from the dinosaur skeletons in the Visitor Center in the background of the Power Plant with incorrect colors. The game will freeze in this level after a few minutes.
+
+Controls:
+
+A Button: Change weapon (Grant), Bite enemy (Raptor)
+B Button: Fire selected weapon (Grant), Kick (Raptor)
+C Button: Jump
+Start Button: Pause game
+
+Hints:
+
+- Super Password -
+Enter the following in the Password Entry Screen...
+WAGNER93
+
+- View ending -
+Enter the following in the password entry screen.
+FREIHEIT
+
+- All Weapons Code -
+Enter one of the following in the Password Screen for the desired effect.
+All Weapons4VTNVVIT
+All Weapons (alternate)4VTNVVTI
+
+- Debug Mode -
+Enter the following in the Password Entry Screen for the desired effect.
+NYUKNYUK - Enable Debug Mode - Use Controller Two to go anywhere in the game.
+
+- Dr. Grant Difficult Mode Passwords -
+Enter one of the following in the Password Entry screen.
+OVVVVVVQLevel 1
+2VVVVVVSLevel 2
+4VVVVVVULevel 3
+6VVVVVVOLevel 4
+8VVVVVV2Level 5
+AVVVVVV4Level 6
+CVVVVVV6Level 7
+
+- Dr. Grant Easy Mode Passwords -
+Enter the following passwords in the Password Entry Screen.
+OVVVVVTOLevel 1
+2VVVVVTQLevel 2
+4VVVVVTQLevel 3
+6VVVVVTQLevel 4
+8VVVVVTULevel 5
+AVVVVVT2Level 6
+CVVVVVT4Level 7
+
+- Dr. Grant Normal Mode Passwords -
+Enter one of the following in the Passwords Screen.
+OVVVVVUPLevel 1
+2VVVVVURLevel 2
+4VVVVVUTLevel 3
+6VVVVVUVLevel 4
+8VVVVVU1Level 5
+AVVVVVU3Level 6
+CVVVVVU5Level 7
+
+- Final Level with Raptor -
+Enter the following in the Password Entry screen.
+open park
+
+- Raptor Code -
+Enter the following in the Password Entry screen.
+M21G0O12
+
+- Raptor Difficult Mode Passwords -
+Enter the following in the Passwords Entry Screen.
+G21G0036Level 1
+I21G0038Level 2
+K21G003ALevel 3
+M21G003CLevel 4
+021G003ELevel 5
+
+- Raptor Easy Mode Passwords -
+Enter the following in the Passwords Entry screen.
+G21G0014Level 1
+I21G0016Level 2
+K21GOO18Level 3
+M21GOO1ALevel 4
+O21G001CLevel 5
+
+- Raptor Normal Mode Passwords -
+Enter the following in the Password Entry screen.
+G21G0025Level 1
+I21G0027Level 2
+K21G0029Level 3
+M21GOO2BLevel 4
+021G002DLevel 5
+
+- View Ending -
+Enter the following in the Password Entry screen.
+BLUESKY1
+
+- Cheat mode -
+With Debug Mode on, enter the options screen and highlight "Controls" and press start, you should be at the main menu, press start again, and you should be at a menu where there's level select, sound select, and player select
+
+- Ultimate Level Select Password -
+In the password screen, enter JP_O_ARK as your password, with the first blank spot being either a G to be Grant or an R to be the Raptor, and the second blank being a number between 1 and 7 for each stage.
+Note: If playing as the Raptor, then only use 1 - 5 on the second blank, because the Raptor only has 5 levels.
+
+- Video Debug -
+At the Stage Select Menu, Press Start (on Controller 1) to go to a second menu called ''JP-CD Video Sequences.'' It lets you watch any video clip in the game.
+
+http://en.wikipedia.org/wiki/Jurassic_Park_(Sega_game)
+http://www.gamefaqs.com/console/genesis/home/563328.html
+http://www.gamefaqs.com/console/genesis/code/563328.html
+http://www.consoleclassix.com/genesis/jurassic_park.html

@@ -1,0 +1,62 @@
+In the year 3000 the Earth has become a toxic dump ravaged by careless humans, leaving an uninhabitable, polluted wasteland. The space terrorists, Gulfer, led by the evil Queen ZZ Badnusty, plan to harvest the pollution to create weapons of mass destruction.
+
+The earth defending United Star Cluster of Leezaluth sent a warning to the Earth about Gulfer's plans, stating that if they could not stop them, they would be forced to supernova Earth's sun to do so themselves. But if they succeeded, Leezaluth would give them a new world to migrate to. Dan Dare, a young pilot from Earth was chosen to be the pilot of a new fighter ship to combat Gulfer. The ship is armed with a powerful experimental weapon from Leezaluth called the TOZ System, which would be operated by Alexis, the emissary from Leezaluth.
+
+Directions:
+
+In Gaiares, you fly around in your ship trying to defeat the enemy ships. Be careful, because if you get hit once it's all over, unless you have a shield on, then you get three hits. You will venture into battle armed with your ship's weapons and the TOZ, which lets you steal enemy technology by docking with them.
+
+There are upgrades such as bombs that clear the screen of enemies, and shields which are your only defense (to name a few), however these upgrade are only temporary.
+
+The levels of this game are rather different in that it's a constant level with bosses placed within it. After defeating the bosses, you continue to the rest of the game without skipping a beat. If you like space shooters, this one is definitely worth your time. 
+
+Gameplay:
+
+Most horizontal shooters require your plane to come in contact with a capsule to gain weapons. Gaiares design was spectacularly different. It featured one of the most original weapon powerup system in the shooters genre to date. A device called TOZ came with the players ship. The TOZ can be fired out like the R-Type capsule, except each time it comes in contact with the enemy, it would inherit and learn that weapon. And repeatedly you can steal from the same enemy until the weapon is maxed out in strength. To this day there is no other shooter that utilizes this same system.
+
+In total there are 18 weapons to be captured, 19 counting the Tektite Blaster, and the appearance of each weapon varies depending on the strength meter.
+
+Gaiares graphics are packed with parallax, wave, and warping effects making it one of the 16-bit platform's premiere shooters. It was one of the first 8MB cartridge games on the Sega Genesis. The bosses are mostly screen-sized and push the Sega hardware to the limit across all 8 stages. The game is notorious for its high level of difficulty.
+
+The stage designs were heavily influenced by Macross, Gradius, and Valis, though some deviation is apparent with bosses like Death Ghetto and Mermaid.
+
+Controls:
+
+A Button: CHANGE SPEED
+B Button: FIRES GUNS
+C Button: SCOUTS / CHANGE WEAPONS
+Start Button: PAUSE
+
+Hints:
+
+- Cheat mode (Level Select, Pick any Weapon, and Unlimited Weapon Power) -
+Hold A+B+C+Start at the title screen to enter configuration mode. Set the sound test value to 18. Hold A on controller two and exit configuration mode. Enter the following controller actions to activate the following cheats.
+
+- Level select -
+Press Start at the title screen to display the level selection screen.
+
+- Weapon select -
+Pause game play. Hold Up and press A to select a weapon.
+
+- Full weapons power - 
+Pause game play. Hold Up and press B(2). Resume game play and fire the TOZ.
+
+Note: This doesn't work with Quark Missiles (missiles your ship already has). Those still have to be powered up by capturing ships.
+
+- Legendary Power Weapon -
+Fire the TOZ completely six times, then capture an enemy ship that normally awards a weapon to access the Tektite Blaster (T-Braster).
+
+- Invincibility -
+During gameplay, Pause, then press and hold... Left, A, and C, then press Start, you will be invincible for the duration of the stage you are on. (Note: There is no sound to confirm code entry.)
+
+- Options menu -
+To gain access to the options menu, press and hold A, B and C at the title screen, and press Start.
+
+- Stage select -
+First, access the options menu using the appropriate code.
+
+Once in the options menu, select BGM no. 18. Press and hold the ''A'' on the SECOND controller, and exit the options menu. Once back at the title screen, press Start and you'll be able to choose the stage where you begin!
+
+- Bonus Level -
+Fire the TOZ 128 times to access a bonus level.
+

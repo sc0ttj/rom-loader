@@ -1,0 +1,24 @@
+Cool Spot is a solid, colorful platform game featuring the 7-up mascot in the hero position. The game objective is fairly simple; you have to collect enough number of bonuses throughout each level in order to find the trapped Spots.
+ 
+http://www.mobygames.com/game/amiga/cool-spot
+_________________________
+CHEATS:
+
+Press P to pause at the title screen or during game play, then enter the following code with the Joystick:
+Left, Down, Right, Fire, Left,
+Down, Right, Up, Fire, Left,
+Down, Right, Up, Fire, Down,
+Right, Fire, Fire, Up, Down,
+Left, Right, Fire. The game will resume to confirm correct code entry. Press one of the following keys to activate the corresponding cheat function.
+
+Effect|Key
+
+Complete current level|[F10]
+
+Advance to corresponding level|0 through 9
+
+Move Spot anywhere on the map|Z
+
+Press Z to slow down Spot|[Minus]
+
+Press Z to speed up Spot|[Equals]

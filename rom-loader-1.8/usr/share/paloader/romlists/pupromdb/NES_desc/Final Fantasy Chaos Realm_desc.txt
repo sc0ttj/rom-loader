@@ -1,0 +1,9 @@
+Play Metroid with Final Fantasy sprites!
+
+- Most graphics have been changed
+- Full level edit
+- Tested
+
+Same level of challenge, maybe a little more.
+
+http://www.romhacking.net/hacks/237/

@@ -1,0 +1,110 @@
+# ZSNESGUI combobox
+ZSNESGUI_ARRAY=(Default Yes No)
+ZSNESGUI_ITEMS="<item>$ZSNESGUI</item>" #stored value should be first in list
+for i in "${ZSNESGUI_ARRAY[@]}"
+do
+	if [ "$i" != "$ZSNESGUI" ];then
+		ZSNESGUI_ITEMS=`echo "$ZSNESGUI_ITEMS<item>$i</item>"`
+	fi
+done
+
+# AUTOPATCH combobox
+AUTOPATCH_ARRAY=(Default Yes No)
+AUTOPATCH_ITEMS="<item>$AUTOPATCH</item>" #stored value should be first in list
+for i in "${AUTOPATCH_ARRAY[@]}"
+do
+	if [ "$i" != "$AUTOPATCH" ];then
+		AUTOPATCH_ITEMS=`echo "$AUTOPATCH_ITEMS<item>$i</item>"`
+	fi
+done
+
+# ROMINFO combobox
+ROMINFO_ARRAY=(Default Yes No)
+ROMINFO_ITEMS="<item>$ROMINFO</item>" #stored value should be first in list
+for i in "${ROMINFO_ARRAY[@]}"
+do
+	if [ "$i" != "$ROMINFO" ];then
+		ROMINFO_ITEMS=`echo "$ROMINFO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# KEEPASPECTRATIO combobox
+KEEPASPECTRATIO_ARRAY=(Default Yes No)
+KEEPASPECTRATIO_ITEMS="<item>$KEEPASPECTRATIO</item>" #stored value should be first in list
+for i in "${KEEPASPECTRATIO_ARRAY[@]}"
+do
+	if [ "$i" != "$KEEPASPECTRATIO" ];then
+		KEEPASPECTRATIO_ITEMS=`echo "$KEEPASPECTRATIO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# VIDMODE combobox
+VIDMODE_ARRAY=(0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19)
+VIDMODE_ITEMS="<item>$VIDMODE</item>" #stored value should be first in list
+for i in "${VIDMODE_ARRAY[@]}"
+do
+	if [ "$i" != "$VIDMODE" ];then
+		VIDMODE_ITEMS=`echo "$VIDMODE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# INTERPOLATION combobox
+INTERPOLATION_ARRAY=(Default Yes No)
+INTERPOLATION_ITEMS="<item>$INTERPOLATION</item>" #stored value should be first in list
+for i in "${INTERPOLATION_ARRAY[@]}"
+do
+	if [ "$i" != "$INTERPOLATION" ];then
+		INTERPOLATION_ITEMS=`echo "$INTERPOLATION_ITEMS<item>$i</item>"`
+	fi
+done
+
+# FILTER combobox
+FILTER_ARRAY=("Default" "None" "Super Eagle" "2xSal" "Super 2xSal" "HQ2x" "HQ3x" "HQ4x")
+FILTER_ITEMS="<item>$FILTER</item>" #stored value should be first in list
+for i in "${FILTER_ARRAY[@]}"
+do
+	if [ "$i" != "$FILTER" ];then
+		FILTER_ITEMS=`echo "$FILTER_ITEMS<item>$i</item>"`
+	fi
+done
+
+# NTSCFILTER combobox
+NTSCFILTER_ARRAY=(Default Yes No)
+NTSCFILTER_ITEMS="<item>$NTSCFILTER</item>" #stored value should be first in list
+for i in "${NTSCFILTER_ARRAY[@]}"
+do
+	if [ "$i" != "$NTSCFILTER" ];then
+		NTSCFILTER_ITEMS=`echo "$NTSCFILTER_ITEMS<item>$i</item>"`
+	fi
+done
+
+# BILINEAR combobox
+BILINEAR_ARRAY=(Default Yes No)
+BILINEAR_ITEMS="<item>$BILINEAR</item>" #stored value should be first in list
+for i in "${BILINEAR_ARRAY[@]}"
+do
+	if [ "$i" != "$BILINEAR" ];then
+		BILINEAR_ITEMS=`echo "$BILINEAR_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SCANLINES combobox
+SCANLINES_ARRAY=(Default Yes No)
+SCANLINES_ITEMS="<item>$SCANLINES</item>" #stored value should be first in list
+for i in "${SCANLINES_ARRAY[@]}"
+do
+	if [ "$i" != "$SCANLINES" ];then
+		SCANLINES_ITEMS=`echo "$SCANLINES_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SOUND combobox
+SOUND_ARRAY=(Default Yes No)
+SOUND_ITEMS="<item>$SOUND</item>" #stored value should be first in list
+for i in "${SOUND_ARRAY[@]}"
+do
+	if [ "$i" != "$SOUND" ];then
+		SOUND_ITEMS=`echo "$SOUND_ITEMS<item>$i</item>"`
+	fi
+done
+

@@ -1,0 +1,56 @@
+In principle, this is yet another (technically very impressive) horizontally scrolling shoot-'em-up. The interesting twist about the scenario is that it doesn't play in space like the similar game R-Type and most of its clones - instead, the fight between good and evil is underwater.
+
+Through five levels, you have to shoot countless enemies, complete with the obligatory mid-level and end-level bosses. The most innovative part of this game comes after a level when you get to purchase new weapons - instead of simply buying upgrades, you can customize your ship by placing your new weapons anywhere on it.
+ 
+http://www.mobygames.com/game/amiga/x-out
+_________________________  
+REVIEW:  
+
+Zzap, Issue 61, May 1990, p.10
+
+Rainbow Arts have practically revolutionized the old extra-lives concept by offering you a range of ships to have in your 'fleet', each individually armed!
+You begin the game in a shop with a hideous alien shopkeeper for whom shoplifting is never to be a problem. His most expensive goods are four ships which can be fitted with 3-12 weapons. Once selected, a ship can be placed on the design grid where a number of weapons can be fitted. The basic (in-built) weapon is a gun for which you can choose three strengths of bullet, fitting in up to three directions. There's also three types of guided missiles, plus bouncing and smart bombs. Up to six drones can be released, firing automatically, and re-collected. Even more impressive are the satellites; eight types moving in different patterns.
+The most graphically awesome weapons are the super-weapons  Fireclaw, Flamethrower and Energywall  activated by holding down fire.
+
+Between each multiloaded level you return to the shop where you can uprate you ships, and even buy new ones if you have the cash!
+
+The most impressive thing about X-Out are the weapons  you can easily spend hours, even days getting the hang of them. Choosing how your satellites will move and where to place them and drones is great. And working out which ship to arm how provides great tactical depth. Another good idea is how you can swap between two secondary weapons.
+It's a pity then that the game is otherwise a fairly conventional horizontally-scrolling shoot-'em-up. There's a few nice touches, such as the aliens which leave matter trails behind them (as in R-Type) and impressive mid-level and end-of-level baddies, but only the weapons are new. Still, on both formats presentation is first class with great graphics and good tunes  especially on the Amiga which so often suffers ST game clones. If you're a shoot-'em-up fanatic both versions are top notch, but the C64's already got a huge variety of similar games and X-Out needed more original baddies.
+ 
+While sharing the Welshman's disappointment with the overly familiar attack patterns, I thought the great weapons choice and technical excellence compensated. The graphic detail is superbly unpleasant, particularly on the end-of-level monsters. Working out how to deploy your weapons is really satisfying  when you get it right. C64 tape owners will find it initially painful: dying on level one means you have to reload the shop, the high score table, and level before restarting. Very irritating until you start to make progress onto further levels where fast loading makes it no more painful than any other multiload. Buying new ships and weapons between levels then becomes a welcome respite between the action, and a chance to work out new tactics  although maybe a bit too much money is offered. Definitely recommended if you fancy a bit novel.
+
+PRESENTATION 86%
+Great intro, attractive shop scene, good instructions.
+
+GRAPHICS 90%
+Some beautifully detailed sprites and landscapes, all designed specifically for the Amiga.
+
+SOUND 90%
+A great soundtrack, different tunes for each level with some very good spot FX.
+
+HOOKABILITY 82%
+A little difficult to begin with, and it takes a while to get the hang of the weapons.
+
+LASTABILITY 86%
+Eight varied levels with some great mother aliens providing an incentive to keep going.
+
+OVERALL
+84%
+An extremely slick and quite innovative shoot-'em-up.
+
+http://www.amigareviews.leveluphost.com/xout.htm#xoutzzap
+_________________________
+CHEATS:
+
+Cheat mode:
+Select the "white bug" ship at the top of
+equipment screen and place it on the grid area. Then, select the
+weak single-beam orange laser and place it on the nose of the
+shop keeper. Keep clicking the Left Mouse Button or Fire
+until your money total reaches $500,000. Additionally, press [Esc]
+during game play to advance to the next level.
+
+Unlimited energy:
+Hold Left Mouse Button + Right Mouse Button
+as the game loads, until the title screen is displayed. Hold [Help]
++ [Delete] at the shop, then select a ship.

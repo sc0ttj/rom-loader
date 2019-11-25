@@ -1,0 +1,3 @@
+Licensed from K-byte/Kay Enterprises. Weird variation of Tago's 1982 Anteater game. It's a maze game where you collect a few bits, avoice the bad ants, avoid the anteater, and get out of the maze.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=6858

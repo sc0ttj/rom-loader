@@ -1,0 +1,42 @@
+You're playing a small ant that is willing to help a friend in rather inconvenient situation. Apparently, your friend, doggie, likes to eat cookies that has his picture on their box, and he got himself so carried away that he lost the balance, and a bag of cookies fell deep down into an ant-hill. Now, you're goin' in, in a mission of solving puzzles, and retrieving the cookies for your friend.
+
+Now, this ant-hill is a bit different from the ones you saw, and especially from the one you live in. It's path is filled up with boulders, and all the gates, and you must travel the quest to find the cookies. After each different place inside, you'll fins a small bag of cookie, and bring it back to your friend doggie.
+
+The main quest consists of you carrying your-size boulders, and placing them in a well imagined line, so when you push the exact one, all must fall, and the one that marks the end must fall the last, or the door will stay shut permanently. Beside we know that ants are very easy, and can live almost every fall, you cannot practice that, so if you jusp from a little bit too high position, don't expect much, but to retry the level.
+
+Every block, or boulder in a game has a different markings. Like for example, the yellow ones are bricks you can push, and they will just as easily fall, and push, or not, the brick in front of it. The red ones will do the opposite, you cannot push them, and if the yellow, or any other brick hits it, it'll continue falling back to the other side. Some bricks explode when you push them, or other brick hits them, and that way they leave the hole, so your brick can continue spining, or yet again, not. Some spin without stop, 'til they hit some other brick that can fall, some replaces the spaces, like building a bridge on that place, some go high and when hit the top, they stick to it, and push, or not, the brick in front of them. Anyway, that's the game basics.
+
+Each level gives you the new code/password, so you can continue from the position where you ended each time you type that code. Perspective of your ant is like in any other platform game, and you control it with arrow keys, or joystick. But beware, the time is clicking, so you'll have to solve each level in a hurry.
+ 
+http://www.mobygames.com/game/amiga/pushover
+
+_________________________ 
+CHEATS: 
+
+      LEVEL CODES
+
+      02-"01536"      27-"11270"      52-"23582"      77-"21247"
+      03-"01024"      28-"09222"      53-"24094"      78-"20735"
+      04-"03072"      29-"09734"      54-"23070"      79-"28927"
+      05-"03584"      30-"08718"      55-"22558"      80-"29439"
+      06-"02560"      31-"08206"      56-"18494"      81-"30463"
+      07-"02048"      32-"24590"      57-"19006"      82-"29951"
+      08-"06144"      33-"25102"      58-"20030"      83-"31999"
+      09-"06656"      34-"26126"      59-"19518"      84-"32511"
+      10-"07680"      35-"25614"      60-"17470"      85-"31487"
+      11-"07168"      36-"27662"      61-"17982"      86-"30975"
+      12-"05122"      37-"28174"      62-"16958"      87-"26879"
+      13-"05634"      38-"27150"      63-"16510"      88-"27647"
+      14-"04610"      39-"26638"      64-"16511"      89-"28671"
+      15-"04098"      40-"30734"      65-"17023"      90-"28159"
+      16-"12290"      41-"31246"      66-"18047"      91-"26111"
+      17-"12802"      42-"32270"      67-"17535"      92-"26623"
+      18-"13826"      43-"31758"      68-"19583"      93-"25599"
+      19-"13314"      44-"29726"      69-"20095"      94-"25087"
+      20-"15362"      45-"30238"      70-"19071"      95-"08703"
+      21-"15878"      46-"29214"      71-"18559"      96-"09215"
+      22-"14854"      47-"28702"      72-"22655"      97-"10239"
+      23-"14342"      48-"20510"      73-"23167"      98-"09727"
+      24-"10246"      49-"21022"      74-"24191"      99-"44543"
+      25-"10758"      50-"22046"      75-"23679"
+      26-"11782"      51-"21534"      76-"21631"

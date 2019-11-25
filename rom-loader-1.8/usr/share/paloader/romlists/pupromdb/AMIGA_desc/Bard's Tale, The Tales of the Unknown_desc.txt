@@ -1,0 +1,8 @@
+A self-proclaimed "quest for coin and cleavage", The Bard's Tale is more of a whimsical take on role playing games than a remake of the classic series. Following the exploits of The Bard (voiced by Cary Elwes), this single player game adds humor to the traditional sword & sorcery mix. As The Bard, players can fight off hordes of foes with blade and bow and summon companions through magical Bard Songs. The Bard's Tale uses the Dark Alliance engine and has a similar camera and control scheme.
+
+http://www.mobygames.com/game/bards-tale
+_________________________
+CHEATS:
+
+Unlimited gold:
+Enter the statistics screen for the first character and pool the gold from the entire party to this individual. Remove this character from the party, then load him again. Pool all of the gold to the next character in the party. Repeat this procedure for all party members, then turn off the computer without saving the game. When the game is reloaded, every character will have an amount of gold equal to that previously pooled by the entire party.

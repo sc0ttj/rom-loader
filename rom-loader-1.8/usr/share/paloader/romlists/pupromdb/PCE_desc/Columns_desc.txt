@@ -1,0 +1,5 @@
+It's Columns - what were you expecting?
+
+Columns of 3 jewels fall from the top of the screen, use the keys to rotate them (I rotates them downward, II rotates them upward), and use the direction key to move the entire column left and righ (or down, for a speedy drop). Your goal is to line up as many similar jewels as possible -- if you get three or more, the disappear from the screen, giving you some breathing space for the next column which is coming down.
+
+http://baetzler.de/vidgames/Hu-reviews.var

@@ -1,0 +1,268 @@
+#!/bin/sh
+
+# the 'popup_menu' func is called when we double click or hit ENTER on a rom file ... 
+# it produces a popup menu, with options about the rom
+# in this file we have all the funcs we need to use those options
+
+
+# after a user chooses an option from the popup menu, the popup_menu func 
+# will check what was chosen and run the desired command or action
+
+set -a 
+
+padialog () { # produces a little popup message box with the given message
+	export MSG='<window title="Rom-Loader"><vbox><text><label>"     '$1'     "</label></text><button ok></button></vbox></window>'
+	gtkdialog -c -p MSG	
+}
+	
+add_rom_to_startup(){
+	echo "#!/bin/sh
+#sleep 5
+exec $SELF -fgui -f \"${DIR}${CHOOSER}\"" > /root/Startup/autoload_rom
+	chmod +x /root/Startup/autoload_rom
+	padialog "Added to startup (in the file /root/Startup/autoload_rom)."
+}
+
+delete_rom_from_startup () {
+	rm /root/Startup/autoload_rom
+	padialog "Removed from startup (deleted the file /root/Startup/autoload_rom)."
+}
+
+update_times_played(){
+	if [ -f /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt ];then
+		romname="`sanitise_romname \"${CHOOSER%.*}\"`" #get the rom name
+		rom_search="`grep -i -m1 \"$romname\" \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt\"`" #get all details for rom
+		times_played="`echo \"$rom_search\" | cut -f5 -d'|'`" #get times played
+		export times_played="${times_played:-0}" #if not found, set to zero
+		export new_times_played=`expr $times_played + 1` #updated times played +1
+		newline="${rom_search/|$times_played|/|$new_times_played|}" #create the newline with the new times played
+		sed -i "s/$rom_search/$newline/" /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt #edit the pupromdb file
+		#now update rom tree list (the tmp), so it updates in GUI
+		file_search=${CHOOSER//\[/\\[}
+		file_search=${file_search//\]/\\]}
+		export treeline="`grep -m1 \"$file_search\" ${WORKDIR}/ls`"
+		export new_treeline="`echo ${treeline} | sed \"s@|$times_played|@|$new_times_played|@\"`"
+		# fix [ and ]
+		treeline=${treeline//\]/\\]}
+		treeline=${treeline//\[/\\[}
+		new_treeline=${new_treeline//\]/\\]}
+		new_treeline=${new_treeline//\[/\\[}
+		new_treeline=${new_treeline// & / \\& }
+		sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls
+		[ -f $WORKDIR/ls_${SELF} ] && sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls_${SELF}
+	fi
+}
+
+add_to_faves(){
+	romname="`sanitise_romname \"${CHOOSER%.*}\"`"
+	rom_search="`grep -i -m1 \"$romname\" \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt\"`"
+	tick="√"
+	newline="${rom_search/|x|/|$tick|}"
+	sed -i "s/$rom_search/$newline/" /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt
+	#now do the tmp file, so the GUI auto updates
+	file_search=${CHOOSER//\[/\\[}
+	file_search=${file_search//\]/\\]}
+	export treeline="`grep -m1 \"$file_search\" \"${WORKDIR}/ls\"`"
+	export new_treeline="`echo ${treeline} | sed \"s@|x|@|$tick|@\"`"
+	# fix [ and ]
+	treeline=${treeline//\]/\\]}
+	treeline=${treeline//\[/\\[}
+	new_treeline=${new_treeline//\]/\\]}
+	new_treeline=${new_treeline//\[/\\[}
+	new_treeline=${new_treeline// & / \\& }
+	sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls
+	[ -f $WORKDIR/ls_${SELF} ] && sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls_${SELF}
+}
+
+remove_from_faves(){
+	romname="`sanitise_romname \"${CHOOSER%.*}\"`"
+	rom_search="`grep -i -m1 \"$romname\" \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt\"`"
+	tick="√"
+	newline="${rom_search/|$tick|/|x|}"
+	sed -i "s/$rom_search/$newline/" /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt
+	#now do the tmp file, so the GUI auto updates
+	file_search=${CHOOSER//\[/\\[}
+	file_search=${file_search//\]/\\]}
+	export treeline="`grep -m1 \"$file_search\" \"${WORKDIR}/ls\"`"
+	export new_treeline="`echo ${treeline} | sed \"s@|$tick|@|x|@\"`"
+	# fix [ and ]
+	treeline=${treeline//\]/\\]}
+	treeline=${treeline//\[/\\[}
+	new_treeline=${new_treeline//\]/\\]}
+	new_treeline=${new_treeline//\[/\\[}
+	new_treeline=${new_treeline// & / \\& }
+	sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls
+	[ -f $WORKDIR/ls_${SELF} ] && sed -i "s@$treeline@$new_treeline@" $WORKDIR/ls_${SELF}
+}
+
+delete_custom_config () {
+	rm "$CC_FILE" &>/dev/null
+	rm "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.fs-uae" &>/dev/null
+	padialog "Deleted config."	
+	
+}
+
+debug_last_command () {
+	#build a new list of cmd and output, wrap it
+	debugmsg="`cat /tmp/paloader/${SELF}_cmd | fold -s -w 80 | tail -20`:
+`cat /tmp/paloader/${SELF}_cmd_output | fold -s -w 80 | tail -20`"
+	echo "$debugmsg" > /tmp/paloader/${SELF}_cmd_debug
+
+	#run the gui
+	Xdialog --rc-file /tmp/gtkrc --wrap --cr-wrap --title "Debug last cmd" --no-cancel --textbox /tmp/paloader/${SELF}_cmd_debug 30 80
+	#remove the uneeded files now
+	rm /tmp/paloader/*_cmd*
+}
+
+add_to_playlist () {
+	#read chooser line by line, it may be multiple files,
+	#and we need to add the dir before each one of them
+	echo "$CHOOSER" | while read line
+	do
+		echo "$DIR$line" >> /tmp/paloader/playlist.m3u
+	done
+}
+
+play_now () {
+	#we do keyup, to the joypad presses end as emu loads.. fixes vice load up..	
+	xdotool keyup Escape
+	#if running a normal gui (not media, linux or recent), add rom to recent list .. 
+	if [ "${SYSTEM^^}" != "RECENT" -a "${SYSTEM^^}" != "LINUX"  -a "${SYSTEM^^}" != "MEDIA" ];then 
+		recent_line="`cat $WORKDIR/ls | grep -F -m1 -i \"$CHOOSER\" | cut -f1-12 -d'|'`"
+		if [ "`echo \"$recent_line\" | awk -F '|' '{print NF}'`" = "12" ];then
+			recent_line="$recent_line|$SYSTEM"
+		fi
+		#add system to the recent line if not there (no rom db file)
+		if [ "`echo \"$recent_line\" | awk -F '|' '{print NF}'`" != "13" ];then
+			#add more fields, it has none
+			recent_line="$recent_line|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|$SYSTEM"
+		fi
+		#if already in recent list, remove it
+		if [ "`cat /root/.paloader/parecent.txt | grep -F \"$CHOOSER\"`" != "" ];then
+			NEWLIST="`cat /root/.paloader/parecent.txt | grep -v \"$CHOOSER\"`"
+			[ "$NEWLIST" != "" ] && echo "$NEWLIST" > /root/.paloader/parecent.txt
+		fi
+		#finally, add to list
+		[ "$recent_line" != "" ] && echo "$recent_line" >> /root/.paloader/parecent.txt
+		#if we have boxart, symlink into RECENT dir
+		IMG_FILE="`cat /tmp/paloader/IMG_FILE`"
+		[ -f "$IMG_FILE" ] && ln -s "$IMG_FILE" "/usr/share/paloader/romlists/boxart/RECENT/`basename \"$IMG_FILE\"`"
+		#if we have description, symlink into RECENT dir
+		desc_file="`cat /tmp/paloader/desc_file`"
+		[ -f "$desc_file" ] && ln -s "$desc_file" "/usr/share/paloader/romlists/pupromdb/RECENT_desc/`basename \"$desc_file\"`"
+	fi	
+
+	#run the actual func need to run the rom
+	execute
+	# done playing now, update times played
+	update_times_played
+	#remove the tmp playlist (for pamedia)
+	rm /tmp/paloader/playlist.m3u &>/dev/null 
+		
+}
+
+popup_menu () {
+
+	romname="`sanitise_romname \"${CHOOSER%.*}\"`"
+
+	#here we check if the rom has a custom config, and if so, for which backend,
+	#so we can tell the user in the popup menu
+	BACKEND_LIST="`cat /root/.paloader/rclist.txt | grep \"^${SYSTEM,,}\" | cut -f2 -d'|'`"
+	for x in `echo "$BACKEND_LIST"`
+	do
+		other_gui="`cat /root/.paloader/rclist.txt | grep \"^${SYSTEM,,}\" | grep \"|$x\" | cut -f4 -d'|'`"
+		f="${other_gui}_${CHOOSER%.*}" #name of the cfg file (without extension)
+		#if the cfg file exists, and its not for this gui
+		if [ -f "/root/.paloader/gamecfgs/${f}.cfg" -a "${f}.cfg" != "${SELF}_${CHOOSER%.*}.cfg" ];then
+			export CC_FILE="/root/.paloader/gamecfgs/${f}.cfg"
+			POPUP_PLAYNOW="Play Now ($other_gui CC)"
+			break
+		fi
+	done
+	#now we check for current gui
+	if [ -f "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.cfg" ];then
+		export CC_FILE="/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.cfg"
+		POPUP_PLAYNOW="Play Now (CC)"
+	fi
+	# if CC_FILE is not blank, we have a custom config, so lets offer to delete it
+	#if CC_FILE is blank, we have no custom config, so add the option to save one
+	if [ -f "$CC_FILE" -o -f "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.fs-uae" ];then
+		POPUP_ROM_CFG='<item stock="gtk-delete">Delete Custom Config</item>'
+	else
+		POPUP_ROM_CFG='<item stock="gtk-save">Save Custom Config</item>'
+	fi
+	
+	# if auto load is loading this rom, 
+	if [ -f /root/Startup/autoload_rom -a "`grep -m1 \"$CHOOSER\" /root/Startup/autoload_rom 2>/dev/null`" != "" ];then 
+		POPUP_ROM_STARTUP='<item stock="gtk-delete">Delete from Startup</item>'
+	else
+		POPUP_ROM_STARTUP='<item stock="gtk-execute">Play at Startup</item>'
+	fi
+	
+	if [ -f /tmp/paloader/${SELF}_cmd ];then
+		POPUP_DEBUG_CMD='<item stock="gtk-help">Debug Last Cmd</item>'
+	fi
+	
+	#check if rom is a 'favourite'
+	export tick="√"
+	# only do this if we have a pupromdb file for this system
+	if [ -f "/usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt" ];then
+		fave_status="`grep -i -m1 \"$romname\" /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt | cut -f4 -d'|' | grep \"x\"`"
+		# if fave status ="", rom is a fave, so give option to remove
+		if [ "$fave_status" = "" ];then
+			POPUP_FAVE='<item stock="gtk-about">Remove from Faves</item>'
+		else # give option ato add to faves
+			POPUP_FAVE='<item stock="gtk-about">Add to Faves</item>'
+		fi
+	else #no pupromdb file, so disable add to favourites menu item
+		POPUP_FAVE=''
+	fi
+
+	export POPUP='<window decorated="false" skip_taskbar_hint="true" width_request="230">
+		<vbox>
+		<text justify="2"><label>"'${romname}'"</label></text>
+		<tree name="popuptree" rules-hint="false" selected_row="0" hover_selection="true" headers_visible="false">
+			<label>a</label>
+			<variable>POPUP_MENU</variable>
+			<height>255</height><width>230</width>
+			<item stock="gtk-execute">'${POPUP_PLAYNOW:-Play Now}'</item>
+			'$POPUP_FAVE'
+			'$POPUP_ROM_CFG'
+			<item stock="gtk-edit">Edit ROM Details</item>
+			'$POPUP_ROM_STARTUP'
+			'$POPUP_DEBUG_CMD'
+			<item stock="gtk-cancel">Cancel (Alt-F4)</item>
+			<action signal="button-release-event">EXIT:exit</action>
+			<action type="exit">POPUP_EXIT</action>
+		</tree>
+		</vbox>
+	</window>'
+   
+  # if using the media player, customise the popup a bit
+   if [ "${SYSTEM^^}" = "MEDIA" ];then
+   		export POPUP="`echo \"$POPUP\" | \
+   		grep -vE \"Custom Config|Play at S|Delete from S\" | \
+   		sed 's|<height>255|<height>145|g' | \
+   		sed 's|Edit ROM Details</item>|Add to Playlist</item>|g'`"
+   fi
+   
+   #not run the GUI, and get its return values into variables
+   RETVAL="`gtkdialog -p POPUP -c`"
+   eval "$RETVAL"
+   export POPUP_MENU #this is the users choice
+  
+   case "$POPUP_MENU" in
+	   Play*Now*)  play_now ;;   
+	   Add*to*Faves) add_to_faves ;;
+	   Remove*from*Faves) remove_from_faves ;;
+	   Edit*ROM*Details) edit_rom_details "$romname";;
+	   Play*at*Startup) add_rom_to_startup ;;
+	   Delete*from*Startup) delete_rom_from_startup ;;
+	   Save*Custom*Config) write_config; mkdir -p /root/.paloader/gamecfgs; cp $CONFIG "/root/.paloader/gamecfgs/${SELF}_${CHOOSER%.*}.cfg"; padialog "Saved config in /root/.paloader/gamecfgs/" ;;
+	   Delete*Custom*Config) delete_custom_config ;;
+	   Debug*Last*Cmd) debug_last_command ;;
+	   Add*to*Playlist) add_to_playlist ;;
+   esac
+	#we just executed on a rom, so backup the rom list for this sytem ... so it can be loaded up at once, instead of rebuilt
+	cp $WORKDIR/ls $WORKDIR/ls_${SELF}
+}

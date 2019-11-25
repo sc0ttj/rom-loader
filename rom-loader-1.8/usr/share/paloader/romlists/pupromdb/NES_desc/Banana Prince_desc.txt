@@ -1,0 +1,11 @@
+This is a really weird game. I can't describe it very well, which is why I kind of wish someone else would do these review things. But this is a platform game, and you're a Banana Prince, and you walk around and attack things with your incredibly small axe. You can also push Down+B and make a vine appear, that you can climb, in order to jump higher and stuff. When you jump off the vine, you can also hit enemies, Sonic-style! Yeah, wow!
+
+You can use the incredible multitude of rings you collect to purchase new weapons, or you can go to the bizarre minigame island, where you answer questions and stuff, to some unknown end. It's pretty cool.
+
+Translation Description - 
+Everything's complete, although this script really could've used an edit. Some of the things people say make absolutely no sense, and some of it is outright contradictory. It makes for a very silly game.
+
+Don't forget to use this patch on a German ROM. Patching the Japanese ROM will make for a game that is not English. To say the least.
+
+Reviewer - Spinner 8
+http://www.romhacking.net/trans/685/

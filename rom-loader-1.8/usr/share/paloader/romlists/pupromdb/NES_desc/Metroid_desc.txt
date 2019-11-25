@@ -1,0 +1,133 @@
+Poor, poor America. We never had the luxury of the Famicom Disk System, like in Japan. We were forced to use passwords and battery saves. BAH! Disk games such as Metroid could have their data saved directly on the disk for easy retrieval, but everyone else in the world had to use PASSWORDS! Bah! Hmph. Oh! Anyway this is the same ol oldskewl game that everyone loves. Now you can save your game! And because the FDS had an extra sound channel, a lot of the tunes now sound super sweet. Go try it out at least.
+
+Translation Description
+
+If you get the "ERR 07" error, what is most likely the case is that your emulator doesn't support writing to the disk image. So, you can't save. Use a different emulator.
+
+Anyways, there ain't much text in Metroid, but what is there is in English. So enjoy the game. Or you can just beat Metroid Fusion. Wahahaha!
+
+Reviwer - Spinner 8
+http://www.romhacking.net/trans/6/
+Play Metroid with Final Fantasy sprites!
+
+- Most graphics have been changed
+- Full level edit
+- Tested
+
+Same level of challenge, maybe a little more.
+
+http://www.romhacking.net/hacks/237/
+Space pirates have attacked a deep-space research spaceship and seized a capsule containing an unknown life-form that had just been discovered on planet SR388. This life-form is in a state of suspended animation, but can be reactivated and will multiply when exposed to beta rays for 24 hours. There is a strong possibility that the life-form just discovered was the cause of the planet's destruction. The Federation researchers had named it "Metroid" and were bringing it back to Earth when it was stolen by space pirates!
+
+If Metroid is multiplied by the space pirates and then used as a weapon, the entire galactic civilization will be destroyed. After a desperate search, the Federation Police have at last found the pirates' headquarters, the fortress planet Zebes, and launched a general attack. As a last resort, the Federation Police have decided on this strategy - to send a space hunter to penetrate the center of the fortress and destroy the Mother Brain. The space hunter chosen for this mission is Samus Aran. He is the greatest of all the space bounty hunters and has successfully completed numerous missions that everybody thought were absolutely impossible. He is a cyborg - his entire body has been surgically strengthened with robotics, giving him superpowers. Even the space pirates fear his space suit, which can absorb any enemies power. But his true form is shrouded in mystery.
+
+The planet Zebes is a natural fortress. Its sides are covered with a special kind of stone, and its interior is a complicated maze. On top of that, the pirates have planted devices and booby traps in the maze, and the pirates' eerie followers lie in wait around every corner. Samus has now succeeded in penetrating Zebes. But time is running out. Will he be able to destroy the Metroid and save the galaxy?
+
+--From the NES Metroid instruction manual.
+
+Overview - 
+Metroid is a classic that has it all. Great graphics, sound, controls, and story line. It is one of the greatest games ever made. Metroid brought us into the SciFi realm and made us a hero. You play as Samus Aran, a bounty hunter of the highest quality. Half human, half machine, and all bad--to the bone. Your mission is to kill all space pirates and destroy the stolen Metroid. This mission will not be easy, but you will pull through using your whole arsenal.
+
+That's right, you will gain new abilities as well as new weapons along the way to make your journey just a little easier. Metroid was the start of a great series and I hope that you enjoy it as much as I do. Have fun, and good luck with Metroid. 
+
+Directions - 
+Space pirates have taken a Metroid, and they are planning to use it against the galaxy. Your job, as the bounty hunter Samus Aran, is to stop this from happening.
+
+Controls - 
+A Button - Jump
+B Button - Shoot Missiles
+Start Button - Pause/Unpause
+Select Button - Switch to Missiles--Choose between "START" or "CONTINUE"
+
+Hints - 
+Invincibility, Infinite Missiles
+Password - NARPAS SWORD0 000000 000000
+
+Play as Samus Without Armor
+Justin Bailey ------ ------
+
+http://consoleclassix.com/nes/metroid.html
+This is a basic redo of the classic, with rooms changed around and some color changes in enemies.
+
+http://www.zophar.net/hacks/nes/metroid-1/metroid-2000.html
+Remember playing Metroid on your NES and putting in your password only to start playing with 6 empty energy tanks and 30 energy? This hack starts you off with your tanks FULL and at 99 energy!!
+
+Additional credits go to KZK.
+
+http://www.romhacking.net/hacks/504/
+Another hack of Metroid. This hack features a difficulty theme and arranges the levels and hacks the AI of the game.
+
+http://www.zophar.net/hacks/nes/metroid-1/metroid-adventure.html
+No information online about this NES Hack.  ~Rx
+From the author - "This is a 100% complete patch - Most of the map was totally deleted so the game was built again from scratch. Items are moved, puzzles are changed, and there is no such thing as a dead end. It is hard both mentally and physically, but I avoided such design flaws as having to bomb arbitrary points in the floor or placing enemies so that you get smacked in the face on the way in or out of rooms. Metroid fans should love this! It's essentially a brand new NES Metroid game. Also, minor text and graphics hacks were done, but mostly just for packaging purposes, (As in, the title screen was changed, mostly). If you like Metroid at all, you should pick this up!"
+
+This is a really fun hack, give it a try.
+
+http://www.romhacking.net/hacks/99/
+A complete hack of the original Metroid for the NES. This has been in production since the final says of TEK and has undergone many revisions. Many well known members of the hacking community have helped in the creation of this. It was quite the adventure making it, I hope you have quite the adventure playing it.
+
+"This hack is amazing. I liked how you added a Crateria esq area to the beginning of the new Brinstar. Got the morph ball and bombs so far. Great job."- Power bub
+
+"Great stuff man, i love it."- Omega45889
+
+"The hack is great, I've been playing it on PocketNES, not getting anywhere though, I forgot how much I sucked at the original Metroid"- Dragonsbrethren
+
+"Fror being too hellishly hard an the disabling of the "NARPAS SWORD0 000000 000000? password i give this hack a -100 out of 10."- funguy10
+
+Let me know what ya think! dudestman@hotmail.com
+
+Thank you.
+
+http://www.romhacking.net/hacks/147/
+Another remake of Metroid. While not as complete as the Deluxe version, Metroid Invasion is a worthy sequel to Samus Aran's first adventure.
+
+http://www.derok.net/emulation0/metroid.html
+This is a hack of Metroid that includes level changes and a modified palette.
+
+http://www.zophar.net/hacks/nes/metroid-1/metroid-m.html
+My intent is to enhance the overall playability of the Metroid engine by providing an entirely new adventure. I have attempted to keep this version of Metroid true to the spirit of the original by making some tricky secrets and convoluted mazes.
+
+Where my version departs from the original Metroid game is the following - 
+- Much larger overall map; easier to get lost
+- Secrets are in some cases harder to figure out
+- Placement of enemies is much more devious, requiring you to plan how to get past them without getting the crap kicked out of you
+- Respawning occurs with not just Zebs; it also occurs with tougher enemies such as Rios
+- All non-missile items are CRITICAL to winning the game
+- Important items are locked away much more tightly than before
+
+http://www.romhacking.net/hacks/115/
+Celebrating the release of Metroid Prime/Fusion, I created Metroid Omega. Every graphic of the game is changed thanks to Jorge Fuentes's great artistic skill, and Brinstar is transformed into an evil deathtrap. Once I finish a few other projects, the rest of the levels will be made just as evil as it, so have fun trying to survive!
+
+http://www.romhacking.net/hacks/446/
+This is a remix hack where alot of level layouts have been changed.
+
+http://www.zophar.net/hacks/nes/metroid-1/metroid-planet.html
+This is a 95% graphics hack of the NES game, "Metroid." The game features Link (instead of Samus in suit) and a slightly modified Kid Icarus (instead of Samus out of suit). The enemies vary from games like Zelda 2, Super Mario Bros. 2, Super Mario Bros. 3, Mega Man, and a few others. I recommend playing through the whole game to appreciate the full hack.
+
+http://www.derok.net/emulation0/metroid.html
+This is a hack for Metroid. It improves the challenge level of the game considerably and alters the location of items and monsters. It also alters the layout of several areas in the game.
+
+http://www.romhacking.net/hacks/63/
+Samus has to go through another quest to stop Mother Brain. It is a level hack through and through. I wonder if it's harder?
+
+http://www.romhacking.net/hacks/259/
+This is a map edit for the original Metroid. Screens, enemy and item placement, palettes, text... you name it, it's been changed. The primary goal was to make the game more playable - the discerning player will note the careful placement of platforms and enemies to make jumps easier. Not that beating the game will be a cinch. The items are much more difficult to get, the corridors are contorted into winding mazes, and many of the energy tanks have been completely eliminated. Beating this version will be fun but it will not be effortless.
+
+http://www.derok.net/emulation0/metroid.html
+This Metroid hack contains entirely new levels, new enemies, new palletes, etc.
+
+http://www.zophar.net/hacks/nes/metroid-12/Metroid-Eternal-Darkness-197.html
+No information online about this NES Hack.  ~Rx
+Most graphics updated to look more like Metroid Zero Mission. Other changes (energy, animations) kept minimal so this can be mixed and matched with other level mods.
+
+http://www.gbatemp.net/index.php?showtopic=87680
+Wart is Back! The evil king has escaped from Super Mario's unconscious and invaded the Mushroom Kingdom. Wart has kidnapped Mario and rendered the kingdom defenseless. Princess Peach has sent for Samus in a last-chance hope that she may be able to defeat Wart and save the land. As Samus, you must traverse the many obstacles and dangers that Wart has set up through out the 5 areas as well as collect Mario's super powers to help you on your journey.
+
+http://www.romhacking.net/hacks/137/
+No information about this Super Mario Bros Hack online.  ~Rx
+
+http://desnet.kodewerx.org/news/news.shtml
+Samus' suit is redesigned, all of the maps have been edited, title screen, mission text, credits, and boss and item locations are changed.
+
+http://www.zophar.net/hacks/nes/metroid-1/Samus-Mother-Brain-Returns-517.html
+No information about this Metroid hack online.  ~Rx

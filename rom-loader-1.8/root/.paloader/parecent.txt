@@ -1,0 +1,32 @@
+cartridge_pce|batman.zip|x|1|1990|Action|Japan|SunSoft|SunSoft|Not Rated|HuCard|PC Engine Gamepad|PC Engine
+cartridge_pce|wonderboy 2 e.zip|x|1|1998|Action|Translated (Japan)|No Publisher|Unknown|No Rating|HuCard|PC|PC-Engine
+cartridge_genesis|Aladdin (E) [!].bin|x|6|1993|Platformer|Pirate (China)|Virgin Interactive|Unknown|General Audience|Cartridge|Gamepad|Genesis
+cartridge_snes|BS F-ZERO Grand Prix 2 (J) [h1].smc|x|1|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|SNES
+cartridge_snes|Chrono Trigger (USA).zip|x|2|1995|Role Playing|USA|Squaresoft|Square|Not Rated|Cartridge|Gamepad|SNES
+cartridge_genesis|Barkley Shut Up and Jam! 2.bin|x|1|1995|Sports/Basketball|USA|Accolade|Accolade|Everyone|Cartridge|Gamepad|Genesis
+cartridge_c64|Starfox.tap|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|COM
+cartridge_snes|F-ZERO (U) [!].smc|x|0|1991|Driving|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+cartridge_arcade2|Alien vs. Predator (Asia 940520)|x|0|1994|No Genre|Unknown|Capcom|Unknown|No Rating|Unknown|input-unknown|ARCADE
+rom|Cutey Honey FX.cue|x|2|1995|Adventure|Unknown|DataWest|Unknown|General Audience|Unknown|Unknown|PCFX
+cartridge_coleco|Adventurium3 Demo (2000) (PD).col|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|COLECO
+cartridge_atari|Rick Dangerous (1989)(Core Design - Firebird)[!].stx|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|ATARIST
+cartridge_atari|Rick Dangerous (1989)(Core Design - Firebird)[!].stx|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|ATARIST
+cartridge_doom|FREEDOOM.wad|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|DOOM
+cartridge_neogeo|mslugx.zip|x|0|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|NEOGEO
+cartridge_doom|DOOM1.WAD|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|DOOM
+cartridge_genesis|Comix Zone (U) [!].bin|x|0|1995|Beat-'Em-Up|USA|Sega|SEGA|General Audience|Cartridge|Gamepad|GEN
+cartridge_gameboy|1742 - Grand Theft Auto Advance (E) (M5).gba|x|1|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|GBA
+cartridge_gameboy|Super Mario Advance (UE).gba|x|0|2001|Platformer|USA|Nintendo|Nintendo|Everyone|Cartridge|Gameboy Advance|GBA
+cartridge_gameboy|metal gear solid ghost babel [C] .gbc|x|0|2000|Action , Stealth|USA|Konami|Konami|No Rating|Cartridge|Gameboy|GBA
+rom|Pitfall_-_The_Mayan_Adventure.iso|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|SEGACD
+cartridge_genesis|Castlevania - Bloodlines (U) [!].bin|x|0|1994|Platformer|USA|Konami|Konami|General Audience|Cartridge|Gamepad|GEN
+cartridge_psx|WipEout (Track 1).bin|x|?|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|PSX
+cartridge_snes|Lion King, The (USA).zip|x|0|1994|Platformer|USA|Virgin Interactive|Virgin Interactive|Not Rated|Cartridge|Gamepad|SNES
+cartridge_snes|Star Fox 2 (Japan) (Proto2).zip|x|0|2004|Shoot 'em Up|Prototype (Japan), Translated|No Publisher|Unknown|No Rating|Cartridge|Gamepad|SNES
+cartridge_snes|F-ZERO (U) [!].smc|x|0|1991|Driving|USA|Nintendo|Nintendo|Not Rated|Cartridge|Gamepad|SNES
+cartridge_snes|Sonic the Hedgehog 4 (World) (Unl).zip|x|0|1992|Fighter|USA|Taito|Taito Corporation|Not Rated|Cartridge|Gamepad|SNES
+cartridge_atarilynx|Bill And Teds Excellent Adventure.lnx|x|1|1989|Adventure|Unknown|Atari|Unknown|General Audience|Unknown|Unknown|ATARILYNX
+cartridge_atarilynx|California Games.lnx|x|0|1989|Sports|Unknown|Epyx|Unknown|General Audience|Unknown|Unknown|ATARILYNX
+cartridge_atarilynx|Pit Fighter.lnx|x|0|1992|Fighter|Unknown|Atari|Unknown|General Audience|Unknown|Unknown|ATARILYNX
+cartridge_atarilynx|Alien Vs Predator.lnx|x|0|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|Unknown|ATARILYNX
+cartridge_atarilynx|Ninja Gaiden III.lnx|x|0|1993|Beat-'Em-Up|Unknown|Tecmo|Unknown|General Audience|Unknown|Unknown|ATARILYNX

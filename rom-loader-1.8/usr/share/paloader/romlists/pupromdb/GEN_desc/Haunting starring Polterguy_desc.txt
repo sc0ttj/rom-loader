@@ -1,0 +1,44 @@
+Scare the evil, greedy Sardinis out of their houses by turning everyday household objects into something scary, funny or just plain gross. Or use your special spells to really send 'em shrieking. But you gotta hurry, 'cause your ectoplasm may run out! 16 megs of cool graphics, gross special effects and blood-curdling sounds. Unique 3/4 view perspective. Over 400 scary, funny or gross fright items, each causing something different to happen. Five special spells: Zom-B-Ize, Supr-Scare, Boo-Doo, Ecto-Xtra and Dog-Off. "Killer" dungeon with 12 different paths!
+
+Gameplay:
+
+In the single player game the player controls a rebellious dead teenager (Polterguy) in a house filled with a yuppie family named the Sardini's, through an Isometric perspective. Your job is to scare each family member out of the house by possessing various objects in the house so that you can come back to life and rob them easier. However, the player has to act quickly as your "ecto" energy bar is slowly depleting and when it is gone you are sent down to the underworld.
+
+- Houses -
+
+There are a total of four houses which the player must drive the Sardini family from. Over the four houses the character will encounter approximately 400 objects which he can possess and interact with. When the character is in a house his ecto slowly decreases and can be further decreased by the barks of the family's dog, as well as by the ecto beasts.
+
+- Underworld -
+
+The underworld is the only way in the game to receive a game-over sequence as it is the only place your character may sustain damage. Your health in these stages is represented by a character portrait. Each time the character sustains damage the portrait will shrink until only the characters eyes remain. In the underworld you must collect all the drops of ecto for the stage as well as find the exit. When you pick up a drop of ecto another will drop from the roof and slowly shrink after a short period of time. There is an on-screen arrow that points to the next ecto drop or the exit, if the ecto or exit cannot be seen on-screen. The dungeon is also the place were the character may find special spells; these drop from the room similar to ecto but disappear much faster.
+
+There are 12 unique dungeon paths, once these have all been played they simply rotate through again.
+
+- Hazards -
+
+- Dungeon Encounters -
+
+In the dungeon levels there are several hazards that may reduce the characters life portrait, these include, steam vents, disembodied hands, bats, and bouncing skulls.
+
+- Ecto Beasts -
+
+The ecto beasts are attracted to the ecto that appears after a family member has been chased out of a room by the player. These will pick up the ecto dropped stopping the player from doing so, after which the will attack the player and reduce his ecto meter. At later levels these appear more frequently in the house.
+
+- Family Dog -
+
+The family dog is the only living creature in the game that can detect the player's character in the house. When the dog barks at the character the ecto meter substantially drops, and the fear levels of any family members in the room go down.
+
+Once all the members of the family have left the final house the dog moves to a square vacant room which has no objects the character may possess in it. At this point the dog transforms into a giant version of an Ecto Beast, which the character must defeat to complete the game.
+
+Hints:
+
+- Level Skip and Extra Points -
+In the first house, enter the grandfather clock in the dining room with A. While in the clock, press B, C, C, B. then A to exit the clock. You'll be in the second house with 15,000 more points.
+In the second house, enter the toilet in the Jacuzzi Room and press C, C, C, B. You'll be in the third house with 15,000 more points.
+In the third house, enter the garbage can in the garage. Press B, C, B, B and exit the garage. You'll be in the final house with 45,000 more points.
+
+- No Music -
+Pause the game. Hold A, B, and C, then press Start. The music will be off. Do the code again to turn it back on.
+
+http://www.gamefaqs.com/console/genesis/home/586230.html
+http://en.wikipedia.org/wiki/Haunting_(video_game)

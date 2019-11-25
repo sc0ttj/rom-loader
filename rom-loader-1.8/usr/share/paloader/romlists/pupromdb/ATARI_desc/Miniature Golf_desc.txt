@@ -1,0 +1,7 @@
+Miniature Golf is a Golf game, published by Atari, which was cancelled before it was released.
+
+Although it doesn't stand out graphically, this game is a complete 18 hole miniature golf course. It's actually not that bad considering how difficult it would be to program any sort of 3-D version.
+ 
+Use SELECT, OPTION and keys 1-9 on computer version.
+
+http://www.gamefaqs.com/console/a5200/home/585324.html

@@ -1,0 +1,7 @@
+Starting Titus' racing series of third-person perspective racing games, Crazy Cars encompasses the American Cross Country Prestige Cars Race. This takes in several parts of the USA, in several powerful cars. Initially you have a Porsche 911 Turbo in your hands, but this can later be upgraded to a Lamborghini and then a Ferrari. There are other cars on the road, which you must avoid contact with. Bumps and divots in the road throws the car off course, as does contact with any of the roadside barriers. Each race must be completed within the time limit.
+
+Trivia:
+
+Crazy Cars was ported to every popular computer format of its time, from the underpowered ZX Spectrum to the extremely expensive Mac II, and even the French Thomson computers, but there was one port which was abandoned; Alain Fernandes says in a comment at Grospixels that he at one point worked on an Atari 2600 port.
+
+http://www.mobygames.com/game/zx-spectrum/crazy-cars

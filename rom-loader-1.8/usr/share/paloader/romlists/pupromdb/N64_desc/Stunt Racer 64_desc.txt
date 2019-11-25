@@ -1,0 +1,29 @@
+Description
+
+The future of racing is here! Stunt Racer 64 combines the cutthroat world of auto racing with incredible stunts to reach new heights in excitement! Jostle for position through roller coaster tracks worthy of a theme park. Stunt Racer 64 is more than just racing - it's a daredevil thrill ride! Featuring 11 daredevil tracks to conquer, including half pipes and stunt tracks, and 29 stylish retro vehicles with futuristic power upgrades. Accumulate cash by winning races and pulling off dangerous stunts to add vehicles to your collection with the prize money!
+
+Features
+
+Set in the future, the gameplay includes more than simple racing. Older vehicles (primarily those regarded even today as classics) are retrofitted with futuristic engine and turbo technology, in addition to jets mounted to allow the car to perform midair stunts. These stunts, including flips, barrel rolls, etc., allow the player to accumulate cash rewards during races on levitating tracks. Money accumulated is used to purchase new cars, as well as upgraded parts for cars.
+
+
+Modes
+
+    * Contest Mode - One player selects one of the starter cars, and races against a full tournament of computer characters. Although the character biographies hint that the computer characters have distinct racing personalities, there is no direct interaction with them. For each heat, a certain number of points is awarded for each place. The player must place high enough overall in each round to advance. There are five leagues to race through, each bringing an increasing level of difficulty, more opponents, more rounds, and more tracks. When a first-place overall finish is attained, the player races one-on-one against the league owner, with the prize of the league owner's car. The leagues are, in order of increasing difficulty:
+          o Kid Cola's League
+          o Bunny's League
+          o Hill Bully's League
+          o Big John's League
+          o Dr. Death's League
+    * Quick Race - One to four players can compete in an arcade-style race where the cash prizes do not accumulate above $1,000 (When a player reaches $1,000+, each $1,000 is traded for a Turbo that they can use to at any time to go faster.) The cars available (and their upgrade status) depends upon the game save last loaded in Contest Mode. The two main modes of the Quick Race are Single Race (with optional computer opponents) and Practice (with no computer opponents). The two stunt tracks, Half Pipe, and Stunt Bowl, are open only in Quick Race.
+
+Cars
+
+When a career is first started in Contest Mode, the player selects one of four starter cars: Warbird Light, Z-Bucket, Stottlemeyer, and Del Raye. Cash prizes can later be used to purchase the rest of these starter cars if desired, along with other cars that are available by purchase only. Among these aforementioned cars, once they reach full upgrade, a fancier version of the car comes up for sale. These "upgraded" cars cannot have their parts upgraded. Neither can the cars earned from league owners.
+
+
+
+
+
+http://en.wikipedia.org/wiki/Stunt_Racer_64
+http://www.gamefaqs.com/n64/579310-stunt-racer-64

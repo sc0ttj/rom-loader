@@ -1,0 +1,22 @@
+Sixteen levels (in four groups of four) await you in this long-developed Bitmap Brothers title. The basic gameplay is similar to Gauntlet, but in an open air setting, with bridges across rivers and such in the maps. The visuals are in the 'metallic and blue' style the Bitmaps appeared to favor.
+
+There were 6 characters available in the game, each with different strengths and weaknesses, and different starting prices. In 2-player mode you each chose a character and played co-operatively, but in one-player games you also choose a character for the computer to control, with its Artificial Intelligence allowing it to open doors, pick up power-ups and take on baddies away from the ones occupying your character.
+ 
+http://www.mobygames.com/game/amiga/chaos-engine
+_________________________
+CHEATS:
+
+                            (LEVEL CODES)
+
+      Code:               Players:              World:    Cash:
+
+      "HHGGFFDDCCBB"      Thug, Preacher          1       50000
+      "LQPBK8JWDNBY"      Thug, Preacher          2       40000
+      "8H8BKOSWQY7H"      Thug, Preacher          3       30000
+      "P28BKM6XMWWK"      Thug, Preacher          4       30000
+      "JJHHGGFFDDCC"      Navvie, Brigand         1       10000
+      "VVVVVVVVVVVV"      Brigand, Mercenary      1       30000
+      "PKJKDL1#DFD4"      Brigand, Mercenary      4       20000
+      "XXXXXXXXXXXX"      Gentleman, Navvie       1       30000
+      "YYYYYYYYYYYY"      Thug, Gentleman         1       20000
+      "TTTTTTTTTTTT"      Mercenary, Gentleman    1       45000

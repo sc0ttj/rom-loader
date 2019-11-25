@@ -1,0 +1,5 @@
+Description
+
+This is a translation patch for the Mega Drive Sega Net game entitled "Phantasy Star II: Shilka's Adventure". It sports a variable-width font engine with kerning and, as usual, it is a "dual-language" patch, meaning that it supports both Japanese and English, depending on the country code of your machine.
+
+http://www.romhacking.net/trans/1159/

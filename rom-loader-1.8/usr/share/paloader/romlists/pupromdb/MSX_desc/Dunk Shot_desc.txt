@@ -1,0 +1,3 @@
+Dunkshot is a basketball game. You can select the color of the court, the uniform, duration of the game and also select the players of your team. Each player has strong and weak points and will improve as the game progresses. You can choose from many formation tactics and can also select the strength of the opposing team.
+ 
+http://www.mobygames.com/game/msx/dunkshot

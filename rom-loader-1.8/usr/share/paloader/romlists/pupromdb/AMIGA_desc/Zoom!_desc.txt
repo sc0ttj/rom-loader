@@ -1,0 +1,23 @@
+Zoom! is an arcade style puzzle game.  Your character Zoomer (a Pacman lookalike with arms & legs) must trace the outline of the squares on the game board to light them up.  Points are awarded when full squares are formed, although the game also displays how many lines must still be completed. You proceed to the next level when all the squares have been lit up.  There are various monsters that will try to hunt you down - contact with these costs you energy and eventually a life. There are also a number of power-ups that will aid your quest - quick filling of tiles surrounding the bonus piece, a level skip and bonus points, for example.
+ 
+http://www.mobygames.com/game/amiga/zoom
+_________________________
+CHEATS:
+
+Cheat mode:
+Type trick at the title screen or during game
+play.  Then, press one of the following keys during game play
+to activate the corresponding cheat function.
+
+Effect: Key
+
+Skip 16 levels: R
+
+Invincibility: T
+
+Disable cheat mode: N
+
+Level advance:
+Press [F10] when prompted to select a starting
+level to begin at level 30 instead of level 10.
+*

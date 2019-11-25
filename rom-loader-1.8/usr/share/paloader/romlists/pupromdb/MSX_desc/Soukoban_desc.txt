@@ -1,0 +1,5 @@
+In this classic game, you must move crates to push a path to the exit. However, this game goes beyond this simple premise with unbelievable challenges -- by the last levels, you must plan 40 steps in advance. 
+
+Many shareware games have been based on this concept (BoulderXod for ZZT, and a module in Smart Games).
+
+http://www.mobygames.com/game/msx/soko-ban

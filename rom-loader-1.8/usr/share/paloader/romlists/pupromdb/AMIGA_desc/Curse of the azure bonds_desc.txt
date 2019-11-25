@@ -1,0 +1,25 @@
+Your party have been ambushed, captured and cursed with five azure bonds. These bonds have dangerous magical powers that can take control of you at the most inopportune times.  You must search for the source of the bonds, and free your party from the curse.
+ 
+http://www.mobygames.com/game/amiga/curse-of-the-azure-bonds
+
+Based on 1989 SSI Special Projects Group/SSI 8-bit (C64/128, Apple II) and PC/Tandy releases.
+
+Curse of the Azure Bonds is a licensed Advanced Dungeons & Dragons fantasy role-playing computer game. Additionally, it's the second of four games in the Forgotten Realms fantasy world series, preceded by POOL OF RADIANCE and followed by SECRET OF THE SILVER BLADES and POOLS OF DARKNESS.
+
+Game based on the TSR novel Azure Bonds by Kate Novak and Jeff Grubb; scenario created by Jeff Grubb (TSR) and George MacDonald (SSI); original game developed by David Shelley, Michael Mancuso & Oran Kangas; Amiga game design by Kiri Naiman and Stephen Linhart. 
+
+Game allows players to import characters from AD&D computer RPGs POOL OF RADIANCE and HILLSFAR. Additionally, the game supports savegames (floppy and HD) and a quit back to WB option.
+
+Known releases: V1.0 (17-Oct-1990), V1.1 (1990)
+
+http://hol.abime.net/3148
+_________________________
+CHEATS:
+		
+Duplicate items and money:
+Create a temporary character. Load a saved game and
+transfer all desirable items to the temporary character. Remove
+the temporary character from the party. Load the temporary character
+back into the party. Transfer the desired items to the other party
+members. Drop the temporary character from the party. Repeat this
+process by loading the temporary character back into the party.

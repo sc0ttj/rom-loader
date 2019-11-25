@@ -1,0 +1,147 @@
+A hack of Castlevania I by ZCNE. The basic level structure and enemy locations remains the same, but the block placement and background remains is rearranged drastically. Characterized by some particularly nasty sudden death falling situations.
+
+http://castlevania.wikia.com/wiki/Castle_VI
+Good Eeeevening!
+
+Step into the shadows of the deadliest dwelling on earth. You've arrived at Castlevania, and you're here on business - To destroy forever the Curse of the Evil Count.
+
+Unfortunately, everybody's home this evening. Bats, ghosts, every kind of creature you can imagine. You'll find 'em all over the place, if they don't find you first.
+
+Because you've got to get through six monstrous floors before you even meet up with the Master of the House. Your Magic Whip will help, and you'll probably find a weapon or two along the way.
+
+But once you make it to the tower, you can count on a Duel to the Death. The Count has waited 100 years for a rematch. He's ready. Are you?
+
+--From the NES Castlevania instruction manual.
+
+Overview - 
+Castlevania is a cornerstone game for Konami and Nintendo. The story and gameplay of this game were uncomparable to most games of the time. Who wouldn't want to save the world from evil by defeating the infamous Dracula? Although this game was very tough, it was a whole lot of fun. The graphics were well-rendered, and the controls were a little hard to get used to, but responsive none the less. The game consists of eighteen stages filled with ghouls, ghosts and famous monsters such as Frankenstein, the Hunchback, Medusa, Hell Hounds, the Grim Reaper, and of course, Dracula. Castlevania is an action packed ride through some of the most famous monster stories of all time, so pop your fingers and get ready to get blisters on your thumbs, 'cause this game is not for amateurs.
+
+Directions - 
+Save the town of Transylvania from the evil of Count Dracula, by fighting your way through all seven levels. There is a boss at the end of each with Dracula waiting for you in the last one.
+
+There are several items of interest in Castlevania. Meat will refill your hit points upon grabbing it. There are also bags of money that will give you extra points when you get them. Sometimes, you can find a hidden crown that will also add points. A cross will destroy all enemies on the screen. The potion will make you invincible for a short time. There are several weapons you can find. Your whip can be upgraded twice by finding a whip power-up. The first time it will go from a leather whip to a chain whip. The next time, it will be upgraded to a longer chain whip.
+
+A small heart will give you a heart, while a big one will give you five. Hearts give you the ability to use your secondary weapon. All of the secondary weapons use one heart per throw, except the watch. It will use five. The dagger will fly straight and true when thrown. The axe will fly in an arch at your enemies, which is good for enemies that attack from the sky. The boomerang will fly straight, then come back to you for a second chance to hit your enemy. Holy water will be thrown in a much smaller arch than the axe, and upon landing, will break out into a fire that will damage enemies until it burns out. The watch will freeze all enemies on the screen for a few seconds. Each weapon can be thrown one at a time until you find a double or a triple shot. A double shot looks like the roman numeral II, and allows you to fire two at a time. A triple shot is a III and allows you to fire three at a time. 
+
+Controls - 
+A Button - Jump
+B Button - Whip
+Start Button - Start/Pause
+Select Button - Select
+
+Reviewer - adrian
+http://www.consoleclassix.com/nes/castlevania.html
+A Castlevania I hack by Inccubus. 
+
+http://castlevania.wikia.com/wiki/Castlevania_Extreme
+Castlevania Remix is a hack of Castlevania which incorporates the use of a few simple tones for the palette in order to create a bit of a sepia/black-and-white quality to the game, which lends itself very well to Castlevania, making it look more like a silver-age era monster film, which is definitely where the idea for Castlevania originated. Some might scoff at the use of a palette like this, but making the graphics look this detailed on the NES with a small set of colors is no small feat.
+
+Besides the graphical changes, the level layouts are also changed, and in some spots it's a lot more difficult, and in others it's easier. One thing to watch out for, though, is a distinct lack of hearts, which makes bosses a lot harder to defeat since you will only get off a few shots with your weapons before having to resort to your whip. Oh, and also be on the look-out for camoflaged staircases in a few spots if you can't find them, you may find yourself stuck.
+
+Also of interest is that the soundtrack has been rearranged slightly, and in some spots modifiedbut the sound hacks still need a little work. Perhaps in a future version.
+
+http://www.romhacking.net/hacks/8/
+Castlevania Retold isas the name suggesta retelling of the original NES Castlevania. I wanted to keep the original story intact (Many of the CV games are retellings of the first one, this is no different) but offer new levels and graphics, this is just that. All the levels have the same themes to them they originally had, but with new layouts and enemy placement, I also wanted to keep the classic feel to it, which is why I used mostly graphics from CV2 and 3. There are very few custom graphics in the hack, I'm not good with graphics at all, but I did make a new title screen using the new CV logo (Which Moonchile later enhanced) and enhanced some of the orignal sprits. Any Castlevania fan will probably like this, but until recently I didn't notice it's one downside - It's hard. As I made this hack I pretty much learned how everything in CV's game engine works, the exact timing of enemies and such. 
+
+So, while I can play through most of it with no problems even my friends who are good at Castlevania die several times on the first level.
+
+http://romhacking.net/hacks/13/
+A Castlevania I hack.
+
+http://castlevania.wikia.com/wiki/Castlevania_Shadows
+This is an overhaul of the original Castlevania done using Stake, Tilelayer Pro & Hex Workshop. Many changes from the original have been made during the production of this hack. It took quite a while to complete, but the result was well worth the effort. All graphics of characters were done by me, bit-blade, moonchilde & revility. Bit-Blade & I also created the stage's background graphics and Several changes involving the game's engine were done through hexadecimal by me. Some of these changes include jumping higher & whip while walking (which is sort of a mixed blessing.), and the drop item ratio.
+
+Several features were used in Blood Moon that were prominent in the original Castlevania, but not utilized. For example; the water's splash effect, having to break a path through the wall to proceed, and bit-blade's unique tile solidity glitch, and a few booby traps along the way which all make for substantially more interesting gameplay.
+
+This is a very difficult game, for master vampire killers only. If you happened upon it by mistake, then run! far far away! wuahaha!
+
+http://www.romhacking.net/hacks/79/
+Epic Hack
+
+This is a pretty good hack Dr. Mario and Optomon have put together. The graphics are really great and it looks like almost none of the original graphics remain. And the new level layout, themes, and MUSIC make this seem like it's a new Castlevania game. It's worth playing through to the end due to the Dance of Pales remix included in the last level, that's one of the things that made me play through the whole thing. I rarely play through a hack from beginning to end so I think that says something. I highly recommend playing this hack at least once if you are a Castlevania fan.
+
+Hack Description - 
+This is a hack of the original Castlevania for NES that optomon and I have been working on for over a year. Optomon has done all the coding, music, and some level design, and I've done all the graphics, some level design, and the map. So what's changed?
+
++ New GFX
++ New levels
++ New level paths
++ New map
++ New sub-weapon
++ New music
++ Music on the title screen
++ New enemies
++ New bosses
+
+STORY
+
+1476, Romania. A terrifying castle rises up from the mist. Along with the castle rose a dark powerful being named Count Dracula Vlad Tepes. A man named Trevor Belmont was fated to defeat the powerful vampire, aided by a witch named Sypha, Dracula's own son Alucard, and a pirate named Grant DeNasty. Together the team traversed the dark halls of Castlevania, defeating the count and his countless minions.
+
+In 1777 a young child was born, and abandoned on a merchant ship with nothing but a headband with a mysterious crest, and the name Armund. The sailors raised the child on the high seas, and taught him the ways of being a sailor. Armund grew to be one of the greatest men that the merchant ship ever saw.
+
+Late 1797, word started to spread of the legends of Count Dracula, and his tyranny in the land of Romania. It was about that time, that Armund ran into an old Romanian man in Serbia. The old man knew a lot about the history of Count Dracula, and his reign of terror in Romania. The old man recognized the crest on Armund's bandanna, and told him that it belonged to the DeNasty clan, and that his ancestor helped defeat Dracula. Armund decided to leave his life on the high seas to seek out more answers about his ancestry.
+
+Romania, 1800. It's been 3 years since Alucard defeated his father in battle and has gone into eternal slumber. Armund's search has taken him to the mountains of Romania, not far from the town of Jova. A mysterious letter hinted that he might be able to find answers in the castle of Count Olrox, a servant of Count Dracula's. Armund set out of Olrox's castle, armed only with an enchanted barbed rope from Serbia. This will truly be the greatest and most arduous adventure of Armund DeNasty's life.
+
+Reviewer - deespence2929
+http://www.romhacking.net/hacks/263/
+A Castlevania hack that alters the block placement and backgrounds of the stages It is characterized by having bridges over many areas, making the game easier.
+
+http://castlevania.wikia.com/wiki/Castlevania:_Dracula%27s_Revenge
+A Castlevania I hack by Thaddeus. It changes the character, enemy, and backgrounds to have Simon's Quest sprites. The position of the blocks and some enemies is altered. 
+
+http://castlevania.wikia.com/wiki/Castlevania:_Fan_Edition
+My first real attempt at ROM Hacking. This is a Hell Hack for the original Castlevania. The goal was to make the game as hard as possible while attempting to be fair in game play. Vets of the series should enjoy this, but an easy version is included as well. Happy Hunting Vampire Killer.
+
+http://www.romhacking.net/hacks/442/
+My first real attempt at ROM Hacking. This is a Hell Hack for the original Castlevania. The goal was to make the game as hard as possible while attempting to be fair in game play. Vets of the series should enjoy this, but an easy version is included as well. Happy Hunting Vampire Killer.
+
+http://www.romhacking.net/hacks/442/
+Castlevania - Horror of Dracula is a reworked Castlevania. Save for color differences, Horror's biggest appeal is some new level design, with it some new pathways, traps, challenges, and other hidden secrets.
+
+http://www.vgmuseum.com/mrp/cv1/homebrews.htm
+Castlevania - Horror of Dracula is a reworked Castlevania. Save for color differences, Horror's biggest appeal is some new level design, with it some new pathways, traps, challenges, and other hidden secrets.
+
+http://www.vgmuseum.com/mrp/cv1/homebrews.htm
+Hack of the first Castlevania game by Redrum featuring Richter Belmont. The game design is identical to the original game, except that most sprites have been replaced with classic NES characters.
+
+http://castlevania.wikia.com/wiki/Castlevania:_Opposing_Bloodlines
+Here's a Castlevania hack that was made in early 2005. Dr. Mario remade the graphics and levels to give Castlevania a differnt feel. Fans of Castlevania will like this hack, and everyone else should give it a shot. So what are you waiting for? Play it now.
+
+http://www.romhacking.net/hacks/181/
+Hack of first Castlevania game by Morgoth Galaxius using Kent Hansen's CV1edit and Tile Layer Pro. The general layout of the levels remains the same, except the location of the blocks and candles has changed and the background has changed. The location of enemies remains the same. Some of the item sprites have been replaced with other sprites, usually sprites that were from the original ROM but never made it in the game.
+
+Of special note is the Red Axe subweapon, which has replaced the Ax subweapon. It does not use any hearts and it is possible to throw it and whip simultaneously. It is not possible to gain double or triple shots with this subweapon, however.
+
+The following items have been replaced with the following sprites - 
+- Meat -> Basket
+- Crucifix -> White Bible
+- Invisibility Jar -> Love Letter
+- Crown -> Slippers
+- Treasure Chest -> Coffee Cup
+- Boomerang -> Cross from Vampire Killer 
+
+http://castlevania.wikia.com/wiki/Castlevania_Poisonous_Offering
+A hack of the original Castlevania game by Redrum featuring a playable Skeleton and redesigned levels. 
+
+http://castlevania.wikia.com/wiki/Castlevania:_Skel%27s_Revenge
+No information online about this NES Hack.  ~Rx
+If you think it's scary on the outside, wait'll you see the basement! You're in for the longest night of your life. Ghosts, goblins, demons, wolves, bats - creatures lurking around every corner. As you descend deeper and deeper, they get thicker and thicker. Better stick close to the cavern floor - it's your only chance of finding a weapon or two. You're gonna need 'em. Because when you finally meet the Count, you know he'll be going for the jugular. So keep your courage up and your stake sharp. And say your prayers!
+
+Nintendo Vs. System - 
+The Nintendo Vs. System is a coin-operated video game platform designed for two-player competitive play using the VS. UniSystem or VS. DualSystem, arcade system boards based on the Nintendo Entertainment System. Many of these stand-up or sit-down arcade machines had two screens and controls joined at an angle. These games were arcade ports of home video games for the Nintendo Entertainment System, thus they could be sold cheaply to arcades in the late 1980s.
+
+Hardware - 
+The Vs. System was designed primarily as a kit to retrofit Donkey Kong, Donkey Kong Jr., Popeye, and Mario Bros. machines. Being as such, they require the same special monitor that these coin-ops used. These monitors use inverse voltage levels for their video signals as compared to most arcade monitors. Commercially available converters allowed one to use any standard open frame monitor with the game.
+
+Almost all the games on the Vs. System ran on identical hardware, with the notable exception that four special PPUs (video chips) were also made, each containing a different palette (each of which appears to arrange the colors completely randomly). Most boards could be switched to a new game simply by swapping the program ROMs, though the appropriate PPU would also have to be used - if not, the game would appear with incorrect colors. Several of the later Vs. games employed further measures of protection by using special PPUs which swapped pairs of I/O registers and/or returned special data from normally unimplemented regions of memory - attempts to run these games in other Vs. systems would result in the game failing to even start.
+
+There were some dedicated Vs. double cabinets produced which looked like two games butted together at an angle. A single motherboard powered both games on those models.
+
+A steel sit down cabinet for the Dualsystem, nicknamed the "red tent" due to its upper portion's resemblance to a pup tent, allowed play for up to four players similtaneously. This cabinet used the same motherboard as the double cabinet referred to above.
+
+Differences Between Vs. System and NES Versions - 
+Sometimes the games were different from their NES versions. For example, Vs. Super Mario Bros. is considerably more difficult than Super Mario Bros; some of these levels are in the Japanese Disk System version of Super Mario Bros. 2. The graphics were also different from their NES counterparts; for example, Vs. Duck Hunt had more details and animation sequences than its console counterpart. Vs. Duck Hunt also contained a bonus stage which was notable for allowing players to shoot the dog who would normally obtain the ducks if the player shot them, and who would also laugh at the player, should the player miss the ducks.
+
+http://www.gamefaqs.com/console/nes/home/578318.html
+http://en.wikipedia.org/wiki/Nintendo_Vs._System

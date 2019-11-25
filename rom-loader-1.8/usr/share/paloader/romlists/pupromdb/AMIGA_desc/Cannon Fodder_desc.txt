@@ -1,0 +1,33 @@
+Guide a team of up to four soldiers through 72 levels of combat in this innovative top-down action/strategy hybrid, best thought of as Lemmings crossed with Commando crossed with Dune 2. The characters are controlled indirectly using the mouse, as you activate each soldier or group of them by highlighting them, click the left button to move them to a particular spot, and the right button for them to fire guns at an enemy. You can also pick up grenades, which can be used to destroy groups of enemies or buildings (by pressing both buttons at once). 
+
+Each mission has a specific objective, and some feature vehicles such as tanks to make things easier. Your troops can cross water but can't shoot within it, so finding and controlling bridges is often crucial. You can use the arrangement of trees to find hiding places to shoot from, and should watch out for CPU soldiers also doing so.
+ 
+http://www.mobygames.com/game/amiga/cannon-fodder
+_________________________
+CHEATS:
+
+Promoted troopas:
+Save a game using JOOLS or JOOLSA as a filename. The phrase "Cheat mode active" will appear at the bottom of the screen to confirm correct code entry. The ranks and abilities of your men should now be increased.
+
+Invincibility: 
+Type wellhard during game play.
+
+Level select:
+Click on the "Load" icon, then hold Left Mouse Button + Right Mouse Button for approximately five seconds before releasing. A level select screen with a "Hardman" option will appear.
+
+Super weapons:
+
+Supa Dupa Missile Boosta 
+Mission 8, Phase 3: Go to the bottom right corner of the screen. It is hidden behind a big bush. 
+
+Supa Dupa Bullet Proofa Vest
+Mission 12, Phase 4: After destroying the turrets and boarding the helicopter, fly to the top right corner of the screen. The vest is hidden in the fat snowman. 
+
+Supa Dupa Rank Boosta
+Mission 16, Phase 2: It is located in the top left corner of the screen. It is not hidden and it looks like a sign for a four-star general. 
+
+Supa Dupa Troopa Boosta
+Mission 20, Phase 1: This is a big yellow S in the middle of the screen. It improves your rank until your troopa dies and gives a Bullet-Proofa Vest, Missile and Rank Boostas for the phase. Note: There is a spike trap near its location. 
+
+Supa Dupa Troopa Boosta
+Mission 22, Phase 2: It is located in the bottom right corner of the screen and is guarded by a turret. Destroy the helicopter with grenades, then rocket the turret before getting the Troopa Boosta.

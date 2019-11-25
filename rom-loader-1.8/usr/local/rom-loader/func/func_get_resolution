@@ -1,0 +1,24 @@
+#!/bin/sh
+
+# this func exports the screen height and width
+# .. it can be used to choose icon and font sizes
+# .. the gtkdialog GUIs freeze and dont work if too big for the screen
+
+#here we also se the font size of the main title and sub title
+# we do this so we can load the 'paloader' script under 1024x768.
+
+get_resolution () {
+
+	#get screen dimensions
+	if [ "$SCREEN_HEIGHT" = "" -o "$SCREEN_WIDTH" = "" ];then
+		SCREEN_WIDTH="`xwininfo -root | grep Width`"
+		SCREEN_WIDTH="${SCREEN_WIDTH##* }"
+		SCREEN_HEIGHT="`xwininfo -root | grep Height`"
+		SCREEN_HEIGHT="${SCREEN_HEIGHT##* }"
+		SCREEN_RES="${SCREEN_WIDTH}x${SCREEN_HEIGHT}"
+	fi
+		
+	export SCREEN_HEIGHT
+	export SCREEN_WIDTH
+	export SCREEN_RES
+}

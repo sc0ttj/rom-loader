@@ -1,0 +1,9 @@
+Zak McKracken is a tabloid reporter (and not a very good one at that).  Based upon a psychadelic dream, Zak one day realizes that something is wrong -- Space Aliens are dumbifying the general public through the telephone system.  Zak must stop this, but he can't do it alone.  After finding a magic crystal (or some sort of crystal), Zak manages to get the help of Anthropologist, Annie, and her friends, Melissa and Leslie.  Between the four characters (all of which you control), you can destroy the dumbifying devices and save the earth.  Not too bad for a tabloid reporter.
+ 
+http://www.mobygames.com/game/amiga/zak-mckracken-and-the-alien-mindbenders
+
+Game was developed using the Script Creation Utility for Maniac Mansion (SCUMM), which was originally coded by Ron Gilbert and Aric Wilmunder in 1987 to create MANIAC MANSION for the C64.
+
+Distributed by Softgold in Germany and Leader in Italy.
+
+http://hol.abime.net/1619

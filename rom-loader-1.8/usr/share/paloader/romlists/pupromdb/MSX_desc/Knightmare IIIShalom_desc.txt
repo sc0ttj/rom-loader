@@ -1,0 +1,5 @@
+In this game, you play the role of a Japanese high-school student, the leader of computer club. Above all, you like playing games. One day, you and your girlfriend are playing a game and suddenly get teleported into the game world. This is a fantasy world that resembles ancient Greek civilization. Before long you realize that you are in fact a hero who must save this world from the evil Gog, an ancient demon awaiting resurrection, otherwise you won't ever be able to return home.
+
+This is an adventure game with emphasis on exploration. You navigate your hero through a large top-down world, interacting with characters along the way. The interaction is done via a command menu with verbs such as "Look", "Talk", "Take", etc. From time to time you'll have to fight enemies. The battles take place on a separate screen, and you attack the enemy with your weapons in real time.
+
+http://www.mobygames.com/game/msx/shalom-knightmare-iii

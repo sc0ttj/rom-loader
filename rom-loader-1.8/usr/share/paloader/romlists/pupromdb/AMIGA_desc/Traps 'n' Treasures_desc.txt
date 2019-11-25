@@ -1,0 +1,24 @@
+Captain Jeremy Flynns crew have been kidnapped in the Caribbean, and he must venture through 4 large baddy-infested levels to retrieve them. Along the way, you can collect money from handily-placed treasure chests, which can be spent in various shops to gain extra weaponry. 
+
+Additionally, the levels contain all manner of surprises, and lots of hidden features, many of which require doing a sequence of things in order to uncover potentially massive bonuses. There are lots of puzzles to solve along the way, making it more similar to Gods or Krisalis previous Arabian Nights than a straight platform game. Many of these involving moving and positioning crates to gain access to higher points in the levels. Jeremy can swim, and theres a considerable amount of animation on display when he does.
+ 
+http://www.mobygames.com/game/amiga/traps-n-treasures
+
+_________________________
+CHEATS:
+
+Bonus life:
+Type scamagic the first title screen that appears before the Disk B prompt.  The screen will flash to confirm correct
+code entry. Press P during game play for an extra life. Alternatively, type pklabautermannp during game play. The screen will flash to confirm correct code entry. 
+
+Note: A total of nine lives may be held at one time.
+
+Location: Password
+
+Threadneedle Lagoon: 00000000
+
+Skull-Grotto: 52011413
+
+Temple: 31245300
+
+Fortress: 15204524

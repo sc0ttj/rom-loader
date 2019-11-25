@@ -1,0 +1,10 @@
+This is my new standard for what a 2D shooter should be. It is really the best one I have ever played.
+
+Ok, basically, there are 5 levels. You can choose the first four. But once you finish your last level, it's on to the boss level. Ok, first, in this game you do not collect weapon power ups. Instead, after you beat a level, you get a new shot type. Also, it's not 1 hit dead. You have bars of health and each hit takes one off. Also, there are several power ups. You have your shield, which absorbs three hits. Your berries, which refill two health bars. Your trophies, that add a bar of health, permanently. Your mirror, that makes two shadow images of you that shoot a single shot. And those are the items you can get by shooting open a treasure chest.
+
+Hints:
+
+- Options menu -
+Press the A and Start buttons simultaneously at the title screen.
+
+http://www.gamefaqs.com/console/genesis/review/R49674.html

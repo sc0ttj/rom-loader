@@ -1,0 +1,38 @@
+A 3D snooker simulator. The table and cue can be turned through almost any angle, with shot strength and spin as required too. An on-screen dotted white line shows the path of your ball, including the next bounce.
+
+There is also a "trick-shot" mode, allowing you to recreate classic snooker trick shots (well, not the one with the basket. Or with the cues lying on the table. Or the one with the girl lying on her back with the pink ball in her mouth. But you know).
+
+And if you dawdle too long, the balls pull faces at you. Honest!
+ 
+http://www.mobygames.com/game/amiga/jimmy-whites-whirlwind-snooker
+_________________________
+CHEATS:
+
+Perfect play:
+Press [F7] + [F4] + [F1] during
+game play.  The sound of a double click will confirm correct code
+entry.  Exit the game, then select the demo mode option at the
+main menu.  Select the "Do A 147 Break" option to watch
+the CPU play a perfect game.
+
+Cheat mode:
+Wait until all the red balls are off the screen.  Then,
+press one of the following keys to select the color of the next
+ball to hit the pocket.
+
+
+
+Ball color
+Key
+
+Yellow2
+
+Green3
+
+Brown4
+
+Blue5
+
+Pink6
+
+Black 7

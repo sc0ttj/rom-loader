@@ -1,0 +1,24 @@
+Storyline
+
+Satan has once again decided to create another test by using special magic to pull the Sun closer to the Earth on a remote island. This created a semi-resort, in which characters have decided to visit. Arle, together with Kaa-Kun, find the sun too hot, and see the building that Satan's emanating his own heat wave. Draco loves the hot weather and appears in a bikini, whereas Schezo, who takes refuge in a cave, finds that it's just not cool enough, and decides to find out what's happening.
+
+
+
+Gameplay
+
+Just like the predecessors, Puyos fall from the top of the screen in pairs, can be moved left and right, and can be rotated clockwise and anti-clockwise by 90°. The rule of Sousai and Zenkesei still remained, but every time you countered, special garbage would fall on the screen in a preset pattern (in the Game Boy version of this game, it fell randomly). Every time you cleared the screen however, Sun Puyos would fall on the screen, and the All Clear bonus removed.
+[edit] Sun Puyos
+
+Sun Puyos are very similar to Point Puyos, in the sense that when erased with a neighbouring group, would send more garbage to the opponent. How much extra garbage would follow from a rensa was set up using the Fibonacci sequence, starting at 2 rather than 1, and then back-tracking.
+
+The more Sun Puyos are erased, the more garbage is sent. This was considered a Rensa Bonus rather than a score bonus (as, unlike Point Puyos, they do not increase the score of the chain, just the amount of garbage sent).
+Deciding Games
+
+Like with the predecessor, if the third column from the left fills up to the top, the game is over.
+
+
+
+
+
+http://www.gamefaqs.com/n64/574529-puyo-puyo-sun-64
+http://en.wikipedia.org/wiki/Puyo_Puyo_SUN

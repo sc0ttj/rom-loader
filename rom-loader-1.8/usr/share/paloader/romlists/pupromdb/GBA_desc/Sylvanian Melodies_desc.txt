@@ -1,0 +1,20 @@
+Sylvanian Families meets Dance Dance Revolution. A match made in heaven? Probably not, but it's a cute game with some catchy music.
+
+This is a 100% complete translation, no mean feat as most of the game's graphics are compressed. (Oddly enough, the dialogue in the cutscenes is stored as graphics, but none of it is compressed.) Enjoy.
+
+http://www.romhacking.net/trans/1260/
+*
+********************************************** T **********************************************
+*
+0fd9fff0
+Taxi 2
+Platform: Gameboy Color
+Region: Europe
+Media: Cartridge
+Controller: Gameboy Color
+Genre: Racing , Mission Based
+Release Year: 2000
+Developer: Visual Impact
+Publisher: Ubisoft
+@END
+Taxi 2 is a Mission-based Driving game, developed by Visual Impact and published by Ubisoft, which was released in Europe in 2000. ~Rx

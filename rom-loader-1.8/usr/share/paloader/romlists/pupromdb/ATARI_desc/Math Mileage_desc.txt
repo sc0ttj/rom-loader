@@ -1,0 +1,3 @@
+Kids game where you steer your car left and right (you can't crash) through slalom-gates showing various numbers. The idea is to get to the target number shown at the bottom of the screen before time runs out.
+
+http://www.digitpress.com/DP/cmf/game.cmf?gameid=6848

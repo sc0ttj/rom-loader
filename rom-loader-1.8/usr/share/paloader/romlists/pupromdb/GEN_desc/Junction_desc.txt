@@ -1,0 +1,38 @@
+Wow! What a puzzler! If you love puzzlers, this is the ultimate one! I'm always hunting for new puzzlers to play, and this one is a gem. Game play is simple, but the solution to each board is far from it.
+
+Guide the red ball through the maze. Movement is similar to one of those little toys that are a frame with little tiles in it, one tile missing, and you have to slide the tiles around to make a picture. Only in this game you have to create a path that the ball can follow, and you only have a limited time.
+
+The graphics in Junction are the best I've seen on a puzzler. It has awesome backgrounds. The game is obviously meant to have background music, but for some reason it doesn't work here.
+
+Directions:
+
+In the beginning....
+
+So let us discuss options for a moment. You can choose to play any of the levels 1-50 in the Options screen, but, according to the manual, "a score of at least 100,000 points is required to se the ending..." We'll assume they meant see when they said se.
+ 
+Here are some other choices you can make from the Options menu: Operation 0 allows you to move the pieces with the directional pad. When you press a direction the tile that can move in that direction will move there. Operation 1 allows you to control the movement of tiles by moving the cursor to the tile you want to move and pressing the C button. BGV mode is just a music and background test. Difficulty: Easy- more time, no enemies; Normal- enemies, mid-length time; Hard- enemies, shortest time.
+
+Stock tells you how many lives (red balls) you have. You'll lose one if your time runs out, it falls off an edge, or if it runs into an enemy. The object of the game is to get your red ball to roll over the check points that are located around the edge of the puzzle. When you have successfully navigated a check point, it will vanish.
+
+Items
+As you play, items will appear on the board. Run the ball into them to pick them up. Here's what they do:
+Circle= extra red ball
+P= decrease ball speed
+Fast Forward Arrows= faster ball
+Pause Symbol= enemies slowdown
+Clock= extra time
+
+Blocks
+There are a few different kinds of blocks. There are blocks that have a basic, straightforward path option on them. They are obvious. One has a cross on it. You will travel only along the bar that you started on. Some have two lines that are separate. Again, you will travel only along the bar that you started on. Some blocks just have the barest tail end of a line on them. The ball will reverse its path and head back the way it came when it comes to the end of these. Gold blocks cannot be moved. If a tile is blank, you will lose a ball if you run into it. A tile with a pyramid on it will cause the ball to jump into the air and skip over the tile next to it. Some tiles have more than one path option, a fork in the path. The manual tells us that the path your ball takes depends on how many times you've "moved a block." This is not very helpful, and I'm sorry that I cannot make it much clearer. I would guess that when it says "moved a block," it means the particular block that you're trying to figure out, and not any block at all. Other than that, I couldn't tell you how many times= what. Again, I apologise, but this is very difficult to determine and to explain in words. This is something you will just have to get a feel for and watch carefully.
+
+The Slow Down # on the screen tells you how much slow down time you have left. You can only slow the ball for a limited amount of time. WARNING! If you speed the ball up as it goes up a pyramid, it will stay that fast until it touches the tiles again. 
+
+Controls:
+
+A Button: Slow Down
+B Button: Speed Up
+C Button: Slow Down (Oper. 0)
+          Move Block (Oper. 1)
+Start Button: Pause, Start Game
+
+http://www.consoleclassix.com/genesis/junction.html

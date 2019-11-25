@@ -1,0 +1,8 @@
+City Bomber is a one-key arcade game, similar to Air Attack.
+
+You pilot a small airplane, and your mission is to bomb the city so you can land safely. It is a one-key game, so you don't control the plane, you can only drop bombs by pressing the spacebar. The plane moves from left to right across the screen, and slowly descends every time it wraps back to the left side.
+
+At the start of the game you can choose a skill level from 1 (easiest) through 5 (hardest), and an entry wave, also 1 through 5. A higher skill level means the buildings are higher, thus more bombs are needed before you can land. There are small empty spots to the left and right side of the city, so don't waste bombs on those spots.
+
+
+http://www.mobygames.com/game/zx-spectrum/city-bomber

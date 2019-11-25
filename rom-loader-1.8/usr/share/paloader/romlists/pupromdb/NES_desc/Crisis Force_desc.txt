@@ -1,0 +1,7 @@
+This is a translation patch for an NES shooter called Crisis Force. There wasn't really much to do except remove some japanese on the title screen and reword a few things in the options. This game has really great graphics for an NES game and is pretty cool to boot. Check it out.  
+
+http://romhacking.net/trans/1353/
+Crisis Force is an overhead shoot 'em up published by Konami for the Family Computer in Japan. This game features two player simultaneous play, similar to Life Force. It's also got the ability to switch among three different ship configurations during play. The game is divided into seven stages, each with an end of level boss.
+
+Storyline - 
+The story begins with a force of robots who descend on Tokyo City, in the year 199X, and begin to destroy the city. The protagonists are a boy and a girl who pilot a blue and pink fighter craft and battle through seven stages.

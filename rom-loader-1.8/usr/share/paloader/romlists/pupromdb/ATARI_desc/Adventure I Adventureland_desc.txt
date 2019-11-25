@@ -1,0 +1,8 @@
+Adventureland was the first of the Scott Adams text adventures. Using simple two word commands you explored an enchanted world trying to recover 13 lost treasures. 
+
+The game's display was different from other adventure games like Zork in that the screen was divided into two "windows": the room description, exits, and items appeared on the top part of the screen, and you entered commands on the bottom of the screen.
+
+Trivia:
+An Adventureland Demo package was released in 1979. It is a sampler of the original game, brought to the market as a retail demo. As a cut-down version it contains 3 treasures.
+
+http://www.mobygames.com/game/adventureland

@@ -1,0 +1,22 @@
+The classic arcade hit, remade for the... 90's. Still a very simple idea, but this edition features animated sprites rather than just moving back and forth. The background music is modern and fast, designed to make the game feel even more exiting than it actually is.
+
+The biggest change with this version is that the UFO drops power-ups instead of just being worth extra points. Unfortunately, there seems to be no two-player mode, so although the High Score is still the Holy Grail of arcade games, you can't compete directly with your friends.
+
+Gameplay:
+
+Space Invaders is a two-dimensional, fixed shooter game in which the player controls a laser cannon by moving it horizontally across the bottom of the screen and firing at aliens. The aim is to defeat five rows of eleven aliens-some versions feature different numbers-that move horizontally back and forth across the screen as they descend towards the bottom of the screen. The player defeats an alien, and earns points, by shooting it with the laser cannon. As more aliens are defeated, the aliens' movement and the game's heartbeat sound both speed up. Defeating the aliens brings another wave that is more difficult; a cycle which can continue indefinitely.[1][2][3][4]
+
+The aliens attempt to destroy the cannon by firing at it while they are approaching the bottom of the screen. If they reach the bottom, the alien invasion is successful and the game ends. A special "mystery ship" will sometimes move across the top of the screen and will award bonus points if destroyed. The laser cannon is partially protected by several stationary defense bunkers-the number varies by version-that are gradually destroyed by alien fire.
+
+Hints:
+
+- Level Select -
+Enter the following code at the Title screen....
+Press A + C + Start
+Then when you start the game, it will be paused, then enter the following code....
+B - A - C - A
+Then the level select screen should appear.
+
+http://www.consoleclassix.com/genesis/space_invaders_91.html
+http://en.wikipedia.org/wiki/Space_Invaders_%2791#Remakes_and_sequels
+http://www.gamefaqs.com/console/genesis/code/586475.html

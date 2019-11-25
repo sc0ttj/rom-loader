@@ -1,0 +1,25 @@
+Fight the evil Deathtarians (the worst named aliens ever) to save the planet and rescue your sister, wearing the suit that your father made to fight them. Just reading this bit will save you many agonizing moments of terrible cornball plot explanation. Just hit the start button to skip it all.
+
+Cornball plot aside, the game's really not half bad. Run your way through all kinds of places with different kinds of themes and lots of textures and details. The enemies and places are varied and so are the different kinds of weapons you can pick up for yourself. The music and sound effects aren't too bad and are mostly unobtrusive. As far as difficulty goes.... this is one difficult game. Not only are the controls fairly difficult to master, but the traps and enemies are no picnic either.
+
+Directions:
+
+The first thing you should realize is that in order to shoot backwards you will have to press C while pressing backwards on the directional pad. While you are travelling forwards, pressing back on the directional pad alone will have no effect.
+
+You must press C with the back (left) directional pad button to turn around. Now Chelnov (the Atomic Runner) is facing backwards. You now move forwards, but can only shoot backwards. You will have to do this to catch enemies that sneak up behind you. In order to get facing forward again, press forward (to the right) and C. You can never back up in the game. If you pass something then you can't go back for it. Whew. Complex, I know. Of course, this is all dependant on the idea that you haven't changed to a different control type. You can do that in the options screen and perhaps find something more comfortable for yourself. Really, the controls are going to be a bit difficult no matter what you do, but you may as well choose the best one for yourself. The main thing is to choose and then stick with it, because it's just gonna take time to get used to.
+
+Once you're used to the controls you'll find that... this is still a really difficult game. You don't get a health bar. Just one hit from anything and you'll die. Enemies will swarm you and shoot at you from all directions. You can shoot right back by pressing B and the direction you want to shoot, remembering the aforementioned backwards shooting bit. Also, jumping on some enemies will kill them and you will bounce harmlessly off.
+
+Enemies will sometimes drop power ups when you kill them. Some power ups will be squares with pictures on them and some will just be the word UP in different colors. The square ones will change your weapon to look like the one displayed in the picture. Different weapons will have different ranges and behave differently. The ball and chain one has a limited range but is pretty powerful. The gun has infinite range and is powerful. The gun is not as common as other weapons. You can even pick up seeker missiles (also more rare) that will do all of the targeting for you! Most weapons can be picked up easily by breaking torches (anything with a fire burning in it) and some other objects. Sometimes Deathtarians (I cringe when I type it, I really do) will be carrying weapon power ups but mostly they carry "UP"s. UPs seem only to be worth points, but hey, if you earn enough points you get extra men.
+
+At the end of every stage will be a boss. Bosses are impressively detailed monsters that will take many more hits to kill. Each boss will have a weak spot that you will have to find and hit repeatedly. You can bounce on bosses as well. Sometimes bouncing on the boss is the only way to maneuver effectively around the screen. 
+
+Controls:
+
+A Button: Jump
+B Button: Shoot
+C Button + Direction: Change Direction
+Start Button: Pause Game
+
+Reviewer: fallenrain
+http://www.consoleclassix.com/genesis/atomic_runner.html

@@ -1,0 +1,52 @@
+In his second adventure James Pond must retrieve the toys Dr Maybe has stolen. Pond has been armed with an Inspector Gadget-style stretch device, which he can use to view higher areas or claw onto ceilings so as to slide across them.
+
+The gameplay takes place across worlds themed around particular types of toys, such as sporting goods, candy and aircraft. The levels scroll sideways, although a small amount of vertical movement is included. On each level Pond must collect 2 penguins and reach the exit, although there are usually multiple exits and lots of secret areas to explore. After completing each pair of two worlds (each of which has three sub levels), a boss must be faced.
+ 
+http://www.mobygames.com/game/amiga/james-pond-2-codename-robocod
+_________________________
+CHEATS:
+
+Type o.s. friendly during the introduction sequence
+or at the title screen to enable cheat mode. The screen will flash
+green to confirm correct code entry. Press one of the following
+keys to activate the corresponding cheat function. Additionally,
+0 to 55 may be chosen at the map selection room. 
+
+
+
+Effect
+Key
+
+Robocod has wingsF
+
+Robocod has the planeP
+
+Robocod has the bathB
+
+Robocod has the carC
+
+Advance to exitX
+
+Save positionS
+
+Kill RobocodK
+
+Map selectorM
+
+Toggle invincibility[Enter]
+
+50 Hz screen (PAL mode)[F6]
+
+60 Hz screen (NTSC mode)[F7]
+
+Screen effects [F9]
+
+
+
+Temporary invincibility (AGA version):
+
+Move to the top of the wall of the castle (above the
+Arctic Toys sign) and collect the following objects in order:
+cupcake, hammer, globe, apple, and faucet. James Pond is invincible
+for the next fifteen minutes. Note: Falling off the screen will
+still harm your character.

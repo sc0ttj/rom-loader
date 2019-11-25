@@ -1,0 +1,30 @@
+You are a young swordsman from Guardiana, which is invaded by the evil forces of Rune who are after the keys to a door left by the Ancients. After your kingdom's forces are decimated and both your mentor and your king killed, you take the remaining forces, the Shining Force, after the forces of Rune. With them, you pursue the mysteries left by the Ancients, seeking the means to save your world from peril.
+
+Directions:
+
+This is a turn-based strategy game. In it, there are two modes. Outside of battle, you talk to people and convince people to enlist in your Shining Force, or choose which members you want to use in the next fight, buy supplies, and equip them.
+
+During battle, each member and each enemy gets their own turn, in which they can select options according to where they are (e.g. you must be near a person to attack or even to heal them). Proper placement of your forces is essential to victory.
+
+If the hero dies, it's curtains for your party, but he can always cast his special "egress" spell to retreat from combat, and you can see a priest to revive characters, heal poison or curse, or even to promote them to more powerful classes once they reach level ten. Note that you do not have to heal HP or MP between battles, only death, poison and curse last after battle.
+
+Controls:
+
+A Button: Selects or confirms options. Also brings up options menu.
+B Button: Cancels selections.
+C Button: Same as A.
+Start Button: Starts game.
+
+Hints:
+
+- How to get the first few additions to your party. -
+Before you leave the first town, talk to the old warrior at the tavern, and listen to his story. When you get into the first battle, use the hero's "egress" spell and go to the tiny house near the gate. Talk to the monk there and he will join you. Talk to the hamster thing and he will join you much later (sadly, he's useless). When you return to town after the first two battles or so, talk to the old warrior (who is still in the tavern) and he will join you.
+
+- How to get Domingo to join. -
+Search in Manarina to find the Domingo Egg. Later, after Pao has moved once, talk to everyone until you find the man with the egg-hatching machine to hatch the egg and have Domingo join your party.
+
+- The sugoi mizugi ("awesome swimsuit"). -
+Look at the screen shot above to see where to find this item (it's near where you find the Moon Stone, and make the Lunar Dew to cure Zylo), then give it to Tao. She will then become a bit more... kawaii. There is also supposed to be a kitsui fuku ("daring dress") for Anri in a corner of the hill on Pao bridge, to the left where the archers are, but I couldn't get there outside of battle. 
+
+Reviewer: Xeno
+http://www.consoleclassix.com/genesis/shining_force.html

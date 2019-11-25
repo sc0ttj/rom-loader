@@ -1,0 +1,60 @@
+# VOICE combobox
+VOICE_ARRAY=(Default true false)
+VOICE_ITEMS="<item>$VOICE</item>" #stored value should be first in list
+for i in "${VOICE_ARRAY[@]}"
+do
+	if [ "$i" != "$VOICE" ];then
+		VOICE_ITEMS=`echo "$VOICE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# SIZE combobox
+SIZE_ARRAY=(Default 320x200 640x480)
+SIZE_ITEMS="<item>$SIZE</item>" #stored value should be first in list
+for i in "${SIZE_ARRAY[@]}"
+do
+	if [ "$i" != "$SIZE" ];then
+		SIZE_ITEMS=`echo "$SIZE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# FS combobox
+FS_ARRAY=(Default true false)
+FS_ITEMS="<item>$FS</item>" #stored value should be first in list
+for i in "${FS_ARRAY[@]}"
+do
+	if [ "$i" != "$FS" ];then
+		FS_ITEMS=`echo "$FS_ITEMS<item>$i</item>"`
+	fi
+done
+
+# AUDIO combobox
+AUDIO_ARRAY=(Default nosound 11025 22050 44100)
+AUDIO_ITEMS="<item>$AUDIO</item>" #stored value should be first in list
+for i in "${AUDIO_ARRAY[@]}"
+do
+	if [ "$i" != "$AUDIO" ];then
+		AUDIO_ITEMS=`echo "$AUDIO_ITEMS<item>$i</item>"`
+	fi
+done
+
+# AUDIOFILE combobox
+AUDIOFILE_ARRAY=(Disabled intv-01.wav intv-02.wav intv-03.wav intv-04.wav intv-05.wav intv-06.wav intv-07.wav intv-0008.wav intv-09.wav)
+AUDIOFILE_ITEMS="<item>$AUDIOFILE</item>" #stored value should be first in list
+for i in "${AUDIOFILE_ARRAY[@]}"
+do
+	if [ "$i" != "$AUDIOFILE" ];then
+		AUDIOFILE_ITEMS=`echo "$AUDIOFILE_ITEMS<item>$i</item>"`
+	fi
+done
+
+# DEBUGGER combobox
+DEBUGGER_ARRAY=(Default true false)
+DEBUGGER_ITEMS="<item>$DEBUGGER</item>" #stored value should be first in list
+for i in "${DEBUGGER_ARRAY[@]}"
+do
+	if [ "$i" != "$DEBUGGER" ];then
+		DEBUGGER_ITEMS=`echo "$DEBUGGER_ITEMS<item>$i</item>"`
+	fi
+done
+

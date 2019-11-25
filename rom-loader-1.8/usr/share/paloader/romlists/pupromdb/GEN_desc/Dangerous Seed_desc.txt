@@ -1,0 +1,20 @@
+Overview:
+
+Dangerous Seed is a Shoot-'Em-Up game, developed and published by Namco, which was released in Japan in 1990.
+
+Hints:
+
+- 99 Lives -
+When demonstration mode begins, press Left, Left, Left, Up, Up, Right, Left, Right.
+
+- Expert Mode -
+Up, Down, Left, Left, Right, Right, Up, Down and a chime will confirm a correct entry.
+
+Reviewer:
+
+http://www.gamefaqs.com/console/genesis/home/586127.html
+It is the 25th century, and the solar system has come under attack by an mysterious alien enemy known as Dangerous Seed. Human forces have been decimated, and the aliens' next target is Earth! The enemy draws closer to the frontline base on the moon by the hour, and the final line of defense for Earth, the fighter ship Moon Diver, has launched.
+
+Dangerous Seed is a vertical scrolling shooter converted from the 1989 Namco coin-op. The player controls the three-part fighter ship Moon Diver through 12 stages to confront the alien menace and secure peace in the solar system. Each of the three parts of the ship, Alpha, Beta, and Gamma, have their own properties which can be combined in various ways. Each type and combination has multiple shot types which can be powered up, and there are also options and bombs available which contribute to Moon Diver's extensive arsenal.
+
+http://www.mobygames.com/game/genesis/dangerous-seed

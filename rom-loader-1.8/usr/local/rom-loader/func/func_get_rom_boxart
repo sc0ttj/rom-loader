@@ -1,0 +1,146 @@
+#!/bin/sh
+
+# this file contains the funcs needed to get and the nshow a roms box art image
+
+# this func uses thegamesdb.net to download box art of your roms
+# it tries a multiple different URLs for each rom, but will stop checking as soon as an image is downloaded
+# check the lower numbers first, these are more commonly available.. if not found, do higher numbers.. 
+# for example: url.com/id/image-1.jpg, url.com/id/image-2.jpg, url.com/id/image-1.png, url.com/id/image-2.png, etc etc
+
+download_rom_boxart() {
+
+	LANG=C
+	wget="wget -4 --level=1 --no-parent --max-redirect=1 --no-check-certificate -nc --wait=0 --tries=3 --timeout=3 -R.htm,.html"
+	#wget_check="wget --level=1 --no-parent --spider --no-check-certificate --tries=6 --timeout=5 -R.htm,.html -o /tmp/paloader/boxart_url_check"
+	
+	#download thumb (jpg)
+	for x in 1
+	do 
+		rm /tmp/paloader/boxart_url_check &>/dev/null
+		#$wget_check "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.jpg"
+		#[ "`cat /tmp/paloader/boxart_url_check | grep -F '[image/'`" != "" ] && 
+		$wget -A.jpg,.jpeg -O "$IMG_FILE" "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.jpg"
+		#its downloaded, if not a real image file, delete it
+		[ "`file \"$IMG_FILE\" | grep -i 'image data'`" = "" ] && rm "$IMG_FILE" &>/dev/null || break
+	done
+
+	#download thumb (png)
+	if [ ! -f "$IMG_FILE" -o ! -s "$IMG_FILE" ];then
+		for x in 1
+		do 
+			rm /tmp/paloader/boxart_url_check &>/dev/null
+			#$wget_check "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.png"
+			#[ "`cat /tmp/paloader/boxart_url_check | grep -F '[image/'`" != "" ] &&
+			$wget -A.png -O "${IMG_FILE//.jpg/.png}" "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.png"
+			#its downloaded, if not a real image file, delete it
+			[ "`file \"${IMG_FILE//.jpg/.png}\" | grep -i 'image data'`" = "" ] && rm "${IMG_FILE//.jpg/.png}" &>/dev/null || break
+		done
+	fi
+
+	#download thumb (jpg)
+	if [ ! -f "${IMG_FILE//.jpg/.png}" -o ! -s "${IMG_FILE//.jpg/.png}" ];then
+		for x in 2 3
+		do 
+			rm /tmp/paloader/boxart_url_check &>/dev/null
+			#$wget_check "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.jpg"
+			#[ "`cat /tmp/paloader/boxart_url_check | grep -F '[image/'`" != "" ] && 
+			$wget -A.jpg,.jpeg -O "$IMG_FILE" "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.jpg"
+			#its downloaded, if not a real image file, delete it
+			[ "`file \"$IMG_FILE\" | grep -i 'image data'`" = "" ] && rm "$IMG_FILE" &>/dev/null || break
+		done
+	fi
+	
+	#download thumb (png)
+	if [ ! -f "$IMG_FILE" -o ! -s "$IMG_FILE" ];then
+		for x in 2 3
+		do 
+			rm /tmp/paloader/boxart_url_check &>/dev/null 
+			#$wget_check "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.png"
+			#[ "`cat /tmp/paloader/boxart_url_check | grep -F '[image/'`" != "" ] && 
+			$wget -A.png -O "${IMG_FILE//.jpg/.png}" "http://thegamesdb.net/banners/boxart/thumb/original/front/${romid}-$x.png"
+			#its downloaded, if not a real image file, delete it
+			[ "`file \"${IMG_FILE//.jpg/.png}\" | grep -i 'image data'`" = "" ] && rm "${IMG_FILE//.jpg/.png}" &>/dev/null || break
+		done
+	fi
+
+	# now find the image file that was downloaded .. we dont know its extension
+	if [ -d /usr/share/paloader/romlists/boxart/${SYSTEM} ];then
+		export IMG_FILE="`find /usr/share/paloader/romlists/boxart/${SYSTEM}/ -iname \"$romname.*\" | head -1`"
+	else
+		export IMG_FILE=''
+	fi
+}
+
+# this func will download box art if possible, or show the puppy arcade splash if not
+get_rom_boxart(){
+	#find the local box art image (if any)
+	[ -d "/usr/share/paloader/romlists/boxart/${SYSTEM}" ] && IMG_FILE="`find /usr/share/paloader/romlists/boxart/${SYSTEM}/ -iname \"$romname.*\" | head -1`" || IMG_FILE=''
+
+	#make sure we're using a real image, or else remove it and get it from online
+	if [ ! -s "$IMG_FILE" -o "`file "$IMG_FILE" | grep -F 'image data'`" = "" ];then
+		rm "${IMG_FILE//.jpg/.png}" &>/dev/null
+		rm "${IMG_FILE}" &>/dev/null
+		IMG_FILE=''
+	fi
+	
+	#get image from thegamesdb.net .. we'll need the rom id to do this
+	if [ ! -f "$IMG_FILE" -a "$romname" != "" -a -f "/usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt" ];then
+		
+		# online boxart scraping here, no local boxart for this rom was found
+		if [ -f /usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt ];then
+			romid="`grep -i -m1 \"^$romname\" \"/usr/share/paloader/romlists/pupromdb/${SYSTEM}.txt\" | cut -f2 -d'|'`"
+			IMG_FILE=/usr/share/paloader/romlists/boxart/default.jpg
+		else
+			romid=''
+			IMG_FILE=''
+		fi
+		
+		# the rom must have a gamesdb.net ID or we cant get any box art
+		if [ "$romid" != "" -a "$romid" != "NOID" ];then
+			
+			#make the required dirs
+			mkdir -p /tmp/paloader
+			mkdir -p /usr/share/paloader/romlists/boxart/$SYSTEM/
+			
+			# set the filename of the file to download
+			export IMG_FILE="/usr/share/paloader/romlists/boxart/$SYSTEM/${romname}.jpg"
+			
+			#show splash while downloading... but only we we are suppsed to be downloading...
+			# if splash is true, we're downloading box art for a single rom .. so that setting must be enabled.. 
+			if [ "$DL_SPLASH" = true ] && [ "$ROM_BOXART_DL" = "one" -o "$ROM_BOXART_DL" = "both" ];then
+				#downloading splash
+				gtkdialog-splash -icon /usr/share/doc/puppylogo48.png -placement center -close box -text " Downloading boxart... " & 
+				SPLPID=$!
+			fi
+			
+			#we will either download all boxart in a dir, per rom, both, or none ... 
+			# so, do some checks, only download if we are supposed to  
+			DO_DOWNLOAD=false
+			#if splash is true,  we're not loading all roms in the dir, weve clicked on a single rom
+			[  "$DL_SPLASH" = true ] && [ "$ROM_BOXART_DL" = "both" -o "$ROM_BOXART_DL" = "one" ] && DO_DOWNLOAD=true
+			#if splash is false, we loading all roms at once .. 
+			[  "$DL_SPLASH" = false ] && [ "$ROM_BOXART_DL" = "both" -o "$ROM_BOXART_DL" = "all" ] && DO_DOWNLOAD=true
+			
+			#download the file .. use loops, could be various URLs
+			[ "$DO_DOWNLOAD" = true ] && download_rom_boxart
+			
+			#kill splash
+			kill $SPLPID &>/dev/null
+			
+			# if no image is found now, set as the default puppy arcade image
+			if [ ! -f "$IMG_FILE" -o ! -s "$IMG_FILE" ];then
+				rm "${IMG_FILE//.jpg/.png}" &>/dev/null
+				rm "${IMG_FILE}" &>/dev/null
+				export IMG_FILE=/usr/share/paloader/romlists/boxart/default.jpg
+			fi
+		
+		fi #end if id was found
+
+	fi #end if boxart exists
+	
+	if [ ! -f "$IMG_FILE" ];then
+			# if no image is found now, set as the default puppy arcade image
+			export IMG_FILE=/usr/share/paloader/romlists/boxart/default.jpg
+	fi
+
+}

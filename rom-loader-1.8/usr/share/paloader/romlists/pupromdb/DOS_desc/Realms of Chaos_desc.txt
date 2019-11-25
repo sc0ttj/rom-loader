@@ -1,0 +1,7 @@
+Realms of Chaos is one of the many action 3D Realms made back in the days they called themselves Apogee.
+
+Endrick, the warrior, and Elandra, the sorceress, have to travel through 26 levels, split into 3 'episodes' to find the source of what's corrupting the land of Mysteria. Endrick uses his sword fight enemies in close combat, and Elandra uses a supply of gems to blast them with fireballs from a distance.
+
+You can switch between characters at any time, but they both share their own health bars, and if one dies, you'll still need to restart the level.
+
+http://www.mobygames.com/game/dos/realms-of-chaos

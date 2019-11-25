@@ -1,0 +1,38 @@
+The citizens of Granseal are hard at work. Inside the castle grounds, the centaurs concentrate on jousting and target practice while the spellcasters compare teleportation and healing spells. Granseal isn't at war, but there has been trouble with monsters on the outskirts of the kingdom, and the king has ordered troops to sweep the area and drive the creatures away.
+
+All notice the thunderclouds that gather above the castle. Not only is rain unusual for the season, but the storm does not look to be an ordinary one.
+
+The storm is a harbinger of coming events - events which will change Granseal and its neighboring kingdoms forever. An ancient evil has broken free, and is spreading over the land of Rune, devastating all that it touches. Is there anyone, or anything, that can stop it? Start the adventure and find out!
+
+--From the Genesis Shining Force 2 instruction manual.
+
+Overview:
+
+In this installment of the Shining Force series, you must once again save the land of Rune from an ancient and terrible curse which threatens to spread across the land and swallow all in its path with terror and darkness!
+
+This is an awesome game! In most ways it's an update of the first Shining Force. Game-play is very similar, but you have a whole new range of cool characters, classes, weapons, spells, and items. Also the plot is much better, not as linear as the original, plus of course it's longer and much more involved and interesting. The graphics and sounds are new and improved as well, to awesome effect. I suggest you start at the beginning and play the entire series! Have Fun!
+
+Controls:
+
+A Button: Open Menus, Speed Up Messages
+B Button: Cancel Selection, Speed Messages, Character Cursor in battle
+C Button: Open Menus, Select, Talk, Search
+Start Button: Skip Opening, Start Game
+
+Hints:  
+
+- Rename Characters -
+Generally you can only name the main character as the hero of these types of game, but in Shining Force II you can name all the characters. After you name the main character, hold the Start button as you press A to select 'End". This will bring up the next character, and you can now name them all.
+
+- Fast Levels -
+This is especially easy for Priests and healing types. Use Healing Herbs or cast healing spells on yourself, whether or not you need the healing. You will always get a good amount of experience for this. For other characters, there are items you can use to emulate certain spells, which will also give big XP when you use them.
+
+- Search Everywhere!! -
+There are many items hidden in various places throughout the world. Anything that looks suspicious, anywhere that there is a small space, behind other objects, etc. You get the point. Everywhere!
+
+http://www.consoleclassix.com/genesis/shining_force_2.html
+This hack makes the monsters much stronger, and improves the weaker force members to better balance the team. Many members have new spells and abilities. Most monsters have double HP, 10% more attack and 10% more defense. Boss monsters are much harder. A comprehensive list of changes is included in the readme file.
+
+Version 1.01 (released 6/30/2008) further improves the Zeon battle. It is compatible with saves from previous versions, provided those saves weren't made during the Zeon battle.
+
+http://www.romhacking.net/hacks/409/

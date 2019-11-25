@@ -13,11 +13,11 @@ NeoGeo CD, NES/Famicom, PC Engine/TurboGrafix, PC-FX, PlayStation, PSP, ScummVM,
 SNES, Wonderswan, Virtual Boy, ZX Spectrum (16k, 48k, 128k, +2, +2A, +3) and
 more!_
 
-Rom-Loader is just a bunch of shell scripts. It should work on any architecture.
+![Rom-Loader interface](screenshots/1_main_menu.png)
+
+**Rom-Loader** is just a bunch of shell scripts. It should work on any architecture.
 
 Made for [Puppy Linux](http://puppylinux.com). Thanks to [zigbert](https://github.com/zigbert) and many others...
-
-![Rom-Loader interface](1_main_menu.png)
 
 ## Requirements
 
@@ -38,7 +38,7 @@ If installed, Rom-Loader can use any of the following emulators:
 
 - [AdvMAME](https://www.advancemame.it/) - Multiple arcades systems
 - [Atari800](https://atari800.github.io/) - Atari 8-bit and 5200
-- [Atari++]http://www.xl-project.com/() - Atari 400, 800, 400XL, 800XL, 130XE, 5200
+- [Atari++](http://www.xl-project.com/) - Atari 400, 800, 400XL, 800XL, 130XE, 5200
 - [Basilisk](https://basilisk.cebix.net/) - Apple Mac
 - [CPCEmu](http://www.cpc-emu.org/) - Amstrad CPC
 - [Desmume](http://desmume.org) - Nintendo DS
@@ -58,7 +58,7 @@ If installed, Rom-Loader can use any of the following emulators:
 - [iNES](https://fms.komkon.org/iNES/) - Nintendo Entertainment System (NES)
 - [Kega Fusion](https://www.carpeludum.com/kega-fusion/) - SEGA Master System, Game Gear, Genesis/Megadrive, SegaCD/MegaCD, 32X, others
 - [Mupen64plus](https://mupen64plus.org/) - Nintendo N64
-- [Mednafen](https://mednafen.github.io/) - SNES, PlayStation, NeoGeo, Gameboy, Gameboy Color (GBC), Gameboy Advance (GBA), PC Engine, SEGA Saturn, others
+- [Mednafen](https://mednafen.github.io/) - Genesis, SNES, PSX, Gameboy Color and Advance, PC Engine, SEGA Saturn, others
 - [M.A.M.E](https://www.mamedev.org/) - Multiple arcades systems
 - [PCSXr](https://wiki.archlinux.org/index.php/PCSX-Reloaded) - PlayStation (PSX)
 - [PCSX2](https://pcsx2.net/)- PlayStation2 (PS2)
@@ -126,25 +126,25 @@ Options
 
 ### Main menu
 
-![Rom-Loader interface](1_main_menu.png)
+![Rom-Loader interface](screenshots/1_main_menu.png)
 
 ### Browsing your ROMs
 
-![Browsing your ROMs](2_rom_browsing.png)
+![Browsing your ROMs](screenshots/2_rom_browsing.png)
 
 ### Settings menu
 
 For each support system, you can choose which emulator in the Rom-Loader `Settings` tab:
 
-![Choose your preferred emulators](3_settings_1.png)
+![Choose your preferred emulators](screenshots/3_settings_1.png)
 
 Setup joypads even for emulators that don't support them:
 
-![Setup joypads even for emulators that don't support them!](3_settings_2.png)
+![Setup joypads even for emulators that don't support them!](screenshots/3_settings_2.png)
 
 Rom-Loader also offers easy access to emulator configs:
 
-![Easy access to emualtor configs](3_settings_3.png)
+![Easy access to emulator configs](screenshots/3_settings_3.png)
 
 ## Fullscreen setup
 

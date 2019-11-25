@@ -45,11 +45,11 @@ If installed, Rom-Loader can use any of the following emulators:
 - [Dega](https://segaretro.org/Dega) - SEGA Genesis/MegaDrive
 - [Dgen](https://dgen.sourceforge.net/) - SEGA Genesis/MegaDrive
 - [DOSBox](http://www.dosbox.com) - DOS
-- [E-UAE](https://www.rcdrummond.net/uae/) - Atari systems
+- [E-UAE](https://www.rcdrummond.net/uae/) - Amiga systems
 - [ePSXe](https://www.epsxe.com) - PlayStation (PSX)
 - [FCEUX](http://www.fceux.com/web/home.html) - Nintendo Entertainment System (NES)
 - [Frodo](https://frodo.cebix.net) - Commodore64
-- [FS-UAE](https://fs-uae.net/) - Atari A500, A500+, A600, A1200, A1000, A3000 and A4000 models
+- [FS-UAE](https://fs-uae.net/) - Amiga A500, A500+, A600, A1200, A1000, A3000 and A4000 models
 - [Gens/GenGS](https://segaretro.org/Gens/GS) - SEGA Master System, Genesis/MegaDrive, 32X
 - [GnGeo](https://github.com/linuxlinks/gngeo) - NeoGeo
 - [GxMAME](http://gxmame.sourceforge.net/) - Multiple arcades systems
